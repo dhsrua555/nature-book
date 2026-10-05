@@ -1,5 +1,6 @@
 <!doctype html>
-<!-- 좁은 화면 미리보기: tools/frame.html?w=390&h=844#/aves/contents (스크린숏용) -->
+<!-- 좁은 화면 미리보기: tools/frame.html?w=390&h=844#/aves/contents (스크린숏용)
+     &click=toc 처럼 주면 다 읽은 뒤 그 id 의 단추를 누른 모습을 찍는다 -->
 <html><head><meta charset="utf-8"><title>frame</title></head>
 <body style="margin:0;background:#000">
 <script>
@@ -7,6 +8,7 @@
   const f = document.createElement("iframe");
   f.style.cssText = `border:0;display:block;width:${q.get("w") || 390}px;height:${q.get("h") || 844}px`;
   f.src = "../index.html" + (q.get("q") ? "?" + q.get("q") : "") + location.hash;
+  if (q.get("click")) f.onload = () => setTimeout(() => f.contentDocument.getElementById(q.get("click"))?.click(), 3000);
   document.body.appendChild(f);
 </script>
 </body></html>

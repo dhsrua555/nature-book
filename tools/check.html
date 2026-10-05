@@ -106,6 +106,32 @@ async function sweep(name, frame) {
   const after = await B.stepPos(before, 1);
   if (S.pos.s !== after.s || S.pos.v !== after.v) { turnFail++; log(`  밀어 넘기기 실패 (${JSON.stringify(before)} → ${JSON.stringify(S.pos)})`); }
   if (doc.querySelector(".flip")) { turnFail++; log("  밀기 뒤 남은 장"); }
+  // 목·과 바로 가기: 종 쪽에서 펼치면 그 목·과가 표시되고, 다른 과를 누르면 그 과로 넘어간다
+  let jumpFail = 0;
+  const jfail = m => { jumpFail++; log("  바로 가기: " + m); };
+  const sp = S.nodes.get("falco-subbuteo");
+  B.render(await B.posOfKey(sp.id));
+  const pn = doc.getElementById("jump");
+  doc.getElementById("toc").click();
+  if (pn.hidden) jfail("열리지 않음");
+  const cur = [...pn.querySelectorAll("a[aria-current]")].map(a => a.dataset.id).join(",");
+  if (cur !== `${sp.parent.parent.id},${sp.parent.id}`) jfail(`지금 목·과 표시 ${cur}`);
+  const pr = pn.getBoundingClientRect(), fr = doc.getElementById("foot").getBoundingClientRect();
+  if (pr.left < 0 || pr.right > w.innerWidth + 1 || pr.bottom > fr.top + 1) jfail(`화면 밖 (${Math.round(pr.left)},${Math.round(pr.right)},${Math.round(pr.bottom)} / 꼬리말 ${Math.round(fr.top)})`);
+  const curLi = pn.querySelector(`.j-list > li[data-id="${sp.parent.parent.id}"]`), jl = pn.querySelector(".j-list");
+  if (Math.abs(curLi.getBoundingClientRect().top - jl.getBoundingClientRect().top) > 12 && jl.scrollTop < jl.scrollHeight - jl.clientHeight - 2) jfail("지금 목이 맨 위에 오지 않음");
+  for (const a of pn.querySelectorAll('a[href^="#/"]')) {
+    const key = decodeURIComponent(a.getAttribute("href")).replace(/^#\/[^/]*\/?/, "");
+    if (!secKeys.has(key)) jfail(`깨진 링크 ${key}`);
+  }
+  const fam = S.book.tree[0].children[0];
+  pn.querySelector(`a[data-id="${fam.id}"]`).click();
+  await wait(60);
+  for (let i = 0; i < 80 && S.busy; i++) await wait(25);
+  const fp = await B.posOfKey(fam.id);
+  if (S.pos.s !== fp.s || S.pos.v !== fp.v) jfail(`${fam.id} 로 넘어가지 않음 (${keyAt()})`);
+  if (!pn.hidden) jfail("넘어간 뒤에도 열려 있음");
+  turnFail += jumpFail;
   log(`  화면 ${views} · 넘친 쪽 ${overflow} · 깨진 링크 ${badLinks} · 빠진 그림 ${badImgs} · TODO 노출 ${todoText} · 넘김 실패 ${turnFail} · 스크립트 오류 ${errs.length}`);
   errs.forEach(e => log("  오류: " + e));
   return overflow + badLinks + badImgs + turnFail + todoText + errs.length;

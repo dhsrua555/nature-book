@@ -868,6 +868,49 @@ function setupSearch() {
   document.addEventListener("pointerdown", e => { if (!e.target.closest("#find,#find-btn")) { if (q.value) { q.value = ""; draw(); } document.body.classList.remove("finding"); } });
 }
 
+/* ───────────────────────── 목·과 바로 가기 ─────────────────────────
+   머리말의 '차례'를 누르면 목과 과를 한눈에 펼친다. 지금 보는 목이 맨 위에 오고, 지금 목·과에 표시가 붙는다. */
+function setupJump() {
+  const pn = $("jump"), btn = $("toc");
+  pn.innerHTML = `<ol class="j-list">${S.book.tree.map(o => `<li data-id="${o.id}">
+      <a class="j-ord" href="${href(o.id)}" data-id="${o.id}"><b>${esc(o.ko)}</b> <i>${esc(o.sci)}</i><span class="pl">Pl. ${plateLabel(o)}</span></a>
+      <ul class="j-fams">${o.children.map(f => `<li><a href="${href(f.id)}" data-id="${f.id}">${esc(f.ko)}<span class="n">${countSp(f)}</span></a></li>`).join("")}</ul>
+    </li>`).join("")}</ol>
+    <p class="j-foot"><a href="${href("contents")}">차례 쪽 펼치기</a><a href="${href("index")}">가나다순 찾아보기</a></p>`;
+  const links = () => [...pn.querySelectorAll("a")];
+  const open = on => {
+    if (on === !pn.hidden) return;
+    pn.hidden = !on;
+    btn.setAttribute("aria-expanded", String(on));
+    if (!on) return;
+    document.body.classList.remove("finding");
+    const n = S.sections[S.pos.s].node;
+    const fam = n?.rank === "species" ? n.parent : n?.rank === "family" ? n : null;
+    const ord = fam ? fam.parent : n?.rank === "order" ? n : null;
+    for (const a of pn.querySelectorAll("a[data-id]")) {
+      if (a.dataset.id === ord?.id || a.dataset.id === fam?.id) a.setAttribute("aria-current", "true");
+      else a.removeAttribute("aria-current");
+    }
+    const list = pn.querySelector(".j-list");
+    const li = ord && list.querySelector(`li[data-id="${ord.id}"]`);
+    list.scrollTop = li ? li.offsetTop - 4 : 0;
+    (pn.querySelector(`a[data-id="${(fam || ord)?.id}"]`) || links()[0]).focus({ preventScroll: true });
+  };
+  btn.addEventListener("click", () => open(pn.hidden));
+  pn.addEventListener("click", e => { if (e.target.closest("a")) setTimeout(() => open(false), 0); });
+  pn.addEventListener("keydown", e => {
+    const all = links(), i = all.indexOf(document.activeElement);
+    const to = { ArrowDown: i + 1, ArrowRight: i + 1, ArrowUp: i - 1, ArrowLeft: i - 1, Home: 0, End: all.length - 1 }[e.key];
+    if (to == null) return;
+    e.preventDefault(); e.stopPropagation();
+    all[Math.max(0, Math.min(all.length - 1, to))].focus();
+  });
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !pn.hidden) { open(false); btn.focus(); } });
+  document.addEventListener("pointerdown", e => { if (!e.target.closest("#jump,#toc")) open(false); });
+  document.addEventListener("focusin", e => { if (!e.target.closest("#jump,#toc")) open(false); });
+  addEventListener("hashchange", () => open(false));
+}
+
 /* ───────────────────────── 검수 모드 ─────────────────────────
    ?edit 로 열면 동정 도해를 눌러 번호 위치(at)·글자 위치(label)를, 도판을 눌러 둥근 그림의 초점(focus)을 정한다.
    tools/serve.py 로 띄웠으면 '저장'이 종 파일을 바로 고쳐 쓴다. */
@@ -968,7 +1011,7 @@ async function start() {
     const vol = lib.volumes.find(v => v.id === want) || lib.volumes[0];
     S.vid = vol.id;
     indexBook(await getJSON(vol.book));
-    $("toc").href = href("contents");
+    setupJump();
     $("idx").href = href("index");
     $("home").href = href("");
     await Promise.race([document.fonts?.ready, new Promise(r => setTimeout(r, 2500))]);

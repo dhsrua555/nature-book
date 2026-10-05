@@ -24,7 +24,7 @@
   <div class="top-r">
     <span class="here" id="here"></span>
     <nav class="tools" aria-label="책 안내">
-      <a id="toc" href="#/aves/contents">차례</a>
+      <button type="button" id="toc" class="toc-btn" aria-expanded="false" aria-controls="jump">차례<svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2.2 3.8 5 6.6l2.8-2.8"/></svg></button>
       <a id="idx" href="#/aves/index">찾아보기</a>
       <button type="button" id="find-btn" class="find-btn" aria-label="새 이름 찾기"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M12.6 12.6 17 17"/></svg></button>
       <form class="find" id="find" role="search">
@@ -33,6 +33,7 @@
       </form>
     </nav>
   </div>
+  <nav class="jump" id="jump" aria-label="목·과 바로 가기" hidden></nav>
 </header>
 <main class="book" id="book" aria-roledescription="책">
   <div class="slot left" id="slot-left"></div>
