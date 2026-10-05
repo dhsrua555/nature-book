@@ -621,6 +621,7 @@ function nameOf(p) {
 function chrome() {
   const v = viewAt(S.pos), sec = S.sections[S.pos.s];
   const lay = layoutNow(S.pos.s);
+  if (!lay) return; // 다시 엮는 중: 끝나면 다시 불린다
   const main = v.find(p => p && p.kind !== "blank") || v[0];
   const node = sec.node;
   // 머리말: 왼쪽은 갈래(차례 › 목 › 과), 오른쪽은 지금 보는 이름
@@ -1070,7 +1071,7 @@ async function start() {
   }, true);
   setupSearch();
   let ft;
-  const later = () => { clearTimeout(ft); ft = setTimeout(() => (S.busy || drag.st ? later() : relayout()), 250); };
+  const later = () => { clearTimeout(ft); ft = setTimeout(() => (S.noAutoRelayout ? 0 : S.busy || drag.st ? later() : relayout()), 250); };
   document.fonts?.addEventListener?.("loadingdone", () => { if (!S.noAutoRelayout) later(); });
   let rt;
   addEventListener("resize", () => {

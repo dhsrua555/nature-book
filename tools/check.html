@@ -49,6 +49,7 @@ async function sweep(name, frame) {
     "600 16px 'Noto Serif KR'", "700 16px 'Noto Serif KR'", "italic 400 16px 'Source Serif 4'", "400 16px 'Source Serif 4'"];
   await Promise.all(faces.map(f => doc.fonts.load(f, text).catch(() => {})));
   await doc.fonts.ready;
+  for (let i = 0; i < 200 && S.busy; i++) await wait(25); // 앞서 예약된 자동 다시 엮기가 끝나기를 기다린다
   await B.relayout();
   const limit = +(Q.get("limit") || S.sections.length);
   log(`== ${name}: ${S.mode} ${S.W}×${S.H}, 마디 ${S.sections.length}, 종 ${S.species.length}, 목록 한 쪽 ${S.cap.list}줄, 찾아보기 ${S.cap.index}개`);
