@@ -590,8 +590,25 @@ function makePage(p, side) {
   el.innerHTML = R[p.kind](p, side);
   for (const img of el.querySelectorAll("img")) img.addEventListener("error", () => imgFallback(img), { once: true });
   if (p.kind === "plate" || p.kind === "idplate") el.setAttribute("aria-label", `${p.node.ko} ${p.kind === "plate" ? "도판" : "동정 도해"}`);
+  const fr = el.querySelector(".idframe");
+  if (fr?.querySelector(".co-label")) fitObserver.observe(fr);
   return el;
 }
+
+/* 동정 도해의 이름 글자가 쪽 밖으로 잘리면(좁은 화면) 글자와 지시선을 접고 번호만 둔다 — 이름은 동정 포인트 목록에 있다 */
+const fitObserver = new ResizeObserver(entries => {
+  for (const { target: fr } of entries) {
+    const pg = fr.closest(".page");
+    if (!pg || !fr.isConnected || !fr.offsetWidth) continue;
+    fr.classList.remove("bare");
+    const r = pg.getBoundingClientRect();
+    const out = [...fr.querySelectorAll(".co-label")].some(l => {
+      const b = l.getBoundingClientRect();
+      return b.left < r.left + 2 || b.right > r.right - 2 || b.top < r.top + 2 || b.bottom > r.bottom - 2;
+    });
+    fr.classList.toggle("bare", out);
+  }
+});
 const blankPage = side => makePage({ kind: "blank", key: "blank" }, side);
 
 /* ───────────────────────── 펼치기 ───────────────────────── */
