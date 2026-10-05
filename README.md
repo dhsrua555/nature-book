@@ -117,7 +117,7 @@ uv run tools/illustrate.py make falco-subbuteo --force       # 다시 그리기
 - 그림이 없는 종만 그린다. 원본 PNG는 `art/raw/` 에 날짜를 붙여 남고(git 제외), 웹용은 가로 1000px webp 로 `img/aves/` 에 들어간다. 끝나면 `build.py` 가 저절로 돈다.
 - 톤은 `tools/style.toml` 한 곳에서 관리한다. 마음에 든 그림을 `art/ref/` 에 두고 `[scene] ref = ["art/ref/…png"]` 처럼 적어 두면 매번 기준 그림으로 함께 넘긴다.
 - 동정 도해에는 글자를 넣지 않는다(이미지 모델은 글자·사실을 틀리게 쓸 수 있다). 번호와 설명은 종 파일의 `points` 에서 웹이 얹는다.
-- 자동 커밋은 없다. 그린 뒤 미리보기로 살펴보고 직접 커밋한다.
+- 자동 커밋은 없다. 그린 뒤 `img/aves/*.webp` 와 `data/aves/book.json` 을 함께 커밋한다.
 
 ### GPT(OpenAI 이미지 API) 연결
 
@@ -171,8 +171,9 @@ ChatGPT 데스크톱 앱의 Work는 이 폴더에서 명령을 실행하고 앱 
 정적 파일 그대로 올린다. 저장소의 Settings → Pages → Deploy from a branch → `main` / `(root)`.
 `art/`, `draft/`, `cache/`, `.env` 는 올라가지 않는다. GitHub Actions 는 쓰지 않는다.
 
-그림을 검수해 커밋할 때는 `img/aves/*.webp` 와 함께 `data/aves/book.json` 도 커밋한다(그림이 있다는 표시가 book.json 에 있다).
-그림 없이 코드만 올릴 때는 `uv run tools/build.py --tracked` 로 커밋된 그림만 반영한 book.json 을 만든 뒤 올리고, 다시 `uv run tools/build.py` 로 되돌린다.
+그림을 올릴 때는 `img/aves/*.webp` 와 함께 `data/aves/book.json` 도 커밋한다(그림이 있다는 표시가 book.json 에 있다).
+(2026-10-05부터 그린 그림은 따로 검수를 기다리지 않고 올린다. 마음에 들지 않는 그림은 지우고 다시 그린다.)
+그림 일부만 빼고 올려야 할 때는 `uv run tools/build.py --tracked` 로 커밋된 그림만 반영한 book.json 을 만든 뒤 올리고, 다시 `uv run tools/build.py` 로 되돌린다.
 
 ## 다른 생물군으로 넓히기
 
