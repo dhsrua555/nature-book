@@ -32,27 +32,75 @@
   "points": [
     {
       "ko": "눈 둘레의 붉은 맨살(수컷)",
-      "en": "male: bare red facial skin around the eye"
+      "en": "male: bare red facial skin around the eye",
+      "at": [
+        0.121,
+        0.099
+      ],
+      "label": [
+        0.177,
+        0.032
+      ]
     },
     {
       "ko": "금속광택의 짙은 녹색 머리·목(수컷)",
-      "en": "male: glossy dark green head and neck"
+      "en": "male: glossy dark green head and neck",
+      "at": [
+        0.24,
+        0.133
+      ],
+      "label": [
+        0.306,
+        0.101
+      ]
     },
     {
       "ko": "선명한 흰 목테(수컷)",
-      "en": "male: bold white neck ring"
+      "en": "male: bold white neck ring",
+      "at": [
+        0.275,
+        0.195
+      ],
+      "label": [
+        0.387,
+        0.193
+      ]
     },
     {
       "ko": "반점 흩어진 갈색·황갈색 몸(수컷)",
-      "en": "male: brown and buff body spotted dark brown and black"
+      "en": "male: brown and buff body spotted dark brown and black",
+      "at": [
+        0.483,
+        0.262
+      ],
+      "label": [
+        0.632,
+        0.259
+      ]
     },
     {
       "ko": "검은 얼룩의 수수한 황갈색(암컷)",
-      "en": "female: plain buff-brown mottled black"
+      "en": "female: plain buff-brown mottled black",
+      "at": [
+        0.361,
+        0.598
+      ],
+      "label": [
+        0.533,
+        0.593
+      ]
     },
     {
       "ko": "길고 뾰족한 꼬리",
-      "en": "long pointed tail"
+      "en": "long pointed tail",
+      "at": [
+        0.771,
+        0.391
+      ],
+      "label": [
+        0.766,
+        0.455
+      ]
     }
   ],
   "sexes": {
@@ -102,7 +150,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Phasianus colchicus",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "2000년 이후 번식 확인"
 }

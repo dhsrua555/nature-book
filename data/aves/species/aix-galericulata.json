@@ -39,23 +39,63 @@
   "points": [
     {
       "ko": "붉은 부리, 끝은 흰색",
-      "en": "red bill with a whitish tip"
+      "en": "red bill with a whitish tip",
+      "at": [
+        0.826,
+        0.113
+      ],
+      "label": [
+        0.877,
+        0.081
+      ]
     },
     {
       "ko": "눈 위 넓은 흰 반달무늬",
-      "en": "broad white crescent above the eye"
+      "en": "broad white crescent above the eye",
+      "at": [
+        0.655,
+        0.035
+      ],
+      "label": [
+        0.733,
+        0.008
+      ]
     },
     {
       "ko": "등 위로 선 주황 돛깃",
-      "en": "upright orange sail feathers"
+      "en": "upright orange sail feathers",
+      "at": [
+        0.306,
+        0.096
+      ],
+      "label": [
+        0.136,
+        0.055
+      ]
     },
     {
       "ko": "보랏빛 가슴의 흰 세로줄 둘",
-      "en": "two white bars on the purple breast"
+      "en": "two white bars on the purple breast",
+      "at": [
+        0.829,
+        0.214
+      ],
+      "label": [
+        0.917,
+        0.264
+      ]
     },
     {
       "ko": "암컷: 흰 눈테와 눈 뒤 흰 선",
-      "en": "female: white eye-ring and stripe behind the eye"
+      "en": "female: white eye-ring and stripe behind the eye",
+      "at": [
+        0.832,
+        0.404
+      ],
+      "label": [
+        0.948,
+        0.397
+      ]
     }
   ],
   "sexes": {
@@ -130,7 +170,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Aix galericulata",
-    "rarity": 3.0
+    "rarity": 3
   },
   "breeding": "2000년 이후 번식 확인"
 }

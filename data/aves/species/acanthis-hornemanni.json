@@ -19,15 +19,39 @@
   "points": [
     {
       "ko": "작은 부리",
-      "en": "small bill"
+      "en": "small bill",
+      "at": [
+        0.844,
+        0.143
+      ],
+      "label": [
+        0.978,
+        0.119
+      ]
     },
     {
       "ko": "흰 아랫배",
-      "en": "white lower belly"
+      "en": "white lower belly",
+      "at": [
+        0.685,
+        0.342
+      ],
+      "label": [
+        0.794,
+        0.35
+      ]
     },
     {
       "ko": "흰 허리",
-      "en": "white rump"
+      "en": "white rump",
+      "at": [
+        0.311,
+        0.766
+      ],
+      "label": [
+        0.195,
+        0.77
+      ]
     }
   ],
   "sexes": {

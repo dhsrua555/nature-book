@@ -596,19 +596,18 @@ function makePage(p, side) {
 }
 
 /* 동정 도해의 이름 글자가 쪽 밖으로 잘리면(좁은 화면) 글자와 지시선을 접고 번호만 둔다 — 이름은 동정 포인트 목록에 있다 */
-const fitObserver = new ResizeObserver(entries => {
-  for (const { target: fr } of entries) {
-    const pg = fr.closest(".page");
-    if (!pg || !fr.isConnected || !fr.offsetWidth) continue;
-    fr.classList.remove("bare");
-    const r = pg.getBoundingClientRect();
-    const out = [...fr.querySelectorAll(".co-label")].some(l => {
-      const b = l.getBoundingClientRect();
-      return b.left < r.left + 2 || b.right > r.right - 2 || b.top < r.top + 2 || b.bottom > r.bottom - 2;
-    });
-    fr.classList.toggle("bare", out);
-  }
-});
+function fitCallouts(fr) {
+  const pg = fr.closest(".page");
+  if (!pg || !fr.isConnected || !fr.offsetWidth) return;
+  fr.classList.remove("bare");
+  const r = pg.getBoundingClientRect();
+  const out = [...fr.querySelectorAll(".co-label")].some(l => {
+    const b = l.getBoundingClientRect();
+    return b.left < r.left + 2 || b.right > r.right - 2 || b.top < r.top + 2 || b.bottom > r.bottom - 2;
+  });
+  fr.classList.toggle("bare", out);
+}
+const fitObserver = new ResizeObserver(entries => entries.forEach(e => fitCallouts(e.target)));
 const blankPage = side => makePage({ kind: "blank", key: "blank" }, side);
 
 /* ───────────────────────── 펼치기 ───────────────────────── */
@@ -1097,5 +1096,5 @@ async function start() {
   });
 }
 
-if (new URLSearchParams(location.search).has("test")) window.__book = { S, render, turnTo, layoutOf, stepPos, posOfKey, keyOfPos, viewAt, loadDetail, relayout };
+if (new URLSearchParams(location.search).has("test")) window.__book = { S, render, turnTo, layoutOf, stepPos, posOfKey, keyOfPos, viewAt, loadDetail, relayout, fitCallouts };
 start();

@@ -22,27 +22,75 @@
   "points": [
     {
       "ko": "연한 갈색 이마",
-      "en": "pale brown forehead"
+      "en": "pale brown forehead",
+      "at": [
+        0.799,
+        0.571
+      ],
+      "label": [
+        0.862,
+        0.564
+      ]
     },
     {
       "ko": "온몸 암갈색",
-      "en": "dark brown plumage overall"
+      "en": "dark brown plumage overall",
+      "at": [
+        0.508,
+        0.615
+      ],
+      "label": [
+        0.377,
+        0.586
+      ]
     },
     {
       "ko": "연한 갈색 날개덮깃",
-      "en": "pale brown wing coverts"
+      "en": "pale brown wing coverts",
+      "at": [
+        0.68,
+        0.214
+      ],
+      "label": [
+        0.784,
+        0.187
+      ]
     },
     {
       "ko": "검은 날개깃",
-      "en": "black flight feathers"
+      "en": "black flight feathers",
+      "at": [
+        0.248,
+        0.251
+      ],
+      "label": [
+        0.147,
+        0.252
+      ]
     },
     {
       "ko": "검은 제비꼬리 모양 꼬리",
-      "en": "forked black tail"
+      "en": "forked black tail",
+      "at": [
+        0.402,
+        0.466
+      ],
+      "label": [
+        0.483,
+        0.51
+      ]
     },
     {
       "ko": "검은 부리와 다리",
-      "en": "black bill and legs"
+      "en": "black bill and legs",
+      "at": [
+        0.799,
+        0.702
+      ],
+      "label": [
+        0.907,
+        0.726
+      ]
     }
   ],
   "sexes": {
@@ -88,7 +136,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Oceanodroma monorhis",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "2000년 이후 번식 확인"
 }

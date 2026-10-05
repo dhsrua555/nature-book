@@ -32,27 +32,75 @@
   "points": [
     {
       "ko": "광택 나는 녹색 머리",
-      "en": "glossy green head"
+      "en": "glossy green head",
+      "at": [
+        0.379,
+        0.04
+      ],
+      "label": [
+        0.412,
+        0.006
+      ]
     },
     {
       "ko": "가는 흰 목테",
-      "en": "narrow white neck ring"
+      "en": "narrow white neck ring",
+      "at": [
+        0.253,
+        0.156
+      ],
+      "label": [
+        0.2,
+        0.175
+      ]
     },
     {
       "ko": "수컷의 노란 부리",
-      "en": "yellow bill (male)"
+      "en": "yellow bill (male)",
+      "at": [
+        0.162,
+        0.096
+      ],
+      "label": [
+        0.033,
+        0.035
+      ]
     },
     {
       "ko": "위로 말린 검은 꼬리깃",
-      "en": "black upcurled tail feathers"
+      "en": "black upcurled tail feathers",
+      "at": [
+        0.872,
+        0.156
+      ],
+      "label": [
+        0.923,
+        0.214
+      ]
     },
     {
       "ko": "흰 테 두른 청보라 날개거울",
-      "en": "purple-blue speculum edged white"
+      "en": "purple-blue speculum edged white",
+      "at": [
+        0.596,
+        0.217
+      ],
+      "label": [
+        0.761,
+        0.069
+      ]
     },
     {
       "ko": "암컷: 주황 바탕 검은 무늬 부리",
-      "en": "female: orange bill with dark marks"
+      "en": "female: orange bill with dark marks",
+      "at": [
+        0.144,
+        0.402
+      ],
+      "label": [
+        0.048,
+        0.473
+      ]
     }
   ],
   "sexes": {
@@ -122,7 +170,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Anas platyrhynchos",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "2000년 이후 번식 확인"
 }

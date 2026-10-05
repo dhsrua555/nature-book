@@ -19,27 +19,75 @@
   "points": [
     {
       "ko": "광택 있는 어두운 홍색 정수리",
-      "en": "glossy dark red crown"
+      "en": "glossy dark red crown",
+      "at": [
+        0.695,
+        0.611
+      ],
+      "label": [
+        0.816,
+        0.596
+      ]
     },
     {
       "ko": "검은 부리 주위와 멱",
-      "en": "black around the bill and on the throat"
+      "en": "black around the bill and on the throat",
+      "at": [
+        0.791,
+        0.803
+      ],
+      "label": [
+        0.912,
+        0.827
+      ]
     },
     {
       "ko": "조금 엷은 눈썹",
-      "en": "rather pale supercilium"
+      "en": "rather pale supercilium",
+      "at": [
+        0.308,
+        0.61
+      ],
+      "label": [
+        0.157,
+        0.593
+      ]
     },
     {
       "ko": "뾰족한 어두운 갈색 부리",
-      "en": "pointed dark brown bill"
+      "en": "pointed dark brown bill",
+      "at": [
+        0.842,
+        0.706
+      ],
+      "label": [
+        0.923,
+        0.701
+      ]
     },
     {
       "ko": "어두운 잿빛 황갈색 등",
-      "en": "dark greyish-buff back"
+      "en": "dark greyish-buff back",
+      "at": [
+        0.435,
+        0.207
+      ],
+      "label": [
+        0.326,
+        0.187
+      ]
     },
     {
       "ko": "엷은 색 허리",
-      "en": "pale rump"
+      "en": "pale rump",
+      "at": [
+        0.872,
+        0.362
+      ],
+      "label": [
+        0.973,
+        0.377
+      ]
     }
   ],
   "sexes": {
@@ -85,7 +133,7 @@
     "bs": "0",
     "cat": "1",
     "bk": "Acanthis flammea",
-    "rarity": 5.0
+    "rarity": 5
   },
   "breeding": "번식 기록 없음"
 }

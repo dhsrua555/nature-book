@@ -32,23 +32,63 @@
   "points": [
     {
       "ko": "노란 부리 기부",
-      "en": "yellow base of the bill"
+      "en": "yellow base of the bill",
+      "at": [
+        0.644,
+        0.072
+      ],
+      "label": [
+        0.746,
+        0.082
+      ]
     },
     {
       "ko": "경계가 둥근 흰 뺨",
-      "en": "white cheek patch with a rounded border"
+      "en": "white cheek patch with a rounded border",
+      "at": [
+        0.465,
+        0.015
+      ],
+      "label": [
+        0.366,
+        0.047
+      ]
     },
     {
       "ko": "여름깃 뒷머리·뒷목의 흰 실깃",
-      "en": "breeding: white filamentous plumes on hindcrown and hindneck"
+      "en": "breeding: white filamentous plumes on hindcrown and hindneck",
+      "at": [
+        0.414,
+        0.426
+      ],
+      "label": [
+        0.296,
+        0.429
+      ]
     },
     {
       "ko": "광택 있는 검은 몸",
-      "en": "glossy black plumage"
+      "en": "glossy black plumage",
+      "at": [
+        0.589,
+        0.239
+      ],
+      "label": [
+        0.738,
+        0.237
+      ]
     },
     {
       "ko": "여름깃 다리 위쪽의 흰 반점",
-      "en": "breeding: white thigh patch"
+      "en": "breeding: white thigh patch",
+      "at": [
+        0.556,
+        0.658
+      ],
+      "label": [
+        0.718,
+        0.653
+      ]
     }
   ],
   "sexes": {
@@ -95,7 +135,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Phalacrocorax carbo",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "2000년 이후 번식 확인"
 }

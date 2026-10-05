@@ -38,27 +38,75 @@
   "points": [
     {
       "ko": "등·허리의 선명한 파란 줄",
-      "en": "brilliant azure back and rump"
+      "en": "brilliant azure back and rump",
+      "at": [
+        0.296,
+        0.207
+      ],
+      "label": [
+        0.22,
+        0.209
+      ]
     },
     {
       "ko": "청록색 머리·날개의 푸른 점",
-      "en": "green-blue crown and wings with pale blue spots"
+      "en": "green-blue crown and wings with pale blue spots",
+      "at": [
+        0.67,
+        0.02
+      ],
+      "label": [
+        0.824,
+        0.025
+      ]
     },
     {
       "ko": "눈 앞뒤의 주황색 무늬",
-      "en": "orange patches before and behind eye"
+      "en": "orange patches before and behind eye",
+      "at": [
+        0.412,
+        0.075
+      ],
+      "label": [
+        0.311,
+        0.069
+      ]
     },
     {
       "ko": "흰 멱과 목 옆 흰 무늬",
-      "en": "white throat and neck patch"
+      "en": "white throat and neck patch",
+      "at": [
+        0.67,
+        0.138
+      ],
+      "label": [
+        0.819,
+        0.143
+      ]
     },
     {
       "ko": "주황색 아랫면",
-      "en": "orange underparts"
+      "en": "orange underparts",
+      "at": [
+        0.614,
+        0.232
+      ],
+      "label": [
+        0.806,
+        0.261
+      ]
     },
     {
       "ko": "붉은 다리, 긴 부리",
-      "en": "red legs; long bill"
+      "en": "red legs; long bill",
+      "at": [
+        0.73,
+        0.364
+      ],
+      "label": [
+        0.88,
+        0.365
+      ]
     }
   ],
   "sexes": {
@@ -143,7 +191,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Alcedo atthis",
-    "rarity": 3.0
+    "rarity": 3
   },
   "breeding": "2000년 이후 번식 확인"
 }

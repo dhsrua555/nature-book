@@ -20,27 +20,75 @@
   "points": [
     {
       "ko": "끝에 주황 띠가 있는 검은 부리",
-      "en": "black bill with an orange band near the tip"
+      "en": "black bill with an orange band near the tip",
+      "at": [
+        0.298,
+        0.47
+      ],
+      "label": [
+        0.187,
+        0.514
+      ]
     },
     {
       "ko": "두껍고 짧은 부리",
-      "en": "thick, short, slightly pointed bill"
+      "en": "thick, short, slightly pointed bill",
+      "at": [
+        0.379,
+        0.547
+      ],
+      "label": [
+        0.222,
+        0.594
+      ]
     },
     {
       "ko": "어두운 갈색 머리와 윗면",
-      "en": "dark brown head and upperparts"
+      "en": "dark brown head and upperparts",
+      "at": [
+        0.614,
+        0.407
+      ],
+      "label": [
+        0.735,
+        0.369
+      ]
     },
     {
       "ko": "연한 회갈색 아랫면",
-      "en": "pale grey-brown underparts"
+      "en": "pale grey-brown underparts",
+      "at": [
+        0.483,
+        0.571
+      ],
+      "label": [
+        0.816,
+        0.569
+      ]
     },
     {
       "ko": "흰 꼬리덮깃과 꽁지 가장자리",
-      "en": "white upper- and undertail coverts, white-edged tail"
+      "en": "white upper- and undertail coverts, white-edged tail",
+      "at": [
+        0.632,
+        0.884
+      ],
+      "label": [
+        0.763,
+        0.881
+      ]
     },
     {
       "ko": "주황색 다리",
-      "en": "orange legs"
+      "en": "orange legs",
+      "at": [
+        0.346,
+        0.342
+      ],
+      "label": [
+        0.139,
+        0.305
+      ]
     }
   ],
   "sexes": {
@@ -87,7 +135,7 @@
     "bs": "0",
     "cat": "1",
     "bk": "Anser serrirostris",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "번식 기록 없음"
 }

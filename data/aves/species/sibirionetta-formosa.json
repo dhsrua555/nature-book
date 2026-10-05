@@ -18,27 +18,75 @@
   "points": [
     {
       "ko": "수컷 얼굴의 노랑·초록·검정 무늬",
-      "en": "male: striking yellow, green and black face pattern"
+      "en": "male: striking yellow, green and black face pattern",
+      "at": [
+        0.412,
+        0.18
+      ],
+      "label": [
+        0.48,
+        0.129
+      ]
     },
     {
       "ko": "부리 기부에서 정수리까지 검은색",
-      "en": "male: black from the bill base to the crown"
+      "en": "male: black from the bill base to the crown",
+      "at": [
+        0.22,
+        0.123
+      ],
+      "label": [
+        0.27,
+        0.069
+      ]
     },
     {
       "ko": "가슴 옆의 흰 세로줄",
-      "en": "male: vertical white stripe on the breast side"
+      "en": "male: vertical white stripe on the breast side",
+      "at": [
+        0.298,
+        0.455
+      ],
+      "label": [
+        0.311,
+        0.517
+      ]
     },
     {
       "ko": "길게 늘어진 어깨깃",
-      "en": "male: long drooping scapulars"
+      "en": "male: long drooping scapulars",
+      "at": [
+        0.69,
+        0.438
+      ],
+      "label": [
+        0.789,
+        0.503
+      ]
     },
     {
       "ko": "황갈색 앞가슴과 청회색 옆구리",
-      "en": "male: buff breast, blue-grey flanks"
+      "en": "male: buff breast, blue-grey flanks",
+      "at": [
+        0.124,
+        0.426
+      ],
+      "label": [
+        0.093,
+        0.5
+      ]
     },
     {
       "ko": "검은 아래꼬리덮깃",
-      "en": "male: black undertail coverts"
+      "en": "male: black undertail coverts",
+      "at": [
+        0.842,
+        0.424
+      ],
+      "label": [
+        0.96,
+        0.423
+      ]
     }
   ],
   "sexes": {
@@ -85,7 +133,7 @@
     "bs": "0",
     "cat": "1",
     "bk": "Sibirionetta formosa",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "번식 기록 없음"
 }

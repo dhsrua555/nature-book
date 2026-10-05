@@ -79,7 +79,7 @@ async function sweep(name, frame) {
       // 동정 도해 이름 글자: 쪽 안에 들거나, 안 들면 번호만(bare)
       for (const fr of doc.querySelectorAll("#book .slot:not(.probe) .idframe")) {
         if (!fr.querySelector(".co-label")) continue;
-        for (let k = 0; k < 3; k++) await new Promise(r => w.requestAnimationFrame(() => r()));
+        B.fitCallouts(fr); // 실제 화면에서는 ResizeObserver 가 부른다(헤드리스 가상 시간에서는 늦게 와서 직접 부름)
         if (fr.classList.contains("bare")) continue;
         const r = fr.closest(".page").getBoundingClientRect();
         for (const l of fr.querySelectorAll(".co-label")) {

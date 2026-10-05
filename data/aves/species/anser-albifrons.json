@@ -19,23 +19,63 @@
   "points": [
     {
       "ko": "눈과 부리 사이의 흰색",
-      "en": "white blaze between the eye and the bill"
+      "en": "white blaze between the eye and the bill",
+      "at": [
+        0.771,
+        0.048
+      ],
+      "label": [
+        0.885,
+        0.023
+      ]
     },
     {
       "ko": "어두운 갈색 머리",
-      "en": "dark brown head"
+      "en": "dark brown head",
+      "at": [
+        0.609,
+        0.064
+      ],
+      "label": [
+        0.457,
+        0.043
+      ]
     },
     {
       "ko": "깃 가장자리가 흰 회갈색 윗면",
-      "en": "grey-brown upperparts with white feather edges"
+      "en": "grey-brown upperparts with white feather edges",
+      "at": [
+        0.316,
+        0.396
+      ],
+      "label": [
+        0.124,
+        0.423
+      ]
     },
     {
       "ko": "검은 얼룩이 있는 가슴과 배",
-      "en": "grey-brown to whitish breast and belly with black blotches"
+      "en": "grey-brown to whitish breast and belly with black blotches",
+      "at": [
+        0.728,
+        0.384
+      ],
+      "label": [
+        0.902,
+        0.345
+      ]
     },
     {
       "ko": "살구색 부리와 다리",
-      "en": "pinkish to pale bill and legs"
+      "en": "pinkish to pale bill and legs",
+      "at": [
+        0.842,
+        0.141
+      ],
+      "label": [
+        0.958,
+        0.163
+      ]
     }
   ],
   "sexes": {
@@ -81,7 +121,7 @@
     "bs": "0",
     "cat": "1",
     "bk": "Anser albifrons",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "번식 기록 없음"
 }

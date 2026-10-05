@@ -35,11 +35,27 @@
   "points": [
     {
       "ko": "수컷의 턱밑~멱 검은 반점",
-      "en": "male: black patch from chin to throat"
+      "en": "male: black patch from chin to throat",
+      "at": [
+        0.857,
+        0.156
+      ],
+      "label": [
+        0.965,
+        0.172
+      ]
     },
     {
       "ko": "얼룩무늬가 있는 갈색 몸",
-      "en": "brown plumage mottled all over"
+      "en": "brown plumage mottled all over",
+      "at": [
+        0.521,
+        0.146
+      ],
+      "label": [
+        0.356,
+        0.15
+      ]
     }
   ],
   "sexes": {
@@ -86,7 +102,7 @@
     "bs": "1",
     "cat": "1",
     "bk": "Tetrastes bonasia",
-    "rarity": 1.0
+    "rarity": 1
   },
   "breeding": "2000년 이후 번식 확인"
 }
