@@ -926,10 +926,13 @@ async function relayout() {
   S.busy = true;
   try {
     const keep = keyOfPos(S.pos);
+    const sig = pos => viewAt(pos).map(p => p && `${p.key}:${(p.blocks || []).join(",")}:${(p.items || []).length}`).join("|");
+    const before = sig(S.pos);
     measureCaps();
     S.layouts.clear();
     S.pos = await posOfKey(keep);
-    render(S.pos);
+    // 쪽 나눔이 그대로면 다시 그리지 않는다(그림이 깜빡이지 않게)
+    if (sig(S.pos) !== before) render(S.pos); else chrome();
   } finally { idle(); }
 }
 
