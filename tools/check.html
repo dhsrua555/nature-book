@@ -40,6 +40,16 @@ async function imgsDone(doc) {
 async function sweep(name, frame) {
   const { w, errs } = await boot(frame);
   const B = w.__book, S = B.S, doc = w.document;
+  // 한글 글꼴은 글자 묶음별로 받으므로, 책에 쓰인 글자를 모두 먼저 받아 두고 쪽을 다시 엮은 뒤 점검한다
+  S.noAutoRelayout = true;
+  const details = await Promise.all(S.species.map(s => B.loadDetail(s.id)));
+  const names = [...S.nodes.values()].map(n => `${n.ko}${n.sci}${n.en || ""}${n.desc || ""}`).join("");
+  const text = [...new Set(JSON.stringify(details) + names + JSON.stringify(S.book.labels) + doc.body.innerText + "0123456789")].join("");
+  const faces = ["400 16px 'Pretendard Variable'", "500 16px 'Pretendard Variable'", "600 16px 'Pretendard Variable'", "700 16px 'Pretendard Variable'",
+    "600 16px 'Noto Serif KR'", "700 16px 'Noto Serif KR'", "italic 400 16px 'Source Serif 4'", "400 16px 'Source Serif 4'"];
+  await Promise.all(faces.map(f => doc.fonts.load(f, text).catch(() => {})));
+  await doc.fonts.ready;
+  await B.relayout();
   const limit = +(Q.get("limit") || S.sections.length);
   log(`== ${name}: ${S.mode} ${S.W}×${S.H}, 마디 ${S.sections.length}, 종 ${S.species.length}, 목록 한 쪽 ${S.cap.list}줄, 찾아보기 ${S.cap.index}개`);
   let overflow = 0, badLinks = 0, badImgs = 0, turnFail = 0, todoText = 0, views = 0;

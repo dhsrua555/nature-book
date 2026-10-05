@@ -83,7 +83,7 @@ function measure() {
 }
 
 function applySize() {
-  const fs = Math.max(15, Math.min(19, S.W / 32, S.H / 40));
+  const fs = Math.max(16, Math.min(19, S.W / 31, S.H / 40));
   document.documentElement.style.setProperty("--fs", `${fs.toFixed(2)}px`);
   document.documentElement.style.setProperty("--W", `${S.W}px`);
   document.documentElement.style.setProperty("--H", `${S.H}px`);
@@ -361,7 +361,7 @@ function callouts(points) {
   const lines = withLabel.map(p => `<line x1="${p.at[0] * 100}" y1="${p.at[1] * 100}" x2="${p.label[0] * 100}" y2="${p.label[1] * 100}"/>`).join("");
   const labels = withLabel.map(p =>
     `<span class="co-label ${p.label[0] < p.at[0] ? "to-left" : "to-right"}" style="left:${p.label[0] * 100}%;top:${p.label[1] * 100}%">${esc(p.ko)}</span>`).join("");
-  const dots = placed.map(p => `<span class="co-dot" style="left:${p.at[0] * 100}%;top:${p.at[1] * 100}%">${p.n}</span>`).join("");
+  const dots = placed.map(p => `<span class="co-dot" style="left:${p.at[0] * 100}%;top:${p.at[1] * 100}%"><b>${p.n}</b></span>`).join("");
   return `<svg class="co-lines" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">${lines}</svg>${labels}${dots}`;
 }
 
@@ -397,7 +397,7 @@ const BLOCK = {
     return `<section><h3>${L("sexes")}</h3>${sx.alike !== false ? `<p>${val(sx.text)}</p>`
       : `<dl class="sexes"><dt>수컷</dt><dd>${val(sx.male)}</dd><dt>암컷</dt><dd>${val(sx.female)}</dd></dl>`}</section>`;
   },
-  points: d => `<section class="pts-sec"><h2 class="pg-title small">${L("points")}</h2><ol class="pts">${(d.points || []).map((x, i) => `<li><span class="num">${i + 1}</span>${val(x.ko)}</li>`).join("")}</ol></section>`,
+  points: d => `<section class="pts-sec"><h2 class="pg-title small">${L("points")}</h2><ol class="pts">${(d.points || []).map((x, i) => `<li><span class="num" aria-hidden="true"><b>${i + 1}</b></span><span>${val(x.ko)}</span></li>`).join("")}</ol></section>`,
   young: d => `<section><h3>${L("young")}</h3><p>${val(d.young)}</p></section>`,
   tnote: d => `<p class="tnote">${esc(d.taxon_note)}</p>`,
   sources: d => `<footer class="src"><h4>출처</h4>${d.origin === "nibr" && !isTodo(d.summary) ? `<p>해설은 국립생물자원관 종 설명을 바탕으로 다시 썼다. 원문에 없는 값은 비워 두었다.</p>` : ""}<ol>${(d.sources || []).map(s => `<li>${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>` : esc(s.title)}</li>`).join("")}</ol></footer>`,
@@ -920,6 +920,19 @@ async function saveEdits(id) {
 }
 
 /* ───────────────────────── 시작 ───────────────────────── */
+/* 글꼴이 늦게 들어오면(한글 글꼴은 글자 묶음별로 나눠 받는다) 같은 자리를 붙든 채 쪽을 다시 엮는다 */
+async function relayout() {
+  if (S.busy) return;
+  S.busy = true;
+  try {
+    const keep = keyOfPos(S.pos);
+    measureCaps();
+    S.layouts.clear();
+    S.pos = await posOfKey(keep);
+    render(S.pos);
+  } finally { idle(); }
+}
+
 async function layout() {
   const m = measure();
   if (m.mode === S.mode && m.W === S.W && m.H === S.H && S.layouts.size) return false;
@@ -997,6 +1010,9 @@ async function start() {
     if (S.edit) onEditClick(e);
   }, true);
   setupSearch();
+  let ft;
+  const later = () => { clearTimeout(ft); ft = setTimeout(() => (S.busy || drag.st ? later() : relayout()), 250); };
+  document.fonts?.addEventListener?.("loadingdone", () => { if (!S.noAutoRelayout) later(); });
   let rt;
   addEventListener("resize", () => {
     clearTimeout(rt);
@@ -1004,5 +1020,5 @@ async function start() {
   });
 }
 
-if (new URLSearchParams(location.search).has("test")) window.__book = { S, render, turnTo, layoutOf, stepPos, posOfKey, keyOfPos, viewAt };
+if (new URLSearchParams(location.search).has("test")) window.__book = { S, render, turnTo, layoutOf, stepPos, posOfKey, keyOfPos, viewAt, loadDetail, relayout };
 start();
