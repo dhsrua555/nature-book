@@ -1,0 +1,79 @@
+{
+  "id": "charadrius-veredus",
+  "ko": "큰물떼새",
+  "sci": "Charadrius veredus",
+  "author": "Gould, 1848",
+  "en": "Oriental Plover",
+  "ktsn": 120000155056,
+  "origin": "nibr",
+  "length": "약 22.5cm",
+  "status": "TODO",
+  "habitat": "고원 호숫가의 자갈밭, 흐르는 냇가(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "우리나라에서는 제주도, 강화도 등지에서 보인다. 번식지에서는 고원 호숫가의 자갈밭이나 흐르는 냇가에 살며, 땅 위를 가볍고 재빠르게 달리며 먹이를 찾고 칼새처럼 빠르고 힘차게 난다. 곤충을 즐겨 먹는다. 몽골과 바이칼 등지에서 번식하고 오스트레일리아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "가늘고 검은 부리",
+      "en": "slender black bill"
+    },
+    {
+      "ko": "엷은 갈색 머리꼭대기와 흰 얼굴·멱",
+      "en": "pale brown crown, white face and throat"
+    },
+    {
+      "ko": "엷은 황갈색 눈썹선",
+      "en": "pale buff supercilium"
+    },
+    {
+      "ko": "윗가슴의 녹슨 띠와 그 아래 검은 띠",
+      "en": "rusty breast band edged below with black"
+    },
+    {
+      "ko": "순백의 배와 옆구리",
+      "en": "pure white belly and flanks"
+    },
+    {
+      "ko": "긴 더러운 황색 다리",
+      "en": "long dull yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Plover (Charadrius veredus), adult male breeding: pale brown crown and hindcrown, white forehead, lores, cheeks, chin and throat, pale brown rear ear-coverts, pale buff supercilium, pale brown back and rump, rusty breast band bordered below by a black band, pure white belly and flanks, dark brown tail with white tips, slender black bill, long dull yellow legs",
+    "pose": "running lightly over open ground in search of insects",
+    "scene": "Gravel flat beside a flowing stream on open Korean island ground; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view standing: pale brown crown and upperparts, white face, buff supercilium, rusty breast band with black lower border, white belly, long dull yellow legs",
+      "adult male breeding, front view: white throat, rusty upper-breast band and black band below it"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155056",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155056",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Anarhynchus veredus)"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태(텃새·철새 구분)가 없어 status 를 TODO 로 두었다"
+  ]
+}

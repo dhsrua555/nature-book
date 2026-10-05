@@ -1,0 +1,74 @@
+{
+  "id": "emberiza-fucata",
+  "ko": "붉은뺨멧새",
+  "sci": "Emberiza fucata",
+  "author": "Pallas, 1776",
+  "en": "Chestnut-eared Bunting",
+  "ktsn": 120000002220,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 여름철새, 적은 수가 겨울에도 보임",
+  "habitat": "숲, 트인 땅, 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "우리나라 전 지역에서 번식하는 흔한 여름철새이며, 겨울에도 적은 수가 보인다. 숲, 트인 땅, 농경지 등지에 살며, 가는 줄기와 뿌리, 칡 따위로 밥그릇 모양 둥지를 짓고 엷은 푸른 바탕에 갈색 점이 있는 알을 3~6개 낳는다. 세계적으로는 중국, 일본, 동남아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 줄무늬가 있는 회색 머리",
+      "en": "grey head and hindneck streaked black"
+    },
+    {
+      "ko": "적갈색 뺨",
+      "en": "rufous cheeks"
+    },
+    {
+      "ko": "흰 멱",
+      "en": "white throat"
+    },
+    {
+      "ko": "가슴의 검은 띠와 밤색 띠",
+      "en": "black and chestnut bands across the breast"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리에서 뒷목까지 회색에 검은 줄무늬가 있고, 가슴에 검은 띠와 밤색 띠가 또렷하다.",
+    "female": "전체적으로 색이 흐리고 가슴 띠도 또렷하지 않다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chestnut-eared Bunting (Emberiza fucata), adult male: grey head and hindneck with black streaks, rufous cheeks, white throat, black and chestnut bands across the breast, white belly",
+    "pose": "perched on a stem at the edge of farmland, side view",
+    "scene": "Korean summer farmland edge with open grassy ground and woodland behind; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black-streaked grey head, rufous cheeks, white throat, black and chestnut breast bands, white belly",
+      "adult female, side view perched: duller overall with indistinct breast bands"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은뺨멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002220",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은뺨멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002220",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

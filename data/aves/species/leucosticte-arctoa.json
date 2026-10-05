@@ -1,0 +1,79 @@
+{
+  "id": "leucosticte-arctoa",
+  "ko": "갈색양진이",
+  "sci": "Leucosticte arctoa",
+  "author": "Pallas, 1811",
+  "en": "Asian Rosy Finch",
+  "ktsn": 120000002194,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "북부 지방의 겨울철새",
+  "habitat": "산지의 벼랑, 비탈, 하천 부지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "한국 북부 등지에서 겨울을 난다."
+  },
+  "summary": "산지의 벼랑과 비탈, 하천 부지에 사는 새로, 한국 북부 등지에서 겨울을 난다. 겨울에는 10마리에서 수백 마리에 이르는 큰 무리로 지낸다. 화본과·여뀌과·질경이과·콩과 식물의 씨앗 등을 먹는다. 시베리아 동부 산악 지대, 쿠릴 열도 북부, 홋카이도 등지에서 번식하고, 사할린, 쿠릴 열도, 일본 북부와 중부, 우수리 등지에서도 겨울을 난다.",
+  "points": [
+    {
+      "ko": "깃끝이 엷은 갈색인 뒷머리·뒷목",
+      "en": "hindcrown and hindneck tipped pale brown"
+    },
+    {
+      "ko": "대부분 잿빛인 몸",
+      "en": "mostly grey body plumage"
+    },
+    {
+      "ko": "끝이 황갈색인 어두운 갈색 등깃",
+      "en": "dark brown back feathers tipped buff"
+    },
+    {
+      "ko": "깃끝이 장미색인 허리와 배",
+      "en": "rump and belly feathers tipped rose-pink"
+    },
+    {
+      "ko": "검은 갈색 꼬리",
+      "en": "blackish-brown tail"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸 대부분이 잿빛이고 허리·배·아래꼬리덮깃의 깃끝이 장미색이다.",
+    "female": "수컷보다 색이 연하고, 배와 허리가 연한 푸른빛이 도는 은회색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Asian Rosy Finch (Leucosticte arctoa), adult male winter: mostly grey plumage, hindcrown and hindneck feathers tipped pale brown, dark brown back feathers tipped buff, dark brown rump feathers tipped rose-pink, rose-pink tips to belly and undertail-covert feathers, blackish-brown tail, black legs",
+    "pose": "foraging for seeds on the ground in a flock, one bird in side view",
+    "scene": "Korean winter mountains: rocky cliffs and slopes above a stony riverbed with dry grass; no people, buildings or text",
+    "views": [
+      "adult male winter, side view on ground: mostly grey, buff-tipped dark brown back, rose-tipped rump and belly, blackish-brown tail, black legs",
+      "adult female, side view on ground: paler overall, silvery-grey belly and rump with a light bluish tinge"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 갈색양진이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002194",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 갈색양진이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002194",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "aquila-chrysaetos",
+  "ko": "검독수리",
+  "sci": "Aquila chrysaetos",
+  "author": "Linnaeus, 1758",
+  "en": "Golden Eagle",
+  "ktsn": 120000001616,
+  "origin": "nibr",
+  "length": "약 75–90cm",
+  "status": "겨울철새",
+  "habitat": "하천, 평야, 해안, 평지(겨울), 산악지대 암벽(번식)",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 3~4월 하순에 번식한다."
+  },
+  "summary": "전국에 찾아오는 겨울철새로, 겨울에는 하천, 평야, 해안, 평지에서 지내고 번식은 산악지대 암벽에서 한다. 날개를 조금 위로 들어 밋밋한 V자를 이룬 채 날며, 토끼, 다람쥐, 꿩, 오리류 등을 잡아먹는다. 둥지는 암벽의 오목한 곳이나 큰키나무 가지 위에 마른 가지를 쌓고 벼과 식물의 잎과 줄기를 깔아 만들며, 푸른빛이 도는 흰 알 2개를 낳는다. 유라시아와 북아메리카 북부에 분포한다.",
+  "points": [
+    {
+      "ko": "뒷머리에서 목까지 황갈색",
+      "en": "golden-brown nape and hindneck"
+    },
+    {
+      "ko": "전체적으로 암갈색인 몸",
+      "en": "overall dark brown plumage"
+    },
+    {
+      "ko": "어두운 아랫면",
+      "en": "dark underparts"
+    },
+    {
+      "ko": "긴 날개",
+      "en": "long wings"
+    },
+    {
+      "ko": "발가락 위까지 깃털로 덮인 다리",
+      "en": "legs feathered down to the toes"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 작다.",
+    "female": "수컷보다 크다."
+  },
+  "young": "어린새는 첫째날개깃 밑동이 희고, 흰 꼬리 끝에 폭넓은 검은 띠가 있다.",
+  "similar": [],
+  "art": {
+    "subject": "Golden Eagle (Aquila chrysaetos), adult: overall dark brown, golden-brown nape and hindneck, dark underparts, long wings, legs feathered down to the toes",
+    "pose": "soaring with wings slightly raised in a shallow V",
+    "scene": "Korean winter river plain with mountains on the horizon; no people, buildings or text",
+    "views": [
+      "adult, side view perched: dark brown body, golden-brown nape and hindneck, legs feathered to the toes",
+      "adult, flight view: long dark brown wings held in a shallow V",
+      "juvenile, flight view from below: white bases to the primaries, white tail with a broad black terminal band"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검독수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001616",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검독수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001616",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "190–227cm"
+}

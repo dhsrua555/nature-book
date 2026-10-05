@@ -1,0 +1,78 @@
+{
+  "id": "sibirionetta-formosa",
+  "ko": "가창오리",
+  "sci": "Sibirionetta formosa",
+  "author": "Georgi, 1775",
+  "en": "Baikal Teal",
+  "ktsn": 120000528788,
+  "origin": "nibr",
+  "length": "약 40cm",
+  "status": "국지적으로 흔한 겨울철새",
+  "habitat": "저수지, 강 등의 습지, 주변 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "국지적으로 흔한 겨울철새로, 대표적인 월동지에 큰 무리가 모이며 세계 월동 집단의 대부분이 한국에서 겨울을 난다. 낮에는 저수지나 강 같은 습지에서 쉬고, 밤이 되면 둘레의 농경지로 옮겨가 벼 낟알 등을 먹는다. 겨울에는 무리 짓는 성질이 강해 수만에서 수십만 마리가 큰 떼를 이룬다.",
+  "points": [
+    {
+      "ko": "수컷 얼굴의 노랑·초록·검정 무늬",
+      "en": "male: striking yellow, green and black face pattern"
+    },
+    {
+      "ko": "부리 기부에서 정수리까지 검은색",
+      "en": "male: black from the bill base to the crown"
+    },
+    {
+      "ko": "가슴 옆의 흰 세로줄",
+      "en": "male: vertical white stripe on the breast side"
+    },
+    {
+      "ko": "길게 늘어진 어깨깃",
+      "en": "male: long drooping scapulars"
+    },
+    {
+      "ko": "황갈색 앞가슴과 청회색 옆구리",
+      "en": "male: buff breast, blue-grey flanks"
+    },
+    {
+      "ko": "검은 아래꼬리덮깃",
+      "en": "male: black undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "얼굴에 노란색, 녹색, 검은색이 어우러진 독특한 무늬가 있고 부리 기부에서 정수리까지 검다. 앞가슴은 황갈색, 몸 옆은 푸른빛 회색이며, 가슴 옆에 흰 세로줄이 있고 어깨깃이 길게 늘어진다. 아래꼬리덮깃은 검다.",
+    "female": "전체가 갈색이고 부리 기부에 둥근 흰 점이 있으며, 목과 멱이 더 희다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Baikal Teal (Sibirionetta formosa), adult male: distinctive yellow, green and black face pattern, black from the bill base to the crown, buff breast, vertical white stripe on the breast side, long drooping scapulars, blue-grey flanks, black undertail coverts",
+    "pose": "resting on open water within a large, tight flock, side view",
+    "scene": "Korean winter: a large reservoir beside harvested rice fields, a vast flock on the water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: yellow, green and black face pattern, buff breast with a white vertical stripe, blue-grey flanks, drooping scapulars, black undertail coverts",
+      "adult female, head detail: brown head with a round white spot at the bill base, whiter throat and neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 가창오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528788",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 가창오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528788",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "emberiza-variabilis",
+  "ko": "검은멧새",
+  "sci": "Emberiza variabilis",
+  "author": "Temminck, 1836",
+  "en": "Grey Bunting",
+  "ktsn": 120000002231,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "미조",
+  "habitat": "아고산대 산지, 조릿대 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 무렵 알을 낳는다."
+  },
+  "summary": "우리나라에서는 남해의 섬에 나타나는 미조이다. 아고산대 산지의 조릿대 숲에 살며, 여름에는 암수가 함께 지내면서 일정한 세력권을 지킨다. 주로 화본과와 꿀풀과 식물의 씨를 먹고 곤충도 잡아먹는다. 구북구 동부와 캄차카 등 아한대 지역에서 번식하며 한배에 알 5개를 낳고, 혼슈 중부와 류큐 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "슬레이트 잿빛 윗면",
+      "en": "slate-grey upperparts"
+    },
+    {
+      "ko": "검은 축반이 뚜렷한 등",
+      "en": "back with bold black shaft streaks and olive-buff fringes"
+    },
+    {
+      "ko": "등보다 엷은 잿빛 머리 옆과 아랫면",
+      "en": "head sides and underparts slightly paler slate-grey"
+    },
+    {
+      "ko": "흑갈색 날개깃과 날개덮깃",
+      "en": "blackish-brown flight feathers and wing coverts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey Bunting (Emberiza variabilis), adult male in winter plumage: slate-grey upperparts from head to uppertail coverts with faint olive feather tips, slightly paler slate-grey sides of the head and underparts, back with distinct black shaft streaks and olive-buff fringes, blackish-brown flight feathers and wing coverts",
+    "pose": "perched low in dense dwarf bamboo, side view",
+    "scene": "southern Korean island: dense dwarf bamboo undergrowth on a wooded slope; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: slate-grey plumage, paler below, black-streaked back with olive-buff fringes, blackish-brown wings",
+      "adult male winter, back view: slate-grey mantle with black shaft streaks and olive-buff fringes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002231",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002231",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '머리 중앙은 거의 흰색이다'는 아랫면 설명 바로 뒤에 있어 다른 부위(배 중앙 등)를 잘못 적은 것일 수 있어 포인트·그림에서 뺐다(확인 필요)"
+  ]
+}

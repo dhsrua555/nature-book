@@ -1,0 +1,71 @@
+{
+  "id": "syrrhaptes-paradoxus",
+  "ko": "사막꿩",
+  "sci": "Syrrhaptes paradoxus",
+  "author": "Pallas, 1773",
+  "en": "Pallas's Sandgrouse",
+  "ktsn": 120000001818,
+  "origin": "nibr",
+  "length": "38cm",
+  "status": "미조",
+  "habitat": "하천가와 하구 삼각주의 모래 언덕, 평원, 초원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4월 중순~6월 말에 알을 낳는다."
+  },
+  "summary": "우리나라에는 한강 하류와 낙동강 하구에 미조로 날아온 기록이 있다. 하천가나 하구 삼각주의 모래 언덕, 평원, 초원 등에 살며, 중앙아시아의 건조한 스텝 지대에 분포한다. 땅 위에 4~6m씩 사이를 두고 무리 지어 둥지를 틀고 알자리에 마른풀을 깔며, 4월 중순~6월 말에 한배에 알 2~4개를 낳는다.",
+  "points": [
+    {
+      "ko": "회색 머리와 노란 얼굴",
+      "en": "grey head and yellow face"
+    },
+    {
+      "ko": "검은 얼룩이 있는 회색 등",
+      "en": "grey back with black blotches"
+    },
+    {
+      "ko": "회색 가슴 아래의 짙은 회색 띠",
+      "en": "darker grey band below the grey breast"
+    },
+    {
+      "ko": "배의 넓은 검은 띠",
+      "en": "broad black band across the belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "가슴 아래에 짙은 회색 가로띠가 있다.",
+    "female": "가슴에 가로띠가 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pallas's Sandgrouse (Syrrhaptes paradoxus), adult male: grey head with yellow face, grey back with black blotches, grey breast with a darker grey band below it, broad black band across the belly, grey below the band",
+    "pose": "standing on sand, side view",
+    "scene": "sand dunes on a Korean river-mouth delta with sparse grass; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: grey head, yellow face, grey back with black blotches, darker grey band below the breast, broad black belly band",
+      "adult female, side view standing: no band on the breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 사막꿩",
+      "url": "https://species.nibr.go.kr/species-detail/120000001818",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 사막꿩",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001818",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

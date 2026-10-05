@@ -1,0 +1,78 @@
+{
+  "id": "corvus-dauuricus",
+  "ko": "갈까마귀",
+  "sci": "Corvus dauuricus",
+  "author": "Pallas, 1776",
+  "en": "Daurian Jackdaw",
+  "ktsn": 120000001964,
+  "origin": "nibr",
+  "length": "33cm",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "평지 및 산지의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "원문은 5~9월에 알을 낳는다고 적었으나 국내 번식은 말하지 않는다."
+  },
+  "summary": "평지와 산지 숲에서 볼 수 있는 흔하지 않은 겨울철새로, 늘 큰 무리를 지어 다닌다. 무엇이든 먹는 잡식성이며, 5~9월에 알 4~6개를 낳는다. 장진호와 풍산에 살며, 국외에서는 시베리아, 아무르, 우수리, 만주, 몽골, 중국, 티베트에 분포한다.",
+  "points": [
+    {
+      "ko": "자색 광택의 검은 머리꼭대기",
+      "en": "black crown and nape glossed purple"
+    },
+    {
+      "ko": "눈 뒤·귀깃 위의 잿빛 흰 깃 끝",
+      "en": "greyish-white tips to the feathers behind the eye and above the ear coverts"
+    },
+    {
+      "ko": "푸른 광택의 검은 멱",
+      "en": "black chin and throat glossed blue"
+    },
+    {
+      "ko": "아랫면까지 이어지는 넓은 잿빛 흰 목띠",
+      "en": "broad greyish-white collar joining greyish-white underparts"
+    },
+    {
+      "ko": "광택 있는 검은 등과 꼬리",
+      "en": "glossy black back and tail"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이며 암컷이 더 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Daurian Jackdaw (Corvus dauuricus), adult, winter plumage: black crown and nape glossed purple, greyish-white tips to the feathers behind the eye and above the ear coverts, black chin and throat glossed blue, broad greyish-white collar continuing into greyish-white underparts, slate-black underwing and undertail coverts, glossy black back and tail, grey-brown iris, black legs",
+    "pose": "perched in a bare tree among a large flock",
+    "scene": "Korean winter lowland fields and forest edge with bare trees; no people, buildings or text",
+    "views": [
+      "adult, winter plumage, side view perched: purple-glossed black crown, greyish-white collar and underparts, glossy black back and tail, black legs",
+      "adult, summer plumage, side view perched: less glossy, the black parts tinged brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 갈까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001964",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 갈까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001964",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Coloeus dauuricus)"
+    }
+  ],
+  "todo": []
+}

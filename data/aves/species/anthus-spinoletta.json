@@ -1,0 +1,83 @@
+{
+  "id": "anthus-spinoletta",
+  "ko": "옅은밭종다리",
+  "sci": "Anthus spinoletta",
+  "author": "Linnaeus, 1758",
+  "en": "Water Pipit",
+  "ktsn": 120000002184,
+  "origin": "nibr",
+  "length": "약 16cm",
+  "status": "흔한 나그네새, 겨울철새",
+  "habitat": "추수 끝난 논, 해안 평지, 물 빠진 못, 갯벌, 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "흔한 나그네새이자 겨울철새로, 추수가 끝난 논, 해안 평지, 물이 빠진 못, 갯벌, 하구에 산다. 여름에는 암수가 함께 지내고, 이동할 때나 겨울에는 10마리 안팎의 무리를 짓는 일이 많다. 겨울에는 주로 식물성 먹이를, 여름에는 곤충을 먹으며, 둥지 둘레가 풀로 덮인 때가 많고 알을 4~5개 낳는다. 국내에서는 거제도와 진도에 살고, 세계적으로는 유럽·아시아·북아메리카의 온대와 툰드라에 분포한다.",
+  "points": [
+    {
+      "ko": "희미한 눈썹선",
+      "en": "faint supercilium"
+    },
+    {
+      "ko": "겨울깃의 뚜렷한 턱선",
+      "en": "distinct malar stripe in winter"
+    },
+    {
+      "ko": "겨울깃의 갈색 띤 녹색 윗면",
+      "en": "brownish-green upperparts in winter"
+    },
+    {
+      "ko": "여름깃의 회갈색 윗면",
+      "en": "grey-brown upperparts in summer"
+    },
+    {
+      "ko": "여름깃의 살색 가슴과 배",
+      "en": "flesh-coloured breast and belly in summer"
+    },
+    {
+      "ko": "겨울깃의 흰 가슴과 배, 뚜렷한 줄무늬",
+      "en": "white breast and belly with distinct streaks in winter"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "붉은가슴밭종다리",
+      "how": "붉은가슴밭종다리는 윗면에 검은 줄무늬가 뚜렷하다."
+    }
+  ],
+  "art": {
+    "subject": "Water Pipit (Anthus spinoletta), adult winter: brownish-green upperparts, faint supercilium, distinct malar stripe and breast streaks, white breast and belly",
+    "pose": "walking along the edge of a mudflat, foraging",
+    "scene": "Korean winter estuary: harvested rice paddies beside a tidal mudflat and river mouth; no people, buildings or text",
+    "views": [
+      "adult winter, side view on ground: brownish-green upperparts, faint supercilium, distinct malar stripe and breast streaks, white breast and belly",
+      "adult summer, side view on ground: grey-brown upperparts, weak black malar and breast streaks, flesh-coloured breast and belly with a few black streaks on the sides of the upper breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 옅은밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002184",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 옅은밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002184",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

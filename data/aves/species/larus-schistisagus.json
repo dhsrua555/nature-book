@@ -1,0 +1,76 @@
+{
+  "id": "larus-schistisagus",
+  "ko": "큰재갈매기",
+  "sci": "Larus schistisagus",
+  "author": "Stejneger, 1884",
+  "en": "Slaty-backed Gull",
+  "ktsn": 120000001767,
+  "origin": "nibr",
+  "length": "약 61–66cm",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "섬과 바닷가 벼랑, 해안 암초, 방파제, 모래밭, 풀밭(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~7월에 알을 낳는다."
+  },
+  "summary": "국내에서는 흔하지 않은 겨울새로, 우리나라와 중국, 일본 등지에서 겨울을 난다. 무리를 지어 먹이를 찾으며 개·고양이·새의 사체, 오리류와 바닷새의 알, 죽은 물고기를 먹고 갑각류, 연체동물, 환형동물, 곤충도 먹는다. 번식지에서는 섬이나 바닷가의 벼랑, 암초, 호숫가 땅, 방파제, 모래밭, 풀밭 등에 무리 지어 둥지를 틀고 5월 하순~7월에 알 3~4개를 낳는다. 북태평양 서부, 오호츠크해 연안, 캄차카, 사할린 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 석판색 윗등",
+      "en": "dark slate-grey mantle"
+    },
+    {
+      "ko": "검은 날개깃",
+      "en": "black flight feathers"
+    },
+    {
+      "ko": "바깥 첫째날개깃 끝의 흰 무늬",
+      "en": "white tips to the outer primaries"
+    },
+    {
+      "ko": "날개의 회갈색 띠",
+      "en": "grey-brown band across the wing"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 윗면이 연한 갈색에 거무스름한 세로무늬가 있고 아랫면은 회색, 턱밑은 흰색이다. 꽁지는 갈색에 끝이 희며, 기부에 짙은 갈색 대리석 무늬가 있다.",
+  "similar": [
+    {
+      "ko": "재갈매기",
+      "how": "거의 비슷하지만 윗등이 어두운 석판색이라 쉽게 구별된다."
+    }
+  ],
+  "art": {
+    "subject": "Slaty-backed Gull (Larus schistisagus), adult: dark slate-grey mantle, black flight feathers with white tips to the outer primaries, grey-brown band across the wing",
+    "pose": "standing among a loose flock on the shore, side view",
+    "scene": "Korean seashore in winter: rocky reef and sandy beach beside a grey open sea; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark slate-grey mantle, black wingtip with white spots on the outer primaries",
+      "adult, in flight from above: black flight feathers, white tips to the outer primaries, grey-brown wing band",
+      "juvenile, side view standing: pale brown upperparts with dark streaks, grey underparts, white chin, brown tail with a white tip and dark brown marbling at the base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰재갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001767",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰재갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001767",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

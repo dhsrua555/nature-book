@@ -1,0 +1,74 @@
+{
+  "id": "buteo-lagopus",
+  "ko": "털발말똥가리",
+  "sci": "Buteo lagopus",
+  "author": "Pontoppidan, 1763",
+  "en": "Rough-legged Buzzard",
+  "ktsn": 120000001611,
+  "origin": "nibr",
+  "length": "50–60cm",
+  "status": "드문 겨울철새",
+  "habitat": "트인 평원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월부터 6월 상순 사이에 알 3~4개를 낳는다."
+  },
+  "summary": "한국 전역에서 드물게 겨울을 나는 겨울철새로, 앞이 트인 평원에서 지낸다. 깃 색과 무늬가 지역 개체군마다 매우 다양하며, 아래 특징은 한국에 오는 아종의 것이다. 바위나 말뚝, 때로는 나무 위에 앉아 쉬면서 주변의 쥐 같은 먹이를 찾는다. 바닷가 암벽 위나 툰드라 구릉, 나무 위에 둥지를 지으며, 유라시아와 북아메리카의 북극권에서 번식하고 한국, 중국, 일본 등지에서 월동한다.",
+  "points": [
+    {
+      "ko": "흰 머리",
+      "en": "white head"
+    },
+    {
+      "ko": "흰 가슴",
+      "en": "white breast"
+    },
+    {
+      "ko": "암갈색 날개",
+      "en": "dark brown wings"
+    },
+    {
+      "ko": "흰 꼬리",
+      "en": "white tail"
+    },
+    {
+      "ko": "꼬리 끝의 굵은 암갈색 띠",
+      "en": "broad dark brown terminal tail band"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rough-legged Buzzard (Buteo lagopus), adult of the subspecies that winters in Korea: white head and breast, dark brown wings, white tail with a broad dark brown band at the tip",
+    "pose": "perched on a wooden post in open country, watching the ground for rodents",
+    "scene": "Korean winter open plain with scattered rocks and old wooden posts; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white head and breast, dark brown wings, white tail with a broad dark brown terminal band",
+      "adult, flight view from above: dark brown wings, white tail with a broad dark brown band at the tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 털발말똥가리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001611",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 털발말똥가리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001611",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

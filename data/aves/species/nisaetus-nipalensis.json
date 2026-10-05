@@ -1,0 +1,75 @@
+{
+  "id": "nisaetus-nipalensis",
+  "ko": "뿔매",
+  "sci": "Nisaetus nipalensis",
+  "author": "Hodgson, 1836",
+  "en": "Mountain Hawk-Eagle",
+  "ktsn": 120000155011,
+  "origin": "nibr",
+  "length": "수컷 72cm, 암컷 80cm",
+  "status": "미조",
+  "habitat": "산지 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "산란기는 4~5월이다."
+  },
+  "summary": "우리나라에서는 몇 차례 채집된 기록만 있는 미조이다. 홀로 또는 암수가 함께 산지 숲에 살며, 쥐 같은 설치류와 꿩, 들꿩 같은 새를 잡아먹는다. 높은 나무의 가지 위에 나뭇가지로 접시 모양 둥지를 짓고 알을 2개쯤 낳아 28~30일 동안 품는다. 한국, 일본, 중국, 인도, 히말라야, 동남아시아 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "뒷머리의 작은 뿔깃",
+      "en": "small crest on the hindcrown"
+    },
+    {
+      "ko": "황갈색 머리와 뒷목",
+      "en": "tawny head and hindneck"
+    },
+    {
+      "ko": "깃 끝이 흰 짙은 갈색 윗면",
+      "en": "dark brown upperparts with white feather tips"
+    },
+    {
+      "ko": "턱 밑부터 윗가슴까지 흰색",
+      "en": "white from chin to upper breast"
+    },
+    {
+      "ko": "흰 가로 얼룩이 있는 옅은 갈색 아랫면",
+      "en": "pale brown underparts barred white"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸길이 72cm로 암컷보다 작다.",
+    "female": "몸길이 80cm로 수컷보다 크다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Mountain Hawk-Eagle (Nisaetus nipalensis), adult: tawny head and hindneck with a small crest on the hindcrown, dark brown upperparts with white-tipped feathers, white chin to upper breast, pale brown lower underparts with white bars",
+    "pose": "perched on a high branch of a tall tree, side view",
+    "scene": "Korean mountain forest of tall trees on a steep slope; no people, buildings or text",
+    "views": [
+      "adult, side view perched: tawny head with small crest, dark brown upperparts with white tips, white throat to upper breast, pale brown underparts barred white",
+      "adult, head detail: small crest on the hindcrown, tawny head and hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뿔매",
+      "url": "https://species.nibr.go.kr/species-detail/120000155011",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뿔매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155011",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

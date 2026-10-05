@@ -1,0 +1,80 @@
+{
+  "id": "anthus-godlewskii",
+  "ko": "쇠밭종다리",
+  "sci": "Anthus godlewskii",
+  "author": "Taczanowski, 1876",
+  "en": "Blyth's Pipit",
+  "ktsn": 120000002176,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "번식지의 초원, 땅 위",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 적은 수가 한반도를 지나가며, 번식지에서는 5월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 적은 수가 한반도를 지나가는 새이다. 혼자 또는 암수가 함께 주로 땅 위에서 지낸다. 초원에서 번식하며 돌 밑, 어린 침엽수, 숲속 나무뿌리 가까이, 바퀴 자국이 깊게 팬 곳 등에 둥지를 틀고, 한배에 알을 4~5개, 때로 6개 낳는다.",
+  "points": [
+    {
+      "ko": "흰 눈앞과 황갈색 눈썹선",
+      "en": "white lores and buff supercilium"
+    },
+    {
+      "ko": "뺨과 귀깃 사이의 어두운 선",
+      "en": "dark line between cheek and ear coverts"
+    },
+    {
+      "ko": "끝만 어두운 노란 아랫부리",
+      "en": "yellow lower mandible with a dark tip"
+    },
+    {
+      "ko": "끊어진 검은 턱선",
+      "en": "broken blackish malar stripe"
+    },
+    {
+      "ko": "가슴의 삼각형 갈색 얼룩",
+      "en": "triangular brown spots on lower throat and breast"
+    },
+    {
+      "ko": "검은 세로무늬가 있는 황갈색 등",
+      "en": "buff-brown upperparts streaked black"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Blyth's Pipit (Anthus godlewskii), adult male winter: buff-brown crown and back with a black streak on each feather, giving a lark-like look, white lores, buff supercilium, buff-brown cheeks and ear coverts separated by a dark line, broken blackish malar stripe, triangular brown spots on lower throat and breast, pale throat, lower belly and undertail coverts, brown upper mandible, yellow lower mandible with a dark tip, brown iris, hind claw about as long as the hind toe",
+    "pose": "walking alone on open ground, side view",
+    "scene": "Korean spring migration: open grassland with short turf and scattered stones; no people, buildings or text",
+    "views": [
+      "adult male winter, side view on ground: buff-brown upperparts streaked black, pale throat and belly, triangular brown spots on lower throat and breast",
+      "head detail: white lores, buff supercilium, dark line between cheek and ear coverts, broken blackish malar stripe, yellow lower mandible with dark tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002176",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002176",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "분포를 '에스파냐에서 몽골에 이르는 유라시아 대륙'이라 했으나 쇠밭종다리의 분포로 보기 어렵다(다른 종 설명이 섞인 듯). summary 에 싣지 않았다."
+  ]
+}

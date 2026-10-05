@@ -1,0 +1,80 @@
+{
+  "id": "anser-fabalis",
+  "ko": "큰기러기",
+  "sci": "Anser fabalis",
+  "author": "Latham, 1787",
+  "en": "Taiga Bean Goose",
+  "ktsn": 120000001414,
+  "origin": "nibr",
+  "length": "약 85cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "농경지, 호수, 하천, 하구, 해안",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국의 농경지, 호수, 하천, 하구, 해안에 무리 지어 겨울을 나는 비교적 흔한 겨울철새다. 월동지에서는 밤에도 잠자리인 호수로 돌아가지 않고 하루 내내 넓은 논에서 지내는 일이 많다. 유라시아 대륙의 툰드라에서 번식하고 중국 남부, 중앙아시아, 한국, 일본 남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "끝에 주황 띠가 있는 검은 부리",
+      "en": "black bill with an orange band near the tip"
+    },
+    {
+      "ko": "두껍고 짧은 부리",
+      "en": "thick, short, slightly pointed bill"
+    },
+    {
+      "ko": "어두운 갈색 머리와 윗면",
+      "en": "dark brown head and upperparts"
+    },
+    {
+      "ko": "연한 회갈색 아랫면",
+      "en": "pale grey-brown underparts"
+    },
+    {
+      "ko": "흰 꼬리덮깃과 꽁지 가장자리",
+      "en": "white upper- and undertail coverts, white-edged tail"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Taiga Bean Goose (Anser fabalis), adult: dark brown head, flanks and upperparts, pale grey-brown underparts, thick short slightly pointed black bill with an orange band near the tip, dark brown wingtips and tail, tail feathers edged white, white upper- and undertail coverts, orange legs",
+    "pose": "grazing in a flock in a wide rice paddy",
+    "scene": "broad Korean rice paddies in winter with a lake in the distance; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark brown head and upperparts, pale grey-brown underparts, black bill with orange band, orange legs",
+      "adult, head detail: thick short black bill with an orange band near the tip",
+      "adult, rear view: white uppertail coverts and dark tail edged white"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001414",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001414",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

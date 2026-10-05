@@ -1,0 +1,82 @@
+{
+  "id": "limosa-lapponica",
+  "ko": "큰뒷부리도요",
+  "sci": "Limosa lapponica",
+  "author": "Linnaeus, 1758",
+  "en": "Bar-tailed Godwit",
+  "ktsn": 120000155076,
+  "origin": "nibr",
+  "length": "38.5–41cm",
+  "status": "흔한 나그네새",
+  "habitat": "해안 모래밭, 갯벌, 강 하구, 물 고인 논, 하천가",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 우리나라를 지나간다."
+  },
+  "summary": "봄과 가을에 흔하게 지나가는 나그네새이다. 해안의 모래밭, 갯벌, 강 하구, 물이 고인 논, 하천가에서 대개 큰 무리를 이루어 지내며 갑각류, 갯지렁이, 물속 곤충 등 여러 무척추동물을 잡아먹는다. 유라시아 대륙 북부와 알래스카 서부에서 번식하고 유럽, 아프리카, 중동, 동남아시아, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "기부가 분홍색인 위로 굽은 어두운 부리",
+      "en": "long upturned dark bill with pink base"
+    },
+    {
+      "ko": "수컷 여름깃의 머리~배 적갈색",
+      "en": "breeding male: rufous from head to belly"
+    },
+    {
+      "ko": "여름깃의 적갈색 반점 흑갈색 윗면",
+      "en": "breeding: blackish-brown upperparts spotted rufous"
+    },
+    {
+      "ko": "겨울깃의 흑갈색 무늬 회갈색 윗면",
+      "en": "non-breeding: grey-brown upperparts marked dark brown"
+    },
+    {
+      "ko": "겨울깃의 회백색 아랫면",
+      "en": "non-breeding: greyish-white underparts"
+    },
+    {
+      "ko": "긴 다리",
+      "en": "long legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름깃은 머리에서 배까지 적갈색이고 몸 윗면은 적갈색 반점이 있는 흑갈색이다.",
+    "female": "수컷보다 크고 부리도 길며, 여름깃의 적갈색이 연하고 몸 윗면이 어둡게 보인다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Bar-tailed Godwit (Limosa lapponica), adult male breeding: long upturned dark bill with a pink base, rufous from head to belly, blackish-brown upperparts spotted rufous, long legs",
+    "pose": "probing the mud with its long bill on a tidal flat",
+    "scene": "Korean tidal mudflat at a river mouth with a large flock of shorebirds; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view standing: upturned pink-based bill, rufous head to belly, blackish-brown upperparts spotted rufous",
+      "adult female breeding, side view: larger, longer bill, paler rufous, darker-looking upperparts",
+      "adult non-breeding, side view: grey-brown upperparts with dark brown markings, greyish-white underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰뒷부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000155076",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰뒷부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155076",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "mergus-merganser",
+  "ko": "비오리",
+  "sci": "Mergus merganser",
+  "author": "Linnaeus, 1758",
+  "en": "Common Merganser",
+  "ktsn": 120000001472,
+  "origin": "nibr",
+  "length": "약 65cm",
+  "status": "흔한 겨울철새, 국지적으로 드문 텃새",
+  "habitat": "호수, 댐, 하천, 저수지, 하구, 산간계곡",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "산란기는 4~6월이며, 국내에서는 최근 강원 일부 산간계곡에서 드물게 번식이 확인되었다."
+  },
+  "summary": "겨울철 전국의 호수, 댐, 하천, 저수지, 하구에서 흔히 무리를 지어 지내는 겨울철새이며, 최근 강원 일부 산간계곡에서 드물게 번식하는 것이 확인되어 국지적인 텃새이기도 하다. 잠수해 물고기를 사냥한다. 땅 위의 구멍이나 나무 구멍을 둥지로 쓰며, 한배에 알 9~10개를 낳아 32~35일 동안 품는다. 유라시아 대륙과 북아메리카 대륙의 아한대와 온대에서 번식하고 유럽, 인도 동부, 미얀마, 중국 동부, 한국, 일본, 북미 남부에서 월동한다.",
+  "points": [
+    {
+      "ko": "수컷의 녹색 기 도는 검은 머리와 윗목",
+      "en": "male: green-tinged black head and upper neck"
+    },
+    {
+      "ko": "암컷의 갈색 머리와 뒤로 뻗은 댕기",
+      "en": "female: brown head with a backswept crest"
+    },
+    {
+      "ko": "끝이 아래로 굽은 길고 붉은 부리",
+      "en": "long, slender red bill with a downcurved black tip"
+    },
+    {
+      "ko": "암컷 갈색 머리와 회색 몸 사이 흰 띠",
+      "en": "female: white band dividing brown head from grey body"
+    },
+    {
+      "ko": "수컷의 흰 몸과 검은 등",
+      "en": "male: white body with a black back"
+    },
+    {
+      "ko": "황색 기 도는 붉은 다리",
+      "en": "yellowish-red legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 윗목은 녹색을 띤 검은색, 몸은 흰색, 등은 검은색이다.",
+    "female": "머리와 윗목은 갈색이고 턱밑은 희며, 목의 흰 띠가 갈색 머리와 회색 몸을 가른다. 머리에 뒤로 뻗은 댕기깃이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Merganser (Mergus merganser), adult male: green-tinged black head and upper neck, white body, black back, long slender red bill with a downcurved black tip, yellowish-red legs",
+    "pose": "swimming low on a river with the head half submerged, searching for fish",
+    "scene": "wide Korean river in winter with open flowing water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: green-tinged black head, white body, black back, long red bill with a black hooked tip",
+      "adult female, side view swimming: brown head with backswept crest, white chin, white neck band, grey body, long red bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 비오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001472",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 비오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001472",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

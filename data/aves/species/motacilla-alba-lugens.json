@@ -1,0 +1,78 @@
+{
+  "id": "motacilla-alba-lugens",
+  "ko": "백할미새",
+  "sci": "Motacilla alba lugens",
+  "author": "Gloger, 1829",
+  "en": "White Wagtail (lugens)",
+  "ktsn": 120000076289,
+  "origin": "nibr",
+  "length": "21cm",
+  "status": "겨울철새",
+  "habitat": "농경지, 물가, 강 하류",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~7월에 알을 낳는다."
+  },
+  "summary": "우리나라에서 겨울을 나는 겨울새로, 농경지와 물가, 강 하류에서 지낸다. 늘 암수가 함께 다니며 겨울에도 2~3마리씩 작은 무리를 이룬다. 둥지는 돌담이나 바위 틈, 물가 벼랑의 오목한 곳, 풀숲의 땅 위에 밥그릇 모양으로 짓고 한배에 알 4~5개를 낳는다. 우수리, 사할린 등 동아시아 북부에서 번식하고 중국 북동부, 일본, 한국에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 이마와 머리꼭대기",
+      "en": "white forehead and crown"
+    },
+    {
+      "ko": "검은 뒷머리와 뒷목",
+      "en": "black hindcrown and nape"
+    },
+    {
+      "ko": "흰 눈썹선과 흰 뺨·턱·멱",
+      "en": "white supercilium, cheeks, chin and throat"
+    },
+    {
+      "ko": "폭 1cm의 검은 가슴띠",
+      "en": "1 cm-wide black breast band"
+    },
+    {
+      "ko": "흰 아랫가슴 이하, 나머지는 잿빛",
+      "en": "white below the breast band, rest of plumage grey"
+    },
+    {
+      "ko": "가늘고 긴 꼬리",
+      "en": "long, slender tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White Wagtail (Motacilla alba lugens), adult: white forehead and crown, black hindcrown and nape, white supercilium, white chin, throat and cheeks, 1 cm-wide black band across the breast, white underparts below it, rest of the plumage grey, long slender tail",
+    "pose": "walking along the water's edge, side view",
+    "scene": "Korean winter: farmland beside the lower reaches of a river with a gravelly water's edge; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white forehead and crown, black nape, white face and throat, black breast band, white underparts, rest of plumage grey, long tail",
+      "adult, front view: white face and throat above a narrow black breast band"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 백할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000076289",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 백할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000076289",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

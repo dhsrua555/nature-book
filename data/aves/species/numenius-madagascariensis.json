@@ -1,0 +1,75 @@
+{
+  "id": "numenius-madagascariensis",
+  "ko": "알락꼬리마도요",
+  "sci": "Numenius madagascariensis",
+  "author": "Linnaeus, 1766",
+  "en": "Far Eastern Curlew",
+  "ktsn": 120000001710,
+  "origin": "nibr",
+  "length": "58.5–61.5cm",
+  "status": "비교적 흔한 나그네새",
+  "habitat": "서남 해안 갯벌, 강 하구, 물 고인 농경지, 습초지",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나간다."
+  },
+  "summary": "봄과 가을에 비교적 흔히 지나가는 나그네새이지만, 세계적으로는 매우 드문 새이다. 서남해안 갯벌과 강 하구, 물 고인 농경지와 습한 풀밭에 내려앉아 주로 게를 잡고 다른 갑각류와 갯지렁이도 즐겨 먹는다. 세계자연보전연맹 적색목록에 취약(VU)으로 올라 있고 전 세계 개체수는 32,000마리쯤으로 추정되는데, 서식지 파괴와 오염으로 크게 줄고 있으며 국내 갯벌 매립으로 중간 기착지가 줄어든 것도 위협이 된다. 시베리아 동북부와 중국 동북부에서 번식하고 필리핀, 뉴기니, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "머리 길이의 3배쯤인 아래로 휜 부리",
+      "en": "very long decurved bill about three times the head length"
+    },
+    {
+      "ko": "날 때 갈색으로 보이는 등과 허리",
+      "en": "brown back and rump in flight"
+    },
+    {
+      "ko": "암갈색 줄무늬가 촘촘한 날개 아랫면",
+      "en": "underwing densely marked with dark brown bars"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "부리가 암컷보다 짧다.",
+    "female": "부리가 수컷보다 길다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "마도요",
+      "how": "모습이 비슷하나, 이 종은 날 때 등과 허리가 갈색으로 보인다."
+    }
+  ],
+  "art": {
+    "subject": "Far Eastern Curlew (Numenius madagascariensis), adult: very long decurved bill about three times the head length, brown back and rump, underwing densely marked with dark brown bars",
+    "pose": "walking on a tidal mudflat with a crab in its bill",
+    "scene": "Korean south-west coast tidal mudflat at a river mouth during spring migration; no people, buildings or text",
+    "views": [
+      "adult, side view walking: very long decurved bill",
+      "adult in flight, from below: underwing densely barred dark brown, brown back and rump",
+      "head detail, female and male: female bill longer than the male's"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락꼬리마도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001710",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락꼬리마도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001710",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "larus-canus",
+  "ko": "갈매기",
+  "sci": "Larus canus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Gull",
+  "ktsn": 120000001758,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 겨울철새",
+  "habitat": "바닷가 간사지, 암초, 바다 위, 강어귀, 어장",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "흔한 겨울새로, 바닷가 간사지와 암초, 바다 위, 강어귀, 어장 등에서 지낸다. 국내에서는 동해안과 남해안, 낙동강 하구, 한강 등지에서 겨울을 난다. 해안의 작은 언덕이나 풀밭, 작은 섬에 무리 지어 둥지를 짓는다. 세계적으로는 구북구와 신북구 동부, 주로 북위 48~68도 사이에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 머리(여름깃)",
+      "en": "white head (breeding)"
+    },
+    {
+      "ko": "어두운 세로무늬가 있는 흰 머리(겨울깃)",
+      "en": "white head with dark streaks (winter)"
+    },
+    {
+      "ko": "끝이 노란 초록빛 회색 또는 연두색 부리",
+      "en": "greenish-grey to yellow-green bill with a yellow tip"
+    },
+    {
+      "ko": "흰 목·배·꼬리",
+      "en": "white neck, belly and tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Gull (Larus canus), adult breeding: white head, neck, belly and tail, greenish-grey to yellow-green bill with a yellow tip",
+    "pose": "resting on the water at a river mouth, side view",
+    "scene": "Korean river estuary in winter, tidal flats and calm water; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: white head, neck, belly and tail, greenish-grey bill with yellow tip",
+      "adult winter, head detail: white head with dark streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001758",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001758",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 몸길이는 없고 날개 길이 34–38cm만 있다(날개 편 길이 아님).",
+    "원문은 등 색을 '연한 흰색'이라 적어 분명하지 않아 쓰지 않았다."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "turdus-naumanni",
+  "ko": "노랑지빠귀",
+  "sci": "Turdus naumanni",
+  "author": "Temminck, 1820",
+  "en": "Naumann's Thrush",
+  "ktsn": 120000002102,
+  "origin": "nibr",
+  "length": "23cm",
+  "status": "흔한 겨울철새",
+  "habitat": "평지와 산지의 숲, 농경지, 도시, 교외, 구릉",
+  "protect": [],
+  "months": {
+    "seen": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "breed": [],
+    "note": "10월 초에 와서 늦게는 4월 하순까지 머무는 개체도 있다."
+  },
+  "summary": "10월 초에 와서 늦게는 4월 하순까지 머무는 흔한 겨울철새이다. 평지나 산지의 숲에 살며 농경지, 도시, 교외, 구릉, 산지 등 어디서나 눈에 띈다. 곤충과 식물의 씨앗, 열매를 먹는 잡식성이다. 시베리아에서 번식하고 만주 남부, 한국 전역, 일본 서북부, 중국 북부, 타이완 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "갈색 띤 잿빛 머리꼭대기",
+      "en": "brownish-grey crown"
+    },
+    {
+      "ko": "잿빛 갈색 귀깃",
+      "en": "greyish-brown ear coverts"
+    },
+    {
+      "ko": "붉은 살구색이 가려진 뒷목과 등",
+      "en": "hindneck and back with rufous-apricot bases hidden by pale grey-brown fringes"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "기부가 녹슨 색인 흰 아래꼬리덮깃",
+      "en": "white undertail coverts with rusty bases"
+    },
+    {
+      "ko": "엷은 갈색 다리",
+      "en": "pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Naumann's Thrush (Turdus naumanni), adult: brownish-grey crown, greyish-brown ear coverts, hindneck and back with rufous-apricot feathers mostly hidden under pale grey-brown fringes, white belly, white undertail coverts with rusty bases, brown iris, pale brown legs",
+    "pose": "perched in a fruiting tree, picking berries",
+    "scene": "Korean winter farmland edge with bare trees and a wooded hill; no people, buildings or text",
+    "views": [
+      "adult, side view perched: brownish-grey crown, greyish-brown ear coverts, grey-brown fringed back, white belly, pale brown legs",
+      "adult, undertail detail: white undertail coverts with rusty bases"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002102",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002102",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

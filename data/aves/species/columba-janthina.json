@@ -1,0 +1,74 @@
+{
+  "id": "columba-janthina",
+  "ko": "흑비둘기",
+  "sci": "Columba janthina",
+  "author": "Temminck, 1830",
+  "en": "Black Wood Pigeon",
+  "ktsn": 120000001823,
+  "origin": "nibr",
+  "length": "약 40cm",
+  "status": "텃새이자 여름철새",
+  "habitat": "울릉도와 남해안 섬의 상록활엽수림",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "서남해에서는 2월 말부터 둥지를 짓는다."
+  },
+  "summary": "우리나라 비둘기류 가운데 가장 큰 종으로, 울릉도와 남해안 섬에 사는 텃새이자 여름철새이다. 서남해에서는 2월 말부터 상록활엽수림에 둥지를 짓는데, 땅에서 평균 3.4m 높이에 주변 나뭇가지를 엉성하게 얹은 접시 모양이며 흰 타원형 알을 보통 1개 낳는다. 주로 상록활엽수 열매를 먹으며, 마가목, 덧나무, 우묵사스레피, 보리밥나무, 후박나무 열매를 흔히 먹는다. 국외에서는 일본, 러시아 동부, 산둥 지방, 타이완에 분포한다.",
+  "points": [
+    {
+      "ko": "진줏빛 녹색 뒷목",
+      "en": "pearly green sheen on the hindneck"
+    },
+    {
+      "ko": "햇빛에 광택 나는 보라색 몸",
+      "en": "glossy purple plumage in sunlight"
+    },
+    {
+      "ko": "그늘에서 검게 보이는 몸",
+      "en": "appears black in shade"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 뒷목에 녹색 광택이 없다.",
+  "similar": [],
+  "art": {
+    "subject": "Black Wood Pigeon (Columba janthina), adult: glossy purple plumage in sunlight with a pearly green sheen on the hindneck, red legs",
+    "pose": "perched in an evergreen tree, side view, reaching for berries",
+    "scene": "evergreen broadleaf forest on a Korean southern island, dense glossy foliage; no people, buildings or text",
+    "views": [
+      "adult, side view perched in sunlight: glossy purple body, pearly green hindneck, red legs",
+      "adult, side view perched in shade: looks black overall, red legs",
+      "juvenile, head and neck detail: no green gloss on the hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흑비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001823",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흑비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001823",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

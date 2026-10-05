@@ -1,0 +1,73 @@
+{
+  "id": "platalea-minor",
+  "ko": "저어새",
+  "sci": "Platalea minor",
+  "author": "Temminck & Schlegel, 1849",
+  "en": "Black-faced Spoonbill",
+  "ktsn": 120000001519,
+  "origin": "nibr",
+  "length": "약 74cm",
+  "status": "여름철새, 소수는 월동",
+  "habitat": "갯벌, 강 하구, 논, 양어장, 서해안 무인도의 바위 지대(번식)",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "겨울에는 소수의 무리가 제주도와 서남해안에서 겨울을 난다."
+  },
+  "summary": "서해안의 무인도와 인천 연안 등지에서 번식하는 여름철새로, 겨울에는 소수의 무리가 제주도와 서남해안의 습지와 하구에서 겨울을 난다. 번식기에는 서해안 무인도의 바위에 둥지를 틀고 한 배에 알 4~6개를 낳으며, 번식기가 아닐 때는 강 하구, 양어장, 갯벌 등지에서 지낸다. 갯벌, 하구, 논 같은 얕은 습지에서 부리를 휘저어 물고기나 새우류를 주로 잡는다. 중국과 러시아의 번식지 한 곳씩을 빼면 대부분 우리나라 서해안, 특히 비무장지대와 그 부근의 무인도, 인천의 인공섬에서 번식하며, 중국, 일본, 타이완, 홍콩, 베트남에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "번식기 머리의 장식깃",
+      "en": "crest plumes on the head (breeding)"
+    },
+    {
+      "ko": "끝이 주걱 모양인 길고 검은 부리",
+      "en": "long all-black bill with a spoon-shaped tip"
+    },
+    {
+      "ko": "온몸 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "어린새는 부리가 검은빛 도는 살색이고 날개 끝이 검다.",
+  "similar": [],
+  "art": {
+    "subject": "Black-faced Spoonbill (Platalea minor), adult breeding: all-white plumage with crest plumes on the head, long all-black bill with a spoon-shaped tip, black legs",
+    "pose": "wading in shallow water, sweeping its bill through the water while feeding",
+    "scene": "Korean summer west-coast tidal flat beside a rocky uninhabited islet; no people, buildings or text",
+    "views": [
+      "adult breeding, side view wading: all-white body, crest plumes on the head, long black spoon-tipped bill, black legs",
+      "juvenile, side view standing: blackish flesh-coloured bill, black wingtips"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 저어새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001519",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 저어새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001519",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "haliaeetus-albicilla",
+  "ko": "흰꼬리수리",
+  "sci": "Haliaeetus albicilla",
+  "author": "Linnaeus, 1758",
+  "en": "White-tailed Eagle",
+  "ktsn": 120000001587,
+  "origin": "nibr",
+  "length": "약 84–94cm",
+  "status": "겨울철새",
+  "habitat": "해안, 호수, 강 하구, 소택지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식기는 3월 중순~5월 무렵이다."
+  },
+  "summary": "전국의 해안, 호수, 강 하구, 소택지처럼 넓은 물을 낀 곳에서 보이는 겨울철새다. 대개 홀로 지내지만 때로 3~4마리나 큰 무리를 이루기도 한다. 작은 포유류, 새, 물고기 등을 먹으며 연어와 송어를 즐겨 먹는 것으로 알려져 있다. 둥지는 숲속 큰 나무의 가지 위에 나뭇가지를 쌓거나 해안 절벽 등에 지으며, 국외에서는 일본, 중국, 러시아에 분포한다.",
+  "points": [
+    {
+      "ko": "몸보다 엷은 황갈색 머리",
+      "en": "tawny head, paler than the body"
+    },
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "갈색 몸과 검은 날개깃",
+      "en": "brown body with black flight feathers"
+    },
+    {
+      "ko": "둥근 마름모꼴의 흰 꼬리",
+      "en": "white, rounded wedge-shaped tail"
+    },
+    {
+      "ko": "아래서 보면 직사각형인 날개",
+      "en": "parallel-edged, rectangular wings from below"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 부리와 다리가 흑갈색이다. 머리가 가장 어두운 암갈색이고 몸은 전체적으로 적갈색을 띠며, 꼬리깃에 흰색과 검은색이 섞여 있다.",
+  "similar": [],
+  "art": {
+    "subject": "White-tailed Eagle (Haliaeetus albicilla), adult: brown overall with black flight feathers, pale tawny head, white rounded wedge-shaped tail, yellow bill and legs",
+    "pose": "perched on a bare branch near the water's edge",
+    "scene": "Korean winter estuary: wide open water and marsh beside a river mouth; no people, buildings or text",
+    "views": [
+      "adult, side view perched: pale tawny head, yellow bill, brown body, white wedge-shaped tail, yellow legs",
+      "adult, flight from below: rectangular parallel-edged wings with black flight feathers, short white tail",
+      "juvenile, side view perched: dark brown head, rufous-tinged body, blackish-brown bill and legs, tail mixed white and black"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰꼬리수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001587",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰꼬리수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001587",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "199–228cm"
+}

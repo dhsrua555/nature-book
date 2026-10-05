@@ -1,0 +1,76 @@
+{
+  "id": "oriolus-chinensis",
+  "ko": "꾀꼬리",
+  "sci": "Oriolus chinensis",
+  "author": "Linnaeus, 1766",
+  "en": "Black-naped Oriole",
+  "ktsn": 120000001942,
+  "origin": "nibr",
+  "length": "26cm",
+  "status": "TODO",
+  "habitat": "교목의 수평으로 뻗은 가지 끝(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "4~5월에 찾아와 5~7월에 알을 낳는다."
+  },
+  "summary": "4~5월에 한국에 찾아와 여러 곳에서 번식하는 새로, 중국, 인도차이나반도, 미얀마, 말레이반도 등지에서 겨울을 난다. 큰키나무의 수평으로 뻗은 가지 끝에 나무껍질, 풀잎과 줄기, 뿌리를 거미줄로 엮은 밥그릇 모양 둥지를 매달고, 5~7월에 얼룩덜룩한 알 4개를 낳는다. 세력권에 들어온 맹금류를 공격하기도 한다. ‘히요, 호호, 호이오’ 하고 곱게 울며, 이따금 ‘케엑~’ 하는 소리 등 여러 소리를 낸다.",
+  "points": [
+    {
+      "ko": "붉은 부리",
+      "en": "red bill"
+    },
+    {
+      "ko": "폭넓은 검은 눈줄(수컷)",
+      "en": "broad black eye-stripe (male)"
+    },
+    {
+      "ko": "선명한 노란 몸",
+      "en": "bright yellow body"
+    },
+    {
+      "ko": "바깥꼬리깃이 노란 검은 꼬리",
+      "en": "black tail with yellow outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 선명한 노란색이고 검은 눈줄이 넓다.",
+    "female": "등이 흐린 노란색이고 눈줄이 좁다."
+  },
+  "young": "암컷과 비슷하지만 가슴과 배가 희고 검은 세로줄무늬가 있다.",
+  "similar": [],
+  "art": {
+    "subject": "Black-naped Oriole (Oriolus chinensis), adult male: bright yellow body, broad black eye-stripe, black tail with yellow outer tail feathers, red bill",
+    "pose": "perched among leafy branches, singing",
+    "scene": "tall leafy broadleaf trees in Korean early summer woodland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: bright yellow body, broad black eye-stripe, red bill, black tail with yellow outer feathers",
+      "adult female, side view perched: dull yellow back, narrow black eye-stripe, red bill",
+      "juvenile, side view perched: female-like but white breast and belly with black streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꾀꼬리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001942",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꾀꼬리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001942",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

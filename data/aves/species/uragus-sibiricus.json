@@ -1,0 +1,71 @@
+{
+  "id": "uragus-sibiricus",
+  "ko": "긴꼬리홍양진이",
+  "sci": "Uragus sibiricus",
+  "author": "Pallas, 1773",
+  "en": "Siberian Long-tailed Rosefinch",
+  "ktsn": 120000002196,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "북부의 흔한 텃새, 중부 이남에서는 불규칙하게 오는 겨울새",
+  "habitat": "낮은 산지의 숲 가장자리, 평지 초원, 강가 버드나무 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "산란기는 5월 하순~7월 하순이다."
+  },
+  "summary": "우리나라 북부에서는 흔히 번식하는 텃새이고, 중부 이남에서는 불규칙하게 찾아오는 겨울새이다. 낮은 산지의 숲 가장자리와 평지 초원, 강가 버드나무 숲에 살며, 여름에는 암수가 함께 지내다가 겨울에는 흔히 작은 무리를 짓는다. 바닷가나 평지의 관목림, 강가 버드나무 숲에 둥지를 틀고 한배에 알을 3~4개 낳는다. 여름에는 작은 곤충을, 가을과 겨울에는 주로 식물성 먹이를 먹으며, 우수리·만주·한국 북부에서 번식하고 한국 중부 이남과 중국 북부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "깃 가장자리가 흰 붉은 몸(수컷)",
+      "en": "red plumage with white or greyish-white feather edges (male)"
+    },
+    {
+      "ko": "검은 갈색 날개",
+      "en": "blackish-brown wings"
+    },
+    {
+      "ko": "검은 세로줄이 있는 갈색 몸(암컷)",
+      "en": "brown plumage with black streaks (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 붉은빛이고 깃 가장자리는 흰색이나 잿빛 흰색이며, 날개는 검은 갈색이다.",
+    "female": "온몸이 갈색이고 검은 세로 줄무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Siberian Long-tailed Rosefinch (Uragus sibiricus), adult male: red plumage overall with white or greyish-white feather edges, blackish-brown wings",
+    "pose": "perched in a riverside willow, side view",
+    "scene": "Korean winter riverside: willow thicket along a river with lowland grassland beyond; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: red overall with white or greyish-white feather edges, blackish-brown wings",
+      "adult female, side view perched: brown overall with black streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴꼬리홍양진이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002196",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴꼬리홍양진이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002196",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Carpodacus sibiricus)"
+    }
+  ],
+  "todo": []
+}

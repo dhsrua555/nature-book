@@ -1,0 +1,76 @@
+{
+  "id": "riparia-riparia",
+  "ko": "갈색제비",
+  "sci": "Riparia riparia",
+  "author": "Linnaeus, 1758",
+  "en": "Sand Martin",
+  "ktsn": 120000001986,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔하지 않은 나그네새",
+  "habitat": "호수와 하천의 물가, 갈대밭, 배 밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "흔하지 않은 나그네새로, 이동할 때 제비 무리에 섞여 다니며 배 밭이나 갈대밭을 잠자리로 삼는다. 물 위를 나는 곤충 따위를 날면서 잡아먹는다. 호수와 하천 물가의 모래땅이나 흙 벼랑, 밭의 모래층에 굴을 파 많은 수가 모여 번식하며, 6~7월에 한배에 3~5개의 알을 낳는다. 시베리아 남동부, 아무르, 사할린, 쿠릴 열도, 홋카이도에서 번식한다.",
+  "points": [
+    {
+      "ko": "흑갈색 머리와 뺨",
+      "en": "blackish-brown head and cheeks"
+    },
+    {
+      "ko": "흰 턱 밑과 앞목",
+      "en": "white chin and foreneck"
+    },
+    {
+      "ko": "머리와 같은 흑갈색 등",
+      "en": "blackish-brown back matching the crown"
+    },
+    {
+      "ko": "흰 배와 옆구리",
+      "en": "white belly and flanks"
+    },
+    {
+      "ko": "검은 부리, 어두운 갈색 다리",
+      "en": "black bill and dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sand Martin (Riparia riparia), adult: blackish-brown forehead, crown, nape, lores, ear-coverts and cheeks, white chin and foreneck, blackish-brown back, scapulars and uppertail coverts, white belly, flanks and undertail coverts, black bill, dark brown legs",
+    "pose": "in flight low over water, hawking insects",
+    "scene": "Korean lake shore with open water and reedbeds during migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched: blackish-brown head and upperparts, white chin and foreneck, white belly",
+      "adult, in flight from below: white throat and belly, blackish-brown head"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 갈색제비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001986",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 갈색제비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001986",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 가슴도 흰색이라 하고 가슴띠를 말하지 않아, 동정 포인트와 그림 설명에서 가슴 색은 뺐다(확인 필요)"
+  ]
+}

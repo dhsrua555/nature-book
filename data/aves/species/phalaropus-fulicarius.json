@@ -1,0 +1,85 @@
+{
+  "id": "phalaropus-fulicarius",
+  "ko": "붉은배지느러미발도요",
+  "sci": "Phalaropus fulicarius",
+  "author": "Linnaeus, 1758",
+  "en": "Red Phalarope",
+  "ktsn": 120000001751,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "바다, 궂은 날씨에는 해안가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "겨울을 바다에서 나는 도요새로, 날씨가 궂으면 해안가에서도 보인다. 아이슬란드 서부와 시베리아에서 번식하고 아프리카와 남아메리카에서 겨울을 나며, 유럽은 이동 중에 거쳐 가는 곳이다.",
+  "points": [
+    {
+      "ko": "눈 주위의 굵은 검은 줄(겨울깃)",
+      "en": "thick black stripe around the eye (winter)"
+    },
+    {
+      "ko": "짧고 두꺼운 부리",
+      "en": "short, thick bill"
+    },
+    {
+      "ko": "흑백 줄무늬 머리와 노란 부리(여름)",
+      "en": "black-and-white striped head and mostly yellow bill (summer)"
+    },
+    {
+      "ko": "줄무늬 없는 엷은 회색 등(겨울깃)",
+      "en": "plain, unstreaked pale grey back (winter)"
+    },
+    {
+      "ko": "흰 아랫면(겨울깃)",
+      "en": "white underparts (winter)"
+    },
+    {
+      "ko": "붉은 아랫면(여름)",
+      "en": "red underparts (summer)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "지느러미발도요",
+      "how": "등에 줄무늬가 없고 부리가 짧고 두껍다."
+    }
+  ],
+  "art": {
+    "subject": "Red Phalarope (Phalaropus fulicarius), adult winter: plain pale grey upperparts without streaks, white underparts, thick black patch around the eye, short thick dark bill",
+    "pose": "swimming on the sea surface, side view",
+    "scene": "Korean winter sea off a rocky coast, grey choppy water; no people, buildings or text",
+    "views": [
+      "adult winter, side view swimming: pale grey unstreaked upperparts, white underparts, thick black eye patch, short thick dark bill",
+      "adult summer, side view swimming: red underparts, black-and-white striped head, mostly yellow bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은배지느러미발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001751",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은배지느러미발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001751",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 견줄 종을 '붉은목깝작도요(red-necked phalaropes)'로 적어, 영어 이름이 같은 지느러미발도요로 옮겼다.",
+    "원문이 유럽에서의 모습만 적어 국내 상태와 몸길이가 없다."
+  ]
+}

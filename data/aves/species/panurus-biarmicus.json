@@ -1,0 +1,77 @@
+{
+  "id": "panurus-biarmicus",
+  "ko": "수염오목눈이",
+  "sci": "Panurus biarmicus",
+  "author": "Linnaeus, 1758",
+  "en": "Bearded Reedling",
+  "ktsn": 120000002059,
+  "origin": "nibr",
+  "length": "약 16.5cm",
+  "status": "TODO",
+  "habitat": "민물 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "민물 습지에 사는 새로, 온대 지역 일부에 분포한다. 대부분 일부일처로 지내며, '칭- 칭-' 하고 조용히 우는 등 여러 가지 소리를 낸다. 여름에는 곤충, 겨울에는 씨앗을 먹고 모기 애벌레나 활짝 핀 애기부들 등도 먹으며, 날벌레를 찾을 때는 거꾸로 매달린 채 머리를 빙빙 돌린다. 영국 남동부와 아시아 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷의 회색 기 도는 파란 머리",
+      "en": "grey-blue head (male)"
+    },
+    {
+      "ko": "암수 모두 노란 눈",
+      "en": "yellow eyes in both sexes"
+    },
+    {
+      "ko": "적갈색 또는 갈색 몸",
+      "en": "rufous to brown body"
+    },
+    {
+      "ko": "황갈색·검은색·적갈색 줄무늬 날개",
+      "en": "wings with long buff, black and rufous stripes"
+    },
+    {
+      "ko": "수컷의 검은 항문 부위",
+      "en": "black vent (male)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 회색 기가 도는 파란색이고 몸은 적갈색이나 갈색이며, 항문 부위가 검다.",
+    "female": "전체가 조금 흐린 황갈색과 적갈색을 띤다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Bearded Reedling (Panurus biarmicus), adult male: grey-blue head, rufous to brown body, wings with long buff, black and rufous stripes, black vent, yellow eyes",
+    "pose": "hanging upside down on a reed stem, turning its head to look for flying insects",
+    "scene": "Korean freshwater marsh with dense reeds and flowering cattails; no people, buildings or text",
+    "views": [
+      "adult male, side view perched on a reed: grey-blue head, yellow eye, rufous-brown body, striped wings, black vent",
+      "adult female, side view perched: duller buff and rufous overall, yellow eye"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 수염오목눈이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002059",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 수염오목눈이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002059",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '혀로 털을 정리한다', '태평양 북부 분포' 같은 서술은 의심스러워 요약에 넣지 않았다(확인 필요)",
+    "원문에 국내 상태와 시기가 없다"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "platalea-leucorodia",
+  "ko": "노랑부리저어새",
+  "sci": "Platalea leucorodia",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Spoonbill",
+  "ktsn": 120000001518,
+  "origin": "nibr",
+  "length": "약 86cm",
+  "status": "매우 드문 겨울철새, 매우 드문 나그네새",
+  "habitat": "개활 습지, 얕은 호소, 큰 하천, 하구의 진흙밭과 갯벌, 해안의 작은 섬",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "아주 드물게 겨울을 나거나 지나가는 저어새류로, 서남해안의 강 하구와 습지, 제주도 등지에서 작은 무리가 겨울을 난다. 트인 습지, 얕은 호소, 큰 하천, 하구의 진흙밭이나 갯벌, 바위와 모래로 덮인 작은 바닷가 섬 등에 산다. 물고기, 개구리, 올챙이, 조개류와 그 밖의 연체동물, 곤충 따위를 잡아먹는다.",
+  "points": [
+    {
+      "ko": "끝이 노란 납작한 주걱 부리",
+      "en": "flat, spoon-shaped bill with a yellow tip"
+    },
+    {
+      "ko": "뒷머리의 긴 노란 장식깃(여름)",
+      "en": "long yellow crest plumes on the nape (breeding)"
+    },
+    {
+      "ko": "눈가·턱밑·멱 가운데 맨 피부(겨울)",
+      "en": "bare skin around the eye, chin and centre of throat (non-breeding)"
+    },
+    {
+      "ko": "아랫목의 황갈색 목테(여름)",
+      "en": "yellowish-brown collar on the lower neck (breeding)"
+    },
+    {
+      "ko": "온몸 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Spoonbill (Platalea leucorodia), adult non-breeding: all-white plumage, bare skin around the eye, on the chin and centre of the throat, flat spoon-shaped bill with a yellow tip, black legs",
+    "pose": "wading in shallow estuary water, side view",
+    "scene": "Korean winter estuary on the southwest coast: mudflats and shallow channels with reed edges; no people, buildings or text",
+    "views": [
+      "adult non-breeding, side view wading: all-white body, yellow-tipped spoon bill, black legs",
+      "adult breeding, side view standing: long yellow nape plumes, yellowish-brown collar on the lower neck, yellow-tipped spoon bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑부리저어새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001518",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑부리저어새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001518",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "aythya-baeri",
+  "ko": "붉은가슴흰죽지",
+  "sci": "Aythya baeri",
+  "author": "Radde, 1863",
+  "en": "Baer's Pochard",
+  "ktsn": 120000001453,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "희귀한 겨울철새",
+  "habitat": "저수지, 강, 강 하구",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "저수지와 강, 강 하구에서 주로 보이는 희귀한 겨울철새로, 겨울에는 대개 흰죽지나 댕기흰죽지 무리에 섞여 있다. 전국에서 관찰되지만 어디서나 수가 적어, 지금까지 한곳에서 본 가장 큰 무리도 5마리뿐이며 금강 하구와 만경강 하구에 찾아온 기록이 있다. 잠수하는 오리이지만 먹이와 습성은 잘 밝혀지지 않았다. 중국 동북부와 러시아 극동에서 번식하고 한국, 일본, 중국 남부에서 겨울을 나며, 동남아시아 북부에도 겨울에 드물게 찾아간다.",
+  "points": [
+    {
+      "ko": "흰색 또는 흐린 노란색 눈",
+      "en": "white or pale yellow iris"
+    },
+    {
+      "ko": "수컷의 녹색 광택이 도는 머리",
+      "en": "male: green-glossed head"
+    },
+    {
+      "ko": "수컷의 적갈색 가슴",
+      "en": "male: reddish-brown breast"
+    },
+    {
+      "ko": "암컷의 어두운 밤색 머리와 가슴",
+      "en": "female: dark chestnut head and breast"
+    },
+    {
+      "ko": "뚜렷한 흰 아래꼬리덮깃",
+      "en": "conspicuous white undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리에 녹색 광택이 돌고 가슴은 적갈색이다.",
+    "female": "머리와 가슴이 어두운 밤색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Baer's Pochard (Aythya baeri), adult male: green-glossed head, reddish-brown breast, white to pale yellow eye, conspicuous white undertail coverts",
+    "pose": "swimming on a reservoir among a flock of other diving ducks",
+    "scene": "Korean winter estuary with wide open water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: green-glossed head, reddish-brown breast, pale eye, white undertail coverts",
+      "adult female, side view swimming: dark chestnut head and breast, pale eye, white undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은가슴흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001453",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은가슴흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001453",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "turdus-pallidus",
+  "ko": "흰배지빠귀",
+  "sci": "Turdus pallidus",
+  "author": "Gmelin, 1789",
+  "en": "Pale Thrush",
+  "ktsn": 120000002098,
+  "origin": "nibr",
+  "length": "약 23cm",
+  "status": "나그네새",
+  "habitat": "숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월경에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도 전역을 지나가는 나그네새로, 숲에서 번식한다. 이동할 때는 많은 수가 무리 지어 다니지만 겨울에는 혼자 있을 때가 많고, 여름에는 암수가 함께 지낸다. 땅에서 그리 높지 않은 나뭇가지에 둥지를 틀고 6월경에 알을 4~5개 낳는다. 장미과·포도과 등 식물의 씨앗과 곤충, 거미, 다족류 등을 먹는다.",
+  "points": [
+    {
+      "ko": "올리브색 띤 석판 잿빛 머리꼭대기",
+      "en": "olive-tinged slate-grey crown"
+    },
+    {
+      "ko": "흰 턱밑과 잿빛 뺨·멱",
+      "en": "white chin, grey cheeks and throat"
+    },
+    {
+      "ko": "기부만 노란 아랫부리",
+      "en": "lower mandible yellow at the base, brown tip"
+    },
+    {
+      "ko": "엷은 홍갈색 옆구리",
+      "en": "pale pinkish-brown flanks"
+    },
+    {
+      "ko": "흰 배 중앙",
+      "en": "white centre to the belly"
+    },
+    {
+      "ko": "황색 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기가 올리브색 띤 석판 잿빛이고, 뺨과 귀깃, 멱이 잿빛이다.",
+    "female": "머리꼭대기에서 위꽁지덮깃까지 수컷보다 붉은 기가 조금 적은 올리브 갈색으로, 머리와 등의 색 차이가 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pale Thrush (Turdus pallidus), adult male in winter: olive-tinged slate-grey crown, dark grey lores and eye surround, white chin, grey cheeks, ear coverts and throat, olive grey-brown upper breast, pale pinkish-brown flanks, olive grey-brown belly sides with a white centre to the belly, square-ended tail, brown upper mandible and lower mandible tip with a yellow base to the lower mandible, brown iris, yellow legs",
+    "pose": "perched on a low branch near the ground, side view",
+    "scene": "Korean woodland during spring or autumn passage, low branches above the forest floor; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: slate-grey crown, grey face and throat, white chin, pinkish-brown flanks, white belly centre, yellow legs",
+      "adult female winter, side view perched: uniform olive-brown from crown to uppertail coverts, no contrast between head and back",
+      "adult, head detail: brown upper mandible, lower mandible yellow at the base with a brown tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰배지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002098",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰배지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002098",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

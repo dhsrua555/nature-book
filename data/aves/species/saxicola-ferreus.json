@@ -1,0 +1,74 @@
+{
+  "id": "saxicola-ferreus",
+  "ko": "검은뺨딱새",
+  "sci": "Saxicola ferreus",
+  "author": "J.E.& G.R.Gray, 1846",
+  "en": "Grey Bush Chat",
+  "ktsn": 120000002125,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "해안의 경작지, 초지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "해안의 경작지나 초지에서 사는 새이다. 수컷은 흰 눈썹선과 검은 뺨이 눈에 띄고, 암컷은 멱과 배를 빼면 온몸이 갈색이다. 국외에서는 동남아시아, 인도, 방글라데시, 파키스탄 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "검은 뺨",
+      "en": "black cheeks"
+    },
+    {
+      "ko": "검은 세로줄 많은 회색 이마와 등",
+      "en": "grey forehead and back heavily streaked black"
+    },
+    {
+      "ko": "날개의 흰 줄",
+      "en": "white wing stripe"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마와 등은 회색에 검은 세로 줄무늬가 많고, 눈썹선은 희며 뺨은 검다. 아랫면은 희고 날개에 흰 줄이 있다.",
+    "female": "멱과 배를 뺀 온몸이 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey Bush Chat (Saxicola ferreus), adult male: grey forehead and back heavily streaked black, white supercilium, black cheeks, white underparts, white stripe on the wing",
+    "pose": "perched, side view",
+    "scene": "Korean coastal farmland with grassy field margins; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: grey forehead and back streaked black, white supercilium, black cheeks, white underparts, white wing stripe",
+      "adult female, side view perched: brown all over except the throat and belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은뺨딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002125",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은뺨딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002125",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

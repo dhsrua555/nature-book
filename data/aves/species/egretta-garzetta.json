@@ -1,0 +1,76 @@
+{
+  "id": "egretta-garzetta",
+  "ko": "쇠백로",
+  "sci": "Egretta garzetta",
+  "author": "Linnaeus, 1766",
+  "en": "Little Egret",
+  "ktsn": 120000001546,
+  "origin": "nibr",
+  "length": "약 60cm",
+  "status": "흔한 여름철새",
+  "habitat": "중대백로·황로 등과 함께 쓰는 집단번식지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "4월 하순~8월 상순에 알을 낳는다."
+  },
+  "summary": "흔한 여름철새로, 흰색 백로류 가운데 가장 작다. 중대백로, 황로 등과 함께 무리 지어 번식하며 4월 하순에서 8월 상순 사이에 알을 3~5개 낳는다. 어류, 개구리, 뱀, 새우와 가재 같은 갑각류, 물속 곤충 따위를 잡아먹는다. 중국, 동남아시아, 인도, 유럽, 아프리카, 뉴기니, 호주에 분포한다.",
+  "points": [
+    {
+      "ko": "윗목의 긴 흰 장식깃 두 가닥",
+      "en": "two long white plumes from the nape"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "온몸 고른 흰색",
+      "en": "uniformly white plumage"
+    },
+    {
+      "ko": "검은 다리와 노란 발",
+      "en": "black legs with yellow feet"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Little Egret (Egretta garzetta), adult breeding: uniformly white plumage, two long white plumes on the nape, black bill, black legs, yellow feet",
+    "pose": "perched at the colony, side view, showing its long nape plumes",
+    "scene": "Korean summer egret colony shared with Great Egrets and Cattle Egrets; no people, buildings or text",
+    "views": [
+      "adult, side view standing: all-white plumage, two long nape plumes, black bill, black legs, yellow feet",
+      "adult, foot detail: black legs with yellow feet"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠백로",
+      "url": "https://species.nibr.go.kr/species-detail/120000001546",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠백로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001546",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

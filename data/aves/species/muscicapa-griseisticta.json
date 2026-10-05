@@ -1,0 +1,78 @@
+{
+  "id": "muscicapa-griseisticta",
+  "ko": "제비딱새",
+  "sci": "Muscicapa griseisticta",
+  "author": "Swinhoe, 1861",
+  "en": "Grey-streaked Flycatcher",
+  "ktsn": 120000002135,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "드물지 않은 나그네새",
+  "habitat": "나무 위, 잎이 적은 가지나 마른 가지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나간다."
+  },
+  "summary": "봄과 가을에 한반도 전역을 드물지 않게 지나가는 나그네새이다. 홀로 또는 암수가 함께 늘 나무 위에서 지내며, 잎이 적은 가지 끝이나 마른 가지에 몸을 곧추세우고 앉는다. 딱정벌레목·벌목·파리목·매미목·메뚜기목 곤충을 주로 먹는다. 구북구 동부, 캄차카, 쿠릴 열도, 사할린, 아무르 하류, 우수리, 만주 등지에서 번식하고 필리핀, 셀레베스, 몰루카, 뉴기니 서북부 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "어두운 축반이 있는 잿빛 머리꼭대기",
+      "en": "dark brownish-grey crown with dark shaft streaks"
+    },
+    {
+      "ko": "엷은 잿빛 눈앞",
+      "en": "pale grey lores"
+    },
+    {
+      "ko": "위에서 보면 이등변삼각형인 부리",
+      "en": "bill forming an isosceles triangle from above"
+    },
+    {
+      "ko": "갈색 띤 어두운 잿빛 윗면",
+      "en": "dark brownish-grey upperparts"
+    },
+    {
+      "ko": "어두운 갈색 날개와 꽁지",
+      "en": "dark brown wings and tail"
+    },
+    {
+      "ko": "작은 다리와 큰 발톱",
+      "en": "small blackish-brown legs with large claws"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 매우 비슷해 깃털로는 구별할 수 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey-streaked Flycatcher (Muscicapa griseisticta), adult: dark brownish-grey forehead and crown with dark shaft streaks, pale grey lores, ear coverts and cheeks mixed pale grey and brownish grey, dark brownish-grey upperparts, dark brown wings and tail, blackish-brown bill with a pale base to the lower mandible, brown iris, small blackish-brown legs with large claws",
+    "pose": "perched bolt upright on a bare dead branch near the treetop",
+    "scene": "Korean woodland during spring or autumn migration, sparse-leaved branches at the top of a tree; no people, buildings or text",
+    "views": [
+      "adult, side view perched upright: dark brownish-grey crown with dark shaft streaks, pale grey lores, dark brownish-grey upperparts, dark brown wings and tail, blackish-brown legs",
+      "adult, head from above: bill forming an isosceles triangle"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 제비딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002135",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 제비딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002135",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

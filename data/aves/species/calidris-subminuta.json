@@ -1,0 +1,78 @@
+{
+  "id": "calidris-subminuta",
+  "ko": "종달도요",
+  "sci": "Calidris subminuta",
+  "author": "Middendorff, 1853",
+  "en": "Long-toed Stint",
+  "ktsn": 120000001735,
+  "origin": "nibr",
+  "length": "약 15cm",
+  "status": "흔한 나그네새",
+  "habitat": "하구, 염전, 호수, 해안 조간대, 해안·내륙 초원(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~6월 하순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 흔히 지나가는 나그네새로, 낙동강 하구, 시흥 소래 염전, 속초 청초호, 인천과 남해안 부근의 조간대 등을 거쳐 간다. 작은 조개, 물고기, 거미, 곤충 같은 동물성 먹이를 주로 먹고 식물 열매도 조금 먹는다. 해안이나 내륙 초원의 움푹한 땅에 접시 모양 둥지를 틀고 한배에 알 4개를 낳는다. 아한대에서 번식하며, 번식지는 시베리아 북동부이다.",
+  "points": [
+    {
+      "ko": "엷은 적갈색 가장자리의 검은 머리꼭대기",
+      "en": "black crown and nape fringed pale rufous"
+    },
+    {
+      "ko": "갈색 기 도는 흰 눈썹선",
+      "en": "brownish-white supercilium"
+    },
+    {
+      "ko": "흰 턱 밑과 멱",
+      "en": "white chin and throat"
+    },
+    {
+      "ko": "엷은 적갈색 가장자리의 검은 등·어깨깃",
+      "en": "black mantle and scapulars fringed pale rufous"
+    },
+    {
+      "ko": "검은 중앙 꽁지깃 한 쌍",
+      "en": "black central pair of tail feathers"
+    },
+    {
+      "ko": "황록색 또는 황갈색 다리",
+      "en": "yellowish-green or yellowish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "여름깃은 암수가 같은 모습이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Long-toed Stint (Calidris subminuta), adult breeding: black crown, nape, mantle and scapulars fringed pale rufous, brownish-white supercilium, brownish-white lores, ear coverts and neck sides streaked brown, white chin and throat, black central tail feathers with grey-brown outer tail, black bill, yellowish-green legs",
+    "pose": "foraging at the edge of a shallow pool, side view",
+    "scene": "Korean coastal salt pans and estuary mud during spring migration; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: black upperparts fringed pale rufous, brownish-white supercilium, white throat, black bill, yellowish-green legs",
+      "adult breeding, tail from above: black central pair, grey-brown outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 종달도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001735",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 종달도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001735",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

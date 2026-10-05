@@ -1,0 +1,80 @@
+{
+  "id": "amaurornis-phoenicurus",
+  "ko": "흰배뜸부기",
+  "sci": "Amaurornis phoenicurus",
+  "author": "Pennant, 1769",
+  "en": "White-breasted Waterhen",
+  "ktsn": 120000001633,
+  "origin": "nibr",
+  "length": "약 32.5cm",
+  "status": "드문 나그네새",
+  "habitat": "논, 호소, 초습지, 도랑의 갈대밭과 물가 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월경 알을 낳는다."
+  },
+  "summary": "봄과 가을에 서해안을 따라 드물게 지나가는 나그네새로, 논, 호소, 초습지, 도랑 등의 갈대밭과 물가 풀숲에 산다. 갈대나 대나무, 관목 위에 갈잎으로 접시 모양 둥지를 틀며, 물가 풀숲의 땅 위에 짓기도 한다. 한배에 알을 4~8개 낳는다. 곤충과 조개류를 즐겨 먹고 풀씨와 낟알도 먹으며, 파키스탄 서부에서 인도 북부, 미얀마, 중국, 일본에 이르는 지역에 분포한다.",
+  "points": [
+    {
+      "ko": "순백색 이마(수컷)",
+      "en": "pure white forehead (male)"
+    },
+    {
+      "ko": "녹색 부리",
+      "en": "green bill"
+    },
+    {
+      "ko": "흰 얼굴·멱·가슴·배",
+      "en": "white face, throat, breast and belly"
+    },
+    {
+      "ko": "어두운 석판 검은색 머리꼭대기와 옆구리",
+      "en": "dark slate-black crown and flanks"
+    },
+    {
+      "ko": "밤색 아래꼬리덮깃",
+      "en": "chestnut undertail coverts"
+    },
+    {
+      "ko": "엷은 황색 다리",
+      "en": "pale yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult male: pure white forehead, supercilium, chin, throat, neck sides, breast and belly; dark slate-black crown, nape, mantle, scapulars, rump and flanks; a black line running from the rear of the ear-coverts along the body side, dividing the dark upperparts from the white underparts; chestnut undertail coverts and pale chestnut lower belly; green bill; pale yellow legs",
+    "pose": "walking along the edge of a reed bed beside a ditch",
+    "scene": "Korean west-coast rice paddies and reedy ditches during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult male, side view walking: white forehead, face and underparts, dark slate-black crown, nape and flanks, black dividing line, chestnut undertail coverts, green bill, pale yellow legs",
+      "adult male, rear three-quarter view: chestnut undertail coverts and pale chestnut lower belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰배뜸부기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001633",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰배뜸부기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001633",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 등을 어두운 석판 검은색이라 하고 뒤에서 밤색이라고도 해 등 색은 쓰지 않았다"
+  ]
+}

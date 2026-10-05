@@ -1,0 +1,71 @@
+{
+  "id": "ixobrychus-flavicollis",
+  "ko": "검은해오라기",
+  "sci": "Ixobrychus flavicollis",
+  "author": "Latham, 1790",
+  "en": "Black Bittern",
+  "ktsn": 120000085544,
+  "origin": "nibr",
+  "length": "58cm",
+  "status": "TODO",
+  "habitat": "갈대밭, 나무 위(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "긴 목과 길고 노란 부리를 지닌 몸집 큰 새로, 갈대밭이나 나무 위에 둥지를 틀고 알 3~5개를 낳는다. 숨어 지내는 습성과 사는 환경 때문에 보기 어려울 수 있지만, 날아가는 모습은 종종 눈에 띈다. 곤충과 물고기, 양서류를 먹는다. 열대 지방에서 번식하며 유럽, 아시아, 인도, 스리랑카 동부, 중국, 인도네시아, 오스트레일리아에 분포한다.",
+  "points": [
+    {
+      "ko": "길고 노란 부리",
+      "en": "long yellow bill"
+    },
+    {
+      "ko": "긴 목과 노란 목 옆",
+      "en": "long neck with yellow sides"
+    },
+    {
+      "ko": "균일한 검은 윗면",
+      "en": "uniformly black upperparts"
+    },
+    {
+      "ko": "갈색 줄무늬가 빽빽한 흰 아랫면",
+      "en": "white underparts densely streaked brown"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 어른새와 비슷한 색이지만 어두운 갈색을 띤다.",
+  "similar": [],
+  "art": {
+    "subject": "Black Bittern (Ixobrychus flavicollis), adult: long neck, long yellow bill, uniformly black upperparts, yellow sides of the neck, white underparts densely streaked brown",
+    "pose": "flying low over a reed bed",
+    "scene": "Korean marsh: dense reed bed with a few trees along its edge; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long yellow bill, yellow neck sides, uniformly black upperparts, white underparts densely streaked brown",
+      "juvenile, side view standing: coloured like the adult but dark brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000085544",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000085544",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Botaurus flavicollis)"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태·기록이 없다"
+  ]
+}

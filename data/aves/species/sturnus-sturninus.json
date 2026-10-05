@@ -1,0 +1,80 @@
+{
+  "id": "sturnus-sturninus",
+  "ko": "북방쇠찌르레기",
+  "sci": "Sturnus sturninus",
+  "author": "Pallas, 1776",
+  "en": "Daurian Starling",
+  "ktsn": 120000002081,
+  "origin": "nibr",
+  "length": "18cm",
+  "status": "여름철새",
+  "habitat": "도시공원, 정원, 교외의 노거수, 소림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5
+    ],
+    "note": "5월 하순에 알을 낳는다."
+  },
+  "summary": "도시 공원과 정원, 교외의 큰 고목, 성긴 숲 등에 사는 여름철새로, 우리나라에서 번식하고 중국 남부와 동남아시아에서 겨울을 난다. 번식기에는 암수가 함께 지내다가 번식 뒤에는 큰 무리를 짓는다. 아주 엉성한 접시 모양 둥지를 짓고 5월 하순에 알을 3~8개 낳는다. 어미는 딱총나무, 뽕나무, 벚나무 등의 열매와 딱정벌레, 파리, 나비 애벌레 등을 즐겨 먹는다.",
+  "points": [
+    {
+      "ko": "잿빛 이마에서 뒷목",
+      "en": "grey from forehead to hindneck"
+    },
+    {
+      "ko": "뒷머리의 큰 검은 자색 무늬",
+      "en": "large blackish-purple patch on the hindcrown"
+    },
+    {
+      "ko": "머리꼭대기~뒷목의 털 같은 긴 깃",
+      "en": "long, hair-like feathers from crown to hindneck"
+    },
+    {
+      "ko": "갈색 기 도는 잿빛 턱밑과 윗멱",
+      "en": "brownish-grey chin and upper throat"
+    },
+    {
+      "ko": "조금 짧은 검은 부리",
+      "en": "rather short black bill"
+    },
+    {
+      "ko": "잿빛 갈색 다리",
+      "en": "greyish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Daurian Starling (Sturnus sturninus), adult: grey from forehead to hindneck with a large blackish-purple patch on the hindcrown, grey ear coverts, brownish-grey chin and upper throat, long hair-like feathers from crown to hindneck, rather short black bill, greyish-brown legs",
+    "pose": "perched in a mulberry tree, picking berries",
+    "scene": "Korean early-summer park with large old trees and open woodland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: grey head with large blackish-purple patch on the hindcrown, brownish-grey throat, short black bill, greyish-brown legs",
+      "adult, head detail: hair-like elongated feathers from crown to hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방쇠찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000002081",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방쇠찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002081",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Agropsar sturninus)"
+    }
+  ],
+  "todo": []
+}

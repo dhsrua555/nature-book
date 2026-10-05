@@ -1,0 +1,73 @@
+{
+  "id": "milvus-migrans",
+  "ko": "솔개",
+  "sci": "Milvus migrans",
+  "author": "Boddaert, 1783",
+  "en": "Black Kite",
+  "ktsn": 120000001585,
+  "origin": "nibr",
+  "length": "58.5–68.5cm",
+  "status": "겨울철새, 가끔 텃새",
+  "habitat": "산림, 섬, 해안가, 시가지의 숲",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "겨울철새이지만 가끔 텃새로 머물기도 하며, 남해와 서해의 섬, 철원에서 발견된다. 산림이나 섬, 해안가, 시가지 등의 숲속 나무 위에 나뭇가지로 접시 모양 둥지를 짓고 알 2~3개를 낳는다. 곤충을 비롯한 무척추동물, 죽은 동물, 작은 포유류, 물고기 등을 주로 먹는다. 국외에서는 일본, 중국, 티베트, 히말라야에도 분포한다.",
+  "points": [
+    {
+      "ko": "밝은 갈색 세로줄이 있는 적갈색 몸",
+      "en": "rufous-brown overall with pale brown streaks"
+    },
+    {
+      "ko": "날 때 날개 아랫면 가운데의 흰 점",
+      "en": "white patch in the middle of the underwing in flight"
+    },
+    {
+      "ko": "가운데가 약간 패인 꼬리",
+      "en": "shallowly forked tail"
+    },
+    {
+      "ko": "펼치면 일자로 보이는 꼬리 끝",
+      "en": "tail can look square-ended when fanned"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 조금 작다.",
+    "female": "수컷보다 조금 더 크다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Kite (Milvus migrans), adult: rufous-brown overall with pale brown streaks, white patch in the middle of the underwing, shallowly forked tail",
+    "pose": "soaring over the shore, showing the pale underwing patch",
+    "scene": "Korean winter island coast: wooded slopes above a rocky shore; no people, buildings or text",
+    "views": [
+      "adult, side view perched: rufous-brown plumage with pale brown streaks",
+      "adult, flight from below: white mid-underwing patch, shallowly forked tail",
+      "adult, flight from below with tail fanned: tail tip looking straight"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 솔개",
+      "url": "https://species.nibr.go.kr/species-detail/120000001585",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 솔개",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001585",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

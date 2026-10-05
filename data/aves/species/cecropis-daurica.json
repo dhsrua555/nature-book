@@ -1,0 +1,79 @@
+{
+  "id": "cecropis-daurica",
+  "ko": "귀제비",
+  "sci": "Cecropis daurica",
+  "author": "Laxmann, 1769",
+  "en": "Eastern Red-rumped Swallow",
+  "ktsn": 120000001995,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 여름철새",
+  "habitat": "도시와 농촌의 인가 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "알은 5~7월에 낳는다."
+  },
+  "summary": "도시나 농촌의 인가 주변에 살며 전국에서 번식하는 흔한 여름철새이다. 이동할 때나 번식 초기에는 암수가 함께 또는 홀로 지내고, 번식이 끝나면 가족끼리 몰려다니는 일이 많다. 처마 밑이나 다리 밑, 지붕 밑에 흔히 무리 지어 긴 술병을 옆으로 눕힌 듯한 둥지를 짓고, 5~7월에 알을 4~5개 낳는다. 국외에서는 남유럽과 아시아 온대 지역에서 번식하고 동남아시아, 아프리카, 인도에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "광택 있는 자색 띤 청흑색 머리와 등",
+      "en": "glossy purplish blue-black crown and back"
+    },
+    {
+      "ko": "붉게 녹슨 색 허리",
+      "en": "rusty-red rump"
+    },
+    {
+      "ko": "황갈색 또는 엷은 적갈색 아랫면",
+      "en": "buff to pale rufous underparts"
+    },
+    {
+      "ko": "긴 아래꼬리덮깃은 갈색 띤 검은색",
+      "en": "long undertail coverts blue-glossed blackish-brown"
+    },
+    {
+      "ko": "바깥 꽁지깃이 아주 긴 제비꼬리",
+      "en": "deeply forked tail with very long outer feathers"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eastern Red-rumped Swallow (Cecropis daurica), adult: glossy purplish blue-black crown, hindneck, back and scapulars, rusty-red rump, blue-black uppertail coverts, buff to pale rufous underparts from chin to belly, short undertail coverts buff and long ones blue-glossed blackish-brown, deeply forked tail with the outer pair about 2.5 times as long as the central pair, black bill, dark brown iris and legs",
+    "pose": "in flight, banking to show the rusty-red rump and long outer tail feathers",
+    "scene": "Korean summer countryside: open fields and a stream near a rural village; no people, buildings or text",
+    "views": [
+      "adult, side view perched: glossy blue-black upperparts, rusty-red rump, buff underparts, long forked tail",
+      "adult, in flight from above: rusty-red rump contrasting with blue-black back and tail",
+      "adult, from below: buff underparts and blackish long undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 귀제비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001995",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 귀제비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001995",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

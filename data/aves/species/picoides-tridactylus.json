@@ -1,0 +1,80 @@
+{
+  "id": "picoides-tridactylus",
+  "ko": "세가락딱다구리",
+  "sci": "Picoides tridactylus",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Three-toed Woodpecker",
+  "ktsn": 120000001913,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "TODO",
+  "habitat": "침엽수림, 때로 혼합림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "주로 침엽수림에서 보이고 이따금 혼합림에서도 눈에 띄는 딱다구리이다. 나무에 구멍을 파고 사는 곤충을 주로 잡아먹으며, 거미와 장과, 새싹도 먹는다. 나무나 꺾어진 가지에 구멍을 뚫어 보금자리로 삼고, 대개 알 4개를 낳아 암수가 함께 14일 동안 품는다.",
+  "points": [
+    {
+      "ko": "노란 머리 윗부분(수컷)",
+      "en": "yellow crown (male)"
+    },
+    {
+      "ko": "흰 줄무늬가 있는 검은 얼굴",
+      "en": "black head with white facial stripes"
+    },
+    {
+      "ko": "흰 사닥다리 무늬가 있는 검은 등",
+      "en": "black back with white ladder-like bars"
+    },
+    {
+      "ko": "검은 날개·허리·꼬리",
+      "en": "black wings, rump and tail"
+    },
+    {
+      "ko": "줄무늬가 있는 옆구리",
+      "en": "striped flanks"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리 윗부분이 노란색이다.",
+    "female": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Three-toed Woodpecker (Picoides tridactylus), adult male: black head with white facial stripes and a yellow crown, black back with white ladder-like bars, black wings, rump and tail, striped flanks, white belly",
+    "pose": "clinging to a conifer trunk, drilling into the bark for insects",
+    "scene": "Korean coniferous forest with broken branches and a few broadleaf trees mixed in; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: yellow crown, black head with white face stripes, black back barred white, striped flanks, white belly",
+      "adult, back view: black back with white ladder-like bars, black wings, rump and tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 세가락딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001913",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 세가락딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001913",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 분포(알래스카·워싱턴·애리조나~퀘벡 남부에서 번식)는 북아메리카뿐이라 유라시아 종이 아닌 옛 분류의 아메리카 집단을 설명한 것으로 보여 분포를 싣지 않음. 생김새·번식 내용도 같은 출처인지 확인 필요"
+  ]
+}

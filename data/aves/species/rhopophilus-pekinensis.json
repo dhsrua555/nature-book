@@ -1,0 +1,73 @@
+{
+  "id": "rhopophilus-pekinensis",
+  "ko": "꼬리치레",
+  "sci": "Rhopophilus pekinensis",
+  "author": "Swinhoe, 1868",
+  "en": "Beijing Babbler",
+  "ktsn": 120000002013,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "북부 지방에서 번식하고, 중부 이남에서는 겨울철새",
+  "habitat": "키 큰 풀이 자란 초지, 관목림, 풀로 덮인 개활지, 산허리와 구릉의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "키 큰 풀이 자란 초지와 관목림, 풀로 덮인 트인 땅, 산허리나 구릉의 숲에 사는 새로, 꼬리 길이가 8~10.5cm로 날개 길이 6~6.5cm보다 길다. 한국 북부와 중국 북부·북동부에서 번식하고, 한국 중부 이남에서 겨울을 난다. 숲속 땅 위에 둥지를 지어 한배에 알 5개를 낳으며, 번식을 마친 겨울에는 작은 무리를 짓는다. 곤충과 씨앗, 열매를 먹는다.",
+  "points": [
+    {
+      "ko": "뺨의 검은 띠",
+      "en": "black stripe on the cheek"
+    },
+    {
+      "ko": "짙은 갈색 세로무늬의 잿빛 갈색 윗면",
+      "en": "greyish-brown upperparts streaked dark brown"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "옆구리의 붉은 갈색 세로무늬",
+      "en": "rufous-brown streaks on the flanks"
+    },
+    {
+      "ko": "끝이 잿빛 흰색인 긴 꼬리",
+      "en": "long tail with blackish-brown outer feathers and a greyish-white tip"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Beijing Babbler (Rhopophilus pekinensis), adult: greyish-brown upperparts with dark brown streaks except on the uppertail coverts, black stripe on the cheek, white underparts, rufous-brown streaks on the flanks, tail longer than the wing with greyish-brown central feathers, blackish-brown outer feathers and a greyish-white tip",
+    "pose": "perched on a shrub stem in tall grass, long tail hanging, side view",
+    "scene": "Korean winter hillside with tall dry grass and scattered shrubs; no people, buildings or text",
+    "views": [
+      "adult, side view perched: streaked greyish-brown upperparts, black cheek stripe, white underparts with rufous-brown flank streaks, long tail",
+      "adult, tail from above: greyish-brown central feathers, blackish-brown outer feathers, greyish-white tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꼬리치레",
+      "url": "https://species.nibr.go.kr/species-detail/120000002013",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꼬리치레",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002013",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

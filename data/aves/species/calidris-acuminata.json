@@ -1,0 +1,78 @@
+{
+  "id": "calidris-acuminata",
+  "ko": "메추라기도요",
+  "sci": "Calidris acuminata",
+  "author": "Horsfield, 1821",
+  "en": "Sharp-tailed Sandpiper",
+  "ktsn": 120000001737,
+  "origin": "nibr",
+  "length": "약 21cm",
+  "status": "흔한 나그네새",
+  "habitat": "간척지, 염전, 하구, 삼각주, 논",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 국내를 지나간다."
+  },
+  "summary": "봄과 가을에 우리나라를 흔하게 지나가는 나그네새로, 간척지·염전·하구·삼각주·논 등에 내려앉는다. 갑각류와 곤충을 먹고 때로는 식물성 먹이도 먹는다. 시베리아 동북부의 툰드라와 캄차카에서 번식하고 오스트레일리아, 뉴질랜드 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "적갈색 머리꼭대기와 뒷목(여름깃)",
+      "en": "rufous crown and hindneck (breeding)"
+    },
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "검은 무늬가 있는 적갈색 윗면",
+      "en": "rufous upperparts marked black"
+    },
+    {
+      "ko": "가슴과 옆구리의 검은 반점",
+      "en": "black spots on breast and flanks"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "녹황색 다리",
+      "en": "greenish-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sharp-tailed Sandpiper (Calidris acuminata), adult breeding: rufous forehead, crown and hindneck, white supercilium, rufous upperparts with black markings, black spots on breast and flanks, white belly, greenish-yellow legs",
+    "pose": "foraging in a wet rice field, side view",
+    "scene": "Korean paddy fields near an estuary during autumn migration, shallow water and mud; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: rufous crown, white supercilium, rufous upperparts with black markings, spotted breast and flanks, greenish-yellow legs",
+      "adult breeding, head detail: rufous crown and hindneck, white supercilium"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 메추라기도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001737",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 메추라기도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001737",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

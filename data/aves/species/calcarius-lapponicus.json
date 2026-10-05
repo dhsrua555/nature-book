@@ -1,0 +1,72 @@
+{
+  "id": "calcarius-lapponicus",
+  "ko": "긴발톱멧새",
+  "sci": "Calcarius lapponicus",
+  "author": "Linnaeus, 1758",
+  "en": "Lapland Longspur",
+  "ktsn": 120000002235,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "나그네새, 겨울철새",
+  "habitat": "잔디밭, 구릉, 관목림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한국을 지나가는 나그네새이자 이곳에서 겨울을 나는 겨울철새로, 잔디밭과 구릉, 관목림에서 지낸다. 주로 식물 씨앗과 열매를 먹고, 여름철에는 곤충을 먹는다. 한배에 알 4~6개를 낳는다. 전국에서 볼 수 있으며 국외에서는 캄차카, 오호츠크해, 사할린, 쿠릴 열도, 만주, 중국, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 머리·뺨·턱",
+      "en": "black crown, cheeks and chin"
+    },
+    {
+      "ko": "황갈색 띤 흰 아랫면",
+      "en": "buffy-white underparts"
+    },
+    {
+      "ko": "옆구리의 굵은 검은 세로무늬",
+      "en": "bold black streaks on the flanks"
+    },
+    {
+      "ko": "흑갈색 등과 허리",
+      "en": "blackish-brown back and rump"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Lapland Longspur (Calcarius lapponicus), adult: black crown, cheeks and chin, buffy-white underparts from the breast down with bold black streaks on the flanks, blackish-brown back, rump and uppertail coverts",
+    "pose": "walking on short grass, picking up seeds",
+    "scene": "Korean winter: short-grass field on low rolling hills with scattered shrubs; no people, buildings or text",
+    "views": [
+      "adult, side view on the ground: black crown, cheeks and chin, buffy-white underparts with bold black flank streaks, blackish-brown back",
+      "adult, faded plumage: the black areas paler or pale brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴발톱멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002235",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴발톱멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002235",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 겨울깃의 머리·뺨·턱이 검고 여름에 옅어진다고 적어 깃의 계절이 뒤바뀐 것으로 보인다; 포인트·그림에 계절을 붙이지 않았다(확인 필요)"
+  ]
+}

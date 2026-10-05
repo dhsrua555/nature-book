@@ -1,0 +1,82 @@
+{
+  "id": "phasianus-colchicus",
+  "ko": "꿩",
+  "sci": "Phasianus colchicus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Pheasant",
+  "ktsn": 120000001409,
+  "origin": "nibr",
+  "length": "수컷 80cm, 암컷 60cm",
+  "status": "TODO",
+  "habitat": "숲 가장자리의 덤불, 야산의 덤불",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "원문에 산란기가 5~6월과 4~6월경으로 두 번 다르게 적혀 있다."
+  },
+  "summary": "숲 가장자리의 덤불에 사는, 꼬리가 길고 뾰족한 땅새로 전국에 살며 국외에서는 흑해 연안, 소아시아, 이란, 시베리아, 우수리, 중국, 타이완에 분포한다. ‘꿩, 꿩’ 하고 울고, 나무 열매와 풀씨, 곡식 낟알, 곤충 등을 먹으며, 겨울에는 무리를 짓는 일이 많다. 대표적인 사냥새로, 놀라면 걷거나 뛰어서 재빨리 달아나고 가까이 다가가면 큰 소리를 내며 빠른 날갯짓으로 날아올랐다가 미끄러지듯 내려앉는다. 야산 덤불이나 숲속 땅 위에 알을 낳으며, 약 21일 만에 깨어난 새끼는 암컷을 따라다니며 자란다.",
+  "points": [
+    {
+      "ko": "눈 둘레의 붉은 맨살(수컷)",
+      "en": "male: bare red facial skin around the eye"
+    },
+    {
+      "ko": "금속광택의 짙은 녹색 머리·목(수컷)",
+      "en": "male: glossy dark green head and neck"
+    },
+    {
+      "ko": "선명한 흰 목테(수컷)",
+      "en": "male: bold white neck ring"
+    },
+    {
+      "ko": "반점 흩어진 갈색·황갈색 몸(수컷)",
+      "en": "male: brown and buff body spotted dark brown and black"
+    },
+    {
+      "ko": "검은 얼룩의 수수한 황갈색(암컷)",
+      "en": "female: plain buff-brown mottled black"
+    },
+    {
+      "ko": "길고 뾰족한 꼬리",
+      "en": "long pointed tail"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "눈 둘레에 닭 볏 같은 붉은 맨살이 드러나 있다. 흰 목테 위쪽은 금속광택이 도는 어두운 녹색이고, 아래쪽은 갈색·황갈색 바탕에 어두운 갈색과 검은 반점이 흩어져 있다. 발목 뒤의 며느리발톱을 번식기에 암컷을 차지하려는 싸움에 쓴다.",
+    "female": "온몸이 수수한 황갈색에 검은 얼룩무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Pheasant (Phasianus colchicus), adult male: bare red skin around the eye, metallic dark green head and neck above a bold white neck ring, brown and buff body below the ring scattered with dark brown and black spots, long pointed tail, sharp spur on the back of the leg",
+    "pose": "walking along the edge of a thicket, long tail held level",
+    "scene": "Korean woodland edge with low thickets on a wooded hillside; no people, buildings or text",
+    "views": [
+      "adult male, side view walking: red facial skin, glossy dark green head and neck, white neck ring, spotted brown-and-buff body, long pointed tail",
+      "adult female, side view walking: plain buff-brown plumage mottled black, long pointed tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꿩",
+      "url": "https://species.nibr.go.kr/species-detail/120000001409",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꿩",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001409",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "산란기·알 수가 ‘5~6월, 6~10개’와 ‘4~6월경, 8~12개’로 두 번 다르게 적혀 있어 months.breed 를 TODO로 둠",
+    "국외 분포가 앞(한국, 중국 남동부, 일본, 칠레 동북부)과 뒤(흑해 연안~타이완)에서 달라 summary에는 뒤의 목록만 씀, 확인 필요"
+  ]
+}

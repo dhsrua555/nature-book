@@ -1,0 +1,75 @@
+{
+  "id": "corvus-frugilegus",
+  "ko": "떼까마귀",
+  "sci": "Corvus frugilegus",
+  "author": "Linnaeus, 1758",
+  "en": "Rook",
+  "ktsn": 120000001965,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 나그네새, 남부에서는 겨울새",
+  "habitat": "평지, 개활지, 농경지 부근 숲, 농촌 인가와 시가지의 나무",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 3월~5월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 전국을 지나는 흔한 나그네새이며, 한반도 남단에서는 큰 무리가 여럿 겨울을 난다. 평지와 개활지, 농경지 근처 숲, 농촌 마을과 시가지의 나무에서 지내고, 큰키나무 위에 모여 집단으로 번식하기도 한다. 동물성과 식물성 먹이를 가리지 않고 먹는다. 시베리아 남부, 알타이, 몽골 북부, 아무르, 만주 등지에서 번식하고 한국 남부, 일본 서남부, 타이완 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "부리 둘레의 잿빛 맨살",
+      "en": "bare grey skin around the nostrils and bill base"
+    },
+    {
+      "ko": "가늘고 검은 부리",
+      "en": "slender black bill"
+    },
+    {
+      "ko": "완만하게 굽은 부리 등",
+      "en": "gently curved culmen"
+    },
+    {
+      "ko": "자색 광택이 강한 검은 몸",
+      "en": "black plumage with a strong purple gloss"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "까마귀",
+      "how": "떼까마귀의 부리가 까마귀보다 더 가늘다."
+    }
+  ],
+  "art": {
+    "subject": "Rook (Corvus frugilegus), adult male, winter plumage: black plumage with a strong purple gloss, bare grey skin around the nostrils and bill base with a few downy feathers, slender black bill with a gently curved culmen",
+    "pose": "walking on the ground in farmland as part of a large flock",
+    "scene": "Korean winter farmland in the far south with bare trees at the field edge; no people, buildings or text",
+    "views": [
+      "adult, side view on the ground: purple-glossed black plumage, bare grey face skin, slender black bill",
+      "adult, head detail: bare grey skin at the bill base, slender bill with gently curved culmen"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 떼까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001965",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 떼까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001965",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

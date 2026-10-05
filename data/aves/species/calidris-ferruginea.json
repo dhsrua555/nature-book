@@ -1,0 +1,70 @@
+{
+  "id": "calidris-ferruginea",
+  "ko": "붉은갯도요",
+  "sci": "Calidris ferruginea",
+  "author": "Pontoppidan, 1763",
+  "en": "Curlew Sandpiper",
+  "ktsn": 120000001738,
+  "origin": "nibr",
+  "length": "약 22cm",
+  "status": "나그네새",
+  "habitat": "한반도 동해안과 서해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월 하순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 작은 무리를 지어 한반도 동해안과 서해안을 지나가는 나그네새이다. 지렁이, 갑각류, 조개, 곤충을 즐겨 먹는다. 시베리아의 북극 툰드라에서 번식하며, 이끼로 덮인 마른 구릉의 오목한 곳에 둥지를 틀고 한배에 알 4개를 낳는다. 동남아시아, 오스트레일리아, 아프리카에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "붉은 갈색 이마·머리·뒷목",
+      "en": "rufous forehead, crown and hindneck"
+    },
+    {
+      "ko": "밤색 얼굴과 멱, 흰 턱 밑",
+      "en": "chestnut face and throat with white chin"
+    },
+    {
+      "ko": "밤색 가장자리의 검은 등·어깨깃",
+      "en": "black mantle and scapulars fringed chestnut"
+    },
+    {
+      "ko": "흰 깃 가장자리의 밤색 목·가슴·배",
+      "en": "chestnut neck, breast and belly with white fringes"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Curlew Sandpiper (Calidris ferruginea), adult male breeding: rufous forehead, crown and hindneck, chestnut face and throat, white chin, black mantle and scapulars fringed chestnut, chestnut neck, breast and belly with white feather fringes",
+    "pose": "feeding in a small flock on wet mud, side view",
+    "scene": "Korean coastal mudflat during spring migration, wet mud along the shore; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view standing: rufous crown, chestnut face and underparts with white fringes, black back fringed chestnut",
+      "adult male breeding, head detail: chestnut face and throat, white chin"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은갯도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001738",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은갯도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001738",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

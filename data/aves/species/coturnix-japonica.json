@@ -1,0 +1,78 @@
+{
+  "id": "coturnix-japonica",
+  "ko": "메추라기",
+  "sci": "Coturnix japonica",
+  "author": "Temminck & Schlegel, 1849",
+  "en": "Japanese Quail",
+  "ktsn": 120000001407,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "흔한 겨울철새, 드문 여름철새",
+  "habitat": "탁 트인 들",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "탁 트인 들에 사는 새로, 우리나라에서는 흔히 겨울을 나는 겨울철새이면서 드물게 번식하는 여름철새이기도 하다. 번식기에는 일부일처로 지내며, 땅을 오목하게 파고 마른풀을 깔아 둥지를 지은 뒤 엷은 황회색 바탕에 어두운 갈색 얼룩이 있는 알을 낳는다. 짧은 날개를 빠르게 저어 곧게 날지만 멀리 가지는 못하고 약 50m쯤 날아간다. 전국에 살며 국외에서는 유라시아 대륙과 아프리카에 분포한다.",
+  "points": [
+    {
+      "ko": "목뒤까지 이어지는 흰 눈썹선",
+      "en": "white supercilium extending to the nape"
+    },
+    {
+      "ko": "수컷의 검은 머리꼭대기",
+      "en": "male: black forehead and crown with broad rufous fringes"
+    },
+    {
+      "ko": "끝 쪽이 검은 잿빛 갈색 부리",
+      "en": "grey-brown bill, black near the tip"
+    },
+    {
+      "ko": "흰·검은 줄무늬의 황갈색 등",
+      "en": "buff-brown upperparts heavily streaked white and black"
+    },
+    {
+      "ko": "등보다 연한 배",
+      "en": "belly paler than the back"
+    },
+    {
+      "ko": "엷은 살구색 다리",
+      "en": "pale flesh-coloured legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마와 머리꼭대기, 뒷머리가 검고 깃 가장자리가 넓게 붉은 갈색을 띤다. 목, 윗등, 허리, 위꼬리덮깃은 붉게 녹슨 색이며 깃 끝마다 검은 삼각형 무늬가 있다.",
+    "female": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Quail (Coturnix japonica), adult male: black forehead, crown and nape with broad rufous feather edges, white supercilium running to the nape, rusty neck, mantle, rump and uppertail coverts with black triangular feather tips, buff-brown back streaked white and black, belly paler than the back, grey-brown bill black near the tip, pale flesh-coloured legs",
+    "pose": "crouching on the ground among dry grass, side view",
+    "scene": "open Korean field in winter with dry grass; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: black crown with rufous fringes, white supercilium to the nape, rusty neck with black triangular spots, streaked buff-brown back, pale belly, pale flesh legs",
+      "adult, head detail: grey-brown bill black near the tip, white supercilium"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 메추라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001407",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 메추라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001407",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

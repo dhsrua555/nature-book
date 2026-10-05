@@ -1,0 +1,79 @@
+{
+  "id": "calliope-calliope",
+  "ko": "진홍가슴",
+  "sci": "Calliope calliope",
+  "author": "Pallas, 1776",
+  "en": "Siberian Rubythroat",
+  "ktsn": 120000528875,
+  "origin": "nibr",
+  "length": "약 15.5cm",
+  "status": "개마고원의 여름철새, 중부 이남에서는 봄·가을에 통과",
+  "habitat": "갯가, 골짜기의 관목, 풀이 우거진 덤불",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7,
+      8
+    ],
+    "note": "북한 개마고원에서 6~8월 하순에 알을 낳고, 중부 이남에서는 봄과 가을에 지나간다."
+  },
+  "summary": "북한 개마고원에서 작은 무리가 번식하는 여름새이며, 중부 이남에서는 봄과 가을에 작은 무리로 지나간다. 지나갈 때는 주로 갯가나 골짜기의 관목, 풀이 우거진 덤불에서 보이고, 가끔 멧새과 새들 틈에 섞이기도 한다. 혼자 또는 암수가 함께 지내며 한배에 알을 3~5개 낳는다. 곤충과 여러 가지 열매를 즐겨 먹는다.",
+  "points": [
+    {
+      "ko": "어두운 다갈색 이마~뒷머리",
+      "en": "dark brown forehead to nape"
+    },
+    {
+      "ko": "깃 끝이 어두워 흐릿한 긴 흰 눈썹선",
+      "en": "long white supercilium, blurred by dark feather tips"
+    },
+    {
+      "ko": "뺨 아래에서 끝나는 짧은 흰 뺨선",
+      "en": "short white moustachial stripe ending below the cheek"
+    },
+    {
+      "ko": "여름엔 검고 가을·겨울엔 어두운 갈색인 부리",
+      "en": "bill black in summer, dark brown in autumn and winter"
+    },
+    {
+      "ko": "갈색 또는 어두운 갈색 다리",
+      "en": "brown to dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "겨울깃은 이마에서 뒷머리까지 어두운 다갈색이고 흰 눈썹선과 짧은 흰 뺨선이 있다.",
+    "female": "겨울깃의 등과 날개, 꽁지가 개체에 따라 수컷보다 엷지만, 수컷과 가려내기 힘든 개체가 많다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Siberian Rubythroat (Calliope calliope), adult male winter: dark brown forehead to nape, long white supercilium and short white moustachial stripe, both slightly blurred by dark feather tips, dark brown bill with a paler base to the lower mandible, brown iris, brown legs",
+    "pose": "skulking low in dense grass at the edge of a thicket, side view",
+    "scene": "Korean autumn valley thicket with tall grass beside a stream; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: dark brown crown, white supercilium and short white moustachial stripe, brown legs",
+      "adult female winter, side view perched: back, wings and tail often slightly paler than the male"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 진홍가슴",
+      "url": "https://species.nibr.go.kr/species-detail/120000528875",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 진홍가슴",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528875",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

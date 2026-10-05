@@ -1,0 +1,78 @@
+{
+  "id": "bombycilla-garrulus",
+  "ko": "황여새",
+  "sci": "Bombycilla garrulus",
+  "author": "Linnaeus, 1758",
+  "en": "Bohemian Waxwing",
+  "ktsn": 120000001971,
+  "origin": "nibr",
+  "length": "18–20cm",
+  "status": "흔한 겨울철새",
+  "habitat": "침엽수림, 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월경에 알을 낳는다."
+  },
+  "summary": "전국에 흔히 찾아와 겨울을 나는 겨울철새로, 침엽수림과 낙엽활엽수림에서 지낸다. 겨울에는 10~30마리, 때로는 100마리에 이르는 무리를 지어 주로 나무 위에서 생활한다. 식물성 먹이를 주로 먹고 파리목 곤충도 먹는다. 구북구 북부와 신북구 서북부에서 번식하며, 6월경 한배에 알 4~6개, 보통 5개를 낳고 때로 7개를 낳기도 한다.",
+  "points": [
+    {
+      "ko": "살구색 띤 붉은 밤색 이마",
+      "en": "apricot-tinged chestnut forehead and forecrown"
+    },
+    {
+      "ko": "부드럽고 긴 깃의 댕기",
+      "en": "soft, long crest from crown to nape"
+    },
+    {
+      "ko": "입가 근처만 흰 검은 부리",
+      "en": "black bill, white only near the gape"
+    },
+    {
+      "ko": "홍색 띤 잿빛 갈색 등",
+      "en": "pinkish grey-brown crown to lower back"
+    },
+    {
+      "ko": "끝이 노랗거나 붉은 꼬리",
+      "en": "tail tipped yellow or red"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Bohemian Waxwing (Bombycilla garrulus), adult male, winter plumage: apricot-tinged chestnut forehead and forecrown, pinkish grey-brown crown to lower back, soft long crest from crown to nape, tail tipped yellow or red, black bill with white near the gape, dark brown iris, black legs",
+    "pose": "perched in a treetop with a flock, side view",
+    "scene": "Korean winter conifer and deciduous broadleaf woodland with bare branches; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: chestnut forehead, soft long crest, pinkish grey-brown body, tail tipped yellow, black bill and legs",
+      "adult, head detail: apricot-chestnut forehead, long crest, black bill with white near the gape"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 황여새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001971",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 황여새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001971",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

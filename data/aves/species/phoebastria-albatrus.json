@@ -1,0 +1,66 @@
+{
+  "id": "phoebastria-albatrus",
+  "ko": "알바트로스",
+  "sci": "Phoebastria albatrus",
+  "author": "Pallas, 1769",
+  "en": "Short-tailed Albatross",
+  "ktsn": 120000001485,
+  "origin": "nibr",
+  "length": "90cm",
+  "status": "길잃은새(과거 기록만 있음)",
+  "habitat": "해안, 거친 땅의 움푹한 곳이나 맨땅(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 예전에 관찰된 기록만 있는 길잃은새이다. 주로 해안에 살며, 거친 땅의 움푹한 곳이나 맨땅에 알을 1개만 낳아 암수가 번갈아 품는다. 알은 엷은 황갈색 기가 도는 회백색 바탕에 작은 어두운 갈색 얼룩이 있으나, 가끔 얼룩 없이 암갈색이나 흰색인 것도 있다. 일본과 태평양 북부 베링해에 분포한다.",
+  "points": [
+    {
+      "ko": "크고 분홍색인 부리",
+      "en": "large pink bill"
+    },
+    {
+      "ko": "전체적으로 흰 몸",
+      "en": "white overall"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Short-tailed Albatross (Phoebastria albatrus), adult: white overall, black primaries, large pink bill",
+    "pose": "gliding low over the sea on long wings",
+    "scene": "open sea off the Korean coast; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white overall, black primaries, large pink bill",
+      "adult in flight, upperside: white body, black primaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알바트로스",
+      "url": "https://species.nibr.go.kr/species-detail/120000001485",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알바트로스",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001485",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "2.1m"
+}

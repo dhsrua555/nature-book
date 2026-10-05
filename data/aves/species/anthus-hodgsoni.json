@@ -1,0 +1,82 @@
+{
+  "id": "anthus-hodgsoni",
+  "ko": "힝둥새",
+  "sci": "Anthus hodgsoni",
+  "author": "Richmond, 1907",
+  "en": "Olive-backed Pipit",
+  "ktsn": 120000002179,
+  "origin": "nibr",
+  "length": "약 15.5cm",
+  "status": "흔한 나그네새, 남부에서는 겨울에도 간혹 보임",
+  "habitat": "잡목림, 초원, 고산 풀밭, 논 가까운 풀밭",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "4월과 9~10월 이동기에 논과 둘레 풀밭에서 쉽게 보이고, 남부에서는 겨울에 떠도는 개체도 간혹 보이며, 번식지에서는 5월 중순~8월에 알을 낳는다."
+  },
+  "summary": "중부 이남을 봄과 가을에 흔히 지나가는 나그네새로, 잡목림과 초원, 고산 풀밭, 논 가까운 풀밭에 산다. 남부에서는 겨울에 떠도는 개체도 간혹 보인다. 땅 위에서 먹이를 찾는 일이 많고, 번식기 수컷은 일정한 세력권을 갖지만 봄과 가을에는 무리 지어 지내는 때가 많다. 일본, 중국 동북부, 몽골, 시베리아, 캄차카, 티베트 등지에서 번식하며 한배에 알을 3~5개 낳는다.",
+  "points": [
+    {
+      "ko": "황록색 머리꼭대기",
+      "en": "yellowish-green crown"
+    },
+    {
+      "ko": "황갈색 눈썹선",
+      "en": "buff supercilium"
+    },
+    {
+      "ko": "황갈색과 올리브 갈색의 귀깃",
+      "en": "buff and olive-brown ear coverts"
+    },
+    {
+      "ko": "아랫부리가 옅은 가늘고 긴 갈색 부리",
+      "en": "slender brown bill with pale lower mandible"
+    },
+    {
+      "ko": "흐린 세로무늬가 있는 녹갈색 등",
+      "en": "greenish-brown upperparts with indistinct dark streaks"
+    },
+    {
+      "ko": "황갈색 멱과 가슴",
+      "en": "buff throat and breast"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 서로 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Olive-backed Pipit (Anthus hodgsoni), adult: greenish-brown upperparts with indistinct dark streaks, yellowish-green crown, buff supercilium, buff and olive-brown ear coverts, buff chin, throat, breast, belly and undertail coverts, buff or brown flanks, slender brown bill with slightly curved culmen and pale lower mandible, brown iris",
+    "pose": "walking on the ground, foraging in short grass",
+    "scene": "Korean autumn migration: harvested rice paddies and the grassy margins beside them, scrubby woodland beyond; no people, buildings or text",
+    "views": [
+      "adult, side view on ground: greenish-brown upperparts with faint dark streaks, buff underparts, buff or brown flanks",
+      "head detail: yellowish-green crown, buff supercilium, buff and olive-brown ear coverts, slender brown bill with pale lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 힝둥새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002179",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 힝둥새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002179",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

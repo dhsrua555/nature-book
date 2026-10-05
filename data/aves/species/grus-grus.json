@@ -1,0 +1,68 @@
+{
+  "id": "grus-grus",
+  "ko": "검은목두루미",
+  "sci": "Grus grus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Crane",
+  "ktsn": 120000001651,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 겨울철새",
+  "habitat": "습지, 호수, 농경지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "드물게 찾아오는 겨울철새로, 우리나라에서는 습지, 호수, 농경지 등에서 주로 겨울을 난다. 세계적으로는 개체 수가 많지만 국내에는 다른 두루미 무리에 섞여 몇 마리만 찾아온다. 서식지가 줄고 조각나는 데다 먹이도 부족해 위협받고 있다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "black head"
+    },
+    {
+      "ko": "검은 앞목",
+      "en": "black foreneck"
+    },
+    {
+      "ko": "대부분 회색인 몸",
+      "en": "mostly grey body"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Crane (Grus grus), adult: mostly grey body, black head and front of the neck",
+    "pose": "foraging in a field alongside other cranes",
+    "scene": "Korean winter wetland and farmland beside a lake; no people, buildings or text",
+    "views": [
+      "adult, side view standing: mostly grey body, black head and foreneck",
+      "adult, head and neck detail: black head and front of the neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은목두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001651",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은목두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001651",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

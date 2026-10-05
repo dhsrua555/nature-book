@@ -1,0 +1,77 @@
+{
+  "id": "actitis-hypoleucos",
+  "ko": "깝작도요",
+  "sci": "Actitis hypoleucos",
+  "author": "Linnaeus, 1758",
+  "en": "Common Sandpiper",
+  "ktsn": 120000001723,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "흔한 나그네새, 흔한 여름철새, 남부에서는 드물게 월동",
+  "habitat": "강가, 호숫가, 바닷가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "국내에서는 흔한 나그네새이자 흔한 여름철새이며, 남부에서는 드물게 겨울을 나기도 한다. 봄과 가을이면 전국의 강가·호숫가·바닷가에 내려앉아 혼자 지내거나 작은 무리를 이룬다. 날개를 몸 아래로 내린 채 빠른 날갯짓을 되풀이하며 땅이나 물가를 따라 낮게 나는 모습이 다른 도요류와 다르다. 북반구 북부에서 북극권까지 널리 분포하고, 동남아시아·호주·아프리카까지 내려가 겨울을 난다.",
+  "points": [
+    {
+      "ko": "머리 길이만 한 곧은 부리",
+      "en": "straight bill about as long as the head"
+    },
+    {
+      "ko": "흑갈색 무늬가 있는 녹갈색 윗면",
+      "en": "greenish-brown upperparts, back and wing coverts edged blackish-brown"
+    },
+    {
+      "ko": "갈색 줄무늬가 있는 가슴",
+      "en": "brown-streaked breast"
+    },
+    {
+      "ko": "날개 앞쪽으로 올라온 흰색",
+      "en": "white wedge reaching up in front of the folded wing"
+    },
+    {
+      "ko": "날 때 뚜렷한 흰 날개선",
+      "en": "bold white wingbar in flight"
+    },
+    {
+      "ko": "등과 같은 색의 허리",
+      "en": "rump the same colour as the back"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Sandpiper (Actitis hypoleucos), adult: straight bill about as long as the head, greenish-brown upperparts with blackish-brown edging on back and wing coverts, brown-streaked breast, white underparts wedging up in front of the folded wing",
+    "pose": "flying low over the water on down-held wings with rapid, flickering wingbeats",
+    "scene": "Korean riverside in spring: pebbly bank beside shallow flowing water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: straight bill, greenish-brown upperparts, brown-streaked breast, white wedge in front of the wing",
+      "adult in flight: bold white wingbar, rump same colour as the back, wings held below the body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 깝작도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001723",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 깝작도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001723",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

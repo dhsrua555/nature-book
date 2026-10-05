@@ -1,0 +1,78 @@
+{
+  "id": "athene-noctua",
+  "ko": "금눈쇠올빼미",
+  "sci": "Athene noctua",
+  "author": "Scopoli, 1769",
+  "en": "Little Owl",
+  "ktsn": 120000001866,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "촌락 부근, 성벽, 벼랑, 강가의 무너진 흙더미, 고목 부근",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "올빼미 가운데 가장 작은 종으로, 깊은 숲에는 살지 않고 마을 가까이나 성벽, 벼랑, 강가의 무너져 내린 흙더미, 오래된 나무 둘레에 산다. 한배에 알을 3~7개 낳아 26~28일 동안 품는다. 울음소리는 고양이나 갓난아기가 우는 소리를 닮았고, 작은 포유류, 새, 파충류, 양서류, 곤충 따위를 잡아먹는다. 날개 길이는 14.8~15.8cm이며, 한국 중부 이북과 중국, 몽골에 분포한다.",
+  "points": [
+    {
+      "ko": "잔 황갈색 얼룩의 머리꼭대기",
+      "en": "crown with small buff spots"
+    },
+    {
+      "ko": "잿빛 황갈색 등",
+      "en": "greyish-buff upperparts"
+    },
+    {
+      "ko": "흰 턱 밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "짙은 황갈색 세로 얼룩의 아랫면",
+      "en": "buffy-white underparts streaked dark buff-brown"
+    },
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "어두운 갈색 발톱",
+      "en": "dark brown claws"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 몸이 조금 작다.",
+    "female": "수컷보다 몸이 조금 크다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Little Owl (Athene noctua), adult male winter: greyish buff-brown upperparts, small buff spots on the crown, white chin, neck sides, breast, flanks and belly buffy white with dark buff-brown streaks, yellow bill, dark brown claws",
+    "pose": "perched upright on a crumbling earth bank",
+    "scene": "Korean village outskirts by a river, with a collapsed earth bank, a cliff and an old tree; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: greyish-buff upperparts, buff-spotted crown, yellow bill, dark brown claws",
+      "adult male winter, front view perched: white chin, buffy-white underparts streaked dark buff-brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 금눈쇠올빼미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001866",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 금눈쇠올빼미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001866",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

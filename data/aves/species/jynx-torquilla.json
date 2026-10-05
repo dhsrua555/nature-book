@@ -1,0 +1,84 @@
+{
+  "id": "jynx-torquilla",
+  "ko": "개미잡이",
+  "sci": "Jynx torquilla",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Wryneck",
+  "ktsn": 120000001903,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "매우 드문 나그네새, 백두산 지역에서는 여름새",
+  "habitat": "관목림, 촌락 부근의 수목",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [
+      6,
+      7
+    ],
+    "note": "4~5월에 와서 9월까지 머물며, 산란기는 6~7월이다."
+  },
+  "summary": "백두산 지역에서는 여름새이고 그 밖의 지역에서는 매우 드물게 지나가는 나그네새로, 4~5월에 와서 9월까지 머문다. 관목림이나 마을 가까운 나무에 살며, 나무 구멍이나 딱따구리가 쓰던 둥지에 6~7월 무늬 없는 흰 알을 6~10개 낳는다. 주로 동물을 먹어 딱정벌레, 벌, 나비 무리의 곤충과 거미를 잡으며, 특히 개미를 좋아한다. 날개 길이는 9cm이며, 한국, 일본, 시베리아에 분포한다.",
+  "points": [
+    {
+      "ko": "갈색 무늬가 있는 회색 윗면",
+      "en": "grey upperparts patterned brown"
+    },
+    {
+      "ko": "등 가운데와 눈썹의 검은 세로무늬",
+      "en": "black streaks on the upperparts, centre of back and supercilium"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white underparts"
+    },
+    {
+      "ko": "검은 가로띠 5~6줄의 노란빛 회색 꼬리",
+      "en": "yellowish-grey tail with brown markings and 5–6 black bars"
+    },
+    {
+      "ko": "엷은 갈색 다리",
+      "en": "pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Wryneck (Jynx torquilla), adult: grey upperparts patterned brown, black streaks on the upperparts, down the centre of the back and over the eye, white underparts, yellowish-grey tail with brown markings and 5–6 black bars, pale brown legs",
+    "pose": "on the ground beside an ant nest, picking up ants",
+    "scene": "Korean village outskirts with shrubs and scattered trees in late spring; no people, buildings or text",
+    "views": [
+      "adult, side view perched: grey upperparts patterned brown with black streaks, white underparts, pale brown legs",
+      "adult, tail detail: yellowish-grey tail with brown markings and 5–6 black bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개미잡이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001903",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개미잡이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001903",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

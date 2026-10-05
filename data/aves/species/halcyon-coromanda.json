@@ -1,0 +1,74 @@
+{
+  "id": "halcyon-coromanda",
+  "ko": "호반새",
+  "sci": "Halcyon coromanda",
+  "author": "Latham, 1790",
+  "en": "Ruddy Kingfisher",
+  "ktsn": 120000001891,
+  "origin": "nibr",
+  "length": "약 27.5cm",
+  "status": "드물지 않은 여름철새",
+  "habitat": "산간 계곡, 호숫가, 혼효림, 활엽수림 등 우거진 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "여름깃과 겨울깃이 같으나 7월쯤에는 색이 엷어지고 등 광택도 줄어든다."
+  },
+  "summary": "드물지 않게 찾아오는 여름철새로, 산골짜기와 호숫가, 혼효림, 활엽수림처럼 우거진 숲에서 번식한다. 숲 속 나무 구멍이나 벼랑의 굴을 쓰거나 흙벽, 썩은 나무 기둥에 스스로 구멍을 파고 알을 낳으며, 암수가 번갈아 품는다. 양서류와 갑각류를 즐겨 먹는다. 전국에 살며 국외에서는 일본, 중국, 필리핀에 분포한다.",
+  "points": [
+    {
+      "ko": "고르게 붉은 살구색인 윗면",
+      "en": "uniform rufous-apricot upperparts"
+    },
+    {
+      "ko": "꼬리에서 가장 강한 붉은 자색 광택",
+      "en": "violet-red gloss, strongest on the tail"
+    },
+    {
+      "ko": "황갈빛 흰 턱 밑과 윗멱",
+      "en": "buffy-white chin and upper throat"
+    },
+    {
+      "ko": "얕게 둥근 꼬리",
+      "en": "slightly rounded tail"
+    },
+    {
+      "ko": "어두운 붉은색 부리와 홍채",
+      "en": "dark red bill and iris"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암컷은 수컷과 매우 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ruddy Kingfisher (Halcyon coromanda), adult: head, back, wings and tail uniformly rufous-apricot with a violet-red gloss except on the forehead and sides of the head, the gloss strongest on the slightly rounded tail, buffy-white chin and upper throat, dark red bill and iris",
+    "pose": "perched on a shaded branch in dense forest by a stream",
+    "scene": "Korean mountain valley in summer with dense broadleaf forest and a stream; no people, buildings or text",
+    "views": [
+      "adult, side view perched: uniform glossy rufous-apricot upperparts, buffy-white chin and upper throat, dark red bill",
+      "adult around July, side view perched: paler overall, with less gloss on the upperparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 호반새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001891",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 호반새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001891",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

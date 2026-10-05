@@ -1,0 +1,75 @@
+{
+  "id": "gallinago-stenura",
+  "ko": "바늘꼬리도요",
+  "sci": "Gallinago stenura",
+  "author": "Bonaparte, 1830",
+  "en": "Pin-tailed Snipe",
+  "ktsn": 120000001697,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔하지 않은 나그네새",
+  "habitat": "논, 습지, 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지의 산란기는 5월 하순쯤이다."
+  },
+  "summary": "봄과 가을에 한반도를 지나가는 흔하지 않은 나그네새로, 꺅도요 무리에 섞여 주로 논에서 보인다. 지렁이와 곤충을 주로 먹는다. 습지나 풀밭 땅 위에 마른 풀잎을 깐 접시 모양 둥지를 짓고 알 4개를 낳는다. 러시아 북부에서 번식하고 동남아시아, 인도, 파키스탄 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "곧고 긴 부리",
+      "en": "long straight bill"
+    },
+    {
+      "ko": "온몸의 적갈색 깃털",
+      "en": "rufous-brown plumage overall"
+    },
+    {
+      "ko": "등의 좁은 흰 선",
+      "en": "narrow white lines on the back"
+    },
+    {
+      "ko": "날 때 보이는 둘째날개깃의 흰 가장자리",
+      "en": "white edge to the secondaries in flight"
+    },
+    {
+      "ko": "딱딱하고 좁은 바깥꼬리깃 7쌍",
+      "en": "seven pairs of stiff, narrow pin-like outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pin-tailed Snipe (Gallinago stenura), adult: rufous-brown plumage overall with narrow white lines on the back, long straight bill, about 26 tail feathers, the outer seven pairs stiff, narrow and pin-like",
+    "pose": "standing in a wet rice field, side view",
+    "scene": "Korean rice paddies during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: rufous-brown overall, narrow white lines on the back, long straight bill",
+      "adult in flight: white edge to the secondaries",
+      "tail detail, spread: stiff, narrow pin-like outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바늘꼬리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001697",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바늘꼬리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001697",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

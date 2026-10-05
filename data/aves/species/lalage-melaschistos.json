@@ -1,0 +1,75 @@
+{
+  "id": "lalage-melaschistos",
+  "ko": "검은할미새사촌",
+  "sci": "Lalage melaschistos",
+  "author": "Hodgson, 1836",
+  "en": "Black-winged Cuckooshrike",
+  "ktsn": 120000528855,
+  "origin": "nibr",
+  "length": "19–24cm",
+  "status": "TODO",
+  "habitat": "숲의 트인 곳, 과수원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "숲 가운데 트인 곳과 과수원에서 사는 꼬리가 긴 새이다. 무척추동물을 잡아먹는다. 네팔, 타이완, 미얀마, 방글라데시, 베트남, 인도, 일본, 중국 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "더 짙은 색의 얼굴(수컷)",
+      "en": "darker face (male)"
+    },
+    {
+      "ko": "회색 몸",
+      "en": "grey body"
+    },
+    {
+      "ko": "검은 날개",
+      "en": "black wings"
+    },
+    {
+      "ko": "길고 검은 꼬리",
+      "en": "long black tail"
+    },
+    {
+      "ko": "날 때 보이는 첫째날개깃 아래 흰 부분",
+      "en": "white patch under the primaries in flight"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸이 진회색이고 얼굴은 더 짙다.",
+    "female": "아랫면을 뺀 나머지가 수컷보다 옅은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-winged Cuckooshrike (Lalage melaschistos), adult male: dark grey overall with an even darker face, black wings and long black tail, white patch on the underside of the primaries visible in flight",
+    "pose": "perched on an open branch at a forest edge, side view",
+    "scene": "Korean forest clearing beside an orchard; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey body, darker face, black wings and long black tail",
+      "adult female, side view perched: paler than the male except on the underparts",
+      "adult, in flight from below: white patch under the primaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은할미새사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000528855",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은할미새사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528855",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

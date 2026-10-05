@@ -1,0 +1,83 @@
+{
+  "id": "aythya-nyroca",
+  "ko": "적갈색흰죽지",
+  "sci": "Aythya nyroca",
+  "author": "Güldenstädt, 1770",
+  "en": "Ferruginous Duck",
+  "ktsn": 120000001454,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "적은 수가 찾아오는 겨울철새(미조)",
+  "habitat": "강, 하구, 하천, 해안, 시야가 트인 넓은 물",
+  "protect": [],
+  "months": {
+    "seen": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "breed": [],
+    "note": "10월에 찾아와 이듬해 2월 말까지 머문다."
+  },
+  "summary": "10월에 찾아와 이듬해 2월 말까지 강, 하구, 하천, 해안에서 지내는 겨울철새로, 흰죽지나 댕기흰죽지 무리 속에 적은 수가 섞여 보이는 미조이다. 시야가 탁 트인 넓은 곳을 좋아한다. 주로 밤에 먹이를 찾으며, 물속으로 잠수해 수생식물과 작은 곤충, 물고기 등을 먹는다.",
+  "points": [
+    {
+      "ko": "수컷의 흰 눈",
+      "en": "male: white iris"
+    },
+    {
+      "ko": "수컷의 검은 부리",
+      "en": "male: black bill"
+    },
+    {
+      "ko": "수컷의 적갈색 몸과 검은 등",
+      "en": "male: reddish-brown body with a black back"
+    },
+    {
+      "ko": "흰 아랫배와 아래꼬리",
+      "en": "white lower belly and undertail"
+    },
+    {
+      "ko": "암컷의 더 짙은 적갈색 몸과 갈색 눈",
+      "en": "female: darker reddish-brown body and dark brown eye"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 적갈색이고 등과 부리는 검으며, 아랫배와 아래꼬리는 흰색이고 눈은 흰색이다.",
+    "female": "온몸이 수컷보다 짙은 적갈색이고 눈은 어두운 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ferruginous Duck (Aythya nyroca), adult male: reddish-brown overall, black back, black bill, white lower belly and undertail, white eye",
+    "pose": "swimming low on open water just before a dive",
+    "scene": "Korean winter river mouth with wide open water and a clear view; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: reddish-brown overall, black back, black bill, white eye, white lower belly and undertail",
+      "adult female, side view swimming: darker reddish-brown overall, dark brown eye"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 적갈색흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001454",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 적갈색흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001454",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 같은 종을 '겨울철새'와 '미조'로 함께 불러 국내 상태 확인 필요"
+  ]
+}

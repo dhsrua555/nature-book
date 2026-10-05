@@ -1,0 +1,81 @@
+{
+  "id": "alaudala-cheleensis",
+  "ko": "북방쇠종다리",
+  "sci": "Alaudala cheleensis",
+  "author": "Swinhoe, 1871",
+  "en": "Asian Short-toed Lark",
+  "ktsn": 120000528853,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새",
+  "habitat": "물가 모래땅, 자갈밭, 농경지",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "4~5월과 9~10월에 지나가며, 번식지에서의 번식기는 4~6월이다."
+  },
+  "summary": "4~5월과 9~10월에 우리나라 전역을 지나가는 나그네새로, 물가 모래땅이나 자갈밭, 농경지 등에서 지낸다. 중앙아시아와 몽골, 중국 북부에서 번식하고 남쪽으로 내려가 겨울을 난다. 번식기는 4~6월이고 한배에 알을 3~4개 낳는다.",
+  "points": [
+    {
+      "ko": "엷은 모래색 눈앞과 눈썹선",
+      "en": "pale sandy lores and supercilium"
+    },
+    {
+      "ko": "황갈색 등",
+      "en": "buff-brown upperparts"
+    },
+    {
+      "ko": "윗가슴의 작고 어두운 갈색 무늬",
+      "en": "small dark brown spots on the upper breast"
+    },
+    {
+      "ko": "모래빛 흰 아랫면",
+      "en": "sandy-white underparts"
+    },
+    {
+      "ko": "어두운 세로무늬가 있는 황갈색 옆구리",
+      "en": "sandy-buff flanks with dark streaks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Asian Short-toed Lark (Alaudala cheleensis), adult male winter: buff-brown upperparts, pale sandy lores and supercilium, sandy-white cheeks, chin and underparts, small dark brown spots on the upper breast, sandy-buff flanks with dark streaks, slightly buffy uppertail coverts",
+    "pose": "standing on bare sandy ground, side view",
+    "scene": "Korean spring riverside sand and gravel flats next to farmland; no people, buildings or text",
+    "views": [
+      "adult male winter, side view standing: buff-brown upperparts, pale sandy supercilium, small dark spots on the upper breast, streaked buff flanks",
+      "adult male winter, head and breast detail: sandy lores and supercilium, sandy-white cheeks, spotted upper breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방쇠종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528853",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방쇠종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528853",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 몸길이가 없고 날개길이(8.5~10cm)만 있어 length를 TODO로 두었다"
+  ]
+}

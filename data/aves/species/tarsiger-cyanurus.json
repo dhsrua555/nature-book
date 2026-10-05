@@ -1,0 +1,74 @@
+{
+  "id": "tarsiger-cyanurus",
+  "ko": "유리딱새",
+  "sci": "Tarsiger cyanurus",
+  "author": "Pallas, 1773",
+  "en": "Red-flanked Bluetail",
+  "ktsn": 120000528886,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "그리 흔하지 않은 나그네새 또는 겨울철새",
+  "habitat": "아고산대와 고산대의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "그리 흔하지 않은 나그네새 또는 겨울철새이다. 아고산대와 고산대 숲에서 번식하며, 바위나 언덕 벼랑의 굴, 큰 나무뿌리나 쓰러진 나무 밑에 부드러운 식물 줄기로 오목한 둥지를 짓는다. 알은 흰 바탕에 엷은 적갈색 반점이 있고 보통 3~6개를 낳는다. 아시아 동부와 중부에 분포하고 주로 대만 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "이마까지 뻗은 흰 눈썹선",
+      "en": "white supercilium reaching the forehead"
+    },
+    {
+      "ko": "짙은 청색 머리와 등(수컷)",
+      "en": "deep blue head and back (male)"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "황갈색~주황색 옆구리",
+      "en": "buff to orange flanks"
+    },
+    {
+      "ko": "푸른 꼬리",
+      "en": "blue tail"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 등, 꼬리가 짙은 청색이고 배는 희며 옆구리는 황갈색이다.",
+    "female": "등은 옅은 황갈색이고 허리와 꼬리는 청색을 띠며, 배는 희고 옆구리는 주황색을 띤다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-flanked Bluetail (Tarsiger cyanurus), adult male: deep blue head, back and tail, white supercilium extending to the forehead, white belly, buff flanks",
+    "pose": "perched low on a mossy log in the forest, side view",
+    "scene": "Korean autumn forest understorey with mossy fallen logs; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: deep blue head, back and tail, white supercilium, white belly, buff flanks",
+      "adult female, side view perched: pale buff-brown back, blue rump and tail, white belly, orange flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 유리딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528886",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 유리딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528886",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

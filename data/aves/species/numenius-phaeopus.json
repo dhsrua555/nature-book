@@ -1,0 +1,71 @@
+{
+  "id": "numenius-phaeopus",
+  "ko": "중부리도요",
+  "sci": "Numenius phaeopus",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Whimbrel",
+  "ktsn": 120000001708,
+  "origin": "nibr",
+  "length": "42cm",
+  "status": "흔한 나그네새, 소수는 월동",
+  "habitat": "갯벌, 강 하구, 습초지, 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 적은 수는 겨울을 난다."
+  },
+  "summary": "봄과 가을에 흔히 지나가는 나그네새이며, 적은 수는 겨울을 나기도 한다. 전국의 갯벌, 강 하구, 습한 풀밭, 농경지에서 먹이를 찾고, 무리를 지어 지내는 때가 많다. 갑각류와 조개 등을 잡아먹는다. 유라시아 대륙 북부와 북아메리카 북부에서 번식하고 아프리카, 중동, 인도, 동남아시아, 호주, 북아메리카 남부, 남아메리카에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "머리 길이의 2배쯤인 아래로 굽은 부리",
+      "en": "long decurved bill about twice the head length"
+    },
+    {
+      "ko": "흰 정수리 중앙선과 암갈색 머리옆선",
+      "en": "white central crown stripe bordered by dark brown lateral crown stripes"
+    },
+    {
+      "ko": "암갈색 줄무늬가 있는 옅은 갈색 아랫면",
+      "en": "pale brown underparts streaked dark brown"
+    },
+    {
+      "ko": "날 때 꼬리 기부에서 등 가운데까지의 흰색",
+      "en": "white from the tail base up to the mid-back in flight"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어른새보다 부리가 짧고 덜 굽었다.",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Whimbrel (Numenius phaeopus), adult: long decurved bill about twice the length of the head, white central crown stripe with dark brown lateral crown stripes, pale brown underparts streaked dark brown, white wedge from the tail base up to the middle of the back (visible in flight)",
+    "pose": "walking on a tidal mudflat, reaching for a crab with its decurved bill",
+    "scene": "Korean tidal mudflat at a river mouth during spring migration, a small flock in the background; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long decurved bill, white central crown stripe and dark lateral crown stripes, pale brown underparts with dark streaks",
+      "adult in flight, from above: white extending from the tail base up to the mid-back",
+      "juvenile, head detail: shorter, less decurved bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 중부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001708",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 중부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001708",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

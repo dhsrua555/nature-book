@@ -1,0 +1,69 @@
+{
+  "id": "onychoprion-fuscatus",
+  "ko": "검은등제비갈매기",
+  "sci": "Onychoprion fuscatus",
+  "author": "Linnaeus, 1766",
+  "en": "Sooty Tern",
+  "ktsn": 120000528816,
+  "origin": "nibr",
+  "length": "약 40cm",
+  "status": "드문 나그네새",
+  "habitat": "해안, 바다의 섬",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "봄과 가을에 적은 무리가 한반도를 지나가는 드문 나그네새다. 해안이나 바다의 섬에서 살며, 모래 위 오목한 자리에 적갈색 얼룩이 있는 흰 알을 1개 낳는다. 우리나라를 비롯해 말레이시아, 타이완, 일본 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 앞이마",
+      "en": "white forehead"
+    },
+    {
+      "ko": "가늘고 검은 부리",
+      "en": "slender black bill"
+    },
+    {
+      "ko": "검은 등",
+      "en": "black back"
+    },
+    {
+      "ko": "깊게 파인 꼬리",
+      "en": "deeply forked tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sooty Tern (Onychoprion fuscatus), adult: white forehead, black back, slender black bill, deeply forked tail",
+    "pose": "standing on sand, side view",
+    "scene": "Korean coast in spring or autumn: the sandy shore of an offshore island; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white forehead, black back, slender black bill, deeply forked tail",
+      "adult, in flight from above: black back and deeply forked tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은등제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528816",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은등제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528816",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

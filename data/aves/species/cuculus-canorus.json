@@ -1,0 +1,73 @@
+{
+  "id": "cuculus-canorus",
+  "ko": "뻐꾸기",
+  "sci": "Cuculus canorus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Cuckoo",
+  "ktsn": 120000001839,
+  "origin": "nibr",
+  "length": "32–36cm",
+  "status": "TODO",
+  "habitat": "낮은 산지, 개활지, 농경지, 주택지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "낮은 산지와 넓게 트인 개활지, 농경지, 주택가 둘레에 살며 전국에서 볼 수 있다. 한 해에 알을 10~20개 낳아 다른 종의 둥지에 하나씩 맡기는데, 먼저 둥지 주인의 알 하나를 치우고 제 알을 넣는다. 우리나라에 오는 뻐꾸기의 알은 파란색이어서, 붉은머리오목눈이 둥지 가운데 흰 알이 든 둥지보다 파란 알이 든 둥지를 주로 고른다. 국외에서는 유라시아의 온대~아한대, 아프리카 중부~남부, 동남아시아, 수마트라, 보르네오, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "노란 눈과 눈테",
+      "en": "yellow iris and eye-ring"
+    },
+    {
+      "ko": "검은빛 도는 회색 윗면",
+      "en": "blackish-grey upperparts"
+    },
+    {
+      "ko": "머리에서 가슴까지 검은빛 회색",
+      "en": "blackish-grey head, throat and breast"
+    },
+    {
+      "ko": "옅은 검은색 날개 끝과 꼬리",
+      "en": "dusky wingtips and tail"
+    },
+    {
+      "ko": "가는 가로줄이 있는 흰 배",
+      "en": "white belly finely barred dusky"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 색이 비슷하며, 수컷이 암컷보다 조금 크다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Cuckoo (Cuculus canorus), adult: yellow iris and eye-ring, blackish-grey upperparts, dusky wingtips and tail, blackish-grey head, throat and breast, white belly and vent with fine dusky barring",
+    "pose": "perched on an exposed branch at a field edge",
+    "scene": "Korean lowland hills bordering open fields and farmland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: yellow eye and eye-ring, blackish-grey upperparts and breast, dusky wingtips and tail, white belly with fine dusky bars",
+      "adult, front view perched: blackish-grey throat and breast, white belly with fine dusky barring"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뻐꾸기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001839",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뻐꾸기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001839",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

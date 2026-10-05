@@ -1,0 +1,77 @@
+{
+  "id": "gypaetus-barbatus",
+  "ko": "수염수리",
+  "sci": "Gypaetus barbatus",
+  "author": "Linnaeus, 1758",
+  "en": "Bearded Vulture",
+  "ktsn": 120000001590,
+  "origin": "nibr",
+  "length": "약 110cm",
+  "status": "TODO",
+  "habitat": "고산 지대의 바위 벽",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "국내에서는 함경남도와 강원도에서 발견된 기록이 있다. 높은 산의 바위 벽 가운데 선반처럼 튀어나온 자리에 둥지를 틀고, 한배에 알 1~2개를 낳지만 대개 1개만 깨어난다. 주로 동물의 사체를 먹는데, 먹이를 높은 데서 떨어뜨려 부서진 뼈에서 골수를 빼 먹으며 거북도 이렇게 깨뜨려 먹는다. 국외에서는 알타이, 중국, 몽골, 에스파냐, 모로코, 북아프리카, 티베트에 분포한다.",
+  "points": [
+    {
+      "ko": "회색 머리",
+      "en": "grey head"
+    },
+    {
+      "ko": "수염처럼 보이는 눈 지나는 검은 선",
+      "en": "black stripe through the eye forming a 'beard'"
+    },
+    {
+      "ko": "검은 윗면",
+      "en": "black upperparts"
+    },
+    {
+      "ko": "누런 갈색 아랫면",
+      "en": "tawny-brown underparts"
+    },
+    {
+      "ko": "가늘고 긴 날개",
+      "en": "long, narrow wings"
+    },
+    {
+      "ko": "길고 쐐기꼴인 검은 꽁지",
+      "en": "long, wedge-shaped black tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Bearded Vulture (Gypaetus barbatus), adult: grey head, black stripe through the eye that looks like a beard, tawny-brown underparts, black upperparts, long narrow wings, long wedge-shaped black tail",
+    "pose": "gliding along a cliff face on long narrow wings",
+    "scene": "Korean high mountains: sheer rock walls with narrow ledges; no people, buildings or text",
+    "views": [
+      "adult, side view perched: grey head with black 'beard' stripe through the eye, black upperparts, tawny-brown underparts",
+      "adult, flight from below: long narrow wings, long wedge-shaped tail, tawny-brown body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 수염수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001590",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 수염수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001590",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

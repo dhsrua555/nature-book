@@ -1,0 +1,76 @@
+{
+  "id": "emberiza-rustica",
+  "ko": "쑥새",
+  "sci": "Emberiza rustica",
+  "author": "Pallas, 1776",
+  "en": "Rustic Bunting",
+  "ktsn": 120000002223,
+  "origin": "nibr",
+  "length": "약 15cm",
+  "status": "흔한 겨울철새",
+  "habitat": "경작지 주변, 구릉, 소림, 낙엽활엽수림, 침엽수림, 혼효림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월에 알을 낳는다."
+  },
+  "summary": "경작지 주변과 구릉, 성긴 숲, 낙엽활엽수림·침엽수림·혼효림에서 지내는 흔한 겨울철새로, 전국에서 볼 수 있다. 겨울에는 주로 풀씨를 먹고, 여름에는 곤충의 애벌레와 어른벌레를 먹는다. 한배에 알을 4~6개 낳는다. 국외에서는 캄차카, 일본, 중국 동부에 분포한다.",
+  "points": [
+    {
+      "ko": "여름엔 검고 겨울엔 갈색인 머리",
+      "en": "black head in summer, brown in winter"
+    },
+    {
+      "ko": "흰 눈썹선과 흰 멱",
+      "en": "white supercilium and throat"
+    },
+    {
+      "ko": "가슴을 가로지르는 갈색 띠",
+      "en": "brown band across the breast"
+    },
+    {
+      "ko": "검은 세로무늬가 있는 붉은 갈색 윗면",
+      "en": "rufous-brown upperparts streaked black"
+    },
+    {
+      "ko": "갈색 세로무늬가 드문 잿빛 흰 아랫면",
+      "en": "greyish-white underparts sparsely streaked brown"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기와 뺨의 색이 암컷보다 또렷하고 아랫면 줄무늬도 진하다.",
+    "female": "머리꼭대기와 뺨의 색이 탁하고 아랫면 줄무늬가 더 연하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rustic Bunting (Emberiza rustica), adult male in breeding plumage: black head, white supercilium and throat, rufous-brown upperparts with black streaks, brown band across the breast, greyish-white underparts with sparse brown streaks",
+    "pose": "foraging on the ground, picking up grass seeds",
+    "scene": "Korean winter: field margins and low hills at the edge of open mixed woodland; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view perched: black head, white supercilium and throat, brown breast band, black-streaked rufous-brown upperparts, greyish-white underparts",
+      "adult winter, side view on the ground: brown head and paler colours overall, white supercilium and throat, brown breast band",
+      "adult female, head detail: duller crown and cheeks, fainter streaks on the underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쑥새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002223",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쑥새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002223",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fringilla-montifringilla",
+  "ko": "되새",
+  "sci": "Fringilla montifringilla",
+  "author": "Linnaeus, 1758",
+  "en": "Brambling",
+  "ktsn": 120000002187,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 겨울철새",
+  "habitat": "자작나무·전나무·소나무 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "자작나무·전나무·소나무 숲에 사는 흔한 겨울철새로, 전국에서 볼 수 있다. 주로 식물성 먹이를 먹고 여름에는 곤충의 어른벌레와 애벌레를 먹는다. 번식지에서는 알을 6~7개 낳는다. 세계적으로는 구북구 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷 여름깃의 검은 머리와 등",
+      "en": "black head and back on breeding male"
+    },
+    {
+      "ko": "여름엔 검고 겨울엔 연노란 부리",
+      "en": "bill black in summer, pale yellow in winter"
+    },
+    {
+      "ko": "황갈색 멱·가슴·어깨",
+      "en": "buff throat, breast and shoulders"
+    },
+    {
+      "ko": "날개의 흰 띠 두 줄",
+      "en": "two white wing bars"
+    },
+    {
+      "ko": "날 때 드러나는 흰 허리",
+      "en": "white rump in flight"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름깃은 머리와 등이 검고, 겨울깃은 머리가 연한 흑갈색에 회색 줄 두 개가 있다.",
+    "female": "수컷 겨울깃과 비슷하나 머리가 연한 갈색이고, 멱·가슴·어깨의 황갈색이 수컷보다 연하다. 등은 수컷처럼 황갈색에 검은 반점이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Brambling (Fringilla montifringilla), adult male winter: pale blackish-brown head with two grey stripes, buff back with black spots, buff throat, breast and shoulders, white belly, two white wing bars, white rump, pale yellow bill",
+    "pose": "perched on a birch branch, side view",
+    "scene": "Korean winter woodland of birch and pine; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: pale blackish-brown head with two grey stripes, buff back with black spots, buff throat, breast and shoulders, white belly, two white wing bars, pale yellow bill",
+      "adult male summer, side view perched: black head and back, buff throat, breast and shoulders, white belly, two white wing bars, black bill",
+      "adult female, side view perched: pale brown head, paler buff throat, breast and shoulders, buff back with black spots"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 되새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002187",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 되새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002187",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

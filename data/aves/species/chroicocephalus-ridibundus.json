@@ -1,0 +1,85 @@
+{
+  "id": "chroicocephalus-ridibundus",
+  "ko": "붉은부리갈매기",
+  "sci": "Chroicocephalus ridibundus",
+  "author": "Linnaeus, 1766",
+  "en": "Black-headed Gull",
+  "ktsn": 120000528809,
+  "origin": "nibr",
+  "length": "약 40cm",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "유럽과 아시아에서 번식하고, 겨울에는 온대에서 아열대 지역까지 내려가 지내는 갈매기다. 여름깃은 머리가 밤색이고, 겨울깃은 머리가 희어지며 귀깃 자리에 검은 점이 남는다.",
+  "points": [
+    {
+      "ko": "여름깃의 밤색 머리",
+      "en": "breeding: chestnut-brown head"
+    },
+    {
+      "ko": "겨울깃의 흰 머리와 귀깃의 검은 점",
+      "en": "non-breeding: white head with a dark ear-spot"
+    },
+    {
+      "ko": "여름깃의 진한 붉은 부리",
+      "en": "breeding: dark red bill"
+    },
+    {
+      "ko": "흐린 회색 날개 윗면",
+      "en": "pale grey upperwing"
+    },
+    {
+      "ko": "날 때 흰 바깥날개, 검은 첫째날개깃 끝",
+      "en": "in flight: white outer wing, primaries edged black"
+    },
+    {
+      "ko": "여름깃의 진한 붉은 다리",
+      "en": "breeding: dark red legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "1년생 겨울깃은 셋째날개깃과 날개덮깃 일부가 짙은 갈색이고, 부리와 다리는 적갈색이다.",
+  "similar": [
+    {
+      "ko": "검은머리갈매기",
+      "how": "검은머리갈매기는 부리가 짧고 검은색이어서 구별된다."
+    }
+  ],
+  "art": {
+    "subject": "Black-headed Gull (Chroicocephalus ridibundus), adult breeding: chestnut-brown head, pale grey upperwing, white outer wing with black-edged primaries, dark red bill and legs",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "adult breeding, side view standing: chestnut-brown head, pale grey wings, dark red bill and legs",
+      "adult non-breeding, head detail: white head with a dark ear-spot",
+      "first-winter, side view: dark brown tertials and some wing coverts, reddish-brown bill and legs"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은부리갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528809",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은부리갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528809",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 국내 상태('드물게 도래하는 통과 철새, 주로 제주도·부산에서만 기록')는 흔한 붉은부리갈매기와 맞지 않아 다른 종 설명이 섞인 것으로 보여 상태를 TODO로 둠"
+  ]
+}

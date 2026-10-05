@@ -1,0 +1,86 @@
+{
+  "id": "larus-cachinnans",
+  "ko": "한국재갈매기",
+  "sci": "Larus cachinnans",
+  "author": "Pallas, 1811",
+  "en": "Caspian Gull",
+  "ktsn": 120000086214,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "강, 하구, 해안, 간척지",
+  "protect": [],
+  "months": {
+    "seen": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "breed": [],
+    "note": "10월부터 이듬해 3월 사이에 관찰된다."
+  },
+  "summary": "10월부터 이듬해 3월까지 강과 하구, 해안, 간척지에서 볼 수 있는 흔하지 않은 겨울철새로, 주로 재갈매기를 비롯한 다른 갈매기 무리에 섞여 드물게 눈에 띈다. 물고기와 게, 물속 곤충 등을 먹는다.",
+  "points": [
+    {
+      "ko": "갈색 줄무늬 없는 흰 머리와 목",
+      "en": "white head and neck without brown streaks"
+    },
+    {
+      "ko": "붉은 눈테",
+      "en": "red orbital ring"
+    },
+    {
+      "ko": "빨간 점이 있는 노란 부리",
+      "en": "yellow bill with a red spot on the lower mandible"
+    },
+    {
+      "ko": "재갈매기보다 진한 회색 등·날개덮깃",
+      "en": "back and wing coverts darker grey than Vega Gull"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "재갈매기",
+      "how": "머리와 목에 갈색 줄무늬가 없고, 등과 날개덮깃이 재갈매기보다 진한 회색이다."
+    }
+  ],
+  "art": {
+    "subject": "Caspian Gull (Larus cachinnans), adult: white head, neck and body without brown streaks, grey back and wing coverts darker than Vega Gull, red orbital ring, yellow bill with a red spot on the lower mandible, pink legs",
+    "pose": "standing among a mixed flock of gulls on a mudflat",
+    "scene": "Korean winter: estuary mudflat at a river mouth with a mixed gull flock; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white head and body, grey back and wing coverts, yellow bill with a red spot, pink legs",
+      "adult, head detail: unstreaked white head, red orbital ring, yellow bill with a red spot on the lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 한국재갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000086214",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 한국재갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000086214",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

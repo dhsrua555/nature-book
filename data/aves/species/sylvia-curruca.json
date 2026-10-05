@@ -1,0 +1,76 @@
+{
+  "id": "sylvia-curruca",
+  "ko": "쇠흰턱딱새",
+  "sci": "Sylvia curruca",
+  "author": "Linnaeus, 1758",
+  "en": "Lesser Whitethroat",
+  "ktsn": 120000155437,
+  "origin": "nibr",
+  "length": "13cm",
+  "status": "미조",
+  "habitat": "경작지, 덤불, 관목 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "산란기는 5~6월이다."
+  },
+  "summary": "우리나라에서는 부산에서 겨울에 한 마리가 채집된 기록만 있는 미조이다. 경작지, 덤불, 관목 숲 등에 산다. 나무나 덤불에 둥지를 틀고 5~6월에 회백색 바탕에 진한 점무늬가 있는 알을 4~6개 낳는다.",
+  "points": [
+    {
+      "ko": "회색 머리",
+      "en": "grey head"
+    },
+    {
+      "ko": "순백색 멱",
+      "en": "pure white throat"
+    },
+    {
+      "ko": "갈색 등",
+      "en": "brown back"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "바깥꽁지깃이 흰 갈색 꽁지",
+      "en": "brown tail with white outer feathers"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Lesser Whitethroat (Sylvia curruca), adult: grey head, pure white throat, brown back, white belly, brown tail with white outer tail feathers",
+    "pose": "perched in a bush, side view",
+    "scene": "Korean winter thicket and scrub at the edge of farmland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: grey head, white throat, brown back, white belly",
+      "adult, rear view in flight: brown tail with white outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠흰턱딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155437",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠흰턱딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155437",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Curruca curruca)"
+    }
+  ],
+  "todo": [
+    "분포 문장이 번식지와 월동지를 구분하지 않고 이어 적어 요약에서 뺐다"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "phalaropus-tricolor",
+  "ko": "큰지느러미발도요",
+  "sci": "Phalaropus tricolor",
+  "author": "Vieillot, 1819",
+  "en": "Wilson's Phalarope",
+  "ktsn": 120000001749,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "온화한 내륙 물가, 얕은 민물 늪, 호수, 연못, 염분 있는 호수",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "몸이 가늘고 다리가 긴 중소형 도요새이다. 대초원 같은 탁 트인 곳의 얕은 민물 늪이나 온화한 내륙 물가에서 번식하고, 호수나 연못에서 겨울을 난다. 이동할 때나 겨울에는 소금기 있거나 알칼리성인 호수에 모인다. 미시간, 온타리오 서부, 미네소타, 캘리포니아 동부, 오리건 중부, 워싱턴, 브리티시컬럼비아, 콜로라도 남부, 애리조나 중부 등지에서 번식하고, 아마존강 부근을 뺀 남아메리카와 아르헨티나 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "길고 바늘 같은 부리",
+      "en": "long, needle-like bill"
+    },
+    {
+      "ko": "회색 정수리(번식깃)",
+      "en": "grey crown (breeding)"
+    },
+    {
+      "ko": "부리에서 목으로 이어진 검은빛 포도주색 줄",
+      "en": "blackish wine-coloured stripe from the bill base down the neck"
+    },
+    {
+      "ko": "포도주색 반점이 있는 회색 윗면",
+      "en": "grey upperparts with a few wine-coloured patches"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "긴 다리, 번식기에는 검은색",
+      "en": "long legs, black in the breeding season"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "정수리가 어둡고 윗면은 회갈색이며, 윗가슴에 밤색 기가 조금 돌고 아랫면은 흰색이다.",
+    "female": "수컷보다 밝은 색을 띤다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Wilson's Phalarope (Phalaropus tricolor), adult breeding: slim body, long needle-like bill, grey crown, blackish wine-coloured stripe from the bill base down the neck, grey upperparts with a few wine-coloured patches, white underparts, long black legs",
+    "pose": "wading in shallow fresh water, side view",
+    "scene": "Korean shallow freshwater marsh beside an open lake; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: needle-like bill, grey crown, dark wine stripe down the neck, grey upperparts with wine patches, white underparts, black legs",
+      "adult male breeding, side view standing: darker crown, grey-brown upperparts, faintly chestnut upper breast, white underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰지느러미발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001749",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰지느러미발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001749",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 번식지 목록 첫머리의 '남아메리카 중앙·서부'는 월동지(남아메리카)와 겹치고 나머지 번식지(미시간·온타리오·캘리포니아 등)와 맞지 않아 요약에서 뺐다(북아메리카의 잘못으로 보임)."
+  ]
+}

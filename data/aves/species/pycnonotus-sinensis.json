@@ -1,0 +1,78 @@
+{
+  "id": "pycnonotus-sinensis",
+  "ko": "검은이마직박구리",
+  "sci": "Pycnonotus sinensis",
+  "author": "Gmelin, 1789",
+  "en": "Light-vented Bulbul",
+  "ktsn": 120000002016,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "평지의 산림, 과수원, 농경지 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "국내에서는 2002년 10월 어청도에서 처음 확인되었다."
+  },
+  "summary": "평지 숲과 과수원, 농경지 언저리에 사는 직박구리로, 나무 위에서 열매와 곤충, 거미류를 잡아먹는다. 경계심이 비교적 적은 편이며 나뭇가지에 앉아 ‘깩- 깩’ 하고 울고, 날 때는 물결치듯 오르내린다. 국외에서는 대만, 중국 남부, 하이난섬, 베트남 북부에 분포한다. 우리나라에서는 2002년 10월 전라북도 어청도에서 처음 확인된 뒤 전라남도 하태도와 홍도 등지에서도 관찰되며 기록이 늘고 있다.",
+  "points": [
+    {
+      "ko": "검은 앞이마와 정수리",
+      "en": "black forehead and forecrown"
+    },
+    {
+      "ko": "정수리에서 뒷머리까지 흰색",
+      "en": "white from crown to nape"
+    },
+    {
+      "ko": "작은 흰 점이 있는 흑갈색 귀깃",
+      "en": "blackish-brown ear-coverts with a small white spot"
+    },
+    {
+      "ko": "어두운 녹회색 윗면",
+      "en": "dark greenish-grey upperparts"
+    },
+    {
+      "ko": "녹황색을 띤 날개와 꼬리 일부",
+      "en": "greenish-yellow on parts of the wings and tail"
+    },
+    {
+      "ko": "회갈색 앞가슴과 탁한 흰 배",
+      "en": "grey-brown upper breast and dull white belly"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Light-vented Bulbul (Pycnonotus sinensis), adult: black from forehead to crown, white from crown to nape, black and blackish-brown markings on the hindneck, blackish-brown ear-coverts with a small white spot, dark greenish-grey upperparts, greenish-yellow on parts of the wings and tail, grey-brown upper breast, dull white belly",
+    "pose": "perched on an orchard branch, calling",
+    "scene": "lowland woodland edge and orchard on a southwestern Korean island; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black forecrown, white hind crown, blackish-brown ear-coverts with white spot, greenish-grey upperparts, dull white belly",
+      "adult, head detail: black forecrown, white hind crown and nape, small white spot in the ear-coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은이마직박구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002016",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은이마직박구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002016",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

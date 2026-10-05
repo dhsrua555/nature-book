@@ -1,0 +1,85 @@
+{
+  "id": "lanius-bucephalus",
+  "ko": "때까치",
+  "sci": "Lanius bucephalus",
+  "author": "Temminck & Schlegel, 1845",
+  "en": "Bull-headed Shrike",
+  "ktsn": 120000001934,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "TODO",
+  "habitat": "나뭇가지(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "4~7월에 알을 낳는다."
+  },
+  "summary": "한국 중·남부 이남에 사는 새로, 홀로 또는 암수가 함께 지낸다. 나뭇가지에 둥지를 틀고 4~7월에 알 6~7개를 낳는다. 국외에서는 사할린섬, 중국 북부, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "갈색 머리(수컷)",
+      "en": "brown head (male)"
+    },
+    {
+      "ko": "검은 눈줄",
+      "en": "black eye-stripe"
+    },
+    {
+      "ko": "회색 등(수컷)",
+      "en": "grey back (male)"
+    },
+    {
+      "ko": "검은 날개의 흰 반점, 날 때 뚜렷",
+      "en": "white patch on black wings, striking in flight"
+    },
+    {
+      "ko": "흰 아랫면과 연한 적갈색 옆구리",
+      "en": "white throat and underparts with pale rufous flanks"
+    },
+    {
+      "ko": "끝으로 갈수록 검어지는 꼬리",
+      "en": "tail darkening towards the tip"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 갈색, 등은 회색이고 눈줄과 날개깃이 검으며 날개에 흰 반점이 있다. 멱과 가슴, 배는 희고 옆구리는 연한 적갈색이다.",
+    "female": "머리는 갈색, 눈줄과 등은 진한 갈색이며 눈줄이 수컷보다 좁다. 가슴과 배는 연한 적갈색에 촘촘한 비늘무늬가 있고 날개에 흰 점이 없다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "칡때까치",
+      "how": "칡때까치에는 흰 눈썹선이 없다."
+    }
+  ],
+  "art": {
+    "subject": "Bull-headed Shrike (Lanius bucephalus), adult male: brown head, black eye-stripe, grey back, black flight feathers with a white wing patch, tail becoming blacker towards the tip, white throat, breast and belly, pale rufous flanks",
+    "pose": "perched on a branch, side view",
+    "scene": "leafy tree branches in central or southern Korea in spring, a twig nest nearby; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: brown head, black eye-stripe, grey back, white wing patch on black wings, white underparts with pale rufous flanks",
+      "adult female, side view perched: brown head, dark brown eye-stripe and back, pale rufous breast and belly densely scaled, no white wing patch",
+      "adult male, summer plumage: grey head and back, narrower rufous area on the breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001934",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001934",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

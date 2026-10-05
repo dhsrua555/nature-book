@@ -1,0 +1,80 @@
+{
+  "id": "bubulcus-ibis",
+  "ko": "황로",
+  "sci": "Bubulcus ibis",
+  "author": "Linnaeus, 1758",
+  "en": "Western Cattle Egret",
+  "ktsn": 120000001539,
+  "origin": "nibr",
+  "length": "약 50cm",
+  "status": "흔한 여름철새",
+  "habitat": "논, 논둑, 수로, 밭, 하천가, 초지, 목초지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "번식기는 4~8월이다."
+  },
+  "summary": "전국에 찾아와 번식하는 흔한 여름철새로, 논, 논둑, 수로, 밭, 하천가, 초지, 목초지에서 산다. 다른 백로과 새들과 함께 집단번식지에서 번식한다. 다른 백로류보다 무리를 이루는 일이 잦고, 메뚜기, 개구리, 미꾸라지 따위를 주로 잡는다. 세계적으로는 모든 대륙의 열대에서 온대까지 분포한다.",
+  "points": [
+    {
+      "ko": "둥근 머리, 짧은 부리와 목",
+      "en": "rounded head, short bill and neck"
+    },
+    {
+      "ko": "진한 주황색 홍채와 부리(구애기)",
+      "en": "deep orange iris and bill (courtship)"
+    },
+    {
+      "ko": "주황색 머리·목·등 장식깃(여름)",
+      "en": "orange plumes on head, neck and back (breeding)"
+    },
+    {
+      "ko": "온몸 흰색, 어두운 노란 부리(겨울)",
+      "en": "all-white plumage, dull yellow bill (non-breeding)"
+    },
+    {
+      "ko": "검거나 짙은 녹색 발",
+      "en": "black or dark green feet"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Western Cattle Egret (Bubulcus ibis), adult breeding: rounded head, short bill and neck, orange plumes on the head, neck and back, deep orange iris and bill in early courtship, black or dark green feet",
+    "pose": "walking through a paddy field in a loose flock, catching grasshoppers",
+    "scene": "Korean summer farmland: green rice paddies with grassy levees and irrigation ditches; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: orange plumes on head, neck and back, short neck, deep orange bill",
+      "adult non-breeding, side view standing: all-white plumage, dull yellow bill, black or dark green feet"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 황로",
+      "url": "https://species.nibr.go.kr/species-detail/120000001539",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 황로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001539",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Ardea ibis)"
+    }
+  ],
+  "todo": []
+}

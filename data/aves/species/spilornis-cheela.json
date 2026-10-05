@@ -1,0 +1,52 @@
+{
+  "id": "spilornis-cheela",
+  "ko": "관수리",
+  "sci": "Spilornis cheela",
+  "author": "Latham, 1790",
+  "en": "Crested Serpent Eagle",
+  "ktsn": 120000001596,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "저지대와 중간 고도, 농경지에서 숲 가장자리까지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "타이완을 비롯해 아열대와 열대 아시아에 분포하는 수리다. 낮은 곳부터 중간 고도에 걸쳐 살며, 농경지에서 숲 가장자리에 이르는 넓은 범위에서 먹이를 찾는다. 주로 뱀이나 도마뱀 같은 파충류를 잡아먹고 때로는 작은 새를 쫓기도 하며, 2~5마리가 모여 있는 모습이 자주 보인다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched on a branch at the forest edge, watching for snakes",
+    "scene": "lowland farmland bordering a forest edge; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 관수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001596",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 관수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001596",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '정수리가 흰 털로 덮여 있다', '부리가 크고 노랗다'는 이 종의 생김새로 미심쩍어 points·art 에 싣지 않음(확인 필요)",
+    "원문의 '큰 날개 때문에 날기 불편해 활강만 할 수 있다', '주변을 소용돌이치게 하면서 자신의 소유를 증명한다'는 틀렸거나 뜻이 불분명해 싣지 않음"
+  ]
+}

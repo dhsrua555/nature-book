@@ -1,0 +1,74 @@
+{
+  "id": "podiceps-auritus",
+  "ko": "귀뿔논병아리",
+  "sci": "Podiceps auritus",
+  "author": "Linnaeus, 1758",
+  "en": "Horned Grebe",
+  "ktsn": 120000001505,
+  "origin": "nibr",
+  "length": "30–39cm",
+  "status": "비교적 드문 겨울철새",
+  "habitat": "하천, 호소, 저수지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "한대 지역에서 번식하고 우리나라에서는 겨울을 난다."
+  },
+  "summary": "전국의 하천, 호소, 저수지에서 비교적 드물게 겨울을 나는 논병아리이다. 물고기, 연체동물, 물속 곤충 같은 동물성 먹이와 함께 거머리말 같은 수초도 먹는다. 한대 지역에서 2~3쌍이 모이거나 때로는 홀로 번식하며, 수초를 쌓은 뜬둥지에 알 4~5개를 낳아 암수가 20~24일 동안 함께 품는다. 겨울은 구북구의 온대와 열대에서 난다.",
+  "points": [
+    {
+      "ko": "머리의 담황색 깃 두 개(번식기)",
+      "en": "two buff plumes on the head (breeding)"
+    },
+    {
+      "ko": "검은 머리, 적갈색 목과 배(번식기)",
+      "en": "black head, rufous neck and belly (breeding)"
+    },
+    {
+      "ko": "흰 뺨과 목, 검은 머리꼭대기(겨울)",
+      "en": "white cheeks and neck, black crown (winter)"
+    },
+    {
+      "ko": "짧고 가는 목",
+      "en": "short, thin neck"
+    },
+    {
+      "ko": "검은 등과 흰 배(겨울)",
+      "en": "black back and white belly (winter)"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "번식기 깃은 암수가 같다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Horned Grebe (Podiceps auritus), adult winter: black crown and back, clean white cheeks, neck and belly, short thin neck",
+    "pose": "swimming on open water, side view",
+    "scene": "Korean winter reservoir with calm grey water and bare banks; no people, buildings or text",
+    "views": [
+      "adult winter, side view swimming: black crown and back, white cheeks, neck and belly, short thin neck",
+      "adult breeding, side view swimming: black head with two buff plumes, rufous neck and belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 귀뿔논병아리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001505",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 귀뿔논병아리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001505",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

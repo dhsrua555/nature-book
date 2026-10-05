@@ -1,0 +1,73 @@
+{
+  "id": "tringa-brevipes",
+  "ko": "노랑발도요",
+  "sci": "Tringa brevipes",
+  "author": "Vieillot, 1816",
+  "en": "Grey-tailed Tattler",
+  "ktsn": 120000528818,
+  "origin": "nibr",
+  "length": "25cm",
+  "status": "흔한 나그네새",
+  "habitat": "간척지, 하구의 삼각주, 논, 염전, 해안 갯바위",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "봄과 가을에 흔하게 지나가는 나그네새다. 간척지, 하구의 삼각주, 논, 염전, 해안 갯바위 등지에서 작은 무리를 지어 지내며, 곤충과 갑각류 등 여러 무척추동물을 잡아먹는다. 시베리아 동북부에서 번식하고 동남아시아, 뉴기니, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "갈색 또는 초록빛 갈색 부리",
+      "en": "brown to greenish-brown bill"
+    },
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "어두운 회색 머리·윗목·등·날개",
+      "en": "breeding: dark grey head, hindneck, back and wings"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "가슴·겨드랑이의 가는 회흑색 가로줄",
+      "en": "breeding: fine blackish-grey bars on breast and axillaries"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey-tailed Tattler (Tringa brevipes), adult breeding: dark grey head, hindneck, back and wings, white supercilium, white underparts with fine blackish-grey bars on the breast and flanks, brown to greenish-brown bill",
+    "pose": "standing on a wet rock at the shoreline, picking at prey",
+    "scene": "Korean coast during spring or autumn migration: rocky shoreline beside a tidal flat; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: dark grey upperparts, white supercilium, finely barred breast, white belly",
+      "adult, head detail: white supercilium, brown to greenish-brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000528818",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528818",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

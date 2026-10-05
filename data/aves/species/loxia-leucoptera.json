@@ -1,0 +1,84 @@
+{
+  "id": "loxia-leucoptera",
+  "ko": "흰죽지솔잣새",
+  "sci": "Loxia leucoptera",
+  "author": "Gmelin, 1789",
+  "en": "Two-barred Crossbill",
+  "ktsn": 120000002204,
+  "origin": "nibr",
+  "length": "약 15cm",
+  "status": "겨울철새",
+  "habitat": "소나무 숲, 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 3월 하순~6월 하순에 알을 낳는다."
+  },
+  "summary": "솔잣새처럼 소나무 숲에 사는 새로, 우리나라를 비롯해 일본, 중국 북부, 만주, 우수리, 사할린, 유럽 서부·중부·동부 등지에서 겨울을 난다. 스웨덴 북부, 시베리아 동부, 아무르, 만주 북부 등지에서 번식한다. 침엽수에 솔잣새와 비슷한 둥지를 짓고 한배에 알을 3~4개, 드물게 5개 낳는다.",
+  "points": [
+    {
+      "ko": "아랫부리 옆이 옅은 어두운 갈색 부리",
+      "en": "dark brown bill with paler sides to lower mandible"
+    },
+    {
+      "ko": "엷은 장밋빛 붉은 몸깃(수컷)",
+      "en": "pale rosy-red body plumage (male)"
+    },
+    {
+      "ko": "날개의 흰 줄 두 개",
+      "en": "two white wing bars"
+    },
+    {
+      "ko": "날개깃 끝의 가는 흰 가장자리",
+      "en": "thin white tips to the flight feathers"
+    },
+    {
+      "ko": "바깥꽁지깃의 가는 흰 가장자리",
+      "en": "thin white edges to outer tail feathers"
+    },
+    {
+      "ko": "어두운 갈색 다리",
+      "en": "dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸깃의 붉은색이 솔잣새보다 엷은 장밋빛이다.",
+    "female": "수컷처럼 날개에 흰 띠 두 줄이 있고, 솔잣새 암컷보다 바탕색이 옅으며 등과 아랫면의 세로무늬가 뚜렷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "솔잣새",
+      "how": "큰날개덮깃과 가운데날개덮깃 끝의 5~15mm 흰 부분이 날개에 흰 줄 두 개를 이루어 쉽게 가려진다. 수컷 몸깃은 솔잣새보다 엷은 장밋빛이고, 암컷은 바탕색이 더 옅으며 등과 아랫면의 세로무늬가 또렷하다."
+    }
+  ],
+  "art": {
+    "subject": "Two-barred Crossbill (Loxia leucoptera), adult male winter: pale rosy-red body plumage, two white wing bars formed by 5–15 mm white tips to the greater and median coverts, thin white edges to the outer tail feathers and tips of the flight feathers, dark brown bill with paler sides to the lower mandible, dark brown iris and legs",
+    "pose": "perched on a pine branch, side view",
+    "scene": "Korean winter pine forest; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: pale rosy-red body, two white wing bars, thin white tips to flight feathers, white-edged outer tail feathers",
+      "adult female, side view perched: two white wing bars, pale ground colour, distinct streaks on back and underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰죽지솔잣새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002204",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰죽지솔잣새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002204",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "locustella-davidi",
+  "ko": "점무늬가슴쥐발귀",
+  "sci": "Locustella davidi",
+  "author": "La Touche, 1923",
+  "en": "Baikal Bush Warbler",
+  "ktsn": 120000528899,
+  "origin": "nibr",
+  "length": "108–113mm",
+  "status": "TODO",
+  "habitat": "숲 가장자리",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "2000년 5월 어청도와 상왕등도 인근 해상에서 성조 3마리가 확인되었다."
+  },
+  "summary": "주로 숲 가장자리에서 발견되는 작은 새로, 우리나라에서는 함경북도에서 번식한다. 2000년 5월 전라북도 서해안의 어청도와 상왕등도 인근 바다에서 다 자란 새 3마리가 확인된 기록이 있다. 부리 길이는 10.7~11.5mm, 날개 길이는 52.0~54.5mm, 꽁지 길이는 42.5~45.5mm, 부척은 18.6~19.4mm이다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched low in shrubs at a forest edge, side view",
+    "scene": "Korean forest edge with dense low shrubs; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 점무늬가슴쥐발귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000528899",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 점무늬가슴쥐발귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528899",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

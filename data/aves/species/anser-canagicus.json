@@ -1,0 +1,82 @@
+{
+  "id": "anser-canagicus",
+  "ko": "흰머리기러기",
+  "sci": "Anser canagicus",
+  "author": "Sevastianov, 1802",
+  "en": "Emperor Goose",
+  "ktsn": 120000001419,
+  "origin": "nibr",
+  "length": "약 77cm",
+  "status": "TODO",
+  "habitat": "툰드라의 호수와 석호 부근, 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "툰드라의 호수나 석호 부근에서 번식하는 기러기로, 알래스카 서부와 시베리아 북동부 해안에 분포한다. 보통 알을 4~6개 낳아 대략 24~27일 동안 품는다. 털갈이 때 번식하지 않는 개체들은 알래스카의 세인트로렌스섬에 크게 모이거나 시베리아 추코스키 반도 북부로 모이고, 번식 집단은 번식지 가까이에서 털갈이를 한다.",
+  "points": [
+    {
+      "ko": "머리에서 뒷목까지 흰색",
+      "en": "white head and hindneck"
+    },
+    {
+      "ko": "검은 턱과 멱",
+      "en": "black chin and throat"
+    },
+    {
+      "ko": "짧고 굵은 목",
+      "en": "short, thick neck"
+    },
+    {
+      "ko": "푸른빛 도는 짙은 회색 몸",
+      "en": "bluish dark grey body plumage"
+    },
+    {
+      "ko": "등의 뚜렷한 비늘무늬",
+      "en": "boldly scaled back"
+    },
+    {
+      "ko": "흰 꽁지",
+      "en": "white tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "쇠기러기",
+      "how": "쇠기러기보다 몸집이 약간 작고 통통하다."
+    }
+  ],
+  "art": {
+    "subject": "Emperor Goose (Anser canagicus), adult: white head and hindneck, black chin and throat, short thick neck, plump body, bluish dark grey body plumage with a bold scaly pattern on the back, white tail",
+    "pose": "standing, side view",
+    "scene": "coastal tundra lagoon shore with a shallow lake; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white head and hindneck, black chin and throat, bluish dark grey scaly body, white tail",
+      "adult, head detail: white head, black chin and throat, short thick neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰머리기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001419",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰머리기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001419",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

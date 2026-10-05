@@ -1,0 +1,77 @@
+{
+  "id": "nycticorax-nycticorax",
+  "ko": "해오라기",
+  "sci": "Nycticorax nycticorax",
+  "author": "Linnaeus, 1758",
+  "en": "Black-crowned Night Heron",
+  "ktsn": 120000001533,
+  "origin": "nibr",
+  "length": "약 57cm",
+  "status": "흔한 여름철새, 드문 텃새",
+  "habitat": "백로류의 집단번식지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "흔한 여름철새이며 일부는 드물게 텃새로 지낸다. 주로 밤에 움직이지만 낮에도 먹이를 사냥하며, 다른 백로류와 함께 집단번식지에서 번식한다. 1990년 이전에는 매우 드문 여름철새로 기록되었으나, 최근 몇십 년 동안 번식 개체 수가 꾸준히 늘고 있다.",
+  "points": [
+    {
+      "ko": "검은 머리~뒷목",
+      "en": "black crown and hindneck"
+    },
+    {
+      "ko": "머리 뒤로 늘어진 흰 장식깃 2~3개",
+      "en": "2–3 long white plumes trailing from the back of the head"
+    },
+    {
+      "ko": "붉은 눈과 검은 부리",
+      "en": "red eye and black bill"
+    },
+    {
+      "ko": "짧고 굵은 목",
+      "en": "short, thick neck"
+    },
+    {
+      "ko": "녹색 띤 검은 등",
+      "en": "greenish-black back"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-crowned Night Heron (Nycticorax nycticorax), adult: black crown and hindneck, greenish-black back, two or three long white plumes trailing from the back of the head, red eye, black bill, short thick neck, yellow legs",
+    "pose": "perched with its short thick neck drawn in, side view",
+    "scene": "Korean summer heronry: a mixed breeding colony shared with egrets; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black crown and back, long white head plumes, red eye, black bill, yellow legs",
+      "adult, head detail: red eye, black bill, 2–3 long white plumes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001533",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001533",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "pandion-haliaetus",
+  "ko": "물수리",
+  "sci": "Pandion haliaetus",
+  "author": "Linnaeus, 1758",
+  "en": "Osprey",
+  "ktsn": 120000001581,
+  "origin": "nibr",
+  "length": "54–64cm",
+  "status": "겨울철새 또는 나그네새",
+  "habitat": "해안, 호수, 강 하구",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "제주도와 남해안 일대에서 겨울을 나는 겨울철새이거나 지나가는 나그네새다. 주로 해안, 호수, 강 하구에서 보이며, 물 위를 날다가 한자리에 멈춰 떠 있은 뒤 재빨리 내리꽂혀 물고기를 잡는다. 남아메리카를 뺀 전 세계에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 눈선과 목띠",
+      "en": "black eye-stripe and neck band"
+    },
+    {
+      "ko": "흑갈색 윗면",
+      "en": "blackish-brown upperparts"
+    },
+    {
+      "ko": "흰 가슴과 윗가슴의 갈색 띠",
+      "en": "white breast with a brown band across the upper breast"
+    },
+    {
+      "ko": "좁고 W자로 펴는 날개",
+      "en": "narrow wings held in a W shape"
+    },
+    {
+      "ko": "짧은 꼬리",
+      "en": "short tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Osprey (Pandion haliaetus), adult: blackish-brown upperparts, white underparts with a brown band across the upper breast, black eye-stripe and neck band, short tail",
+    "pose": "hovering above the water, about to drop onto a fish",
+    "scene": "Korean winter river mouth opening to the sea on the south coast; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black eye-stripe and neck band, blackish-brown upperparts, white breast with a brown upper-breast band",
+      "adult, flight from below: narrow wings bent in a W shape, white underparts, short tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001581",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001581",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

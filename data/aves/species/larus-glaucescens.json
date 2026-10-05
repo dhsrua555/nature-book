@@ -1,0 +1,74 @@
+{
+  "id": "larus-glaucescens",
+  "ko": "수리갈매기",
+  "sci": "Larus glaucescens",
+  "author": "Naumann, 1840",
+  "en": "Glaucous-winged Gull",
+  "ktsn": 120000001759,
+  "origin": "nibr",
+  "length": "60–68cm",
+  "status": "TODO",
+  "habitat": "해안의 염수 지역, 만, 강어귀, 섬, 바닷가, 개펄",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식지에서는 5월 말~7월에 알을 낳는다."
+  },
+  "summary": "해안의 짠물 지역과 만, 강어귀, 섬, 바닷가, 개펄에 사는 큰 갈매기이다. 알래스카에서는 큰 둥지를, 그 남쪽 지역에서는 그보다 작은 둥지를 틀고 5월 말~7월에 담황색 알 2~3개를 낳는다. 알은 26~28일 만에 깨고, 새끼는 깨어난 뒤 35~54일이면 날 수 있으며, 완전한 어른이 되기까지 4년이 걸리고 수명은 20년이다. 북태평양의 알래스카에서 워싱턴주에 걸쳐 분포한다.",
+  "points": [
+    {
+      "ko": "빨간 점이 있는 크고 무거운 노란 부리",
+      "en": "large, heavy yellow bill with a red spot"
+    },
+    {
+      "ko": "자줏빛 도는 분홍색 눈 주위",
+      "en": "purplish-pink skin around the eye"
+    },
+    {
+      "ko": "엷은 회흑색이 섞인 흰 몸",
+      "en": "white plumage with pale slaty grey"
+    },
+    {
+      "ko": "일부만 흰 엷은 회색 날개",
+      "en": "pale grey wings with a small white area"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 몸이 크다.",
+    "female": "수컷보다 몸이 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Glaucous-winged Gull (Larus glaucescens), adult: white plumage with pale slaty grey, pale grey wings with a small white area, large heavy yellow bill with a red spot, purplish-pink skin around the eye",
+    "pose": "standing on a shoreline rock, side view",
+    "scene": "Korean coastal bay with a rocky shore and tidal flat at a river mouth; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white and pale grey plumage, pale grey wings, heavy yellow bill with red spot",
+      "adult, head detail: purplish-pink skin around the eye, yellow bill with red spot"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 수리갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001759",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 수리갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001759",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 날개 편 길이 '약 137mm'는 몸길이 60~68cm인 새로서 단위가 틀린 것으로 보여 TODO 로 두었다."
+  ],
+  "wingspan": "TODO"
+}

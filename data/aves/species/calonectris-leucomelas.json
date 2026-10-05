@@ -1,0 +1,77 @@
+{
+  "id": "calonectris-leucomelas",
+  "ko": "슴새",
+  "sci": "Calonectris leucomelas",
+  "author": "Temminck, 1836",
+  "en": "Streaked Shearwater",
+  "ktsn": 120000001490,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 여름철새",
+  "habitat": "바다, 땅속에 판 굴(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "6~7월에 알을 낳는다."
+  },
+  "summary": "우리나라에서 드물게 번식하는 여름철새로, 바다에서 무리를 지어 지내며 울릉도와 제주도에서 관찰된다. 날개가 길어 제자리에서 바로 날아오르지 못하고, 나무나 벼랑 위에서 뛰어내리거나 달려가다가 떠오른다. 땅속에 굴을 파서 둥지를 만들고 6~7월에 흰 알 1개를 낳아 암수가 번갈아 품는다. 물고기, 오징어, 낙지, 해조류 등을 먹으며, 국외에서는 중국 해안에 분포한다.",
+  "points": [
+    {
+      "ko": "깃 끝이 흰 검은 갈색 이마~뒷머리",
+      "en": "blackish-brown forehead to nape with white feather tips"
+    },
+    {
+      "ko": "어두운 갈색 목과 어깨깃",
+      "en": "dark brown neck and scapulars"
+    },
+    {
+      "ko": "가장자리가 흰 등 가운데 깃",
+      "en": "white-fringed feathers on the centre of the back"
+    },
+    {
+      "ko": "어두운 갈색 꼬리",
+      "en": "dark brown tail"
+    },
+    {
+      "ko": "긴 날개",
+      "en": "long wings"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Streaked Shearwater (Calonectris leucomelas), adult: blackish-brown forehead to nape with white feather tips, dark brown neck, scapulars, back, rump and uppertail coverts, white-edged feathers on the centre of the back and on the uppertail coverts, dark brown tail, long wings",
+    "pose": "gliding low over the waves on long wings",
+    "scene": "Korean summer sea off a steep island coast such as Ulleungdo; no people, buildings or text",
+    "views": [
+      "adult in flight, upperside: dark brown upperparts with white-fringed back and uppertail-covert feathers, long wings, dark brown tail",
+      "adult, side view standing: blackish-brown head with white feather tips, dark brown neck and scapulars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 슴새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001490",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 슴새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001490",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

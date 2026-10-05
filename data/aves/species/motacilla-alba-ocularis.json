@@ -1,0 +1,83 @@
+{
+  "id": "motacilla-alba-ocularis",
+  "ko": "검은턱할미새",
+  "sci": "Motacilla alba ocularis",
+  "author": "Swinhoe, 1860",
+  "en": "White Wagtail (ocularis)",
+  "ktsn": 120000076291,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새",
+  "habitat": "강 하류, 바닷가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "가을과 봄에 지나간다."
+  },
+  "summary": "우리나라에서는 가을과 봄에 지나가는 나그네새로, 강 하류와 바닷가에서 지낸다. 시베리아 동북부와 북극해 연안 등지에서 번식하고 중국 남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 머리꼭대기",
+      "en": "black crown"
+    },
+    {
+      "ko": "턱밑의 작은 흰 무늬",
+      "en": "small white patch on the chin"
+    },
+    {
+      "ko": "그 밖에는 온통 검은 목",
+      "en": "otherwise all-black throat and neck"
+    },
+    {
+      "ko": "잿빛 등",
+      "en": "grey back"
+    },
+    {
+      "ko": "흰색 없는 어두운 둘째날개깃 바깥",
+      "en": "outer webs of secondaries dark brown to black, without white"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "백할미새",
+      "how": "수컷 겨울깃이 비슷하지만, 겨울깃의 둘째날개깃 바깥쪽이 대부분 어두운 갈색이나 검은색이고 흰색이 없다."
+    }
+  ],
+  "art": {
+    "subject": "White Wagtail (Motacilla alba ocularis), adult male in winter plumage: black crown, grey back, throat and neck entirely black apart from a small white patch on the chin, white underparts, outer webs of the secondaries mostly dark brown to black with no white",
+    "pose": "walking along the shoreline, side view",
+    "scene": "Korean spring migration: sandy river mouth opening onto the sea; no people, buildings or text",
+    "views": [
+      "adult male winter, side view standing: black crown, grey back, black throat with a small white chin patch, white underparts",
+      "adult male winter, wing detail: secondaries with dark brown to black outer webs and no white"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은턱할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000076291",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은턱할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000076291",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

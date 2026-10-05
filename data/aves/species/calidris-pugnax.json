@@ -1,0 +1,70 @@
+{
+  "id": "calidris-pugnax",
+  "ko": "목도리도요",
+  "sci": "Calidris pugnax",
+  "author": "Linnaeus, 1758",
+  "en": "Ruff",
+  "ktsn": 120000528821,
+  "origin": "nibr",
+  "length": "수컷 약 32cm, 암컷 약 25cm",
+  "status": "적은 수가 지나가는 나그네새",
+  "habitat": "바닷가 간석지, 습지",
+  "protect": [],
+  "months": {
+    "seen": [
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서는 9~10월에 보이며, 번식지에서는 5월 중순~하순에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 9~10월에 적은 무리가 지나가는 나그네새로, 바닷가 간석지나 습지에서 지낸다. 주로 곤충을 먹고 조개류, 갑각류, 환형동물과 식물 열매도 먹는다. 구북구 북부에서 번식하며 풀밭이나 관목이 있는 땅에 접시 모양 둥지를 짓고 알을 4개쯤 낳는다. 겨울은 아프리카와 아시아의 온대·열대 지역에서 난다.",
+  "points": [
+    {
+      "ko": "번식기 수컷의 목도리 모양 장식깃",
+      "en": "breeding male: ruff of ornamental neck feathers, white, purple or reddish by individual"
+    },
+    {
+      "ko": "겨울깃의 회갈색 등과 흰 깃 가장자리",
+      "en": "non-breeding: grey-brown back with white feather fringes"
+    },
+    {
+      "ko": "흰색 또는 회색 아랫면",
+      "en": "white or grey underparts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸길이 32cm 정도로 암컷보다 크고, 번식기 여름깃에는 목에 개체마다 흰색·보라색·붉은색 등으로 색이 다른 목도리 모양 장식깃이 돋는다.",
+    "female": "몸길이 25cm 정도로 수컷보다 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ruff (Calidris pugnax), adult non-breeding: grey-brown upperparts with white feather fringes, white or grey underparts",
+    "pose": "walking on a tidal flat, picking up insects",
+    "scene": "Korean autumn: coastal tidal flat and adjoining wetland in September; no people, buildings or text",
+    "views": [
+      "adult non-breeding, side view standing: grey-brown back with white feather fringes, white or grey underparts",
+      "adult male breeding, side view: large ruff of neck feathers in white, purple or reddish"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 목도리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000528821",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 목도리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528821",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

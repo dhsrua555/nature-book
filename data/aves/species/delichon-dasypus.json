@@ -1,0 +1,78 @@
+{
+  "id": "delichon-dasypus",
+  "ko": "흰털발제비",
+  "sci": "Delichon dasypus",
+  "author": "Bonaparte, 1850",
+  "en": "Asian House Martin",
+  "ktsn": 120000001993,
+  "origin": "nibr",
+  "length": "약 14.5cm",
+  "status": "TODO",
+  "habitat": "인가 처마 밑, 절 천장, 산지와 폭포의 암벽(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 4월 하순~8월 상순에 낳는다."
+  },
+  "summary": "우리나라에는 매우 드문 여름철새로 찾아오며, 함경남도 장진호반과 부전군 일대, 제주도 등을 거쳐 간다. 무리 짓는 성질이 강해 먹이터나 번식지에서 떼를 이루는 일이 많고, 파리목, 딱정벌레목, 매미목, 벌목 따위의 날아다니는 곤충을 주로 먹는다. 인가 처마 밑이나 절 천장, 산지와 폭포의 암벽에 진흙과 마른 풀로 밥그릇 모양 둥지를 짓고, 4월 하순부터 8월 상순 사이에 한배에 2~8개의 알을 낳는다. 오호츠크해 연안, 시베리아 남동부, 아무르, 사할린 등지에서 번식하고 중국 남부와 타이, 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "푸른 광택의 검은 머리와 등",
+      "en": "blue-glossed black crown and back"
+    },
+    {
+      "ko": "깃 기부가 흰 뒷목",
+      "en": "white feather bases on the hindneck"
+    },
+    {
+      "ko": "검은 갈색 눈앞·뺨·귀깃",
+      "en": "blackish-brown lores, cheeks and ear-coverts"
+    },
+    {
+      "ko": "어두운 갈색과 흰색이 섞인 턱 밑",
+      "en": "chin mixed dark brown and dull white"
+    },
+    {
+      "ko": "푸른빛 도는 검은 오목꽁지",
+      "en": "notched black tail with a bluish tinge"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "등 쪽이 푸른 광택이 나는 검은색이다.",
+    "female": "수컷과 가려내기 어려우나 대체로 등 쪽 광택이 약하고 아랫면의 흰색이 덜 깨끗한 개체가 많다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Asian House Martin (Delichon dasypus), adult male: blue-glossed black forehead, crown, hindneck, back and scapulars, white feather bases on the hindneck, blackish-brown lores, cheeks and ear-coverts, chin mixed dark brown and dull white, white underparts, notched black tail with a bluish tinge",
+    "pose": "clinging to a rock face beside a bowl-shaped mud nest",
+    "scene": "Korean mountain cliff beside a waterfall in summer; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: glossy blue-black upperparts, blackish-brown face, white underparts, notched black tail",
+      "adult female, side view perched: duller gloss on the back and less pure white underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰털발제비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001993",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰털발제비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001993",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 '매우 드문 여름새'라 하면서 한국은 거쳐 가는 곳으로만 적어 국내 상태가 서로 맞지 않으므로 status 를 TODO 로 둠",
+    "원문이 여름새라 하면서 한국은 거쳐 가는 곳으로만 적어 국내 번식 여부가 모순되므로 months.breed 를 TODO 로 둠"
+  ]
+}

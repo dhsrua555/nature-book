@@ -1,0 +1,84 @@
+{
+  "id": "motacilla-alba",
+  "ko": "알락할미새",
+  "sci": "Motacilla alba",
+  "author": "Linnaeus, 1758",
+  "en": "White Wagtail",
+  "ktsn": 120000002172,
+  "origin": "nibr",
+  "length": "약 21cm",
+  "status": "흔한 여름철새",
+  "habitat": "지붕과 옥상, 냇가와 하천, 농경지, 구릉",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5
+    ],
+    "note": "3월 초순이면 서울 근교에 와 있고, 산란기는 4월 하순~5월이다."
+  },
+  "summary": "우리나라에 오는 여름새 가운데 가장 먼저 도착하는 아종으로, 3월 초순이면 이미 서울 근교에 와 있다. 도시와 농촌의 지붕이나 옥상, 냇가와 하천, 농경지와 구릉 등 곳곳에서 흔히 눈에 띈다. 쌓인 바위 틈이나 건물 틈에 둥지를 틀고 4월 하순~5월에 알을 낳으며, 거미와 곤충을 주로 먹는다. 유라시아 대륙 전역에서 번식하고 남쪽의 온대·아열대·열대 지역에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 이마·얼굴 옆·멱",
+      "en": "white forehead, sides of head, chin and foreneck"
+    },
+    {
+      "ko": "백할미새보다 가는 부리",
+      "en": "noticeably slender bill"
+    },
+    {
+      "ko": "머리꼭대기부터 꽁지덮깃까지 검은 윗면",
+      "en": "black from crown to uppertail coverts"
+    },
+    {
+      "ko": "흰 깃 가장자리가 있는 검은 가슴",
+      "en": "black breast with white feather fringes"
+    },
+    {
+      "ko": "갈색 띤 검은 날개깃",
+      "en": "brownish-black flight feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "백할미새",
+      "how": "부리·다리·홍채는 같으나 알락할미새의 부리가 한층 가늘다."
+    }
+  ],
+  "art": {
+    "subject": "White Wagtail (Motacilla alba), adult male in winter plumage: white forehead, sides of head and neck, chin and foreneck, black from the crown to the uppertail coverts, black lower foreneck and breast with white feather fringes, brownish-black flight feathers, slender bill",
+    "pose": "walking on riverside gravel, side view",
+    "scene": "Korean riverside in early spring with farmland and low hills beyond; no people, buildings or text",
+    "views": [
+      "adult male in winter, side view walking: white face and throat, black crown and upperparts, black breast with white fringes, brownish-black flight feathers",
+      "adult male, front view: white forehead and face, black breast with white feather fringes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002172",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002172",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "날개깃 서술('갈색을 띤 검은색으로 명확한 흰색이며')이 문장이 깨져 있어 날개의 흰 부분은 points·art 에서 뺐다."
+  ]
+}

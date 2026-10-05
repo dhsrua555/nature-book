@@ -1,0 +1,83 @@
+{
+  "id": "zapornia-fusca",
+  "ko": "쇠뜸부기사촌",
+  "sci": "Zapornia fusca",
+  "author": "Linnaeus, 1766",
+  "en": "Ruddy-breasted Crake",
+  "ktsn": 120000528847,
+  "origin": "nibr",
+  "length": "22.5cm",
+  "status": "흔하지 않은 여름철새",
+  "habitat": "소택지, 논, 강가의 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "알은 5월 하순~8월 하순에 낳는다."
+  },
+  "summary": "흔하지 않은 여름새로, 소택지와 논, 강가 풀숲 등지에서 지낸다. 풀숲 땅 위에 식물 잎과 줄기로 접시 모양 둥지를 짓고, 크림빛이 도는 갈색 바탕에 붉은 갈색과 쥐색 얼룩이 많은 알을 5~9개 낳는다. 우리나라 전역과 만주 남부, 중국 동부, 일본 등지에 분포하며, 중국 동부와 미얀마, 시안 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "녹갈색 부리",
+      "en": "greenish-brown bill"
+    },
+    {
+      "ko": "흰 턱밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "짙은 갈색 윗면",
+      "en": "dark brown upperparts"
+    },
+    {
+      "ko": "붉은 갈색 가슴과 윗배",
+      "en": "rufous-brown breast and upper belly"
+    },
+    {
+      "ko": "흰 가로띠가 있는 회갈색 아랫배",
+      "en": "greyish-brown lower belly barred white"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ruddy-breasted Crake (Zapornia fusca), adult: dark brown upperparts, white chin, rufous-brown breast and upper belly, greyish-brown lower belly with white bars, greenish-brown bill, red legs",
+    "pose": "walking at the edge of a grassy marsh, half-hidden among stems",
+    "scene": "Korean summer marsh and rice-paddy edge with dense riverside grass; no people, buildings or text",
+    "views": [
+      "adult, side view walking: dark brown upperparts, rufous breast, white-barred greyish-brown lower belly, red legs",
+      "adult, head detail: white chin, greenish-brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠뜸부기사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000528847",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠뜸부기사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528847",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

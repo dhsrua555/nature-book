@@ -1,0 +1,73 @@
+{
+  "id": "recurvirostra-avosetta",
+  "ko": "뒷부리장다리물떼새",
+  "sci": "Recurvirostra avosetta",
+  "author": "Linnaeus, 1758",
+  "en": "Pied Avocet",
+  "ktsn": 120000001666,
+  "origin": "nibr",
+  "length": "약 43cm",
+  "status": "희귀한 미조",
+  "habitat": "얕은 호수, 논, 하구, 간석지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 관찰 기록이 3회뿐인 희귀한 미조로, 얕은 호수와 논, 하구, 간석지에 찾아온다. 짠물과 민물이 만나는 곳에서 부리를 수면과 나란히 둔 채 좌우로 저어 갑각류나 물속 곤충 따위를 잡는다. 유럽, 아시아, 중국에서 번식하며, 아프리카에는 따로 떨어져 사는 번식 집단이 있다.",
+  "points": [
+    {
+      "ko": "위로 휜 가늘고 긴 부리",
+      "en": "long, thin, upcurved bill"
+    },
+    {
+      "ko": "검은 머리꼭대기와 옆머리",
+      "en": "black crown and sides of head"
+    },
+    {
+      "ko": "검은 윗목과 뒷목",
+      "en": "black upper neck and hindneck"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    },
+    {
+      "ko": "나머지는 흰 몸",
+      "en": "otherwise white plumage"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pied Avocet (Recurvirostra avosetta), adult in breeding plumage: long, thin, sharply pointed bill curving upward; black crown, sides of head, upper neck and hindneck; black primaries; rest of plumage white",
+    "pose": "wading in shallow brackish water, sweeping its bill from side to side at the surface",
+    "scene": "Korean estuary where a river meets the sea, shallow water over tidal flats; no people, buildings or text",
+    "views": [
+      "adult breeding, side view wading: upcurved bill, black crown, sides of head and hindneck, white body, black primaries",
+      "adult, head detail: long, thin upcurved bill with a pointed tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뒷부리장다리물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001666",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뒷부리장다리물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001666",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

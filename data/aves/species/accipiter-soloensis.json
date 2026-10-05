@@ -1,0 +1,68 @@
+{
+  "id": "accipiter-soloensis",
+  "ko": "붉은배새매",
+  "sci": "Accipiter soloensis",
+  "author": "Horsfield, 1821",
+  "en": "Chinese Sparrowhawk",
+  "ktsn": 120000001602,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "여름철새",
+  "habitat": "평지, 농가와 인가 주변의 숲",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "여름철새로, 평지나 농가, 인가 주변의 숲에 산다. 먹이가 되는 개구리 등이 줄어들면서 개체 수가 영향을 받고 있다.",
+  "points": [
+    {
+      "ko": "푸른빛 도는 회색 윗면",
+      "en": "blue-grey upperparts"
+    },
+    {
+      "ko": "흐린 주황색 가슴",
+      "en": "pale orange breast"
+    },
+    {
+      "ko": "흰 아랫배",
+      "en": "white lower belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Sparrowhawk (Accipiter soloensis), adult: blue-grey upperparts, pale orange breast, white lower belly",
+    "pose": "perched on a branch at a woodland edge, watching for frogs",
+    "scene": "Korean summer countryside: a grove of trees beside rice paddies on flat farmland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: blue-grey upperparts, pale orange breast, white lower belly",
+      "adult, front view perched: pale orange breast grading to a white lower belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은배새매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001602",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은배새매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001602",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Tachyspiza soloensis)"
+    }
+  ],
+  "todo": []
+}

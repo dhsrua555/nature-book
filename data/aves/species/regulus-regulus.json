@@ -1,0 +1,81 @@
+{
+  "id": "regulus-regulus",
+  "ko": "상모솔새",
+  "sci": "Regulus regulus",
+  "author": "Linnaeus, 1758",
+  "en": "Goldcrest",
+  "ktsn": 120000002068,
+  "origin": "nibr",
+  "length": "9cm",
+  "status": "흔한 겨울철새",
+  "habitat": "아고산대의 침엽수림(번식지의 둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "우리나라 전역에서 겨울을 나는 흔한 겨울새이다. 보통 암수가 함께 다니며, 곤충을 주로 먹고 거미도 먹으며 식물로는 솔씨를 즐긴다. 아고산대 침엽수림에 둥지를 틀고 6~7월에 알을 5~8개 낳는다. 아무르, 만주 북부, 우수리, 사할린, 쿠릴 열도 남부에서 번식하고, 만주 남부, 한국 전역, 일본, 중국 동부, 류큐, 타이완 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "머리꼭대기의 넓은 노란 선",
+      "en": "broad yellow crown stripe"
+    },
+    {
+      "ko": "수컷 머리 중앙의 붉은 선",
+      "en": "red centre to the crown (male)"
+    },
+    {
+      "ko": "흰 눈테",
+      "en": "white eye-ring"
+    },
+    {
+      "ko": "녹갈색 몸",
+      "en": "greenish-brown plumage"
+    },
+    {
+      "ko": "날개의 흰 띠 두 줄",
+      "en": "two white wing bars"
+    },
+    {
+      "ko": "옅은 황백색 아랫면",
+      "en": "pale yellowish-white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리 중앙에 붉은 선이 있다.",
+    "female": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Goldcrest (Regulus regulus), adult male: greenish-brown overall with pale yellowish-white underparts, broad yellow crown stripe with a red centre, white eye-ring, two white wing bars",
+    "pose": "foraging among pine needles, picking insects from the twigs",
+    "scene": "Korean winter conifer woods with pine branches; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: yellow crown stripe with red centre, white eye-ring, greenish-brown upperparts, two white wing bars, pale yellowish-white underparts",
+      "adult, head detail from above: broad yellow crown stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 상모솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002068",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 상모솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002068",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 수컷의 붉은 선만 말하고 암컷 생김새는 적지 않았다"
+  ]
+}

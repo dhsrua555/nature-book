@@ -1,0 +1,83 @@
+{
+  "id": "emberiza-cioides",
+  "ko": "멧새",
+  "sci": "Emberiza cioides",
+  "author": "Brandt, 1843",
+  "en": "Meadow Bunting",
+  "ktsn": 120000002216,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "저지대 관목림, 농경지, 풀밭 같은 트인 곳, 인가 주변",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "흔한 텃새로, 주로 낮은 지대의 관목림이나 농경지, 풀밭 같은 트인 곳에 살아 인가 가까이에서도 자주 보인다. 언뜻 보면 크기와 빛깔이 참새와 비슷하다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "참새보다 긴 꼬리",
+      "en": "tail longer than a sparrow's"
+    },
+    {
+      "ko": "꼬리 양쪽의 흰 깃",
+      "en": "white outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "참새",
+      "how": "크기와 빛깔이 언뜻 비슷하지만, 멧새는 꼬리가 더 길고 흰 눈썹선과 꼬리 양쪽의 흰 깃이 눈에 띈다."
+    }
+  ],
+  "art": {
+    "subject": "Meadow Bunting (Emberiza cioides), adult: sparrow-sized, white supercilium, fairly long tail with white outer tail feathers",
+    "pose": "perched on top of a low shrub at a field edge, side view",
+    "scene": "Korean countryside: low scrub along farmland and open grassy ground near a village; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white supercilium, long tail",
+      "adult in flight, from behind: white outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002216",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002216",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

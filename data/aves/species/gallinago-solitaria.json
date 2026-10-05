@@ -1,0 +1,82 @@
+{
+  "id": "gallinago-solitaria",
+  "ko": "청도요",
+  "sci": "Gallinago solitaria",
+  "author": "Hodgson, 1831",
+  "en": "Solitary Snipe",
+  "ktsn": 120000001695,
+  "origin": "nibr",
+  "length": "30cm",
+  "status": "드문 겨울철새, 드문 나그네새",
+  "habitat": "숲 속 계류, 습지",
+  "protect": [],
+  "months": {
+    "seen": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "breed": [],
+    "note": "10월쯤 와서 이듬해 4월 중순까지 보인다."
+  },
+  "summary": "우리나라에 드물게 찾아오는 겨울철새이자 나그네새로, 겨울에는 숲 속 계류나 습지에서 홀로 지내는 일이 많다. 10월쯤 도착해 이듬해 4월 중순까지 머문다. 번식기에는 높은 산에 둥지를 짓고 알을 5개쯤 낳는다. 모족류, 복족류, 곤충 등을 주로 먹는다.",
+  "points": [
+    {
+      "ko": "흰 무늬가 조금 있는 갈색 목·윗가슴",
+      "en": "brown neck and upper breast with a little white marking"
+    },
+    {
+      "ko": "붉은 갈색·회색 점무늬의 어두운 갈색 윗면",
+      "en": "dark brown upperparts irregularly spotted rufous-brown and grey"
+    },
+    {
+      "ko": "갈색 날개깃",
+      "en": "brown flight feathers"
+    },
+    {
+      "ko": "아랫가슴과 옆구리의 어두운 갈색 세로줄",
+      "en": "dark brown streaks on the lower breast and flanks"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Solitary Snipe (Gallinago solitaria), adult: dark brown upperparts irregularly spotted rufous-brown and grey, brown neck and upper breast with some white markings, dark brown streaks on the lower breast and flanks, white belly, brown flight feathers",
+    "pose": "standing alone at the edge of a forest stream, side view",
+    "scene": "Korean winter woodland with a small stream and wet ground among the trees; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark brown upperparts spotted rufous and grey, brown neck and upper breast, streaked flanks, white belly",
+      "adult, front view: brown upper breast with a little white, dark brown streaks on lower breast and flanks, white belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 청도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001695",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 청도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001695",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

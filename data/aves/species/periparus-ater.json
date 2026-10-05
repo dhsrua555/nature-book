@@ -1,0 +1,95 @@
+{
+  "id": "periparus-ater",
+  "ko": "진박새",
+  "sci": "Periparus ater",
+  "author": "Linnaeus, 1758",
+  "en": "Coal Tit",
+  "ktsn": 120000155319,
+  "origin": "nibr",
+  "length": "약 11cm",
+  "status": "흔한 텃새",
+  "habitat": "아고산대의 잡목림, 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "전국에서 번식하는 흔한 텃새로, 아고산대의 잡목림이나 낙엽활엽수림에 산다. 번식기에는 암수가 함께 지내고 그 밖의 시기에는 무리 지어 지낼 때가 많다. 자연 나무 구멍, 딱따구리류의 옛 둥지, 나무줄기의 갈라진 틈 등에 둥지를 틀고 5~7월에 한배에 5~8개의 알을 낳는다. 곤충을 주로 먹고 거미와 식물 열매도 먹으며, 유라시아 대륙에 분포한다.",
+  "points": [
+    {
+      "ko": "작은 머리깃의 푸른빛 검은 머리",
+      "en": "glossy blue-black crown with a small crest"
+    },
+    {
+      "ko": "흰 뒷목 가운데",
+      "en": "white central nape patch"
+    },
+    {
+      "ko": "그을린 듯한 잿빛 청색 등",
+      "en": "sooty blue-grey back"
+    },
+    {
+      "ko": "크림색 아랫면",
+      "en": "cream underparts"
+    },
+    {
+      "ko": "얕게 오목한 꽁지",
+      "en": "shallowly notched tail"
+    },
+    {
+      "ko": "청회색 다리",
+      "en": "blue-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Coal Tit (Periparus ater), adult male winter: blue-black lores, forehead, crown and sides of the nape with a small crest, white central nape patch, sooty blue-grey back, buff-tinged rump and uppertail coverts, cream underparts with dull grey belly and axillaries, blackish-brown wings and tail, dark brown eye, blue-grey legs",
+    "pose": "foraging among twigs, side view",
+    "scene": "Korean subalpine thicket and deciduous broadleaf forest; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: blue-black head with small crest, sooty blue-grey back, cream underparts, blue-grey legs",
+      "adult, back view: white central nape patch between black nape sides"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 진박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155319",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 진박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155319",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

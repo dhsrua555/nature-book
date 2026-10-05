@@ -1,0 +1,78 @@
+{
+  "id": "calandrella-brachydactyla",
+  "ko": "쇠종다리",
+  "sci": "Calandrella brachydactyla",
+  "author": "Leisler, 1814",
+  "en": "Greater Short-toed Lark",
+  "ktsn": 120000002001,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "TODO",
+  "habitat": "풀포기가 우거진 땅 위의 오목한 곳(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "땅 위의 풀포기가 우거진 오목한 곳에 둥지를 트는 작은 종다리로, 한배에 누런 갈색 알을 3~5개 낳는다. 여름에는 주로 곤충을 잡아먹고 겨울에는 씨앗을 먹으며, 겨울을 나러 옮겨 간다. 서식지가 파괴되면서 수가 줄고 있고, 중국, 몽골, 티베트, 이라크, 튀니지, 에티오피아 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "검은빛 도는 갈색의 뾰족한 부리",
+      "en": "pointed blackish-brown bill"
+    },
+    {
+      "ko": "가슴 양옆의 큰 흑갈색 무늬",
+      "en": "large dark brown patches on the breast sides"
+    },
+    {
+      "ko": "잿빛을 띤 가슴과 배",
+      "en": "greyish breast and belly"
+    },
+    {
+      "ko": "연한 갈색 날개",
+      "en": "pale brown wings"
+    },
+    {
+      "ko": "어두운 갈색 꽁지",
+      "en": "dark brown tail"
+    },
+    {
+      "ko": "암갈색 발가락",
+      "en": "dark brown toes"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 몸집이 다소 크다.",
+    "female": "수컷보다 몸집이 다소 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater Short-toed Lark (Calandrella brachydactyla), adult: pointed blackish-brown bill, greyish breast and belly with large dark brown patches on the sides of the breast, pale brown wings, dark brown tail, dark brown toes",
+    "pose": "standing on bare ground among grass tufts, side view",
+    "scene": "dry open ground with clumps of grass around a shallow hollow; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pointed blackish-brown bill, greyish underparts with dark brown breast-side patches, pale brown wings, dark brown tail",
+      "adult, front view: large dark brown patch on each side of the breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002001",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002001",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

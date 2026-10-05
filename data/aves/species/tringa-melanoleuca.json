@@ -1,0 +1,61 @@
+{
+  "id": "tringa-melanoleuca",
+  "ko": "큰노랑발도요",
+  "sci": "Tringa melanoleuca",
+  "author": "Gmelin, 1789",
+  "en": "Greater Yellowlegs",
+  "ktsn": 120000001717,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "저지대 습지 주변, 툰드라, 아고산대 관목림, 물가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "저지대 습지 주변에서 툰드라, 아고산대 관목림까지 여러 곳에 사는 도요새이다. 물가에서 곤충, 연체동물, 십각류 등을 잡아먹는다. 물가 근처의 얕게 파인 곳에 둥지를 짓고 알 4개를 낳는다. 캐나다, 남아메리카 남부, 알래스카에 분포한다.",
+  "points": [
+    {
+      "ko": "머리 길이보다 1.5배 긴 부리",
+      "en": "bill about 1.5 times as long as the head"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater Yellowlegs (Tringa melanoleuca), adult: bill about 1.5 times as long as the head, yellow legs",
+    "pose": "wading at the water's edge, picking insects from the surface",
+    "scene": "Korean lowland wetland edge with shallow pools; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long bill about 1.5 times the head length, yellow legs",
+      "adult, head detail: bill length compared with the head"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰노랑발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001717",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰노랑발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001717",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

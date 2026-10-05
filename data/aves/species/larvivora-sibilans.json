@@ -1,0 +1,81 @@
+{
+  "id": "larvivora-sibilans",
+  "ko": "울새",
+  "sci": "Larvivora sibilans",
+  "author": "Swinhoe, 1863",
+  "en": "Rufous-tailed Robin",
+  "ktsn": 120000155492,
+  "origin": "nibr",
+  "length": "14cm",
+  "status": "나그네새",
+  "habitat": "침엽수림, 숲 가장자리, 하층 식물이 빽빽한 숲속",
+  "protect": [],
+  "months": {
+    "seen": [
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "5월과 10월에 지나가며, 산란기는 6~7월이다."
+  },
+  "summary": "5월과 10월에 한반도를 지나가는 나그네새로, 침엽수림에 살며 전국에서 관찰된다. 이른 아침에는 숲 가장자리 가까이에서 움직이고, 낮에는 침엽수가 어둡게 우거진 숲속에서 쓰러진 나무 위나 하층 식물이 빽빽한 틈을 걸어 다닌다. 국외에서는 시베리아, 중국, 인도차이나에 분포한다.",
+  "points": [
+    {
+      "ko": "이마 양쪽의 붉은 흙빛 황갈색",
+      "en": "rusty-buff sides of the forehead"
+    },
+    {
+      "ko": "녹슨 갈색 뺨·귀깃·목 옆",
+      "en": "rusty-brown cheeks, ear-coverts and neck sides"
+    },
+    {
+      "ko": "그물 무늬 멱과 가슴",
+      "en": "throat and breast scaled olive-brown"
+    },
+    {
+      "ko": "붉은 흙빛 도는 흰 아랫면",
+      "en": "off-white underparts with a rusty wash"
+    },
+    {
+      "ko": "올리브 잿빛 배 옆",
+      "en": "olive-grey flanks"
+    },
+    {
+      "ko": "밤색 꼬리",
+      "en": "chestnut tail"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 같다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rufous-tailed Robin (Larvivora sibilans), adult: rusty-buff sides of the forehead, rusty-brown cheeks, ear-coverts and neck sides, off-white underparts with a faint rusty wash, throat and breast scaled with narrow olive-brown fringes, olive-grey flanks, brown flight feathers edged olive-brown, chestnut tail, thin pointed bill, dark brown eye",
+    "pose": "walking along a fallen log on the dim forest floor",
+    "scene": "Korean conifer forest interior in May with dense undergrowth and fallen trees; no people, buildings or text",
+    "views": [
+      "adult, side view on a log: rusty-brown face, scaled breast, olive-grey flanks, chestnut tail",
+      "adult, front view: throat and breast scaled olive-brown on off-white"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155492",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155492",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

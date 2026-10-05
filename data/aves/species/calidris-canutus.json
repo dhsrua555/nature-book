@@ -1,0 +1,80 @@
+{
+  "id": "calidris-canutus",
+  "ko": "붉은가슴도요",
+  "sci": "Calidris canutus",
+  "author": "Linnaeus, 1758",
+  "en": "Red Knot",
+  "ktsn": 120000001730,
+  "origin": "nibr",
+  "length": "23.5cm",
+  "status": "적은 수의 나그네새",
+  "habitat": "이끼와 선태류로 덮인 건조한 구릉(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 적은 수가 국내를 지나가는 나그네새이다. 갑각류, 지렁이, 곤충을 즐겨 먹는다. 이끼와 선태류가 덮인 건조한 구릉의 움푹한 곳에 둥지를 틀고 한배에 알 4개를 낳는다. 구북구 동부와 북극 툰드라, 쿠릴 열도, 팔라우 제도, 일본, 타이완 등에 분포한다.",
+  "points": [
+    {
+      "ko": "얼굴에서 배까지 선명한 적갈색(여름깃)",
+      "en": "bright rufous from face to belly (breeding)"
+    },
+    {
+      "ko": "흑갈색 반점과 흰 깃 가장자리의 윗면",
+      "en": "upperparts spotted blackish-brown with white fringes (breeding)"
+    },
+    {
+      "ko": "흑갈색 반점이 있는 흰 아랫배·아래꼬리덮깃",
+      "en": "white lower belly and undertail coverts spotted blackish-brown"
+    },
+    {
+      "ko": "흰 깃 가장자리의 회갈색 윗면(겨울깃)",
+      "en": "grey-brown upperparts with white fringes (winter)"
+    },
+    {
+      "ko": "가슴 옆·옆구리에 반점 있는 흰 아랫면(겨울깃)",
+      "en": "white underparts with spotted breast sides and flanks (winter)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 어른 겨울깃과 닮았으나, 등과 어깨깃 가장자리에 검은 띠가 있고 깃 끝이 희어서 비늘무늬처럼 보인다.",
+  "similar": [
+    {
+      "ko": "붉은어깨도요",
+      "how": "붉은어깨도요는 몸집이 더 크고 부리가 머리 길이보다 조금 길다."
+    }
+  ],
+  "art": {
+    "subject": "Red Knot (Calidris canutus), adult breeding: bright rufous from face to belly, upperparts spotted blackish-brown with white feather edges, white lower belly and undertail coverts spotted blackish-brown",
+    "pose": "standing on wet mud, side view",
+    "scene": "TODO",
+    "views": [
+      "adult breeding, side view standing: rufous face to belly, blackish-brown spotted upperparts with white edges, white undertail with dark spots",
+      "adult winter, side view standing: grey-brown upperparts with white edges, white underparts, spotted breast sides and flanks",
+      "juvenile, side view standing: winter-like plumage with black subterminal bands and white tips giving a scaly back and scapulars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은가슴도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001730",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은가슴도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001730",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

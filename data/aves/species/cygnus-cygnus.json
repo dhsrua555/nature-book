@@ -1,0 +1,79 @@
+{
+  "id": "cygnus-cygnus",
+  "ko": "큰고니",
+  "sci": "Cygnus cygnus",
+  "author": "Linnaeus, 1758",
+  "en": "Whooper Swan",
+  "ktsn": 120000001427,
+  "origin": "nibr",
+  "length": "약 150cm",
+  "status": "겨울철새",
+  "habitat": "저수지, 물이 고인 논, 호수, 하구, 해안의 얕은 물",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "5월 하순~6월 상순에 한배에 알 3~7개를 낳는다."
+  },
+  "summary": "저수지, 물이 고인 논, 호수, 하구, 해안 등 물이 얕은 곳에서 지내는 겨울철새로, 목을 곧게 세운 채 헤엄친다. 국내에서는 동해안 석호, 낙동강 하구, 천수만, 금강 하구, 주남저수지, 한강, 전라남도 진도·해남 등지에서 겨울을 난다. 국외에서는 아이슬란드에서 시베리아에 걸친 툰드라, 지중해, 인도 북부, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 검은 부리",
+      "en": "black bill tip"
+    },
+    {
+      "ko": "앞쪽이 삼각형인 넓은 노란 기부",
+      "en": "large yellow bill base extending forward to a wedge-shaped point"
+    },
+    {
+      "ko": "온몸이 순백색(어른새)",
+      "en": "pure white plumage (adult)"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어린새는 몸이 회갈색을 띤다.",
+  "similar": [
+    {
+      "ko": "고니",
+      "how": "부리의 노란 부분이 더 넓고 부리 앞쪽으로 길게 뻗어 끝이 삼각형을 이룬다."
+    }
+  ],
+  "art": {
+    "subject": "Whooper Swan (Cygnus cygnus), adult: pure white plumage, black bill tip, yellow bill base extending forward in a long wedge-shaped point, black legs",
+    "pose": "swimming with the neck held straight and upright",
+    "scene": "shallow Korean wetland in winter: a flooded rice paddy beside a lake; no people, buildings or text",
+    "views": [
+      "adult, side view swimming with straight upright neck: pure white plumage, yellow-and-black bill",
+      "adult, head detail: yellow bill base extending forward to a wedge-shaped point, black tip",
+      "juvenile, side view swimming: grey-brown plumage"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰고니",
+      "url": "https://species.nibr.go.kr/species-detail/120000001427",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰고니",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001427",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

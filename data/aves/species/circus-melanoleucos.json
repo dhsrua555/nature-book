@@ -1,0 +1,52 @@
+{
+  "id": "circus-melanoleucos",
+  "ko": "알락개구리매",
+  "sci": "Circus melanoleucos",
+  "author": "Pennant, 1769",
+  "en": "Pied Harrier",
+  "ktsn": 120000001600,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 나그네새",
+  "habitat": "강 하류, 갈대밭, 습지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라를 드물게 지나가는 나그네새로, 일부 지역에서 이따금 관찰된다. 강 하류, 갈대밭, 습지에서 지내며 천천히 날아다니면서 먹이를 사냥한다. 여러 개발로 사는 곳이 줄어드는 것이 위협이 되고 있다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "flying slowly and low over a reed bed, hunting",
+    "scene": "Korean migration-season wetland: reed beds along the lower reaches of a river; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락개구리매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001600",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락개구리매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001600",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

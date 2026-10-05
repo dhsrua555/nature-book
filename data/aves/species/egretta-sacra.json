@@ -1,0 +1,82 @@
+{
+  "id": "egretta-sacra",
+  "ko": "흑로",
+  "sci": "Egretta sacra",
+  "author": "Gmelin, 1789",
+  "en": "Pacific Reef Heron",
+  "ktsn": 120000001547,
+  "origin": "nibr",
+  "length": "약 60cm",
+  "status": "드문 텃새",
+  "habitat": "섬과 해안의 바위, 바닷가 바위 지대의 웅덩이, 가까운 습지",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "섬이나 해안의 바위에 사는 드문 텃새로, 해안과 섬 지역에서 드물게 볼 수 있다. 바닷가 바위 지대의 웅덩이나 가까운 습지에서 물고기, 게, 새우 따위를 주로 잡으며, 홀로 또는 작은 무리가 서로 거리를 두고 지낸다. 번식은 무인도나 바닷가 절벽 등에서 한다. 흑색형과 백색형이 있으나 국내에서는 아직 백색형이 기록되지 않았다.",
+  "points": [
+    {
+      "ko": "노란 눈",
+      "en": "yellow eye"
+    },
+    {
+      "ko": "어두운 갈색 부리",
+      "en": "dark brown bill"
+    },
+    {
+      "ko": "푸른빛 도는 검은 온몸",
+      "en": "bluish-black plumage overall"
+    },
+    {
+      "ko": "노란색 또는 녹황색 다리",
+      "en": "yellow or greenish-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pacific Reef Heron (Egretta sacra), adult dark morph: bluish-black plumage overall, dark brown bill, yellow eye, yellow or greenish-yellow legs",
+    "pose": "standing on a wave-washed rock beside a tide pool, watching for fish",
+    "scene": "Korean rocky coast of an offshore island: dark rocks, tide pools and sea cliffs; no people, buildings or text",
+    "views": [
+      "adult dark morph, side view standing: bluish-black plumage, dark brown bill, yellow eye, yellowish legs",
+      "adult, head detail: yellow eye and dark brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흑로",
+      "url": "https://species.nibr.go.kr/species-detail/120000001547",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흑로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001547",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

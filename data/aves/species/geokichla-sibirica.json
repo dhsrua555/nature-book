@@ -1,0 +1,77 @@
+{
+  "id": "geokichla-sibirica",
+  "ko": "흰눈썹지빠귀",
+  "sci": "Geokichla sibirica",
+  "author": "Pallas, 1776",
+  "en": "Siberian Thrush",
+  "ktsn": 120000528908,
+  "origin": "nibr",
+  "length": "약 23cm",
+  "status": "비교적 드문 나그네새",
+  "habitat": "잡목림, 낙엽활엽수림, 적송림, 아고산대 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 5월 중순~7월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 작은 무리로 지나가는 비교적 드문 나그네새이다. 땅 위를 뛰어다니며 다리로 낙엽을 헤쳐 먹이를 찾고, 곤충과 식물 열매를 주로 먹는다. 잡목림, 낙엽활엽수림, 적송림, 아고산대 침엽수림 등에 둥지를 틀고 한배에 알을 3~4개, 보통 3개 낳는다. 중국과 시베리아 등지에 분포하고 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "깃 가장자리가 석판색인 검은 정수리",
+      "en": "black crown with slaty feather edges"
+    },
+    {
+      "ko": "검은 눈앞",
+      "en": "black lores"
+    },
+    {
+      "ko": "목 옆까지 이어지는 넓은 흰 눈썹선",
+      "en": "broad, bold white supercilium reaching the neck sides"
+    },
+    {
+      "ko": "검은 부리(수컷)",
+      "en": "black bill (male)"
+    },
+    {
+      "ko": "주황빛 노란 다리",
+      "en": "orange-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "윗부리와 아랫부리가 모두 검다.",
+    "female": "윗부리가 어두운 갈색이고 아랫부리 끝도 어두운 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Siberian Thrush (Geokichla sibirica), adult male winter: black crown with slaty feather edges, black lores, broad bold white supercilium from in front of the eye to the side of the neck, medium-length black bill, brown iris, orange-yellow legs",
+    "pose": "hopping on the forest floor, flicking fallen leaves aside with its feet",
+    "scene": "Korean autumn deciduous woodland floor covered with fallen leaves; no people, buildings or text",
+    "views": [
+      "adult male winter, side view on the ground: black crown, broad white supercilium, black bill, orange-yellow legs",
+      "adult female, head detail: dark brown upper mandible, lower mandible with a dark brown tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰눈썹지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000528908",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰눈썹지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528908",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 여름에 푸른색이 줄고 잿빛이 많아진다면서 여름깃이 겨울깃과 다름없다고도 해 계절 깃 차이는 싣지 않았다"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "urosphena-squameiceps",
+  "ko": "숲새",
+  "sci": "Urosphena squameiceps",
+  "author": "Swinhoe, 1863",
+  "en": "Asian Stubtail",
+  "ktsn": 120000002023,
+  "origin": "nibr",
+  "length": "약 9cm",
+  "status": "흔한 여름철새",
+  "habitat": "관목림, 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "알은 5~7월에 낳는다."
+  },
+  "summary": "관목림과 낙엽활엽수림에 살며, 여름에 우리나라 전역에서 흔히 번식하는 여름철새이다. 홀로 또는 암수가 함께 지낸다. 땅 위에 둥지를 틀고 5~7월에 한배에 5~7개의 알을 낳는다. 딱정벌레목, 매미목, 메뚜기목, 파리목, 벌목 따위의 곤충을 주로 먹고 다족류도 먹으며, 중국 남부, 타이완, 하이난섬, 인도네시아, 미얀마 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "깃 가장자리가 어두운 갈색 머리꼭대기",
+      "en": "dark brown crown with darker feather edges"
+    },
+    {
+      "ko": "갈색 띤 크림색의 뚜렷한 눈썹선",
+      "en": "prominent brownish-cream supercilium"
+    },
+    {
+      "ko": "크림 황갈색 뺨과 귀깃",
+      "en": "cream-buff cheeks and ear-coverts"
+    },
+    {
+      "ko": "광택 있는 흰 배 가운데",
+      "en": "glossy white belly centre"
+    },
+    {
+      "ko": "올리브 갈색 옆구리",
+      "en": "olive-brown flanks"
+    },
+    {
+      "ko": "살구색 띤 흰 다리",
+      "en": "peach-tinged whitish legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Asian Stubtail (Urosphena squameiceps), adult male (winter plumage): dark brown crown with darker feather edges, prominent brownish-cream supercilium, cream-buff cheeks and ear-coverts with dark feather edges, pale buff chin and throat, brownish-tinged breast, glossy white belly centre, olive-brown flanks with rich buff belly sides, pale dark-brown tail, brown or horn-coloured upper mandible, lower mandible with a dark apricot or pale buff base, dark brown iris, peach-tinged whitish legs",
+    "pose": "standing on the forest floor beneath shrubs, side view",
+    "scene": "Korean summer deciduous broadleaf forest with shrubby undergrowth; no people, buildings or text",
+    "views": [
+      "adult male in winter plumage, side view standing: brownish-cream supercilium, dark brown crown, cream-buff face, glossy white belly, olive-brown flanks, whitish legs",
+      "adult, head detail: prominent pale supercilium, brown upper mandible and pale base to the lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 숲새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002023",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 숲새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002023",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

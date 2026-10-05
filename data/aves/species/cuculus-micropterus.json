@@ -1,0 +1,77 @@
+{
+  "id": "cuculus-micropterus",
+  "ko": "검은등뻐꾸기",
+  "sci": "Cuculus micropterus",
+  "author": "Gould, 1838",
+  "en": "Indian Cuckoo",
+  "ktsn": 120000001838,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "낙엽수림, 낙엽송림, 혼효림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "낙엽수림이나 낙엽송 숲, 혼효림에 살며 보통 혼자 지내는 새이다. 다른 새의 둥지에 알을 낳아 그 새가 품어 깨우게 하는 탁란 습성이 있다. 곤충을 주로 먹고 울음소리가 독특하다. 우리나라를 비롯해 아무르, 우수리, 만주, 인도차이나, 말레이반도, 인도 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 잿빛 머리와 목",
+      "en": "dark grey head and neck"
+    },
+    {
+      "ko": "잿빛 갈색 등과 허리",
+      "en": "grey-brown back and rump"
+    },
+    {
+      "ko": "잿빛 멱과 윗가슴",
+      "en": "grey throat and upper breast"
+    },
+    {
+      "ko": "검은 가로띠가 성긴 흰 배",
+      "en": "white lower breast and belly with sparse black bars"
+    },
+    {
+      "ko": "끝 가까이 검은 띠, 끝은 흰 꼬리",
+      "en": "grey-brown tail with a bold black subterminal band and white tip"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Indian Cuckoo (Cuculus micropterus), adult male: dark grey head and neck, grey-brown back and rump, grey lores, chin, throat and upper breast, white lower breast and belly with sparse black bars, white vent and undertail coverts, grey-brown tail with a bold black subterminal band and white tip, yellow legs",
+    "pose": "perched alone on a branch, calling",
+    "scene": "Korean deciduous woodland with larch stands and mixed forest; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey head and neck, grey-brown back, grey throat and upper breast, white belly with sparse black bars, yellow legs",
+      "adult male, tail detail from below: grey-brown tail with a bold black subterminal band and white tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은등뻐꾸기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001838",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은등뻐꾸기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001838",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

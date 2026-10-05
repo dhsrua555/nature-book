@@ -1,0 +1,81 @@
+{
+  "id": "pitta-nympha",
+  "ko": "팔색조",
+  "sci": "Pitta nympha",
+  "author": "Temminck & Schlegel, 1850",
+  "en": "Fairy Pitta",
+  "ktsn": 120000001922,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "TODO",
+  "habitat": "해안·섬·내륙 비탈의 잡목림과 활엽수림",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "제주도와 남해안 섬에 사는 새로, 해안이나 섬, 내륙 비탈의 잡목림과 활엽수림에서 지낸다. 땅 위를 걸어 다니며 곤충 따위 먹이를 찾고, 경계심이 강해 가까이 다가가기 어렵다. 바위틈을 둥지로 쓰거나 나무줄기 사이에 타원형 둥지를 짓고, 5~7월에 얼룩무늬가 있는 유백색 알 4~6개를 낳는다. 국외에서는 일본, 중국 동부, 타이완, 보르네오섬 등에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 중앙선이 있는 갈색 정수리",
+      "en": "brown crown with a black central stripe"
+    },
+    {
+      "ko": "뒷목까지 닿는 황갈색 눈썹선",
+      "en": "creamy-buff supercilium reaching the nape"
+    },
+    {
+      "ko": "눈앞에서 뒷목까지 검은 띠",
+      "en": "black band from lores through cheeks and ear coverts to the nape"
+    },
+    {
+      "ko": "청록색 등과 새파란 허리",
+      "en": "blue-green back and bright blue lower rump"
+    },
+    {
+      "ko": "황갈색 가슴과 옆구리",
+      "en": "buff breast and flanks"
+    },
+    {
+      "ko": "빨간 아랫배",
+      "en": "red lower belly"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Fairy Pitta (Pitta nympha), adult: brown crown with a black central crown stripe, creamy-buff supercilium reaching the nape, black band from lores through cheeks and ear coverts to the nape, blue-green back, scapulars and upper rump, bright blue lower rump, black uppertail coverts tipped blue, green neck and breast sides, buff breast and flanks, red lower belly",
+    "pose": "walking on the forest floor, searching the leaf litter for insects",
+    "scene": "shady scrub and broadleaf woodland on a slope of a southern Korean island such as Jeju in early summer; no people, buildings or text",
+    "views": [
+      "adult, side view on the ground: brown crown with black central stripe, buff supercilium, black face band, blue-green back, buff breast and flanks, red lower belly",
+      "adult, back view: blue-green back, bright blue lower rump, black uppertail coverts tipped blue"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 팔색조",
+      "url": "https://species.nibr.go.kr/species-detail/120000001922",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 팔색조",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001922",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

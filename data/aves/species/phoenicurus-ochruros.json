@@ -1,0 +1,70 @@
+{
+  "id": "phoenicurus-ochruros",
+  "ko": "검은머리딱새",
+  "sci": "Phoenicurus ochruros",
+  "author": "S.G.Gmelin, 1774",
+  "en": "Black Redstart",
+  "ktsn": 120000002117,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 미조",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "국내에서는 보기 드문 미조이다. 날개 길이는 8.6cm, 꼬리 길이는 6.5cm 정도이고, 습성은 딱새와 비슷하다고 한다. 한국, 몽골 남부, 중국 북부, 티베트, 인도, 미얀마 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 머리와 목",
+      "en": "black head and neck"
+    },
+    {
+      "ko": "회색 이마와 눈 둘레",
+      "en": "grey forehead and eye area"
+    },
+    {
+      "ko": "검은 등과 가슴",
+      "en": "black back and breast"
+    },
+    {
+      "ko": "붉은 갈색 배·허리·꼬리덮깃",
+      "en": "rufous-brown belly, rump and tail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리·목·등·가슴이 검고 이마와 눈 둘레는 회색이며, 배·허리·꼬리덮깃은 붉은빛 갈색이다.",
+    "female": "대체로 갈색이고 목과 아랫배는 회색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Redstart (Phoenicurus ochruros), adult male: black head, neck, back and breast, grey forehead and area around the eye, rufous-brown belly, rump and tail coverts",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": [
+      "adult male, side view perched: black head, neck, back and breast, grey forehead and eye area, rufous-brown belly, rump and tail coverts",
+      "adult female, side view perched: mostly brown, grey neck and lower belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002117",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002117",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

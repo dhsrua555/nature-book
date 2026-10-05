@@ -1,0 +1,74 @@
+{
+  "id": "pyrrhula-pyrrhula",
+  "ko": "멋쟁이새",
+  "sci": "Pyrrhula pyrrhula",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Bullfinch",
+  "ktsn": 120000002206,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "나무 위, 관목 가지(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월에 알을 낳고, 한 해 두 번 번식한다."
+  },
+  "summary": "우리나라 전역에 불규칙하게 찾아오는 흔하지 않은 겨울새로, 주로 나무 위에서 지낸다. 여름에는 암수가 함께 지내고 가을과 겨울에는 작은 무리를 짓는다. 식물의 씨앗과 어린잎, 곤충 등을 먹는다. 아무르강 하류, 우수리, 사할린 등지에서 번식하며, 관목 가지에 나무껍질과 풀뿌리로 컵 모양 둥지를 짓고 한배에 알을 4~6개 낳는다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "black head"
+    },
+    {
+      "ko": "붉은 뺨·멱·윗가슴",
+      "en": "red cheeks, throat and upper breast"
+    },
+    {
+      "ko": "회색 등",
+      "en": "grey back"
+    },
+    {
+      "ko": "장밋빛 도는 옅은 회색 배",
+      "en": "pale grey belly washed rosy"
+    },
+    {
+      "ko": "검은 날개 끝과 꼬리",
+      "en": "black wingtips and tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula), adult: black head, red cheeks, throat and upper breast, grey back, pale grey belly washed rosy, black wingtips and tail",
+    "pose": "perched on a tree branch, eating seeds",
+    "scene": "Korean winter trees and shrubs with bare branches; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black head, red cheeks, throat and upper breast, grey back, pale grey belly washed rosy, black wingtips and tail",
+      "adult, back view perched: black head, grey back, black wingtips and tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 멋쟁이새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002206",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 멋쟁이새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002206",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

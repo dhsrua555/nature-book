@@ -1,0 +1,82 @@
+{
+  "id": "haliaeetus-pelagicus",
+  "ko": "참수리",
+  "sci": "Haliaeetus pelagicus",
+  "author": "Pallas, 1811",
+  "en": "Steller's Sea Eagle",
+  "ktsn": 120000001588,
+  "origin": "nibr",
+  "length": "88–102cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "해안가의 절벽과 언덕, 나무 위",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식기는 4~5월이다."
+  },
+  "summary": "아주 드물게 찾아오는 겨울철새다. 주로 물고기를 먹고 작은 포유류나 오리, 갈매기 같은 새도 잡아먹는다. 해안가의 절벽이나 언덕, 나무 위에 둥지를 틀며, 번식기는 4~5월이고 알은 1~3개를 낳는다. 국외에서는 동북아시아 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 이마",
+      "en": "white forehead"
+    },
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "흰 어깨",
+      "en": "white shoulders"
+    },
+    {
+      "ko": "흑갈색 몸",
+      "en": "blackish-brown body"
+    },
+    {
+      "ko": "흰 허리와 윗꼬리덮깃",
+      "en": "white rump and uppertail coverts"
+    },
+    {
+      "ko": "길고 쐐기형인 흰 꼬리",
+      "en": "long, wedge-shaped white tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 온몸이 검게 보인다. 꼬리는 흰색이지만 가장자리가 갈색이고, 첫째날개깃과 날개덮깃에 군데군데 흰색이 있다.",
+  "similar": [],
+  "art": {
+    "subject": "Steller's Sea Eagle (Haliaeetus pelagicus), adult: blackish-brown overall, white forehead, white shoulders, white rump and uppertail coverts, long white wedge-shaped tail, yellow bill",
+    "pose": "perched on a cliff-top tree overlooking the sea",
+    "scene": "Korean winter coast: a rocky sea cliff and slope with trees above the shore; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white forehead and shoulders, yellow bill, blackish-brown body, long white wedge-shaped tail",
+      "adult, flight from below: rounded trailing edge, wings broadening toward the tips, long white wedge-shaped tail",
+      "juvenile, side view perched: blackish overall, white tail edged brown, white patches on primaries and wing coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 참수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001588",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 참수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001588",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

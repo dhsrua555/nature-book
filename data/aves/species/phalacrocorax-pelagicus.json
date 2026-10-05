@@ -1,0 +1,87 @@
+{
+  "id": "phalacrocorax-pelagicus",
+  "ko": "쇠가마우지",
+  "sci": "Phalacrocorax pelagicus",
+  "author": "Pallas, 1811",
+  "en": "Pelagic Cormorant",
+  "ktsn": 120000001567,
+  "origin": "nibr",
+  "length": "약 73cm",
+  "status": "비교적 드문 텃새",
+  "habitat": "섬, 해안가 바위와 암벽",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "서해 일부 섬에서 무리 지어 번식하고, 겨울에는 해안가 바위에서 드물게 보인다."
+  },
+  "summary": "비교적 드문 텃새로, 서해 일부 섬에서 무리 지어 번식하고 겨울에는 해안가 바위나 암벽에서 드물게 볼 수 있다. 암벽 위나 오목한 자리에 마른 풀과 해초로 둥지를 짓고 한배에 알 3~4개를 낳아 약 31일 동안 품는다. 해마다 같은 자리를 쓰기 때문에 바위가 배설물로 하얗게 덮이기도 한다.",
+  "points": [
+    {
+      "ko": "다른 가마우지보다 가는 머리와 부리",
+      "en": "slimmer head and thinner bill than other cormorants"
+    },
+    {
+      "ko": "여름깃 정수리·뒷머리의 돌출 깃",
+      "en": "breeding: tufts on crown and hindcrown"
+    },
+    {
+      "ko": "여름깃 눈 주위의 넓은 붉은 맨살",
+      "en": "breeding: extensive red bare skin around the eye"
+    },
+    {
+      "ko": "녹색 광택 도는 검은 몸",
+      "en": "black plumage with a green gloss"
+    },
+    {
+      "ko": "여름깃 다리 위쪽의 흰 반점",
+      "en": "breeding: white thigh patch"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pelagic Cormorant (Phalacrocorax pelagicus), adult breeding: black with a green gloss overall, slender head and thin bill, tufts on crown and hindcrown, extensive red bare skin around the eye, white thigh patch",
+    "pose": "standing on a ledge of a sea cliff",
+    "scene": "Korean west-coast island: steep sea cliffs with rock ledges streaked white with droppings; no people, buildings or text",
+    "views": [
+      "adult breeding, side view perched: tufts on crown and hindcrown, red bare skin around the eye, white thigh patch, green-glossed black body",
+      "adult non-breeding, side view perched: no crests or white thigh patch, red skin around the eye very small so the face looks all dark"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠가마우지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001567",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠가마우지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001567",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Urile pelagicus)"
+    }
+  ],
+  "todo": []
+}

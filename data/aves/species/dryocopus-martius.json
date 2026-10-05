@@ -1,0 +1,78 @@
+{
+  "id": "dryocopus-martius",
+  "ko": "까막딱다구리",
+  "sci": "Dryocopus martius",
+  "author": "Linnaeus, 1758",
+  "en": "Black Woodpecker",
+  "ktsn": 120000001916,
+  "origin": "nibr",
+  "length": "45–57cm",
+  "status": "TODO",
+  "habitat": "참나무·소나무 등 고목과 노거수가 있는 울창한 숲",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "3~5월에 알을 낳는다."
+  },
+  "summary": "강원도, 경기도, 경상북도, 충청남·북도에 사는 딱다구리로, 수령이 오랜 참나무나 소나무 같은 고목과 노거수가 있는 울창한 숲에서 지낸다. 몸을 곧추세워 나무줄기에 붙은 채 나선을 그리며 올라가 이웃 나무로 옮기고, 부리로 줄기를 두드려 구멍을 파서 곤충 애벌레를 잡아먹는다. 곤충을 주로 먹고 식물 열매도 먹는다. 암수가 함께 땅에서 4~25m 높이의 나무줄기에 구멍을 파 둥지를 만들고 3~5월에 흰 알 3~6개를 낳으며, 국외에서는 스칸디나비아, 프랑스, 스페인, 캄차카반도, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "광택 있는 어두운 붉은 머리(수컷)",
+      "en": "glossy dark red forehead to nape (male)"
+    },
+    {
+      "ko": "뒷머리만 붉은 암컷",
+      "en": "red on the hindcrown only (female)"
+    },
+    {
+      "ko": "끝과 등이 검은 회백색 부리",
+      "en": "greyish-white bill with black culmen and tip"
+    },
+    {
+      "ko": "온몸이 검은 깃",
+      "en": "all-black plumage"
+    },
+    {
+      "ko": "튼튼한 회색 다리",
+      "en": "sturdy grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마에서 머리꼭대기를 지나 뒷머리까지 광택 있는 어두운 붉은색이다.",
+    "female": "뒷머리만 붉다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Woodpecker (Dryocopus martius), adult male: all-black plumage, glossy dark red forehead, crown and nape, greyish-white bill with black culmen and tip, sturdy grey legs",
+    "pose": "clinging upright to a trunk, hammering out a hole with its bill",
+    "scene": "old-growth Korean forest with ancient oaks and pines in spring; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: all black with glossy dark red forehead to nape, greyish-white bill with black tip, grey legs",
+      "adult female, head detail: black forehead and crown, red only on the hindcrown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 까막딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001916",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 까막딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001916",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

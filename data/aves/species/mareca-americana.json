@@ -1,0 +1,76 @@
+{
+  "id": "mareca-americana",
+  "ko": "아메리카홍머리오리",
+  "sci": "Mareca americana",
+  "author": "J.F.Gmelin, 1789",
+  "en": "American Wigeon",
+  "ktsn": 120000528783,
+  "origin": "nibr",
+  "length": "약 48cm",
+  "status": "극히 드문 겨울철새",
+  "habitat": "논, 호수, 소택지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월에 알을 낳는다."
+  },
+  "summary": "겨울에 아주 드물게 찾아오는 오리로, 강원도 속초 청초호와 고성군, 제주도 성산포, 낙동강 하구 등지에서 겨울을 난다. 논, 호수, 소택지에서 지내며, 낮에는 소택지 풀숲에서 쉬다가 저녁부터 새벽까지 먹이를 찾는다. 물풀을 즐겨 먹고 물속 곤충과 조개류도 먹는다. 북아메리카 대륙 중서부에서 번식하며, 호수 가운데의 작은 섬이나 물가에서 떨어진 풀밭의 오목한 땅에 마른풀로 둥지를 짓고 크림빛 흰 알 8~13개를 24~25일 동안 품는다.",
+  "points": [
+    {
+      "ko": "수컷의 흰 이마와 정수리 가운데",
+      "en": "male: white forehead and central crown"
+    },
+    {
+      "ko": "눈 뒤에서 뒷머리로 잇는 짙은 녹색 띠",
+      "en": "male: broad dark green band from behind the eye meeting on the nape"
+    },
+    {
+      "ko": "검은 잔점이 있는 갈색빛 흰 얼굴",
+      "en": "male: brownish-white face with small black speckles"
+    },
+    {
+      "ko": "홍머리오리보다 어두운 등·어깨깃",
+      "en": "male: back and scapulars darker than Eurasian Wigeon's"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마와 정수리 가운데가 희고, 양 눈 뒤에서 뒷머리까지 짙은 녹색 띠가 지나 뒤에서 만난다. 얼굴은 갈색빛 흰색에 검은 잔점이 있다.",
+    "female": "홍머리오리 암컷과 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "홍머리오리",
+      "how": "수컷의 등과 어깨깃이 홍머리오리보다 어둡고 그 밖의 생김새는 비슷하며, 암컷끼리도 닮았다."
+    }
+  ],
+  "art": {
+    "subject": "American Wigeon (Mareca americana), adult male: white forehead and central crown, broad dark green band from behind each eye meeting on the nape, brownish-white face with small black speckles, dark back and scapulars",
+    "pose": "swimming slowly at the edge of a marsh, side view",
+    "scene": "Korean winter: a coastal lagoon-like lake with reedy marsh and rice paddies nearby; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: white forehead and crown stripe, dark green band behind the eye to the nape, speckled brownish-white face, dark back and scapulars",
+      "adult male, head detail: white central crown and dark green eye-bands joining on the nape"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 아메리카홍머리오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528783",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 아메리카홍머리오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528783",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

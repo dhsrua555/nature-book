@@ -1,0 +1,77 @@
+{
+  "id": "gelochelidon-nilotica",
+  "ko": "큰부리제비갈매기",
+  "sci": "Gelochelidon nilotica",
+  "author": "J.F.Gmelin, 1789",
+  "en": "Gull-billed Tern",
+  "ktsn": 120000088662,
+  "origin": "nibr",
+  "length": "36cm",
+  "status": "TODO",
+  "habitat": "모래밭, 자갈밭, 해변 초지(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식지에서는 5월 초~8월 초가 번식기이다."
+  },
+  "summary": "모래밭과 자갈밭, 바닷가 풀밭에서 번식하는 새로, 한 곳에 둥지 여러 개를 튼다. 번식기는 5월 초부터 8월 초까지이며, 암컷은 보통 알 2~3개를 낳는다. 알은 22~23일 만에 부화하고, 새끼는 부화 뒤 23~35일 동안 어미에게 의지한다. 미국 동부와 남쪽 해안에서 번식하고 미국 남쪽 해안에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "번식기의 검은 정수리와 목덜미",
+      "en": "black crown and nape in breeding plumage"
+    },
+    {
+      "ko": "크고 두꺼운 검은 부리",
+      "en": "large, thick black bill"
+    },
+    {
+      "ko": "위로 갈수록 밝은 회색인 흰 몸",
+      "en": "white body shading to pale grey above"
+    },
+    {
+      "ko": "깊게 파인 꽁지",
+      "en": "deeply notched tail"
+    },
+    {
+      "ko": "검은 다리와 발가락",
+      "en": "black legs and toes"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Gull-billed Tern (Gelochelidon nilotica), adult in breeding plumage: black crown and nape, mostly white body becoming pale grey on the upperparts, large thick black bill, deeply notched tail, black legs and toes",
+    "pose": "standing on sand near its nest, side view",
+    "scene": "sandy, gravelly beach with patches of coastal grass in summer; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: black crown and nape, white underparts, pale grey upperparts, thick black bill, black legs",
+      "adult winter, side view standing: grey crown, head, back, wings and tail, thick black bill, black legs"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰부리제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000088662",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰부리제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000088662",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태·기록이 없고 분포는 미국만 적었다"
+  ],
+  "wingspan": "86cm"
+}

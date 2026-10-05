@@ -1,0 +1,78 @@
+{
+  "id": "anthus-richardi",
+  "ko": "큰밭종다리",
+  "sci": "Anthus richardi",
+  "author": "Vieillot, 1818",
+  "en": "Richard's Pipit",
+  "ktsn": 120000002175,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "적은 무리가 규칙적으로 지나가는 나그네새",
+  "habitat": "물가·하천·소택지 가까운 초지, 고산 초지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 산란기는 5월 하순~7월 상순이다."
+  },
+  "summary": "봄과 가을에 적은 무리가 규칙적으로 한반도를 지나가는 나그네새이다. 늘 암수가 함께 지내고 겨울에는 작은 무리를 이루며, 땅 위에서 먹이를 찾을 때가 많다. 물가나 하천, 소택지 가까운 초지의 땅 위나 고산 초지에 둥지를 틀며, 5월 하순~7월 상순에 한 해 두 번, 한배에 알 4~6개를 낳는다.",
+  "points": [
+    {
+      "ko": "황갈색 눈썹선과 귀깃",
+      "en": "buff supercilium and ear coverts"
+    },
+    {
+      "ko": "가늘고 긴 원추형 부리",
+      "en": "long, slender conical bill"
+    },
+    {
+      "ko": "턱선과 가슴의 흐린 짧은 세로 얼룩",
+      "en": "short, indistinct streaks on the malar and breast"
+    },
+    {
+      "ko": "황갈색 가슴과 옆구리",
+      "en": "buff breast and flanks"
+    },
+    {
+      "ko": "얕게 오목한 긴 꽁지",
+      "en": "long, shallowly notched tail"
+    },
+    {
+      "ko": "긴 다리",
+      "en": "long legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 깃털 색이 같고, 암컷이 조금 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Richard's Pipit (Anthus richardi), adult: buff supercilium and ear coverts, buffy-white chin, throat and belly, buff breast and flanks with short, indistinct dark buff streaks on the malar region and breast, buff upperparts, dark brown wing feathers with dark buff edges, long shallowly notched tail, long legs, slender conical dark brown bill with a pale base to the lower mandible",
+    "pose": "walking on the ground in short grass, searching for food",
+    "scene": "Korean grassy meadow near a riverbank during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: buff supercilium, streaked buff breast, buff upperparts, long tail, long legs",
+      "adult, head detail: buff supercilium and ear coverts, slender conical bill with pale base to the lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002175",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002175",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

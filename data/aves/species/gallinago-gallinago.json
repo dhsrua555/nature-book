@@ -1,0 +1,78 @@
+{
+  "id": "gallinago-gallinago",
+  "ko": "꺅도요",
+  "sci": "Gallinago gallinago",
+  "author": "Linnaeus, 1758",
+  "en": "Common Snipe",
+  "ktsn": 120000001699,
+  "origin": "nibr",
+  "length": "26cm",
+  "status": "흔한 나그네새, 중부 이남에서는 흔한 겨울새",
+  "habitat": "바닷가나 호숫가의 풀밭, 논, 하천, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가고 중부 이남에서 겨울을 나며, 산란기는 3~7월 하순이다."
+  },
+  "summary": "봄과 가을에 흔히 지나가는 나그네새이고, 중부 이남에서는 흔히 겨울을 난다. 바닷가나 호숫가의 풀밭, 논, 하천, 습지에 살며 주로 밤에 움직인다. 연체동물, 모족류, 곤충, 갑각류, 물고기와 식물 열매를 먹고, 알은 4~5개 낳는다. 세계 곳곳에 분포하며, 북쪽 번식 집단은 겨울에 온대·아열대·열대로 옮겨 가고 남쪽 번식 집단은 대체로 머물러 산다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "blackish head"
+    },
+    {
+      "ko": "흰 세로줄 4개가 있는 짙은 갈색 윗면",
+      "en": "dark brown upperparts with four white stripes on the back"
+    },
+    {
+      "ko": "검은 점이 많은 황갈색 앞가슴",
+      "en": "buff breast heavily spotted black"
+    },
+    {
+      "ko": "흰 배와 아래꼬리덮깃",
+      "en": "white belly and undertail coverts"
+    },
+    {
+      "ko": "날개 위아래의 흰 줄무늬",
+      "en": "white stripes on the upperwing and underwing"
+    },
+    {
+      "ko": "적갈색 꼬리깃",
+      "en": "rufous tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Snipe (Gallinago gallinago), adult: blackish head, dark brown upperparts with four white stripes along the back, buff breast with many black spots, white belly and undertail coverts, white stripes on the upper and under wing, rufous tail",
+    "pose": "standing at the grassy edge of a wet rice field, side view",
+    "scene": "Korean winter rice paddies and stream-side marsh in the southern half of the country; no people, buildings or text",
+    "views": [
+      "adult, side view standing: blackish head, dark brown back with four white stripes, buff breast spotted black, white belly",
+      "adult in flight, from above: white stripes on the wing and rufous tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꺅도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001699",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꺅도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001699",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

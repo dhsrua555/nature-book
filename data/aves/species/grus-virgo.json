@@ -1,0 +1,74 @@
+{
+  "id": "grus-virgo",
+  "ko": "쇠재두루미",
+  "sci": "Grus virgo",
+  "author": "Linnaeus, 1758",
+  "en": "Demoiselle Crane",
+  "ktsn": 120000528841,
+  "origin": "nibr",
+  "length": "약 98cm",
+  "status": "미조",
+  "habitat": "초지, 습지, 강가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "국내에서는 오래전에 관찰된 기록만 있고, 번식지에서는 5월 중순~7월에 알을 낳는다."
+  },
+  "summary": "국내에서는 오래전 경기도와 강화도에서 관찰된 기록만 있는 미조이다. 번식지에서는 초지와 습지, 강가 등지의 땅 위에 풀을 쌓아 올리거나 맨땅·암석지에 작은 돌을 모아 둥지를 만들고, 한배에 알을 2개 낳는다. 습지에 내려 두 다리를 번갈아 옮기며 조용히 걸어 다니면서 먹이를 찾고, 메뚜기류와 딱정벌레류 곤충, 복족류 연체동물, 환형동물, 곡식과 그 밖의 식물을 먹는다. 국외에서는 아프리카 북부, 유럽 동남부, 몽골, 이라크, 이란, 인도, 중국 동북부, 일본 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "잿빛 섞인 석판 검은색 이마",
+      "en": "slate-black forehead mixed with grey"
+    },
+    {
+      "ko": "엷은 잿빛 정수리와 뒷머리",
+      "en": "pale ash-grey crown and nape"
+    },
+    {
+      "ko": "검은 눈앞과 이어진 굵은 검은 눈썹선",
+      "en": "black lores joined to a broad black supercilium"
+    },
+    {
+      "ko": "끝이 붉은 주황색인 올리브색 부리",
+      "en": "olive bill with a reddish-orange tip"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Demoiselle Crane (Grus virgo), adult: slate-black forehead mixed with grey, pale ash-grey crown and nape, black lores joined to a black stripe about 10 mm wide above the eye, olive bill with a reddish-orange tip, black legs",
+    "pose": "walking slowly through a wetland, stepping alternately and searching the ground for food",
+    "scene": "Korean grassy wetland beside a river, open meadow and shallow marsh; no people, buildings or text",
+    "views": [
+      "adult, side view walking: grey-washed black forehead, pale grey crown and nape, black lores and broad black stripe above the eye, olive bill tipped reddish-orange, black legs",
+      "adult, head detail: forehead, crown, black supercilium and bill pattern"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠재두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000528841",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠재두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528841",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

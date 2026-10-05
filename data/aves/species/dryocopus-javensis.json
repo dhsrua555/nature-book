@@ -1,0 +1,88 @@
+{
+  "id": "dryocopus-javensis",
+  "ko": "크낙새",
+  "sci": "Dryocopus javensis",
+  "author": "Horsfield, 1821",
+  "en": "White-bellied Woodpecker",
+  "ktsn": 120000001915,
+  "origin": "nibr",
+  "length": "46cm",
+  "status": "TODO",
+  "habitat": "전나무·잣나무·소나무·참나무·밤나무 등이 섞여 자라는 침엽수·활엽수 혼효림",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 5~6월에 낳는다."
+  },
+  "summary": "예전에는 경기도에 살았으나 지금은 관찰되지 않는 새이다. 전나무·잣나무·소나무·참나무·밤나무 등 침엽수와 활엽수가 섞여 자라는 숲에 살며, 주로 이른 아침과 저녁에 움직이지만 흐리거나 비가 오는 날에는 낮에도 활동한다. 나무줄기를 나선을 그리며 타고 올라 이웃 나무로 건너가고, 나무껍질을 벗기고 구멍을 파서 큰 딱정벌레 애벌레를 꺼내 먹는다. 참나무·전나무·소나무 등의 나무 구멍을 쓰거나 직접 구멍을 파서 둥지로 삼고, 5~6월에 흰 알 2~5개를 낳아 암수가 번갈아 품는다.",
+  "points": [
+    {
+      "ko": "진한 붉은 이마~뒷머리(수컷)",
+      "en": "deep red forehead, crown and nape (male)"
+    },
+    {
+      "ko": "어두운 붉은 뺨선",
+      "en": "dark red malar stripe"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "흰 아래등·허리·위꼬리덮깃",
+      "en": "white lower back, rump and uppertail coverts"
+    },
+    {
+      "ko": "흰 가슴과 윗배, 나머지는 검정",
+      "en": "white breast and upper belly, rest of plumage black"
+    },
+    {
+      "ko": "검은빛 회색 다리",
+      "en": "blackish-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마에서 머리꼭대기, 뒷머리까지 진한 붉은색이다.",
+    "female": "같은 부위에 붉은색이 없이 검다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "까막딱다구리",
+      "how": "까막딱다구리는 온몸이 검어, 등 아래쪽과 가슴·윗배가 흰 크낙새와 쉽게 구별된다."
+    }
+  ],
+  "art": {
+    "subject": "White-bellied Woodpecker (Dryocopus javensis), adult male: deep red forehead, crown and nape, dark red malar stripe, white lower back, rump, uppertail coverts, breast and upper belly, otherwise black plumage, black bill, blackish-grey legs",
+    "pose": "spiralling up a large trunk, prising off bark to dig out beetle larvae",
+    "scene": "Korean mixed forest of firs, Korean pines, pines, oaks and chestnut trees at dawn; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: deep red forehead to nape, dark red malar stripe, white breast and upper belly, black upperparts, black bill",
+      "adult female, head detail: black forehead to nape with no red, dark red malar stripe",
+      "adult, back view: white lower back and rump contrasting with black wings and tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 크낙새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001915",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 크낙새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001915",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "parus-major",
+  "ko": "노랑배박새",
+  "sci": "Parus major",
+  "author": "Linnaeus, 1758",
+  "en": "Great Tit",
+  "ktsn": 120000001975,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "TODO",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑배박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001975",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑배박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001975",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 아랫면이 흰색이고 전국에 사는 텃새라 하여 국명 '노랑배박새'와 맞지 않음. 박새 설명으로 보여 모든 값을 TODO 로 둠"
+  ]
+}

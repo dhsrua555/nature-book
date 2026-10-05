@@ -1,0 +1,78 @@
+{
+  "id": "phylloscopus-inornatus",
+  "ko": "노랑눈썹솔새",
+  "sci": "Phylloscopus inornatus",
+  "author": "Blyth, 1842",
+  "en": "Yellow-browed Warbler",
+  "ktsn": 120000002047,
+  "origin": "nibr",
+  "length": "약 10cm",
+  "status": "드물지 않은 나그네새",
+  "habitat": "산지 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 드물지 않게 지나가는 나그네새로, 산지 숲에서 주로 홀로 지내며 곤충을 주로 잡아먹는다. 숲속 땅 위나 관목의 낮은 가지에 둥지를 짓고, 6월 중순~7월 중순에 한배에 5~7개의 알을 낳는다. 시베리아, 바이칼호, 아무르, 몽골 북부, 만주, 우수리에서 번식하고 중국 남부와 말레이시아로 내려가 겨울을 난다.",
+  "points": [
+    {
+      "ko": "노란 눈썹선",
+      "en": "yellow supercilium"
+    },
+    {
+      "ko": "잿빛 올리브 녹색 윗면",
+      "en": "greyish olive-green upperparts"
+    },
+    {
+      "ko": "날개의 흰 가로띠 2줄",
+      "en": "two white wing bars"
+    },
+    {
+      "ko": "노란 기가 도는 허리",
+      "en": "yellowish rump"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "가늘고 약한 올리브색·회갈색 다리",
+      "en": "thin, weak olive or greyish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-browed Warbler (Phylloscopus inornatus), adult male (winter plumage): greyish olive-green upperparts, yellow supercilium, two white wing bars, yellowish rump and axillaries, white belly, thin olive or greyish-brown legs",
+    "pose": "perched on a low shrub branch, side view",
+    "scene": "Korean mountain forest with a shrubby understorey in spring or autumn; no people, buildings or text",
+    "views": [
+      "adult male in winter plumage, side view perched: yellow supercilium, greyish olive-green upperparts, two white wing bars, white belly",
+      "adult, rear view: yellowish rump"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑눈썹솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002047",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑눈썹솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002047",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

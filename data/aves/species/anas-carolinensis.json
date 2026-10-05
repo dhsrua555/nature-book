@@ -1,0 +1,61 @@
+{
+  "id": "anas-carolinensis",
+  "ko": "미국쇠오리",
+  "sci": "Anas carolinensis",
+  "author": "Gmelin, 1789",
+  "en": "Green-winged Teal",
+  "ktsn": 120000002242,
+  "origin": "nibr",
+  "length": "약 32–39cm",
+  "status": "미조",
+  "habitat": "호소, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 미조로 기록되는 작은 오리이다. 호수와 늪, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭 등에서 지낸다. 번식기에는 물가에 풀을 엮어 둥지를 짓고 알을 10개쯤 낳는데, 알 색은 흰색부터 올리브색까지 여러 가지이다. 미국과 캐나다에 분포한다.",
+  "points": [
+    {
+      "ko": "가슴과 옆구리 경계의 흰 줄",
+      "en": "white stripe at the border between breast and flanks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "쇠오리",
+      "how": "생김새와 색이 비슷하지만, 가슴과 옆구리 경계에 흰 줄이 있는 점이 가장 큰 차이다."
+    }
+  ],
+  "art": {
+    "subject": "Green-winged Teal (Anas carolinensis), adult: small duck similar in shape and colour to Eurasian Teal, with a white stripe at the border between breast and flanks",
+    "pose": "swimming on calm water, side view",
+    "scene": "Korean wetland: shallow pond with grassy margins and reeds; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: Eurasian Teal-like shape and colours, white stripe between breast and flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 미국쇠오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002242",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 미국쇠오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002242",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

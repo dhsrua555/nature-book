@@ -1,0 +1,78 @@
+{
+  "id": "mergellus-albellus",
+  "ko": "흰비오리",
+  "sci": "Mergellus albellus",
+  "author": "Linnaeus, 1758",
+  "en": "Smew",
+  "ktsn": 120000001470,
+  "origin": "nibr",
+  "length": "약 42cm",
+  "status": "흔한 겨울철새",
+  "habitat": "호수, 하천, 하구, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "겨울철 전국의 호수, 하천, 하구 같은 습지에서 흔히 보이는 겨울철새로, 작은 무리를 지어 지낸다. 잠수해 물고기, 조개류, 갑각류 등을 잡아먹는다. 유라시아 대륙의 아한대에서 번식하고 유럽, 카스피해, 인도 북부, 중국 동부, 한국, 일본에서 월동한다.",
+  "points": [
+    {
+      "ko": "수컷 눈 둘레의 검은 무늬",
+      "en": "male: black patch around the eye"
+    },
+    {
+      "ko": "수컷 머리 위의 짧은 댕기",
+      "en": "male: short crest on the crown"
+    },
+    {
+      "ko": "암컷의 갈색 머리와 흰 뺨·앞목",
+      "en": "female: brown head with white cheeks and foreneck"
+    },
+    {
+      "ko": "대체로 흰 수컷의 몸",
+      "en": "male: mostly white plumage"
+    },
+    {
+      "ko": "수컷 등과 가슴의 검은 줄",
+      "en": "male: black lines on the back and breast"
+    },
+    {
+      "ko": "암컷의 회색 몸",
+      "en": "female: grey body"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "대체로 흰색이며 눈 둘레가 검고, 등과 가슴에 검은 줄이 있으며 머리 위에 짧은 댕기가 있다.",
+    "female": "몸은 회색, 머리는 갈색이고 뺨과 앞목은 흰색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Smew (Mergellus albellus), adult male: mostly white, black patch around the eye, black lines on the back and breast, short crest on the crown",
+    "pose": "swimming on a quiet lake, about to dive",
+    "scene": "Korean winter lake with calm open water and dry reeds along the shore; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: mostly white, black eye patch, black lines on the back and breast, short crest",
+      "adult female, side view swimming: brown head, white cheeks and foreneck, grey body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰비오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001470",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰비오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001470",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

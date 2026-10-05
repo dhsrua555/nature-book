@@ -1,0 +1,85 @@
+{
+  "id": "ixobrychus-eurhythmus",
+  "ko": "큰덤불해오라기",
+  "sci": "Ixobrychus eurhythmus",
+  "author": "Swinhoe, 1873",
+  "en": "Von Schrenck's Bittern",
+  "ktsn": 120000001525,
+  "origin": "nibr",
+  "length": "약 38cm",
+  "status": "드문 여름철새",
+  "habitat": "갈대밭, 작은 물웅덩이, 풀이 우거진 습지",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "갈대밭, 작은 물웅덩이, 풀이 무성한 습지에 사는 드문 여름철새로, 서남해안에 서식한다. 물고기, 개구리, 곤충 따위를 주로 잡아먹는다. 물가의 갈대 줄기 위나 풀이 우거진 땅 위에 풀잎과 줄기로 둥지를 짓고 알 5~6개를 낳는다. 세계적으로는 동아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "크림빛 흰 턱밑과 멱 양옆",
+      "en": "creamy-white chin and sides of throat"
+    },
+    {
+      "ko": "붉은 밤색 귀깃과 목 옆·뒤",
+      "en": "deep reddish-chestnut ear coverts, neck sides and hindneck"
+    },
+    {
+      "ko": "턱밑~가슴의 어두운 갈색 세로줄 하나",
+      "en": "single dark brown stripe from chin to breast"
+    },
+    {
+      "ko": "황갈색 앞목·가슴·배",
+      "en": "buff foreneck, breast and belly"
+    },
+    {
+      "ko": "어두운 밤색 윗면(수컷)",
+      "en": "dark chestnut from forehead to scapulars (male)"
+    },
+    {
+      "ko": "흰 점이 흩어진 등과 어깨(암컷)",
+      "en": "small round white spots on back and scapulars (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마에서 어깨까지 어두운 밤색이다.",
+    "female": "이마와 머리꼭대기는 수컷과 같으나, 어두운 밤색 등과 어깨에 작고 둥근 흰 점이 흩어져 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male: dark chestnut from forehead to scapulars, pale chestnut-brown rump, deep reddish-chestnut ear coverts and neck sides, creamy-white chin and throat sides, a single dark brown stripe from chin to breast, buff foreneck, breast and belly, brownish breast sides and flanks",
+    "pose": "standing motionless among reeds at the water's edge, side view",
+    "scene": "Korean summer wetland near the southwest coast: reedbed and small pools with dense grass; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: dark chestnut upperparts, reddish-chestnut neck, single dark stripe down the buff underparts",
+      "adult female, side view standing: dark chestnut back and scapulars scattered with small round white spots"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰덤불해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001525",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰덤불해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001525",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Botaurus eurhythmus)"
+    }
+  ],
+  "todo": []
+}

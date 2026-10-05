@@ -1,0 +1,85 @@
+{
+  "id": "butorides-striata",
+  "ko": "검은댕기해오라기",
+  "sci": "Butorides striata",
+  "author": "Linnaeus, 1758",
+  "en": "Striated Heron",
+  "ktsn": 120000001535,
+  "origin": "nibr",
+  "length": "약 52cm",
+  "status": "흔한 여름철새",
+  "habitat": "숲속, 나무 위(둥지)",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": "TODO",
+    "note": "4월에 와서 9월까지 머문다."
+  },
+  "summary": "4월에 찾아와 9월까지 머무는 흔한 여름철새이다. 다른 백로류와 달리 숲속에서 무리 짓지 않고 따로 번식하며, 나무 위에 접시 모양 둥지를 짓고 청록색 알을 4~5개 낳아 21~25일 동안 품는다.",
+  "points": [
+    {
+      "ko": "푸른빛 검은 머리꼭대기와 댕기",
+      "en": "blue-black crown with a black crest"
+    },
+    {
+      "ko": "길고 검은 부리",
+      "en": "long black bill"
+    },
+    {
+      "ko": "회색 몸, 짙은 회색 날개 윗면",
+      "en": "grey body, darker grey upperwing"
+    },
+    {
+      "ko": "가장자리가 흰 날개덮깃",
+      "en": "white-edged wing coverts"
+    },
+    {
+      "ko": "가슴 가운데 흑백 세로줄",
+      "en": "black-and-white streaks on the centre of the breast"
+    },
+    {
+      "ko": "짧은 녹황색 다리",
+      "en": "short greenish-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Striated Heron (Butorides striata), adult: blue-black crown and hindneck with a black crest projecting from the back of the head, grey body, darker grey upperwing with white-edged coverts, black-and-white streaks on the centre of the breast, long black bill, short greenish-yellow legs",
+    "pose": "perched on a low branch in woodland, side view",
+    "scene": "Korean summer forest with a tree holding a saucer-shaped nest; no people, buildings or text",
+    "views": [
+      "adult, side view perched: blue-black crown with crest, grey body, white-edged wing coverts, streaked breast centre, short greenish-yellow legs",
+      "adult, head detail: blue-black crown and projecting black crest, long black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은댕기해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001535",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은댕기해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001535",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

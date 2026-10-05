@@ -67,6 +67,27 @@ def todo_paths(value, path="") -> list[str]:
     return found
 
 
+_tracked: set[str] | None = None
+
+
+def has_img(path: Path, args) -> bool:
+    """그림이 있는지. --tracked 이면 git 에 올라간 그림만 친다(검수 전 그림이 공개 판에 걸리지 않도록)."""
+    global _tracked
+    if not path.exists():
+        return False
+    if not getattr(args, "tracked", False):
+        return True
+    if _tracked is None:
+        import subprocess
+        res = subprocess.run(["git", "ls-files", "img"], cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
+        _tracked = set(res.stdout.split())
+    return path.relative_to(ROOT).as_posix() in _tracked
+
+
+def has_todo_str(v) -> bool:
+    return v is None or v == "" or (isinstance(v, str) and "TODO" in v)
+
+
 def check_months(sp: dict, rep: Report) -> None:
     months = sp.get("months")
     if not isinstance(months, dict):
@@ -82,7 +103,7 @@ def check_months(sp: dict, rep: Report) -> None:
 
 def check_points(sp: dict, rep: Report) -> None:
     pts = sp.get("points")
-    if not isinstance(pts, list) or not pts:
+    if not isinstance(pts, list) or (not pts and not sp.get("origin")):
         rep.err(f"{sp['id']}: points(동정 포인트)가 비어 있다")
         return
     for i, p in enumerate(pts):
@@ -148,7 +169,7 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
             continue
         art = sp.get("art") or {}
         art_missing = [k for k in ART_REQUIRED if not art.get(k)]
-        if art_missing:
+        if art_missing and not sp.get("origin"):
             rep.err(f"{sid}: art 에 빠진 항목 {', '.join(art_missing)}")
 
         row = by_sci.get(sp["sci"])
@@ -171,8 +192,8 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
         species.append({
             "sp": sp, "row": row, "todos": len(todos),
             "img": {
-                "scene": (img_dir / f"{sid}.webp").exists(),
-                "plate": (img_dir / f"{sid}.id.webp").exists(),
+                "scene": has_img(img_dir / f"{sid}.webp", args),
+                "plate": has_img(img_dir / f"{sid}.id.webp", args),
             },
         })
 
@@ -196,17 +217,30 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
             "status": sp.get("status"), "length": sp.get("length"),
             "no": int(r["no"]), "img": s["img"], "focus": (sp.get("art") or {}).get("focus", [0.5, 0.5]),
             "todo": s["todos"],
+            # 첫 화면 '오늘의 새'가 고를 때 쓰는 값: 해설이 있는지, 볼 수 있는 달
+            "text": not has_todo_str(sp.get("summary")),
+            "seen": (sp.get("months") or {}).get("seen") if isinstance((sp.get("months") or {}).get("seen"), list) else None,
+            **({"origin": sp["origin"]} if sp.get("origin") else {}),
         })
+
+    by_id = {s["sp"]["id"]: s for s in species}
+
+    def default_rep(members: list[str]) -> str:
+        # 그림이 있는 종 → 손으로 조사한 종 → 해설이 있는 종 → 첫 종
+        for test in (lambda s: s["img"]["scene"], lambda s: not s["sp"].get("origin"),
+                     lambda s: not has_todo_str(s["sp"].get("summary"))):
+            for m in members:
+                if test(by_id[m]):
+                    return m
+        return members[0]
 
     def meta_for(kind: str, sci: str, members: list[str]) -> dict:
         m = meta.get(kind, {}).get(sci, {})
-        rep_id = m.get("rep") or members[0]
+        rep_id = m.get("rep") or default_rep(members)
         if rep_id not in members:
             rep.err(f"{kind} {sci}: 대표종 {rep_id} 가 이 분류에 없다 (있는 종: {', '.join(members)})")
-            rep_id = members[0]
-        if not m.get("desc"):
-            rep.warn(f"{kind} {sci}: 설명(desc)이 없다")
-        return {"rep": rep_id, "desc": m.get("desc", "TODO")}
+            rep_id = default_rep(members)
+        return {"rep": rep_id, **({"desc": m["desc"]} if m.get("desc") else {})}
 
     tree = []
     for o in orders.values():
@@ -243,12 +277,16 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
         "rep": vol_rep,
         "built": date.today().isoformat(),
         "counts": {"species": len(species), "orders": len(tree),
-                   "families": sum(len(o["children"]) for o in tree), "nibr": ref_count["total"]},
+                   "families": sum(len(o["children"]) for o in tree), "nibr": ref_count["total"],
+                   "text": sum(not has_todo_str(s["sp"].get("summary")) for s in species),
+                   "hand": sum(not s["sp"].get("origin") for s in species),
+                   "scenes": sum(s["img"]["scene"] for s in species),
+                   "plates": sum(s["img"]["plate"] for s in species)},
         "similar": {s["sp"]["id"]: [ko_to_id.get(x.get("ko")) for x in s["sp"].get("similar", [])] for s in species},
         "tree": tree,
     })
     out = vdir / "book.json"
-    out.write_text(json.dumps(book, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    out.write_text(json.dumps(book, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
 
     n = len(species)
     scenes = sum(s["img"]["scene"] for s in species)
@@ -264,6 +302,7 @@ def main() -> int:
         s.reconfigure(errors="replace")
     ap = argparse.ArgumentParser(description="도감 데이터 빌드·검증")
     ap.add_argument("--todo", action="store_true", help="TODO 위치를 모두 출력")
+    ap.add_argument("--tracked", action="store_true", help="git 에 커밋된 그림만 있는 것으로 친다(커밋 전 확인용)")
     args = ap.parse_args()
     lib = json.loads((ROOT / "data" / "library.json").read_text(encoding="utf-8"))
     rep = Report()

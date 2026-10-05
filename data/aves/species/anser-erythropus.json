@@ -1,0 +1,51 @@
+{
+  "id": "anser-erythropus",
+  "ko": "흰이마기러기",
+  "sci": "Anser erythropus",
+  "author": "Linnaeus, 1758",
+  "en": "Lesser White-fronted Goose",
+  "ktsn": 120000001417,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 겨울철새",
+  "habitat": "내륙",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "내륙에서 규칙적으로 겨울을 나는 기러기 가운데 가장 작은 드문 겨울철새다. 다른 기러기 무리에 섞여 드물게 눈에 띈다. 서식지와 먹이가 줄어들어 위협을 받고 있다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "standing among a flock of larger geese, side view",
+    "scene": "inland Korean wintering ground in winter, a mixed flock of geese; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰이마기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001417",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰이마기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001417",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

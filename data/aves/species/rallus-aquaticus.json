@@ -1,0 +1,80 @@
+{
+  "id": "rallus-aquaticus",
+  "ko": "회색가슴뜸부기",
+  "sci": "Rallus aquaticus",
+  "author": "Linnaeus, 1758",
+  "en": "Water Rail",
+  "ktsn": 120000001631,
+  "origin": "nibr",
+  "length": "약 29cm",
+  "status": "봄·가을에 통과하고, 일부 겨울철새",
+  "habitat": "줄과 갈대가 우거진 호소·소택지, 하구 물가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월경 알을 낳는다."
+  },
+  "summary": "줄과 갈대가 우거진 호소나 소택지, 하구의 물가에 사는 뜸부기로, 봄과 가을에 우리나라 중서부를 지나간다. 일부 작은 무리는 낙동강 하구와 주남저수지 등 남부 낙동강 유역에서 겨울을 난다. 갈대밭 땅 위나 쌓인 갈대 위에 갈잎과 줄기로 접시 모양 둥지를 틀고 한배에 알 6~7개를 낳는다. 물고기, 새우류, 복족류, 곤충 같은 동물성 먹이와 여러 식물의 씨앗을 먹으며, 유라시아, 우수리, 사할린 등 온대 지역에서 번식한다.",
+  "points": [
+    {
+      "ko": "엷은 갈색 깃 가장자리의 검은 머리",
+      "en": "black crown with pale brown feather edges"
+    },
+    {
+      "ko": "석판 잿빛의 넓은 눈썹선",
+      "en": "broad slate-grey supercilium"
+    },
+    {
+      "ko": "눈앞~귀깃의 어두운 갈색 눈선",
+      "en": "dark brown eye-stripe from lores to ear-coverts"
+    },
+    {
+      "ko": "흰 턱밑과 멱",
+      "en": "white chin and throat"
+    },
+    {
+      "ko": "엷은 잿빛 가슴과 배",
+      "en": "pale grey breast and belly"
+    },
+    {
+      "ko": "살구빛 갈색 다리",
+      "en": "apricot-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Water Rail (Rallus aquaticus), adult: black forehead, crown and nape with pale brown feather edges, broad slate-grey supercilium, dark brown eye-stripe from the lores to the ear-coverts, slate-grey cheeks, white chin and throat, pale grey breast and belly, black tail with very broad pale brown edges, blackish-brown bill, apricot-brown legs",
+    "pose": "walking at the edge of a reed bed, picking food from the shallows",
+    "scene": "Korean estuary or marsh edge with dense reeds and wild rice; no people, buildings or text",
+    "views": [
+      "adult, side view walking: black crown with pale brown edges, slate-grey supercilium and cheeks, dark brown eye-stripe, white throat, pale grey underparts, apricot-brown legs",
+      "adult, head detail: broad slate-grey supercilium, dark brown eye-stripe, white chin and throat, blackish-brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 회색가슴뜸부기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001631",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 회색가슴뜸부기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001631",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 주남저수지를 '창녕'에 있다고 적었으나 지명 확인이 필요해 지역명은 뺐다"
+  ]
+}

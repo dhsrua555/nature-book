@@ -1,0 +1,70 @@
+{
+  "id": "turdus-eunomus",
+  "ko": "개똥지빠귀",
+  "sci": "Turdus eunomus",
+  "author": "Temminck, 1831",
+  "en": "Dusky Thrush",
+  "ktsn": 120000002103,
+  "origin": "nibr",
+  "length": "23cm",
+  "status": "겨울철새",
+  "habitat": "평지와 산지의 숲속",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "우리나라에서 겨울을 나는 지빠귀로, 평지나 산지의 숲속에 산다. 주로 식물의 열매를 먹고 지렁이와 벌레도 좋아한다. 시베리아 북부와 캄차카반도에서 번식하며, 5~6월에 나뭇가지 위에 잔 모양 둥지를 틀고 알을 4~7개 낳는다.",
+  "points": [
+    {
+      "ko": "노란 기 도는 흰 눈썹선과 멱",
+      "en": "yellowish-white supercilium and throat"
+    },
+    {
+      "ko": "어두운 갈색 윗면",
+      "en": "dark brown upperparts"
+    },
+    {
+      "ko": "적갈색 날개깃(개체 차가 큼)",
+      "en": "rufous wing feathers, highly variable"
+    },
+    {
+      "ko": "검은 반점이 있는 흰 가슴·배·옆구리",
+      "en": "white breast, belly and flanks spotted black"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Dusky Thrush (Turdus eunomus), adult: dark brown upperparts from crown to tail, yellowish-white supercilium and throat, white breast, belly and flanks with black spots, rufous wing feathers (highly variable between individuals)",
+    "pose": "perched on a bare branch, side view",
+    "scene": "Korean winter woodland on a low hill; no people, buildings or text",
+    "views": [
+      "adult, side view perched: yellowish-white supercilium and throat, dark brown upperparts, rufous wings, white underparts spotted black",
+      "adult, head detail: yellowish-white supercilium and throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개똥지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002103",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개똥지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002103",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

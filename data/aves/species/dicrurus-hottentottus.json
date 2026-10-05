@@ -1,0 +1,69 @@
+{
+  "id": "dicrurus-hottentottus",
+  "ko": "바람까마귀",
+  "sci": "Dicrurus hottentottus",
+  "author": "Linnaeus, 1766",
+  "en": "Hair-crested Drongo",
+  "ktsn": 120000001947,
+  "origin": "nibr",
+  "length": "약 25cm",
+  "status": "미조",
+  "habitat": "숲이 우거진 저지대, 무성한 관목림, 개활지와 정원·인가 부근의 나무",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "국내에서는 미조로만 관찰된 새이다. 인도에서는 비교적 우거진 저지대 숲이나 무성한 관목림에, 중국에서는 개활지와 정원, 인가 근처 나무에서 볼 수 있다. 중국, 인도, 미얀마, 인도차이나 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "이마에서 뒤로 늘어진 털 모양 깃",
+      "en": "a few hair-like crest plumes trailing back from the forehead"
+    },
+    {
+      "ko": "금속광택이 나는 녹색 몸",
+      "en": "metallic green-glossed plumage"
+    },
+    {
+      "ko": "자줏빛 도는 짙은 쪽빛 가슴 깃",
+      "en": "deep purplish-indigo breast feathers"
+    },
+    {
+      "ko": "끝이 바깥으로 젖혀진 긴 제비꼬리",
+      "en": "long forked tail with broadened, outward-curling outer tips"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Hair-crested Drongo (Dicrurus hottentottus), adult: metallic green-glossed plumage, deep purplish-indigo breast feathers, a few hair-like crest plumes trailing back from the forehead, long swallow-like forked tail with the broadened tips of the outer tail feathers curling outward",
+    "pose": "perched on a tree branch, side view showing the long outward-curling tail",
+    "scene": "trees at the edge of open ground and thick lowland shrubbery in Korea during migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched: metallic green gloss, purplish-indigo breast, hair-like plumes from the forehead, long forked tail",
+      "adult, tail detail from behind: broadened outer tail-feather tips curling outward"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바람까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001947",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바람까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001947",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

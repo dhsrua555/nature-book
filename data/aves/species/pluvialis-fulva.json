@@ -1,0 +1,78 @@
+{
+  "id": "pluvialis-fulva",
+  "ko": "검은가슴물떼새",
+  "sci": "Pluvialis fulva",
+  "author": "Gmelin, 1789",
+  "en": "Pacific Golden Plover",
+  "ktsn": 120000001672,
+  "origin": "nibr",
+  "length": "24cm",
+  "status": "비교적 흔한 나그네새",
+  "habitat": "논, 해안 간척지, 염전과 그 둘레의 초습지, 하구, 삼각주",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 비교적 흔히 지나가는 나그네새로, 논과 해안 간척지, 염전과 그 둘레의 초습지, 하구, 삼각주 같은 곳에 내려앉는다. 곤충, 지렁이, 갑각류와 씨앗 따위를 먹는다. 번식지에서는 한배에 알 4개를 낳는다. 세계적으로는 시베리아, 알래스카, 남아시아, 오스트레일리아에 분포한다.",
+  "points": [
+    {
+      "ko": "이마에서 가슴 옆까지 이어지는 넓은 흰 띠",
+      "en": "white forehead joining a white supercilium and broad white band down to the breast sides"
+    },
+    {
+      "ko": "검은 눈앞·뺨·귀깃·멱(여름깃)",
+      "en": "black lores, cheeks, ear coverts and throat (breeding)"
+    },
+    {
+      "ko": "검은 가슴과 배(여름깃)",
+      "en": "black breast and belly (breeding)"
+    },
+    {
+      "ko": "황갈색·검은색·흰색이 섞인 윗면",
+      "en": "upperparts mottled golden-buff, black and white"
+    },
+    {
+      "ko": "흰 가로띠가 여러 개 있는 검은 갈색 꼬리",
+      "en": "blackish-brown tail with several white or greyish-white bars"
+    },
+    {
+      "ko": "검은 부리와 어두운 갈색 다리",
+      "en": "black bill and dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pacific Golden Plover (Pluvialis fulva), adult in breeding plumage: upperparts mottled golden-buff, black and white; white forehead running into a white supercilium and a broad white band down to the breast sides; black lores, ear coverts, cheeks, chin and throat; black breast and belly; blackish-brown tail with several white or greyish-white bars; black bill; dark brown legs",
+    "pose": "standing upright on a wet field, side view",
+    "scene": "Korean rice paddies and reclaimed coastal land next to salt pans with wet grassy margins, during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: golden-buff, black and white mottled upperparts, white band from forehead over the eye down to the breast sides, black face, breast and belly, black bill, dark brown legs",
+      "tail detail: blackish-brown tail crossed by several white or greyish-white bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은가슴물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001672",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은가슴물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001672",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

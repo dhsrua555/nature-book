@@ -1,0 +1,75 @@
+{
+  "id": "hirundo-rustica",
+  "ko": "제비",
+  "sci": "Hirundo rustica",
+  "author": "Linnaeus, 1758",
+  "en": "Barn Swallow",
+  "ktsn": 120000001988,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "흔한 여름철새",
+  "habitat": "농경지, 하천, 인가 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "전국의 농경지와 하천에서 흔히 볼 수 있는 여름철새이다. 트인 곳을 빠르게 날며 곤충을 잡고, 쉴 때는 주로 전깃줄에 앉는다. 시골이나 도시 가까운 집과 건물의 안팎, 다리 따위에 흙과 지푸라기를 섞어 둥지를 짓고 묵은 둥지를 다시 쓰기도 하며, 흰 바탕에 적갈색과 엷은 자색 잔점이 흩어진 알을 5~6개 낳는다. 새끼는 부화하고 20~24일쯤 지나 둥지를 떠나며, 국외에서는 유럽, 아시아, 북미 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "적갈색 이마와 멱",
+      "en": "rufous forehead and throat"
+    },
+    {
+      "ko": "멱 아래의 검은 띠",
+      "en": "black band below the throat"
+    },
+    {
+      "ko": "광택 있는 어두운 청색 윗면",
+      "en": "glossy dark blue upperparts"
+    },
+    {
+      "ko": "엷은 주황빛을 띤 흰 배",
+      "en": "white belly washed pale orange"
+    },
+    {
+      "ko": "끝이 V자로 깊이 팬 긴 꼬리",
+      "en": "long, deeply forked tail"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "바깥꼬리깃이 암컷보다 길다.",
+    "female": "바깥꼬리깃이 수컷보다 짧다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Barn Swallow (Hirundo rustica), adult male: glossy dark blue upperparts, rufous forehead and throat, black band below the throat, white belly washed pale orange, fairly long deeply forked V-shaped tail with long outer tail feathers",
+    "pose": "perched on an overhead wire, resting",
+    "scene": "Korean summer farmland with rice paddies and a stream, a wire strung across the fields; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: rufous forehead and throat, black band below the throat, glossy dark blue upperparts, pale orange-white belly, long outer tail feathers",
+      "adult female, side view perched: shorter outer tail feathers than the male",
+      "adult, in flight from below: deeply forked V-shaped tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 제비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001988",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 제비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001988",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

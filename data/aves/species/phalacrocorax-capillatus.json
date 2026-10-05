@@ -1,0 +1,97 @@
+{
+  "id": "phalacrocorax-capillatus",
+  "ko": "가마우지",
+  "sci": "Phalacrocorax capillatus",
+  "author": "Temminck & Schlegel, 1850",
+  "en": "Japanese Cormorant",
+  "ktsn": 120000001566,
+  "origin": "nibr",
+  "length": "약 84cm",
+  "status": "드문 텃새",
+  "habitat": "섬과 해안의 암초, 바위 절벽",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "산란기는 5월 하순~7월이다."
+  },
+  "summary": "드물게 사는 텃새로, 울릉도를 비롯해 서해안과 남해안 섬의 바위 절벽에서 번식한다. 섬이나 해안의 암초와 암벽에 무리 지어 번식하며, 바위 절벽의 층진 오목한 자리에 마른 풀이나 해초로 접시 모양 둥지를 짓고 한배에 알 4~5개를 낳는다. 잠수하고 나면 바위에 올라 날개를 펴고 햇볕에 말린다. 국외에서는 러시아 극동과 사할린에서 일본 규슈 북부, 중국 황해 지역에 걸쳐 군데군데 번식한다.",
+  "points": [
+    {
+      "ko": "좁은 노란 부리 기부",
+      "en": "narrow yellow patch at the bill base"
+    },
+    {
+      "ko": "넓고 경계가 각진 눈 뒤 흰 부분",
+      "en": "broad white face patch behind the eye with an angular border"
+    },
+    {
+      "ko": "금속광택 도는 녹흑색 윗면",
+      "en": "glossy metallic greenish-black upperparts"
+    },
+    {
+      "ko": "짧은 꼬리",
+      "en": "short tail"
+    },
+    {
+      "ko": "날 때 몸 중앙보다 약간 뒤의 날개",
+      "en": "in flight, wings set slightly behind mid-body"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "민물가마우지",
+      "how": "부리 기부의 노란 부분이 더 좁고, 눈 뒤의 흰 부분은 더 넓으며 경계가 각져 있다."
+    }
+  ],
+  "art": {
+    "subject": "Japanese Cormorant (Phalacrocorax capillatus), adult: glossy metallic greenish-black upperparts, narrow yellow patch at the base of the bill, broad white patch behind the eye with an angular border, short tail",
+    "pose": "standing on a sea rock with wings spread to dry in the sun",
+    "scene": "Korean offshore island: steep layered rock cliffs and reefs above the sea; no people, buildings or text",
+    "views": [
+      "adult, side view perched: narrow yellow bill base, broad angular white patch behind the eye, glossy greenish-black upperparts, short tail",
+      "adult, standing with wings spread to dry",
+      "adult, flight side view: wings set slightly behind the middle of the body, short tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 가마우지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001566",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 가마우지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001566",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

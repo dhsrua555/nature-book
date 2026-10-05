@@ -1,0 +1,78 @@
+{
+  "id": "certhia-familiaris",
+  "ko": "나무발발이",
+  "sci": "Certhia familiaris",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Treecreeper",
+  "ktsn": 120000002078,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "북부 지방의 텃새, 중부 이남에서는 흔하지 않은 겨울새",
+  "habitat": "침엽수림, 혼합림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      3,
+      4,
+      5
+    ],
+    "note": "산란기는 3월 상순~5월 하순이다."
+  },
+  "summary": "우리나라 북부 지방에서는 텃새이고, 중부 이남에서는 흔하지 않은 겨울새이다. 침엽수림이나 혼합림에 살며, 나무줄기를 나선을 그리며 재빠르게 돌아 오르고, 사람 눈에 띄면 한자리에 멈춰 꼼짝하지 않는다. 고목의 구멍이나 나무 틈에 둥지를 틀고 3월 상순~5월 하순에 알을 4~5개 낳으며, 곤충과 거미 등을 먹는다. 한국 북부, 만주, 홋카이도, 사할린, 아무르, 우수리, 오호츠크해 연안 등에서 번식하고, 한국 중부 이남과 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "아래로 굽은 뾰족한 부리",
+      "en": "pointed, decurved bill"
+    },
+    {
+      "ko": "흰 얼룩이 있는 흑갈색·황갈색 윗면",
+      "en": "blackish-brown and buff upperparts with white feather-tip spots"
+    },
+    {
+      "ko": "황갈색 허리",
+      "en": "buff rump and uppertail coverts"
+    },
+    {
+      "ko": "흰 멱·가슴·배",
+      "en": "white throat, breast and belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Treecreeper (Certhia familiaris), adult: forehead, crown, nape, hindneck and back mixed blackish-brown and buff with white spots at the feather tips, buff rump and uppertail coverts, white supercilium, white chin, throat, breast and belly, pointed decurved bill",
+    "pose": "spiralling up a tree trunk, side view",
+    "scene": "Korean winter conifer forest with old trunks; no people, buildings or text",
+    "views": [
+      "adult, side view climbing a trunk: white supercilium, blackish-brown and buff upperparts with white spots, buff rump, white underparts, decurved bill",
+      "adult, head detail: pointed decurved bill and white supercilium"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 나무발발이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002078",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 나무발발이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002078",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

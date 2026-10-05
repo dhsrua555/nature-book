@@ -1,0 +1,78 @@
+{
+  "id": "streptopelia-decaocto",
+  "ko": "염주비둘기",
+  "sci": "Streptopelia decaocto",
+  "author": "Frivaldszky, 1838",
+  "en": "Eurasian Collared Dove",
+  "ktsn": 120000001826,
+  "origin": "nibr",
+  "length": "약 33cm",
+  "status": "TODO",
+  "habitat": "인가 부근의 성긴 숲, 대나무 숲, 건물 주변의 나무",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "산란기는 3~7월이다."
+  },
+  "summary": "인가 근처의 성긴 숲이나 대나무 숲, 건물 주변 나무에 사는 비둘기로, 서해 섬과 홍도 등 우리나라 전역에서 산다. 소나무, 삼나무, 대나무 위나 건물에서 튀어나온 선반 같은 곳에 둥지를 틀고, 3~7월에 한배에 알 2개를 낳는다. 식물의 씨와 열매를 즐겨 먹고 사람이 버린 빵 부스러기, 채소, 딸기류, 벚나무 열매, 일부 무척추동물과 곤충도 먹는다. 세계적으로는 서유럽에서 동아시아에 이르는 유라시아의 넓은 지역에서 번식한다.",
+  "points": [
+    {
+      "ko": "장밋빛 도는 연한 잿빛 갈색 머리",
+      "en": "rosy, pale grey-brown forehead and crown"
+    },
+    {
+      "ko": "장밋빛 도는 연한 잿빛 흰 뺨",
+      "en": "rosy, pale greyish-white cheeks and ear coverts"
+    },
+    {
+      "ko": "광택 없는 검은 부리",
+      "en": "dull black bill"
+    },
+    {
+      "ko": "장밋빛 도는 잿빛 가슴과 배",
+      "en": "rosy grey breast and belly"
+    },
+    {
+      "ko": "푸른빛 도는 잿빛 아래꽁지덮깃",
+      "en": "bluish-grey lower rump and undertail coverts"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Collared Dove (Streptopelia decaocto), adult: rosy pale grey-brown forehead, crown and hind head, rosy pale greyish-white ear coverts and cheeks, rosy pale grey chin and throat, rosy grey breast and belly, bluish-grey lower rump and undertail coverts, dull black bill, red legs",
+    "pose": "perched on a bamboo stem, side view",
+    "scene": "edge of a Korean village: sparse woodland and a bamboo grove; no people, buildings or text",
+    "views": [
+      "adult, side view perched: rosy grey-brown head, rosy grey breast and belly, dull black bill, red legs",
+      "adult, view from below: bluish-grey undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 염주비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001826",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 염주비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001826",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

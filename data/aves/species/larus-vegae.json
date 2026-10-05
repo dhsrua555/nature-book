@@ -1,0 +1,86 @@
+{
+  "id": "larus-vegae",
+  "ko": "재갈매기",
+  "sci": "Larus vegae",
+  "author": "Palmén, 1887",
+  "en": "Vega Gull",
+  "ktsn": 120000528952,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 겨울철새",
+  "habitat": "강, 하구, 해안, 간척지, 바닷가 모래밭",
+  "protect": [],
+  "months": {
+    "seen": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "breed": [],
+    "note": "10월에 와서 이듬해 3월까지 머문다."
+  },
+  "summary": "10월부터 이듬해 3월까지 강과 하구, 해안, 간척지 등지에서 흔히 보이는 겨울철새이다. 하구나 바닷가 모래밭에 무리 지어 내려앉아 쉬는 모습이 자주 보이며, 바람이 만드는 기류를 타고 옮겨 다니기도 한다. 가리지 않고 먹는 잡식성으로 물고기, 게, 곤충, 바닷새의 알, 물풀 따위를 먹는다.",
+  "points": [
+    {
+      "ko": "아래쪽에 붉은 점이 있는 노란 부리",
+      "en": "yellow bill with a red spot on the lower mandible"
+    },
+    {
+      "ko": "겨울에 머리와 목의 갈색 줄무늬",
+      "en": "brown streaking on head and neck in winter"
+    },
+    {
+      "ko": "흰 몸",
+      "en": "white body"
+    },
+    {
+      "ko": "회색 등과 날개덮깃",
+      "en": "grey back and wing coverts"
+    },
+    {
+      "ko": "흰 반점이 있는 검은 날개 끝",
+      "en": "black wingtips with white spots"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 온몸이 갈색이고, 흐릿한 세로무늬가 고르게 나 있으며 꼬리 끝에 검은 띠가 있다.",
+  "similar": [],
+  "art": {
+    "subject": "Vega Gull (Larus vegae), adult winter: white body with brown streaks on the head and neck, grey back and wing coverts, black wingtips with white spots, yellow bill with a red spot on the lower mandible, pink legs",
+    "pose": "standing on a sandbar among a resting flock",
+    "scene": "Korean winter river mouth: a sandy beach at the estuary with a flock of gulls resting at the waterline; no people, buildings or text",
+    "views": [
+      "adult winter, side view standing: white body, brown streaks on head and neck, grey back and wing coverts, black wingtips with white spots, yellow bill with red spot, pink legs",
+      "adult, in flight from above: grey upperwing with black tips and white spots, white body",
+      "juvenile, side view standing: brown overall with faint, even streaking and a black tail band"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 재갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528952",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 재갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528952",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

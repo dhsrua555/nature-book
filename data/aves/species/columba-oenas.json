@@ -1,0 +1,83 @@
+{
+  "id": "columba-oenas",
+  "ko": "분홍가슴비둘기",
+  "sci": "Columba oenas",
+  "author": "Linnaeus, 1758",
+  "en": "Stock Dove",
+  "ktsn": 120000001822,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "남부 지방의 겨울철새",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "한국 남부와 일본에서 겨울을 난다."
+  },
+  "summary": "중국 서북부에서 번식하고 한국 남부와 일본에서 겨울을 나는 비둘기이다. 몸 크기는 집비둘기와 비슷하거나 조금 작다.",
+  "points": [
+    {
+      "ko": "녹색 뒷목",
+      "en": "green hindneck"
+    },
+    {
+      "ko": "멱 아래~윗가슴의 탁한 분홍색",
+      "en": "dull pink from lower throat to upper breast"
+    },
+    {
+      "ko": "전체적으로 회색인 몸",
+      "en": "grey overall"
+    },
+    {
+      "ko": "접은 날개의 짧은 검은 줄 두 개",
+      "en": "two short black bars on the folded wing"
+    },
+    {
+      "ko": "날 때 흐린 회색 날개 가운데",
+      "en": "pale grey centre to the upperwing in flight"
+    },
+    {
+      "ko": "검은 날개 가장자리",
+      "en": "black wing edges"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "집비둘기",
+      "how": "몸 크기가 비슷하거나 조금 작다."
+    }
+  ],
+  "art": {
+    "subject": "Stock Dove (Columba oenas), adult: grey overall, green hindneck, dull pink from the lower throat to the upper breast, two short black bars on the folded wing",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": [
+      "adult, side view perched: grey body, green hindneck, dull pink upper breast, two short black wing bars",
+      "adult, in flight from above: pale grey centre of the upperwing, black wing edges"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 분홍가슴비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001822",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 분홍가슴비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001822",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

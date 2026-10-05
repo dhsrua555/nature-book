@@ -1,0 +1,60 @@
+{
+  "id": "emberiza-jankowskii",
+  "ko": "점박이멧새",
+  "sci": "Emberiza jankowskii",
+  "author": "Taczanowski, 1888",
+  "en": "Jankowski's Bunting",
+  "ktsn": 120000002217,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "트인 곳의 작은 둔덕, 산기슭 덤불, 낮은 산골짜기, 강기슭 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5
+    ],
+    "note": "4월에 찾아와 5월 하순에 알을 낳는다."
+  },
+  "summary": "트인 곳의 작은 둔덕, 산기슭 덤불, 낮은 산골짜기, 강기슭 풀숲에 사는 새로, 우리나라에서는 두만강 유역에서 번식한다. 4월에 찾아와 5월 하순에 알을 낳는다.",
+  "points": [
+    {
+      "ko": "배의 반점",
+      "en": "belly patch"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Jankowski's Bunting (Emberiza jankowskii), adult: a patch on the belly",
+    "pose": "perched on a low shrub, side view",
+    "scene": "Korean late-spring river valley in the far north: grassy riverbank, shrubby foothills and small open mounds; no people, buildings or text",
+    "views": [
+      "adult, side view perched: patch on the belly",
+      "adult, front view perched: patch on the belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 점박이멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002217",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 점박이멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002217",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

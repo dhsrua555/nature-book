@@ -1,0 +1,74 @@
+{
+  "id": "lanius-sphenocercus",
+  "ko": "물때까치",
+  "sci": "Lanius sphenocercus",
+  "author": "Cabanis, 1873",
+  "en": "Chinese Grey Shrike",
+  "ktsn": 120000001939,
+  "origin": "nibr",
+  "length": "31cm",
+  "status": "드문 겨울철새",
+  "habitat": "나뭇가지 위(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "산란기는 5월 상순~6월 상순이며, 국내 번식은 원문에 없다."
+  },
+  "summary": "전국에 적은 수가 찾아와 겨울을 나는 드문 겨울철새이다. 주로 홀로 또는 암수가 함께 지내며, 작은 설치류, 개구리 같은 양서류, 파충류, 딱정벌레, 나비목 애벌레, 거미를 즐겨 잡아먹는다. 둥지는 나뭇가지 위에 마른 가지와 풀로 밥그릇 모양으로 짓고, 5월 상순~6월 상순에 한배에 알 6~9개를 낳는다. 중국 중부·남부와 한국 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "회색 머리꼭대기와 윗면",
+      "en": "grey crown and upperparts"
+    },
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "눈 아래로 폭넓은 검은 눈선",
+      "en": "broad black eye-stripe below the eye"
+    },
+    {
+      "ko": "흰 멱·가슴·아랫면과 허리",
+      "en": "white throat, breast, underparts and rump"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Grey Shrike (Lanius sphenocercus), adult: grey crown and upperparts, white supercilium, broad black eye-stripe, white throat, breast, underparts and rump, black bill and legs",
+    "pose": "perched upright on a treetop, scanning the ground for prey",
+    "scene": "TODO",
+    "views": [
+      "adult, side view perched: grey crown and upperparts, white supercilium, broad black eye-stripe, white underparts, black bill and legs",
+      "adult, head detail: white supercilium above a broad black eye-stripe, black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001939",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001939",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

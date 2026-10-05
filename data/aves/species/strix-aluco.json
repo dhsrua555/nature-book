@@ -1,0 +1,77 @@
+{
+  "id": "strix-aluco",
+  "ko": "올빼미",
+  "sci": "Strix aluco",
+  "author": "Linnaeus, 1758",
+  "en": "Tawny Owl",
+  "ktsn": 120000001861,
+  "origin": "nibr",
+  "length": "37–39cm",
+  "status": "TODO",
+  "habitat": "평지·산지의 침엽수림, 활엽수림, 혼효림",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 3월에 낳는다."
+  },
+  "summary": "평지와 산지의 침엽수림, 활엽수림, 혼효림에서 홀로 지내며 전국에 산다. 낮에는 나뭇가지에 앉아 꼼짝하지 않다가 밤에 움직이는데, 소리를 듣고 먹이를 잡으므로 비가 오거나 바람이 센 날에는 낮에도 사냥한다. 날개에 솜털이 많아 날 때 소리가 나지 않는다. 까마귀나 매가 쓰던 둥지, 나무 구멍 등에 3월에 흰 알 4개를 3~5일 간격으로 낳으며, 국외에서는 독일, 영국, 이탈리아, 오스트리아, 일본, 중국, 몽골 등에 분포한다.",
+  "points": [
+    {
+      "ko": "귀깃 없는 둥근 머리",
+      "en": "rounded head without ear tufts"
+    },
+    {
+      "ko": "검은 눈",
+      "en": "dark eyes"
+    },
+    {
+      "ko": "푸른빛 도는 회색 부리",
+      "en": "bluish-grey bill"
+    },
+    {
+      "ko": "회색 몸",
+      "en": "grey plumage"
+    },
+    {
+      "ko": "가로줄 섞인 세로줄의 등과 배",
+      "en": "back and belly streaked with cross-bars"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Tawny Owl (Strix aluco), adult: rounded head with no ear tufts, grey plumage, back and belly streaked with cross-bars, black eyes, bluish-grey bill",
+    "pose": "perched motionless on a branch close to the trunk by day",
+    "scene": "Korean mixed conifer and broadleaf forest; no people, buildings or text",
+    "views": [
+      "adult, front view perched: round head without ear tufts, black eyes, bluish-grey bill, belly streaked with cross-bars",
+      "adult, side view perched: grey plumage, back streaked with cross-bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 올빼미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001861",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 올빼미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001861",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

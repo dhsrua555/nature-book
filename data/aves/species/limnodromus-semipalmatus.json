@@ -1,0 +1,80 @@
+{
+  "id": "limnodromus-semipalmatus",
+  "ko": "큰부리도요",
+  "sci": "Limnodromus semipalmatus",
+  "author": "Blyth, 1848",
+  "en": "Asian Dowitcher",
+  "ktsn": 120000001702,
+  "origin": "nibr",
+  "length": "약 35cm",
+  "status": "드문 나그네새",
+  "habitat": "갯벌, 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나간다."
+  },
+  "summary": "봄과 가을에 드물게 지나가는 나그네새로, 갯벌과 하구에서 가끔 보인다. 큰 소리로 '칩-칩' 하고 운다. 중국 만주와 러시아 우수리 지역에서 번식하고, 우리나라를 거쳐 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "끝이 뭉툭한 곧고 검은 부리",
+      "en": "straight, all-black bill with a blunt tip"
+    },
+    {
+      "ko": "흰 눈썹선(겨울깃)",
+      "en": "white supercilium (winter)"
+    },
+    {
+      "ko": "적갈색 머리와 아랫면(여름깃)",
+      "en": "rufous head and underparts (breeding)"
+    },
+    {
+      "ko": "깃 가장자리가 흰 회갈색 윗면(겨울깃)",
+      "en": "greyish-brown upperparts with white fringes (winter)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "목과 옆구리는 황갈색이고, 윗면은 어두운 갈색에 깃 가장자리가 흐린 갈색이다. 어두운 눈선이 뚜렷하다.",
+  "similar": [
+    {
+      "ko": "큰뒷부리도요",
+      "how": "생김새는 비슷하지만 이 종은 부리가 곧고 끝이 뭉툭하며 전체가 검다."
+    },
+    {
+      "ko": "흑꼬리도요",
+      "how": "흑꼬리도요는 부리 기부가 분홍색이고 꽁지 끝이 검다."
+    }
+  ],
+  "art": {
+    "subject": "Asian Dowitcher (Limnodromus semipalmatus), adult in breeding plumage: straight, blunt-tipped, all-black bill, head and entire underparts rufous",
+    "pose": "standing on a tidal mudflat, side view",
+    "scene": "Korean tidal mudflat at a river mouth during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: rufous head and underparts, straight all-black bill with a blunt tip",
+      "adult winter, side view standing: white supercilium, greyish-brown upperparts with white fringes",
+      "juvenile, side view standing: buff neck and flanks, dark brown upperparts with pale brown fringes, bold dark eye-stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001702",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001702",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

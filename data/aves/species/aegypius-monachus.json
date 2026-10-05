@@ -1,0 +1,69 @@
+{
+  "id": "aegypius-monachus",
+  "ko": "독수리",
+  "sci": "Aegypius monachus",
+  "author": "Linnaeus, 1766",
+  "en": "Cinereous Vulture",
+  "ktsn": 120000001594,
+  "origin": "nibr",
+  "length": "100–110cm",
+  "status": "겨울철새",
+  "habitat": "TODO",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "겨울철새로, 철원, 연천, 파주 등지에서 흔히 볼 수 있고 요즘은 전국에서 관찰된다. 우리나라에 오는 수리류 가운데 가장 크다. 무리 지어 다니는 때가 많으며, 날갯짓을 거의 하지 않고 상승 기류를 타고 날면서 동물의 사체를 찾아 먹는다. 국외에서는 유럽 남부, 중앙아시아, 티베트, 몽골, 중국 북동부에 산다.",
+  "points": [
+    {
+      "ko": "피부가 드러난 회갈색 머리",
+      "en": "bare grey-brown skin on the head"
+    },
+    {
+      "ko": "온몸이 검은색",
+      "en": "blackish overall"
+    },
+    {
+      "ko": "나이 들수록 갈색으로 옅어지는 몸빛",
+      "en": "plumage fades to brown with age"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Cinereous Vulture (Aegypius monachus), adult: black overall, browner in older birds, bare grey-brown skin on the head",
+    "pose": "soaring on a thermal with wings held still",
+    "scene": "TODO",
+    "views": [
+      "adult, side view standing: black plumage, bare grey-brown head",
+      "adult, soaring from below: black overall, wings held still on rising air"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 독수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001594",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 독수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001594",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "250–300cm"
+}

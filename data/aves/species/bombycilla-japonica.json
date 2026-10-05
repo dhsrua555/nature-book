@@ -1,0 +1,77 @@
+{
+  "id": "bombycilla-japonica",
+  "ko": "홍여새",
+  "sci": "Bombycilla japonica",
+  "author": "Siebold, 1824",
+  "en": "Japanese Waxwing",
+  "ktsn": 120000001972,
+  "origin": "nibr",
+  "length": "18cm",
+  "status": "불규칙하게 찾아오는 겨울철새",
+  "habitat": "산림, 숲 가장자리, 침엽수림, 도시의 정원과 공원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에 불규칙하게 찾아오는 겨울철새로, 산림 가운데서도 숲 가장자리와 침엽수림, 도시의 정원과 공원 등지에서 지낸다. 주된 번식지는 러시아 동부의 산림이며, 침엽수 위에 나뭇가지와 지의류, 풀로 접시 모양 둥지를 짓고 검은 반점이 박힌 옅은 청색 알을 4~6개 낳는다. 한국, 중국, 일본 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "약 3cm 길이의 머리 댕기",
+      "en": "crest about 3 cm long"
+    },
+    {
+      "ko": "붉은 앞머리와 뺨",
+      "en": "red forehead and cheeks"
+    },
+    {
+      "ko": "검은 눈선",
+      "en": "black eye-stripe"
+    },
+    {
+      "ko": "붉은빛이 도는 갈색 몸",
+      "en": "reddish-brown body plumage"
+    },
+    {
+      "ko": "청회색 허리와 배, 노란 배 가운데",
+      "en": "blue-grey rump and belly with a yellow belly centre"
+    },
+    {
+      "ko": "끝이 붉은 검은 꼬리",
+      "en": "black tail with a red tip"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Waxwing (Bombycilla japonica), adult: reddish-brown body, crest about 3 cm long, red forehead and cheeks, black eye-stripe, blue-grey rump and belly with a yellow centre to the belly, black tail with a red tip",
+    "pose": "perched on a branch, side view",
+    "scene": "Korean winter woodland edge with conifers beside a park; no people, buildings or text",
+    "views": [
+      "adult, side view perched: crest, red forehead and cheeks, black eye-stripe, reddish-brown body, blue-grey belly with yellow centre, red-tipped black tail",
+      "adult, rear view: blue-grey rump and black tail with a red tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 홍여새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001972",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 홍여새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001972",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "lanius-cristatus",
+  "ko": "노랑때까치",
+  "sci": "Lanius cristatus",
+  "author": "Linnaeus, 1758",
+  "en": "Brown Shrike",
+  "ktsn": 120000001935,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "흔한 여름철새",
+  "habitat": "평지 관목 숲, 도시와 교외, 농촌, 구릉, 경작지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "산란기는 5월 하순~6월이다."
+  },
+  "summary": "전국에서 번식하는 여름철새로, 평지의 관목 숲에 살며 도시와 교외, 농촌과 구릉, 경작지 등 곳곳에서 흔히 눈에 띈다. 암수가 함께 지내다가 번식이 끝나면 가족 단위로 생활한다. 나뭇가지 위에 풀과 나무껍질로 밥그릇 모양 둥지를 짓고, 5월 하순~6월에 한배에 알 4~7개를 낳는다. 곤충을 주로 먹으며, 중국 동부·북동부와 일본, 한국에서 번식하고 동남아시아와 인도에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "부리털에서 이어지는 검은 눈선",
+      "en": "black eye-stripe continuing from the bristles at the bill base"
+    },
+    {
+      "ko": "잿빛 흰 눈썹선",
+      "en": "greyish-white supercilium"
+    },
+    {
+      "ko": "흰 뺨·턱 밑·멱",
+      "en": "white cheeks, chin and throat"
+    },
+    {
+      "ko": "회갈색 윗면",
+      "en": "grey-brown upperparts"
+    },
+    {
+      "ko": "옅은 황갈색 옆구리와 아랫면",
+      "en": "pale buff flanks and underparts"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Brown Shrike (Lanius cristatus), adult male, winter plumage: grey-brown upperparts, black eye-stripe continuing from the bristles at the bill base, greyish-white supercilium, white cheeks, chin and throat, pale buff flanks and underparts, black bill, black eye, black legs",
+    "pose": "perched on top of a shrub, watching for insects",
+    "scene": "Korean lowland scrub at the edge of farmland and low hills in summer; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: grey-brown upperparts, black eye-stripe, greyish-white supercilium, white throat, pale buff underparts, black bill and legs",
+      "adult male, head detail: black eye-stripe joining the bill-base bristles, greyish-white supercilium, white cheeks and throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001935",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001935",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

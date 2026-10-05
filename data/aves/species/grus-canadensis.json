@@ -1,0 +1,77 @@
+{
+  "id": "grus-canadensis",
+  "ko": "캐나다두루미",
+  "sci": "Grus canadensis",
+  "author": "Linnaeus, 1758",
+  "en": "Sandhill Crane",
+  "ktsn": 120000001649,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "젖은 풀밭, 늪, 소택지 같은 넓은 초원, 큰 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "미국 플로리다와 캐나다 등지에 분포하는 두루미로, 몸집이 크고 목과 다리가 길며 똑바로 서면 키가 1.2m쯤 된다. 대개 젖은 풀밭, 늪, 소택지 같은 넓은 초원에 둥지를 틀고 인가에서 먼 곳을 좋아하며, 밤에는 큰 습지에 모여 쉰다. 낮에 활동하고 한 쌍이나 가족 단위로 지내며, 일부일처로 해마다 함께 번식하면서 서로 맞춰 울어 부르고 봄 이동 중에 짝을 짓는다. 남부 집단은 한 해 내내 머물고 북부 집단은 겨울에 남쪽으로 옮겨 가는데, 이동 중에는 농경지에서 작물을 먹는 모습이 자주 보인다.",
+  "points": [
+    {
+      "ko": "털 없는 붉은 정수리",
+      "en": "bare red crown"
+    },
+    {
+      "ko": "흰 뺨",
+      "en": "white cheeks"
+    },
+    {
+      "ko": "고르게 회색인 몸",
+      "en": "uniformly grey body"
+    },
+    {
+      "ko": "길고 큰 목과 다리",
+      "en": "long neck and long legs"
+    },
+    {
+      "ko": "날 때 쭉 뻗은 목",
+      "en": "neck held outstretched in flight"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하며, 수컷이 조금 더 크다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sandhill Crane (Grus canadensis), adult: uniformly grey body, white cheeks, bare red crown, long neck and long legs, bulky body",
+    "pose": "walking through a wet grassy field",
+    "scene": "wide wet grassland and marsh far from habitation, with farmland beyond; no people, buildings or text",
+    "views": [
+      "adult, side view standing: uniformly grey body, white cheeks, bare red crown, long neck and legs",
+      "adult, flight view: neck stretched straight out, uniformly grey body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 캐나다두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001649",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 캐나다두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001649",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Antigone canadensis)"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태와 도래 기록이 없다",
+    "원문의 1.2m는 몸길이가 아니라 선 키여서 length 는 TODO 로 두었다"
+  ],
+  "wingspan": "약 2m"
+}

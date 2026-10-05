@@ -1,0 +1,74 @@
+{
+  "id": "brachyramphus-perdix",
+  "ko": "알락쇠오리",
+  "sci": "Brachyramphus perdix",
+  "author": "Pallas, 1811",
+  "en": "Long-billed Murrelet",
+  "ktsn": 120000001807,
+  "origin": "nibr",
+  "length": "25cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "먼바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식기는 4~6월이다."
+  },
+  "summary": "국내에는 매우 드물게 찾아오는 겨울새로, 주로 먼바다에서 지내 해안에서는 보기 어렵다. 혼자 지내거나 10~15마리가 작은 무리를 이룬다. 번식기는 4~6월이며 고산 지대의 땅 위에 알을 1개 낳는다. 동해안 일대의 정치망 어업과 기름 유출로 인한 해양 오염 같은 외부 위협이 많다.",
+  "points": [
+    {
+      "ko": "어두운 갈색 윗면(여름깃)",
+      "en": "dark brown upperparts (breeding)"
+    },
+    {
+      "ko": "갈색·흰색 얼룩 아랫면(여름깃)",
+      "en": "underparts heavily mottled brown and white (breeding)"
+    },
+    {
+      "ko": "검게 보이는 윗면(겨울깃)",
+      "en": "blackish-looking upperparts (non-breeding)"
+    },
+    {
+      "ko": "흰 어깨깃(겨울깃)",
+      "en": "white scapulars (non-breeding)"
+    },
+    {
+      "ko": "흰 아랫면(겨울깃)",
+      "en": "white underparts (non-breeding)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Long-billed Murrelet (Brachyramphus perdix), adult non-breeding: blackish upperparts, white scapulars, white underparts",
+    "pose": "swimming alone on the open sea, side view",
+    "scene": "open sea far off the Korean east coast in winter, grey swell; no people, buildings or text",
+    "views": [
+      "adult non-breeding, side view swimming: blackish upperparts, white scapulars, white underparts",
+      "adult breeding, side view swimming: dark brown upperparts, underparts mottled brown and white"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락쇠오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001807",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락쇠오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001807",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

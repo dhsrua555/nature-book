@@ -1,0 +1,79 @@
+{
+  "id": "gallinago-hardwickii",
+  "ko": "큰꺅도요",
+  "sci": "Gallinago hardwickii",
+  "author": "J.E.Gray, 1831",
+  "en": "Latham's Snipe",
+  "ktsn": 120000001696,
+  "origin": "nibr",
+  "length": "27.5–31.5cm",
+  "status": "드문 나그네새",
+  "habitat": "풀숲(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지의 산란기는 4월 말~6월이다."
+  },
+  "summary": "우리나라를 드물게 지나가는 나그네새로, 제주도, 어청도, 흑산도 등 남해안 섬 지역과 강릉에서 관찰 기록이 있다. 풀숲에 둥지를 틀고 알 4개를 낳는다. 연해주 동부, 사할린 남부, 쿠릴 열도, 홋카이도에서 번식하고 오스트레일리아, 태즈메이니아, 뉴기니 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "노르스름한 녹색 기부와 어두운 갈색 끝의 부리",
+      "en": "bill yellowish-green at the base, dark brown at the tip"
+    },
+    {
+      "ko": "붉은빛 도는 갈색 목과 윗가슴",
+      "en": "rufous-tinged brown neck and upper breast"
+    },
+    {
+      "ko": "노르스름한 짙은 갈색 세로줄의 등",
+      "en": "back with yellowish dark-brown stripes and markings"
+    },
+    {
+      "ko": "가로무늬 없는 옆구리",
+      "en": "unbarred flanks"
+    },
+    {
+      "ko": "노르스름한 어두운 녹색 다리",
+      "en": "dark yellowish-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "꺅도요",
+      "how": "꺅도요와 달리 옆구리에 가로무늬가 없다."
+    }
+  ],
+  "art": {
+    "subject": "Latham's Snipe (Gallinago hardwickii), adult: back with yellowish dark-brown stripes and markings, rufous-tinged brown neck and upper breast, flanks without bars, bill yellowish-green at the base and dark brown towards the tip, dark yellowish-green legs",
+    "pose": "standing among grass tussocks, side view",
+    "scene": "Korean offshore island grassland with low grassy cover during migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: yellowish dark-brown striped back, rufous-brown neck and upper breast, unbarred flanks, yellowish-green legs",
+      "adult, head detail: bill yellowish-green at the base with a dark brown tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰꺅도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001696",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰꺅도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001696",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

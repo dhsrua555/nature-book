@@ -1,0 +1,83 @@
+{
+  "id": "dendrocopos-hyperythrus",
+  "ko": "붉은배오색딱다구리",
+  "sci": "Dendrocopos hyperythrus",
+  "author": "Vigors, 1831",
+  "en": "Rufous-bellied Woodpecker",
+  "ktsn": 120000090055,
+  "origin": "nibr",
+  "length": "약 24cm",
+  "status": "드문 텃새(백두산 고지대), 남한에서는 미조",
+  "habitat": "침엽수림, 울창한 숲속의 나무 구멍(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      3,
+      4,
+      5
+    ],
+    "note": "산란기는 3~5월이다."
+  },
+  "summary": "우리나라에서는 주로 백두산 고지대에서 드물게 번식하는 텃새이고, 남한에서는 경기도에서 2회 채집된 기록만 있는 미조이다. 침엽수림에 살며 울창한 숲속의 나무 구멍에 둥지를 틀고 한배에 알을 3~4개 낳는다. 곤충을 주로 먹는다. 국외에서는 히말라야에서 만주에 걸친 동아시아와 미얀마 북부, 타이에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷 붉은 정수리, 암컷 검은 정수리",
+      "en": "crown red in male, black in female"
+    },
+    {
+      "ko": "흰 얼굴과 뺨",
+      "en": "white face and cheeks"
+    },
+    {
+      "ko": "윗면 검고 밑면 황갈색인 부리",
+      "en": "bill black above, tawny below"
+    },
+    {
+      "ko": "황갈색 뒷머리·목·가슴·배",
+      "en": "tawny nape, neck, breast and belly"
+    },
+    {
+      "ko": "흰 가로무늬가 얼룩진 검은 등과 윗날개",
+      "en": "black back and upperwings barred white"
+    },
+    {
+      "ko": "검은 꼬리위덮깃",
+      "en": "black uppertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "정수리가 붉은색이다.",
+    "female": "정수리가 검은색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rufous-bellied Woodpecker (Dendrocopos hyperythrus), adult male: red crown, white face and cheeks, tawny nape, neck, chin, breast and belly, black back and upperwings barred with white, black uppertail coverts, bill black above and tawny below",
+    "pose": "clinging upright to a conifer trunk beside a nest hole",
+    "scene": "Dense coniferous forest in the Korean highlands of Baekdusan in spring; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: red crown, white face, tawny underparts, black back barred white, black uppertail coverts",
+      "adult female, head detail: black crown, white face and cheeks, bill black above and tawny below"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은배오색딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000090055",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은배오색딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000090055",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

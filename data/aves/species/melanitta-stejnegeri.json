@@ -1,0 +1,71 @@
+{
+  "id": "melanitta-stejnegeri",
+  "ko": "검둥오리사촌",
+  "sci": "Melanitta stejnegeri",
+  "author": "Ridgway, 1887",
+  "en": "Stejneger's Scoter",
+  "ktsn": 120000528792,
+  "origin": "nibr",
+  "length": "56cm",
+  "status": "흔한 겨울철새",
+  "habitat": "바다(월동지), 침엽수림의 호소와 바위섬의 덤불·풀숲(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서 흔히 겨울을 나는 겨울철새로, 월동지에서는 작은 무리를 지어 바다 위에서 생활한다. 잠수를 잘해 적이 다가오면 날아오르기보다 물속으로 숨는다. 먹이는 주로 동물성이며 수초도 먹는다. 유라시아와 북아메리카의 아한대에서 한대에 걸쳐 번식하며, 호숫가 풀숲이나 툰드라의 땅 위에 마른풀과 잔가지로 둥지를 짓는다.",
+  "points": [
+    {
+      "ko": "수컷의 혹이 검은 노란 부리",
+      "en": "male: yellow bill with a black knob on top"
+    },
+    {
+      "ko": "머리의 흰 점",
+      "en": "small white mark on the head"
+    },
+    {
+      "ko": "수컷은 온몸이 검은색",
+      "en": "male: entirely black plumage"
+    },
+    {
+      "ko": "날 때 보이는 둘째날개깃의 큰 흰 무늬",
+      "en": "large white patch on the secondaries, obvious in flight"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 검고, 부리는 노란색이지만 부리 위의 혹은 검다.",
+    "female": "부리 위에 혹이 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Stejneger's Scoter (Melanitta stejnegeri), adult male: entirely black plumage, small white mark on the head, white patch on the secondaries, yellow bill with a black knob on top",
+    "pose": "swimming on the sea, about to dive",
+    "scene": "Korean winter coast: open grey sea with a gentle swell offshore; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: all-black plumage, small white head mark, yellow bill with a black knob",
+      "adult female, head detail: bill without a knob",
+      "in flight: large, clear white patch on the secondaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검둥오리사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000528792",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검둥오리사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528792",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

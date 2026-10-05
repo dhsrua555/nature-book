@@ -1,0 +1,82 @@
+{
+  "id": "ardea-intermedia",
+  "ko": "중백로",
+  "sci": "Ardea intermedia",
+  "author": "Wagler, 1829",
+  "en": "Medium Egret",
+  "ktsn": 120000154940,
+  "origin": "nibr",
+  "length": "약 65cm",
+  "status": "드문 여름철새",
+  "habitat": "여러 습지의 얕은 물가",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": "TODO",
+    "note": "4월에 와서 번식하고 9월 하순에 월동지로 떠난다."
+  },
+  "summary": "드물게 찾아와 번식하는 여름철새로, 여러 습지의 얕은 물가에서 먹이를 사냥한다. 다른 백로류의 번식 집단에 섞여 무리 지어 번식한다. 국외에서는 일본, 중국 남부, 동남아시아, 호주, 인도, 아프리카에 걸쳐 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 검고 뒤쪽이 노란 부리",
+      "en": "black-tipped bill, partly yellow towards the base"
+    },
+    {
+      "ko": "온몸 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "여름에 가슴·등의 실 같은 장식깃",
+      "en": "fine filamentous plumes on breast and back in summer"
+    },
+    {
+      "ko": "계절과 상관없이 검은 다리",
+      "en": "black legs in all seasons"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "중대백로",
+      "how": "비슷하지만 입꼬리 끝(구각)과 머리 모양이 다르다."
+    }
+  ],
+  "art": {
+    "subject": "Medium Egret (Ardea intermedia), adult breeding: all-white plumage with fine filamentous plumes on the breast and back, bill black at the tip and partly yellow behind, black legs",
+    "pose": "wading slowly in shallow water, stalking prey",
+    "scene": "Korean summer wetland: shallow marsh edge with reeds and open water; no people, buildings or text",
+    "views": [
+      "adult summer, side view standing: all white, fine plumes on breast and back, black-tipped bill partly yellow, black legs",
+      "adult without plumes, side view standing: all white, black legs, bill black at the tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 중백로",
+      "url": "https://species.nibr.go.kr/species-detail/120000154940",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 중백로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000154940",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

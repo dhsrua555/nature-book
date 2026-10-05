@@ -1,0 +1,78 @@
+{
+  "id": "podiceps-grisegena",
+  "ko": "큰논병아리",
+  "sci": "Podiceps grisegena",
+  "author": "Boddaert, 1783",
+  "en": "Red-necked Grebe",
+  "ktsn": 120000001503,
+  "origin": "nibr",
+  "length": "약 47cm",
+  "status": "겨울철새",
+  "habitat": "해안, 석호, 간척호수, 저수지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월~8월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라 해안에 주로 머무는 겨울철새로, 동해안과 석호, 간척호수, 서해안의 저수지, 남해안과 제주도 등지에서 지낸다. 물고기, 개구리, 갑각류, 연체동물, 물속 곤충 등을 먹는다. 번식지에서는 호수나 습지의 갈대밭에 둥지를 틀고 6월~8월 상순에 알 3~6개를 낳는다. 캄차카, 시베리아 동부, 만주, 사할린, 홋카이도, 북아메리카 등지에서 번식한다.",
+  "points": [
+    {
+      "ko": "여름깃의 눈 밑까지 검은 머리꼭대기",
+      "en": "breeding: black cap reaching below the eye"
+    },
+    {
+      "ko": "여름깃의 회색 멱과 뺨",
+      "en": "breeding: grey throat and cheeks"
+    },
+    {
+      "ko": "여름깃의 짙은 밤색 목",
+      "en": "breeding: deep chestnut neck"
+    },
+    {
+      "ko": "겨울깃에서 사라지는 목의 밤색",
+      "en": "winter: neck loses its chestnut colour"
+    },
+    {
+      "ko": "어두운 회색 등과 옆구리",
+      "en": "dark grey back and flanks"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-necked Grebe (Podiceps grisegena), adult in winter plumage: black cap reaching below the eye, grey throat and cheeks, neck without chestnut, dark grey back and flanks, white underparts",
+    "pose": "swimming on calm water, about to dive",
+    "scene": "Korean winter coastal lagoon on the East Sea with calm water; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: black cap to below the eye, grey throat and cheeks, deep chestnut neck, dark grey back and flanks, white underparts",
+      "adult winter, side view swimming: as breeding but the neck lacks chestnut"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰논병아리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001503",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰논병아리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001503",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

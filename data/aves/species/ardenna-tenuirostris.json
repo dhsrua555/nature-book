@@ -1,0 +1,82 @@
+{
+  "id": "ardenna-tenuirostris",
+  "ko": "쇠부리슴새",
+  "sci": "Ardenna tenuirostris",
+  "author": "Temminck, 1836",
+  "en": "Short-tailed Shearwater",
+  "ktsn": 120000528915,
+  "origin": "nibr",
+  "length": "약 35cm",
+  "status": "나그네새",
+  "habitat": "바다, 부산 앞바다·낙동강 하류·동해안 일대",
+  "protect": [],
+  "months": {
+    "seen": [
+      5,
+      6
+    ],
+    "breed": [],
+    "note": "5월 중순~6월 중순 무렵 국내를 지나며, 번식지에서는 11월 하순에 알을 낳는다."
+  },
+  "summary": "5월 중순에서 6월 중순 사이에 우리나라를 지나는 나그네새로, 바다에서 큰 무리를 지어 지내며 부산 앞바다, 낙동강 하류, 동해안 일대에서 관찰되었다. 슴새보다 몸이 다부지고 날개가 짧아 잠수를 잘하며, 수면에서 날개를 퍼덕여 물소리를 내며 날아오른다. 물고기와 두족류를 먹는다. 태즈메이니아섬, 바스 해협의 섬들, 오스트레일리아 동남 해안에서 땅속에 굴을 파고 무리 지어 번식하며, 흰 알 1개를 50일쯤 품는다.",
+  "points": [
+    {
+      "ko": "검은 부리와 어두운 갈색 홍채",
+      "en": "black bill and dark brown iris"
+    },
+    {
+      "ko": "잿빛 갈색 턱밑과 멱",
+      "en": "grey-brown chin and throat"
+    },
+    {
+      "ko": "검은 갈색 윗면과 꽁지",
+      "en": "blackish-brown upperparts and tail"
+    },
+    {
+      "ko": "깃 가장자리가 엷은 잿빛 갈색 아랫면",
+      "en": "grey-brown underparts with paler feather edges"
+    },
+    {
+      "ko": "엷은 잿빛 다리",
+      "en": "pale grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 윗면이 검은 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "슴새",
+      "how": "쇠부리슴새가 몸이 더 다부지고 날개가 짧다."
+    }
+  ],
+  "art": {
+    "subject": "Short-tailed Shearwater (Ardenna tenuirostris), adult: blackish-brown upperparts and tail, grey-brown chin, throat, breast, belly and flanks with paler feather edges, black bill, dark brown iris, pale grey legs",
+    "pose": "taking off from the sea surface with flapping wings, splashing the water",
+    "scene": "Korean late-spring sea off the East Sea coast: open water with a large flock of shearwaters on and above the waves; no people, buildings or text",
+    "views": [
+      "adult, side view in flight: blackish-brown upperparts and tail, grey-brown underparts with paler feather edges",
+      "adult, side view on the water: black bill, dark brown iris, grey-brown chin and throat, blackish-brown back"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠부리슴새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528915",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠부리슴새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528915",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

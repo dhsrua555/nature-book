@@ -1,0 +1,81 @@
+{
+  "id": "calidris-pygmaea",
+  "ko": "넓적부리도요",
+  "sci": "Calidris pygmaea",
+  "author": "Linnaeus, 1758",
+  "en": "Spoon-billed Sandpiper",
+  "ktsn": 120000528817,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "극히 적은 수가 지나가는 나그네새",
+  "habitat": "해안의 간척지, 염전, 소택지, 하구, 모래가 섞인 갯벌",
+  "protect": [
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 하순~7월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 아주 적은 수가 서해안과 남동 해안을 지나가는 나그네새다. 해안의 간척지, 염전, 소택지, 하구 등에 들르며, 특히 모래가 섞인 갯벌을 좋아한다. 갯지렁이와 작은 새우 같은 바다 무척추동물을 주로 잡아먹는다. 동북 시베리아 북극권과 알래스카에 분포하며, 번식지에서는 한배에 알 4개를 낳는다.",
+  "points": [
+    {
+      "ko": "끝이 주걱 모양인 검은 부리",
+      "en": "black bill with a spoon-shaped tip"
+    },
+    {
+      "ko": "여름깃의 붉은 갈색 얼굴·가슴·등",
+      "en": "breeding: rufous face, breast and back"
+    },
+    {
+      "ko": "여름깃 가슴 옆의 어두운 얼룩",
+      "en": "breeding: dark mottling on the breast sides"
+    },
+    {
+      "ko": "겨울깃의 엷은 회색 머리와 흰 눈썹선",
+      "en": "non-breeding: pale grey head, white supercilium"
+    },
+    {
+      "ko": "겨울깃의 흰 가슴",
+      "en": "non-breeding: white breast"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Spoon-billed Sandpiper (Calidris pygmaea), adult breeding: black bill with a spoon-shaped tip, rufous face, breast and back, dark mottling on the breast sides, black legs",
+    "pose": "feeding on a sandy mudflat, probing with its spoon-shaped bill",
+    "scene": "Korean west coast in spring or autumn: sandy tidal flat near a river mouth; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: rufous face, breast and back, dark mottling on the breast sides, black spoon-tipped bill, black legs",
+      "adult non-breeding, side view: pale grey head, white supercilium and breast, black legs",
+      "head detail: black bill broadening into a spoon-shaped tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 넓적부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000528817",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 넓적부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528817",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

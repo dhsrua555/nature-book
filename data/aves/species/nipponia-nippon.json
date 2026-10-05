@@ -1,0 +1,83 @@
+{
+  "id": "nipponia-nippon",
+  "ko": "따오기",
+  "sci": "Nipponia nippon",
+  "author": "Temminck, 1835",
+  "en": "Crested Ibis",
+  "ktsn": 120000001516,
+  "origin": "nibr",
+  "length": "약 75cm",
+  "status": "TODO",
+  "habitat": "관목이나 대나무가 빽빽한 소나무 숲",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알 낳는 시기는 3월 중순~5월이다."
+  },
+  "summary": "관목이나 대나무가 빽빽하게 자란 소나무 숲에 사는 새로, 번식기에는 홀로 또는 짝을 지어 지내고 그 밖의 때에는 작은 무리를 이룬다. 소나무나 밤나무 등에 나뭇가지와 마른 덩굴로 접시 모양 둥지를 짓고, 작은 민물고기, 개구리, 올챙이 따위를 주로 먹는다. 예전에는 비무장지대, 부산, 대전, 서울, 인천 등에 살았으나 오랫동안 관찰되지 않고 있으며, 세계적으로는 중국에 분포한다.",
+  "points": [
+    {
+      "ko": "부리 뒤~눈 둘레의 붉은 피부",
+      "en": "bare red skin from bill base to around the eye"
+    },
+    {
+      "ko": "뒷머리·뒷목의 가늘고 긴 댕기깃",
+      "en": "long, slender crest on the nape and hindneck"
+    },
+    {
+      "ko": "끝이 붉은 검은 부리",
+      "en": "black bill with a red tip"
+    },
+    {
+      "ko": "옅은 붉은빛 흰 몸(백색형 겨울깃)",
+      "en": "pinkish-white body (white morph, winter)"
+    },
+    {
+      "ko": "회색 댕기·목·등·어깨(회색형)",
+      "en": "grey crest, neck, back and scapulars (grey morph)"
+    },
+    {
+      "ko": "갈색 띤 붉은 다리",
+      "en": "brownish-red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "백색형 겨울깃은 암수가 같다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Crested Ibis (Nipponia nippon), adult white morph, winter: pinkish-white plumage, long slender pinkish-white crest on the nape and hindneck, bare red skin from bill base to around the eye, black bill with a red tip, brownish-red legs",
+    "pose": "perched on a pine branch, side view",
+    "scene": "Korean pine forest with a dense undergrowth of shrubs and bamboo; no people, buildings or text",
+    "views": [
+      "adult white morph, side view standing: pinkish-white body, long nape crest, bare red facial skin, red-tipped black bill, brownish-red legs",
+      "adult grey morph, side view standing: grey crest, neck, back and scapulars, otherwise like the white morph"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 따오기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001516",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 따오기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001516",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 백색형·회색형이 있다고 하고 회색형도 '겨울깃'으로 적는데, 회색이 색 변이형인지 번식기 깃인지 확인 필요"
+  ]
+}

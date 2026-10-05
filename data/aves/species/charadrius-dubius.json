@@ -1,0 +1,77 @@
+{
+  "id": "charadrius-dubius",
+  "ko": "꼬마물떼새",
+  "sci": "Charadrius dubius",
+  "author": "Scopoli, 1786",
+  "en": "Little Ringed Plover",
+  "ktsn": 120000155047,
+  "origin": "nibr",
+  "length": "16cm",
+  "status": "흔한 여름철새",
+  "habitat": "하천, 자갈밭, 매립지 등 풀이 적고 모래와 자갈이 많은 곳",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "3월 중순에 국내에 온다."
+  },
+  "summary": "전국에 흔히 찾아와 번식하는 여름철새로, 3월 중순에 온다. 하천, 자갈밭, 매립지처럼 풀이 적고 모래와 자갈이 많은 곳에 살며, 종종걸음으로 재빨리 달리다 갑자기 멈춰 곤충을 주로 잡아먹는다. 자갈밭에 둥지를 만들어 알 4개를 낳아 24~25일 동안 품고, 둥지 가까이 침입자가 오면 날개를 늘어뜨리고 소리를 지르며 다친 척하여 포식자를 다른 곳으로 꾀어낸다. 국외에서는 북반구의 온대·아한대·열대와 뉴기니에서 번식하고 아프리카, 인도, 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "뚜렷한 노란 눈테",
+      "en": "conspicuous yellow eye-ring"
+    },
+    {
+      "ko": "기부가 좁게 주황색인 짧은 부리",
+      "en": "short bill with narrow orange base to lower mandible"
+    },
+    {
+      "ko": "눈앞·머리 위·귀깃의 검은 무늬",
+      "en": "black markings on lores, crown and ear-coverts"
+    },
+    {
+      "ko": "가슴의 검은 무늬",
+      "en": "black breast band"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "눈앞과 귀깃이 검은색이다.",
+    "female": "눈앞과 귀깃이 흑갈색이다."
+  },
+  "young": "성조 겨울깃과 비슷하지만 몸 윗면에 비늘 무늬가 있고, 머리는 등과 거의 같은 색이며 깃 끝이 연하다. 이마는 흰 바탕에 옅은 황갈색이 섞이고 눈썹선은 거의 보이지 않는다.",
+  "similar": [
+    {
+      "ko": "흰목물떼새",
+      "how": "꼬마물떼새는 부리가 흰목물떼새보다 짧다."
+    }
+  ],
+  "art": {
+    "subject": "Little Ringed Plover (Charadrius dubius), adult male: conspicuous yellow eye-ring, short bill with a narrow orange base to the lower mandible, black lores, crown markings and ear-coverts, black breast band",
+    "pose": "running in short bursts across gravel, then stopping abruptly to pick up an insect",
+    "scene": "Korean summer riverbed: open gravel and sand bar with sparse vegetation; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: yellow eye-ring, black lores and ear-coverts, black breast band, short bill with orange base below",
+      "adult female, head detail: blackish-brown lores and ear-coverts",
+      "juvenile, side view: scaly upperparts, head nearly same colour as back, white forehead washed pale buff, supercilium barely visible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꼬마물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155047",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꼬마물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155047",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Thinornis dubius)"
+    }
+  ],
+  "todo": []
+}

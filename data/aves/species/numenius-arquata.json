@@ -1,0 +1,86 @@
+{
+  "id": "numenius-arquata",
+  "ko": "마도요",
+  "sci": "Numenius arquata",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Curlew",
+  "ktsn": 120000001709,
+  "origin": "nibr",
+  "length": "50–60cm",
+  "status": "흔한 나그네새, 일부 겨울철새",
+  "habitat": "해안 갯벌, 하구, 물가",
+  "protect": [],
+  "months": {
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "breed": [],
+    "note": "주로 3~6월과 8~9월에 보이며, 일부는 하구와 갯벌에서 겨울을 난다."
+  },
+  "summary": "봄과 가을에 흔히 지나가는 나그네새이며, 일부는 하구와 갯벌에서 겨울을 난다. 해안 갯벌이나 물가를 걸어 다니며 긴 부리를 갯벌에 찔러 넣어 갑각류와 작은 수생 무척추동물을 잡는다. 국내에서는 서해안과 남해안의 갯벌과 하구에서 보이고, 국외에서는 러시아, 중국, 일본, 아프리카, 인도, 동남아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "머리 폭의 3배쯤인 아래로 굽은 긴 부리",
+      "en": "very long decurved bill, about three times the head width"
+    },
+    {
+      "ko": "회갈색 몸",
+      "en": "grey-brown body"
+    },
+    {
+      "ko": "흰 아랫배",
+      "en": "white lower belly"
+    },
+    {
+      "ko": "날 때 흰 아랫날개덮깃과 허리~꼬리",
+      "en": "white underwing coverts and white rump to tail in flight"
+    },
+    {
+      "ko": "긴 다리",
+      "en": "long legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "알락꼬리마도요",
+      "how": "알락꼬리마도요는 아랫배와 허리가 갈색이다."
+    }
+  ],
+  "art": {
+    "subject": "Eurasian Curlew (Numenius arquata), adult: very long decurved bill about three times the width of the head, long legs, grey-brown overall with a white lower belly, white underwing coverts and white from rump to tail visible in flight",
+    "pose": "walking on a tidal mudflat, probing deep into the mud with its long bill",
+    "scene": "Korean west- or south-coast tidal mudflat at an estuary in spring; no people, buildings or text",
+    "views": [
+      "adult, side view walking: very long decurved bill, grey-brown body, white lower belly, long legs",
+      "adult in flight, from below and behind: white underwing coverts and white from rump to tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 마도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001709",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 마도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001709",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

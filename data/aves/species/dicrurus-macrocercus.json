@@ -1,0 +1,66 @@
+{
+  "id": "dicrurus-macrocercus",
+  "ko": "검은바람까마귀",
+  "sci": "Dicrurus macrocercus",
+  "author": "Vieillot, 1817",
+  "en": "Black Drongo",
+  "ktsn": 120000001945,
+  "origin": "nibr",
+  "length": "28cm",
+  "status": "미조",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "국내에서는 1988년 5월에 한 번 관찰되었다."
+  },
+  "summary": "국내에서는 1988년 5월 충청남도 서산의 길가 전봇대에서 단 한 번 관찰된 미조이다. 날 때는 물결 모양을 그리며 난다. 중국 동남부에서 번식하고 인도차이나에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "온몸이 검은색",
+      "en": "all-black plumage"
+    },
+    {
+      "ko": "광택 있는 윗목·등·가슴",
+      "en": "glossy upper neck, back and breast"
+    },
+    {
+      "ko": "깊게 갈라진 긴 꼬리",
+      "en": "long, deeply forked tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Drongo (Dicrurus macrocercus), adult: all-black plumage with a glossy upper neck, back and breast, long deeply forked tail",
+    "pose": "perched upright on an exposed perch, long forked tail hanging down",
+    "scene": "TODO",
+    "views": [
+      "adult, side view perched: all black with glossy upper neck, back and breast, long deeply forked tail",
+      "adult, in flight: undulating flight, long deeply forked tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은바람까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001945",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은바람까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001945",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "cisticola-juncidis",
+  "ko": "개개비사촌",
+  "sci": "Cisticola juncidis",
+  "author": "Rafinesque, 1810",
+  "en": "Zitting Cisticola",
+  "ktsn": 120000002011,
+  "origin": "nibr",
+  "length": "12.5cm",
+  "status": "텃새",
+  "habitat": "초원, 개울가 풀밭, 보리밭, 하천부지",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "산란기는 5~8월이다."
+  },
+  "summary": "우리나라에서는 제주도 일대에 사는 텃새로, 초원과 개울가 풀밭, 보리밭, 하천부지 등에서 지낸다. 홀로 또는 암수가 함께 다니며 활동 범위가 넓고, 곤충을 즐겨 먹는다. 번식기에 수컷은 둥지를 여러 개 지어 여러 암컷을 끌어들여 둥지마다 알을 낳게 하는데, 둥지는 볏과 식물 줄기를 거미줄로 엮은 컵 모양이며 5~8월에 알을 4~6개 낳는다. 국외에서는 유럽 남부와 아프리카, 아시아 남부, 여러 섬에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 턱 밑과 윗멱",
+      "en": "white chin and upper throat"
+    },
+    {
+      "ko": "황갈색 뒷목",
+      "en": "buff hindneck"
+    },
+    {
+      "ko": "흰 무늬가 있는 검은 갈색 등",
+      "en": "blackish-brown back marked with white"
+    },
+    {
+      "ko": "황갈색 아랫멱과 가슴",
+      "en": "buff lower throat and breast"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Zitting Cisticola (Cisticola juncidis), adult: white chin and upper throat, buff lower throat, breast and hindneck, blackish-brown back with white markings, white belly",
+    "pose": "perched on a grass stem, side view",
+    "scene": "Jeju Island grassland and barley field beside a stream in summer; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white chin, buff breast and hindneck, blackish-brown back with white markings, white belly",
+      "adult, rear view: blackish-brown back marked with white, buff hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개개비사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000002011",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개개비사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002011",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

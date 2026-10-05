@@ -1,0 +1,51 @@
+{
+  "id": "pterodroma-hypoleuca",
+  "ko": "흰배슴새",
+  "sci": "Pterodroma hypoleuca",
+  "author": "Salvin, 1888",
+  "en": "Bonin Petrel",
+  "ktsn": 120000001488,
+  "origin": "nibr",
+  "length": "30.0cm",
+  "status": "TODO",
+  "habitat": "대양의 섬",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "대양의 외딴 섬에 사는 바닷새이다. 외딴 섬에만 분포해 전체 개체 수는 자세히 조사되지 않았지만, 태평양의 리시안스키섬(Lisianski Island) 한 곳에만 15~25만 쌍이 살 만큼 지역에 따라서는 흔하다. 하와이 제도와 일본 보닌 열도의 외딴 섬 등지에서 번식하고 북태평양 아열대 해역에서 겨울을 난다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "flying low over the open ocean, side view",
+    "scene": "remote oceanic island surrounded by open sea; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰배슴새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001488",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰배슴새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001488",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태와 생김새가 없다"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "turdus-chrysolaus",
+  "ko": "붉은배지빠귀",
+  "sci": "Turdus chrysolaus",
+  "author": "Temminck, 1832",
+  "en": "Brown-headed Thrush",
+  "ktsn": 120000002099,
+  "origin": "nibr",
+  "length": "24cm",
+  "status": "드문 나그네새",
+  "habitat": "우거진 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 상순~8월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 지나가는 드문 나그네새로, 우거진 숲속에서 지낸다. 곤충과 여러 식물의 열매를 즐겨 먹는다. 사할린과 일본 중북부에서 번식하며, 5월 상순~8월 상순에 알을 3~5개 낳는다. 겨울은 일본 남부, 중국 남부, 필리핀에서 난다.",
+  "points": [
+    {
+      "ko": "어두운 회갈색 머리와 윗면",
+      "en": "dark grey-brown head and upperparts"
+    },
+    {
+      "ko": "암컷 멱의 흰 줄무늬",
+      "en": "a few white streaks on the throat (female)"
+    },
+    {
+      "ko": "적갈색 가슴과 옆구리",
+      "en": "rufous breast and flanks"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 목, 몸 윗면이 어두운 회갈색이고, 가슴과 옆구리는 적갈색, 배는 흰색이다.",
+    "female": "아랫면이 수컷보다 옅고, 멱에 흰 줄무늬가 조금 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Brown-headed Thrush (Turdus chrysolaus), adult male: dark grey-brown head, neck and upperparts, rufous breast and flanks, white belly",
+    "pose": "perched on a branch inside dense forest, side view",
+    "scene": "Korean dense forest interior during spring or autumn passage; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey-brown head and upperparts, rufous breast and flanks, white belly",
+      "adult female, side view perched: paler underparts, a few white streaks on the throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은배지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002099",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은배지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002099",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

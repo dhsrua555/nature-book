@@ -1,0 +1,79 @@
+{
+  "id": "luscinia-svecica",
+  "ko": "흰눈썹울새",
+  "sci": "Luscinia svecica",
+  "author": "Linnaeus, 1758",
+  "en": "Bluethroat",
+  "ktsn": 120000002111,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "매우 드문 나그네새",
+  "habitat": "관목이 흩어진 기복 심한 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월에 알을 낳는다."
+  },
+  "summary": "매우 드물게 지나가는 나그네새로, 관목이 드문드문 자라고 땅의 높낮이가 심한 습지에서 지낸다. 겨울에는 홀로, 여름에는 암수가 함께 주로 땅 위에서 생활한다. 곤충, 환형동물, 복족류 같은 동물성 먹이와 여러 식물의 열매를 먹으며, 산란기는 5~7월이고 한배에 알을 5~7개, 때로는 8~9개 낳는다. 국외에서는 동남아시아, 러시아, 중국, 알래스카 서부에 분포한다.",
+  "points": [
+    {
+      "ko": "세피아 갈색 머리꼭대기와 뒷목",
+      "en": "sepia-brown crown and nape with dark feather centres"
+    },
+    {
+      "ko": "크림빛 황백색 눈썹선",
+      "en": "creamy buff supercilium"
+    },
+    {
+      "ko": "검은 눈앞과 적갈색 귀깃",
+      "en": "black lores and rusty-brown ear coverts"
+    },
+    {
+      "ko": "붉은 녹슨색 큰 얼룩이 있는 푸른 멱",
+      "en": "blue throat with a large rusty-red central spot"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "어두운 갈색 다리",
+      "en": "dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "봄철 수컷은 턱밑·멱·앞목이 푸르고, 그 가운데보다 조금 아래쪽에 짙은 붉은 녹슨색의 큰 얼룩이 있다.",
+    "female": "윗면은 수컷과 같다. 턱밑과 멱은 흰 바탕에 붉은 녹슨빛 얼룩점이 조금 있고, 그 아래로 검은 띠와 흰 띠가 차례로 놓이며 다소 푸른빛을 띤다. 가슴에는 얼룩무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Bluethroat (Luscinia svecica), adult male in spring: sepia-brown forehead, crown, nape and hindneck with dark feather centres and pale fringes, creamy buff supercilium, black lores, rusty-brown ear coverts, blue chin, throat and foreneck with a large deep rusty-red spot just below the centre, black bill, dark brown legs",
+    "pose": "standing on the ground at the foot of a low shrub, side view",
+    "scene": "Korean marsh during spring migration: uneven wet ground with scattered low shrubs; no people, buildings or text",
+    "views": [
+      "adult male, side view on the ground: sepia-brown crown, creamy buff supercilium, black lores, rusty-brown ear coverts, blue throat with a large rusty-red spot, black bill, dark brown legs",
+      "adult female, side view: upperparts as male, white throat with a few rusty spots, a black band then a white band below the throat with a bluish wash, spotted breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰눈썹울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002111",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰눈썹울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002111",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

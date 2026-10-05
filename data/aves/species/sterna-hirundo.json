@@ -1,0 +1,77 @@
+{
+  "id": "sterna-hirundo",
+  "ko": "제비갈매기",
+  "sci": "Sterna hirundo",
+  "author": "Linnaeus, 1758",
+  "en": "Common Tern",
+  "ktsn": 120000001785,
+  "origin": "nibr",
+  "length": "35.5cm",
+  "status": "흔한 나그네새",
+  "habitat": "해안, 하구, 호수, 하천",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 상순~8월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라의 해안과 하구에서 흔히 보이는 나그네새로, 주로 호수나 하천 같은 물가에 산다. 이동할 때는 30~100마리씩 무리를 지어 움직이며, 작은 물고기와 곤충, 갑각류를 먹는다. 번식지에서는 호수나 하천의 갈대·왕골 사이에 마른 풀줄기를 높이 쌓아 화산 모양 둥지를 무리 지어 짓고, 알을 2~3개 낳는다. 시베리아 동부, 캄차카, 사할린, 쿠릴 열도 등지에서 번식하고 아프리카 동부 열대, 동남아시아, 오스트레일리아 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 이마·머리꼭대기·뒷머리",
+      "en": "black forehead, crown and nape (breeding)"
+    },
+    {
+      "ko": "흰 뺨과 멱",
+      "en": "white cheeks and throat"
+    },
+    {
+      "ko": "연한 회색 어깨깃·등·허리",
+      "en": "pale grey scapulars, back and rump"
+    },
+    {
+      "ko": "흰 가슴과 배",
+      "en": "white breast and belly"
+    },
+    {
+      "ko": "흰 아래꽁지덮깃",
+      "en": "white undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Tern (Sterna hirundo), adult breeding: black forehead, crown, nape and upper lores, white lower lores, ear coverts, cheeks, chin, throat and neck sides, pale grey scapulars, back and rump, white breast, belly, axillaries and undertail coverts",
+    "pose": "flying over the water with a small migrating flock",
+    "scene": "Korean estuary where a river meets the sea, tidal channels and sandbars; no people, buildings or text",
+    "views": [
+      "adult breeding, side view perched: black cap from forehead to nape, white cheeks and throat, pale grey back, white underparts",
+      "adult, in flight from below: white breast, belly, axillaries and undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001785",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001785",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 '겨울새에 속하며'라는 말이 함께 있으나, '우리나라에서는 해안과 하구에 흔한 나그네새', '우리나라를 통과한다'는 말을 따라 나그네새로 적었다"
+  ],
+  "wingspan": "70–81cm"
+}

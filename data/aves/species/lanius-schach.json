@@ -1,0 +1,86 @@
+{
+  "id": "lanius-schach",
+  "ko": "긴꼬리때까치",
+  "sci": "Lanius schach",
+  "author": "Linnaeus, 1758",
+  "en": "Long-tailed Shrike",
+  "ktsn": 120000001937,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "텃새",
+  "habitat": "관목이 무성한 곳, 경작지",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "남부지방에 사는 텃새로, 관목이 우거진 곳이나 경작지에서 지낸다. 도마뱀, 설치류, 작은 새, 곤충 따위를 잡아 나뭇가지나 철사에 꽂아 두는 습성이 있는데, 이렇게 둔 먹이를 잊어버리는 일이 잦다. 평소에는 물결치듯 오르내리며 날지만 먹이를 덮칠 때는 곧장 돌진한다. 국내에서는 전라남도 하태도·가거도와 제주도 등지에서 볼 수 있고, 국외에서는 인도에서 뉴기니까지 분포한다.",
+  "points": [
+    {
+      "ko": "진줏빛 회색 머리",
+      "en": "pearl-grey head and crown"
+    },
+    {
+      "ko": "온통 검은 얼굴",
+      "en": "black face"
+    },
+    {
+      "ko": "흰 아랫면과 적갈색 옆구리",
+      "en": "white underparts with rufous flanks"
+    },
+    {
+      "ko": "길고 적갈색인 꼬리",
+      "en": "long rufous tail"
+    },
+    {
+      "ko": "검은빛 부리와 다리",
+      "en": "blackish bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Long-tailed Shrike (Lanius schach), adult: pearl-grey head and crown, black face, white underparts with rufous flanks, long rufous tail, near-black bill and legs",
+    "pose": "perched on a shrub beside a small lizard spiked on a twig",
+    "scene": "dense shrubs at the edge of cultivated fields on a southern Korean island such as Jeju; no people, buildings or text",
+    "views": [
+      "adult, side view perched: pearl-grey crown, black face, white underparts, rufous flanks, long rufous tail, blackish bill and legs",
+      "adult, in flight: long rufous tail, white underparts with rufous flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴꼬리때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001937",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴꼬리때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001937",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "emberiza-schoeniclus",
+  "ko": "검은머리쑥새",
+  "sci": "Emberiza schoeniclus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Reed Bunting",
+  "ktsn": 120000002244,
+  "origin": "nibr",
+  "length": "16cm",
+  "status": "드문 겨울철새",
+  "habitat": "물가 풀밭, 갈대밭, 습한 초원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~7월 중순에 알을 낳는다."
+  },
+  "summary": "작은 무리를 지어 우리나라에 찾아오는 드문 겨울새로, 물가 풀밭과 갈대밭, 습한 초원에서 지낸다. 주로 식물성 먹이를 먹지만 곤충도 잘 먹는다. 번식지에서는 풀밭 땅 위에 밥그릇 모양 둥지를 틀고 한 해에 두 번 번식하며, 한배에 알 4~5개를 낳는다. 캄차카, 사할린, 아무르, 우수리, 홋카이도 등지에서 번식하고 한국, 일본, 만주 남부, 중국 남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 머리(수컷)",
+      "en": "black head (male)"
+    },
+    {
+      "ko": "뚜렷한 흰 뺨(수컷)",
+      "en": "conspicuous white on the cheeks (male)"
+    },
+    {
+      "ko": "갈색 부리와 홍채",
+      "en": "brown bill and iris"
+    },
+    {
+      "ko": "검은 세로줄무늬가 있는 적갈색 등",
+      "en": "rufous-brown back streaked black"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "갈색 다리",
+      "en": "brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리가 검고 뺨의 흰색이 뚜렷하다.",
+    "female": "수컷보다 색이 옅고, 갈색 머리에 흰 눈썹선과 뺨선이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Reed Bunting (Emberiza schoeniclus), adult male: black head with conspicuous white on the cheeks, rufous-brown back with black streaks, white underparts, brown bill, iris and legs",
+    "pose": "perched on a reed stem, side view",
+    "scene": "Korean winter: reed bed and damp grassy meadow at the water's edge; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black head with white cheeks, black-streaked rufous-brown back, white underparts, brown bill and legs",
+      "adult female, side view perched: paler than the male, brown head with white supercilium and submoustachial stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리쑥새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002244",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리쑥새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002244",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

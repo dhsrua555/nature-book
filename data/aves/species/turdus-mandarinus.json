@@ -1,0 +1,72 @@
+{
+  "id": "turdus-mandarinus",
+  "ko": "대륙검은지빠귀",
+  "sci": "Turdus mandarinus",
+  "author": "Bonaparte, 1850",
+  "en": "Chinese Blackbird",
+  "ktsn": 120000528904,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "숲, 공원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "숲과 공원에 사는 지빠귀로, 국내에서는 강원도와 경기도에서 산다.",
+  "points": [
+    {
+      "ko": "노란 부리(수컷)",
+      "en": "yellow bill (male)"
+    },
+    {
+      "ko": "노란 눈테(수컷)",
+      "en": "yellow eyering (male)"
+    },
+    {
+      "ko": "온통 검은 몸(수컷)",
+      "en": "all-black plumage (male)"
+    },
+    {
+      "ko": "멱~가슴의 흑갈색 줄무늬(암컷)",
+      "en": "blackish-brown streaks from throat to breast (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 검고 부리와 눈테가 노랗다.",
+    "female": "온몸이 밤색을 띤 검은색이고 아랫면이 윗면보다 조금 밝으며, 멱에서 가슴까지 흑갈색 줄무늬가 있다. 부리와 눈테의 노란색은 수컷보다 흐리다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Blackbird (Turdus mandarinus), adult male: entirely black plumage, yellow bill and yellow eyering",
+    "pose": "standing on the ground beneath trees, side view",
+    "scene": "Korean woodland park with broadleaf trees and open lawn; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: all black with yellow bill and eyering",
+      "adult female, side view standing: brownish-black, slightly paler below, blackish-brown streaks on throat and breast, duller yellow bill and eyering"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 대륙검은지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000528904",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 대륙검은지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528904",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 국외 분포(서유럽, 지중해 연안, 북아프리카, 인도, 동남아시아)는 넓은 뜻의 검은지빠귀(Turdus merula) 분포로 보여 싣지 않았다"
+  ]
+}

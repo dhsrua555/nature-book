@@ -1,0 +1,82 @@
+{
+  "id": "remiz-pendulinus",
+  "ko": "스윈호오목눈이",
+  "sci": "Remiz pendulinus",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Penduline Tit",
+  "ktsn": 120000001983,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새",
+  "habitat": "강가의 갈대밭, 강가와 호숫가의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "알은 5월 하순~7월 중순에 낳는다."
+  },
+  "summary": "봄과 가을에 작은 무리를 지어 규칙적으로 우리나라를 지나가는 나그네새이다. 겨울에는 무리 지어 강가 갈대밭에서 지내고, 여름에는 강가나 호숫가 숲에서 번식하며 물 위로 늘어진 버드나무 가지 끝에 둥지를 매달고 한배에 5~10개, 흔히 7개의 알을 낳는다. 곤충의 유충을 주로 먹고 새끼는 나비목 유충을 먹고 자라며, 겨울에는 풀씨를 먹는다. 한국 일부 지역과 만주, 내몽골, 중국 서북부 윈난 성, 일본 등지에서 번식한다.",
+  "points": [
+    {
+      "ko": "갈색 띤 검은 이마·뺨·귀깃",
+      "en": "brownish-black forehead, lores, cheeks and ear-coverts"
+    },
+    {
+      "ko": "어두운 축반이 있는 잿빛 정수리",
+      "en": "greyish crown with dark shaft streaks"
+    },
+    {
+      "ko": "더러운 흰색 눈썹선",
+      "en": "dull white supercilium"
+    },
+    {
+      "ko": "가슴까지 이어지는 밤색 윗등 띠",
+      "en": "chestnut band on the mantle extending onto the breast"
+    },
+    {
+      "ko": "크림 황갈색 멱과 가슴",
+      "en": "creamy-buff throat and breast"
+    },
+    {
+      "ko": "남청색 또는 잿빛 쥐색 다리",
+      "en": "dark blue or mouse-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Penduline Tit (Remiz pendulinus), adult: brownish-black forehead, lores, cheeks and ear-coverts, greyish crown with dark shaft streaks, dull white supercilium, greyish-buff hindneck, back, rump and uppertail coverts, chestnut band across the mantle extending onto the breast, white chin, creamy-buff throat, breast and undertail coverts, dark brown tail with pale buff edges, greyish bill with a darker culmen, dark brown iris, dark blue or mouse-grey legs",
+    "pose": "clinging to a reed stem, part of a small flock",
+    "scene": "Korean riverside reedbed in autumn with willows along the bank; no people, buildings or text",
+    "views": [
+      "adult, side view clinging to a reed: dark face mask, grey crown, dull white supercilium, chestnut mantle band, creamy-buff underparts",
+      "adult, front view: chestnut band reaching onto the breast, white chin, creamy-buff throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 스윈호오목눈이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001983",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 스윈호오목눈이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001983",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

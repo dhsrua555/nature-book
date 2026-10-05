@@ -1,0 +1,73 @@
+{
+  "id": "larvivora-akahige",
+  "ko": "붉은가슴울새",
+  "sci": "Larvivora akahige",
+  "author": "Temminck, 1835",
+  "en": "Japanese Robin",
+  "ktsn": 120000528873,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "미조",
+  "habitat": "아고산대 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "4~5월에 부산 부근에 잠시 들르며, 번식지에서의 산란기는 6~7월이다."
+  },
+  "summary": "4~5월에 작은 무리가 부산 부근에 잠깐 들르는 미조이다. 주로 아고산대 침엽수림에서 번식하며, 벼랑의 움푹한 곳이나 나무뿌리 가까운 땅 위에 둥지를 틀고 알을 3~5개 낳는다. 곤충을 주로 먹는다. 일본에서 번식하고 중국 동남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "주황색 머리와 멱, 윗가슴",
+      "en": "orange head, throat and upper breast"
+    },
+    {
+      "ko": "붉은 갈색 등",
+      "en": "rufous-brown back"
+    },
+    {
+      "ko": "잿빛 아랫가슴",
+      "en": "grey lower breast"
+    },
+    {
+      "ko": "붉은 갈색 꼬리",
+      "en": "rufous-brown tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Robin (Larvivora akahige), adult: orange head, throat and upper breast, rufous-brown back and tail, grey lower breast",
+    "pose": "perched low near the ground, side view",
+    "scene": "Korean spring woodland undergrowth near the southern coast; no people, buildings or text",
+    "views": [
+      "adult, side view perched: orange head and breast, rufous-brown back and tail, grey lower breast",
+      "adult, front view: orange throat and upper breast grading to grey below"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은가슴울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528873",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은가슴울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528873",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

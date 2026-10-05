@@ -1,0 +1,79 @@
+{
+  "id": "plectrophenax-nivalis",
+  "ko": "흰멧새",
+  "sci": "Plectrophenax nivalis",
+  "author": "Linnaeus, 1758",
+  "en": "Snow Bunting",
+  "ktsn": 120000002237,
+  "origin": "nibr",
+  "length": "약 16cm",
+  "status": "겨울철 미조",
+  "habitat": "산지의 자갈밭, 해안의 암석지, 용암지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 중순~7월 중순에 알을 낳는다."
+  },
+  "summary": "우리나라에는 겨울철에 미조로 찾아오는 새이다. 산지의 자갈밭이나 바닷가 바위 지대, 용암 지대 등에 살며, 번식기가 아닐 때는 흔히 작은 무리를 지어 지낸다. 여름에는 곤충을 많이 먹고 씨앗과 열매도 즐겨 먹는다. 북극 시베리아, 아나디르 연안, 캄차카 동부 등지에서 번식하며 한배에 알 4~7개, 드물게 8개를 낳고, 시베리아 초원, 몽골, 만주, 사할린, 쿠릴 열도, 중국 허베이성, 일본 북부, 한국 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "황갈색으로 보이는 머리꼭대기·뒷목",
+      "en": "crown and hindneck looking buff (white feathers broadly tipped buff)"
+    },
+    {
+      "ko": "황갈색 눈앞과 눈썹",
+      "en": "buff lores and supercilium"
+    },
+    {
+      "ko": "다갈색 귀깃",
+      "en": "tawny-brown ear-coverts"
+    },
+    {
+      "ko": "작지만 높고 옆으로 납작한 부리",
+      "en": "small but deep, laterally compressed bill"
+    },
+    {
+      "ko": "깃 끝이 다갈색인 윗가슴과 흰 아랫면",
+      "en": "white underparts with tawny-tipped upper breast feathers"
+    },
+    {
+      "ko": "짧고 흐린 검은색 다리",
+      "en": "short, dull black legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "겨울깃의 머리꼭대기와 뒷목은 흰 깃에 넓은 황갈색 깃 끝이 있어 황갈색으로 보인다.",
+    "female": "겨울깃은 겉보기에 수컷과 아주 비슷하지만 머리꼭대기 깃털의 기부가 어두운 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Snow Bunting (Plectrophenax nivalis), adult male in winter plumage: crown and hindneck white but broadly tipped buff so they look buff, buff lores and supercilium, tawny-brown ear-coverts, white underparts with tawny feather tips on the upper breast and a faint buff wash elsewhere, small but deep, laterally compressed bill, brown iris, short dull black legs",
+    "pose": "walking over gravel in a small flock, picking at seeds",
+    "scene": "Korean winter: rocky seashore with dark lava rocks and gravel; no people, buildings or text",
+    "views": [
+      "adult male winter, side view on the ground: buff-looking crown and hindneck, buff lores and supercilium, tawny-brown ear-coverts, white underparts with tawny-tipped upper breast, short dull black legs",
+      "adult female winter, head detail: like the male but with dark brown bases to the crown feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002237",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002237",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

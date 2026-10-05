@@ -1,0 +1,78 @@
+{
+  "id": "garrulus-glandarius",
+  "ko": "어치",
+  "sci": "Garrulus glandarius",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Jay",
+  "ktsn": 120000001954,
+  "origin": "nibr",
+  "length": "약 33cm",
+  "status": "TODO",
+  "habitat": "낙엽활엽수림, 혼효림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "4~6월에 알을 낳는다."
+  },
+  "summary": "나무 위에서 생활하는 새로, 낙엽활엽수림과 혼효림에 둥지를 튼다. 먹이를 숨겨 두는 습성이 있고, 날 때는 천천히 날갯짓하며 날아오른 뒤 대개 물결 모양을 그린다. 경계할 때는 요란하게 울며 다른 동물의 소리를 흉내 내기도 한다. 4~6월에 알 5~6개를 낳으며, 북위 40~60°의 유럽과 아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "세로무늬 정수리 깃을 세운 낮은 댕기",
+      "en": "streaked crown feathers raised into a low crest"
+    },
+    {
+      "ko": "폭넓은 검은 뺨선",
+      "en": "broad black malar stripe"
+    },
+    {
+      "ko": "분홍빛 갈색 등과 배",
+      "en": "pinkish-brown back and underparts"
+    },
+    {
+      "ko": "청색·검은색 가로띠 날개덮깃",
+      "en": "wing coverts barred blue and black"
+    },
+    {
+      "ko": "뚜렷한 흰 날개 무늬",
+      "en": "conspicuous white wing patch"
+    },
+    {
+      "ko": "흰 허리와 검은 꼬리",
+      "en": "white rump contrasting with black tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Jay (Garrulus glandarius), adult: streaked crown feathers raised into a low crest, broad black malar stripe, pinkish-brown back and underparts, wing coverts barred blue and black, conspicuous white wing patch, white rump contrasting with black tail",
+    "pose": "perched on a branch with crown feathers slightly raised, holding a morsel of food to hide",
+    "scene": "Korean deciduous broadleaf and mixed forest in spring; no people, buildings or text",
+    "views": [
+      "adult, side view perched: streaked low crest, broad black malar stripe, pinkish-brown body, blue-and-black barred wing coverts, white wing patch",
+      "adult, in flight from behind: white rump, black tail, white wing patch"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 어치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001954",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 어치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001954",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

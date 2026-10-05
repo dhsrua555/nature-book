@@ -1,0 +1,84 @@
+{
+  "id": "emberiza-chrysophrys",
+  "ko": "노랑눈썹멧새",
+  "sci": "Emberiza chrysophrys",
+  "author": "Pallas, 1776",
+  "en": "Yellow-browed Bunting",
+  "ktsn": 120000002222,
+  "origin": "nibr",
+  "length": "14cm",
+  "status": "흔치 않은 나그네새",
+  "habitat": "관목림, 덤불, 잡목림, 농경지와 개활지의 관목·덤불",
+  "protect": [],
+  "months": {
+    "seen": [
+      5,
+      9,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "5월과 9~11월에 한반도를 지나간다."
+  },
+  "summary": "5월과 9~11월에 작은 무리를 지어 한반도를 지나가는 흔치 않은 나그네새이다. 관목림과 덤불, 잡목림에 살며, 봄가을 이동 시기에는 농경지나 트인 땅의 관목·덤불, 잡목림에서 눈에 띈다. 곤충과 식물 씨앗을 먹는다. 구북구 동부, 바이칼, 스타노보이 산맥 등지에서 번식하고 중국 남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 머리(수컷 여름깃)",
+      "en": "black head (breeding male)"
+    },
+    {
+      "ko": "노란 눈썹선",
+      "en": "yellow supercilium"
+    },
+    {
+      "ko": "흰 턱밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "흑갈색 세로줄이 있는 갈색 등",
+      "en": "brown back streaked blackish-brown"
+    },
+    {
+      "ko": "가슴에서 옆구리로 난 갈색 줄무늬",
+      "en": "brown streaks running from breast to flanks"
+    },
+    {
+      "ko": "흰 배와 옅은 갈색 옆구리",
+      "en": "white belly and pale brown flanks"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름깃은 머리가 검고 눈썹선이 노랗다. 턱밑은 희고 등은 흑갈색 세로줄이 있는 갈색이다.",
+    "female": "수컷보다 색이 옅다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-browed Bunting (Emberiza chrysophrys), adult male in breeding plumage: black head, yellow supercilium, white chin, brown back with blackish-brown streaks, white belly, pale brown flanks, brown streaks running from the breast onto the flanks",
+    "pose": "perched in a low shrub at the edge of a field",
+    "scene": "Korean autumn migration: thickets and scrubby woodland bordering farmland; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view perched: black head, yellow supercilium, white chin, streaked brown back, white belly, brown streaks from breast to pale brown flanks",
+      "adult female, side view perched: paler-coloured than the male"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑눈썹멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002222",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑눈썹멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002222",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

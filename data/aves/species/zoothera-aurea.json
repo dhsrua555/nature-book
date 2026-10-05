@@ -1,0 +1,79 @@
+{
+  "id": "zoothera-aurea",
+  "ko": "호랑지빠귀",
+  "sci": "Zoothera aurea",
+  "author": "Holandre, 1825",
+  "en": "White's Thrush",
+  "ktsn": 120000002092,
+  "origin": "nibr",
+  "length": "약 29.5cm",
+  "status": "비교적 흔한 여름철새, 일부 텃새",
+  "habitat": "낙엽활엽수림, 잡목림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "4~7월에 알을 낳는다."
+  },
+  "summary": "비교적 흔한 여름철새이며 일부는 텃새로 머문다. 낙엽활엽수림과 잡목림에 살며, 주로 새벽과 늦은 밤에 '히이~, 호오~' 하는 가는 피리 같은 소리를 낸다. 큰키나무 가지 위에 이끼를 많이 쓰고 마른 가지와 낙엽을 조금 섞어 밥그릇 모양 둥지를 짓고, 4~7월에 알을 4~5개 낳는다. 한국, 일본, 중국 동북부, 우수리, 시베리아 남부에서 번식하고 겨울에는 중국 남부, 대만, 필리핀, 동남아시아 등지로 내려간다.",
+  "points": [
+    {
+      "ko": "황갈색 윗면",
+      "en": "buff-brown upperparts"
+    },
+    {
+      "ko": "흰 멱·가슴·배",
+      "en": "white throat, breast and belly"
+    },
+    {
+      "ko": "온몸의 검은색·짙은 갈색 얼룩무늬",
+      "en": "black and dark brown mottling all over"
+    },
+    {
+      "ko": "가장자리가 검고 끝이 흰 꼬리",
+      "en": "tail edged black and tipped white"
+    },
+    {
+      "ko": "날 때 보이는 날개 아래 흑백 띠",
+      "en": "black-and-white bands on the underwing in flight"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White's Thrush (Zoothera aurea), adult: buff-brown upperparts, white throat, breast and belly, black and dark brown mottling over the whole body, tail edged black and tipped white",
+    "pose": "perched on a branch at dawn, singing",
+    "scene": "Korean deciduous broadleaf forest at dawn in early summer; no people, buildings or text",
+    "views": [
+      "adult, side view perched: buff-brown upperparts, white underparts, black and dark brown mottling all over, black-edged tail with white tip",
+      "adult in flight, from below: black and white bands across the underwing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 호랑지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002092",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 호랑지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002092",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

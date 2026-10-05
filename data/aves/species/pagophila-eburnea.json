@@ -1,0 +1,80 @@
+{
+  "id": "pagophila-eburnea",
+  "ko": "북극흰갈매기",
+  "sci": "Pagophila eburnea",
+  "author": "Phipps, 1774",
+  "en": "Ivory Gull",
+  "ktsn": 120000001775,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "몸 전체가 흰 갈매기로, 몸 크기는 괭이갈매기보다 작은 편이다. 유라시아 대륙과 북아메리카의 북극권에 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 노랗고 기부가 검은 부리",
+      "en": "black-based bill with a yellow tip"
+    },
+    {
+      "ko": "검은 눈앞",
+      "en": "black lores"
+    },
+    {
+      "ko": "흰 몸",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "등과 날개 윗면의 검은 반점",
+      "en": "black spots scattered on back and upperwing"
+    },
+    {
+      "ko": "첫째날개깃의 검은 반점",
+      "en": "black spots on the primaries"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "괭이갈매기",
+      "how": "몸이 더 작은 편이다."
+    }
+  ],
+  "art": {
+    "subject": "Ivory Gull (Pagophila eburnea): all-white plumage with black spots scattered over the back, upperwing and primaries, black lores, black-based bill with a yellow tip",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "side view standing: white body, black-spotted back and wings, black lores, black-based bill with yellow tip",
+      "in flight from above: white wings with scattered black spots, black spots on the primaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북극흰갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001775",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북극흰갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001775",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 생김새(등·날개의 검은 반점, 검은 눈앞)가 어느 나이의 깃인지 밝히지 않아 art 에 나이를 적지 않았다"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "anthus-roseatus",
+  "ko": "한국밭종다리",
+  "sci": "Anthus roseatus",
+  "author": "Blyth, 1847",
+  "en": "Rosy Pipit",
+  "ktsn": 120000002181,
+  "origin": "nibr",
+  "length": "약 15cm",
+  "status": "TODO",
+  "habitat": "고산 지대, 번식기에는 해발 2,400~4,600m 고지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식 시기는 6~7월이며, 이때는 해발 2,400~4,600m 고지에서만 지낸다."
+  },
+  "summary": "높은 산에 사는 새로, 번식기인 6~7월에는 해발 2,400~4,600m 고지에서만 지낸다. 한배에 알을 보통 3~4개, 드물게 5개까지 낳는다. 가을에는 아랫부리 기부가 살구빛이 도는 노란색을 띤다.",
+  "points": [
+    {
+      "ko": "거무스름한 눈앞과 귀깃",
+      "en": "dusky lores and ear coverts"
+    },
+    {
+      "ko": "황색과 붉은 기가 도는 황갈색 눈썹선",
+      "en": "warm buff supercilium tinged yellow and red"
+    },
+    {
+      "ko": "뿔빛 검은 부리",
+      "en": "horn-black bill"
+    },
+    {
+      "ko": "엷은 붉은 포도색 멱과 가슴",
+      "en": "pale vinaceous-pink throat and breast"
+    },
+    {
+      "ko": "멱과 가슴의 검은 갈색 세로무늬",
+      "en": "blackish-brown streaks on throat and breast"
+    },
+    {
+      "ko": "검은 갈색 세로무늬의 올리브 갈색 등",
+      "en": "olive-brown upperparts streaked blackish-brown"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 깃 색이 거의 같고, 암컷이 조금 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rosy Pipit (Anthus roseatus), adult male winter: dusky lores and ear coverts with yellowish streaks on the ear coverts, warm buff supercilium tinged yellow and red, pale vinaceous-pink chin, throat and breast with blackish-brown streaks on throat and breast, yellowish-white rest of underparts with streaked flanks, olive-brown upperparts streaked blackish-brown, dark brown wings and tail with olive edges, horn-black bill, dark brown iris",
+    "pose": "standing on a rock, side view",
+    "scene": "high mountain grassland with short turf and scattered rocks; no people, buildings or text",
+    "views": [
+      "adult male winter, side view standing: olive-brown upperparts streaked blackish-brown, vinaceous-pink throat and breast, yellowish-white belly with streaked flanks",
+      "head and breast detail: dusky lores and ear coverts, buff supercilium, blackish-brown streaks on vinaceous-pink throat and breast, horn-black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 한국밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002181",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 한국밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002181",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "번식기에 2,400~4,600m 고지에서만 산다고 하면서 300m 이하에서도 드물게 번식한다고 해 원문이 서로 맞지 않는다. 300m 이야기는 싣지 않았다."
+  ]
+}

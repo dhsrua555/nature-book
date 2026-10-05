@@ -1,0 +1,80 @@
+{
+  "id": "anas-zonorhyncha",
+  "ko": "흰뺨검둥오리",
+  "sci": "Anas zonorhyncha",
+  "author": "Swinhoe, 1866",
+  "en": "Eastern Spot-billed Duck",
+  "ktsn": 120000154877,
+  "origin": "nibr",
+  "length": "약 61cm",
+  "status": "흔한 텃새, 흔한 겨울철새",
+  "habitat": "야산, 풀밭, 해안가, 섬 등 여러 환경",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "겨울에는 북쪽에서 내려온 무리가 모여 겨울을 난다."
+  },
+  "summary": "전국에서 흔히 번식하는 텃새이며, 겨울에는 북쪽에서 내려온 무리가 모여 월동하는 흔한 겨울철새이기도 하다. 예전에는 흔한 겨울철새였으나 1960년대 이후 전국에서 흔히 번식하는 텃새로 자리를 잡았다. 야산, 풀밭, 해안가, 섬 등 여러 환경에서 번식한다. 시베리아 동남부, 몽골, 중국, 인도, 동남아시아, 한국, 대만, 일본에 산다.",
+  "points": [
+    {
+      "ko": "황갈색 뺨",
+      "en": "buff cheeks"
+    },
+    {
+      "ko": "끝이 노란 검은 부리",
+      "en": "black bill with yellow tip"
+    },
+    {
+      "ko": "고르게 어두운 갈색 몸",
+      "en": "uniform dark brown body"
+    },
+    {
+      "ko": "날 때 보이는 청색 둘째날개깃",
+      "en": "blue secondaries (speculum) in flight"
+    },
+    {
+      "ko": "흰 셋째날개깃",
+      "en": "white tertials"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷과 비슷하나 위꼬리덮깃과 아래꼬리덮깃이 더 어두운 흑갈색이고 뺨이 더 밝아 보인다.",
+    "female": "수컷과 비슷하나 꼬리덮깃이 덜 어둡고 뺨이 덜 밝아 보인다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eastern Spot-billed Duck (Anas zonorhyncha), adult: uniform dark brown body, buff cheeks, black bill with a yellow tip, blue secondaries and white tertials, orange legs",
+    "pose": "swimming on calm water, side view",
+    "scene": "Korean coastal grassland at the foot of a low wooded hill, a calm pool along the shore; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: dark brown body, buff cheeks, yellow-tipped black bill, white tertials",
+      "adult in flight: blue secondaries and white tertials visible at a distance, orange legs",
+      "adult male, rear detail: blackish-brown upper and undertail coverts darker than the female's, paler cheeks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰뺨검둥오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000154877",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰뺨검둥오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000154877",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

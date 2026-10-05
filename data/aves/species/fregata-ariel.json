@@ -1,0 +1,81 @@
+{
+  "id": "fregata-ariel",
+  "ko": "군함조",
+  "sci": "Fregata ariel",
+  "author": "G.R.Gray, 1845",
+  "en": "Lesser Frigatebird",
+  "ktsn": 120000001553,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "열대 대양, 섬의 나무(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "열대 대양에 사는 큰 바닷새로, 가끔 우리나라 바다에도 나타난다. 낮에는 하늘을 날다가 빠르게 내리꽂혀 파도 사이로 튀어 오르는 물고기를 잡고, 다른 바닷새를 괴롭혀 토해 낸 먹이를 가로채기도 한다. 때로는 배를 따라다니며, 번식기가 아니면 내륙에서는 보기 어렵다. 섬의 나무에 나뭇가지로 엉성한 접시 모양 둥지를 짓고, 주로 물고기를 먹는다.",
+  "points": [
+    {
+      "ko": "턱 밑의 큰 붉은 공기주머니(수컷)",
+      "en": "large red throat pouch (male)"
+    },
+    {
+      "ko": "뒷목의 밤색 가로띠(암컷)",
+      "en": "chestnut band across the hindneck (female)"
+    },
+    {
+      "ko": "검은색 또는 흑갈색 몸(수컷)",
+      "en": "black or blackish-brown plumage (male)"
+    },
+    {
+      "ko": "배 양쪽의 흰 얼룩(수컷)",
+      "en": "white patches on the sides of the belly (male)"
+    },
+    {
+      "ko": "유백색 가슴(암컷)",
+      "en": "creamy-white breast (female)"
+    },
+    {
+      "ko": "날개덮깃의 갈색 띠(암컷)",
+      "en": "brown bar on the wing coverts (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "배 양쪽의 흰 얼룩을 빼면 대부분 검은색이나 흑갈색이고, 턱 밑에 커다란 붉은 공기주머니가 있다.",
+    "female": "뒷목에 밤색 가로띠, 날개덮깃에 갈색 띠가 있고 가슴은 유백색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Lesser Frigatebird (Fregata ariel), adult male: black to blackish-brown plumage, white patches on the sides of the belly, large red throat pouch",
+    "pose": "soaring high over the sea on long wings",
+    "scene": "open sea off the Korean coast with breaking waves; no people, buildings or text",
+    "views": [
+      "adult male, in flight: black to blackish-brown plumage, white patches on the belly sides, red throat pouch",
+      "adult female, in flight: chestnut band across the hindneck, brown bar on the wing coverts, creamy-white breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 군함조",
+      "url": "https://species.nibr.go.kr/species-detail/120000001553",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 군함조",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001553",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 몸길이를 '1m 이상'이라 하나 이 종(작은 군함조류)으로서는 지나치게 커 보여 length 를 TODO로 둠",
+    "원문의 '가슴은 유백색'이 암컷 설명에 이어 나와 암컷 특징으로 보았으나 확인 필요"
+  ]
+}

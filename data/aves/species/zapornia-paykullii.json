@@ -1,0 +1,81 @@
+{
+  "id": "zapornia-paykullii",
+  "ko": "한국뜸부기",
+  "sci": "Zapornia paykullii",
+  "author": "Ljungh, 1813",
+  "en": "Band-bellied Crake",
+  "ktsn": 120000528849,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "비교적 드문 여름철새",
+  "habitat": "중부 이북과 서북 해안 지대",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "암컷은 2년째 되는 여름에 처음 번식한다."
+  },
+  "summary": "비교적 드문 여름새로, 우리나라 중부 이북과 서북 해안 지대에서 산다. 둥지는 땅 위에 잘 숨겨 짓고 한배에 알을 7~9개 낳으며, 암컷은 2년째 여름부터 번식한다. 동북아시아에 분포하고 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "등과 끝이 검은 황갈색 부리",
+      "en": "yellowish-brown bill with black culmen and tip"
+    },
+    {
+      "ko": "거의 흰 멱과 엷은 가슴 가운데",
+      "en": "almost white throat and pale centre of breast"
+    },
+    {
+      "ko": "살구빛 도는 엷은 갈색 아랫면",
+      "en": "pale apricot-brown underparts"
+    },
+    {
+      "ko": "날개덮깃의 가는 흰 가로줄",
+      "en": "thin white bars on the wing coverts"
+    },
+    {
+      "ko": "긴 발가락과 연어색 다리",
+      "en": "salmon-coloured legs with long toes"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "쇠뜸부기사촌",
+      "how": "몸 색은 비슷하지만 이 종은 아랫면이 더 엷고 살구빛이 도는 갈색이며, 날개덮깃에 가는 흰 가로줄이 있다."
+    }
+  ],
+  "art": {
+    "subject": "Band-bellied Crake (Zapornia paykullii), adult: almost white throat and pale centre of breast, pale apricot-brown underparts, thin white bars across the wing coverts, yellowish-brown bill with a black, jade-tinged culmen and tip, salmon-coloured legs with long toes; laterally compressed body, broad rounded wings, fairly long tail",
+    "pose": "standing on the ground among dense vegetation, side view",
+    "scene": "Korean summer coastal lowland in the northwest with dense grassy cover; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pale throat, apricot-brown underparts, white-barred wing coverts, salmon legs with long toes",
+      "adult, head detail: yellowish-brown bill with black jade-tinged culmen and tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 한국뜸부기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528849",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 한국뜸부기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528849",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 몸집과 부리를 견준 '뜸부기사촌'은 국명 목록에 없는 이름이라(쇠뜸부기사촌을 뜻하는지 확인 필요) similar에 넣지 않았다"
+  ]
+}

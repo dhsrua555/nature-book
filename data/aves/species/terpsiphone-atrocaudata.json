@@ -1,0 +1,67 @@
+{
+  "id": "terpsiphone-atrocaudata",
+  "ko": "긴꼬리딱새",
+  "sci": "Terpsiphone atrocaudata",
+  "author": "Eyton, 1839",
+  "en": "Black Paradise Flycatcher",
+  "ktsn": 120000001951,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "희귀한 여름철새",
+  "habitat": "활엽수림",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "전국에 분포하는 희귀한 여름철새로, 제주도와 남부 지역에 많은 수가 산다. 활엽수림을 좋아하며 큰 나무에 컵 모양 둥지를 짓는다. 과거에는 삼광조라고도 불렸다. 개발과 기온 변화로 서식지가 훼손되고 있다.",
+  "points": [
+    {
+      "ko": "짧은 댕기깃",
+      "en": "short crest"
+    },
+    {
+      "ko": "푸른 부리와 눈테",
+      "en": "blue bill and eye-ring"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Paradise Flycatcher (Terpsiphone atrocaudata), adult: short crest, blue bill and eye-ring, white belly",
+    "pose": "perched on a branch of a large tree near a cup-shaped nest",
+    "scene": "Korean broadleaf forest with large trees in summer, such as on Jeju; no people, buildings or text",
+    "views": [
+      "adult, side view perched: short crest, blue bill and eye-ring, white belly",
+      "adult, head detail: blue bill and eye-ring, short crest"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴꼬리딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001951",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴꼬리딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001951",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

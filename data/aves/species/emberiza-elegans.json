@@ -1,0 +1,95 @@
+{
+  "id": "emberiza-elegans",
+  "ko": "노랑턱멧새",
+  "sci": "Emberiza elegans",
+  "author": "Temminck, 1836",
+  "en": "Yellow-throated Bunting",
+  "ktsn": 120000002224,
+  "origin": "nibr",
+  "length": "16cm",
+  "status": "텃새",
+  "habitat": "산림, 경작지, 습지 주변의 관목과 덤불",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5
+    ],
+    "note": "산란기는 5월이다."
+  },
+  "summary": "숲과 경작지, 습지 주변의 관목과 덤불에 사는 텃새로, 전국에서 볼 수 있다. 번식기에는 세력권을 지키느라 흩어져 지내다가, 번식이 끝나면 수십 마리까지 무리를 지어 다닌다. 나무 꼭대기나 전깃줄처럼 드러난 곳에 앉아 울기 때문에 소리 나는 곳을 찾으면 쉽게 볼 수 있다. 국외에서는 연해주, 중국, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "가끔 뿔처럼 세우는 정수리 깃",
+      "en": "crown feathers sometimes raised in a crest"
+    },
+    {
+      "ko": "노란 턱밑과 눈 위~뒷머리(수컷)",
+      "en": "deep yellow chin and band from above the eye to the nape (male)"
+    },
+    {
+      "ko": "검은 눈선과 윗가슴(수컷)",
+      "en": "black eye-stripe and upper breast (male)"
+    },
+    {
+      "ko": "짧고 도톰한 부리",
+      "en": "short, stout bill"
+    },
+    {
+      "ko": "전체적으로 갈색인 몸",
+      "en": "brown body overall"
+    },
+    {
+      "ko": "흰 바깥꼬리깃",
+      "en": "white outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "턱밑과 눈 위에서 뒷머리까지 짙은 노란색이고 눈선과 윗가슴은 검어, 얼굴이 노랑과 검정으로 얼룩덜룩해 보인다.",
+    "female": "윗가슴과 눈선에 검은색이 없고 노란 부분도 흐릿하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-throated Bunting (Emberiza elegans), adult male: brown overall, short stout bill, deep yellow chin and band from above the eye to the nape, black eye-stripe and black upper breast giving a yellow-and-black face, crown feathers raised in a crest, white outer tail feathers",
+    "pose": "singing from the top of a tree with its crown feathers raised",
+    "scene": "Korean spring: shrubs and thickets at the edge of woodland and farmland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: yellow chin and band from above the eye to the nape, black eye-stripe and upper breast, raised crest, brown body",
+      "adult female, side view perched: no black on the face or upper breast, duller yellow areas",
+      "adult in flight from behind: brown body with white outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑턱멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002224",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑턱멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002224",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

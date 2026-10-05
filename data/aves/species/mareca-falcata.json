@@ -1,0 +1,78 @@
+{
+  "id": "mareca-falcata",
+  "ko": "청머리오리",
+  "sci": "Mareca falcata",
+  "author": "Georgi, 1775",
+  "en": "Falcated Duck",
+  "ktsn": 120000528784,
+  "origin": "nibr",
+  "length": "약 48cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "강, 하구, 저수지, 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "비교적 흔한 겨울철새로, 강과 하구, 저수지, 해안에서 작은 무리를 지어 지낸다. 볍씨와 곡물 같은 여러 씨앗과 물풀을 즐겨 먹고 물속 곤충도 먹으며, 해 질 무렵에는 농경지로 날아들어 먹이를 찾는다. 시베리아 동부, 사할린, 캄차카반도, 홋카이도에서 번식하고 한국, 일본, 중국 남부에서 겨울을 난다. 국내에서는 전국의 강과 하천 같은 비교적 큰 습지에서 보이며, 특히 낙동강과 영산강 등 남부에서 많이 월동한다.",
+  "points": [
+    {
+      "ko": "수컷의 녹색 광택 긴 댕기",
+      "en": "male: long glossy green crest"
+    },
+    {
+      "ko": "수컷 이마의 흰 점",
+      "en": "male: small white spot on the forehead"
+    },
+    {
+      "ko": "흰 멱과 검은 목테",
+      "en": "male: white throat and black collar"
+    },
+    {
+      "ko": "가장자리가 검은 비늘무늬 가슴",
+      "en": "male: scaly breast, feathers edged black"
+    },
+    {
+      "ko": "꼬리를 덮는 길게 늘어진 셋째날개깃",
+      "en": "male: long, drooping curved tertials covering the tail"
+    },
+    {
+      "ko": "검은 띠가 있는 노란 엉덩이",
+      "en": "male: yellow rear patch bordered with black"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리에 녹색 광택의 긴 댕기가 있고, 흰 멱과 검은 목테, 이마의 흰 점, 검은 띠가 둘린 노란 엉덩이가 눈에 띈다. 가슴은 비늘무늬처럼 보이고, 둥글고 길게 늘어진 셋째날개깃이 꼬리를 가린다.",
+    "female": "전체가 고른 갈색에 흑갈색 무늬가 있고 부리는 검다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Falcated Duck (Mareca falcata), adult male: long glossy green crest on the head, small white spot on the forehead, white throat with a black collar, breast feathers edged black giving a scaly look, long drooping curved tertials covering the tail, yellow rear patch bordered with black",
+    "pose": "swimming in a small flock, side view",
+    "scene": "Korean winter: a broad river with farmland beyond the bank; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: glossy green crest, white forehead spot, white throat with black collar, scaly breast, drooping tertials, yellow rear patch edged black",
+      "adult female, side view: uniform brown with dark brown markings, black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 청머리오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528784",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 청머리오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528784",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

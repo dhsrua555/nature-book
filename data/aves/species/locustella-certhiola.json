@@ -1,0 +1,62 @@
+{
+  "id": "locustella-certhiola",
+  "ko": "북방개개비",
+  "sci": "Locustella certhiola",
+  "author": "Pallas, 1811",
+  "en": "Pallas's Grasshopper Warbler",
+  "ktsn": 120000002030,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "흔하지 않은 나그네새",
+  "habitat": "하천 바닥, 강가 초지, 키 큰 풀숲, 관목림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월에 알을 낳는다."
+  },
+  "summary": "작은 무리를 지어 한반도 전역을 지나가는 흔하지 않은 나그네새이다. 하천 바닥이나 강가 초지에 살며 특히 키 큰 풀숲이나 관목림을 좋아하고, 작은 곤충과 그 유충을 먹는다. 초습지의 풀 사이 땅 위에 둥지를 틀고 6월에 한배에 4~6개의 알을 낳는다. 시베리아와 동아시아 북부에서 번식하고 중국, 인도차이나, 미얀마, 말레이반도 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 세로무늬가 많은 누런 갈색 윗면",
+      "en": "yellowish-brown upperparts heavily streaked black"
+    },
+    {
+      "ko": "잿빛을 띤 흰 아랫면",
+      "en": "greyish-white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pallas's Grasshopper Warbler (Locustella certhiola), adult: yellowish-brown upperparts with many black streaks, greyish-white underparts",
+    "pose": "skulking low in tall grass, side view",
+    "scene": "Korean riverside grassland with tall grass and scattered shrubs during migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched low: heavily black-streaked yellowish-brown upperparts, greyish-white underparts",
+      "adult, view from above: black-streaked yellowish-brown back"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002030",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002030",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Helopsaltes certhiola)"
+    }
+  ],
+  "todo": []
+}

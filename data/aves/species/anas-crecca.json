@@ -1,0 +1,78 @@
+{
+  "id": "anas-crecca",
+  "ko": "쇠오리",
+  "sci": "Anas crecca",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Teal",
+  "ktsn": 120000001446,
+  "origin": "nibr",
+  "length": "약 38cm",
+  "status": "흔한 겨울철새",
+  "habitat": "하천, 호수, 간척지, 논, 밭, 초습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국의 습지와 하천에서 겨울을 나는 흔한 겨울철새다. 낮에는 하천, 호수, 간척지 등에서 쉬거나 먹이를 먹고, 밤에는 논, 밭, 초습지로 나가 먹이를 찾는다. 월동지에서는 작은 무리를 지으며, 불규칙하고 빠르게 난다. 유라시아 대륙 북부에서 번식하고 유럽 남부, 북아프리카, 중동, 남아시아에서 동아시아에 걸쳐 겨울을 난다.",
+  "points": [
+    {
+      "ko": "적갈색 머리(수컷)",
+      "en": "male: chestnut head"
+    },
+    {
+      "ko": "눈에서 뒷목까지 짙은 녹색(수컷)",
+      "en": "male: dark green band from the eye to the nape"
+    },
+    {
+      "ko": "녹색 띠 경계의 가는 노란 줄",
+      "en": "male: thin yellow line bordering the green"
+    },
+    {
+      "ko": "옆구리의 흰 가로줄(수컷)",
+      "en": "male: bold white horizontal stripe on the flank"
+    },
+    {
+      "ko": "검은 테의 노란 아래꼬리덮깃",
+      "en": "male: yellow undertail patch bordered black"
+    },
+    {
+      "ko": "광택 있는 녹색 둘째날개깃",
+      "en": "glossy green secondaries"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 적갈색이고 눈에서 뒷목까지 어두운 녹색이며, 두 색의 경계에 가는 노란 줄이 있다. 옆구리에 뚜렷한 흰 가로줄이 있고, 노란 아래꼬리덮깃 둘레를 검은 띠가 두른다.",
+    "female": "전체적으로 어두운 갈색에 검은 무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Teal (Anas crecca), adult male: chestnut head with a dark green band from the eye to the nape edged by a thin yellow line, bold white horizontal stripe on the flank, yellow undertail coverts bordered black, glossy green secondaries",
+    "pose": "resting on the water in a small flock",
+    "scene": "Korean stream and reservoir edge in winter, shallow water beside a grassy marsh; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: chestnut head with a green eye band edged yellow, white flank stripe, yellow undertail bordered black",
+      "adult female, side view swimming: dark brown with black markings, green secondaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001446",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001446",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

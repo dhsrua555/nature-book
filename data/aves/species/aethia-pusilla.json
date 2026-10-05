@@ -1,0 +1,77 @@
+{
+  "id": "aethia-pusilla",
+  "ko": "작은바다오리",
+  "sci": "Aethia pusilla",
+  "author": "Pallas, 1811",
+  "en": "Least Auklet",
+  "ktsn": 120000001812,
+  "origin": "nibr",
+  "length": "약 15cm",
+  "status": "TODO",
+  "habitat": "암벽 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "참새만 한 크기로 바다오리류 가운데 가장 작다. 암벽이 있는 해안에 무리 지어 살다가 알을 낳으러 땅으로 내려온다. 물 위에서 잠수해 물속 무척추동물을 떠내듯 잡아먹는다. 바위 벽의 좁고 깊은 틈에 알을 1개 낳으며, 한 달이 안 되어 깬 새끼를 한 달 동안 기르고, 알래스카 해안에 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 빨간 부리와 노란 눈",
+      "en": "dark red bill and yellow eye"
+    },
+    {
+      "ko": "눈 뒤의 흰 솜털(여름)",
+      "en": "white plumes behind the eye (summer)"
+    },
+    {
+      "ko": "짙은 갈색~검은 등과 날개",
+      "en": "dark brown to black back and wings"
+    },
+    {
+      "ko": "흰 반점 있는 가슴과 아랫면",
+      "en": "white-spotted breast and underparts"
+    },
+    {
+      "ko": "아주 짧은 꽁지",
+      "en": "very short tail"
+    },
+    {
+      "ko": "물갈퀴 있는 회갈색 다리",
+      "en": "grey-brown webbed feet"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 같다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Least Auklet (Aethia pusilla), adult in summer: dark brown to blackish back and wings, white spots on breast and underparts, white plumes behind the eye, dark red bill, yellow eye, very short tail, grey-brown webbed feet",
+    "pose": "standing on a rock ledge, side view",
+    "scene": "rocky sea cliff above a boulder shore; no people, buildings or text",
+    "views": [
+      "adult summer, side view standing: dark upperparts, white-spotted underparts, white plumes behind the eye, dark red bill, yellow eye",
+      "adult, foot detail: grey-brown webbed feet"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 작은바다오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001812",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 작은바다오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001812",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

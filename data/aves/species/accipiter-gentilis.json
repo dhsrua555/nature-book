@@ -1,0 +1,86 @@
+{
+  "id": "accipiter-gentilis",
+  "ko": "참매",
+  "sci": "Accipiter gentilis",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Goshawk",
+  "ktsn": 120000001605,
+  "origin": "nibr",
+  "length": "50–56cm",
+  "status": "TODO",
+  "habitat": "산야, 평지, 하천변, 번식기에는 깊은 산림",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "5~6월 무렵 알을 낳는다."
+  },
+  "summary": "우리나라에서 겨울에 흔히 보이고 번식도 하며, 이동 시기에는 서해 섬에서 많이 관찰된다. 산야, 평지, 하천변에서 볼 수 있고 번식기에는 꽤 깊은 숲에 산다. 암수가 함께 또는 홀로 지내며 꿩, 비둘기, 오리처럼 날아다니는 새를 뒤쫓아 잡고 토끼, 청설모, 다람쥐 같은 작은 포유류도 먹는다. 큰 나무의 가지에 나뭇가지를 쌓아 땅에서 4~8m 높이에 접시 모양 둥지를 짓고, 5~6월 무렵 옅은 푸른색 알 2~4개를 낳는다.",
+  "points": [
+    {
+      "ko": "굵은 흰 눈썹선",
+      "en": "bold white supercilium"
+    },
+    {
+      "ko": "두꺼운 검은 눈선",
+      "en": "thick black eye-stripe"
+    },
+    {
+      "ko": "노란 홍채",
+      "en": "yellow iris"
+    },
+    {
+      "ko": "진한 청회색 윗면과 꼬리",
+      "en": "dark blue-grey upperparts and tail"
+    },
+    {
+      "ko": "흰 바탕에 흑갈색 가는 가로줄 가슴·배",
+      "en": "white breast and belly finely barred blackish-brown"
+    },
+    {
+      "ko": "짧고 넓은 날개와 긴 꼬리",
+      "en": "short, broad wings and long tail"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Goshawk (Accipiter gentilis), adult: bold white supercilium, thick black eye-stripe, yellow iris, dark blue-grey head, back, upperwings and tail, white breast and belly finely barred blackish-brown",
+    "pose": "perched on a stout branch, side view",
+    "scene": "Korean winter riverside: woodland bordering open fields along a stream; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white supercilium, black eye-stripe, yellow iris, blue-grey upperparts, finely barred white underparts",
+      "adult, flight from below: short broad wings, long tail, finely barred underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 참매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001605",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 참매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001605",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Astur gentilis)"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태 낱말(텃새·겨울철새 등)이 없어 status 를 TODO 로 둠(겨울에 흔히 보이고 번식도 한다고만 함)"
+  ]
+}

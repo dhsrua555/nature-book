@@ -1,0 +1,83 @@
+{
+  "id": "butastur-indicus",
+  "ko": "왕새매",
+  "sci": "Butastur indicus",
+  "author": "Gmelin, 1788",
+  "en": "Grey-faced Buzzard",
+  "ktsn": 120000001607,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새, 드물게 번식",
+  "habitat": "숲, 농경지, 개활지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "봄과 가을에 지나가며, 알 낳는 시기는 5~6월이다."
+  },
+  "summary": "봄과 가을에 우리나라를 지나가는 나그네새이며, 드물게 번식하기도 한다. 숲, 농경지, 트인 땅에서 관찰된다. 큰 나무의 가지 위에 마른 나뭇가지로 접시 모양 둥지를 짓고, 5~6월에 푸른빛이 도는 흰 알 2~4개를 낳는다. 아시아 동부 온대, 아무르 남부, 우수리, 일본, 만주, 중국에 분포하며 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "이마부터 윗꼬리덮깃까지 갈색",
+      "en": "brown from forehead to uppertail coverts"
+    },
+    {
+      "ko": "뒷머리·뒷목 깃의 흰 부분",
+      "en": "white in the hindcrown and hindneck feathers"
+    },
+    {
+      "ko": "기부는 노랗고 끝은 검은 부리",
+      "en": "bill yellow at the base with a black tip"
+    },
+    {
+      "ko": "녹슨 갈색 윗가슴",
+      "en": "rusty-brown upper breast"
+    },
+    {
+      "ko": "아랫가슴·배·옆구리의 넓은 가로띠",
+      "en": "broad brown-and-white bars on lower breast, belly and flanks"
+    },
+    {
+      "ko": "어두운 노란색 다리",
+      "en": "dull yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey-faced Buzzard (Butastur indicus), adult: brown from forehead to uppertail coverts, white in the hindcrown and hindneck feathers, rusty-brown upper breast, broad brown-and-white bars on lower breast, belly and flanks, bill yellow at the base with a black tip, dull yellow legs",
+    "pose": "perched on a branch at a forest edge overlooking farmland",
+    "scene": "Korean spring migration: woodland edge beside open farmland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: brown upperparts, rusty-brown upper breast, yellow-based black-tipped bill, dull yellow legs",
+      "adult, front view perched: broad brown-and-white barring on lower breast, belly and flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 왕새매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001607",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 왕새매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001607",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 윗가슴 깃 끝 '어두운 흰색', 아랫면 '붉은 녹색을 띤 갈색'은 뜻이 어색해 각각 빼거나 갈색으로만 옮김(확인 필요)"
+  ]
+}

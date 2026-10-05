@@ -1,0 +1,91 @@
+{
+  "id": "monticola-solitarius",
+  "ko": "바다직박구리",
+  "sci": "Monticola solitarius",
+  "author": "Linnaeus, 1758",
+  "en": "Blue Rock Thrush",
+  "ktsn": 120000002132,
+  "origin": "nibr",
+  "length": "약 25cm",
+  "status": "흔한 텃새",
+  "habitat": "해안과 내륙의 바위 절벽, 암벽·암초·벼랑의 틈, 건물 틈",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6
+    ],
+    "note": "5~6월에 알을 낳는다."
+  },
+  "summary": "해안과 내륙의 바위 절벽에 사는 흔한 텃새로, 기후에 따라 옮겨 다니기도 하고 한곳에 머물기도 한다. 암수가 저마다 홀로 지내며 일정한 세력권을 차지하고, 갈라진 암벽이나 암초의 틈, 벼랑의 구멍, 건물 틈에서 산다. 5~6월에 알 5~6개를 낳으며, 곤충과 이각류·십각류 같은 갑각류, 복족류 연체동물을 먹는다. 국내 전역에 살고 국외에서는 일본, 에스파냐에 분포한다.",
+  "points": [
+    {
+      "ko": "남청색 머리와 멱",
+      "en": "deep blue head and throat"
+    },
+    {
+      "ko": "남청색 윗가슴과 등",
+      "en": "deep blue upper breast and back"
+    },
+    {
+      "ko": "청흑색 아랫가슴·날개·꼬리",
+      "en": "blue-black lower breast, wings and tail"
+    },
+    {
+      "ko": "적갈색 배",
+      "en": "chestnut belly"
+    },
+    {
+      "ko": "어두운 갈색 다리",
+      "en": "dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리·멱·윗가슴·등은 남청색, 아랫가슴·날개·꼬리는 청흑색, 배는 적갈색이며 부리는 검은빛이다.",
+    "female": "등은 회갈색, 꼬리는 흑갈색, 배는 어두운 황갈색이며 부리는 갈색빛이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Blue Rock Thrush (Monticola solitarius), adult male: deep blue head, throat, upper breast and back, blue-black lower breast, wings and tail, chestnut belly, blackish bill, brown iris, dark brown legs",
+    "pose": "perched on a rock ledge, side view",
+    "scene": "Korean rocky sea cliff with cracks and crevices above the shore; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: deep blue head, throat, upper breast and back, blue-black wings and tail, chestnut belly, blackish bill, dark brown legs",
+      "adult female, side view perched: grey-brown back, blackish-brown tail, dark buff-brown belly, brownish bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바다직박구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002132",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바다직박구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002132",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

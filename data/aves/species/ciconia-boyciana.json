@@ -1,0 +1,74 @@
+{
+  "id": "ciconia-boyciana",
+  "ko": "황새",
+  "sci": "Ciconia boyciana",
+  "author": "Swinhoe, 1873",
+  "en": "Oriental Stork",
+  "ktsn": 120000001511,
+  "origin": "nibr",
+  "length": "약 112cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "논, 하천, 호수",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "적은 수가 겨울에 날아오며, 인공 증식 후 방사한 개체 가운데 일부는 연중 관찰된다."
+  },
+  "summary": "적은 수가 겨울에 찾아오는 매우 드문 겨울철새로, 논, 하천, 호수에서 어류, 개구리, 들쥐 따위를 잡아먹는다. 예전에는 전국에서 번식하는 텃새이자 겨울철새였으나, 지금은 야생 개체가 국내에서 번식하지 않고 천수만, 해남, 제주도, 순천만, 낙동강 하구 등지에 겨울에 날아온다. 최근 인공 증식으로 방사한 개체가 충남 일부 지역에서 번식한 기록이 있고, 그 가운데 일부는 연중 국내에서 보인다. 세계적으로는 시베리아, 연해주 남부, 중국 동북부에 분포한다.",
+  "points": [
+    {
+      "ko": "매우 큰 검은 부리",
+      "en": "massive black bill"
+    },
+    {
+      "ko": "옅은 노란 홍채, 붉은 눈 주위",
+      "en": "pale yellow iris and red skin around the eye"
+    },
+    {
+      "ko": "검은 날개를 뺀 흰 몸",
+      "en": "white plumage with black wings"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Stork (Ciconia boyciana), adult: white plumage with black wings, very large black bill, pale yellow iris, red skin around the eye, red legs",
+    "pose": "walking slowly through a harvested paddy, hunting for fish and frogs",
+    "scene": "Korean winter farmland: harvested rice paddies and a shallow stream near a broad estuary; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white body, black wings, very large black bill, red legs",
+      "adult, head detail: pale yellow iris, red skin around the eye, massive black bill",
+      "adult, in flight: white body and black wings"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 황새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001511",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 황새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001511",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

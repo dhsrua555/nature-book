@@ -1,0 +1,73 @@
+{
+  "id": "charadrius-alexandrinus",
+  "ko": "흰물떼새",
+  "sci": "Charadrius alexandrinus",
+  "author": "Linnaeus, 1758",
+  "en": "Kentish Plover",
+  "ktsn": 120000155049,
+  "origin": "nibr",
+  "length": "17.5cm",
+  "status": "흔한 나그네새, 일부는 지역적으로 번식하거나 월동",
+  "habitat": "해안 모래밭, 염전, 갯벌, 휴경지, 모래가 발달한 강 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "흔한 나그네새로, 일부 무리는 해안 모래밭, 휴경지, 염전 주변, 모래가 많은 강 하구 등에서 지역적으로 번식하고 일부는 겨울도 난다. 해안 모래밭이나 염전, 갯벌 등에 살며, 빠르게 뛰다가 멈춰 갯지렁이나 작은 갑각류를 잡고 다시 달려가는 행동을 되풀이한다. 모래땅을 오목하게 판 둥지에 옅은 갈색 바탕에 검은 무늬가 있는 알 3개를 낳고, 암수가 번갈아 24~26일 동안 품는다. 북반구 온대에서 번식하고 겨울에는 남쪽으로 옮겨 간다.",
+  "points": [
+    {
+      "ko": "수컷의 적갈색 머리 위",
+      "en": "rufous crown (male)"
+    },
+    {
+      "ko": "이마 위의 검은 무늬",
+      "en": "black patch above the forehead"
+    },
+    {
+      "ko": "폭이 좁은 검은 눈선",
+      "en": "narrow black eye-stripe"
+    },
+    {
+      "ko": "가운데서 끊긴 윗가슴 옆 검은 무늬",
+      "en": "black breast-side patches not meeting in the centre"
+    },
+    {
+      "ko": "분홍빛 도는 검은 다리",
+      "en": "blackish legs tinged pink"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Kentish Plover (Charadrius alexandrinus), adult male: rufous crown with a black patch above the forehead, narrow black eye-stripe, black patches on the sides of the upper breast that do not meet in the centre, pinkish-black legs",
+    "pose": "running across wet sand, pausing to pick at a small crustacean",
+    "scene": "Korean coastal sand beach beside a tidal mudflat and salt pans; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: rufous crown, black forehead patch, narrow black eye-stripe, broken black breast-side patches, pinkish-black legs",
+      "adult male, front view: black breast-side patches separated in the middle"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155049",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155049",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Anarhynchus alexandrinus)"
+    }
+  ],
+  "todo": []
+}

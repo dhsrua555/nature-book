@@ -1,0 +1,95 @@
+{
+  "id": "sitta-europaea",
+  "ko": "동고비",
+  "sci": "Sitta europaea",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Nuthatch",
+  "ktsn": 120000002074,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "잡목림, 침엽수림, 혼효림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "4~6월에 알을 낳는다."
+  },
+  "summary": "잡목림, 침엽수림, 혼효림에 사는 흔한 텃새이다. 혼자 또는 암수가 함께 지내다가 번식이 끝나면 다른 새들과 섞여 숲속을 돌며 먹이를 찾는다. 곤충과 거미, 여러 씨앗과 열매를 먹으며, 4~6월에 알을 7개 낳는다. 전국에 살고, 국외에서는 아무르 남부, 우수리, 만주, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "뚜렷한 검은 눈선",
+      "en": "bold black eye-stripe"
+    },
+    {
+      "ko": "머리 길이만 한 길고 곧은 부리",
+      "en": "long straight bill, as long as the head"
+    },
+    {
+      "ko": "청회색 윗면",
+      "en": "blue-grey upperparts"
+    },
+    {
+      "ko": "흰 뺨·멱·가슴",
+      "en": "white cheeks, throat and breast"
+    },
+    {
+      "ko": "황갈색 배",
+      "en": "buff belly"
+    },
+    {
+      "ko": "배 옆의 갈색·밤색 얼룩점",
+      "en": "brown and chestnut spots on the belly sides"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Nuthatch (Sitta europaea), adult in winter plumage: blue-grey upperparts from crown to uppertail coverts, bold black eye-stripe, smoky reddish white where the forehead meets the bill, white chin, cheeks, ear coverts, throat and breast (breast sometimes washed reddish-yellow), buff belly with brown and chestnut spots on the sides, long straight bill as long as the head",
+    "pose": "perched on a branch in mixed woodland, searching for insects",
+    "scene": "Korean mixed conifer and broadleaf woodland in winter; no people, buildings or text",
+    "views": [
+      "adult winter plumage, side view perched: blue-grey upperparts, black eye-stripe, white throat and breast, buff belly with brown and chestnut spots on the sides, long straight bill",
+      "adult summer plumage, side view: same pattern but worn and faded overall"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 동고비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002074",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 동고비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002074",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

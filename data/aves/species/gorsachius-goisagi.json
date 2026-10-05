@@ -1,0 +1,82 @@
+{
+  "id": "gorsachius-goisagi",
+  "ko": "붉은해오라기",
+  "sci": "Gorsachius goisagi",
+  "author": "Temminck, 1836",
+  "en": "Japanese Night Heron",
+  "ktsn": 120000001530,
+  "origin": "nibr",
+  "length": "약 49cm",
+  "status": "TODO",
+  "habitat": "숲이 있는 해안 섬, 침엽수림 속 어두운 계곡, 연못가",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식은 주로 5월 말~6월에 시작한다."
+  },
+  "summary": "제주도, 부산, 하태도, 금오도 등 남해안 일부 섬에 간혹 나타나는 철새이다. 홀로 지내 눈에 잘 띄지 않으며, 숲이 있는 해안 섬에서 땅속 벌레나 곤충, 달팽이, 물고기 따위를 먹는 모습이 가끔 보인다. 삼나무 같은 침엽수가 자란 어두운 계곡이나 연못가에 내려 먹이를 찾고, 밤에는 먼 거리를 날아다니거나 땅 위를 조용히 걷는다. 둥지는 땅에서 7~20m 높이의 나무 위에 지으며, 세계적으로는 일본과 러시아에 분포한다.",
+  "points": [
+    {
+      "ko": "노란 눈앞과 홍채",
+      "en": "yellow lores and iris"
+    },
+    {
+      "ko": "짧고 두툼한 부리",
+      "en": "short, thick bill"
+    },
+    {
+      "ko": "앞목 가운데의 어두운 갈색 줄",
+      "en": "dark brown stripe down the centre of the foreneck"
+    },
+    {
+      "ko": "붉은 갈색을 띤 몸",
+      "en": "rufous-brown plumage overall"
+    },
+    {
+      "ko": "날 때 날개 가운데의 굵은 검은 띠",
+      "en": "broad black band across the middle of the wing in flight"
+    },
+    {
+      "ko": "황록색 다리",
+      "en": "yellowish-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Night Heron (Gorsachius goisagi), adult: reddish-brown plumage overall, short thick bill, yellow lores, yellow iris, dark brown stripe down the centre of the foreneck, broad black band across the middle of the wing, yellowish-green legs",
+    "pose": "walking quietly on the forest floor near water, side view",
+    "scene": "Korean southern coastal island: a dark conifer-lined ravine with a small pond; no people, buildings or text",
+    "views": [
+      "adult, side view standing: reddish-brown body, short thick bill, yellow lores, dark foreneck stripe, yellowish-green legs",
+      "adult, in flight: broad black band across the middle of the wing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001530",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001530",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 국내 상태를 '간혹 나타나는 철새'라고만 적어 여름철새·나그네새 등 어느 것인지 알 수 없어 status 를 TODO로 둠"
+  ]
+}

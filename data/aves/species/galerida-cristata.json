@@ -1,0 +1,72 @@
+{
+  "id": "galerida-cristata",
+  "ko": "뿔종다리",
+  "sci": "Galerida cristata",
+  "author": "Linnaeus, 1758",
+  "en": "Crested Lark",
+  "ktsn": 120000002004,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "매우 드문 텃새",
+  "habitat": "자갈이 많은 건조한 개활지",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "우리나라에서는 매우 드문 텃새로, 자갈이 많고 메마른 트인 땅에 산다. 곤충이나 식물 씨앗을 주로 먹는다. 우리나라를 비롯해 세계 곳곳에서 개체 수가 줄고 있다.",
+  "points": [
+    {
+      "ko": "앉으면 머리 위에 뾰족이 솟는 깃",
+      "en": "pointed crest raised on the crown when perched"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Crested Lark (Galerida cristata), adult: pointed crest raised on the crown",
+    "pose": "standing on gravelly ground with crest raised, side view",
+    "scene": "Korean dry open ground strewn with gravel; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pointed crest raised on the crown",
+      "adult, head detail: pointed crest"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뿔종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002004",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뿔종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002004",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

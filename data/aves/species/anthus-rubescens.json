@@ -1,0 +1,78 @@
+{
+  "id": "anthus-rubescens",
+  "ko": "밭종다리",
+  "sci": "Anthus rubescens",
+  "author": "Tunstall, 1771",
+  "en": "American Pipit",
+  "ktsn": 120000002183,
+  "origin": "nibr",
+  "length": "약 16cm",
+  "status": "겨울철새(월동하거나 통과)",
+  "habitat": "논, 초지, 해안, 하천",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "겨울에 찾아와 머물거나 지나간다."
+  },
+  "summary": "겨울에 찾아와 머물거나 지나가는 겨울철새로, 논과 풀밭, 해안, 하천에서 지낸다. 몸집이 작고 날씬하며 꼬리와 다리가 길다. 무리를 지어 다니며 풀씨와 곤충을 먹는다. 북반구 고위도에서 번식하고, 겨울에는 우리나라와 중국 동남부, 일본, 미국 남부, 멕시코 등지에서 지낸다.",
+  "points": [
+    {
+      "ko": "둘레보다 옅은 눈앞",
+      "en": "pale lores"
+    },
+    {
+      "ko": "아랫부리 기부의 분홍빛",
+      "en": "pinkish base to lower mandible"
+    },
+    {
+      "ko": "뚜렷한 턱선",
+      "en": "distinct malar stripe"
+    },
+    {
+      "ko": "희미한 줄무늬가 있는 갈색 윗면",
+      "en": "brown upperparts with faint streaks"
+    },
+    {
+      "ko": "검은 줄무늬가 있는 흰 아랫면",
+      "en": "white underparts streaked black"
+    },
+    {
+      "ko": "붉은 살구색 다리",
+      "en": "reddish flesh-coloured legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "American Pipit (Anthus rubescens), adult winter: small and slim with a long tail and long legs, brown head and upperparts with faint streaks, pale lores, distinct malar stripe, white underparts with black streaks, pinkish base to the lower mandible, reddish flesh-coloured legs",
+    "pose": "walking on a paddy bund, picking seeds and insects, a small flock nearby",
+    "scene": "Korean winter rice paddies: harvested stubble fields beside a river; no people, buildings or text",
+    "views": [
+      "adult winter, side view on ground: faintly streaked brown upperparts, white underparts streaked black, long tail, reddish flesh-coloured legs",
+      "head detail: pale lores, distinct malar stripe, pinkish base to lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002183",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002183",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "thalasseus-bergii",
+  "ko": "큰제비갈매기",
+  "sci": "Thalasseus bergii",
+  "author": "M.H.C.Lichtenstein, 1823",
+  "en": "Greater Crested Tern",
+  "ktsn": 120000081107,
+  "origin": "nibr",
+  "length": "약 46cm",
+  "status": "미조",
+  "habitat": "섬, 바닷가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 서해의 무인도에서 한 번 잡힌 기록만 있는 미조로, 섬과 바닷가에 산다. 바다 위를 천천히 날다가 먹이를 발견하면 재빠르게 내리꽂혀 낚아챈다. 열대 지방에 분포하며, 타이완 등 동아시아, 남아프리카 열대 지방, 오스트레일리아 등지의 해안에서 볼 수 있다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "black cap"
+    },
+    {
+      "ko": "흰 얼굴",
+      "en": "white face"
+    },
+    {
+      "ko": "누런 부리",
+      "en": "yellowish bill"
+    },
+    {
+      "ko": "회색빛 도는 갈색 등",
+      "en": "greyish-brown back"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater Crested Tern (Thalasseus bergii), adult: black cap, white face and underparts, greyish-brown back, yellowish bill, black legs",
+    "pose": "flying slowly low over the sea, about to plunge onto prey",
+    "scene": "Korean west coast: uninhabited rocky island and open sea; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black cap, white face and underparts, greyish-brown back, yellowish bill, black legs",
+      "adult in flight over the sea: black cap, white underparts, yellowish bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000081107",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000081107",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

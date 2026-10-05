@@ -1,0 +1,77 @@
+{
+  "id": "phalaropus-lobatus",
+  "ko": "지느러미발도요",
+  "sci": "Phalaropus lobatus",
+  "author": "Linnaeus, 1758",
+  "en": "Red-necked Phalarope",
+  "ktsn": 120000001750,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "나그네새",
+  "habitat": "강어귀, 바닷가, 먼바다, 작은 연못, 논, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라를 지나가는 나그네새로, 강어귀와 바닷가, 먼바다에서 지내고 작은 연못이나 논, 습지에서도 산다. 크고 작은 떼를 지어 다니며 물속에 사는 곤충, 연체동물, 갑각류 등을 주로 먹는다. 알은 한배에 4~7개를 낳으며, 국내에서는 성진, 만포 등지를 거쳐 간다.",
+  "points": [
+    {
+      "ko": "어두운 석판색 등(암컷 여름깃)",
+      "en": "dark slate upperparts (breeding female)"
+    },
+    {
+      "ko": "윗등의 모래빛 살구색 세로무늬",
+      "en": "sandy-buff stripes on the mantle"
+    },
+    {
+      "ko": "가장자리가 흰 검은 석판색 허리",
+      "en": "blackish-slate lower back, rump and uppertail coverts fringed white"
+    },
+    {
+      "ko": "흰 앞머리와 배(겨울깃)",
+      "en": "white forehead and underparts (winter)"
+    },
+    {
+      "ko": "연한 회색 등(겨울깃)",
+      "en": "pale grey upperparts (winter)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름깃이 암컷보다 덜 화려하다.",
+    "female": "여름깃은 등이 어두운 석판색이고 윗등에 모래빛 살구색 세로무늬가 있으며, 아래등·허리·위꼬리덮깃은 검은 석판색에 가장자리가 희다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-necked Phalarope (Phalaropus lobatus), adult female breeding: dark slate upperparts with sandy-buff stripes on the mantle, blackish-slate lower back, rump and uppertail coverts with white fringes",
+    "pose": "swimming on calm water, side view",
+    "scene": "Korean estuary during autumn migration, calm open water near the shore; no people, buildings or text",
+    "views": [
+      "adult female breeding, side view swimming: dark slate upperparts with sandy-buff mantle stripes",
+      "adult winter, side view swimming: pale grey upperparts, white forehead and underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 지느러미발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001750",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 지느러미발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001750",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 겨울깃 등을 연한 회색이라 한 바로 뒤에 '몸 윗면은 검은색, 목과 가슴은 붉은 회색을 띤 회갈색'이라 적어 어느 깃의 설명인지 불분명해 쓰지 않았다."
+  ]
+}

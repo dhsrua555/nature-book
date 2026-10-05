@@ -1,0 +1,92 @@
+{
+  "id": "dendrocopos-leucotos",
+  "ko": "큰오색딱다구리",
+  "sci": "Dendrocopos leucotos",
+  "author": "Bechstein, 1803",
+  "en": "White-backed Woodpecker",
+  "ktsn": 120000001910,
+  "origin": "nibr",
+  "length": "약 25–28cm",
+  "status": "흔하지 않은 텃새",
+  "habitat": "낙엽활엽수림, 아고산대의 침엽활엽혼효림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "알은 4월 하순부터 낳는다."
+  },
+  "summary": "전국에서 볼 수 있으나 흔하지 않은 텃새로, 낙엽활엽수림이나 아고산대의 침엽수와 활엽수가 섞인 숲에 산다. 홀로 또는 암수가 함께 지내며, 나무줄기에 손수 구멍을 뚫어 둥지로 쓴다. 4월 하순부터 한배에 알 3~5개를 낳는다. 곤충을 주로 먹고 다족류와 여러 식물의 열매도 먹는다.",
+  "points": [
+    {
+      "ko": "붉은 머리꼭대기와 뒷머리(수컷)",
+      "en": "red crown and nape (male)"
+    },
+    {
+      "ko": "머리 옆의 가는 검은 선",
+      "en": "thin black line along the side of the head"
+    },
+    {
+      "ko": "황갈색 기가 도는 흰 얼굴",
+      "en": "buff-white lores, eye surround and ear coverts"
+    },
+    {
+      "ko": "납빛 회색 부리",
+      "en": "lead-grey bill"
+    },
+    {
+      "ko": "녹슨 빛이 도는 흰 멱과 목 옆",
+      "en": "whitish chin, throat and neck sides washed yellowish-rusty"
+    },
+    {
+      "ko": "어두운 납빛 회색 다리",
+      "en": "dark lead-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기와 뒷머리가 붉고, 이마는 황갈색 기가 도는 흰색이다.",
+    "female": "머리꼭대기와 뒷머리가 붉지 않고 검다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-backed Woodpecker (Dendrocopos leucotos), adult male: buff-white forehead, red crown and nape, thin black line along the side of the head, buff-white lores, eye surround and ear coverts, whitish chin, throat and neck sides washed yellowish-rusty, lead-grey bill with buff-white, black-tipped nasal bristles, reddish-brown iris, dark lead-grey legs",
+    "pose": "clinging to a tree trunk, chiselling out a nest hole with its bill",
+    "scene": "Korean deciduous broadleaf forest grading into subalpine mixed conifer-broadleaf woods in spring; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: red crown and nape, buff-white face, thin black line on the side of the head, whitish throat, lead-grey bill, dark lead-grey legs",
+      "adult female, head detail: black crown and nape instead of red"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰오색딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001910",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰오색딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001910",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

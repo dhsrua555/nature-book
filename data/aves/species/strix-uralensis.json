@@ -1,0 +1,76 @@
+{
+  "id": "strix-uralensis",
+  "ko": "긴점박이올빼미",
+  "sci": "Strix uralensis",
+  "author": "Pallas, 1771",
+  "en": "Ural Owl",
+  "ktsn": 120000001862,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "텃새",
+  "habitat": "산림, 백두산 고산 지대",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "밤에 활동하는 텃새로, 백두산 고산 지대에 사는 것으로 알려져 있다. 강원도와 경기도에서 자주 관찰되고 충청도에서도 관찰된 적이 있다. 산림 개발로 서식지가 줄고 조각나면서 위협받고 있다.",
+  "points": [
+    {
+      "ko": "엷은 황갈색 깃털",
+      "en": "pale buff-brown plumage"
+    },
+    {
+      "ko": "깃 끝의 흰 얼룩무늬",
+      "en": "white blotches at the feather tips"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ural Owl (Strix uralensis), adult: pale buff-brown plumage with scattered white blotches at the feather tips",
+    "pose": "perched upright on a branch at dusk",
+    "scene": "Korean mountain forest; no people, buildings or text",
+    "views": [
+      "adult, side view perched: pale buff-brown with scattered white blotches",
+      "adult, plumage detail: white spots at the tips of buff-brown feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴점박이올빼미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001862",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴점박이올빼미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001862",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

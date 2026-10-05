@@ -1,0 +1,78 @@
+{
+  "id": "eophona-migratoria",
+  "ko": "밀화부리",
+  "sci": "Eophona migratoria",
+  "author": "Hartert, 1903",
+  "en": "Chinese Grosbeak",
+  "ktsn": 120000002210,
+  "origin": "nibr",
+  "length": "17cm",
+  "status": "흔한 여름철새",
+  "habitat": "공원, 산림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "공원이나 산림의 큰키나무에서 번식하는 흔한 여름철새로, 전국에서 볼 수 있다. 그다지 높지 않은 가지 위에 밥그릇 모양 둥지를 틀고, 옅은 푸른 바탕에 어두운 갈색 점이 있는 알을 3~5개 낳는다. 큰키나무와 떨기나무의 여러 씨앗과 열매를 주로 먹고 곤충도 먹는다. 세계적으로는 중국, 홍콩, 일본, 라오스, 미얀마, 러시아, 타이완, 태국, 베트남에 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 검은 엷은 주황색 부리",
+      "en": "pale orange bill with a black tip"
+    },
+    {
+      "ko": "광택 있는 검은 머리와 뺨(수컷)",
+      "en": "glossy black head and cheeks (male)"
+    },
+    {
+      "ko": "회갈색 뒷목과 등",
+      "en": "grey-brown nape and back"
+    },
+    {
+      "ko": "흰 날개깃 끝과 첫째날개덮깃",
+      "en": "white tips to flight feathers and white primary coverts"
+    },
+    {
+      "ko": "담황색 가슴과 배",
+      "en": "pale buff-yellow breast and belly"
+    },
+    {
+      "ko": "엷은 회색 허리와 검은 꼬리",
+      "en": "pale grey rump and black tail"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 뺨이 광택 있는 검은색이다.",
+    "female": "머리와 등이 회갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Grosbeak (Eophona migratoria), adult male: pale orange bill with a black tip, glossy black head and cheeks, grey-brown hindneck and back, glossy black wings with white primary coverts and white tips to the flight feathers, pale buff-yellow breast and belly, pale grey rump, black tail",
+    "pose": "perched on a branch, eating seeds",
+    "scene": "Korean summer park or forest with tall broadleaf trees; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black-tipped pale orange bill, glossy black head and wings, grey-brown back, pale buff-yellow underparts, black tail",
+      "adult female, side view perched: grey-brown head and back, black-tipped pale orange bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 밀화부리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002210",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 밀화부리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002210",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

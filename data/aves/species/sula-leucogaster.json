@@ -1,0 +1,74 @@
+{
+  "id": "sula-leucogaster",
+  "ko": "갈색얼가니새",
+  "sci": "Sula leucogaster",
+  "author": "Boddaert, 1783",
+  "en": "Brown Booby",
+  "ktsn": 120000001562,
+  "origin": "nibr",
+  "length": "71–76cm",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "어른새는 온몸이 초콜릿빛 갈색이고 배와 날개 아랫면에만 흰 깃이 있는 새다. 얼굴, 부리, 다리의 색으로 암수를 가를 수 있다. 오래 사는 개체는 16년 정도까지 사는 것으로 알려져 있다.",
+  "points": [
+    {
+      "ko": "초콜릿빛 갈색 머리와 윗면",
+      "en": "chocolate-brown head and upperparts"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "흰 날개 아랫면",
+      "en": "white underwing"
+    },
+    {
+      "ko": "암수에 따라 다른 얼굴·부리·다리 색",
+      "en": "face, bill and leg colour differ between sexes"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "얼굴, 부리, 다리가 회색빛 도는 녹색이고 목은 푸른빛을 띤다.",
+    "female": "얼굴, 부리, 다리가 노란색이다."
+  },
+  "young": "어린새는 배와 날개 아랫면이 밝은 갈색인 점만 빼면 어른새와 비슷하다.",
+  "similar": [],
+  "art": {
+    "subject": "Brown Booby (Sula leucogaster), adult male: chocolate-brown overall with white belly and white underwing, greyish-green face, bill and legs, bluish throat",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "adult male, side view standing: chocolate-brown head and upperparts, white belly, greyish-green face, bill and legs, bluish throat",
+      "adult female, side view standing: chocolate-brown with white belly, yellow face, bill and legs",
+      "adult, flight from below: white belly and white underwing contrasting with the brown head, breast and flight feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 갈색얼가니새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001562",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 갈색얼가니새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001562",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '날개 길이 137~145cm'는 몸길이에 견주어 날개 편 길이로 보고 wingspan 에 넣었다(확인 필요)"
+  ],
+  "wingspan": "137–145cm"
+}

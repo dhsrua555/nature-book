@@ -1,0 +1,71 @@
+{
+  "id": "melanitta-americana",
+  "ko": "검둥오리",
+  "sci": "Melanitta americana",
+  "author": "Swainson, 1832",
+  "en": "Black Scoter",
+  "ktsn": 120000001463,
+  "origin": "nibr",
+  "length": "약 48cm",
+  "status": "비교적 드문 겨울철새",
+  "habitat": "해안, 하구, 먼바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~6월 상순에 알을 낳는다."
+  },
+  "summary": "겨울철 주로 동해안과 남해안에서 보이는 비교적 드문 겨울철새로, 해안과 하구, 먼바다에서 무리를 지어 지낸다. 잠수해 조개류와 갑각류 등을 먹고, 옮겨 다닐 때는 물 위를 낮게 난다. 번식기에는 유라시아 대륙 북부, 알래스카 서부, 아이슬란드, 뉴펀들랜드섬 등 아한대~한대 툰드라나 숲 지대의 민물 못, 호소, 하천에 살며, 풀숲 바닥에 풀잎과 줄기로 접시 모양 둥지를 틀고 알 8~10개를 낳는다. 유럽 연안, 아프리카 북서부 연안, 캄차카, 한국, 중국, 일본, 북미 해안에서 월동한다.",
+  "points": [
+    {
+      "ko": "수컷 부리 기부의 넓은 노란 혹",
+      "en": "male: broad yellow knob at the base of the black bill"
+    },
+    {
+      "ko": "암컷의 회갈색 얼굴·턱밑·목 옆",
+      "en": "female: grey-brown face, chin and neck sides"
+    },
+    {
+      "ko": "수컷의 온통 검은 몸",
+      "en": "male: entirely black plumage"
+    },
+    {
+      "ko": "암컷의 흑갈색 몸",
+      "en": "female: blackish-brown body"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 검고, 검은 부리 기부에 넓은 노란 혹이 있다.",
+    "female": "온몸이 흑갈색이고 얼굴, 턱밑, 목 옆은 회갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Scoter (Melanitta americana), adult male: entirely black plumage, black bill with a broad yellow knob at the base",
+    "pose": "riding the swell on the open sea as part of a loose flock",
+    "scene": "Korean winter East Sea coastline with open grey sea; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: all-black plumage, black bill with a broad yellow knob at the base",
+      "adult female, side view swimming: blackish-brown body, grey-brown face, chin and neck sides"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검둥오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001463",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검둥오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001463",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

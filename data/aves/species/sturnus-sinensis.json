@@ -1,0 +1,78 @@
+{
+  "id": "sturnus-sinensis",
+  "ko": "잿빛쇠찌르레기",
+  "sci": "Sturnus sinensis",
+  "author": "Gmelin, 1788",
+  "en": "White-shouldered Starling",
+  "ktsn": 120000002083,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "TODO",
+  "habitat": "나무 위, 큰 나무 밑동의 굴과 건물 틈(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "주로 나무 위에서 지내는 찌르레기로, 봄에 도래지에 오면 짝을 짓고 번식기에는 암수가 함께 지내다가 번식이 끝나면 무리를 이룬다. 큰 나무 밑동이 패어 생긴 굴이나 건물 틈에 둥지를 틀며, 여러 쌍이 한 건물에 함께 둥지를 짓기도 한다. 5~6월에 한배에 알을 4~5개 낳고, 먹이는 쇠찌르레기와 비슷하다. 동양구, 중국 남부, 인도차이나 북부에서 번식하고 인도차이나, 타이, 말레이반도, 하이난섬, 타이완 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "얼굴이 조금 갈색인 잿빛 흰 머리",
+      "en": "greyish-white head with a slightly brownish face"
+    },
+    {
+      "ko": "기부가 청색인 잿빛 부리",
+      "en": "grey bill with a blue base"
+    },
+    {
+      "ko": "잿빛 등과 잿빛 흰 허리",
+      "en": "grey back, greyish-white rump"
+    },
+    {
+      "ko": "청동색 광택의 검은 날개",
+      "en": "black wings with a bronze gloss"
+    },
+    {
+      "ko": "흰 배와 아래꽁지덮깃",
+      "en": "white belly and undertail coverts"
+    },
+    {
+      "ko": "청색 다리",
+      "en": "bluish legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-shouldered Starling (Sturnus sinensis), adult male in winter: greyish-white head, rump and uppertail coverts with a slightly brownish face, greyish-white throat, pale grey breast, white belly and undertail coverts, grey back, black flight feathers and greater coverts with a bronze gloss, black tail with cream feather edges, grey bill with a blue base, bluish-white iris, bluish legs",
+    "pose": "perched high in a tree, side view",
+    "scene": "Korean spring: the crown of a large tree with a hollow at the base of its trunk; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: greyish-white head, grey back, bronze-glossed black wings, white belly, grey bill with blue base, bluish legs",
+      "adult male, head detail: slightly brownish face, bluish-white iris, grey bill with blue base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 잿빛쇠찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000002083",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 잿빛쇠찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002083",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Sturnia sinensis)"
+    }
+  ],
+  "todo": []
+}

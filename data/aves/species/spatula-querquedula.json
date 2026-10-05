@@ -1,0 +1,75 @@
+{
+  "id": "spatula-querquedula",
+  "ko": "발구지",
+  "sci": "Spatula querquedula",
+  "author": "Linnaeus, 1758",
+  "en": "Garganey",
+  "ktsn": 120000528785,
+  "origin": "nibr",
+  "length": "약 38cm",
+  "status": "드문 겨울철새",
+  "habitat": "호소, 소택지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4월 하순~6월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라에 드물게 찾아오는 겨울철새로, 호수와 늪, 소택지에서 지낸다. 벼와 풀씨, 물속 곤충, 갑각류 등을 먹는다. 온대에서 아한대에 걸친 지역에서 번식하며, 물가 풀숲이나 숲속 땅 위에 풀로 둥지를 짓고 알 8~14개를 낳는다. 아시아, 유럽, 북아메리카에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷의 뚜렷한 흰 눈썹선",
+      "en": "male: bold white supercilium from above the eye to the upper neck"
+    },
+    {
+      "ko": "수컷의 검은 갈색 머리와 뒷목",
+      "en": "male: blackish-brown head and hindneck"
+    },
+    {
+      "ko": "암컷 부리 기부의 연한 얼룩",
+      "en": "female: pale mark at the base of the bill"
+    },
+    {
+      "ko": "수컷의 검은 갈색 등과 가슴",
+      "en": "male: blackish-brown back and breast"
+    },
+    {
+      "ko": "잿빛 도는 흰 아랫면",
+      "en": "male: greyish-white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 뒷목, 등, 가슴이 검은 갈색이고 눈 위에서 윗목까지 흰 눈썹선이 뚜렷하며, 아랫면은 잿빛을 띤 흰색이다.",
+    "female": "몸이 얼룩진 갈색이고 부리 기부에 연한 얼룩무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Garganey (Spatula querquedula), adult male: blackish-brown head, hindneck, back and breast, bold white supercilium running from above the eye to the upper neck, greyish-white underparts",
+    "pose": "dabbling at the edge of a marshy pond, side view",
+    "scene": "Korean winter: a reed-fringed pond and marsh; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: blackish-brown head, back and breast, bold white supercilium to the upper neck, greyish-white underparts",
+      "adult female, side view: mottled brown body, pale mark at the base of the bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 발구지",
+      "url": "https://species.nibr.go.kr/species-detail/120000528785",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 발구지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528785",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

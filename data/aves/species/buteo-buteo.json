@@ -1,0 +1,91 @@
+{
+  "id": "buteo-buteo",
+  "ko": "대륙말똥가리",
+  "sci": "Buteo buteo",
+  "author": "Linnaeus, 1758",
+  "en": "Common Buzzard",
+  "ktsn": 120000001609,
+  "origin": "nibr",
+  "length": "수컷 52cm, 암컷 56cm",
+  "status": "흔한 통과철새, 겨울철새",
+  "habitat": "경작지, 산림, 숲 가장자리",
+  "protect": [],
+  "months": {
+    "seen": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "9~10월부터 서해안 섬 지역에서 남하하는 무리가 보이고, 12월~이듬해 2월에 전국에서 월동하며, 북상하는 개체는 5월까지 관찰된다."
+  },
+  "summary": "한국 전역에 흔히 찾아와 지나가거나 겨울을 나는 맹금으로, 경작지와 산림, 숲 가장자리에 산다. 깃털 색은 개체마다 차이가 크다. 날개를 조금 들어 완만한 V자를 이룬 채 날고 정지비행도 하며, 주로 설치류를 잡지만 곤충, 양서·파충류, 새도 먹는다. 알은 보통 2~4개를 낳고, 유라시아와 아프리카에 널리 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 갈색 눈(어른새)",
+      "en": "dark brown eye (adult)"
+    },
+    {
+      "ko": "고르게 어두운 갈색인 윗면",
+      "en": "uniform dark brown upperparts"
+    },
+    {
+      "ko": "밝은 갈색 아랫면",
+      "en": "pale brown underparts"
+    },
+    {
+      "ko": "어두운 갈색 배와 옆구리",
+      "en": "dark brown belly and flanks"
+    },
+    {
+      "ko": "날개 아랫면의 암갈색 반점",
+      "en": "dark brown patches on the underwing"
+    },
+    {
+      "ko": "어두운 갈색 날개 끝",
+      "en": "dark brown wingtips"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸길이 52cm로 암컷보다 작다.",
+    "female": "몸길이 56cm로 수컷보다 크다."
+  },
+  "young": "어린새는 눈이 노란빛이 도는 갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Common Buzzard (Buteo buteo), adult: uniform dark brown upperparts, pale brown underparts with darker brown belly and flanks, dark brown wingtips and dark brown patches on the underwing, dark brown eye",
+    "pose": "soaring with wings held slightly raised in a shallow V",
+    "scene": "Korean winter farmland bordered by a woodland edge and low forested hills; no people, buildings or text",
+    "views": [
+      "adult, flight view from below: pale brown underparts, dark brown belly and flanks, dark brown underwing patches and wingtips",
+      "adult, side view perched: uniform dark brown upperparts, dark brown eye",
+      "juvenile, head detail: yellowish-brown eye"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 대륙말똥가리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001609",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 대륙말똥가리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001609",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "122–137cm"
+}

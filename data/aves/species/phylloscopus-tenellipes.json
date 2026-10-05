@@ -1,0 +1,80 @@
+{
+  "id": "phylloscopus-tenellipes",
+  "ko": "되솔새",
+  "sci": "Phylloscopus tenellipes",
+  "author": "Swinhoe, 1860",
+  "en": "Pale-legged Leaf Warbler",
+  "ktsn": 120000002051,
+  "origin": "nibr",
+  "length": "12cm",
+  "status": "나그네새",
+  "habitat": "침엽수림 속 흙 언덕, 낙엽활엽수림 속 언덕",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월경에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 전국을 지나가는 나그네새로, 침엽수림 속 흙 언덕의 깊은 구멍이나 낙엽활엽수림 속 언덕에서 지낸다. 암수가 함께 다니는 일이 많고, 이동할 때에도 무리를 이루지 않는다. 곤충을 주로 먹으며, 6월경에 알을 4~6개 낳는다. 국외에서는 구북구 동부, 사할린, 우수리, 쿠릴 열도, 홋카이도, 혼슈, 만주에 분포한다.",
+  "points": [
+    {
+      "ko": "흰색 또는 유백색 눈썹선",
+      "en": "white to creamy-white supercilium"
+    },
+    {
+      "ko": "황갈백색과 어두운 올리브색이 섞인 귀깃",
+      "en": "ear coverts mixed buffy white and dark olive"
+    },
+    {
+      "ko": "윗면보다 어두운 머리꼭대기",
+      "en": "crown darker than the rest of the upperparts"
+    },
+    {
+      "ko": "녹색 기 도는 올리브 갈색 등",
+      "en": "greenish olive-brown upperparts"
+    },
+    {
+      "ko": "붉은 갈색 기가 도는 허리",
+      "en": "rufous-tinged rump and uppertail coverts"
+    },
+    {
+      "ko": "엷은 살구색이나 엷은 갈색 다리",
+      "en": "pale flesh-coloured to pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pale-legged Leaf Warbler (Phylloscopus tenellipes), adult: greenish olive-brown upperparts with a darker crown, rufous-tinged rump and uppertail coverts, white to creamy-white supercilium, ear coverts mixed buffy white and dark olive, pale dark-brown tail with greenish olive-brown outer edges, dark brown iris, pale flesh-coloured to pale brown legs",
+    "pose": "perched low on a twig beside an earthen bank, side view",
+    "scene": "Korean deciduous broadleaf woodland with an earthen bank during spring or autumn passage; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white supercilium, darker crown, greenish olive-brown back, rufous-tinged rump, pale legs",
+      "adult, head detail: supercilium and ear coverts mottled buffy white and dark olive"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 되솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002051",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 되솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002051",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 사는 곳 '흙 언덕 깊은 동굴'은 둥지 자리를 말하는 것인지 확인이 필요하다"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mergus-squamatus",
+  "ko": "호사비오리",
+  "sci": "Mergus squamatus",
+  "author": "Gould, 1864",
+  "en": "Scaly-sided Merganser",
+  "ktsn": 120000001474,
+  "origin": "nibr",
+  "length": "약 57cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "물살이 빠른 하천, 강, 호수",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "물살이 빠른 하천이나 강, 호수에서 작은 무리를 지어 겨울을 나는 매우 드문 겨울철새이며, 잠수해 물고기를 잡아먹는다. 중국 동북부의 아무르강, 러시아의 우수리강 유역, 백두산 등 매우 좁은 지역에서 번식하고 중국 남부와 중부, 한국, 일본 등지에서 월동한다. 국내에는 강원도 철원의 하천, 북한강, 한강, 충남 대청호, 춘천 둘레의 북한강, 경남 진주 남강, 전남 화순 지석천, 구례 섬진강 둘레의 작은 하천 등에 적은 수가 찾아온다.",
+  "points": [
+    {
+      "ko": "길게 뻗은 뒷머리 댕기",
+      "en": "long, trailing crest on the hindcrown"
+    },
+    {
+      "ko": "수컷의 녹색 광택 검은 머리와 목",
+      "en": "male: green-glossed black head and neck"
+    },
+    {
+      "ko": "암컷의 연갈색 머리와 목",
+      "en": "female: pale brown head and neck"
+    },
+    {
+      "ko": "수컷의 흰 몸과 검은 등",
+      "en": "male: white body with a black back"
+    },
+    {
+      "ko": "옆구리의 뚜렷한 비늘무늬",
+      "en": "bold scaly pattern on the flanks"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 목은 녹색 광택이 도는 검은색, 몸은 흰색, 등은 검은색이다.",
+    "female": "머리와 목이 연한 갈색이고, 댕기가 수컷보다 짧으며 등은 회색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Scaly-sided Merganser (Mergus squamatus), adult male: green-glossed black head and neck with a long trailing crest, white body, black back, bold scaly markings on the flanks",
+    "pose": "swimming in a fast-flowing river, about to dive for fish",
+    "scene": "Korean winter river with a fast-flowing current; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: green-glossed black head and neck, long crest, white body, black back, scaly flanks",
+      "adult female, side view swimming: pale brown head and neck, shorter crest, grey back, scaly flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 호사비오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001474",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 호사비오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001474",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ardea-alba-alba",
+  "ko": "대백로",
+  "sci": "Ardea alba alba",
+  "author": "Linneaus, 1758",
+  "en": "Great Egret (alba)",
+  "ktsn": 120000094853,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "겨울철새",
+  "habitat": "논, 강, 하천, 호수, 저수지, 갯벌, 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "겨울에 우리나라를 찾아온다."
+  },
+  "summary": "중대백로의 아종으로, 겨울에 우리나라를 찾아오는 겨울철새이다. 논, 강과 하천, 호수, 저수지, 갯벌, 해안 등에서 주로 보이며, 함께 겨울을 나는 다른 백로류와 섞여 있기도 하다. 풀밭이나 물이 얕은 곳에서 물고기, 작은 양서류, 곤충, 물속 생물 등을 잡아먹는다. 목이 꽤 길어서 날 때나 먹이를 먹을 때 긴 목이 두드러진다.",
+  "points": [
+    {
+      "ko": "노란 부리와 눈앞 피부",
+      "en": "yellow bill and bare lores"
+    },
+    {
+      "ko": "매우 긴 목",
+      "en": "very long neck"
+    },
+    {
+      "ko": "온몸 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "경부가 연노랑·주황인 검은 다리",
+      "en": "black legs with pale yellow or orange tibiae"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "중대백로",
+      "how": "생김새는 비슷하지만 대백로는 겨울에 찾아오는 겨울철새이다."
+    },
+    {
+      "ko": "왜가리",
+      "how": "대백로가 왜가리보다 크다."
+    }
+  ],
+  "art": {
+    "subject": "Great Egret (Ardea alba alba), adult: all-white plumage, very long neck, yellow bill and yellow bare skin in front of the eye, black legs with pale yellow or orange tibiae",
+    "pose": "wading in shallow water with its long neck extended, hunting fish",
+    "scene": "Korean winter wetland: shallow reservoir edge beside harvested rice paddies, a few other wintering egrets nearby; no people, buildings or text",
+    "views": [
+      "adult, side view standing: all white, very long neck, yellow bill and lores, black legs with pale yellow-orange tibiae",
+      "adult in flight: all white, long neck noticeable"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 대백로",
+      "url": "https://species.nibr.go.kr/species-detail/120000094853",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 대백로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000094853",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

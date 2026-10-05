@@ -1,0 +1,81 @@
+{
+  "id": "grus-vipio",
+  "ko": "재두루미",
+  "sci": "Grus vipio",
+  "author": "Pallas, 1811",
+  "en": "White-naped Crane",
+  "ktsn": 120000001650,
+  "origin": "nibr",
+  "length": "약 127cm",
+  "status": "드문 겨울철새",
+  "habitat": "강 하구, 갯벌, 개활지, 논, 초습지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "드물게 찾아오는 겨울철새로, 강 하구, 갯벌, 개활지, 논, 초습지에서 지낸다. 겨울에는 어미새가 어린새와 가족 무리를 이루고, 이동 시기에는 여러 가족이 모여 큰 무리가 된다. 조개류와 곤충, 옥수수와 벼 낟알, 풀씨, 풀뿌리 등을 먹으며, 경계심이 아주 강해 사람이 다가오면 망을 보던 개체의 신호에 무리 전체가 목과 머리를 들고 날아오를 채비를 한다. 극동아시아에만 사는 종으로 몽골 동부와 러시아·중국 국경 지역에서 번식하고 중국 양쯔강 유역, 한국, 일본 이즈미에서 겨울을 나며, 국내에서는 철원에 가장 많고 한강 하구, 임진강 유역, 순천만, 구미 해평습지, 주남저수지, 낙동강 하구 등에서도 일부가 월동한다.",
+  "points": [
+    {
+      "ko": "눈 주위의 붉은 맨살",
+      "en": "bare red skin around the eye"
+    },
+    {
+      "ko": "흰 머리와 뒷목",
+      "en": "white head and hindneck"
+    },
+    {
+      "ko": "회색 앞목",
+      "en": "grey foreneck"
+    },
+    {
+      "ko": "회색 몸",
+      "en": "grey body"
+    },
+    {
+      "ko": "접은 날개를 덮는 흰 셋째날개깃",
+      "en": "white tertials covering the folded wing"
+    },
+    {
+      "ko": "검은 첫째·둘째날개깃",
+      "en": "black primaries and secondaries"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 머리꼭대기에서 뒷목까지 황갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "White-naped Crane (Grus vipio), adult: bare red skin around the eye, white head and hindneck, grey foreneck, grey body, black primaries and secondaries covered by white tertials when the wings are folded",
+    "pose": "standing alert with head raised in a harvested rice field",
+    "scene": "Korean winter harvested rice paddies near a river estuary and mudflats; no people, buildings or text",
+    "views": [
+      "adult, side view standing: red skin around the eye, white head and hindneck, grey foreneck and body, white tertials over the folded wing",
+      "adult, flight view: grey body with black primaries and secondaries",
+      "juvenile, side view: yellowish-brown crown and hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 재두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001650",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 재두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001650",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Antigone vipio)"
+    }
+  ],
+  "todo": []
+}

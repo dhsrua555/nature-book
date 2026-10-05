@@ -1,0 +1,70 @@
+{
+  "id": "streptopelia-tranquebarica",
+  "ko": "홍비둘기",
+  "sci": "Streptopelia tranquebarica",
+  "author": "Hermann, 1804",
+  "en": "Red Collared Dove",
+  "ktsn": 120000001827,
+  "origin": "nibr",
+  "length": "약 23cm",
+  "status": "TODO",
+  "habitat": "정글, 건조한 삼림 지대",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "정글과 건조한 삼림 지대에 사는 비둘기이다. 흰 알을 2개 낳아 14일 동안 품고, 깬 새끼를 2주 동안 기른다. 인도 북부와 서부, 티베트 북동부, 중국 남동부, 남인도, 버마, 샴, 인도차이나 남부, 필리핀 북부, 안다만 제도 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "녹회색 머리(수컷)",
+      "en": "greenish-grey head (male)"
+    },
+    {
+      "ko": "목의 검은 테(수컷)",
+      "en": "black collar on the neck (male)"
+    },
+    {
+      "ko": "짙은 와인빛 붉은 등과 날개(수컷)",
+      "en": "deep wine-red upper back and wings (male)"
+    },
+    {
+      "ko": "아래로 갈수록 옅어지는 붉은빛",
+      "en": "red fading paler towards the underparts"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리가 녹회색이고 목에 검은 테가 있으며, 윗등과 날개가 짙은 와인빛 붉은색이다.",
+    "female": "와인빛과 회색이 수컷보다 더 옅다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red Collared Dove (Streptopelia tranquebarica), adult male: greenish-grey head, black collar on the neck, deep wine-red upper back and wings, the red fading paler below",
+    "pose": "perched on a branch, side view",
+    "scene": "dry open woodland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: greenish-grey head, black collar, deep wine-red back and wings",
+      "adult female, side view perched: paler wine and grey tones than the male"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 홍비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001827",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 홍비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001827",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

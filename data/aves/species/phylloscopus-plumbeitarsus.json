@@ -1,0 +1,80 @@
+{
+  "id": "phylloscopus-plumbeitarsus",
+  "ko": "버들솔새",
+  "sci": "Phylloscopus plumbeitarsus",
+  "author": "Swinhoe, 1861",
+  "en": "Two-barred Warbler",
+  "ktsn": 120000002050,
+  "origin": "nibr",
+  "length": "약 11cm",
+  "status": "드문 나그네새",
+  "habitat": "산지의 침엽수림, 강가의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "6~7월에 알을 낳는다고 하나 번식 장소가 국내인지는 원문에 분명하지 않다."
+  },
+  "summary": "봄과 가을에 드물게 지나가는 나그네새이다. 여름에는 산지 침엽수림이나 강가 숲속에 살며 번식하고, 6~7월에 알을 5~6개 낳는다. 주로 곤충을 먹는다. 국내에서는 중부 이북에 살고, 국외에서는 시베리아, 몽골, 아무르, 우수리, 중국 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "조금 어두운 잿빛 머리꼭대기",
+      "en": "slightly darker greyish crown"
+    },
+    {
+      "ko": "엷은 황색과 어두운 갈색이 섞인 귀깃",
+      "en": "ear coverts mixed pale yellow and dark brown"
+    },
+    {
+      "ko": "어두운 갈색 윗부리, 황갈색 아랫부리",
+      "en": "dark brown upper mandible, yellowish-brown lower mandible"
+    },
+    {
+      "ko": "갈색 기 도는 올리브 녹색 윗면",
+      "en": "brownish olive-green upperparts"
+    },
+    {
+      "ko": "황색 기가 도는 멱과 가슴",
+      "en": "yellow-washed throat and breast"
+    },
+    {
+      "ko": "어두운 올리브색 목 옆과 옆구리",
+      "en": "dark olive neck sides and flanks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Two-barred Warbler (Phylloscopus plumbeitarsus), adult: brownish olive-green upperparts with a slightly darker greyish crown, browner uppertail coverts, ear coverts mixed pale yellow and dark brown, yellow-washed throat and breast, dark olive neck sides and flanks, pale dark-brown tail with faint cross-bars and olive-green outer edges, dark brown upper mandible, yellowish-brown lower mandible, dark brown iris",
+    "pose": "gleaning insects among conifer twigs, side view",
+    "scene": "Korean mountain conifer woods near a riverside thicket during spring or autumn passage; no people, buildings or text",
+    "views": [
+      "adult, side view perched: greyish crown, brownish olive-green upperparts, yellow-washed throat and breast, dark olive flanks",
+      "adult, head detail: pale-yellow-and-dark-brown ear coverts, dark brown upper and yellowish-brown lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 버들솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002050",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 버들솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002050",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 나그네새라 하면서 '여름철 산지 침엽수림·강가 숲에 살며 번식도 한다', '중부 이북에 서식'이라 해 국내 번식 여부가 분명하지 않아 months.breed 를 TODO로 두었다"
+  ]
+}

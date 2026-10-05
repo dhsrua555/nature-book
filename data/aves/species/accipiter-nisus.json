@@ -1,0 +1,80 @@
+{
+  "id": "accipiter-nisus",
+  "ko": "새매",
+  "sci": "Accipiter nisus",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Sparrowhawk",
+  "ktsn": 120000001604,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "겨울철새",
+  "habitat": "산지와 평지의 숲, 도시 인근 농경지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "5월 무렵 알을 낳는다."
+  },
+  "summary": "전국에서 관찰되는 겨울철새다. 번식기에는 조금 높은 산지나 평지의 숲속에 살고, 그 밖의 때에는 산림과 평지, 도시 가까운 농경지에서도 보인다. 작은 새와 작은 곤충, 다람쥐 등을 먹으며, 잡목림의 4~8m 넘는 높은 가지에 가는 나뭇가지를 접시 모양으로 쌓아 둥지를 짓고 5월 무렵 알 4~5개를 낳는다. 국외에서는 유럽, 아프리카, 러시아, 중국, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "희미한 흰 눈썹선(수컷)",
+      "en": "faint white supercilium (male)"
+    },
+    {
+      "ko": "검은 눈 주위(암컷)",
+      "en": "dark area around the eye (female)"
+    },
+    {
+      "ko": "어두운 회색 윗면(수컷)",
+      "en": "dark grey upperparts (male)"
+    },
+    {
+      "ko": "흰 바탕에 가는 적갈색 가로줄(수컷)",
+      "en": "white underparts finely barred rufous (male)"
+    },
+    {
+      "ko": "황갈색·흑갈색 가로띠 아랫면(암컷)",
+      "en": "white underparts barred buff and dark brown (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "윗면이 어두운 회색이고 눈 위로 희미한 흰 눈썹선이 있으며, 흰 아랫면에 가는 적갈색 가로줄이 있다.",
+    "female": "전체적으로 갈색이고 눈 주위가 검다. 턱 밑과 그 아래는 흰 바탕에 어두운 갈색 반점이 있고, 나머지 흰 아랫면에는 황갈색과 어두운 갈색 가로띠가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Sparrowhawk (Accipiter nisus), adult male: dark grey upperparts, faint white supercilium, white underparts finely barred rufous",
+    "pose": "perched on a branch in woodland, side view",
+    "scene": "Korean winter farmland edge: bare trees beside fields near a wooded hill; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey upperparts, faint white supercilium, white underparts with fine rufous bars",
+      "adult female, side view perched: brown upperparts, dark area around the eye, white throat spotted dark brown, white underparts barred buff and dark brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 새매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001604",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 새매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001604",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 겨울철새라 하면서 번식기 서식지와 5월 산란을 적어 국내 번식 여부가 불분명해 months.breed 를 TODO 로 둠"
+  ]
+}

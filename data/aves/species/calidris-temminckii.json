@@ -1,0 +1,76 @@
+{
+  "id": "calidris-temminckii",
+  "ko": "흰꼬리좀도요",
+  "sci": "Calidris temminckii",
+  "author": "Leisler, 1812",
+  "en": "Temminck's Stint",
+  "ktsn": 120000001734,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "흔한 나그네새",
+  "habitat": "하천 부지, 해안의 풀 습지, 간척지, 삼각주",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 상순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 중부 서해안 바닷가와 한강 같은 물가에서 작은 무리를 흔히 볼 수 있는 나그네새이다. 하천 부지, 해안의 풀 습지, 간척지, 삼각주 등에 내려앉아 단각류 같은 갑각류, 지렁이, 곤충과 바닷가의 작은 무척추동물을 잡아먹는다. 해안 초원이나 호숫가 풀숲, 바다에서 멀리 떨어진 고원 산지의 오목한 땅에 둥지를 틀고 한배에 알 4개를 낳는다. 구북구 전역에서 번식하고 한국, 일본, 쿠릴 열도, 타이완 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 얼룩과 녹슨 색 가장자리의 잿빛 갈색 머리",
+      "en": "grey-brown crown and nape with black spots and rusty fringes"
+    },
+    {
+      "ko": "흰 턱 밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "갈색 세로 얼룩이 있는 녹슨 크림색 목·가슴",
+      "en": "rusty-cream throat, neck and breast streaked dark brown"
+    },
+    {
+      "ko": "검은 얼룩이 있는 잿빛 갈색 등·어깨·허리",
+      "en": "grey-brown mantle, scapulars and rump with black spots"
+    },
+    {
+      "ko": "검은 부리와 엷은 갈색 다리",
+      "en": "black bill and pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Temminck's Stint (Calidris temminckii), adult male breeding: grey-brown crown, nape, mantle and scapulars with black spots and rusty feather edges, rusty-cream throat, neck and breast streaked dark brown, white chin, black bill, pale brown legs",
+    "pose": "foraging in a small group along a muddy riverbank",
+    "scene": "Korean riverside during spring migration: muddy bank and wet grassy margin of a wide river; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view standing: grey-brown upperparts with black spots and rusty edges, streaked rusty-cream breast, white chin, black bill, pale brown legs",
+      "adult male breeding, head detail: white chin, streaked rusty-cream throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰꼬리좀도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001734",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰꼬리좀도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001734",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 나그네새라 하면서 월동지에 한국을 넣는다(국내 월동 여부 확인 필요)."
+  ]
+}

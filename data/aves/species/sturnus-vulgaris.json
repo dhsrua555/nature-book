@@ -1,0 +1,75 @@
+{
+  "id": "sturnus-vulgaris",
+  "ko": "흰점찌르레기",
+  "sci": "Sturnus vulgaris",
+  "author": "Linnaeus, 1758",
+  "en": "Common Starling",
+  "ktsn": 120000002087,
+  "origin": "nibr",
+  "length": "약 22cm",
+  "status": "미조",
+  "habitat": "산이 없는 저지대, 황야, 바닷물이 드나드는 늪지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 천수만, 해남, 제주도 등지에서 관찰된 미조이다. 산이 없는 저지대, 황야, 바닷물이 드나드는 늪지 등에서 무리를 지어 살며, 곤충, 씨앗, 열매 등 가리지 않고 잘 먹는다. 번식기에는 나무, 건물, 옥상 등의 구멍이나 틈에 둥지를 짓고 때로 다른 새의 둥지를 빌려 쓰며, 수명은 15년 정도이다. 겨울에는 깃 끝이 가슴부터 흰색이나 크림색으로 바뀌어 흐린 검은 바탕에 반점이 흩어진 것처럼 보이는데, 이름이 여기서 왔다.",
+  "points": [
+    {
+      "ko": "번식기에 노랗게 바뀌는 검은 부리",
+      "en": "black bill, turning yellow in the breeding season"
+    },
+    {
+      "ko": "무지갯빛 녹색 광택의 목덜미·등·가슴",
+      "en": "iridescent green gloss on nape, back and breast"
+    },
+    {
+      "ko": "녹색·자주색 광택이 비치는 검은 날개",
+      "en": "black wings with a green or purple sheen"
+    },
+    {
+      "ko": "겨울깃 가슴부터의 흰색·크림색 반점",
+      "en": "winter: white to cream spots spreading from the breast"
+    },
+    {
+      "ko": "붉은 갈색 다리",
+      "en": "reddish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "가슴에 가늘고 긴 깃이 있고, 부리 기부에 파란 반점이 있다.",
+    "female": "가슴 깃이 짧고 단정하며, 부리 기부에 분홍색 얼룩이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Starling (Sturnus vulgaris), adult male in breeding season: iridescent green gloss on nape, back and breast, long narrow breast feathers, black wings showing a green or purple sheen, yellow bill with a blue spot at the base, blackish-brown iris, reddish-brown legs",
+    "pose": "walking on open ground, probing for food",
+    "scene": "Korean coastal lowland with a tidal salt marsh; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view: glossy iridescent green plumage, long narrow breast feathers, yellow bill with blue base, reddish-brown legs",
+      "adult female breeding, head and breast detail: yellow bill with pink base, short neat breast feathers",
+      "adult winter, side view: dull black plumage spotted white to cream from the breast, black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰점찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000002087",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰점찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002087",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

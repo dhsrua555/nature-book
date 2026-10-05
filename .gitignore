@@ -9,3 +9,4 @@ Thumbs.db
 
 # API 키
 .env
+cache/

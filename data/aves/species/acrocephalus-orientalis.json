@@ -1,0 +1,65 @@
+{
+  "id": "acrocephalus-orientalis",
+  "ko": "개개비",
+  "sci": "Acrocephalus orientalis",
+  "author": "Temminck & Schlegel, 1847",
+  "en": "Oriental Reed Warbler",
+  "ktsn": 120000155413,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "여름철새",
+  "habitat": "습지 가장자리의 갈대밭과 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "습지 가장자리의 갈대와 풀숲에 사는 여름철새로, 전국에 산다. 갈대나 부들 줄기를 서로 엮어 둥지를 만든다. 주로 갈대나 풀 속에서 지내다가 울 때는 갈대 끝에 올라 큰 소리로 우는데, 한곳에 여러 마리가 있기도 해서 한창 울 때는 수컷들의 소리가 많이 들린다. 국외에서는 러시아 연해주, 중국 동남부, 일본, 동남아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "고르게 옅은 갈색인 몸",
+      "en": "uniform pale brown plumage"
+    },
+    {
+      "ko": "더 옅은 아랫면과 흰빛의 배",
+      "en": "paler underparts with near-white belly"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수는 깃 색으로 구별하기 어렵다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Reed Warbler (Acrocephalus orientalis), adult: uniformly pale brown, white supercilium, paler underparts with a nearly white belly",
+    "pose": "singing loudly from the top of a reed stem, bill open",
+    "scene": "Korean summer reedbed at the edge of a marsh; no people, buildings or text",
+    "views": [
+      "adult, side view clinging to a reed stem: uniform pale brown, white supercilium, paler underparts",
+      "adult, singing from a reed top: bill wide open, whitish belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000155413",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155413",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

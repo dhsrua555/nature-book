@@ -1,0 +1,52 @@
+{
+  "id": "pernis-ptilorhynchus",
+  "ko": "벌매",
+  "sci": "Pernis ptilorhynchus",
+  "author": "Temminck, 1821",
+  "en": "Crested Honey Buzzard",
+  "ktsn": 120000001583,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "많은 수가 지나가는 나그네새, 드물게 번식",
+  "habitat": "숲 가장자리, 초지",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "봄과 가을 이동 시기에 많은 수가 지나간다."
+  },
+  "summary": "봄과 가을 이동철에 많은 수가 우리나라를 지나가는 나그네새로, 적은 수가 번식한 기록도 있다. 숲 가장자리나 풀밭에서 볼 수 있으며, 땅벌의 애벌레와 번데기, 어른벌레를 잡아먹는다. 둥지는 주로 까마귀류나 맹금류 같은 다른 새의 것을 쓴다. 산림이 훼손되면서 사는 곳이 줄어들 우려가 있다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched on a branch at the forest edge, side view",
+    "scene": "Korean autumn migration: a forest edge bordering open grassland; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 벌매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001583",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 벌매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001583",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

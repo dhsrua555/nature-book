@@ -1,0 +1,83 @@
+{
+  "id": "rostratula-benghalensis",
+  "ko": "호사도요",
+  "sci": "Rostratula benghalensis",
+  "author": "Linnaeus, 1758",
+  "en": "Greater Painted-snipe",
+  "ktsn": 120000001685,
+  "origin": "nibr",
+  "length": "약 23.5cm",
+  "status": "희귀한 나그네새, 겨울철새",
+  "habitat": "TODO",
+  "protect": [
+    "천연기념물"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄부터 가을 사이에 알을 낳는다."
+  },
+  "summary": "드물게 찾아오는 나그네새이자 겨울철새이다. 암컷이 구애하고 과시 행동을 하며, 봄부터 가을 사이에 한배에 알 4~6개를 낳아 수컷에게 품게 한 뒤 새 수컷과 다시 짝을 지어 알을 낳는다. 곤충, 조개, 지렁이와 볏과 식물, 여러 풀씨를 먹는 잡식성이다. 아프리카, 아시아, 오스트레일리아에 분포한다.",
+  "points": [
+    {
+      "ko": "이마에서 뒷머리까지 넓은 흰 정수리선",
+      "en": "broad white central crown stripe from forehead to hindcrown"
+    },
+    {
+      "ko": "눈 둘레의 반달 모양 흰 무늬",
+      "en": "bold white crescent around the eye"
+    },
+    {
+      "ko": "흰 멱과 아랫면",
+      "en": "white throat and underparts"
+    },
+    {
+      "ko": "검은 체크·세로무늬가 있는 녹갈색 등",
+      "en": "greenish-brown back with bold black chequering and streaks"
+    },
+    {
+      "ko": "기부가 녹색인 길고 붉은 부리",
+      "en": "long reddish bill with a green base"
+    },
+    {
+      "ko": "녹색 다리",
+      "en": "green legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "암컷보다 작고 빛깔이 덜 선명하며, 목과 윗가슴에 회색 세로무늬가 있다.",
+    "female": "수컷보다 크고 빛깔이 선명하다. 갈색 머리에 넓은 흰 정수리선이 있고 목과 윗가슴은 밤색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater Painted-snipe (Rostratula benghalensis), adult female: brown head with a broad white central crown stripe from forehead to hindcrown, bold white crescent-shaped mark around the eye, chestnut neck and upper breast, white throat and underparts, greenish-brown back with bold black chequering and streaks, long reddish bill with green base, green legs",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "adult female, side view standing: brown head with white crown stripe, white crescent around the eye, chestnut neck and upper breast, white underparts, greenish-brown back chequered black, long red bill, green legs",
+      "adult male, side view standing: smaller and duller than the female, grey streaks on neck and upper breast, greenish-brown back chequered black"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 호사도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001685",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 호사도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001685",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 국내 상태를 나그네새·겨울철새로만 적었는데 봄~가을 산란을 말하고 장소는 밝히지 않아, 국내 번식 여부 확인 필요"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "otis-tarda",
+  "ko": "느시",
+  "sci": "Otis tarda",
+  "author": "Linnaeus, 1758",
+  "en": "Great Bustard",
+  "ktsn": 120000001626,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "매우 드문 겨울철새",
+  "habitat": "평야, 구릉지, 초원, 농경지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "매우 드물게 찾아오는 겨울철새로, 평야, 구릉지, 초원과 농경지에서 지낸다. 긴 목과 다리에 통통하고 큰 몸집이라 쉽게 알아볼 수 있다. 한 수컷이 여러 암컷과 짝을 짓는 일부다처제로 산다. 예전에는 흔한 겨울철새였으나 불법 사냥과 농약 사용, 잇따른 개발로 위협받고 있다.",
+  "points": [
+    {
+      "ko": "긴 목",
+      "en": "long neck"
+    },
+    {
+      "ko": "황갈색 몸",
+      "en": "yellowish-brown body"
+    },
+    {
+      "ko": "가슴의 적갈색 띠",
+      "en": "rufous breast band"
+    },
+    {
+      "ko": "통통하고 큰 몸집",
+      "en": "plump, heavy body"
+    },
+    {
+      "ko": "긴 다리",
+      "en": "long legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Great Bustard (Otis tarda), adult: yellowish-brown overall with a rufous band across the breast, long neck and legs, plump and heavy body",
+    "pose": "walking slowly across an open field",
+    "scene": "Korean winter farmland and rolling grassy plain; no people, buildings or text",
+    "views": [
+      "adult, side view standing: yellowish-brown body, rufous breast band, long neck and legs",
+      "adult, front view: rufous band across the breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 느시",
+      "url": "https://species.nibr.go.kr/species-detail/120000001626",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 느시",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001626",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

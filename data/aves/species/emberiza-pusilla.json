@@ -1,0 +1,83 @@
+{
+  "id": "emberiza-pusilla",
+  "ko": "쇠붉은뺨멧새",
+  "sci": "Emberiza pusilla",
+  "author": "Pallas, 1776",
+  "en": "Little Bunting",
+  "ktsn": 120000002221,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새, 일부는 남부에서 월동하는 비교적 드문 겨울새",
+  "habitat": "습지의 버드나무 숲, 숲 사이 공터, 버드나무 관목이 흩어진 툰드라 초원(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 작은 무리를 지어 한반도를 지나가는 나그네새로, 일부는 남부 지방에 머물며 겨울을 나는 비교적 드문 겨울새이기도 하다. 여름에는 암수가 함께 지내고 겨울에는 크고 작은 무리를 이룬다. 딱정벌레류 곤충과 잡초 씨를 먹으며, 습지의 버드나무 숲이나 숲 사이 공터, 버드나무 관목이 흩어진 툰드라 초원에 둥지를 틀고 한배에 알 4~5개, 드물게 6개를 낳는다. 구북구 동부, 러시아 북부, 바이칼호, 야쿠츠크 남부 등지에 분포하고 한국 남부, 중국 동부 윈난성, 인도차이나, 히말라야 동부, 네팔 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "밤색 정수리선이 굵은 검은 머리꼭대기",
+      "en": "black crown with a broad chestnut median stripe"
+    },
+    {
+      "ko": "붉은 밤색 눈앞·눈썹선·귀깃",
+      "en": "rufous-chestnut lores, supercilium and ear-coverts"
+    },
+    {
+      "ko": "귀깃 아래와 뒤의 검은 얼룩",
+      "en": "black spots below and behind the ear-coverts"
+    },
+    {
+      "ko": "불완전한 검은 턱선",
+      "en": "incomplete black lateral throat stripe"
+    },
+    {
+      "ko": "검은 잔줄무늬가 많은 황갈색 가슴·옆구리",
+      "en": "buff breast and flanks with many short black streaks"
+    },
+    {
+      "ko": "흰 배와 아래꽁지덮깃",
+      "en": "white belly and undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "쑥새",
+      "how": "부리 생김새가 쑥새와 비슷하다."
+    }
+  ],
+  "art": {
+    "subject": "Little Bunting (Emberiza pusilla), adult male in winter plumage: black crown with a broad chestnut median stripe, crown feathers edged buff, rufous-chestnut lores, supercilium and ear-coverts, black spots below and behind the ear-coverts, buffy-white chin and throat with an incomplete black lateral throat stripe, buff breast and flanks with many short black streaks, white belly and undertail coverts, dark brown iris, brown legs",
+    "pose": "feeding on the ground among weeds, picking up seeds",
+    "scene": "Korean autumn: weedy open ground beside willow scrub at the edge of a wetland; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: chestnut-striped black crown, rufous-chestnut face, incomplete black throat stripe, buff breast and flanks with short black streaks, white belly, brown legs",
+      "adult male winter, head detail: broad chestnut median crown stripe, rufous-chestnut lores, supercilium and ear-coverts with black spots below and behind them"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠붉은뺨멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002221",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠붉은뺨멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002221",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

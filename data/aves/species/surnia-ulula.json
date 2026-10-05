@@ -1,0 +1,74 @@
+{
+  "id": "surnia-ulula",
+  "ko": "긴꼬리올빼미",
+  "sci": "Surnia ulula",
+  "author": "Linnaeus, 1758",
+  "en": "Northern Hawk-Owl",
+  "ktsn": 120000001864,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "산지 혼합림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 3~5월에 낳는다."
+  },
+  "summary": "산지의 혼합림에 사는 올빼미로, 낮에 활동하며 작은 새, 곤충, 쥐, 두더지 따위를 잡아먹는다. 딱따구리나 매가 쓰던 둥지를 이용하고, 알 자리에는 제 가슴 털을 조금 뽑아 깐다. 3~5월에 알을 3~10개 낳으며, 한국, 일본, 만주, 시베리아에 분포한다. 날개 길이는 23cm, 꼬리 길이는 18cm, 몸무게는 290g이다.",
+  "points": [
+    {
+      "ko": "가장자리가 누런 갈색인 흰 머리 위",
+      "en": "white forehead, crown and nape edged buff"
+    },
+    {
+      "ko": "노란 눈",
+      "en": "yellow eyes"
+    },
+    {
+      "ko": "진갈색 세로무늬의 어두운 갈색 몸",
+      "en": "dark brown plumage streaked darker brown"
+    },
+    {
+      "ko": "흰 가로무늬가 있는 갈색 등",
+      "en": "brown back barred white"
+    },
+    {
+      "ko": "세로무늬와 가로띠의 황갈색 아랫면",
+      "en": "buff lower breast and belly with dark streaks and pale brown bars"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Hawk-Owl (Surnia ulula), adult: white forehead, crown and nape edged buff-brown, dark brown plumage heavily streaked darker brown, brown back barred white, buff to dark buff lower breast and belly with dark brown streaks and two pale brown bars on each feather, yellow eyes",
+    "pose": "perched upright on a treetop in daylight, watching for prey",
+    "scene": "Korean montane mixed forest; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white crown edged buff, brown back barred white, yellow eyes",
+      "adult, front view perched: buff underparts with dark brown streaks and fine pale brown bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴꼬리올빼미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001864",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴꼬리올빼미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001864",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

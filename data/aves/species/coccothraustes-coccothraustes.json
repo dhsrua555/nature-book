@@ -1,0 +1,78 @@
+{
+  "id": "coccothraustes-coccothraustes",
+  "ko": "콩새",
+  "sci": "Coccothraustes coccothraustes",
+  "author": "Linnaeus, 1758",
+  "en": "Hawfinch",
+  "ktsn": 120000002208,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "흔한 겨울철새",
+  "habitat": "숲, 나무가 있는 정원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "숲이나 나무가 있는 정원에 사는 흔한 겨울철새로, 전국에서 볼 수 있다. 무리 지어 다니며 여러 낙엽활엽수의 씨앗을 따 먹으며 겨울을 나고, 번식기에는 곤충을 먹는다. 번식지에서는 알을 3~6개 낳는다. 세계적으로는 유라시아 대륙에 분포한다.",
+  "points": [
+    {
+      "ko": "두꺼운 부리와 굵은 목",
+      "en": "thick bill and thick neck"
+    },
+    {
+      "ko": "봄엔 금속 청색, 겨울엔 청백색 부리",
+      "en": "bill metallic blue in spring, bluish-white in winter"
+    },
+    {
+      "ko": "회색 윗목",
+      "en": "grey nape"
+    },
+    {
+      "ko": "분홍빛 갈색 몸깃",
+      "en": "pinkish-brown body plumage"
+    },
+    {
+      "ko": "청흑색 날개",
+      "en": "blue-black wings"
+    },
+    {
+      "ko": "끝이 흰 검은 꼬리",
+      "en": "black tail with a white tip"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Hawfinch (Coccothraustes coccothraustes), adult winter: thick bluish-white bill with a little black at the base, thick neck, grey nape, pinkish-brown body plumage, blue-black wings, black tail with a white tip",
+    "pose": "perched on a deciduous branch, cracking a seed",
+    "scene": "Korean winter woodland of bare broadleaf trees; no people, buildings or text",
+    "views": [
+      "adult winter, side view perched: thick bluish-white bill, grey nape, pinkish-brown body, blue-black wings, black tail with white tip",
+      "head detail in spring: metallic blue bill with a little black at the base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 콩새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002208",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 콩새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002208",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

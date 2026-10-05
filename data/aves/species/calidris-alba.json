@@ -1,0 +1,74 @@
+{
+  "id": "calidris-alba",
+  "ko": "세가락도요",
+  "sci": "Calidris alba",
+  "author": "Pallas, 1764",
+  "en": "Sanderling",
+  "ktsn": 120000001731,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "흔한 나그네새, 일부 겨울철새",
+  "habitat": "해안, 간척지, 삼각주, 강 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라를 흔히 지나가는 나그네새이며, 일부는 강 하구나 해안에서 겨울을 난다. 해안, 간척지, 삼각주 등에 내려앉는다. 갑각류, 작은 물고기, 조개, 지렁이, 곤충을 잡아먹고 식물 씨앗이나 싹, 이끼, 규조류도 먹는다. 북극 가까운 툰드라와 그린란드에서 번식해 풀이 우거진 땅의 오목한 곳에 알 4개를 낳고, 동남아시아·오스트레일리아·아프리카·남미 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "검은 무늬가 있는 적갈색 윗면(여름깃)",
+      "en": "rufous upperparts marked black (breeding)"
+    },
+    {
+      "ko": "엷은 회색 윗면(겨울깃)",
+      "en": "pale grey upperparts (winter)"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sanderling (Calidris alba), adult winter: pale grey upperparts, white underparts, black bill and legs",
+    "pose": "foraging on wet sand at the water's edge",
+    "scene": "Korean sandy coast near a river mouth in winter, wet sand and shallow water; no people, buildings or text",
+    "views": [
+      "adult winter, side view standing: pale grey upperparts, white underparts, black bill and legs",
+      "adult breeding, side view standing: rufous upperparts with black markings, white underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 세가락도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001731",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 세가락도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001731",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

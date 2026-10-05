@@ -1,0 +1,77 @@
+{
+  "id": "locustella-lanceolata",
+  "ko": "쥐발귀개개비",
+  "sci": "Locustella lanceolata",
+  "author": "Temminck, 1840",
+  "en": "Lanceolated Warbler",
+  "ktsn": 120000002029,
+  "origin": "nibr",
+  "length": "약 11cm",
+  "status": "나그네새",
+  "habitat": "습지와 소택지의 풀밭, 버드나무와 관목, 물가의 갈대밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "알은 6월 중순~7월 하순에 낳는다."
+  },
+  "summary": "봄과 가을에 작은 무리를 지어 우리나라 전역을 지나가는 나그네새로, 습지나 소택지의 풀, 버드나무와 관목 덤불, 물가 갈대밭 등지에서 지낸다. 몸을 숨긴 채 좀처럼 모습을 드러내지 않으며 주로 곤충을 먹는다. 둥지는 풀 밑이나 땅에서 30cm 높이의 덤불 속에 짓는데 둘레가 흔히 풀로 가려져 있고, 6월 중순~7월 하순에 한배에 3~5개의 알을 낳는다. 한국을 비롯해 시베리아 동부, 캄차카, 만주, 사할린, 홋카이도, 혼슈 등지에서 번식하고 인도, 미얀마, 수마트라, 보르네오, 자바 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "좁고 희미한 황갈빛 흰 눈썹선",
+      "en": "narrow, indistinct buffy-white supercilium"
+    },
+    {
+      "ko": "올리브 갈색과 황갈색이 섞인 귀깃",
+      "en": "ear-coverts mixed olive-brown and buff"
+    },
+    {
+      "ko": "굵은 흑갈색 세로무늬가 있는 갈색 등",
+      "en": "olive-tinged brown back with broad blackish-brown streaks"
+    },
+    {
+      "ko": "삼각형 흑갈색 점이 흩어진 멱과 가슴",
+      "en": "yellowish-white throat and breast with small triangular dark spots"
+    },
+    {
+      "ko": "누른빛 흰 배",
+      "en": "yellowish-white belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Lanceolated Warbler (Locustella lanceolata), adult male (winter plumage): olive-tinged brown back with broad blackish-brown streaks, narrow indistinct buffy-white supercilium, lores mixed buffy-white and dark brown, ear-coverts mixed olive-brown and buff, yellowish-white chin, throat and breast with small triangular blackish-brown spots, yellowish-white belly",
+    "pose": "creeping low in dense grass, partly hidden, side view",
+    "scene": "Korean waterside reedbed and wet grassy marsh with willows and shrubs during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult male in winter plumage, side view low in grass: streaked brown back, faint pale supercilium, finely spotted throat and breast, yellowish-white belly",
+      "adult, front view: small triangular dark spots on throat and breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쥐발귀개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002029",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쥐발귀개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002029",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

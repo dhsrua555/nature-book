@@ -1,0 +1,73 @@
+{
+  "id": "oenanthe-pleschanka",
+  "ko": "검은등사막딱새",
+  "sci": "Oenanthe pleschanka",
+  "author": "Lepechin, 1770",
+  "en": "Pied Wheatear",
+  "ktsn": 120000002129,
+  "origin": "nibr",
+  "length": "14.5cm",
+  "status": "드문 미조",
+  "habitat": "개활지의 모래땅, 경작지, 해안가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "국내에서는 드물게 관찰되는 미조로, 트인 곳의 모래땅이나 경작지, 해안가에서 지낸다. 홀로 살며 세력권을 지키지만 대부분의 지역에서 그 넓이는 매우 좁다. 관목이나 낮은 가지에 앉아 있다가 땅으로 재빨리 내려가 주 먹이인 곤충을 잡는다. 국외에서는 유럽 동부와 중국 서부에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 머리꼭대기와 뒷목(여름 수컷)",
+      "en": "white crown and nape (summer male)"
+    },
+    {
+      "ko": "검은 얼굴과 멱",
+      "en": "black face and throat"
+    },
+    {
+      "ko": "멱과 이어지는 검은 등과 날개",
+      "en": "black mantle and wings joining the black throat"
+    },
+    {
+      "ko": "흰 허리와 꼬리",
+      "en": "white rump and tail"
+    },
+    {
+      "ko": "꼬리의 검은 T자 무늬",
+      "en": "black T-shaped tail pattern"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pied Wheatear (Oenanthe pleschanka), adult male in summer: white crown and nape, black face and throat joining the black mantle and wings, white rump and tail with a black T-shaped pattern on the tail",
+    "pose": "perched on a low shrub branch, ready to dart down to the ground after insects",
+    "scene": "open sandy ground and farmland near the Korean coast; no people, buildings or text",
+    "views": [
+      "adult male in summer, side view perched: white crown and nape, black face and throat, black mantle and wings",
+      "adult, tail spread from above: white rump and tail with a black T-shaped pattern"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은등사막딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002129",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은등사막딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002129",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

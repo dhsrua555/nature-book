@@ -1,0 +1,77 @@
+{
+  "id": "tachybaptus-ruficollis",
+  "ko": "논병아리",
+  "sci": "Tachybaptus ruficollis",
+  "author": "Pallas, 1764",
+  "en": "Little Grebe",
+  "ktsn": 120000001501,
+  "origin": "nibr",
+  "length": "약 26cm",
+  "status": "흔한 텃새이자 겨울철새",
+  "habitat": "물풀이 무성한 강, 호수, 저수지, 하천",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "전국의 강, 호수, 저수지, 하천처럼 물풀이 무성한 습지에 흔히 사는 텃새이며, 겨울철새로도 찾아온다. 국내 논병아리류 가운데 가장 작으며, 잠수해 물속 곤충이나 작은 물고기를 잡는다. 물풀 줄기 사이에 풀줄기와 뿌리로 물에 뜨는 둥지를 짓고 20~25일 동안 알을 품으며, 새끼는 깨어나자마자 둥지를 떠나 어미를 따라다니며 먹이를 받아먹는다. 국외에서는 유럽과 아시아의 온대, 동남아시아, 인도, 아프리카에 분포한다.",
+  "points": [
+    {
+      "ko": "노란 눈",
+      "en": "yellow eye"
+    },
+    {
+      "ko": "번식깃 검은 부리 기부의 노란 부분",
+      "en": "breeding: yellow patch at the base of the black bill"
+    },
+    {
+      "ko": "번식깃의 적갈색 뺨과 앞·옆목",
+      "en": "breeding: reddish-brown cheeks and fore- and side-neck"
+    },
+    {
+      "ko": "겨울깃의 황갈색 뺨·앞목·아랫면",
+      "en": "winter: buff cheeks, foreneck and underparts"
+    },
+    {
+      "ko": "어두운 갈색 머리꼭대기와 등",
+      "en": "dark brown crown and back"
+    },
+    {
+      "ko": "동그스름한 몸매",
+      "en": "small, rounded body"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Little Grebe (Tachybaptus ruficollis), adult in breeding plumage: small rounded body, dark brown crown and back, yellow eye, reddish-brown cheeks and fore- and side-neck, black bill with a yellow patch at the base",
+    "pose": "floating beside a floating nest among plant stems",
+    "scene": "Korean reservoir with dense aquatic vegetation and reed stems; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: dark brown crown and back, yellow eye, reddish-brown cheeks and neck, black bill with yellow base",
+      "adult winter, side view swimming: dark brown crown and back, buff cheeks, foreneck and underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 논병아리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001501",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 논병아리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001501",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

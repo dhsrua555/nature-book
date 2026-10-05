@@ -1,0 +1,71 @@
+{
+  "id": "chroicocephalus-genei",
+  "ko": "긴목갈매기",
+  "sci": "Chroicocephalus genei",
+  "author": "Brème, 1839",
+  "en": "Slender-billed Gull",
+  "ktsn": 120000528795,
+  "origin": "nibr",
+  "length": "42–44cm",
+  "status": "TODO",
+  "habitat": "염수호, 연안 석호, 내륙 염수호, 연안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "터키, 스페인, 그리스, 프랑스에 분포하는 갈매기로, 대부분 철새여서 인도나 북아프리카에서 겨울을 난다. 짠물 호수와 해안 석호, 내륙의 염수호 등지에서 알을 낳으며, 드물게 해안가에서도 번식한다. 가는 부리보다 긴 목이 눈에 띄어 긴목갈매기라는 이름이 붙었다.",
+  "points": [
+    {
+      "ko": "가늘고 붉은 부리",
+      "en": "slender red bill"
+    },
+    {
+      "ko": "길게 뻗은 목",
+      "en": "long neck"
+    },
+    {
+      "ko": "엷은 분홍빛 가슴과 배",
+      "en": "breast and belly washed pale pink"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "붉은부리갈매기",
+      "how": "생김새가 비슷하지만 붉은 부리가 가늘고 목이 길며, 가슴과 배에 엷은 분홍빛이 돈다."
+    }
+  ],
+  "art": {
+    "subject": "Slender-billed Gull (Chroicocephalus genei), adult: slender red bill, long neck, breast and belly washed pale pink",
+    "pose": "standing on the shore with the neck extended, side view",
+    "scene": "Korean coastal saline lagoon with shallow brackish water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long neck, slender red bill, pale pink breast and belly",
+      "adult, head detail: thin red bill on a long-necked profile"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴목갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528795",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴목갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528795",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [],
+  "wingspan": "102–110cm"
+}

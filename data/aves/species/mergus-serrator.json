@@ -1,0 +1,78 @@
+{
+  "id": "mergus-serrator",
+  "ko": "바다비오리",
+  "sci": "Mergus serrator",
+  "author": "Linnaeus, 1758",
+  "en": "Red-breasted Merganser",
+  "ktsn": 120000001473,
+  "origin": "nibr",
+  "length": "약 55cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "해안 근처의 바다, 하구, 하천",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "겨울철 전국의 해안과 하구에서 보이는 비교적 흔한 겨울철새로, 해안 가까운 바다와 하구, 하천에서 작은 무리를 지어 지낸다. 잠수해 물고기, 물속 곤충, 새우 등을 잡아먹는다. 번식기에는 아한대의 관목림이나 덤불이 우거진 바위 둘레에 둥지를 틀고, 때로는 나무 구멍이나 인공 새집도 쓴다. 유라시아 대륙 북부, 영국 북부, 그린란드, 북미 북부에서 번식하고 유럽, 중국 동부, 북미 서부·동부 해안에서 월동한다.",
+  "points": [
+    {
+      "ko": "뒷머리의 곧고 가는 댕기깃",
+      "en": "ragged crest of thin, straight plumes on the hindcrown"
+    },
+    {
+      "ko": "수컷의 녹색 기 도는 검은 머리",
+      "en": "male: green-tinged black head"
+    },
+    {
+      "ko": "수컷의 흰 목테",
+      "en": "male: white collar"
+    },
+    {
+      "ko": "흑갈색 반점이 흩어진 수컷 가슴",
+      "en": "male: breast speckled with blackish-brown"
+    },
+    {
+      "ko": "가슴 옆의 흰 점 박힌 검은 무늬",
+      "en": "male: black patch with white spots at the breast side"
+    },
+    {
+      "ko": "암컷의 갈색 머리와 회갈색 몸",
+      "en": "female: brown head and grey-brown body"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 녹색을 띤 검은색이고 흰 목테가 있으며, 가슴에 흑갈색 반점이 흩어져 있다. 등은 검고 몸 옆은 흰색과 회색이며, 가슴과 배의 경계에 흰 점이 여럿 박힌 검은 무늬가 있다.",
+    "female": "머리는 갈색이고 나머지 몸은 회갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-breasted Merganser (Mergus serrator), adult male: green-tinged black head with a ragged crest of thin straight plumes, white collar, breast scattered with blackish-brown spots, black back, white and grey sides, black patch with several white spots where breast meets belly",
+    "pose": "swimming low on the sea close to shore, about to dive",
+    "scene": "Korean winter coastline near an estuary mouth with calm inshore water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: green-tinged black head with spiky crest, white collar, spotted breast, black back, grey and white sides",
+      "adult female, side view swimming: brown head with spiky crest, grey-brown body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바다비오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001473",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바다비오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001473",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

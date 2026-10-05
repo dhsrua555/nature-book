@@ -1,0 +1,78 @@
+{
+  "id": "tringa-totanus",
+  "ko": "붉은발도요",
+  "sci": "Tringa totanus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Redshank",
+  "ktsn": 120000001713,
+  "origin": "nibr",
+  "length": "27.5cm",
+  "status": "흔한 나그네새, 매우 드문 여름철새",
+  "habitat": "해안 소택지, 간척지, 염전, 해안 초습지, 하구 삼각주, 물 고인 논, 갯벌",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      3,
+      4,
+      5
+    ],
+    "note": "산란기는 3~5월이다."
+  },
+  "summary": "봄과 가을에 흔히 지나가는 나그네새이며, 아주 적은 수는 서해안과 일부 섬에서 번식하는 매우 드문 여름철새이다. 해안 소택지, 간척지, 염전, 바닷가 가까운 초습지, 하구 삼각주에 살고, 물 고인 논이나 염전, 갯벌에서 작은 무리를 짓는다. 곤충, 연체동물, 갑각류 등을 주로 먹으며 알은 4~5개쯤 낳는다. 주로 서남부 해안을 지나가며, 국외에서는 알타이–아무르, 히말라야, 일본, 인도, 스리랑카, 미얀마, 말레이반도, 필리핀에 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 검은 붉은 부리",
+      "en": "red bill with a black tip"
+    },
+    {
+      "ko": "검은색·회색 얼룩이 있는 갈색 윗면",
+      "en": "brown upperparts mottled black and grey"
+    },
+    {
+      "ko": "갈색 세로무늬가 빽빽한 흰 아랫면",
+      "en": "white underparts densely streaked and blotched brown"
+    },
+    {
+      "ko": "날 때 넓게 보이는 날개 뒤쪽의 흰 부분",
+      "en": "broad white rear part of the wing in flight"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Redshank (Tringa totanus), adult: brown upperparts mottled black and grey, white underparts densely streaked and blotched brown, red bill with a black tip, red legs, broad white rear part of the wing visible in flight",
+    "pose": "wading in a flooded rice field, side view",
+    "scene": "Korean coastal salt pans and tidal flats in spring, small groups of waders; no people, buildings or text",
+    "views": [
+      "adult, side view standing: brown upperparts mottled black and grey, densely streaked white underparts, red bill with black tip, red legs",
+      "adult in flight, from above: broad white rear part of the wing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은발도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001713",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은발도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001713",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

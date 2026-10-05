@@ -1,0 +1,78 @@
+{
+  "id": "locustella-ochotensis",
+  "ko": "알락꼬리쥐발귀",
+  "sci": "Locustella ochotensis",
+  "author": "Middendorff, 1853",
+  "en": "Middendorff's Grasshopper Warbler",
+  "ktsn": 120000002031,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 나그네새",
+  "habitat": "풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 드물게 지나가는 나그네새이다. 풀 사이를 몰래 누비며 먹이를 찾고, 때때로 풀줄기에 앉아 지저귄다. 곤충을 주로 먹는다. 오호츠크해 서안, 샨타르섬, 캄차카, 사할린, 쿠릴 열도, 홋카이도 등지에서 번식하며 6월 하순~7월 상순에 한배에 5~6개, 흔히 5개의 알을 낳고, 중국 동부, 일본, 타이완, 필리핀, 보르네오, 셀레베스 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "짧고 희미한 잿빛 흰 눈썹선",
+      "en": "short, indistinct greyish-white or buff supercilium"
+    },
+    {
+      "ko": "머리 절반 길이의 납작한 부리",
+      "en": "laterally compressed bill about half the head length"
+    },
+    {
+      "ko": "녹슨 빛 올리브 갈색 윗면",
+      "en": "rusty olive-brown upperparts"
+    },
+    {
+      "ko": "갈색 기 도는 가슴",
+      "en": "brown-washed breast"
+    },
+    {
+      "ko": "황갈빛 흰 아랫면",
+      "en": "buffy-white underparts"
+    },
+    {
+      "ko": "엷은 황갈색 또는 살구색 다리",
+      "en": "pale buff or peach legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Middendorff's Grasshopper Warbler (Locustella ochotensis), adult: rusty olive-brown upperparts with a slightly darker crown, short indistinct greyish-white or buff supercilium, greyish-white lores, olive-buff cheeks and ear-coverts with dark brown feather tips, buffy-white underparts with a brownish breast, laterally compressed bill about half the head length, horn-brown upper mandible, olive-grey to yellowish horn or purplish-pink lower mandible, reddish-brown or dark buff iris, pale buff or peach legs",
+    "pose": "perched on a grass stem, singing",
+    "scene": "Korean grassy field during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched on a grass stem: rusty olive-brown upperparts, short faint supercilium, buffy-white underparts with brownish breast",
+      "adult, head detail: compressed bill about half the head length, horn-brown upper mandible, reddish-brown iris"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락꼬리쥐발귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002031",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락꼬리쥐발귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002031",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Helopsaltes ochotensis)"
+    }
+  ],
+  "todo": []
+}

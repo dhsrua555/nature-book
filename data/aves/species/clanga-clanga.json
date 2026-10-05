@@ -1,0 +1,68 @@
+{
+  "id": "clanga-clanga",
+  "ko": "항라머리검독수리",
+  "sci": "Clanga clanga",
+  "author": "Pallas, 1811",
+  "en": "Greater Spotted Eagle",
+  "ktsn": 120000528834,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 겨울철새",
+  "habitat": "TODO",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "국내에는 겨울철새로 드물게 찾아온다."
+  },
+  "summary": "국내에는 드물게 찾아오는 겨울철새로, 온몸이 흑갈색인 대형 맹금류이다. 산림과 농경지가 줄어들고 밀렵이 이어지면서 개체 수가 점점 줄고 있으며, 한국적색목록에서 멸종위기 범주로 평가되어 있다.",
+  "points": [
+    {
+      "ko": "가까이서 보이는 머리·목의 흰 반점",
+      "en": "a few whitish spots on head and neck at close range"
+    },
+    {
+      "ko": "온몸 흑갈색",
+      "en": "blackish-brown plumage overall"
+    },
+    {
+      "ko": "대형 맹금류 체형",
+      "en": "large raptor build"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater Spotted Eagle (Clanga clanga), adult: blackish-brown plumage overall, with a few whitish spots on the head and neck visible at close range",
+    "pose": "perched upright on a bare branch, side view",
+    "scene": "TODO",
+    "views": [
+      "adult, side view perched: large raptor, blackish-brown overall, a few whitish spots on head and neck",
+      "adult, head and neck detail: scattered whitish spots on dark brown feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 항라머리검독수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528834",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 항라머리검독수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528834",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

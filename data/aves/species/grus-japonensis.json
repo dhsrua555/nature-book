@@ -1,0 +1,81 @@
+{
+  "id": "grus-japonensis",
+  "ko": "두루미",
+  "sci": "Grus japonensis",
+  "author": "P.L.S.Müller, 1776",
+  "en": "Red-crowned Crane",
+  "ktsn": 120000001653,
+  "origin": "nibr",
+  "length": "약 140cm",
+  "status": "드문 겨울철새",
+  "habitat": "논, 율무밭, 옥수수밭, 얼어붙은 저수지, 강 모래톱",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "2~3월에 암수가 마주 보고 우는 구애 행동을 볼 수 있다."
+  },
+  "summary": "드물게 찾아오는 겨울철새로, 국내에서는 강원도 철원과 경기도 연천, 파주, 강화 등 주로 비무장지대와 민간인통제지역 일대에서 겨울을 난다. 월동지에서는 논, 율무밭, 옥수수밭에서 먹이를 찾고, 얼어붙은 저수지나 강의 모래톱을 잠자리로 쓴다. 암수와 그 새끼로 이루어진 가족 단위로 움직이며, 2~3월에는 암수가 마주 서서 부리를 하늘로 든 채 되풀이해 우는 구애 행동을 볼 수 있다. 러시아 동남부 한카호, 중국 동북 지방, 일본 홋카이도, 몽골 동부 등지에서 번식하고 한국과 중국 동남부에서 월동한다.",
+  "points": [
+    {
+      "ko": "붉은 정수리",
+      "en": "red crown"
+    },
+    {
+      "ko": "검은 눈앞과 멱, 목",
+      "en": "black lores, throat and neck"
+    },
+    {
+      "ko": "노란빛 도는 녹색 부리",
+      "en": "yellowish-green bill"
+    },
+    {
+      "ko": "흰 몸",
+      "en": "white body"
+    },
+    {
+      "ko": "길게 늘어진 검은 셋째날개깃",
+      "en": "long drooping black tertials"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 몸이 희고 머리와 목은 연한 갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Red-crowned Crane (Grus japonensis), adult: white body, red crown, black lores, throat and neck, long drooping black tertials, yellowish-green bill, black legs",
+    "pose": "walking slowly through a harvested rice field",
+    "scene": "Korean winter rice and corn fields in a remote border area, with a frozen reservoir and river sandbars; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white body, red crown, black lores, throat and neck, drooping black tertials, yellowish-green bill, black legs",
+      "juvenile, side view standing: white body, light brown head and neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001653",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001653",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

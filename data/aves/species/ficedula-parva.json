@@ -1,0 +1,79 @@
+{
+  "id": "ficedula-parva",
+  "ko": "붉은가슴흰꼬리딱새",
+  "sci": "Ficedula parva",
+  "author": "Bechstein, 1792",
+  "en": "Red-breasted Flycatcher",
+  "ktsn": 120000002143,
+  "origin": "nibr",
+  "length": "약 11cm",
+  "status": "드문 나그네새",
+  "habitat": "숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 중부 이북을 지나가며, 번식지에서는 5월 중순~6월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도 중부 이북을 드물게 지나가는 나그네새로, 숲속에서 번식한다. 홀로 또는 암수가 함께 지내며 곤충을 주로 먹지만 장미과 열매도 먹는다. 5월 중순~6월에 한 해 한 번, 한배에 알 4~7개를 낳는다. 시베리아, 알타이, 몽골 북부, 아무르, 우수리에서 번식하고 중국 남부, 하이난섬, 인도차이나, 인도, 말레이반도 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "더러운 흰색 눈 둘레",
+      "en": "dull white eye-ring"
+    },
+    {
+      "ko": "오렌지 황갈색 턱밑과 멱",
+      "en": "orange-buff chin and throat"
+    },
+    {
+      "ko": "잿빛 뺨·가슴 옆·옆구리",
+      "en": "grey cheeks, breast sides and flanks"
+    },
+    {
+      "ko": "고른 잿빛 갈색 머리와 등",
+      "en": "uniform grey-brown crown and back"
+    },
+    {
+      "ko": "엷은 깃 가장자리의 어두운 갈색 날개",
+      "en": "dark brown wings with narrow pale fringes"
+    },
+    {
+      "ko": "가는 어두운 갈색 다리",
+      "en": "slender dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "겨울깃은 이마에서 허리까지 고른 잿빛 갈색이고, 턱밑과 멱은 오렌지 황갈색이다.",
+    "female": "겨울깃의 등 쪽은 수컷 겨울깃과 같으나 갈색기가 다소 많은 편이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-breasted Flycatcher (Ficedula parva), adult male in winter plumage: uniform grey-brown forehead, crown, back and rump, grey-brown ear coverts and neck sides, orange-buff chin and throat, grey lores, cheeks, breast sides and flanks, dull white eye-ring, dark brown wings with narrow pale fringes, blackish-brown bill, dark brown iris, slender dark brown legs",
+    "pose": "perched on a low branch in the forest, side view",
+    "scene": "forest in central or northern Korea during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult male in winter, side view perched: uniform grey-brown upperparts, orange-buff throat, grey breast sides and flanks, dull white eye-ring, slender dark brown legs",
+      "adult female in winter, side view perched: upperparts as male but slightly browner"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은가슴흰꼬리딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002143",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은가슴흰꼬리딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002143",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

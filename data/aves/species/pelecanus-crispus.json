@@ -1,0 +1,70 @@
+{
+  "id": "pelecanus-crispus",
+  "ko": "사다새",
+  "sci": "Pelecanus crispus",
+  "author": "Bruch, 1832",
+  "en": "Dalmatian Pelican",
+  "ktsn": 120000001557,
+  "origin": "nibr",
+  "length": "140–178cm",
+  "status": "TODO",
+  "habitat": "호숫가, 습지의 갈대밭, 갯벌(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식지에서는 3~7월에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 1914년 인천에서 한 번 채집된 기록만 있는 새이다. 아랫부리에 늘어나는 큰 주머니가 있어 작은 물고기나 새우 따위를 빨아들여 삼킨다. 호숫가나 습지의 갈대밭, 갯벌에 나뭇가지, 수초, 풀로 접시 모양 둥지를 짓고 흰 알을 보통 2~3개 낳는다. 유럽, 아시아, 페르시아만, 카스피해, 몽골, 중국에서 번식하고 중국 남부, 인도 북부, 이집트에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "큰 부리와 아랫부리의 신축성 주머니",
+      "en": "huge bill with a large expandable pouch on the lower mandible"
+    },
+    {
+      "ko": "흰 몸빛",
+      "en": "white plumage"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    },
+    {
+      "ko": "납빛 회색 다리",
+      "en": "leaden-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 온몸이 갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Dalmatian Pelican (Pelecanus crispus), adult: white plumage, black primaries, huge bill with a large expandable pouch on the lower mandible, leaden-grey legs",
+    "pose": "swimming on calm water, scooping small fish into its bill pouch",
+    "scene": "Korean coastal wetland: a lake shore with reedbeds beside tidal mudflats; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: white body, black primaries, huge bill with pouch",
+      "juvenile, side view: brown all over"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 사다새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001557",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 사다새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001557",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

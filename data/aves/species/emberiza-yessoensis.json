@@ -1,0 +1,51 @@
+{
+  "id": "emberiza-yessoensis",
+  "ko": "쇠검은머리쑥새",
+  "sci": "Emberiza yessoensis",
+  "author": "Swinhoe, 1874",
+  "en": "Ochre-rumped Bunting",
+  "ktsn": 120000002233,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "관목이 있는 초원, 간척으로 생긴 호수와 만",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "관목이 자라는 초원에 사는 새로, 우리나라 전국에 분포하며 주로 대규모 간척 사업으로 생긴 호수와 만 일대에서 지낸다. 간척지 개발과 하천 정비로 서식지가 점점 줄어들고 있다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched, side view",
+    "scene": "Korean reclaimed land: grassland with scattered shrubs beside a lake formed by reclamation; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠검은머리쑥새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002233",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠검은머리쑥새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002233",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

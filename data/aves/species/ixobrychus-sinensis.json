@@ -1,0 +1,84 @@
+{
+  "id": "ixobrychus-sinensis",
+  "ko": "덤불해오라기",
+  "sci": "Ixobrychus sinensis",
+  "author": "Gmelin, 1789",
+  "en": "Yellow Bittern",
+  "ktsn": 120000001524,
+  "origin": "nibr",
+  "length": "37cm",
+  "status": "드문 여름철새",
+  "habitat": "갈대밭, 물가의 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "산란기는 5월 하순~8월 상순이다."
+  },
+  "summary": "우리나라에서 드물게 번식하는 여름철새로, 갈대밭이나 물가 풀숲에서 홀로 또는 암수가 함께 지낸다. 물가 풀숲이나 관목림의 갈대, 줄풀 줄기 사이에 접시 모양 둥지를 틀고, 알 5~6개를 낳아 17~19일 동안 품는다. 물고기를 주로 먹고 개구리와 새우 같은 갑각류도 먹는다. 온대에서 열대에 걸쳐 번식하며 한국과 유라시아 대륙 동남부에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 이마~뒷머리(수컷)",
+      "en": "black crown from forehead to nape (male)"
+    },
+    {
+      "ko": "엷은 홍갈색 뺨과 귀깃",
+      "en": "pale rufous-brown cheeks and ear coverts"
+    },
+    {
+      "ko": "흰 턱과 멱 양쪽",
+      "en": "white chin and sides of throat"
+    },
+    {
+      "ko": "짙은 갈색 등",
+      "en": "dark brown back"
+    },
+    {
+      "ko": "흰빛에 가까운 갈색 아랫면",
+      "en": "whitish-brown underparts"
+    },
+    {
+      "ko": "검은 꼬리, 엷은 녹황색 다리",
+      "en": "black tail, pale greenish-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마에서 뒷머리까지 검은색이다.",
+    "female": "이마에서 뒷머리까지 적갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow Bittern (Ixobrychus sinensis), adult male: mainly brown, black crown from forehead to nape, pale rufous-brown cheeks and ear coverts, white chin and sides of throat, dark brown back, whitish-brown underparts, black tail, pale greenish-yellow legs",
+    "pose": "clinging to reed stems above the water, side view",
+    "scene": "Korean summer reedbed along a pond edge, with tall green reeds and wild rice; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to reeds: black crown, pale rufous-brown face, dark brown back, whitish-brown underparts, black tail",
+      "adult female, head detail: rufous-brown crown from forehead to nape"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 덤불해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001524",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 덤불해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001524",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Botaurus sinensis)"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "clamator-coromandus",
+  "ko": "밤색날개뻐꾸기",
+  "sci": "Clamator coromandus",
+  "author": "Linnaeus, 1766",
+  "en": "Chestnut-winged Cuckoo",
+  "ktsn": 120000001834,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "미조",
+  "habitat": "산림, 인가 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "제주도에서 처음 관찰된 미조이다. 주로 산림에 살고 때로 인가 주변에도 나타나며, 혼자 또는 암수가 함께 지낸다. 다른 새의 둥지에 알을 맡기는 탁란을 한다. 인도, 중국 남부, 타이완, 말레이시아, 홍콩, 일본 등에 분포한다.",
+  "points": [
+    {
+      "ko": "머리의 검은 뿔깃",
+      "en": "black crest"
+    },
+    {
+      "ko": "적갈색 멱과 앞목",
+      "en": "rufous throat and foreneck"
+    },
+    {
+      "ko": "검은 등과 날개덮깃",
+      "en": "black back and wing coverts"
+    },
+    {
+      "ko": "짧은 암적갈색 날개",
+      "en": "short dark rufous wings"
+    },
+    {
+      "ko": "흰 배와 뒷목 일부",
+      "en": "white belly and partial white hind-collar"
+    },
+    {
+      "ko": "길고 검은 꽁지",
+      "en": "long black tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chestnut-winged Cuckoo (Clamator coromandus), adult: black crest, rufous throat and foreneck, black back and wing coverts, short dark rufous wings, white belly and partial white hind-collar, long black tail, black bill",
+    "pose": "perched on a branch with crest raised, side view",
+    "scene": "forest on Jeju Island; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black crest, rufous throat, black back, white belly, long black tail, black bill",
+      "adult, in flight from above: short dark rufous wings, black back and long black tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 밤색날개뻐꾸기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001834",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 밤색날개뻐꾸기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001834",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

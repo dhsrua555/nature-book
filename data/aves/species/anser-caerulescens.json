@@ -1,0 +1,71 @@
+{
+  "id": "anser-caerulescens",
+  "ko": "흰기러기",
+  "sci": "Anser caerulescens",
+  "author": "Linnaeus, 1758",
+  "en": "Snow Goose",
+  "ktsn": 120000001420,
+  "origin": "nibr",
+  "length": "67cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "평야와 간척지의 논, 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 매우 드물게 보이는 겨울새로, 평야와 간척지의 논, 하구 등에서 지낸다. 주로 낟알이나 씨, 잎 같은 식물을 먹고 물속 연체동물, 곤충, 조개류 등도 먹는다. 번식지에서는 하루에 한 개씩 알 4~8개를 낳고, 새끼는 40~50일에 걸쳐 자란다. 시베리아 북동부에서 번식하는 무리는 중국 북부와 일본 등지에서, 북아메리카 툰드라에서 번식하는 무리는 멕시코만과 캘리포니아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "분홍색 부리",
+      "en": "pink bill"
+    },
+    {
+      "ko": "온몸이 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 등이 회갈색이고 아랫면이 회색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Snow Goose (Anser caerulescens), adult: all-white plumage, black primaries, pink bill and legs",
+    "pose": "grazing in a rice paddy, side view",
+    "scene": "flat Korean reclaimed farmland in winter: rice paddies near an estuary; no people, buildings or text",
+    "views": [
+      "adult, side view standing: all-white plumage, black primaries, pink bill and legs",
+      "adult, in flight: white wings with black primaries",
+      "juvenile, side view standing: grey-brown back, grey underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001420",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001420",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

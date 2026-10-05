@@ -1,0 +1,75 @@
+{
+  "id": "turdus-cardis",
+  "ko": "검은지빠귀",
+  "sci": "Turdus cardis",
+  "author": "Temminck, 1831",
+  "en": "Japanese Thrush",
+  "ktsn": 120000002095,
+  "origin": "nibr",
+  "length": "21.5cm",
+  "status": "드문 나그네새",
+  "habitat": "산지의 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 초순~7월 하순에 알을 낳는다."
+  },
+  "summary": "작은 무리를 지어 드물게 한반도를 지나가는 나그네새이다. 산지 낙엽활엽수림에 살며, 곤충을 주로 먹지만 지네, 지렁이와 장미과·포도과 열매도 먹는다. 잡목림, 낙엽활엽수림, 관목 숲에 둥지를 짓고 5월 초순~7월 하순에 알을 3~4개 낳는다. 일본과 중국 중부에서 번식하고, 일본 서남부, 중국 동부와 남부, 인도차이나반도 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "수컷의 검은 윗면과 멱·가슴",
+      "en": "black upperparts, throat and breast (male)"
+    },
+    {
+      "ko": "검은 반점이 흩어진 흰 배(수컷)",
+      "en": "white belly with irregular black spots (male)"
+    },
+    {
+      "ko": "암컷의 갈색 윗면과 얼룩진 흰 아랫면",
+      "en": "brown upperparts, white underparts spotted brown (female)"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리부터 꼬리까지 윗면과 멱, 가슴이 검고, 흰 배에 불규칙한 검은 반점이 있다.",
+    "female": "윗면이 갈색이고 아랫면은 희며, 가슴과 배에 갈색 얼룩무늬가 있다. 부리와 다리는 암수 모두 노랗다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Thrush (Turdus cardis), adult male: black head, back, wings, tail, throat and breast, white belly with irregular black spots, yellow bill, yellow legs",
+    "pose": "perched on a branch in deciduous woodland, side view",
+    "scene": "Korean mountain deciduous broadleaf forest on passage; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black upperparts, throat and breast, white belly with black spots, yellow bill and legs",
+      "adult female, side view perched: brown upperparts, white underparts with brown spots on breast and belly, yellow bill and legs"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002095",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002095",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

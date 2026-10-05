@@ -1,0 +1,65 @@
+{
+  "id": "ichthyaetus-ichthyaetus",
+  "ko": "큰검은머리갈매기",
+  "sci": "Ichthyaetus ichthyaetus",
+  "author": "Pallas, 1773",
+  "en": "Pallas's Gull",
+  "ktsn": 120000528803,
+  "origin": "nibr",
+  "length": "60–72cm",
+  "status": "가끔 관찰되는 미조",
+  "habitat": "해안, 강, 하구 등의 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "러시아와 중국에서 번식하고 미얀마 등지에서 겨울을 나는 큰 갈매기로, 우리나라에서는 미조로 이따금 관찰된다. 해안과 강, 하구 같은 습지에서 살며, 염습지 안의 작은 섬에서 번식한다. 죽은 물고기, 곤충, 작은 포유류, 새알, 파충류 등을 먹는다. 몸무게는 0.9~1kg이다.",
+  "points": [
+    {
+      "ko": "눈 위아래의 흰 눈테",
+      "en": "white crescents above and below the eye"
+    },
+    {
+      "ko": "붉은 띠와 검은 띠가 있는 노란 부리",
+      "en": "yellow bill with red and black bands"
+    },
+    {
+      "ko": "큰 몸집",
+      "en": "very large, bulky gull"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pallas's Gull (Ichthyaetus ichthyaetus), adult: very large gull, white crescents above and below the eye, yellow bill with a red band and a black band",
+    "pose": "standing on a mudflat, side view",
+    "scene": "Korean estuary with mudflats where a river meets the sea; no people, buildings or text",
+    "views": [
+      "adult, side view standing: very large gull with white eye-crescents, yellow bill banded red and black",
+      "adult, head detail: white crescents above and below the eye, yellow bill with red and black bands"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰검은머리갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528803",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰검은머리갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528803",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

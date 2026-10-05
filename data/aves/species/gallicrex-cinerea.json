@@ -1,0 +1,86 @@
+{
+  "id": "gallicrex-cinerea",
+  "ko": "뜸부기",
+  "sci": "Gallicrex cinerea",
+  "author": "Gmelin, 1789",
+  "en": "Watercock",
+  "ktsn": 120000001639,
+  "origin": "nibr",
+  "length": "수컷 40cm, 암컷 33cm",
+  "status": "여름철새",
+  "habitat": "논, 습지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "6~7월에 번식한다."
+  },
+  "summary": "논이나 습지에 사는 여름철새로, 국내에서는 강원도, 경기도, 충청남도 일부 지역에서 산다. 아침과 저녁에는 벼가 자라는 논과 논둑에서 활발히 움직이지만, 낮에는 근처 물가나 구릉의 풀숲, 논 주변 덤불에 숨어 지낸다. 곤충, 물고기, 양서류와 풀, 식물 씨앗을 먹고, 논의 벼 포기를 모으거나 풀숲의 풀줄기와 잎으로 엉성한 접시 모양 둥지를 지어 한배에 알 3~5개를 낳는다. 국외에서는 일본, 타이완, 필리핀, 인도, 인도네시아, 말레이반도, 스리랑카 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "붉은 이마판(번식기 수컷)",
+      "en": "red frontal shield (breeding male)"
+    },
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "붉은 갈색 눈",
+      "en": "reddish-brown eye"
+    },
+    {
+      "ko": "푸른빛 도는 검은 몸(수컷 여름깃)",
+      "en": "bluish-black body (breeding male)"
+    },
+    {
+      "ko": "갈색 반점이 있는 황갈색 몸(암컷)",
+      "en": "buff-brown body with dark brown spots (female)"
+    },
+    {
+      "ko": "연한 녹색 다리",
+      "en": "pale green legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름깃은 푸른빛이 도는 검은색이고 날개와 꼬리는 검은 갈색이며, 번식기에는 이마에서 머리꼭대기 위까지 붉은 이마판이 있다. 부리는 노랗다. 겨울깃은 암컷과 비슷하지만 부리가 더 굵고 노랗다.",
+    "female": "몸이 황갈색이고 등과 날개에 진한 갈색 반점이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage: bluish-black body, blackish-brown wings and tail, yellow bill with a red frontal shield running from the forehead onto the crown, reddish-brown eye, pale green legs",
+    "pose": "walking along a rice-paddy levee in early morning light",
+    "scene": "Korean summer rice paddies with growing rice, grassy levees and a bushy hillside nearby; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view walking: bluish-black body, blackish-brown wings and tail, yellow bill with red frontal shield, pale green legs",
+      "adult female, side view: yellowish-brown body with dark brown spots on the back and wings, pale green legs, reddish-brown eye",
+      "adult male non-breeding, head detail: female-like plumage with a thicker yellow bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뜸부기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001639",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뜸부기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001639",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

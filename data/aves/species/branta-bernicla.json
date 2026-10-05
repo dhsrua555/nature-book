@@ -1,0 +1,69 @@
+{
+  "id": "branta-bernicla",
+  "ko": "흑기러기",
+  "sci": "Branta bernicla",
+  "author": "Linnaeus, 1758",
+  "en": "Brant Goose",
+  "ktsn": 120000001423,
+  "origin": "nibr",
+  "length": "약 61cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "만, 해안",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순에 알을 낳는다."
+  },
+  "summary": "동해안과 남해안에서 적은 수가 겨울을 나는 매우 드문 겨울철새다. 다른 기러기와 달리 육지 깊숙이 바다가 들어온 만이나 해안에서 주로 겨울을 지내며, 먹이도 주로 바다의 해초류다. 유라시아 대륙, 북아메리카, 그린란드 북극권의 툰드라 호수와 갯벌 강기슭, 강 하구에서 번식하는데, 땅 위나 바위 틈에 이끼로 접시 모양 둥지를 짓고 회백색 알을 3~8개 낳는다. 한국, 일본, 중국 해안, 북미 서부 연안 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "짧고 굵은 목",
+      "en": "short, thick neck"
+    },
+    {
+      "ko": "뚜렷한 흰 목테",
+      "en": "white neck collar"
+    },
+    {
+      "ko": "검은 윗면",
+      "en": "black upperparts"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Brant Goose (Branta bernicla), adult: black upperparts, short thick neck with a white neck collar",
+    "pose": "swimming close to the shore, feeding on seaweed",
+    "scene": "sheltered bay on the Korean east coast in winter, calm sea water along a rocky shore with seaweed; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: black upperparts, short thick neck with a white collar",
+      "adult, head and neck detail: white collar on the short thick neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흑기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001423",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흑기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001423",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

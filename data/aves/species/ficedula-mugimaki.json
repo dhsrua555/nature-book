@@ -1,0 +1,70 @@
+{
+  "id": "ficedula-mugimaki",
+  "ko": "노랑딱새",
+  "sci": "Ficedula mugimaki",
+  "author": "Temminck, 1836",
+  "en": "Mugimaki Flycatcher",
+  "ktsn": 120000002142,
+  "origin": "nibr",
+  "length": "13cm",
+  "status": "흔한 나그네새",
+  "habitat": "침엽수 가지(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6월 상순~7월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라 전역을 지나가는 흔한 나그네새이다. 홀로 또는 암수가 함께 지내며 곤충을 주로 먹는다. 침엽수 가지 위에 이끼나 마른 잎으로 사발 모양 둥지를 짓고, 6월 상순~7월에 한배에 알 4~8개를 낳는다. 구북구 동부, 시베리아 알타이 북동부, 아무르, 사할린, 우수리, 만주 동북부에서 번식하고 중국 남부와 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "눈 뒤의 흰 눈썹선",
+      "en": "white supercilium behind the eye"
+    },
+    {
+      "ko": "회흑색으로 보이는 머리와 등",
+      "en": "head and back look grey-black from grey fringes"
+    },
+    {
+      "ko": "오렌지빛 갈색 턱밑·멱·가슴",
+      "en": "orange-brown chin, throat and breast"
+    },
+    {
+      "ko": "흰 배와 아래꼬리덮깃",
+      "en": "white belly and undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Mugimaki Flycatcher (Ficedula mugimaki), adult male in winter plumage: black forehead, lores, cheeks, ear coverts, crown, nape, neck sides, back, rump and uppertail coverts with grey fringes giving a grey-black look, white supercilium behind the eye, orange-brown chin, throat and breast, white belly and undertail coverts",
+    "pose": "perched on a conifer branch, side view",
+    "scene": "Korean woodland with conifers during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: grey-black head and back, white supercilium behind the eye, orange-brown throat and breast, white belly",
+      "adult male, front view: orange-brown chin, throat and breast, white belly and undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002142",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002142",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

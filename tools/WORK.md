@@ -9,7 +9,8 @@ API 키 없이 앱에 들어 있는 이미지 생성(`$imagegen`, gpt-image-2)�
    ```
    uv run tools/illustrate.py queue --limit 4
    ```
-   아직 그림이 없는 작업이 JSON 배열로 나온다. 항목마다 `id`, `ko`(국명), `kind`, `size`, `orientation`, `save_to`, `refs`, `prompt` 가 있다.
+   아직 그림이 없는 작업이 JSON 배열로 나온다(손으로 조사한 21종 먼저, 그다음 도판 번호 순). 항목마다 `id`, `ko`(국명), `kind`, `size`, `orientation`, `save_to`, `refs`, `prompt` 가 있다.
+   그림 재료가 '조사 중'인 종은 목록에 나오지 않는다(건너뛴 수는 표준 오류로 한 줄 나온다).
 2. 항목마다 한 장씩:
    - `$imagegen` 으로 `prompt` 를 **고치지 말고 그대로** 넣어 그린다. 방향과 크기는 `orientation`·`size` 를 따른다
      (`scene` = 가로 1536×1024, `plate` = 세로 1024×1536).

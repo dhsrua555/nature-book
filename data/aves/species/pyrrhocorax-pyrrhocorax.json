@@ -1,0 +1,70 @@
+{
+  "id": "pyrrhocorax-pyrrhocorax",
+  "ko": "붉은부리까마귀",
+  "sci": "Pyrrhocorax pyrrhocorax",
+  "author": "Linnaeus, 1758",
+  "en": "Red-billed Chough",
+  "ktsn": 120000001962,
+  "origin": "nibr",
+  "length": "39–40cm",
+  "status": "TODO",
+  "habitat": "낭떠러지의 굴, 바위틈(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "갈까마귀보다 조금 큰 새로, 20마리가 넘는 무리를 지어 날아다니는 모습을 볼 수 있다. 낭떠러지의 굴이나 바위틈에 나뭇가지로 둥지를 짓고 알 3개를 낳는다. 무척추동물을 먹으며, 영국, 아일랜드, 스페인, 지중해 연안, 서아시아, 중앙아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "붉은 부리",
+      "en": "red bill"
+    },
+    {
+      "ko": "온몸이 검은 깃",
+      "en": "all-black plumage"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "갈까마귀",
+      "how": "붉은부리까마귀가 갈까마귀보다 조금 크다."
+    }
+  ],
+  "art": {
+    "subject": "Red-billed Chough (Pyrrhocorax pyrrhocorax), adult: all-black plumage, red bill, red legs",
+    "pose": "perched on a rock ledge beside a crevice, side view",
+    "scene": "steep rocky cliffs with caves and crevices in Korea; no people, buildings or text",
+    "views": [
+      "adult, side view perched: all-black plumage, red bill, red legs",
+      "adults in flight: a flock of all-black birds with red bills"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은부리까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001962",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은부리까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001962",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

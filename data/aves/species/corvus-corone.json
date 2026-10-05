@@ -1,0 +1,88 @@
+{
+  "id": "corvus-corone",
+  "ko": "까마귀",
+  "sci": "Corvus corone",
+  "author": "Linnaeus, 1758",
+  "en": "Carrion Crow",
+  "ktsn": 120000001966,
+  "origin": "nibr",
+  "length": "50cm",
+  "status": "흔한 텃새",
+  "habitat": "농촌 인가, 산지, 해변 침엽수 등의 높은 나무",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "note": "3~6월에 알을 낳는다."
+  },
+  "summary": "전국에서 흔히 볼 수 있는 텃새로, 농촌 마을이나 산지, 바닷가 침엽수처럼 높은 나무가 있는 곳에 산다. 번식기에는 한두 쌍씩 작게 지내다가 번식이 끝난 겨울철에는 무리를 짓고, 낮에는 홀로 또는 짝지어 다녀도 밤에는 여럿이 모여 자는 일이 많다. 3~6월에 알 3~5개를 낳는다. 다른 새의 알과 새끼, 작은 포유류, 양서·파충류, 갑각류, 곤충과 도토리, 곡식, 열매까지 가리지 않고 먹으며, 국외에서는 중국 남부, 일본 남부, 타이완에 분포한다.",
+  "points": [
+    {
+      "ko": "가늘고 검은 부리",
+      "en": "slender black bill"
+    },
+    {
+      "ko": "온몸이 검은 깃",
+      "en": "all-black plumage"
+    },
+    {
+      "ko": "겨울 녹색 광택, 여름 갈색 기",
+      "en": "green gloss in winter, browner tinge in summer"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이며 암컷이 조금 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Carrion Crow (Corvus corone), adult: all-black plumage with a green gloss, slender black bill, black legs",
+    "pose": "perched on top of a tall tree, side view",
+    "scene": "tall trees beside Korean farmland and hills in early spring; no people, buildings or text",
+    "views": [
+      "adult, winter, side view perched: all black with a green gloss, slender black bill, black legs",
+      "adult, summer, side view perched: all black with a slight brownish tinge"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001966",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001966",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

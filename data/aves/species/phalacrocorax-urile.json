@@ -1,0 +1,69 @@
+{
+  "id": "phalacrocorax-urile",
+  "ko": "붉은뺨가마우지",
+  "sci": "Phalacrocorax urile",
+  "author": "Gmelin, 1789",
+  "en": "Red-faced Cormorant",
+  "ktsn": 120000001568,
+  "origin": "nibr",
+  "length": "71–76cm",
+  "status": "TODO",
+  "habitat": "바다 절벽",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "온몸의 깃이 광택 있는 녹청색이고 얼굴이 밝은 붉은색을 띠는 새다. 바다에 면한 절벽에 둥지를 틀고 알 3~4개를 낳는다. 알래스카와 북동아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "머리의 볏 두 개",
+      "en": "two crests on the head"
+    },
+    {
+      "ko": "밝은 홍색의 콧등과 눈 주위",
+      "en": "bright red face around the eyes and at the bill base"
+    },
+    {
+      "ko": "엷은 색 부리",
+      "en": "pale bill"
+    },
+    {
+      "ko": "광택 있는 녹청색 깃",
+      "en": "glossy blue-green plumage"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-faced Cormorant (Phalacrocorax urile), adult: glossy blue-green plumage overall, bright red face around the eyes and at the base of the bill, pale bill, two crests on the head",
+    "pose": "standing on a ledge of a sea cliff",
+    "scene": "rocky sea cliff ledges above the open sea; no people, buildings or text",
+    "views": [
+      "adult, side view perched: glossy blue-green plumage, bright red face, pale bill, two head crests",
+      "adult, head detail: red bare face around the eye and bill base, pale bill, two crests"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은뺨가마우지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001568",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은뺨가마우지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001568",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Urile urile)"
+    }
+  ],
+  "todo": []
+}

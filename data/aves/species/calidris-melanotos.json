@@ -1,0 +1,80 @@
+{
+  "id": "calidris-melanotos",
+  "ko": "아메리카메추라기도요",
+  "sci": "Calidris melanotos",
+  "author": "Vieillot, 1819",
+  "en": "Pectoral Sandpiper",
+  "ktsn": 120000001736,
+  "origin": "nibr",
+  "length": "약 22cm",
+  "status": "보기 드문 철새 또는 미조",
+  "habitat": "간척지, 도랑가·물웅덩이 부근의 마른 땅(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 중순~7월 하순에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 보기 드문 철새이거나 길을 잃고 찾아오는 새이다. 작은 무리를 짓거나 민물도요 무리에 섞여 간척지에 내려앉아 먹이를 찾으며, 혼자 또는 암수가 함께 먹이를 찾을 때가 많다. 유폐목 연체동물과 딱정벌레·벌·파리·메뚜기 무리의 곤충을 즐겨 먹는다. 북극 연안 툰드라에 분포해 작은 도랑가나 물이 고인 곳 근처의 마른 땅에 접시 모양 둥지를 틀고 알 4개를 낳으며, 한국·일본·오스트레일리아·아프리카·남아메리카·쿠릴 열도 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "붉은 갈색 가장자리의 검은 갈색 머리꼭대기",
+      "en": "blackish-brown crown and nape fringed rufous"
+    },
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "가는 가로 얼룩이 있는 눈 앞과 귀깃",
+      "en": "rusty-white lores and ear coverts finely barred dark brown"
+    },
+    {
+      "ko": "검은 갈색 부리",
+      "en": "blackish-brown bill"
+    },
+    {
+      "ko": "검은 중앙 꽁지깃 한 쌍",
+      "en": "black central pair of tail feathers"
+    },
+    {
+      "ko": "갈색 기 도는 녹황색 다리",
+      "en": "brownish greenish-yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "여름깃은 암수가 같은 모습이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pectoral Sandpiper (Calidris melanotos), adult breeding: blackish-brown crown and nape fringed rufous, white supercilium, rusty-white lores and ear coverts finely barred dark brown, black central tail feathers with grey-brown outer tail, blackish-brown bill, brownish greenish-yellow legs",
+    "pose": "foraging on damp ground of reclaimed land, side view",
+    "scene": "Korean reclaimed land during migration, damp ground with shallow pools and short grass; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: dark crown, white supercilium, finely barred face, blackish-brown bill, greenish-yellow legs",
+      "adult breeding, tail from above: black central pair, grey-brown outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 아메리카메추라기도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001736",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 아메리카메추라기도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001736",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 보기 드문 철새 또는 미조라 하면서 월동지에 한국을 넣는다(확인 필요)."
+  ]
+}

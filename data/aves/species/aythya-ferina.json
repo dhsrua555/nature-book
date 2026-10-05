@@ -1,0 +1,74 @@
+{
+  "id": "aythya-ferina",
+  "ko": "흰죽지",
+  "sci": "Aythya ferina",
+  "author": "Linnaeus, 1758",
+  "en": "Common Pochard",
+  "ktsn": 120000001452,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "흔한 겨울철새",
+  "habitat": "저수지, 하천, 강 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "저수지와 하천, 강 하구에서 겨울을 나는 흔한 겨울철새로, 잠수하는 오리 가운데 국내에서 월동하는 수가 가장 많다. 댕기흰죽지나 검은머리흰죽지 등과 어울려 무리를 지어 지낸다. 변환깃에서는 가슴과 꼬리 색이 조금 옅어진다. 유럽 동북부와 바이칼호, 사할린섬에서 번식하고 한국, 일본, 대만, 중국 남부, 미얀마, 인도, 북아프리카 등지에서 월동한다.",
+  "points": [
+    {
+      "ko": "수컷의 적갈색 머리와 목",
+      "en": "male: reddish-brown head and neck"
+    },
+    {
+      "ko": "가운데에 굵은 회색 띠가 있는 검은 부리",
+      "en": "black bill with a broad grey central band"
+    },
+    {
+      "ko": "암컷 눈을 지나는 황갈색 둥근 뺨선",
+      "en": "female: rounded buff cheek line through the eye"
+    },
+    {
+      "ko": "암컷 눈 뒤의 흐린 흰 줄",
+      "en": "female: faint whitish stripe behind the eye"
+    },
+    {
+      "ko": "수컷의 검은 가슴과 회색 몸",
+      "en": "male: black breast and grey body"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 목은 적갈색, 가슴은 검은색, 몸은 회색이다.",
+    "female": "머리와 가슴은 갈색, 몸은 회갈색이며, 눈을 지나는 황갈색 둥근 뺨선과 눈 뒤의 흐린 흰 줄이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Pochard (Aythya ferina), adult male: reddish-brown head and neck, black breast, grey body, black bill with a broad grey band across the middle",
+    "pose": "swimming on open water among a loose flock of diving ducks",
+    "scene": "Korean winter reservoir with calm open water and dry reeds along the margin; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: reddish-brown head and neck, black breast, grey body, black bill with a broad grey central band",
+      "adult female, side view swimming: brown head and breast, grey-brown body, rounded buff cheek line through the eye, faint whitish stripe behind the eye"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001452",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001452",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

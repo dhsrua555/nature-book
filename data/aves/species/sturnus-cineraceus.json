@@ -1,0 +1,80 @@
+{
+  "id": "sturnus-cineraceus",
+  "ko": "찌르레기",
+  "sci": "Sturnus cineraceus",
+  "author": "Temminck, 1835",
+  "en": "White-cheeked Starling",
+  "ktsn": 120000002086,
+  "origin": "nibr",
+  "length": "약 24cm",
+  "status": "흔한 여름철새, 중부 이남에서는 겨울철새",
+  "habitat": "나무 구멍, 건물 지붕과 틈, 돌담 틈(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "알은 3월 하순~7월경에 낳는다."
+  },
+  "summary": "우리나라 전역에서 번식하는 흔한 여름새이며, 중부 이남에서는 겨울을 나기도 한다. 나무 구멍, 건물 지붕이나 틈, 돌담 틈, 딱따구리가 쓰던 둥지 등에 둥지를 틀고 3월 하순~7월경에 알을 4~6개 낳는다. 번식기에는 암수가 함께 지내고 그 밖의 때에는 대개 무리를 지으며, 무엇이든 먹는 잡식성이다. 유라시아 대륙 동부와 일본 등지에서 번식한다.",
+  "points": [
+    {
+      "ko": "녹색 광택이 도는 검은 머리와 뒷목",
+      "en": "black head and hindneck with a slight green gloss"
+    },
+    {
+      "ko": "버들잎 모양의 머리·멱 깃",
+      "en": "willow-leaf-shaped feathers on head and throat"
+    },
+    {
+      "ko": "흑백 세로 얼룩이 섞인 이마와 머리 옆",
+      "en": "forehead and sides of head streaked black and white"
+    },
+    {
+      "ko": "갈색 홍채",
+      "en": "brown iris"
+    },
+    {
+      "ko": "황색 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-cheeked Starling (Sturnus cineraceus), adult male in winter: black head and hindneck with a slight green gloss, willow-leaf-shaped feathers on the head and throat, forehead and sides of the head streaked black and white, brown iris, yellow legs",
+    "pose": "perched at the entrance of a tree-hole nest",
+    "scene": "Korean spring countryside: an old tree with a hollow beside a stone wall; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: glossy black head, black-and-white streaked forehead and sides of head, brown iris, yellow legs",
+      "adult summer, side view: worn plumage, paler overall and without the bronze gloss"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000002086",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002086",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Spodiopsar cineraceus)"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "poecile-montanus",
+  "ko": "북방쇠박새",
+  "sci": "Poecile montanus",
+  "author": "Conrad von Baldenstein, 1827",
+  "en": "Willow Tit",
+  "ktsn": 120000528888,
+  "origin": "nibr",
+  "length": "12.5cm",
+  "status": "흔하지 않은 텃새",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "중부 이북에서 볼 수 있는 흔하지 않은 텃새이다. 쇠박새와 매우 닮아 야외에서 생김새로 가려내기는 어렵지만 울음소리로 구별할 수 있고, 표본으로는 발가락 길이와 부리 모양으로 쉽게 가린다. 한국, 시베리아, 중국 북부, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "더 짙은 검은 정수리(때로 갈색)",
+      "en": "deep black cap, sometimes tinged brown"
+    },
+    {
+      "ko": "둘째날개깃의 담색 반점",
+      "en": "pale patch on the secondaries"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "쇠박새",
+      "how": "정수리가 더 짙은 검은색이고 때로 갈색을 띠며, 둘째날개깃에 보통 담색 반점이 있다. 야외에서는 울음소리로, 표본에서는 발가락 길이와 부리 모양으로 구별한다."
+    }
+  ],
+  "art": {
+    "subject": "Willow Tit (Poecile montanus), adult: very like Marsh Tit but with a deeper black crown, sometimes tinged brownish, and a pale patch on the secondaries",
+    "pose": "perched on a twig, side view",
+    "scene": "TODO",
+    "views": [
+      "adult, side view perched: deep black cap, pale panel on the secondaries",
+      "adult, head detail: black cap sometimes tinged brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방쇠박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528888",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방쇠박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528888",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

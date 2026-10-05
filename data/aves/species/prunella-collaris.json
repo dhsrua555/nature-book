@@ -1,0 +1,77 @@
+{
+  "id": "prunella-collaris",
+  "ko": "바위종다리",
+  "sci": "Prunella collaris",
+  "author": "Scopoli, 1769",
+  "en": "Alpine Accentor",
+  "ktsn": 120000002163,
+  "origin": "nibr",
+  "length": "18cm",
+  "status": "텃새(북부), 드문 겨울철새(중부 이남)",
+  "habitat": "돌이 많은 산지의 풀밭, 바위 틈(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "6~7월에 알을 낳고, 중부 이남에는 늦가을에 내려와 겨울을 난다."
+  },
+  "summary": "돌이 많은 산지의 풀밭에 사는 새로, 북부 지역에서는 텃새이고 중부 이남에서는 늦가을에 내려와 겨울을 나는 드문 겨울철새이다. 바위 틈에 벼과 식물의 이삭·줄기·잎이나 이끼로 밥그릇 모양 둥지를 짓고 6~7월에 알 3~4개를 낳는다. 곤충을 주로 먹지만 열매와 씨도 먹는다. 국내에서는 북부 지방, 경상북도, 경기도에 살고, 국외에서는 남부 유럽에서 아시아 동부까지 분포한다.",
+  "points": [
+    {
+      "ko": "잿빛 쥐색 머리와 목",
+      "en": "ash-grey head and neck"
+    },
+    {
+      "ko": "검은 갈색 무늬의 잿빛 갈색 등",
+      "en": "grey-brown back marked blackish brown"
+    },
+    {
+      "ko": "갈색 띤 쥐색 가슴",
+      "en": "brownish-grey breast"
+    },
+    {
+      "ko": "적갈색 세로줄이 많은 흰 배",
+      "en": "white belly heavily streaked rufous"
+    },
+    {
+      "ko": "가장자리 흰 밤색 아래꼬리덮깃",
+      "en": "dark chestnut undertail coverts fringed white"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Alpine Accentor (Prunella collaris), adult: ash-grey head and neck, grey-brown back with blackish-brown markings, brownish-grey breast, white belly heavily streaked rufous, dark chestnut undertail coverts with white fringes",
+    "pose": "foraging on the ground among stones, side view",
+    "scene": "Korean rocky mountain grassland with scattered boulders in late autumn; no people, buildings or text",
+    "views": [
+      "adult, side view on a rock: ash-grey head and neck, grey-brown back marked blackish brown, brownish-grey breast, white belly streaked rufous",
+      "adult, view from below: dark chestnut undertail coverts with white fringes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바위종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002163",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바위종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002163",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

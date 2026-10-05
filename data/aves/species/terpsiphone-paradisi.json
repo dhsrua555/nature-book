@@ -1,0 +1,78 @@
+{
+  "id": "terpsiphone-paradisi",
+  "ko": "북방긴꼬리딱새",
+  "sci": "Terpsiphone paradisi",
+  "author": "Linnaeus, 1758",
+  "en": "Indian Paradise Flycatcher",
+  "ktsn": 120000001950,
+  "origin": "nibr",
+  "length": "수컷 22cm",
+  "status": "TODO",
+  "habitat": "산지의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "번식기는 5~7월이다(원문은 번식지를 인도·동남아시아·중국 등으로 적었다)."
+  },
+  "summary": "산지의 숲에서 생활하는 새이다. 나뭇가지에 둥지를 틀고 5~7월에 한배에 알 3~4개를 낳아 암수가 함께 품는다. 인도, 동남아시아, 중국 등지에서 번식하며, 북쪽에서 번식하는 무리는 남쪽으로 내려가 겨울을 난다.",
+  "points": [
+    {
+      "ko": "돌출한 볏이 있는 검은 머리",
+      "en": "black head with a prominent crest"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "20cm에 이르는 긴 꼬리(수컷)",
+      "en": "very long tail, about 20 cm (male)"
+    },
+    {
+      "ko": "흰색형: 검은 세로무늬로 잿빛 보이는 흰 등",
+      "en": "white morph: white back finely streaked black, looking greyish"
+    },
+    {
+      "ko": "밤색형: 보랏빛 광택 밤색 등과 꼬리",
+      "en": "rufous morph: chestnut back glossed purple, chestnut rump and tail"
+    },
+    {
+      "ko": "밤색형: 회색 가슴과 흰 배",
+      "en": "rufous morph: grey breast and flanks, white belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Indian Paradise Flycatcher (Terpsiphone paradisi), adult male, rufous morph: black head with a prominent crest, black bill, chestnut back and scapulars glossed purple, uniform chestnut rump, uppertail coverts and very long tail, grey breast and flanks, white belly, underwing coverts and undertail coverts",
+    "pose": "perched on a branch inside the forest, long tail hanging down",
+    "scene": "shady interior of a Korean mountain forest; no people, buildings or text",
+    "views": [
+      "adult male, rufous morph, side view perched: black crested head, black bill, purple-glossed chestnut back, chestnut long tail, grey breast, white belly",
+      "adult male, white morph, side view perched: black crested head, white back with fine black streaks and edges, white breast, belly and undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방긴꼬리딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001950",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방긴꼬리딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001950",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": "charadrius-mongolus",
+  "ko": "왕눈물떼새",
+  "sci": "Charadrius mongolus",
+  "author": "Pallas, 1776",
+  "en": "Siberian Sand Plover",
+  "ktsn": 120000155052,
+  "origin": "nibr",
+  "length": "19.5cm",
+  "status": "비교적 흔한 나그네새",
+  "habitat": "해안 갯벌, 염전, 강 하구, 해안 사구",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "봄에는 4월 초~5월 말, 가을에는 7월 말~10월 중순에 보인다."
+  },
+  "summary": "봄과 가을에 비교적 흔하게 지나가는 나그네새이다. 해안의 갯벌, 염전, 강 하구, 해안 사구 등에서 작은 무리를 지어 다른 물떼새류와 섞여 지내며 주로 갯지렁이를 먹는다. 파미르, 티베트, 캄차카, 추코트반도에서 번식하고 아프리카 동부, 인도, 동남아시아, 뉴질랜드, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "짧고 온통 검은 부리",
+      "en": "short all-black bill"
+    },
+    {
+      "ko": "여름깃의 검은 이마 위·눈선·귀깃",
+      "en": "breeding: black forehead band, eye-stripe and ear-coverts"
+    },
+    {
+      "ko": "여름깃의 적갈색 뒷목과 가슴",
+      "en": "breeding: rufous hindneck and breast"
+    },
+    {
+      "ko": "겨울깃의 흑갈색 얼굴",
+      "en": "non-breeding: dark brown face"
+    },
+    {
+      "ko": "겨울깃에 흰 뒷목 없음",
+      "en": "non-breeding: no white hind collar"
+    },
+    {
+      "ko": "어두운 녹색이나 회색 다리",
+      "en": "dark greenish or grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "성조 겨울깃과 비슷하지만 몸 윗면에 비늘 무늬가 있고 얼굴과 가슴에 황갈색 기운이 돈다.",
+  "similar": [
+    {
+      "ko": "큰왕눈물떼새",
+      "how": "매우 비슷하지만 왕눈물떼새는 부리가 더 짧다."
+    },
+    {
+      "ko": "흰물떼새",
+      "how": "왕눈물떼새 겨울깃은 흰물떼새 암컷과 비슷하나 목 뒤에 흰색이 없다."
+    }
+  ],
+  "art": {
+    "subject": "Siberian Sand Plover (Charadrius mongolus), adult breeding: black forehead band, eye-stripe and ear-coverts, rufous from hindneck to breast, short all-black bill, dark greenish-grey legs",
+    "pose": "foraging on a mudflat, pulling a ragworm from the mud",
+    "scene": "Korean tidal mudflat in spring with a small mixed flock of plovers; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: black forehead, eye-stripe and ear-coverts, rufous hindneck and breast, short black bill",
+      "adult non-breeding, side view: dark brown face, no white hind collar",
+      "juvenile, side view: scaly upperparts, buff wash on face and breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 왕눈물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155052",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 왕눈물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155052",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Anarhynchus mongolus)"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "gavia-stellata",
+  "ko": "아비",
+  "sci": "Gavia stellata",
+  "author": "Pontoppidan, 1763",
+  "en": "Red-throated Loon",
+  "ktsn": 120000001478,
+  "origin": "nibr",
+  "length": "61–67cm",
+  "status": "흔한 겨울철새",
+  "habitat": "연안, 항만",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "흔한 겨울철새로, 국내에서는 주로 제주도와 남해, 동해 연안에서 겨울을 나며 항만이나 연안에서 가끔 눈에 띈다. 잠수해 물고기를 잡아먹는다. 번식지에서는 호숫가 식물 한가운데를 납작하게 다져 알 2개를 낳는데, 알은 반점이 있는 올리브색에서 갈색까지 여러 가지이다. 세계적으로는 유럽, 아시아, 아메리카의 북부와 일본, 사할린, 중국, 타이완 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "위로 조금 휜 가는 부리",
+      "en": "slender, slightly upturned bill"
+    },
+    {
+      "ko": "여름깃의 회색 머리",
+      "en": "breeding: grey head"
+    },
+    {
+      "ko": "여름깃의 적갈색 목",
+      "en": "breeding: reddish-brown neck"
+    },
+    {
+      "ko": "겨울깃의 흰 멱·앞목",
+      "en": "winter: white throat and foreneck"
+    },
+    {
+      "ko": "겨울깃의 흰 반점 있는 갈색 등",
+      "en": "winter: brown back spotted with white"
+    },
+    {
+      "ko": "겨울깃의 흰 배",
+      "en": "winter: white belly"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-throated Loon (Gavia stellata), adult in winter plumage: slender, slightly upturned bill, brown back spotted with white, white throat, foreneck and belly",
+    "pose": "floating low on the sea, about to dive",
+    "scene": "Korean winter coastal waters off Jeju with a gentle swell; no people, buildings or text",
+    "views": [
+      "adult winter, side view swimming: slender slightly upturned bill, brown back with white spots, white throat, foreneck and belly",
+      "adult breeding, side view swimming: grey head, reddish-brown neck, brown back, slender upturned bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 아비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001478",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 아비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001478",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

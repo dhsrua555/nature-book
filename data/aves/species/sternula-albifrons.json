@@ -1,0 +1,80 @@
+{
+  "id": "sternula-albifrons",
+  "ko": "쇠제비갈매기",
+  "sci": "Sternula albifrons",
+  "author": "Pallas, 1764",
+  "en": "Little Tern",
+  "ktsn": 120000528812,
+  "origin": "nibr",
+  "length": "약 24cm",
+  "status": "TODO",
+  "habitat": "하천, 해안, 하구의 모래섬",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "전국의 하천과 해안, 하구의 모래섬에서 사는 제비갈매기로, 한국·일본·중국·우수리 등지에서 번식하고 필리핀, 뉴기니섬, 오스트레일리아, 인도차이나, 인도, 스리랑카 등지에서 겨울을 난다. 공중에서 정지비행을 하다가 물로 뛰어들어 물고기를 잡는다. 한 번에 알 2~3개를 낳는다. 겨울에는 이마부터 머리꼭대기까지 희어지고 부리는 검게, 다리는 노란 갈색으로 바뀌며, 꼬리가 짧아져 오목꼬리가 된다.",
+  "points": [
+    {
+      "ko": "여름깃의 흰 이마, 검은 머리 위·뒷목",
+      "en": "breeding: white forehead, black crown and nape"
+    },
+    {
+      "ko": "눈가의 검은 선",
+      "en": "black eye-line"
+    },
+    {
+      "ko": "여름깃의 끝이 검은 노란 부리",
+      "en": "breeding: yellow bill with a black tip"
+    },
+    {
+      "ko": "회색 윗면과 흰 아랫면",
+      "en": "grey upperparts, white underparts"
+    },
+    {
+      "ko": "여름깃의 제비꼬리",
+      "en": "breeding: forked tail"
+    },
+    {
+      "ko": "짧은 주황빛 노란 다리",
+      "en": "short yellowish-orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Little Tern (Sternula albifrons), adult breeding: white forehead, black crown and nape, black eye-line, grey upperparts, white underparts, yellow bill with a black tip, forked tail, short yellowish-orange legs",
+    "pose": "hovering over water before plunge-diving for fish",
+    "scene": "Korean river mouth with a sandbar and shallow water; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: white forehead, black crown and nape, grey upperparts, yellow bill with black tip, forked tail, yellowish-orange legs",
+      "adult non-breeding, side view: white forehead to crown, black bill, yellowish-brown legs, shorter notched tail",
+      "adult hovering: grey upperwing, forked tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528812",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528812",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

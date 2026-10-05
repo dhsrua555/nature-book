@@ -1,0 +1,78 @@
+{
+  "id": "motacilla-tschutschensis",
+  "ko": "긴발톱할미새",
+  "sci": "Motacilla tschutschensis",
+  "author": "J.F.Gmelin, 1789",
+  "en": "Eastern Yellow Wagtail",
+  "ktsn": 120000528728,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "쉽게 볼 수 없는 나그네새",
+  "habitat": "낮은 지대의 초원, 늪지대 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~6월에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 흔히 보기 어려운 나그네새로, 낮은 지대의 풀밭이나 늪지 둘레에서 지낸다. 주로 곤충을 잡아먹으며, 이동할 때에는 많은 수가 무리를 짓는다. 번식지에서는 풀밭과 툰드라의 땅 위에 둥지를 틀고 한배에 알 4~5개를 낳는다.",
+  "points": [
+    {
+      "ko": "가늘고 긴 진갈색 부리",
+      "en": "slender, long dark brown bill"
+    },
+    {
+      "ko": "노란빛이 살짝 도는 잿빛 머리~등",
+      "en": "dark grey crown to back with a faint yellow wash"
+    },
+    {
+      "ko": "턱 밑에서 배까지 연노란색",
+      "en": "pale yellow from chin to belly"
+    },
+    {
+      "ko": "여름깃은 연녹색 윗면, 짙은 노란 턱",
+      "en": "breeding: pale green forehead to rump, deep yellow chin"
+    },
+    {
+      "ko": "흰 바깥꼬리깃이 있는 검은 꼬리",
+      "en": "black tail with white outer tail feathers"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eastern Yellow Wagtail (Motacilla tschutschensis), adult: dark grey crown to back with a faint yellowish wash, pale yellow from chin to belly, slender long dark brown bill, black wings with slightly whitish edges, black tail with white outer tail feathers, black legs",
+    "pose": "walking on short grass, picking up insects",
+    "scene": "Korean lowland grassland beside a marsh during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark grey upperparts washed yellow, pale yellow underparts, black wings with whitish edges, black tail with white outer feathers, black legs",
+      "breeding adult, side view: pale green from forehead to rump, deep yellow chin"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴발톱할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528728",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴발톱할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528728",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

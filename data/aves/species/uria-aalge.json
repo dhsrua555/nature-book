@@ -1,0 +1,80 @@
+{
+  "id": "uria-aalge",
+  "ko": "바다오리",
+  "sci": "Uria aalge",
+  "author": "Pontoppidan, 1763",
+  "en": "Common Murre",
+  "ktsn": 120000001803,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "여름철새",
+  "habitat": "바닷가 섬의 암초와 암벽, 바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "동해 연안에서 관찰되는 여름철새로, 바닷가 섬의 암초와 암벽에서 산다. 바다 위를 헤엄치고 잠수하며 물고기, 게와 새우 같은 갑각류, 연체동물, 벼과 식물의 열매를 먹는다. 수백에서 수만 마리가 큰 무리를 이루어 함께 번식하며, 둥지를 짓지 않고 암벽이나 암초 위에 바로 알을 낳는다. 세계적으로는 동아시아, 유럽, 북아메리카에 분포한다.",
+  "points": [
+    {
+      "ko": "길고 곧은 검은 부리",
+      "en": "long, straight black bill"
+    },
+    {
+      "ko": "어두운 회색 머리와 뒷목(여름깃)",
+      "en": "dark grey head and hindneck (breeding)"
+    },
+    {
+      "ko": "갈색 목(여름깃)",
+      "en": "brown foreneck (breeding)"
+    },
+    {
+      "ko": "흰 옆머리·뺨·옆목(겨울깃)",
+      "en": "white face, cheeks and neck sides (non-breeding)"
+    },
+    {
+      "ko": "흰 가슴과 배",
+      "en": "white breast and belly"
+    },
+    {
+      "ko": "둘째날개깃의 흰 끝",
+      "en": "white tips to the secondaries"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 어미의 겨울깃과 비슷하다.",
+  "similar": [],
+  "art": {
+    "subject": "Common Murre (Uria aalge), adult breeding: dark grey head, hindneck and back, brown foreneck, white breast and belly, white tips to the secondaries, white underwing, long straight black bill",
+    "pose": "swimming on the sea surface, about to dive",
+    "scene": "Korean East Sea in summer: rocky reef and sea cliff of an offshore island; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: dark grey head and back, brown foreneck, white breast, long straight black bill",
+      "adult non-breeding, side view swimming: white face, cheeks and neck sides, long straight black bill",
+      "adult, in flight from below: white breast, belly and underwing, white trailing tips to the secondaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바다오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001803",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바다오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001803",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 여름철새라 하지만 국내 번식지나 번식 시기를 밝히지 않아 국내 상태 확인이 필요하다"
+  ]
+}

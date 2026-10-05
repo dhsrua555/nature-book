@@ -1,0 +1,81 @@
+{
+  "id": "lanius-tigrinus",
+  "ko": "칡때까치",
+  "sci": "Lanius tigrinus",
+  "author": "Drapiez, 1828",
+  "en": "Tiger Shrike",
+  "ktsn": 120000001933,
+  "origin": "nibr",
+  "length": "약 18.5cm",
+  "status": "드물지 않은 여름철새",
+  "habitat": "관목과 교목이 있는 구릉·산림·농촌·도시 교외, 잡목림과 적송림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "알은 6월부터 7월 하순 사이에 낳는다."
+  },
+  "summary": "전국에서 드물지 않게 번식하는 여름철새로, 구릉과 산림, 농촌과 도시 교외 등 관목과 교목이 있는 곳이면 어디서나 눈에 띈다. 암수가 함께 지내고 무리를 짓지 않지만, 새끼가 둥지를 떠난 뒤에는 가족 단위로 다니기도 한다. 번식기에는 일정한 세력권을 지키며 잡목림이나 적송림에 둥지를 틀고, 6월부터 7월 하순 사이에 한배에 알 3~6개를 낳는다. 곤충을 주로 먹으며, 3~4월에 털갈이를 한다.",
+  "points": [
+    {
+      "ko": "이마에서 눈 뒤까지 굵은 검은 눈선",
+      "en": "broad black mask from forehead through the eye"
+    },
+    {
+      "ko": "잿빛 머리꼭대기와 뒷목",
+      "en": "grey crown and nape"
+    },
+    {
+      "ko": "높고 튼튼한 쇳빛 검은 부리",
+      "en": "deep, stout iron-black bill"
+    },
+    {
+      "ko": "검은 가로줄이 있는 붉은 갈색 등",
+      "en": "rufous-brown back finely barred black"
+    },
+    {
+      "ko": "엷은 가로띠가 있는 연갈색 꼬리",
+      "en": "pale brown tail with faint pale bars"
+    },
+    {
+      "ko": "튼튼한 잿빛 다리",
+      "en": "sturdy grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Tiger Shrike (Lanius tigrinus), adult male, winter plumage: broad black mask from the forehead through lores, eye and ear coverts, grey crown, nape and neck sides, rufous-brown back, scapulars, rump and uppertail coverts each feather with two fine black bars, pale brown tail with pale bars, deep stout iron-black bill, brown iris, sturdy grey legs",
+    "pose": "perched upright on a shrub branch, scanning for insects",
+    "scene": "edge of Korean hill woodland with shrubs, broadleaf trees and red pines in summer; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black mask, grey crown and nape, black-barred rufous-brown back, deep iron-black bill, grey legs",
+      "adult male, back view: rufous-brown back and rump barred black, pale brown tail with pale bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 칡때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000001933",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 칡때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001933",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

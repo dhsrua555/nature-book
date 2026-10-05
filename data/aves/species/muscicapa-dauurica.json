@@ -1,0 +1,78 @@
+{
+  "id": "muscicapa-dauurica",
+  "ko": "쇠솔딱새",
+  "sci": "Muscicapa dauurica",
+  "author": "Pallas, 1811",
+  "en": "Asian Brown Flycatcher",
+  "ktsn": 120000002137,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "흔한 나그네새",
+  "habitat": "숲의 나무 위, 삼나무·소나무 숲, 마을과 인가 근처의 외딴 나무",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 전국을 흔히 지나가는 나그네새이다. 홀로 또는 암수가 함께 주로 나무 위에서 지내며 이동할 때에도 무리를 이루지 않고, 폭 넓은 부리로 날면서 곤충을 잡는다. 삼나무·소나무 숲이나 마을과 인가 근처의 외딴 나무에 둥지를 틀어 5~6월에 한배에 알 4~5개를 낳고, 번식이 끝나면 어린 새를 데리고 가족 무리를 이룬다. 구북구 동부, 몽골 북부, 아무르, 우수리, 만주, 사할린, 일본, 쿠릴 열도, 인도, 히말라야, 중국 서부 등지에서 번식하고 중국 남부, 하이난섬, 인도차이나, 미얀마, 인도, 말레이반도, 필리핀, 보르네오 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "뚜렷한 흰 눈테",
+      "en": "conspicuous white eye-ring"
+    },
+    {
+      "ko": "잿빛 흰 눈앞",
+      "en": "greyish-white lores"
+    },
+    {
+      "ko": "대부분 흐린 잿빛·황갈색인 아랫부리",
+      "en": "lower mandible mostly pale grey or yellowish brown"
+    },
+    {
+      "ko": "갈색 띤 잿빛 뺨·목 옆·옆구리",
+      "en": "brownish-grey cheeks, neck sides and flanks"
+    },
+    {
+      "ko": "바깥 가장자리가 엷은 잿빛 갈색 꽁지",
+      "en": "dark grey-brown tail with pale outer edges"
+    },
+    {
+      "ko": "검은 갈색 다리",
+      "en": "blackish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Asian Brown Flycatcher (Muscicapa dauurica), adult: greyish-white lores, conspicuous white eye-ring, brownish-grey cheeks, ear coverts, neck sides, breast sides and flanks, dark grey-brown tail with pale outer edges, flat broad bill with a blackish-brown tip and a mostly pale grey or yellowish-brown lower mandible, brown iris, blackish-brown legs",
+    "pose": "perched on a branch, about to sally out after a flying insect",
+    "scene": "Korean pine and cedar woodland with a lone tree at its edge, during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white eye-ring, greyish-white lores, brownish-grey cheeks and flanks, dark grey-brown tail, blackish-brown legs",
+      "adult, head detail: conspicuous white eye-ring and broad flat bill with pale lower mandible and dark tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠솔딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002137",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠솔딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002137",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

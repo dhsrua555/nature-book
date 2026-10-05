@@ -1,0 +1,69 @@
+{
+  "id": "larus-hyperboreus",
+  "ko": "흰갈매기",
+  "sci": "Larus hyperboreus",
+  "author": "Gunnerus, 1767",
+  "en": "Glaucous Gull",
+  "ktsn": 120000001760,
+  "origin": "nibr",
+  "length": "약 70cm",
+  "status": "TODO",
+  "habitat": "호수, 강가, 해안, 낙동강 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "등이 엷은 회색이고 첫째날개깃이 흰 대형 갈매기로, 호수와 강가, 해안 등에 산다. 국내에서는 낙동강 하구에 서식한다. 절벽에 이끼나 풀을 엮어 둥지를 짓고, 밝은 갈색 바탕에 진한 갈색 무늬가 있는 알을 3개쯤 낳는다. 세계적으로는 알래스카, 캐나다의 극지방과 아극지방, 미국 북부에 분포한다.",
+  "points": [
+    {
+      "ko": "붉은 점이 있는 노란 부리",
+      "en": "yellow bill with a red spot"
+    },
+    {
+      "ko": "엷은 회색 등",
+      "en": "pale grey back"
+    },
+    {
+      "ko": "흰 첫째날개깃",
+      "en": "white primaries"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Glaucous Gull (Larus hyperboreus), adult: large gull with pale grey back, white primaries, yellow bill with a red spot, pink legs",
+    "pose": "standing on a sandbar, side view",
+    "scene": "Korean river mouth like the Nakdong estuary, sandbars and shallow water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pale grey back, white primaries, yellow bill with red spot, pink legs",
+      "adult in flight: pale grey back and all-white primaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001760",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001760",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

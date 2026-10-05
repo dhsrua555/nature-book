@@ -1,0 +1,78 @@
+{
+  "id": "agropsar-philippensis",
+  "ko": "쇠찌르레기",
+  "sci": "Agropsar philippensis",
+  "author": "Pennant, 1781",
+  "en": "Chestnut-cheeked Starling",
+  "ktsn": 120000528897,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "드문 나그네새",
+  "habitat": "인가 부근, 시가지의 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 대개 5~6월에 알을 낳고, 7월부터 무리를 지어 다닌다."
+  },
+  "summary": "작은 무리가 드물게 한반도를 지나가는 나그네새이다. 인가 부근이나 시가지 숲에서 번식하는데, 대개 한배에 알을 4~6개 낳고 번식기에는 암수가 함께 지내다가 번식이 끝나면 무리를 지어 다닌다. 거미와 곤충을 주로 먹고 벚나무, 감, 포도 같은 나무 열매도 즐겨 먹는다. 구북구 동부에서 번식하고 한국, 중국 동부, 우수리, 타이완 등지를 거쳐 오키나와, 필리핀, 보르네오 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "크림빛 흰 이마~뒷목",
+      "en": "creamy-white forehead to hindneck"
+    },
+    {
+      "ko": "밤색 귀깃과 뺨",
+      "en": "chestnut ear coverts and cheeks"
+    },
+    {
+      "ko": "엷은 황갈색 눈앞·턱밑·멱",
+      "en": "pale buff lores, chin and throat"
+    },
+    {
+      "ko": "광택 강한 검은 자색 등과 허리",
+      "en": "glossy purplish-black back and rump"
+    },
+    {
+      "ko": "어두운 잿빛 가슴·옆구리와 흰 배",
+      "en": "dark grey breast and flanks, white belly"
+    },
+    {
+      "ko": "올리브색 다리",
+      "en": "olive legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chestnut-cheeked Starling (Agropsar philippensis), adult male winter: creamy-white forehead to hindneck, pale buff lores, chin and throat, chestnut ear coverts and cheeks, dark grey breast and flanks, white belly, glossy purplish-black back and rump, slightly notched black tail with strong green gloss, slate-black upper mandible, greyish base to the lower mandible, brown iris, olive legs",
+    "pose": "perched on a branch of a fruiting cherry tree, side view",
+    "scene": "Korean woodland edge near farmland with fruiting trees; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: creamy-white crown, chestnut cheeks, glossy purplish-black back, dark grey breast, white belly, olive legs",
+      "adult male winter, head detail: chestnut ear coverts, pale buff throat, slate-black upper mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528897",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528897",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

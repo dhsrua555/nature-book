@@ -1,0 +1,75 @@
+{
+  "id": "tringa-glareola",
+  "ko": "알락도요",
+  "sci": "Tringa glareola",
+  "author": "Linnaeus, 1758",
+  "en": "Wood Sandpiper",
+  "ktsn": 120000001719,
+  "origin": "nibr",
+  "length": "약 22cm",
+  "status": "흔한 나그네새",
+  "habitat": "하천, 호수, 논밭, 바닷가 부근 습지, 물 고인 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 봄철에 특히 많은 수가 보인다."
+  },
+  "summary": "봄과 가을에 국내를 흔하게 지나가는 나그네새로, 하천·호수·논밭과 바닷가 근처 습지에 산다. 봄에는 물이 고인 논이나 하천 간척지처럼 얕은 물이 괸 습지에서 전국적으로 많은 수가 눈에 띈다. 곤충과 갑각류를 주로 먹고 조개 같은 연체동물도 잡는다. 축축한 땅에 풀잎과 가는 나뭇가지로 밥그릇 모양 둥지를 틀어 알 4개를 낳고 주로 암컷이 품으며, 세계적으로는 구북구의 툰드라에서 한대와 일부 온대까지 분포한다.",
+  "points": [
+    {
+      "ko": "뚜렷한 흰 눈썹선",
+      "en": "bold white supercilium"
+    },
+    {
+      "ko": "흰 점·검은 점이 흩어진 회갈색 윗면",
+      "en": "grey-brown upperparts speckled with large white and black spots"
+    },
+    {
+      "ko": "날 때 하얗게 보이는 날개 아랫면",
+      "en": "whitish underwing in flight"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "삑삑도요",
+      "how": "사는 곳이 서로 다르고, 날 때 알락도요의 날개 아랫면이 더 하얗게 보인다."
+    }
+  ],
+  "art": {
+    "subject": "Wood Sandpiper (Tringa glareola), adult: bold white supercilium, grey-brown upperparts scattered with large white and black spots, yellow legs",
+    "pose": "wading in shallow water, picking insects from the surface",
+    "scene": "Korean spring wetland: flooded rice paddies with shallow standing water beside a stream; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white supercilium, grey-brown upperparts spotted white and black, yellow legs",
+      "adult in flight from below: whitish underwing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001719",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001719",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

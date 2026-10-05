@@ -1,0 +1,80 @@
+{
+  "id": "egretta-eulophotes",
+  "ko": "노랑부리백로",
+  "sci": "Egretta eulophotes",
+  "author": "Swinhoe, 1860",
+  "en": "Chinese Egret",
+  "ktsn": 120000001548,
+  "origin": "nibr",
+  "length": "약 68cm",
+  "status": "드문 여름철새",
+  "habitat": "해안의 만, 하구, 간석지, 갯벌, 논",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "해안의 만, 하구, 간석지, 갯벌, 논 등에 사는 드문 여름철새이다. 갯벌이나 바다 가까운 습지에서 물고기, 게와 새우 같은 갑각류, 갯지렁이 따위를 주로 잡고, 썰물에 드러난 갯벌, 염전, 농경지, 저수지에서도 먹이를 찾는다. 여름에는 강화 남단 갯벌, 한강 하구, 안산 섬 지역, 안면도, 천수만 등에서 먹이를 찾는 모습이 종종 보인다. 세계 개체군의 대부분이 서해안의 무인도에서 번식한다.",
+  "points": [
+    {
+      "ko": "노란 부리와 발",
+      "en": "yellow bill and feet"
+    },
+    {
+      "ko": "번식기 머리의 긴 장식깃",
+      "en": "long crest plumes on the head (breeding)"
+    },
+    {
+      "ko": "목과 등의 장식깃(번식기)",
+      "en": "plumes on the neck and back (breeding)"
+    },
+    {
+      "ko": "온몸 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "검은 다리(번식기)",
+      "en": "black legs (breeding)"
+    },
+    {
+      "ko": "흑갈색 부리, 녹황색 다리(겨울)",
+      "en": "blackish-brown bill, greenish-yellow legs (non-breeding)"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Egret (Egretta eulophotes), adult breeding: all-white plumage, long crest plumes on the head, plumes on the neck and back, yellow bill, black legs, yellow feet",
+    "pose": "walking across a tidal mudflat, hunting fish and crabs",
+    "scene": "Korean summer west-coast tidal flats at low tide near an estuary; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: all-white body, long head plumes, plumes on neck and back, yellow bill, black legs, yellow feet",
+      "adult non-breeding, side view standing: no plumes, blackish-brown bill, greenish-yellow legs"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑부리백로",
+      "url": "https://species.nibr.go.kr/species-detail/120000001548",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑부리백로",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001548",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

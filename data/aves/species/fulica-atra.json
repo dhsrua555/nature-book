@@ -1,0 +1,78 @@
+{
+  "id": "fulica-atra",
+  "ko": "물닭",
+  "sci": "Fulica atra",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Coot",
+  "ktsn": 120000001643,
+  "origin": "nibr",
+  "length": "약 39cm",
+  "status": "매우 흔한 겨울철새, 흔한 텃새",
+  "habitat": "습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "매우 흔한 겨울철새이자 흔한 텃새로, 국내에서는 전국의 습지에서 볼 수 있다. 발가락에 판족이 있어 헤엄을 잘 치고 잠수에도 능하며, 위험하면 물속으로 들어가거나 수면을 박차고 달려 달아난다. 유라시아, 인도, 호주에 널리 분포한다.",
+  "points": [
+    {
+      "ko": "흰 이마판",
+      "en": "white frontal shield"
+    },
+    {
+      "ko": "엷은 살구색 부리",
+      "en": "pale apricot bill"
+    },
+    {
+      "ko": "적갈색 홍채",
+      "en": "reddish-brown iris"
+    },
+    {
+      "ko": "통통한 검은 몸",
+      "en": "plump all-black body"
+    },
+    {
+      "ko": "날 때 보이는 흰 둘째날개깃 끝",
+      "en": "white tips to the secondaries in flight"
+    },
+    {
+      "ko": "판족 발가락",
+      "en": "lobed toes"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 얼굴과 앞목이 희고 부리가 흑갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Coot (Fulica atra), adult: plump, all-black body, white frontal shield, pale apricot bill, reddish-brown iris, lobed toes, white tips to the secondaries visible in flight",
+    "pose": "swimming on open water, about to dive",
+    "scene": "Korean winter wetland with open water and reed-fringed shores; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: all-black body, white frontal shield, pale apricot bill, reddish-brown eye",
+      "adult, flight view: all-black with white tips to the secondaries",
+      "juvenile, side view: white face and foreneck, blackish-brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물닭",
+      "url": "https://species.nibr.go.kr/species-detail/120000001643",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물닭",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001643",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

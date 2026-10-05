@@ -1,0 +1,79 @@
+{
+  "id": "anser-anser",
+  "ko": "회색기러기",
+  "sci": "Anser anser",
+  "author": "Linnaeus, 1758",
+  "en": "Greylag Goose",
+  "ktsn": 120000001415,
+  "origin": "nibr",
+  "length": "76–84cm",
+  "status": "드문 미조",
+  "habitat": "논, 소택지, 초지, 호소",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "논, 소택지, 초지, 호소 등에서 생활하는 큰 기러기로, 우리나라에는 제주도에 드물게 날아오는 미조다. 낮에는 호숫가나 탁 트인 마른 논에서 무리 지어 먹이를 찾으며, 땅에서 자라는 풀을 주로 먹고 물풀도 먹는다. 냉대·한대에서 아한대에 걸친 지역에서 번식하는데, 오목한 땅에 관목 가지와 마른풀, 이끼로 접시 모양 둥지를 짓고 알 5~6개를 28~29일 동안 품는다. 유라시아 대륙에 분포하며 중국과 일본 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "잿빛 갈색 머리",
+      "en": "grey-brown head"
+    },
+    {
+      "ko": "끝이 흰 살구색~붉은 주황 부리",
+      "en": "pale pink to reddish-orange bill with a white tip"
+    },
+    {
+      "ko": "끝이 회백색인 갈색 어깨깃",
+      "en": "brown scapulars tipped greyish white"
+    },
+    {
+      "ko": "가장자리가 흐린 짙은 갈색 옆구리",
+      "en": "dark brown flanks with pale brown fringes"
+    },
+    {
+      "ko": "흰 위꽁지덮깃",
+      "en": "white uppertail coverts"
+    },
+    {
+      "ko": "살구색 다리",
+      "en": "flesh-pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greylag Goose (Anser anser), adult: grey-brown head, brown mantle and scapulars with greyish-white feather tips, dark brown flanks with pale brown fringes, white uppertail coverts, pale pink to reddish-orange bill with a white tip, flesh-pink legs",
+    "pose": "grazing in a flock on open dry rice paddies",
+    "scene": "open dry rice paddies beside a marsh on Jeju Island; no people, buildings or text",
+    "views": [
+      "adult, side view standing: grey-brown head, brown scapulars tipped greyish white, dark brown flanks, white uppertail coverts, pinkish bill with white tip, flesh-pink legs",
+      "older adult, front view: breast and belly with black or grey blotches"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 회색기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001415",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 회색기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001415",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 등·허리가 흰색이라 하였으나 어깨깃이 갈색이라는 서술과 어울리지 않고 이 종의 모습과도 달라 보여 points·art에는 위꽁지덮깃만 흰색으로 씀, 확인 필요"
+  ]
+}

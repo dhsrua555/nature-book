@@ -1,0 +1,78 @@
+{
+  "id": "ardeola-bacchus",
+  "ko": "흰날개해오라기",
+  "sci": "Ardeola bacchus",
+  "author": "Bonaparte, 1855",
+  "en": "Chinese Pond Heron",
+  "ktsn": 120000001537,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "드문 나그네새, 매우 드문 여름철새",
+  "habitat": "호수, 연못, 논, 해안의 암석지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "드물게 지나가는 나그네새이며, 매우 드물게 여름철새로 머물기도 한다. 호수, 연못, 논, 바닷가 암석 지대 등에 살며 작은 척추동물, 곤충, 물고기 따위를 주로 잡아먹는다. 한국, 중국 동북부, 우수리, 베트남, 미얀마 등지에서 번식하고, 중국 남부, 대만, 동남아시아 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "끝이 검은 노란 부리",
+      "en": "yellow bill with a black tip"
+    },
+    {
+      "ko": "적갈색 머리·뒷목·가슴과 댕기(여름)",
+      "en": "rufous head, hindneck and breast with a rufous crest (breeding)"
+    },
+    {
+      "ko": "청회색 등(여름)",
+      "en": "blue-grey back (breeding)"
+    },
+    {
+      "ko": "날 때 드러나는 흰 날개와 꼬리",
+      "en": "white wings and tail in flight"
+    },
+    {
+      "ko": "갈색 등, 머리·가슴 세로줄(겨울)",
+      "en": "brown back, brown-streaked head, neck and breast (non-breeding)"
+    },
+    {
+      "ko": "황록색 다리",
+      "en": "yellowish-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Pond Heron (Ardeola bacchus), adult breeding: rufous head, hindneck and breast, rufous crest on the hindneck, blue-grey back, white wings and tail, yellow bill with a black tip, yellowish-green legs",
+    "pose": "standing hunched at the edge of a rice paddy, watching the water",
+    "scene": "Korean rice paddies beside a small pond; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: rufous head, neck and breast, blue-grey back, black-tipped yellow bill, yellowish-green legs",
+      "adult breeding, in flight: white wings and tail contrasting with the dark back",
+      "adult non-breeding, side view standing: brown back, brown streaks on head, neck and breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰날개해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001537",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰날개해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001537",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

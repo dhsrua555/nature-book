@@ -24,7 +24,7 @@ suffix = ""
 ref = []                        # 예: ["art/ref/scene-style.png"]  (마음에 든 도판을 넣어 두면 늘 함께 넘긴다)
 prompt = """
 {style}
-Subject: one {en} ({sci}) — {subject}. Pose: {pose}.
+Subject: a single bird — {subject}. Pose: {pose}.
 Setting: {scene}. Paint the setting as a soft but recognisable watercolor background that shows where this species lives in Korea, with the right plants, season and light.
 Composition: landscape format. The bird is the clear subject, sharply painted, about one third of the image width, placed slightly off-centre; the background is looser and gently out of focus so the bird stands out. Nothing else competes for attention (no people, buildings or other animals).
 """

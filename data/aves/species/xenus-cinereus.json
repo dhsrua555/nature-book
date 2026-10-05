@@ -1,0 +1,74 @@
+{
+  "id": "xenus-cinereus",
+  "ko": "뒷부리도요",
+  "sci": "Xenus cinereus",
+  "author": "Güldenstädt, 1774",
+  "en": "Terek Sandpiper",
+  "ktsn": 120000001721,
+  "origin": "nibr",
+  "length": "23cm",
+  "status": "흔한 나그네새",
+  "habitat": "간석지, 염전, 논, 하구 삼각주, 습지의 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~6월 중순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 국내를 흔하게 지나가는 나그네새로, 갯벌·염전·논·하구 삼각주와 습지 풀밭에서 지낸다. 무리를 지어 다니며 게를 비롯한 갑각류를 주로 먹는다. 유라시아 대륙 북부에서 번식해 알 4개를 낳고, 인도·동남아시아·호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "위로 휘어 올라간 긴 부리",
+      "en": "long, upturned bill"
+    },
+    {
+      "ko": "검은 세로무늬가 있는 연한 회갈색 윗면",
+      "en": "pale grey-brown upperparts with black streaks"
+    },
+    {
+      "ko": "목과 윗가슴의 잿빛 갈색 무늬",
+      "en": "greyish-brown markings on neck and upper breast"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Terek Sandpiper (Xenus cinereus), adult: long upturned bill, pale grey-brown upperparts with black streaks, greyish-brown markings on neck and upper breast, white underparts, yellow legs",
+    "pose": "foraging on wet mud in a loose flock, chasing a small crab",
+    "scene": "Korean tidal mudflat near an estuary during spring migration, wet mud and shallow channels; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long upturned bill, black-streaked pale grey-brown upperparts, white underparts, yellow legs",
+      "adult, head detail: long upturned bill, greyish-brown marks on the neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뒷부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001721",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뒷부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001721",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

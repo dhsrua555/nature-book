@@ -1,0 +1,83 @@
+{
+  "id": "arundinax-aedon",
+  "ko": "큰부리개개비",
+  "sci": "Arundinax aedon",
+  "author": "Pallas, 1776",
+  "en": "Thick-billed Warbler",
+  "ktsn": 120000528902,
+  "origin": "nibr",
+  "length": "약 18cm",
+  "status": "드문 나그네새",
+  "habitat": "물가의 풀밭과 갈대밭, 관목 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6월경 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라를 지나가는 드문 나그네새로 여겨진다. 물가 갈대밭이나 숲속에 몸을 숨겨 좀처럼 모습을 드러내지 않으며, 주로 딱정벌레, 메뚜기, 벌 따위 곤충을 먹는다. 시베리아 남부, 몽골 북부, 만주, 아무르, 우수리 등지에서 번식하는데, 물가 풀밭이나 관목 숲의 0.3~1.5m 높이 나뭇가지 위에 둥지를 짓고 알을 4~6개 낳는다. 중국 남부, 인도 아삼~네팔, 말레이반도 등지에서 겨울을 나고, 우리나라와 중국 동부 등지를 지나간다.",
+  "points": [
+    {
+      "ko": "황백색 눈앞과 눈테",
+      "en": "yellowish-white lores and eyering"
+    },
+    {
+      "ko": "등보다 엷은 귀깃",
+      "en": "ear coverts paler than the back"
+    },
+    {
+      "ko": "녹슨 빛 올리브 황갈색 윗면",
+      "en": "rusty olive-brown upperparts"
+    },
+    {
+      "ko": "황토빛 흰 멱과 아랫가슴",
+      "en": "buffy-white throat and lower breast"
+    },
+    {
+      "ko": "올리브빛 황토색 윗가슴과 옆구리",
+      "en": "olive-buff upper breast and flanks"
+    },
+    {
+      "ko": "어두운 윗부리와 엷은 갈색 아랫부리",
+      "en": "dark horn upper mandible, pale brown lower mandible"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수를 구별하기 어렵다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "개개비",
+      "how": "몸 크기가 비슷하다(원문은 다른 점을 적지 않았다)."
+    }
+  ],
+  "art": {
+    "subject": "Thick-billed Warbler (Arundinax aedon), adult male summer: slightly rusty olive-brown crown, back and scapulars, yellowish-white lores and eyering, ear coverts paler than the back with faint pale shaft streaks, buffy-white chin, throat and lower breast, olive-buff upper breast and flanks, dark horn-brown upper mandible, pale brown lower mandible yellowish at tip and base, brown iris, lead-grey to dark horn-brown legs",
+    "pose": "skulking low in reeds near water, partly hidden",
+    "scene": "Korean autumn riverside reed bed with scattered shrubs; no people, buildings or text",
+    "views": [
+      "adult, side view perched: rusty olive-brown upperparts, pale lores and eyering, buffy-white throat, olive-buff flanks",
+      "adult, head and bill detail: dark upper mandible, pale brown lower mandible with yellowish tip and base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰부리개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000528902",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰부리개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528902",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

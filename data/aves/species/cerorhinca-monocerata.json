@@ -1,0 +1,77 @@
+{
+  "id": "cerorhinca-monocerata",
+  "ko": "흰수염바다오리",
+  "sci": "Cerorhinca monocerata",
+  "author": "Pallas, 1811",
+  "en": "Rhinoceros Auklet",
+  "ktsn": 120000001814,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "바닷가의 섬, 바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 4월 상순~6월 상순에 1개를 낳는다."
+  },
+  "summary": "바닷가의 섬이나 바다에서 생활하며, 헤엄치고 잠수하면서 먹이를 찾는다. 4월 상순~6월 상순에 광택 없는 회백색 바탕에 연한 갈색이나 어두운 회색 줄무늬와 점이 드문드문 있는 알을 1개 낳는다. 부위별 길이는 날개 172~182mm, 꽁지 45~62mm, 발목 28~32mm, 부리 32~39mm이다. 한국의 평안북도 엽도와 강원도 통천, 알래스카 남부, 캘리포니아, 아무르, 사할린, 일본 북부 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "옆얼굴의 두 줄 흰 깃",
+      "en": "two white plume lines on the side of the face"
+    },
+    {
+      "ko": "갈색 띤 어두운 회색 멱과 윗가슴",
+      "en": "brownish dark grey throat and upper breast"
+    },
+    {
+      "ko": "검은 갈색 등",
+      "en": "blackish-brown upperparts"
+    },
+    {
+      "ko": "어두운 회색 무늬가 조금 있는 흰 배",
+      "en": "white belly lightly marked dark grey"
+    },
+    {
+      "ko": "무늬 없는 흰 가슴과 배(겨울깃)",
+      "en": "plain white breast and belly (non-breeding)"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Rhinoceros Auklet (Cerorhinca monocerata), adult: blackish-brown upperparts, two white plume lines on the side of the face, brownish dark grey chin, throat, upper breast and axillaries, white belly lightly marked dark grey",
+    "pose": "swimming on the sea, about to dive",
+    "scene": "sea around an offshore island off the Korean east coast; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: blackish-brown back, two white facial plume lines, brownish dark grey throat and upper breast",
+      "adult non-breeding, side view swimming: plain white breast and belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰수염바다오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001814",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰수염바다오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001814",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 첫 문장이 '기러기목 오리과의 여름철새'라고 해 분류(도요목 바다오리과)부터 틀렸으므로, 같은 문장의 국내 상태(여름철새)도 확인 전까지 TODO 로 두었다",
+    "원문에 몸길이가 없고 부위별 길이만 있다"
+  ]
+}

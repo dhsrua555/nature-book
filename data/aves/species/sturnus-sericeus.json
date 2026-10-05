@@ -1,0 +1,79 @@
+{
+  "id": "sturnus-sericeus",
+  "ko": "붉은부리찌르레기",
+  "sci": "Sturnus sericeus",
+  "author": "Gmelin, 1789",
+  "en": "Red-billed Starling",
+  "ktsn": 120000002085,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "농경지, 초지, 인가 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "국내에서는 2000년 4월 강화도에서 처음 관찰되었다."
+  },
+  "summary": "농경지와 초지, 인가 주변에서 지내는 찌르레기로, 나무 위에서 열매나 곤충을 먹거나 초지와 농경지에서 곤충을 잡는다. 중국 남동부의 텃새이며 일부는 베트남 북부에서 겨울을 난다. 우리나라에서는 2000년 4월 강화도에서 수컷 한 마리가 처음 관찰된 뒤 제주도, 경기도 파주·의왕, 전라북도 군산 등지에서 서식과 번식이 확인되었다.",
+  "points": [
+    {
+      "ko": "끝이 검은 붉은 부리",
+      "en": "red bill with a black tip"
+    },
+    {
+      "ko": "수컷의 엷은 황갈색~황백색 머리",
+      "en": "pale buff to yellowish-white head (male)"
+    },
+    {
+      "ko": "수컷의 청회색 윗면",
+      "en": "blue-grey upperparts (male)"
+    },
+    {
+      "ko": "첫째날개깃 기부의 흰 반점",
+      "en": "white patch at the base of the primaries"
+    },
+    {
+      "ko": "회색 허리와 아래꼬리덮깃",
+      "en": "grey rump and undertail coverts"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 멱, 윗가슴은 엷은 황갈색이나 황백색으로 개체마다 다르고, 몸 윗면과 앞가슴, 가슴 옆은 청회색, 배는 탁한 흰색이다. 날개와 꼬리는 어두운 녹색 광택이 있는 검은색이다.",
+    "female": "전체가 갈색을 띠며 수컷과 달리 등이 갈색이다. 턱선은 흐릿한 갈색이고, 부리는 수컷보다 색이 엷다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-billed Starling (Sturnus sericeus), adult male: pale buff to yellowish-white head, throat and upper breast, blue-grey upperparts, fore-breast and breast sides, dull white belly, grey rump and undertail coverts, black wings and tail with a dark green gloss, white patch at the base of the primaries, red bill with a black tip, dark brown iris, orange legs",
+    "pose": "walking in short grass, picking up insects",
+    "scene": "Korean farmland and grassy field edge with scattered trees in spring; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: pale buff head, blue-grey upperparts, glossy black wings with white primary patch, red bill with black tip, orange legs",
+      "adult female, side view perched: brownish overall with brown back, white primary patch, paler bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은부리찌르레기",
+      "url": "https://species.nibr.go.kr/species-detail/120000002085",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은부리찌르레기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002085",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Spodiopsar sericeus)"
+    }
+  ],
+  "todo": []
+}

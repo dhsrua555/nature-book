@@ -1,0 +1,81 @@
+{
+  "id": "apus-pacificus",
+  "ko": "칼새",
+  "sci": "Apus pacificus",
+  "author": "Latham, 1801",
+  "en": "Pacific Swift",
+  "ktsn": 120000001883,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "드물지 않은 여름철새",
+  "habitat": "해안·섬의 암벽, 고산 암석 굴, 오래된 높은 건물",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7
+    ],
+    "note": "6~7월에 알을 낳는다."
+  },
+  "summary": "우리나라에서 드물지 않게 번식하는 여름철새로, 해안과 섬의 암벽, 높은 산의 바위굴, 오래된 높은 건물 등에 산다. 높은 하늘을 날며 먹이를 찾고, 혼자일 때도 있지만 대개 큰 무리를 이루며 짝짓기도 공중에서 한다. 6~7월에 알을 2~3개 낳는다. 파리, 딱정벌레, 벌, 매미 무리처럼 날아다니는 곤충을 주로 먹으며, 날개 길이는 17~18cm쯤이다.",
+  "points": [
+    {
+      "ko": "아주 넓은 부리 기부",
+      "en": "very broad gape"
+    },
+    {
+      "ko": "흰 턱 밑과 멱 가운데",
+      "en": "white chin and centre of throat"
+    },
+    {
+      "ko": "엷은 암갈색 뺨과 목 옆",
+      "en": "dull dark brown cheeks and neck sides"
+    },
+    {
+      "ko": "검은 갈색 아랫면",
+      "en": "blackish-brown underparts"
+    },
+    {
+      "ko": "푸른 광택 도는 흑갈색 꼬리",
+      "en": "brownish-black tail with a faint blue gloss above"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수를 구별하기 어렵다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pacific Swift (Apus pacificus), adult: dull dark brown lores, cheeks, ear-coverts and neck sides, white chin and centre of throat with brown feather shafts, blackish-brown underparts, brownish-black tail with a faint blue gloss above, bill very broad at the base and narrow at the tip, black bill and legs, brown iris, strong curved claws",
+    "pose": "flying high in a loose flock, hawking insects",
+    "scene": "Korean coastal island with sheer sea cliffs under a summer sky; no people, buildings or text",
+    "views": [
+      "adult, flight view from below: blackish-brown underparts, white chin and throat, brownish-black tail",
+      "adult, head detail: broad-based black bill, white throat with brown shaft streaks, brown iris"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 칼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001883",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 칼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001883",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

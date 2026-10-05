@@ -1,0 +1,75 @@
+{
+  "id": "alauda-arvensis",
+  "ko": "종다리",
+  "sci": "Alauda arvensis",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Skylark",
+  "ktsn": 120000155370,
+  "origin": "nibr",
+  "length": "18cm",
+  "status": "흔한 텃새, 겨울철새",
+  "habitat": "저지대의 경작지, 초지, 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "전국 저지대의 경작지와 초지 등에서 번식하는 흔한 텃새이자 겨울철새이다. 풀밭에 마른 풀이나 가는 뿌리로 밥그릇 모양 둥지를 틀고 알을 3~6개 낳는다. 영국에서 일본까지, 북위 30° 이북의 유럽과 아시아에 걸쳐 분포한다.",
+  "points": [
+    {
+      "ko": "짧고 둥근 머리깃",
+      "en": "short rounded crest"
+    },
+    {
+      "ko": "적갈색 머리와 등",
+      "en": "rufous-brown head and back"
+    },
+    {
+      "ko": "엷은 황갈색 몸",
+      "en": "pale buff-brown body"
+    },
+    {
+      "ko": "검은 줄무늬가 있는 가슴",
+      "en": "breast streaked black"
+    },
+    {
+      "ko": "검은 줄무늬가 있는 날개",
+      "en": "wings streaked black"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Skylark (Alauda arvensis), adult: short rounded crest, pale buff-brown body, rufous-brown head, back, lesser and median wing coverts, black streaks on the wings and breast",
+    "pose": "standing on bare soil in a field, crest slightly raised",
+    "scene": "Korean lowland farmland and grassland with open fields; no people, buildings or text",
+    "views": [
+      "adult, side view standing: short rounded crest, rufous-brown head and back, buff-brown body, black-streaked wings",
+      "adult, front view: black-streaked breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000155370",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155370",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "머리·등·작은/가운데날개덮깃이 '무늬 없는' 적갈색이라는 서술은 확인 필요(points·art 에서 '무늬 없음'은 뺐다)"
+  ]
+}

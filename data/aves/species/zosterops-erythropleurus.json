@@ -1,0 +1,82 @@
+{
+  "id": "zosterops-erythropleurus",
+  "ko": "한국동박새",
+  "sci": "Zosterops erythropleurus",
+  "author": "Swinhoe, 1863",
+  "en": "Chestnut-flanked White-eye",
+  "ktsn": 120000072194,
+  "origin": "nibr",
+  "length": "약 10.5cm",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "우리나라에서는 북부의 평안도 지역에 사는 작은 새로, 흔하지만 재빠르고 겁이 많아 사람 눈에 잘 띄지 않는다. 봄에는 작은 무리를 지어 나뭇가지 사이를 옮겨 다니며 곤충을 잡는데, 주로 딱정벌레류와 나비류의 애벌레와 어른벌레를 먹는다. 아무르 동부, 하바롭스크, 우수리 남부, 만주 동부 등지에서 번식하고 인도차이나, 캄보디아, 미얀마 동부 등지에서 겨울을 나며, 중국 동부·중부와 만주 등을 거쳐 이동한다.",
+  "points": [
+    {
+      "ko": "검은 눈앞",
+      "en": "black lores"
+    },
+    {
+      "ko": "뚜렷한 흰 눈테",
+      "en": "prominent white eye-ring"
+    },
+    {
+      "ko": "동박새보다 선명한 노란 턱밑·멱",
+      "en": "chin and throat brighter yellow than Warbling White-eye"
+    },
+    {
+      "ko": "잿빛 흰 가슴과 더 짙은 가슴 옆",
+      "en": "greyish-white breast with almost grey sides"
+    },
+    {
+      "ko": "옆구리의 큰 붉은 밤색 얼룩",
+      "en": "large chestnut patch on the flanks"
+    },
+    {
+      "ko": "흐린 잿빛 다리",
+      "en": "dull grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "동박새",
+      "how": "턱밑과 멱의 노란색이 동박새보다 더 선명하다."
+    }
+  ],
+  "art": {
+    "subject": "Chestnut-flanked White-eye (Zosterops erythropleurus), adult male in winter plumage: black lores, prominent white eye-ring, bright yellow chin and throat, greyish-white breast with almost grey sides, white belly, large chestnut patch on the flanks, dull grey bill with a pale base to the lower mandible, brown iris, dull grey legs",
+    "pose": "moving quickly along a twig, picking insects from the foliage",
+    "scene": "TODO",
+    "views": [
+      "adult male winter, side view perched: black lores, white eye-ring, yellow chin and throat, greyish-white breast, white belly, large chestnut flank patch, grey legs",
+      "adult male winter, front view: bright yellow throat above a greyish-white breast with greyer sides"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 한국동박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000072194",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 한국동박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000072194",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

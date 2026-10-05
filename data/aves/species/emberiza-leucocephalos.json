@@ -1,0 +1,75 @@
+{
+  "id": "emberiza-leucocephalos",
+  "ko": "흰머리멧새",
+  "sci": "Emberiza leucocephalos",
+  "author": "S.G.Gmelin, 1771",
+  "en": "Pine Bunting",
+  "ktsn": 120000002215,
+  "origin": "nibr",
+  "length": "약 17cm",
+  "status": "보기 드문 겨울철새",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "보기 드문 겨울철새이다. 유럽 동부와 동아시아의 북위 50~67° 지역에서 번식하고, 몽골, 중국 북부, 우수리 남부, 중앙아시아, 인도 북부, 이라크 등지에서 겨울을 난다. 수컷은 겨울이 되면 이마와 머리꼭대기가 흰 줄무늬가 있는 갈색으로 바뀌고 밤색이 거의 사라진다.",
+  "points": [
+    {
+      "ko": "흰 머리꼭대기와 뺨선(수컷 여름)",
+      "en": "white crown and cheek stripe (breeding male)"
+    },
+    {
+      "ko": "흰 줄무늬가 있는 갈색 머리(수컷 겨울)",
+      "en": "brown crown with white streaks (winter male)"
+    },
+    {
+      "ko": "밤색 눈썹선과 멱",
+      "en": "chestnut supercilium and throat"
+    },
+    {
+      "ko": "가슴을 가로지르는 밤색 띠",
+      "en": "chestnut band across the breast"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "여름에는 머리꼭대기와 뺨선이 희고 눈썹선과 멱은 밤색이며, 가슴을 가로지르는 밤색 띠가 있다.",
+    "female": "머리가 회갈색에 검은 줄무늬가 있고, 연한 갈색 가슴에 거무스름한 줄무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pine Bunting (Emberiza leucocephalos), adult male breeding: white crown and cheek stripe, chestnut supercilium and throat, chestnut band across the breast, white belly",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": [
+      "adult male summer, side view perched: white crown and cheek stripe, chestnut supercilium and throat, chestnut breast band, white belly",
+      "adult male winter, side view perched: brown forehead and crown with white streaks, almost no chestnut",
+      "adult female, side view perched: grey-brown head with black streaks, pale brown breast with blackish streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰머리멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002215",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰머리멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002215",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

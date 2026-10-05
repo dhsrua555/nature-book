@@ -1,0 +1,78 @@
+{
+  "id": "motacilla-cinerea",
+  "ko": "노랑할미새",
+  "sci": "Motacilla cinerea",
+  "author": "Tunstall, 1771",
+  "en": "Grey Wagtail",
+  "ktsn": 120000002171,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "흔한 여름철새",
+  "habitat": "계곡, 하천, 연못 등 습지 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "계곡, 하천, 연못 같은 습지 주변에 살며 우리나라에서 흔히 번식하는 여름철새이다. 돌 틈이나 건물 틈에 가는 줄기와 뿌리로 둥지를 짓는다. 땅에서 걸을 때 다른 할미새류처럼 꼬리를 위아래로 까딱이고, 날 때는 물결 모양으로 오르내리며, 나무 꼭대기나 전깃줄, 지붕, 바위 위에 앉아 운다. 국내 전역에 살고 국외에서는 러시아, 중국, 일본, 인도차이나에 분포한다.",
+  "points": [
+    {
+      "ko": "길고 짙은 회색 부리",
+      "en": "long dark grey bill"
+    },
+    {
+      "ko": "수컷 턱밑과 멱의 검은 반점",
+      "en": "black chin and throat patch in male"
+    },
+    {
+      "ko": "회색 윗면",
+      "en": "grey upperparts"
+    },
+    {
+      "ko": "눈에 띄는 노란 아랫면",
+      "en": "conspicuous yellow underparts"
+    },
+    {
+      "ko": "다른 할미새류보다 긴 꼬리",
+      "en": "tail longer than in other wagtails"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "전체적으로 색이 더 짙고 아랫면의 노란색이 더 선명하며, 턱밑과 멱에 검은 반점이 있다.",
+    "female": "수컷보다 색이 엷고 턱밑과 멱에 검은 반점이 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey Wagtail (Motacilla cinerea), adult male: grey upperparts, bright yellow underparts, black chin and throat patch, long dark grey bill, long tail, pink legs",
+    "pose": "walking on a streamside rock, bobbing its long tail up and down",
+    "scene": "Korean summer mountain stream with rocks and a small pool; no people, buildings or text",
+    "views": [
+      "adult male, side view walking: grey upperparts, vivid yellow underparts, black chin and throat, long tail, pink legs",
+      "adult female, side view walking: paler overall, yellow underparts less vivid, no black on chin and throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002171",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002171",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

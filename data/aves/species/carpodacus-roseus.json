@@ -1,0 +1,85 @@
+{
+  "id": "carpodacus-roseus",
+  "ko": "양진이",
+  "sci": "Carpodacus roseus",
+  "author": "Pallas, 1776",
+  "en": "Pallas's Rosefinch",
+  "ktsn": 120000002199,
+  "origin": "nibr",
+  "length": "약 17.5cm",
+  "status": "흔한 겨울철새",
+  "habitat": "구릉, 경작지 둘레 혼효림, 낙엽활엽수림, 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "가을에 무리 지어 와서 전국에서 겨울을 난다."
+  },
+  "summary": "우리나라 전역에 찾아와 겨울을 나는 흔한 겨울새로, 구릉과 경작지 둘레의 혼효림, 낙엽활엽수림, 침엽수림 등 곳곳의 숲에서 쉽게 볼 수 있다. 가을에 작은 무리나 큰 무리로 와서 숲 사이 풀숲이나 덤불 속 땅 위를 뛰어다닌다. 겨울에는 주로 식물성 먹이를 먹고 딱정벌레 무리도 잡아먹는다. 시베리아 동부와 사할린 등지에서 번식한다.",
+  "points": [
+    {
+      "ko": "어두운 붉은색 눈앞과 윗부리 둘레",
+      "en": "dark red lores and area around the upper mandible"
+    },
+    {
+      "ko": "비늘 모양 은회색 이마와 머리꼭대기",
+      "en": "scaly silvery-grey forehead and crown"
+    },
+    {
+      "ko": "붉은빛 도는 은색 비늘 모양 멱",
+      "en": "scaly reddish-silver throat"
+    },
+    {
+      "ko": "검은 축반과 황갈색 가장자리의 붉은 등",
+      "en": "red back with narrow black shaft streaks and pale buff fringes"
+    },
+    {
+      "ko": "붉은 장미색 목 옆과 아랫면",
+      "en": "rose-red neck sides and underparts"
+    },
+    {
+      "ko": "검은 갈색 날개깃",
+      "en": "blackish-brown flight feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "적원자",
+      "how": "양진이 부리는 적원자보다 덜 굽어 원뿔형에 가깝다."
+    }
+  ],
+  "art": {
+    "subject": "Pallas's Rosefinch (Carpodacus roseus), adult male winter: dark red lores and area around the upper mandible, scaly silvery-grey forehead and crown grading through the hindcrown into a dark red hindneck, red back feathers with narrow black shaft streaks and pale buff fringes, pointed scaly reddish-silver throat feathers, rose-red neck sides and underparts, blackish-brown flight feathers, nearly conical dark brown bill, brownish-chestnut iris, dark brown legs",
+    "pose": "hopping on the ground among grass beneath shrubs, foraging",
+    "scene": "Korean winter woodland edge: mixed forest beside farmland on low hills, dry grass under shrubs; no people, buildings or text",
+    "views": [
+      "adult male winter, side view on ground: silvery-grey scaly crown, red back with black shaft streaks, rose-red underparts, blackish-brown flight feathers",
+      "head detail: dark red lores, scaly silvery-grey forehead and crown, scaly reddish-silver throat, conical dark brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 양진이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002199",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 양진이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002199",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "similar 의 '적원자'는 원문 표기 그대로이며 지금 국가생물종목록에 없는 이름이라 어느 종인지 확인이 필요하다."
+  ]
+}

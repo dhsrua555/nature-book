@@ -1,0 +1,84 @@
+{
+  "id": "troglodytes-troglodytes",
+  "ko": "굴뚝새",
+  "sci": "Troglodytes troglodytes",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Wren",
+  "ktsn": 120000002071,
+  "origin": "nibr",
+  "length": "약 10cm",
+  "status": "흔한 텃새",
+  "habitat": "산림, 숲 가장자리, 개활지",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "5~8월에 알을 낳는다."
+  },
+  "summary": "산림과 숲 가장자리, 개활지에서 흔히 볼 수 있는 텃새이다. 덤불 사이, 계곡 물가의 바위, 벼랑, 집 처마 밑 등을 뒤지며 먹이를 찾고, 곤충을 주로 먹으며 거미도 먹는다. 5~8월에 알을 4~6개 낳는다. 전국에 살고, 국외에서는 유라시아 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "짧고 뾰족한 부리",
+      "en": "short, pointed bill"
+    },
+    {
+      "ko": "얼룩무늬가 있는 적갈색 몸",
+      "en": "rufous-brown plumage with mottled markings"
+    },
+    {
+      "ko": "짧은 꼬리",
+      "en": "short tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Wren (Troglodytes troglodytes), adult: rufous-brown overall with mottled markings, short pointed bill, short tail",
+    "pose": "hopping over a rock beside a mountain stream, searching for insects",
+    "scene": "Korean forest edge beside a rocky mountain stream with shrubs and a low cliff; no people, buildings or text",
+    "views": [
+      "adult, side view perched on a rock: mottled rufous-brown plumage, short pointed bill, short tail",
+      "adult, rear three-quarter view: mottled rufous-brown back and short tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 굴뚝새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002071",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 굴뚝새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002071",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "eumyias-thalassinus",
+  "ko": "파랑딱새",
+  "sci": "Eumyias thalassinus",
+  "author": "Swainson, 1838",
+  "en": "Verditer Flycatcher",
+  "ktsn": 120000002147,
+  "origin": "nibr",
+  "length": "약 17cm",
+  "status": "미조",
+  "habitat": "산림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "국내에서는 최근 흑산도와 가거도에서 처음 발견된 미조이다. 산림 지대에 살며 나무 사이를 빠르게 날아다니며 곤충을 잡아먹는다. 히말라야, 중국 남동부, 동남아시아 등지에 분포하며, 수컷의 온몸이 파란색이어서 이런 우리말 이름이 붙었다.",
+  "points": [
+    {
+      "ko": "온몸이 파란 수컷",
+      "en": "male blue all over"
+    },
+    {
+      "ko": "윗면보다 뚜렷이 엷은 아랫면",
+      "en": "underparts clearly paler than upperparts"
+    },
+    {
+      "ko": "아래꽁지덮깃의 넓은 검은 무늬",
+      "en": "bold, very broad black markings on the undertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Verditer Flycatcher (Eumyias thalassinus), adult male: blue all over, underparts distinctly paler than upperparts, bold, very broad black markings on the undertail coverts",
+    "pose": "perched on an open branch between trees, ready to dart after flying insects",
+    "scene": "forest on a Korean offshore island; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: blue all over with paler underparts",
+      "adult male, view from below: broad black markings on the undertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 파랑딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002147",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 파랑딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002147",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

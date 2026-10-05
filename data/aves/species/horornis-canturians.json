@@ -1,0 +1,82 @@
+{
+  "id": "horornis-canturians",
+  "ko": "휘파람새",
+  "sci": "Horornis canturians",
+  "author": "Swinhoe, 1860",
+  "en": "Manchurian Bush Warbler",
+  "ktsn": 120000528738,
+  "origin": "nibr",
+  "length": "14–17cm",
+  "status": "여름철새",
+  "habitat": "저지대 산림의 계곡과 숲 가장자리, 하천 주변, 대나무 숲의 관목림과 덤불",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "한반도 전역에 찾아와 번식하는 여름철새로, 낮은 산지 숲의 계곡이나 숲 가장자리, 하천가, 대숲 둘레의 관목림과 덤불에서 산다. 관목림이나 풀밭, 작은 대숲에 마른풀로 옆에 입구가 난 둥근 둥지를 틀고 알 4~6개를 낳으며, 알 품기와 먹이 나르기는 모두 암컷이 맡는다. 품기 시작한 지 16일이면 새끼가 깨고, 어미는 14일쯤 곤충과 거미를 물어다 먹인다. 붉은 초콜릿색 알이 닮은 두견이에게 탁란을 당하기도 하며, 국내에서는 경기도와 강원도에, 국외에서는 중국, 극동 러시아, 타이완에 분포한다.",
+  "points": [
+    {
+      "ko": "조금 밝은 갈색 이마와 머리",
+      "en": "slightly paler brown forehead and crown"
+    },
+    {
+      "ko": "회백색 눈썹선",
+      "en": "greyish-white supercilium"
+    },
+    {
+      "ko": "어두운 갈색 눈선",
+      "en": "dark brown eye-stripe"
+    },
+    {
+      "ko": "황갈색과 암갈색이 섞인 뺨·귀깃",
+      "en": "cheeks and ear-coverts mottled buff and dark brown"
+    },
+    {
+      "ko": "갈색 윗면",
+      "en": "brown upperparts"
+    },
+    {
+      "ko": "노란빛·황갈빛 도는 흰 아랫면",
+      "en": "whitish underparts washed yellow or pale buff"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷해 야외에서 가려내기 어렵고, 암컷이 수컷보다 조금 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Manchurian Bush Warbler (Horornis canturians), adult: brown upperparts, slightly paler brown forehead and crown, greyish-white supercilium, dark brown eye-stripe, cheeks and ear-coverts mottled buff and dark brown, whitish underparts washed yellow or pale buff",
+    "pose": "perched low in a dense thicket, side view",
+    "scene": "Korean summer: shrubby edge of a lowland forest valley with a bamboo thicket by a stream; no people, buildings or text",
+    "views": [
+      "adult, side view perched: brown upperparts, greyish-white supercilium, dark brown eye-stripe, whitish underparts washed buff",
+      "adult, head detail: paler brown forehead and crown, ear-coverts mixed buff and dark brown"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 휘파람새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528738",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 휘파람새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528738",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

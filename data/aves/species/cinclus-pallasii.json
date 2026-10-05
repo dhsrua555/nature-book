@@ -1,0 +1,96 @@
+{
+  "id": "cinclus-pallasii",
+  "ko": "물까마귀",
+  "sci": "Cinclus pallasii",
+  "author": "Temminck, 1820",
+  "en": "Brown Dipper",
+  "ktsn": 120000002152,
+  "origin": "nibr",
+  "length": "22cm",
+  "status": "흔한 텃새",
+  "habitat": "낮은 산지 계곡의 물가, 폭포, 계류",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "note": "3~6월에 알을 낳는다."
+  },
+  "summary": "낮은 산지 계곡의 물가와 폭포, 계류에 사는 흔한 텃새이다. 홀로 또는 암수가 함께 지내며, 계류의 물가와 흐르는 물속 돌 틈을 뒤지거나 얕은 물속으로 잠수해 먹이를 찾고, 물에 사는 곤충을 주로 먹는다. 3~6월에 알 4~5개를 낳는다. 국내 전역에 살고 국외에서는 아프가니스탄, 히말라야, 중국, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "가늘고 긴 부리",
+      "en": "long, slender bill"
+    },
+    {
+      "ko": "눈꺼풀의 가는 흰 깃",
+      "en": "fine white feathers on the eyelids"
+    },
+    {
+      "ko": "어두운 갈색 아랫면과 녹슨빛 배 옆",
+      "en": "dark brown underparts with rusty belly sides"
+    },
+    {
+      "ko": "검은 갈색 등",
+      "en": "blackish-brown upperparts"
+    },
+    {
+      "ko": "잿빛 허리와 위꼬리덮깃",
+      "en": "grey rump and uppertail coverts"
+    },
+    {
+      "ko": "튼튼한 잿빛 다리",
+      "en": "sturdy grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 깃털 색이 거의 같다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Brown Dipper (Cinclus pallasii), adult: dark brown plumage with fine white feathers on the eyelids, rusty tinge on the belly sides, blackish-brown upperparts, grey rump and uppertail coverts, long slender bill, brown iris, sturdy grey legs",
+    "pose": "standing on a wet rock in a fast stream, about to dive for aquatic insects",
+    "scene": "Korean low mountain valley with a rushing rocky stream and a small waterfall; no people, buildings or text",
+    "views": [
+      "adult, side view standing on a rock: dark brown underparts, rusty belly sides, blackish-brown back, grey rump, sturdy grey legs",
+      "adult, head detail: long slender bill and fine white feathers on the eyelids"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002152",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002152",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "threskiornis-melanocephalus",
+  "ko": "검은머리흰따오기",
+  "sci": "Threskiornis melanocephalus",
+  "author": "Latham, 1790",
+  "en": "Black-headed Ibis",
+  "ktsn": 120000001514,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "미조",
+  "habitat": "해안, 늪지, 못가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 미조로 알려진 따오기류로, 제주도에서 관찰된 기록이 있다. 해안이나 늪지, 못가에 살며 물고기, 개구리, 물속 곤충, 조개 따위를 먹는다. 중국 남부, 인도차이나, 인도에 분포한다. 날개 길이는 34~37cm, 부리 길이는 13.5~17.5cm이다.",
+  "points": [
+    {
+      "ko": "검은 피부가 드러난 머리와 목",
+      "en": "bare black skin on head and neck"
+    },
+    {
+      "ko": "활처럼 굽은 긴 검은 부리",
+      "en": "long, decurved black bill"
+    },
+    {
+      "ko": "앞목에 술처럼 늘어진 긴 깃",
+      "en": "long plumes hanging like a tassel in front of the neck"
+    },
+    {
+      "ko": "흰 몸",
+      "en": "white body"
+    },
+    {
+      "ko": "청회색 어깨깃과 셋째날개깃",
+      "en": "bluish-grey scapulars and tertials"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "따오기",
+      "how": "생김새가 비슷하지만 검은머리흰따오기는 머리와 목에 검은 피부가 드러나 있다."
+    }
+  ],
+  "art": {
+    "subject": "Black-headed Ibis (Threskiornis melanocephalus), adult: white body, bluish-grey scapulars and tertials, bare black skin on head and neck, long tassel-like plumes hanging in front of the neck, long decurved black bill, black legs",
+    "pose": "wading in shallow marsh water, side view",
+    "scene": "Korean coastal marsh on Jeju with shallow pools and sedges; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white body, bare black head and neck, long decurved black bill, black legs",
+      "adult, head and neck detail: bare black skin, long tassel-like plumes in front of the neck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리흰따오기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001514",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리흰따오기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001514",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

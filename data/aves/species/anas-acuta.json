@@ -1,0 +1,74 @@
+{
+  "id": "anas-acuta",
+  "ko": "고방오리",
+  "sci": "Anas acuta",
+  "author": "Linnaeus, 1758",
+  "en": "Northern Pintail",
+  "ktsn": 120000001443,
+  "origin": "nibr",
+  "length": "수컷 약 75cm, 암컷 약 53cm",
+  "status": "흔한 겨울철새",
+  "habitat": "강, 하구, 저수지 등의 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "겨울철 전국의 습지에서 볼 수 있는 흔한 겨울철새다. 강이나 하구, 저수지에 흔히 큰 무리를 이루며, 자맥질하여 물속 수초와 식물 씨앗을 먹는다. 유라시아 대륙 북부와 북아메리카에서 번식하고, 유라시아와 북아메리카의 온대에서 열대, 북아프리카에 걸쳐 겨울을 난다.",
+  "points": [
+    {
+      "ko": "길고 가는 목",
+      "en": "long, slender neck"
+    },
+    {
+      "ko": "어두운 밤색 머리(수컷)",
+      "en": "male: dark chestnut-brown head and hindneck"
+    },
+    {
+      "ko": "흰 앞목과 가슴(수컷)",
+      "en": "male: white foreneck and breast"
+    },
+    {
+      "ko": "회색 몸, 연노란 꼬리 앞(수컷)",
+      "en": "male: grey body with a pale yellow patch before the black undertail"
+    },
+    {
+      "ko": "뾰족한 꼬리, 수컷은 긴 중앙 꼬리깃",
+      "en": "pointed tail; male has very long black central tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리에서 뒷목까지 어두운 밤색이고 목 아래와 가슴은 희다. 몸은 회색, 아래꼬리덮깃은 검으며 그 경계가 연한 노란색이고, 검은 가운데 꼬리깃이 매우 길다.",
+    "female": "전체적으로 갈색이며 부리가 검다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Pintail (Anas acuta), adult male: dark chestnut-brown head and hindneck, long slender neck, white foreneck and breast, grey body, pale yellow patch where the grey body meets the black undertail coverts, very long black central tail feathers",
+    "pose": "dabbling in shallow water, upending to reach water plants",
+    "scene": "Korean reservoir in winter with shallow open water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: dark chestnut head, white foreneck and breast, grey body, pale yellow vent patch, long black central tail feathers",
+      "adult female, side view swimming: overall brown plumage, black bill, pointed tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 고방오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001443",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 고방오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001443",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

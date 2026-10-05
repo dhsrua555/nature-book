@@ -1,0 +1,90 @@
+{
+  "id": "sitta-villosa",
+  "ko": "쇠동고비",
+  "sci": "Sitta villosa",
+  "author": "Verreaux, 1865",
+  "en": "Chinese Nuthatch",
+  "ktsn": 120000002075,
+  "origin": "nibr",
+  "length": "약 12cm",
+  "status": "백두산 지역의 흔한 텃새(중부 이남에서는 매우 드물다)",
+  "habitat": "산지의 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "산지 침엽수림에 사는 새로, 백두산 지역에서는 흔한 텃새이지만 중부 이남에서는 매우 드물다. 나무 사이를 재빠르게 옮겨 다닌다. 마른 나무줄기에 스스로 구멍을 파서 둥지를 틀지만 딱따구리가 쓰던 둥지를 쓰기도 하며, 한배에 알을 5~6개 낳는다. 중국 북부와 한국(백두산)에 산다.",
+  "points": [
+    {
+      "ko": "광택 있는 검은 머리꼭대기(수컷)",
+      "en": "glossy black crown (male)"
+    },
+    {
+      "ko": "흰색의 약한 눈썹선",
+      "en": "faint white supercilium"
+    },
+    {
+      "ko": "눈앞에서 목 옆까지 긴 검은 눈선",
+      "en": "long black eye-stripe from lores to neck sides"
+    },
+    {
+      "ko": "크림색 멱(중앙은 거의 흰색)",
+      "en": "cream throat, almost white in the centre"
+    },
+    {
+      "ko": "어두운 잿빛 푸른색 윗면",
+      "en": "dark grey-blue upperparts"
+    },
+    {
+      "ko": "엷은 크림 황갈색 가슴과 배",
+      "en": "pale cream-buff breast and belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Chinese Nuthatch (Sitta villosa), adult male in winter: glossy black crown, faint white supercilium, long black eye-stripe from lores to neck sides, cream chin, throat and ear coverts (chin and throat almost white in the centre), pale cream-buff breast, belly and undertail coverts, uniform dark grey-blue hindneck, back, rump and uppertail coverts, central tail feathers like the back, outermost tail feathers black on the basal two-thirds, dark grey-brown flight feathers with narrow blue-grey edges, dark grey-blue tertials and wing coverts",
+    "pose": "clinging to a dead tree trunk beside a self-excavated nest hole",
+    "scene": "mountain conifer forest in the Mt. Baekdu region in winter, with dead standing trunks; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: glossy black crown, faint white supercilium, long black eye-stripe, cream throat, cream-buff underparts, dark grey-blue upperparts",
+      "adult male, tail spread from above: grey-blue central feathers, outermost feathers black on the basal two-thirds"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠동고비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002075",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠동고비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002075",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

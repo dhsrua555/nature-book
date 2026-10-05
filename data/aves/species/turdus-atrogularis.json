@@ -1,0 +1,73 @@
+{
+  "id": "turdus-atrogularis",
+  "ko": "검은목지빠귀",
+  "sci": "Turdus atrogularis",
+  "author": "Jarocki, 1819",
+  "en": "Black-throated Thrush",
+  "ktsn": 120000002100,
+  "origin": "nibr",
+  "length": "23–25cm",
+  "status": "미조",
+  "habitat": "평지와 구릉의 숲, 덤불",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "국내에서는 1989년 9월 광주 무등산에서 5마리가 관찰되었다."
+  },
+  "summary": "1989년 9월 광주 무등산에서 5마리가 관찰된 기록이 있는 미조이다. 보통 평지와 구릉의 숲, 덤불에 산다. 유럽 동북부와 러시아 시베리아 서부, 바이칼호 일대에서 번식하고, 시베리아 서부 알타이 지역, 중앙아시아, 이란에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "녹회색 머리 위와 윗면",
+      "en": "greenish-grey crown and upperparts"
+    },
+    {
+      "ko": "검은 머리 옆·턱·멱·윗가슴",
+      "en": "black face, chin, throat and upper breast"
+    },
+    {
+      "ko": "흰 아랫가슴과 배",
+      "en": "white lower breast and belly"
+    },
+    {
+      "ko": "갈색 바깥꼬리깃",
+      "en": "brownish outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-throated Thrush (Turdus atrogularis), adult male: greenish-grey crown, upperparts, wings and central tail feathers, brownish outer tail feathers, black sides of head, chin, throat and upper breast, white lower breast and belly",
+    "pose": "perched at the edge of a thicket, side view",
+    "scene": "Korean lowland and hill woodland with thickets in autumn; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: greenish-grey upperparts, black face, throat and upper breast, white belly",
+      "adult male, tail detail: greenish-grey central tail feathers and brownish outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은목지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002100",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은목지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002100",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 수컷 생김새만 적었다",
+    "원문의 번식지 '시베리아 서부 바이칼호'는 지명 표기가 어색해 확인이 필요하다"
+  ]
+}

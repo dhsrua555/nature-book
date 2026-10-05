@@ -1,0 +1,78 @@
+{
+  "id": "megaceryle-lugubris",
+  "ko": "뿔호반새",
+  "sci": "Megaceryle lugubris",
+  "author": "Temminck, 1834",
+  "en": "Crested Kingfisher",
+  "ktsn": 120000001896,
+  "origin": "nibr",
+  "length": "37.5cm",
+  "status": "TODO",
+  "habitat": "계류, 호수, 댐 부근",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "산란기는 5월 하순~6월 하순이며, 국내 번식은 원문에 없다."
+  },
+  "summary": "우리나라에서는 1917년에 한 마리가 잡힌 뒤로 자취를 감춘 새이다. 산골 시내나 호수, 댐 둘레에 살며, 물가 나뭇가지에 앉아 물속 물고기를 노린다. 산란기는 5월 하순~6월 하순이고 한배에 알을 4~7개 낳는다. 일본, 인도, 중국 남부, 동남아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "덥수룩한 댕기깃",
+      "en": "shaggy crest"
+    },
+    {
+      "ko": "검은 이마·정수리·목덜미",
+      "en": "black forehead, crown and nape"
+    },
+    {
+      "ko": "위아래가 흰 넓은 검은 눈선",
+      "en": "broad black eye-stripe bordered white"
+    },
+    {
+      "ko": "흰 가로띠가 있는 검은 윗면",
+      "en": "black upperparts barred white"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Crested Kingfisher (Megaceryle lugubris), adult: shaggy black crest, black forehead, crown and nape, broad black eye-stripe with white above and below it, black upperparts from back to tail barred white, white underparts, black bill",
+    "pose": "perched on a branch over a mountain stream, watching the water for fish",
+    "scene": "Korean mountain stream with clear pools and overhanging branches; no people, buildings or text",
+    "views": [
+      "adult, side view perched: shaggy black crest, black upperparts barred white, white underparts, black bill",
+      "adult, head detail: broad black eye-stripe bordered white above and below"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뿔호반새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001896",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뿔호반새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001896",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

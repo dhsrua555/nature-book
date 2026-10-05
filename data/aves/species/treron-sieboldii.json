@@ -1,0 +1,75 @@
+{
+  "id": "treron-sieboldii",
+  "ko": "녹색비둘기",
+  "sci": "Treron sieboldii",
+  "author": "Temminck, 1835",
+  "en": "White-bellied Green Pigeon",
+  "ktsn": 120000001830,
+  "origin": "nibr",
+  "length": "약 33cm",
+  "status": "TODO",
+  "habitat": "울창한 활엽수림, 혼합림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "6월경 한배에 알 2개를 낳는다."
+  },
+  "summary": "울창한 활엽수림이나 혼합림에 사는 녹색 비둘기로, 혼자 또는 몇 마리씩 작은 무리로 지낸다. 열매와 씨앗을 먹으며, 6월경 한배에 알 2개를 낳는다. 일본, 타이완, 인도차이나반도 등지에 분포하는 동아시아 남부 특산종이다.",
+  "points": [
+    {
+      "ko": "누런 녹색 가슴",
+      "en": "yellowish-green breast"
+    },
+    {
+      "ko": "짙은 녹색 등과 날개",
+      "en": "dark green back and wings"
+    },
+    {
+      "ko": "보랏빛 어깨 쪽 날개덮깃(수컷)",
+      "en": "dark purple shoulder coverts (male)"
+    },
+    {
+      "ko": "흰 배와 옆구리",
+      "en": "white belly and flanks"
+    },
+    {
+      "ko": "검은 띠가 있는 녹색 꽁지",
+      "en": "dark green tail with a black band"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "어깨 쪽 날개덮깃이 어두운 보랏빛이다.",
+    "female": "어깨 쪽 날개덮깃이 짙은 녹색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-bellied Green Pigeon (Treron sieboldii), adult male: dark green back, wings and tail, yellowish-green breast, white belly and flanks, dark purple shoulder coverts, black band on the tail",
+    "pose": "perched in a broadleaf tree, side view, eating fruit",
+    "scene": "dense broadleaf forest with a lush green canopy; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark purple shoulder coverts, dark green back and wings, yellowish-green breast, white belly",
+      "adult female, side view perched: dark green shoulder coverts, black band on the tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 녹색비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001830",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 녹색비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001830",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

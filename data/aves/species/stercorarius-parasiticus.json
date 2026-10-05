@@ -1,0 +1,77 @@
+{
+  "id": "stercorarius-parasiticus",
+  "ko": "북극도둑갈매기",
+  "sci": "Stercorarius parasiticus",
+  "author": "Linnaeus, 1758",
+  "en": "Parasitic Jaeger",
+  "ktsn": 120000001798,
+  "origin": "nibr",
+  "length": "약 46cm",
+  "status": "TODO",
+  "habitat": "여름에는 툰드라의 호숫가, 그 밖의 시기에는 바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "국내에서는 포항에서 발견된 적이 있는 도둑갈매기류이다. 여름에는 툰드라 지대의 호수 근처에서 지내고 나머지 시기는 바다에서 보낸다. 바위 사이 땅 위에 풀로 엮은 오목한 둥지를 만들며, 알은 올리브 갈색 바탕에 짙은 갈색 점이 있다. 알류샨 열도, 알래스카 북부, 캐나다, 그린란드 남부 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "굵고 짧은 부리",
+      "en": "thick, short bill"
+    },
+    {
+      "ko": "검은 머리",
+      "en": "black head"
+    },
+    {
+      "ko": "갈색 등",
+      "en": "brown back"
+    },
+    {
+      "ko": "흰색이거나 조금 거무스름한 배",
+      "en": "white or slightly dusky belly"
+    },
+    {
+      "ko": "곧고 뾰족하게 나온 가운데 꽁지깃",
+      "en": "straight, pointed projecting central tail feathers"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Parasitic Jaeger (Stercorarius parasiticus), adult: black head, brown back, white to slightly dusky belly, thick short bill, straight pointed central tail feathers projecting beyond the tail, black legs",
+    "pose": "flying low over the sea, side view",
+    "scene": "open sea off the Korean east coast; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black head, brown back, pale belly, thick short bill, black legs",
+      "adult, in flight from above: brown back, straight pointed central tail feathers projecting beyond the tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북극도둑갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001798",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북극도둑갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001798",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

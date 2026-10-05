@@ -1,0 +1,75 @@
+{
+  "id": "gavia-adamsii",
+  "ko": "흰부리아비",
+  "sci": "Gavia adamsii",
+  "author": "G.R.Gray, 1859",
+  "en": "Yellow-billed Loon",
+  "ktsn": 120000001481,
+  "origin": "nibr",
+  "length": "약 84–97cm",
+  "status": "TODO",
+  "habitat": "만, 강 하구, 툰드라 해안의 호수",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "툰드라 지역 해안의 호수와 만, 강 하구에 살고 겨울에는 주로 만에서 지내는 새로, 기러기만 한 크기로 아비류 가운데 가장 크다. 작은 섬이나 물가 땅의 물풀 사이에 풀과 이끼로 잘 숨긴 둥지를 짓고 올리브빛이 도는 갈색 알을 2개 낳는다. 전북구의 북쪽 연안 툰드라와 북아메리카, 알래스카, 오호츠크 해안 등지에서 번식한다.",
+  "points": [
+    {
+      "ko": "위로 휜 듯 보이는 뚜렷한 노란 부리",
+      "en": "bright yellow bill that looks upturned"
+    },
+    {
+      "ko": "보랏빛 녹색 광택 검은 머리와 목",
+      "en": "breeding: black head and neck glossed purple-green"
+    },
+    {
+      "ko": "목의 끊어진 흰 줄무늬",
+      "en": "breeding: broken white stripes on the neck"
+    },
+    {
+      "ko": "옆구리·등·어깨의 줄지은 흰 반점",
+      "en": "breeding: rows of white spots on the flanks, back and scapulars"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-billed Loon (Gavia adamsii), adult in breeding plumage: black head and neck with a purple-green gloss, broken white stripes on the neck, rows of white spots on the flanks, back and scapulars, white belly, bright yellow bill with a straight upper mandible and upturned lower mandible",
+    "pose": "swimming low on calm water",
+    "scene": "sheltered coastal bay with calm water; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: glossy black head and neck, broken white neck stripes, rows of white spots on the back and flanks, yellow bill",
+      "head detail: yellow bill with straight upper mandible and upturned lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰부리아비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001481",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰부리아비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001481",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태(철새 구분·찾아오는 시기)가 없다"
+  ]
+}

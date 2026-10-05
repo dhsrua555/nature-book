@@ -1,0 +1,80 @@
+{
+  "id": "emberiza-spodocephala",
+  "ko": "촉새",
+  "sci": "Emberiza spodocephala",
+  "author": "Pallas, 1776",
+  "en": "Black-faced Bunting",
+  "ktsn": 120000002230,
+  "origin": "nibr",
+  "length": "약 16cm",
+  "status": "흔한 나그네새, 일부 번식",
+  "habitat": "습한 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6
+    ],
+    "note": "6월 무렵 알을 낳는다."
+  },
+  "summary": "대부분은 봄과 가을에 한반도를 지나가는 흔한 나그네새이지만, 일부는 우리나라에서 번식한다. 습한 풀밭에 살며 번식도 그곳에서 하고, 6월 무렵 알을 보통 5개 낳는다. 잡초 씨와 조·벼 같은 낟알, 곤충의 어른벌레와 애벌레를 먹는다. 전국에서 볼 수 있고, 국외에서는 시베리아 남부, 러시아 알타이, 트란스바이칼리아, 아무르, 우수리, 만주에 분포한다.",
+  "points": [
+    {
+      "ko": "녹회색 이마~뒷목",
+      "en": "greenish-grey head from forehead to hindneck"
+    },
+    {
+      "ko": "그을린 검은색 눈앞·눈 밑·턱밑",
+      "en": "sooty-black lores, area below the eye and chin"
+    },
+    {
+      "ko": "끝만 어두운 엷은 갈색 아랫부리",
+      "en": "pale brown lower mandible with a dark tip"
+    },
+    {
+      "ko": "황갈색 어깨 사이",
+      "en": "buff-brown mantle"
+    },
+    {
+      "ko": "올리브 갈색 세로무늬가 있는 배·옆구리",
+      "en": "belly and flanks streaked dark olive-brown"
+    },
+    {
+      "ko": "엷은 갈색 다리",
+      "en": "pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-faced Bunting (Emberiza spodocephala), adult male in winter plumage: greenish-grey head and hindneck with faintly brown feather tips, sooty-black lores, area below the eye and chin, buff-brown mantle, belly and flanks with dark olive-brown streaks, dark horn upper mandible, pale brown lower mandible with a dark tip, dark brown iris, pale brown legs",
+    "pose": "foraging on the ground in damp grass, picking up seeds",
+    "scene": "Korean spring migration: damp grassy meadow with tall grasses; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: greenish-grey head, sooty-black face and chin, buff-brown mantle, olive-brown streaked belly and flanks, pale brown legs",
+      "adult male winter, head detail: sooty-black lores and chin, dark horn upper mandible, pale brown lower mandible with a dark tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 촉새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002230",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 촉새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002230",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

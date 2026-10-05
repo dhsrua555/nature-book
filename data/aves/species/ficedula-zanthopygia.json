@@ -1,0 +1,81 @@
+{
+  "id": "ficedula-zanthopygia",
+  "ko": "흰눈썹황금새",
+  "sci": "Ficedula zanthopygia",
+  "author": "Hay, 1845",
+  "en": "Yellow-rumped Flycatcher",
+  "ktsn": 120000002140,
+  "origin": "nibr",
+  "length": "13cm",
+  "status": "흔하지 않은 여름철새",
+  "habitat": "도시 공원, 정원, 평지와 구릉의 작은 숲, 활엽수림과 혼효림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5
+    ],
+    "note": "알 낳는 시기는 5월 무렵이다."
+  },
+  "summary": "전국에서 번식하는 흔하지 않은 여름철새로, 도시 공원과 정원, 평지와 구릉의 작은 숲, 활엽수림이나 혼효림이 있는 곳에서 지낸다. 주로 전나무 가지 위에 둥지를 짓거나 나무 구멍과 인공 둥지 상자를 쓰며, 5월 무렵 알 5~6개를 낳는다. 곤충과 거미를 잡아먹는다. 국외에서는 구북구 동부, 만주, 중국 동부에서 번식하고 말레이반도, 수마트라 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "검은 윗면",
+      "en": "black upperparts"
+    },
+    {
+      "ko": "선명한 노란 아랫면",
+      "en": "bright yellow underparts"
+    },
+    {
+      "ko": "흰 아래꼬리덮깃",
+      "en": "white undertail coverts"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "어두운 갈색 다리",
+      "en": "dark brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "윗면이 검고 눈썹선은 희며, 아랫면은 선명한 노란색이다.",
+    "female": "윗면은 녹회색이고 아랫면은 흰빛에 가까운 옅은 노란색이며, 눈썹선은 짧고 흐릿하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-rumped Flycatcher (Ficedula zanthopygia), adult male: black upperparts, white supercilium, bright yellow underparts, white undertail coverts, black bill, dark brown legs",
+    "pose": "perched on a broadleaf branch, side view",
+    "scene": "Korean summer woodland of broadleaf and mixed trees on low hills; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black upperparts, white supercilium, bright yellow underparts, white undertail coverts, black bill",
+      "adult female, side view perched: greenish-grey upperparts, whitish pale yellow underparts, short faint supercilium"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰눈썹황금새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002140",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰눈썹황금새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002140",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

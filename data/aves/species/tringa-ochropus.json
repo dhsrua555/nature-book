@@ -1,0 +1,75 @@
+{
+  "id": "tringa-ochropus",
+  "ko": "삑삑도요",
+  "sci": "Tringa ochropus",
+  "author": "Linnaeus, 1758",
+  "en": "Green Sandpiper",
+  "ktsn": 120000001718,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새, 일부 겨울철새",
+  "habitat": "하천, 저수지, 논, 강의 얕은 물가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 일부는 겨울에 머문다."
+  },
+  "summary": "봄과 가을에 찾아오는 나그네새이며, 일부는 겨울에도 머무는 겨울철새이다. 하천, 저수지, 논, 강처럼 물이 얕은 물가에서 볼 수 있다. 쉬지 않고 움직이며 물 가장자리를 따라 진흙 속의 작은 무척추동물을 잡는다.",
+  "points": [
+    {
+      "ko": "흰 눈썹선 앞쪽과 눈 둘레",
+      "en": "white fore-supercilium and eye-ring"
+    },
+    {
+      "ko": "갈색 세로줄이 뚜렷한 머리·가슴(여름깃)",
+      "en": "head and breast clearly streaked brown (breeding)"
+    },
+    {
+      "ko": "녹색 기운이 도는 갈색 윗면",
+      "en": "greenish-brown upperparts"
+    },
+    {
+      "ko": "굵은 검은 띠 2~3개가 있는 꼬리",
+      "en": "tail with two or three broad black bars"
+    },
+    {
+      "ko": "날 때 어두운 갈색으로 보이는 날개 아랫면",
+      "en": "dark brown underwing in flight"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Green Sandpiper (Tringa ochropus), adult in breeding plumage: greenish-brown upperparts, white in front of the eye forming a short supercilium and white around the eye, head and breast clearly streaked brown, tail with two or three broad black bars, dark brown underwing",
+    "pose": "walking busily along the muddy edge of a stream, picking small invertebrates from the mud",
+    "scene": "Korean shallow stream and reservoir edge with muddy margins in winter; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: greenish-brown upperparts, white fore-supercilium and eye-ring, brown-streaked head and breast",
+      "adult winter, side view standing: fainter streaks on head and breast",
+      "in flight, from below: dark brown underwing, tail with 2–3 broad black bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 삑삑도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001718",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 삑삑도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001718",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

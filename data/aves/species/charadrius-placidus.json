@@ -1,0 +1,101 @@
+{
+  "id": "charadrius-placidus",
+  "ko": "흰목물떼새",
+  "sci": "Charadrius placidus",
+  "author": "J.E.Gray & G.R.Gray, 1863",
+  "en": "Long-billed Plover",
+  "ktsn": 120000155046,
+  "origin": "nibr",
+  "length": "20.5cm",
+  "status": "국지적으로 번식하는 드문 텃새",
+  "habitat": "자갈이 많은 하천과 강가, 강가의 자갈밭과 모래밭",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "강가의 자갈밭이나 모래밭에서 적은 수가 국지적으로 번식하는 드문 텃새이다. 꼬마물떼새와 비슷한 환경에 살지만 자갈이 더 많은 하천과 강가를 찾으며, 홀로 또는 작은 무리로 지낸다. 자갈 사이 땅을 오목하게 파서 둥지를 만들고 알 4개를 낳아 28~29일 동안 품는다. 국외에서는 우수리 지방과 중국 동북부에서 번식하고 중국 남부와 인도 북부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "아랫부리 기부가 엷은 가늘고 긴 부리",
+      "en": "long slender bill with pale base to lower mandible"
+    },
+    {
+      "ko": "가늘고 흐린 노란 눈테",
+      "en": "thin, faint yellow eye-ring"
+    },
+    {
+      "ko": "흐린 검은색 눈앞",
+      "en": "dusky lores"
+    },
+    {
+      "ko": "머리 위와 귀깃의 검은색",
+      "en": "black on crown and ear-coverts"
+    },
+    {
+      "ko": "가운데서 가늘어지는 검은 가슴띠",
+      "en": "black breast band narrowing at the centre"
+    },
+    {
+      "ko": "긴 다리",
+      "en": "long legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "꼬마물떼새",
+      "how": "흰목물떼새가 부리와 다리가 더 길고 몸이 더 크며, 노란 눈테는 더 가늘고 약해 보인다."
+    },
+    {
+      "ko": "흰물떼새",
+      "how": "흰목물떼새는 눈앞의 검은색이 흰물떼새보다 흐리다."
+    }
+  ],
+  "art": {
+    "subject": "Long-billed Plover (Charadrius placidus), adult: long slender bill with a pale base to the lower mandible, thin faint yellow eye-ring, dusky lores, black on the crown and ear-coverts, black breast band narrowing at the centre, long legs",
+    "pose": "standing on river shingle, side view",
+    "scene": "Korean riverbed of gravel and sand beside a shallow flowing stream; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long slender bill, thin yellow eye-ring, black crown and ear-coverts, breast band narrowing in the middle, long legs",
+      "adult, head detail: pale base to the lower mandible, faint eye-ring, dusky lores"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰목물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155046",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰목물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155046",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Thinornis placidus)"
+    }
+  ],
+  "todo": []
+}

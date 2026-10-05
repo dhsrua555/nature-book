@@ -1,0 +1,79 @@
+{
+  "id": "falco-columbarius",
+  "ko": "쇠황조롱이",
+  "sci": "Falco columbarius",
+  "author": "Linnaeus, 1758",
+  "en": "Merlin",
+  "ktsn": 120000001574,
+  "origin": "nibr",
+  "length": "28–33cm",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "번식지: 다른 새의 빈 둥지, 나무구멍, 절벽과 바위 틈",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "전국에 찾아오지만 흔하지 않은 겨울철새다. 둥지를 스스로 짓지 않고 까마귀류 같은 다른 새의 빈 둥지나 나무구멍, 절벽, 바위 틈에 알 3~6개를 낳는다. 북위 40°에서 북극에 이르는 유럽, 아시아, 북아메리카에 분포하며, 한국, 일본, 중국, 이란, 이집트 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "회색 등(수컷)",
+      "en": "grey back (male)"
+    },
+    {
+      "ko": "연한 적갈색 줄무늬 배(수컷)",
+      "en": "belly streaked pale rufous (male)"
+    },
+    {
+      "ko": "꼬리 끝의 넓은 검은 띠(수컷)",
+      "en": "broad black band at the tail tip (male)"
+    },
+    {
+      "ko": "갈색 등(암컷)",
+      "en": "brown back (female)"
+    },
+    {
+      "ko": "옅은 갈색 바탕에 적갈색 줄무늬 배(암컷)",
+      "en": "buff belly streaked rufous (female)"
+    },
+    {
+      "ko": "갈색 줄무늬 꼬리(암컷)",
+      "en": "brown-banded tail (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "등이 회색이고 꼬리 끝에 넓은 검은 띠가 있으며, 배에 연한 적갈색 줄무늬가 있다.",
+    "female": "등이 갈색이고 옅은 갈색 배에 적갈색 줄무늬가 있으며, 꼬리에는 갈색 줄무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Merlin (Falco columbarius), adult male: grey back, belly streaked pale rufous, broad black band at the tail tip",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": [
+      "adult male, side view perched: grey back, pale rufous streaks on the belly, broad black tail band",
+      "adult female, side view perched: brown back, buff belly streaked rufous, brown-banded tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠황조롱이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001574",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠황조롱이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001574",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

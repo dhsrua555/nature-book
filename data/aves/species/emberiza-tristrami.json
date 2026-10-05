@@ -1,0 +1,76 @@
+{
+  "id": "emberiza-tristrami",
+  "ko": "흰배멧새",
+  "sci": "Emberiza tristrami",
+  "author": "Swinhoe, 1870",
+  "en": "Tristram's Bunting",
+  "ktsn": 120000002219,
+  "origin": "nibr",
+  "length": "약 13–14cm",
+  "status": "흔한 나그네새",
+  "habitat": "숲속",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6월께 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도 전역을 지나가는 흔한 나그네새로, 숲속에 산다. 숲속 땅 위에서 먹이를 찾는 때가 많지만 나무 위에서 찾기도 하며, 곤충과 잡초 씨를 즐겨 먹는다. 구북구 동부, 아무르, 우수리, 만주 북부·동부 등지에서 번식하며 한배에 알을 3개쯤 낳는다. 중국 남부, 윈난, 일본, 미얀마 등지에서 겨울을 나고 한국, 만주, 중국 북부 등지를 지나간다.",
+  "points": [
+    {
+      "ko": "검은 머리꼭대기와 흰 머리중앙선",
+      "en": "black crown with a clear white median crown stripe"
+    },
+    {
+      "ko": "지저분한 흰색 눈썹선과 턱선",
+      "en": "dirty-white supercilium and malar stripe"
+    },
+    {
+      "ko": "검은 갈색 축반이 있는 올리브 갈색 등",
+      "en": "olive-brown back with blackish-brown shaft streaks"
+    },
+    {
+      "ko": "황갈색 가슴",
+      "en": "buff breast"
+    },
+    {
+      "ko": "살구색 다리",
+      "en": "flesh-coloured legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기가 검고 또렷한 흰 머리중앙선이 있다(여름깃).",
+    "female": "머리꼭대기가 검은 갈색이고 머리중앙선은 황갈색이며, 턱 밑과 멱은 엷은 황갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Tristram's Bunting (Emberiza tristrami), adult male breeding: black crown with a clear white median crown stripe, dirty-white supercilium and malar stripe, olive-brown hindcrown and back with blackish-brown shaft streaks, buff breast, dark buff axillaries with indistinct dark streaks, brown iris, flesh-coloured legs",
+    "pose": "foraging on the forest floor, side view",
+    "scene": "Korean spring migration: shady woodland floor with leaf litter; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view on ground: black crown with white median stripe, dirty-white supercilium and malar stripe, olive-brown back, buff breast",
+      "adult male winter, head detail: buff median crown stripe, buff-brown fringes on head sides, chin and throat",
+      "adult female, side view on ground: blackish-brown crown with buff median stripe, pale buff chin and throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰배멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002219",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰배멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002219",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

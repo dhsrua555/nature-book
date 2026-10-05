@@ -1,0 +1,85 @@
+{
+  "id": "saundersilarus-saundersi",
+  "ko": "검은머리갈매기",
+  "sci": "Saundersilarus saundersi",
+  "author": "Swinhoe, 1871",
+  "en": "Saunders's Gull",
+  "ktsn": 120000528810,
+  "origin": "nibr",
+  "length": "29–32cm",
+  "status": "겨울철새, 일부는 서해안에서 번식",
+  "habitat": "갯벌이 있는 해안, 강 하구",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "번식기는 4~6월이다."
+  },
+  "summary": "겨울철새이지만 일부는 서해안에서 번식하며, 갯벌이 있는 해안과 강 하구에서 무리 지어 산다. 보통 수십 마리가 한 무리를 이루고, 크게 모일 때는 수백 마리 단위로 움직인다. 갯벌 위를 낮고 느리게 날다가 내리꽂혀 게나 갯지렁이를 잡거나, 갯벌을 걸어 다니며 먹이를 찾는다. 알은 2~3개를 낳으며, 국내에서는 서남해안에 살고 국외에서는 중국 동북부 해안에 분포한다.",
+  "points": [
+    {
+      "ko": "여름깃의 검은 머리",
+      "en": "breeding: black hood"
+    },
+    {
+      "ko": "겨울깃은 어두운 무늬 있는 흰 머리",
+      "en": "non-breeding: white head with dark markings"
+    },
+    {
+      "ko": "흰 눈테와 검은 부리",
+      "en": "white eye-ring, black bill"
+    },
+    {
+      "ko": "어두운 진줏빛 회색 등",
+      "en": "dark pearl-grey mantle"
+    },
+    {
+      "ko": "대부분 흰 날개깃",
+      "en": "mostly white flight feathers"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새로는 가려내기 어렵고, 수컷이 암컷보다 조금 크다."
+  },
+  "young": "어린새는 윗면이 갈색이고 깃 가장자리가 옅은 색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Saunders's Gull (Saundersilarus saundersi), adult breeding: black head, white eye-ring, black bill, dark pearl-grey back, mostly white flight feathers, white neck, underparts and tail, red legs",
+    "pose": "flying low and slowly over a mudflat, about to drop onto a crab",
+    "scene": "Korean west-coast tidal mudflat at a river mouth in spring; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: black head, white eye-ring, black bill, dark pearl-grey back, white underparts and tail, red legs",
+      "adult non-breeding, head detail: white head with dark markings",
+      "juvenile, side view: brown upperparts with paler feather edges"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528810",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528810",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

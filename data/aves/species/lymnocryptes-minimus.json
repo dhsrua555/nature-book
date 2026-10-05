@@ -1,0 +1,80 @@
+{
+  "id": "lymnocryptes-minimus",
+  "ko": "꼬마도요",
+  "sci": "Lymnocryptes minimus",
+  "author": "Brünnich, 1764",
+  "en": "Jack Snipe",
+  "ktsn": 120000001693,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새",
+  "habitat": "바닷가나 호숫가의 풀밭, 논, 하천, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지의 산란기는 6월 상순~8월 상순이다."
+  },
+  "summary": "봄과 가을에 우리나라를 지나가는 나그네새로, 바닷가나 호숫가의 풀밭, 논, 하천, 습지에서 지낸다. 대개 홀로 지내며 밤에만 움직인다. 곤충과 환형동물, 작은 물고기, 게, 새우 등을 잡아먹는다. 구북구 한대와 시베리아에서 번식하며 알 4개를 암컷 혼자 품고, 동남아시아, 남유럽, 아프리카에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "정수리 가운데의 검은 선",
+      "en": "black central crown stripe"
+    },
+    {
+      "ko": "흰 턱밑과 멱",
+      "en": "white chin and throat"
+    },
+    {
+      "ko": "검은 갈색 얼룩이 있는 흰 목 옆",
+      "en": "white neck sides blotched blackish-brown"
+    },
+    {
+      "ko": "등 가운데의 광택 있는 검붉은 얼룩",
+      "en": "glossy dark reddish mottling down the centre of the back"
+    },
+    {
+      "ko": "흰 가슴·배·아래꼬리덮깃",
+      "en": "white breast, belly and undertail coverts"
+    },
+    {
+      "ko": "꼬리깃 12장의 쐐기꼴 꼬리",
+      "en": "wedge-shaped tail of 12 feathers"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Jack Snipe (Lymnocryptes minimus), adult: dark brown overall, black central crown stripe, white chin and throat, white neck sides with blackish-brown blotches, glossy dark reddish mottling down the centre of the back, white breast, belly and undertail coverts, wedge-shaped tail",
+    "pose": "crouched alone in wet grass, side view",
+    "scene": "Korean grassy marsh edge beside rice fields during autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark brown overall, black crown stripe, white throat, glossy dark reddish mottling on the back, white belly",
+      "tail detail: wedge-shaped tail of 12 feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꼬마도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001693",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꼬마도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001693",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 몸길이가 없고 날개길이 99~110mm, 꼬리길이 42~51mm, 부리 39~47mm만 있다"
+  ]
+}

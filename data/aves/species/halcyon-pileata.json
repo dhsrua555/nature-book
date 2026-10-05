@@ -1,0 +1,82 @@
+{
+  "id": "halcyon-pileata",
+  "ko": "청호반새",
+  "sci": "Halcyon pileata",
+  "author": "Boddaert, 1783",
+  "en": "Black-capped Kingfisher",
+  "ktsn": 120000001892,
+  "origin": "nibr",
+  "length": "약 28cm",
+  "status": "비교적 드문 여름철새",
+  "habitat": "하천가, 산 중턱의 벼랑",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "4~7월에 알을 낳는다."
+  },
+  "summary": "전국에 찾아오는 비교적 드문 여름철새로, 혼자 또는 암수가 함께 지낸다. 하천가나 산 중턱 벼랑에 구멍을 파거나 나무 구멍을 써서 4~7월에 알을 4~6개 낳는다. 갑각류, 파충류, 양서류, 물고기, 곤충 따위를 먹는다. 국외에서는 중국, 인도, 스리랑카에 분포한다.",
+  "points": [
+    {
+      "ko": "광택 없는 짙은 검은 머리",
+      "en": "matt jet-black head"
+    },
+    {
+      "ko": "눈 밑의 가는 흰 선",
+      "en": "thin white line below the eye"
+    },
+    {
+      "ko": "황갈빛 흰 턱·멱·가슴과 목띠",
+      "en": "buffy-white chin, throat, breast and collar"
+    },
+    {
+      "ko": "광택 있는 푸른 등과 허리",
+      "en": "glossy blue back and rump"
+    },
+    {
+      "ko": "길고 뾰족한 부리",
+      "en": "long, pointed bill"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "가슴이 황갈빛 흰색이다.",
+    "female": "수컷과 비슷하나 가슴 깃 가장자리가 늘 옅은 검은색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-capped Kingfisher (Halcyon pileata), adult male: matt jet-black head, thin white line below the eye, buffy-white chin, throat, breast and collar, the collar black along its lower edge, glossy blue back, scapulars, rump and uppertail coverts, blue tail with black inner webs and undersides to the outer feathers, paler centre of the belly, long pointed bill with a straight culmen",
+    "pose": "perched alone on a branch above a stream",
+    "scene": "Korean riverside in summer with an earthen bank and a hillside cliff; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: black head, white line below the eye, buffy-white collar and breast, glossy blue back, long pointed bill",
+      "adult female, breast detail: breast feathers edged dusky black"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 청호반새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001892",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 청호반새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001892",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

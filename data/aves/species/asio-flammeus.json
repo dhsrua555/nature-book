@@ -1,0 +1,72 @@
+{
+  "id": "asio-flammeus",
+  "ko": "쇠부엉이",
+  "sci": "Asio flammeus",
+  "author": "Pontoppidan, 1763",
+  "en": "Short-eared Owl",
+  "ktsn": 120000001871,
+  "origin": "nibr",
+  "length": "33–43cm",
+  "status": "드문 겨울철새",
+  "habitat": "습지, 초지, 대초원, 저지대 산림",
+  "protect": [
+    "천연기념물"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4월 하순~5월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라에서 드물게 관찰되는 겨울철새로, 습지와 풀밭, 대초원, 저지대 숲을 즐겨 찾는다. 들쥐, 작은 들새, 곤충 따위를 먹는다. 한배에 알을 4~8개 낳아 24~28일 품고, 새끼는 12~17일 동안 기른다. 구북구의 한대와 온대에 걸쳐 유럽, 시베리아, 북극 툰드라, 우수리, 아무르, 캄차카, 키르기스 초원, 몽골 북부, 중국 동북 지방까지 넓게 분포한다.",
+  "points": [
+    {
+      "ko": "거의 안 보이는 매우 짧은 귀깃",
+      "en": "very short, barely visible ear tufts"
+    },
+    {
+      "ko": "노란 눈",
+      "en": "yellow eyes"
+    },
+    {
+      "ko": "굵은 갈색 세로줄의 황갈색 몸",
+      "en": "tawny-buff plumage heavily streaked brown"
+    },
+    {
+      "ko": "끝이 검은 날개 아랫면",
+      "en": "black tips to the underwing"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Short-eared Owl (Asio flammeus), adult: tawny-buff overall with many bold brown streaks, very short ear tufts barely visible, yellow eyes, black tips to the underwing",
+    "pose": "perched low on a grassy tussock in open marsh",
+    "scene": "Korean winter wetland and grassland with dry grasses and reeds; no people, buildings or text",
+    "views": [
+      "adult, side view perched: tawny-buff with bold brown streaks, tiny ear tufts, yellow eyes",
+      "adult, flight view from below: black tips to the underwing, streaked tawny-buff body"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠부엉이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001871",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠부엉이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001871",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

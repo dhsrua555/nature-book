@@ -1,0 +1,99 @@
+{
+  "id": "chloris-sinica",
+  "ko": "방울새",
+  "sci": "Chloris sinica",
+  "author": "Linnaeus, 1766",
+  "en": "Oriental Greenfinch",
+  "ktsn": 120000528870,
+  "origin": "nibr",
+  "length": "14cm",
+  "status": "흔한 텃새",
+  "habitat": "평지, 구릉, 농촌 주변 야산",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "4~8월에 알을 낳는다."
+  },
+  "summary": "평지와 구릉, 농촌과 그 주변 야산에 사는 흔한 텃새이다. 밥그릇 모양 둥지에 알을 2~5개 낳는다. 평소에는 잡초와 곡식의 씨를 먹다가 여름에는 곤충을 많이 잡아먹는다. 전국에서 살며 국외에서는 만주와 우수리 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 녹갈색 머리와 등",
+      "en": "dark olive-brown head and back"
+    },
+    {
+      "ko": "밝은 분홍색 부리",
+      "en": "bright pink bill"
+    },
+    {
+      "ko": "어두운 황갈색 가슴과 배",
+      "en": "dark buffish-brown breast and belly"
+    },
+    {
+      "ko": "날개의 선명한 노란 띠",
+      "en": "bold yellow wing band"
+    },
+    {
+      "ko": "검은 날개깃과 꼬리",
+      "en": "black flight feathers and tail"
+    },
+    {
+      "ko": "꼬리 가장자리의 노란 무늬",
+      "en": "yellow at the tail edges"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 등은 어두운 녹갈색, 가슴과 배는 어두운 황갈색이고 부리는 밝은 분홍색이며 온몸에 녹색 빛이 돈다.",
+    "female": "수컷보다 색이 연하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Greenfinch (Chloris sinica), adult male: dark olive-brown head and back, dark buffish-brown breast and belly, greenish tinge overall, bright pink bill, black flight feathers with a bold yellow wing band, black tail with yellow at the edges",
+    "pose": "perched on a weed stalk, picking seeds",
+    "scene": "Korean countryside: low hills and farm fields at the foot of a wooded hill; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: olive-brown head and back, pink bill, yellow wing band, black tail with yellow edges",
+      "adult female, side view perched: like the male but paler",
+      "adult male, in flight: bold yellow band across black wings"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 방울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528870",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 방울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528870",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

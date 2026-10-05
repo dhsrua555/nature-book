@@ -1,0 +1,79 @@
+{
+  "id": "bubo-scandiacus",
+  "ko": "흰올빼미",
+  "sci": "Bubo scandiacus",
+  "author": "Linnaeus, 1758",
+  "en": "Snowy Owl",
+  "ktsn": 120000528916,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "겨울철새",
+  "habitat": "늪, 해변, 개활지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4~6월에 알을 낳는다."
+  },
+  "summary": "늪과 해변, 탁 트인 땅에서 지내는 겨울철새로, 국내에서는 충청남도와 함경남도에 산다. 홀로 지내며 땅 위나 언덕, 바위, 말뚝에 가만히 앉아 가까이 나타나는 먹이를 기다린다. 쥐, 두더지, 새, 족제비, 곤충 따위를 잡아먹는다. 시베리아, 알래스카, 캐나다, 스칸디나비아반도에 분포하며, 번식지에서는 4~6월에 무늬 없는 흰 알을 낳는다.",
+  "points": [
+    {
+      "ko": "온몸이 흰색",
+      "en": "white overall"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "목의 가느다란 무늬",
+      "en": "fine markings on the neck"
+    },
+    {
+      "ko": "등·날개깃 끝·꼬리의 검은 갈색 무늬",
+      "en": "blackish-brown markings on back, flight-feather tips and tail"
+    },
+    {
+      "ko": "깃이 빽빽한 다리와 발가락, 검은 발톱",
+      "en": "densely feathered legs and toes, black claws"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "날개 길이가 약 40cm로 암컷보다 작다.",
+    "female": "날개 길이가 약 45cm로 수컷보다 몸집이 크고, 등 쪽에 검은 갈색 가로무늬가 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Snowy Owl (Bubo scandiacus), adult male: white overall with some blackish-brown markings on the back, flight-feather tips and tail, fine markings on the neck, black bill, densely feathered legs and toes, black claws",
+    "pose": "sitting still on a wooden post, watching the ground for prey",
+    "scene": "Korean winter open country: a coastal marsh beside a beach with dry grass and a lone post; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: white overall, some blackish-brown markings on back, flight-feather tips and tail, black bill, feathered feet",
+      "adult female, side view perched: larger, white with blackish-brown bars across the back",
+      "foot detail: densely feathered legs and toes with black claws"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰올빼미",
+      "url": "https://species.nibr.go.kr/species-detail/120000528916",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰올빼미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528916",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문은 몸길이 대신 날개 길이(수컷 약 40cm, 암컷 약 45cm)만 주어 length 는 TODO 로 두었다",
+    "원문의 '턱 모양의 깃'은 '털 모양의 깃'의 오기로 보여 옮기지 않았다"
+  ]
+}

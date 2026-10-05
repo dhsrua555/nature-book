@@ -1,0 +1,78 @@
+{
+  "id": "phylloscopus-borealis",
+  "ko": "쇠솔새",
+  "sci": "Phylloscopus borealis",
+  "author": "Blasius, 1858",
+  "en": "Arctic Warbler",
+  "ktsn": 120000002049,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "나그네새",
+  "habitat": "아고산대의 침엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~8월에 알을 낳는다."
+  },
+  "summary": "아고산대 침엽수림에 사는 나그네새로, 대개 나무 위에서 지낸다. 알은 6~8월에 4~5개 낳으며, 흰 바탕에 붉은 갈색과 엷은 자주색 얼룩점이 흩어져 있다.",
+  "points": [
+    {
+      "ko": "황백색 눈썹선",
+      "en": "yellowish-white supercilium"
+    },
+    {
+      "ko": "올리브색과 엷은 황색이 섞인 귀깃",
+      "en": "ear coverts mottled olive and pale yellow"
+    },
+    {
+      "ko": "어두운 갈색 윗부리, 황갈색 아랫부리",
+      "en": "dark brown upper mandible, yellowish-brown lower mandible"
+    },
+    {
+      "ko": "어두운 올리브색 윗면",
+      "en": "dark olive upperparts"
+    },
+    {
+      "ko": "엷은 황색 멱·배, 잿빛 올리브색 옆구리",
+      "en": "pale yellow throat and belly, greyish-olive flanks"
+    },
+    {
+      "ko": "황색 기 도는 엷은 갈색 다리",
+      "en": "pale yellowish-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Arctic Warbler (Phylloscopus borealis), adult: dark olive upperparts from forehead to uppertail coverts, yellowish-white supercilium, ear coverts mottled olive and pale yellow, pale yellow chin, throat, centre of breast, belly and undertail coverts, greyish-olive breast sides and flanks, dark brown upper mandible, yellowish-brown lower mandible, pale yellowish-brown legs",
+    "pose": "foraging along a branch high in a conifer, side view",
+    "scene": "Korean subalpine conifer forest on passage, fir and spruce branches; no people, buildings or text",
+    "views": [
+      "adult, side view perched: yellowish-white supercilium, dark olive upperparts, pale yellow underparts, greyish-olive flanks, pale yellowish-brown legs",
+      "adult, head detail: supercilium, olive-and-pale-yellow ear coverts, dark brown upper and yellowish-brown lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002049",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002049",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

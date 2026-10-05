@@ -1,0 +1,51 @@
+{
+  "id": "netta-rufina",
+  "ko": "붉은부리흰죽지",
+  "sci": "Netta rufina",
+  "author": "Pallas, 1773",
+  "en": "Red-crested Pochard",
+  "ktsn": 120000001448,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "TODO",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "TODO",
+    "scene": "TODO",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은부리흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001448",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은부리흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001448",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 생김새(수컷 이마의 붉은 혹, 검은 머리와 목, 분홍 부리)와 분포(남아메리카)가 이 종과 맞지 않고 남아메리카의 다른 Netta 종(Netta peposaca로 보임)을 설명한 것으로 보여 모든 값을 TODO로 둠"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "locustella-pleskei",
+  "ko": "섬개개비",
+  "sci": "Locustella pleskei",
+  "author": "Taczanowski, 1890",
+  "en": "Styan's Grasshopper Warbler",
+  "ktsn": 120000002032,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "TODO",
+  "habitat": "서해안·남해안·동해안의 섬, 대나무 숲, 관목 숲, 잡목 숲",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "알은 5~6월에 낳는다."
+  },
+  "summary": "서해안, 남해안, 동해안의 섬에 사는 새로, 대나무 숲이나 관목·잡목 숲에서 지내며 가끔 밭이나 인가 근처까지 내려와 먹이를 찾는다. 곤충을 주로 먹고 복족류 같은 연체동물도 잡아먹는다. 대나무 줄기나 나뭇가지 사이에 둥지를 틀고 5~6월에 알 4개를 낳는다. 국외에서는 일본과 중국 동부에 분포한다.",
+  "points": [
+    {
+      "ko": "올리브빛 갈색 윗면",
+      "en": "olive-brown upperparts"
+    },
+    {
+      "ko": "황갈색 허리와 위꼬리덮깃",
+      "en": "buff rump and uppertail coverts"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "바깥 꽁지깃 끝의 회백색 띠",
+      "en": "greyish-white tips to the outer tail feathers"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Styan's Grasshopper Warbler (Locustella pleskei), adult: olive-brown upperparts, buff rump and uppertail coverts, greyish-white band at the tips of the outer tail feathers, white underparts",
+    "pose": "perched between bamboo stems, side view",
+    "scene": "bamboo thicket and scrub on a Korean coastal island in early summer; no people, buildings or text",
+    "views": [
+      "adult, side view perched: olive-brown upperparts, buff rump, white underparts",
+      "adult, tail from below: greyish-white tips to the outer tail feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 섬개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002032",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 섬개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002032",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Helopsaltes pleskei)"
+    }
+  ],
+  "todo": []
+}

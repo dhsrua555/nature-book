@@ -1,0 +1,76 @@
+{
+  "id": "ixobrychus-cinnamomeus",
+  "ko": "열대붉은해오라기",
+  "sci": "Ixobrychus cinnamomeus",
+  "author": "Gmelin, 1789",
+  "en": "Cinnamon Bittern",
+  "ktsn": 120000001526,
+  "origin": "nibr",
+  "length": "40cm",
+  "status": "미조",
+  "habitat": "논, 갈대밭, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~8월에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 미조로 알려져 있고, 제주도 용담동에 서식한다. 논, 갈대밭, 습지에서 홀로 또는 암수가 함께 지내며, 얕은 물속이나 진흙 위를 느릿느릿 걸으며 물고기, 개구리 따위를 잡아먹는다. 갈대밭이나 물 위 수초 줄기 사이에 풀잎과 갈대 줄기로 접시 모양 둥지를 짓고 알을 5~6개 정도 낳는다. 세계적으로는 일본 오키나와를 비롯한 동아시아에 분포하며, 한쪽 날개 길이는 14~15cm이다.",
+  "points": [
+    {
+      "ko": "번식기 수컷의 붉은 눈앞",
+      "en": "red lores (breeding male)"
+    },
+    {
+      "ko": "멱의 갈색 세로무늬 한 줄",
+      "en": "single brown stripe down the throat"
+    },
+    {
+      "ko": "붉은 갈색 윗면(수컷)",
+      "en": "rufous-brown upperparts (male)"
+    },
+    {
+      "ko": "황색 아랫면",
+      "en": "yellowish underparts"
+    },
+    {
+      "ko": "검은 갈색 세로무늬 여러 줄(암컷)",
+      "en": "several bold blackish-brown streaks (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸 윗면이 붉은 갈색이고, 번식기에는 눈앞이 붉어진다.",
+    "female": "몸 윗면이 수컷보다 짙은 갈색이고, 뚜렷한 검은 갈색 세로무늬가 여러 줄 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Cinnamon Bittern (Ixobrychus cinnamomeus), adult male: rufous-brown upperparts, yellowish underparts, a single brown stripe down the throat",
+    "pose": "walking slowly over mud in shallow water, hunting",
+    "scene": "Korean rice paddies and reedy wetland on Jeju; no people, buildings or text",
+    "views": [
+      "adult male, side view: rufous-brown upperparts, yellowish underparts, single brown throat stripe",
+      "adult female, side view: darker brown upperparts, several distinct blackish-brown streaks",
+      "breeding male, head detail: red lores"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 열대붉은해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001526",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 열대붉은해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001526",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Botaurus cinnamomeus)"
+    }
+  ],
+  "todo": []
+}

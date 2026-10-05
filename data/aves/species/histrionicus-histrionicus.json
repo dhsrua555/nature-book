@@ -1,0 +1,74 @@
+{
+  "id": "histrionicus-histrionicus",
+  "ko": "흰줄박이오리",
+  "sci": "Histrionicus histrionicus",
+  "author": "Linnaeus, 1758",
+  "en": "Harlequin Duck",
+  "ktsn": 120000001460,
+  "origin": "nibr",
+  "length": "약 43cm",
+  "status": "드문 겨울철새",
+  "habitat": "암초가 많은 바닷가, 해안 암벽",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "주로 동해안에서 겨울을 나는 드문 겨울철새로, 암초가 많은 바닷가에서 작은 무리를 지어 지낸다. 잠수해 갑각류와 조개류를 잡아먹고, 쉴 때는 해안 바위에 올라간다. 시베리아 동부, 캄차카, 알래스카에서 북아메리카 서북부 해안, 쿠릴열도 북부, 그린란드 남부, 아이슬란드, 아메리카 동북 연안에 걸쳐 번식하며, 겨울에는 번식지 아래쪽 지역으로 내려와 지낸다.",
+  "points": [
+    {
+      "ko": "수컷 부리 위·뺨·귀 뒤의 흰 무늬",
+      "en": "male: white spots and stripes above the bill, on the cheek and behind the ear"
+    },
+    {
+      "ko": "암컷 눈앞과 귀깃의 흰 점",
+      "en": "female: white spots on the lores and ear coverts"
+    },
+    {
+      "ko": "수컷의 금속광택 어두운 청회색 몸",
+      "en": "male: dark slate-blue plumage with a metallic sheen"
+    },
+    {
+      "ko": "수컷 목과 옆구리의 흰 무늬",
+      "en": "male: white markings on the neck and flanks"
+    },
+    {
+      "ko": "수컷의 적갈색 옆구리",
+      "en": "male: chestnut flanks"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "금속광택이 도는 어두운 청회색 바탕에 부리 위, 뺨, 귀 뒤, 목, 옆구리에 흰 점이나 줄무늬가 있고, 옆구리는 적갈색이다.",
+    "female": "어두운 갈색이며 눈앞과 귀깃에 흰 점이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Harlequin Duck (Histrionicus histrionicus), adult male: dark blue-grey plumage with a metallic sheen, white spots and stripes above the bill, on the cheek, behind the ear, on the neck and on the flanks, reddish-brown flanks",
+    "pose": "resting on a wave-washed coastal rock",
+    "scene": "Korean winter East Sea coast with dark reefs and breaking surf; no people, buildings or text",
+    "views": [
+      "adult male, side view standing on a rock: metallic dark blue-grey plumage, white spots and stripes on the face, neck and flanks, reddish-brown flanks",
+      "adult female, side view swimming: dark brown overall, white spots in front of the eye and on the ear coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰줄박이오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001460",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰줄박이오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001460",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "anas-rubripes",
+  "ko": "미국오리",
+  "sci": "Anas rubripes",
+  "author": "Brewster, 1902",
+  "en": "American Black Duck",
+  "ktsn": 120000001439,
+  "origin": "nibr",
+  "length": "48–56cm",
+  "status": "미조",
+  "habitat": "호소, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 미조로, 호소와 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭 등에서 지낸다. 땅 위에 둥지를 짓고 몸깃과 가슴깃을 바닥에 깔며, 녹색 빛이 도는 담갈색 알을 9~12개 낳는다. 미국과 캐나다 동부에 분포한다.",
+  "points": [
+    {
+      "ko": "올리브색 또는 녹색 부리",
+      "en": "olive or greenish bill"
+    },
+    {
+      "ko": "온몸이 검은 갈색",
+      "en": "blackish-brown plumage overall"
+    },
+    {
+      "ko": "아래쪽이 흰 둘째날개깃",
+      "en": "secondaries with a white lower edge"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 온몸이 검은 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "청둥오리",
+      "how": "청둥오리 암컷과 닮았으나 부리 색과 몸 색이 다르다."
+    }
+  ],
+  "art": {
+    "subject": "American Black Duck (Anas rubripes), adult: blackish-brown plumage overall, white lower edge to the secondaries, olive or greenish bill",
+    "pose": "swimming at the edge of a pond, side view",
+    "scene": "Korean coastal wetland: a pond and grassy waterside near an estuary; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: blackish-brown body, olive-green bill",
+      "adult, wing detail: secondaries with a white lower edge"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 미국오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001439",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 미국오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001439",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

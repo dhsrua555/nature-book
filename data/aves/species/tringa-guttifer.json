@@ -1,0 +1,84 @@
+{
+  "id": "tringa-guttifer",
+  "ko": "청다리도요사촌",
+  "sci": "Tringa guttifer",
+  "author": "Nordmann, 1835",
+  "en": "Nordmann's Greenshank",
+  "ktsn": 120000001716,
+  "origin": "nibr",
+  "length": "29–32cm",
+  "status": "매우 드문 나그네새",
+  "habitat": "해안 갯벌, 강 하구",
+  "protect": [
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 서해안 일대를 지나간다."
+  },
+  "summary": "봄과 가을에 적은 수가 서해안 일대를 지나가는 매우 드문 나그네새로, 해안 갯벌이나 강 하구에 내려앉는다. 재빨리 달려가 게를 잡아먹으며, 갑각류, 어류, 연체동물 등을 먹는다. 알은 4개쯤 낳는데, 청록색 바탕에 검은 갈색 반점이 있다. 국내에서는 서해안과 남해안에서 관찰되고, 세계적으로는 사할린에 분포한다.",
+  "points": [
+    {
+      "ko": "기부가 노르스름한 위로 휜 굵은 부리",
+      "en": "thick, long, upturned bill with a large yellowish base"
+    },
+    {
+      "ko": "검은 반점이 뚜렷한 머리와 가슴(여름깃)",
+      "en": "head and breast boldly spotted black (breeding)"
+    },
+    {
+      "ko": "검게 보이는 윗면(여름깃)",
+      "en": "upperparts appearing blackish (breeding)"
+    },
+    {
+      "ko": "흐린 회색 윗면(겨울깃)",
+      "en": "pale grey upperparts (winter)"
+    },
+    {
+      "ko": "날 때 꼬리 뒤로 조금 나오는 다리",
+      "en": "feet projecting slightly beyond the tail in flight"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 여름깃이 같은 모습이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "청다리도요",
+      "how": "야외에서 청다리도요보다 뿌옇게 보인다."
+    }
+  ],
+  "art": {
+    "subject": "Nordmann's Greenshank (Tringa guttifer), adult in breeding plumage: thick, long, upturned bill with a large yellowish base, head and breast boldly spotted black, upperparts appearing blackish, yellow legs",
+    "pose": "running quickly across a tidal mudflat to catch a crab",
+    "scene": "Korean west-coast tidal mudflat at a river mouth during spring migration; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: thick upturned bill with yellowish base, black-spotted head and breast, blackish upperparts, yellow legs",
+      "adult winter, side view standing: faint streaks on head and neck, pale grey upperparts, dark brown bill with black tip and yellow base, greenish yellow-brown legs",
+      "in flight, side view: feet projecting slightly beyond the tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 청다리도요사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000001716",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 청다리도요사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001716",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문이 다리를 '몸길이에 비해 짧다'고 했다가 '길다'고도 해 다리 길이 확인 필요"
+  ]
+}

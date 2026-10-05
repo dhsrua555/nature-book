@@ -1,0 +1,52 @@
+{
+  "id": "dicrurus-leucophaeus",
+  "ko": "회색바람까마귀",
+  "sci": "Dicrurus leucophaeus",
+  "author": "Vieillot, 1817",
+  "en": "Ashy Drongo",
+  "ktsn": 120000001946,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "미조",
+  "habitat": "산림, 덤불, 공원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전라북도 어청도, 전라남도 가거도, 평안북도 등지에 찾아오는 미조이다. 산림과 덤불, 공원에서 지낸다. 국외에서는 중국 화남과 윈난 등지에 분포한다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched upright on an open branch, side view",
+    "scene": "woodland edge and thickets on a Korean offshore island such as Eocheongdo; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 회색바람까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001946",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 회색바람까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001946",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 수컷 생김새(금속광택 녹색 몸, 자줏빛 남색 가슴 깃, 이마의 털 모양 관모)는 바람까마귀 원문과 같아 다른 종을 설명한 것으로 보이고, 암컷만 어두운 회색으로 적혀 암수 설명이 서로 맞지 않으므로 생김새·암수 차이를 TODO 로 둠",
+    "원문의 수치는 날개 길이(수컷 16.8cm, 암컷 13.4cm)뿐이라 몸길이는 TODO"
+  ]
+}

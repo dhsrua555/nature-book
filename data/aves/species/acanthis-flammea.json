@@ -1,0 +1,78 @@
+{
+  "id": "acanthis-flammea",
+  "ko": "홍방울새",
+  "sci": "Acanthis flammea",
+  "author": "Linnaeus, 1758",
+  "en": "Redpoll",
+  "ktsn": 120000528859,
+  "origin": "nibr",
+  "length": "약 13cm",
+  "status": "흔한 겨울철새",
+  "habitat": "초원 지대, 관목 지대",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "해마다 불규칙하게 찾아오며, 번식지에서는 4~6월에 알을 5~6개 낳는다."
+  },
+  "summary": "초원과 관목 지대에 사는 흔한 겨울새로, 해마다 찾아오는 정도가 불규칙하다. 이동할 때는 수십 마리씩 무리를 짓고, 그 뒤에는 작은 무리로 나뉘어 겨울을 난다. 자작나무류 씨앗과 석죽과 식물 열매를 즐겨 먹고 딱정벌레도 잡아먹는다. 전국에서 볼 수 있으며, 국외에서는 유라시아와 북아메리카, 아프리카 서북부에 분포한다.",
+  "points": [
+    {
+      "ko": "광택 있는 어두운 홍색 정수리",
+      "en": "glossy dark red crown"
+    },
+    {
+      "ko": "검은 부리 주위와 멱",
+      "en": "black around the bill and on the throat"
+    },
+    {
+      "ko": "조금 엷은 눈썹",
+      "en": "rather pale supercilium"
+    },
+    {
+      "ko": "뾰족한 어두운 갈색 부리",
+      "en": "pointed dark brown bill"
+    },
+    {
+      "ko": "어두운 잿빛 황갈색 등",
+      "en": "dark greyish-buff back"
+    },
+    {
+      "ko": "엷은 색 허리",
+      "en": "pale rump"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Redpoll (Acanthis flammea), adult winter: glossy dark red crown, black around the bill and on the throat, rather pale supercilium, dark greyish-buff upperparts, pale rump, pointed dark brown bill, brown iris, dark brown legs",
+    "pose": "clinging to a birch twig, picking at seed catkins",
+    "scene": "Korean winter scrubland and open grassland with leafless birches; no people, buildings or text",
+    "views": [
+      "adult winter, side view perched: glossy dark red crown, black around bill and throat, greyish-buff back, pale rump, dark brown legs",
+      "adult winter, head detail: red crown, black chin and throat, pointed dark brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 홍방울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528859",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 홍방울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528859",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

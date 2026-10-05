@@ -1,0 +1,79 @@
+{
+  "id": "spatula-clypeata",
+  "ko": "넓적부리",
+  "sci": "Spatula clypeata",
+  "author": "Linnaeus, 1758",
+  "en": "Northern Shoveler",
+  "ktsn": 120000528781,
+  "origin": "nibr",
+  "length": "약 50cm",
+  "status": "흔한 겨울철새",
+  "habitat": "늪지대, 초원, 호수, 저수지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "흔한 겨울철새로, 늪지대와 초원, 호수, 저수지에서 지낸다. 넓적한 부리로 물을 걸러 플랑크톤과 물속 곤충, 물풀 등을 먹는 수면성 오리다. 유라시아 대륙 북부와 북아메리카 북부에서 번식하고, 유럽 남부, 북아프리카, 인도, 동남아시아, 중국 남부, 한국, 북아메리카 남부 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "암수 모두 넓적하고 긴 부리",
+      "en": "long, broad spatulate bill in both sexes"
+    },
+    {
+      "ko": "수컷의 금속광택 청록색 머리",
+      "en": "male: glossy metallic bluish-green head"
+    },
+    {
+      "ko": "수컷 변환깃의 노란 눈, 밝은 날개덮깃",
+      "en": "eclipse male: bright yellow eye, pale wing coverts"
+    },
+    {
+      "ko": "수컷의 흰 가슴과 검은 등",
+      "en": "male: white breast, black back"
+    },
+    {
+      "ko": "수컷의 붉은 배",
+      "en": "male: reddish belly"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "금속광택이 도는 청록색 머리에 등은 검고 가슴은 희며, 배 부분이 붉다. 부리는 검고 넓적하며 다리는 주황색이다. 변환깃에서는 부리 색이 암컷과 같아지지만 선명한 노란 눈과 밝은 날개덮깃으로 암컷과 구별된다.",
+    "female": "다른 오리 암컷처럼 수수한 갈색이며, 눈은 갈색이고 부리는 검은빛 도는 갈색이다. 넓적한 부리로 다른 종과 쉽게 구별된다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Shoveler (Spatula clypeata), adult male: glossy metallic bluish-green head, black back, white breast, reddish belly, long broad black spatulate bill, orange legs",
+    "pose": "swimming low with the broad bill held in the water to filter food",
+    "scene": "Korean winter: open reservoir edge with marshy shallows and dry grass; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: glossy bluish-green head, black back, white breast, reddish belly, broad black bill",
+      "adult female, side view: plain brown, brown eye, blackish-brown broad bill",
+      "eclipse male, head detail: bright yellow eye, bill coloured like the female's"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 넓적부리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528781",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 넓적부리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528781",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

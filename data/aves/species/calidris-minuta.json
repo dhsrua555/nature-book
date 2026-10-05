@@ -1,0 +1,86 @@
+{
+  "id": "calidris-minuta",
+  "ko": "작은도요",
+  "sci": "Calidris minuta",
+  "author": "Leisler, 1812",
+  "en": "Little Stint",
+  "ktsn": 120000001733,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "개펄, 소택지, 내륙과 해안의 맑은 물가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "가을 이동은 해마다 7~10월에 있고 9월에 가장 많다고 하나, 어느 지역 기준인지는 원문에 없다."
+  },
+  "summary": "물가와 고지대, 해안에서 번식하고 겨울에는 개펄과 소택지에서 지내는 작은 도요새이다. 내륙과 해안 어디서나 나타나며 대개 맑은 물가에서 생활한다. 겨울깃일 때는 민물도요보다 몸이 작고 더 활발하게 움직인다. 지중해 연안에서 겨울을 나며 유럽의 습지를 거쳐 이동한다.",
+  "points": [
+    {
+      "ko": "짧고 곧은 검은 부리",
+      "en": "short, fine, straight black bill"
+    },
+    {
+      "ko": "반점이 있는 깃",
+      "en": "spotted plumage"
+    },
+    {
+      "ko": "깨끗한 흰 배",
+      "en": "clean white belly"
+    },
+    {
+      "ko": "땅딸막한 몸",
+      "en": "compact, dumpy build"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 무늬가 고우며, 등 아래쪽의 깔끔한 흰 줄무늬로 쉽게 알아볼 수 있다.",
+  "similar": [
+    {
+      "ko": "민물도요",
+      "how": "겨울깃일 때 작은도요가 더 작고 더 활발하게 움직인다."
+    },
+    {
+      "ko": "세가락도요",
+      "how": "여름깃·겨울깃 모두 세가락도요와 비슷하지만 작은도요는 색이 흐리지 않다."
+    }
+  ],
+  "art": {
+    "subject": "Little Stint (Calidris minuta), adult: compact, dumpy build, spotted plumage, clean white belly, short straight black bill, black legs",
+    "pose": "foraging actively at the edge of shallow clear water",
+    "scene": "Korean autumn wetland: open mudflat beside a marsh with shallow clear water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: short straight black bill, spotted plumage, clean white belly, black legs",
+      "juvenile, back view: neat white stripes on the back"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 작은도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001733",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 작은도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001733",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 번식지(잉글랜드 동부·노퍽 남부, 지중해 연안)는 북극권에서 번식하는 작은도요와 맞지 않아 보여 요약에 넣지 않았다(확인 필요).",
+    "원문의 가을 이동 시기(7~10월, 9월 최다)가 어느 지역 기준인지 밝혀져 있지 않다."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "bucephala-islandica",
+  "ko": "북방흰뺨오리",
+  "sci": "Bucephala islandica",
+  "author": "Gmelin, 1789",
+  "en": "Barrow's Goldeneye",
+  "ktsn": 120000001468,
+  "origin": "nibr",
+  "length": "42–51cm",
+  "status": "드문 미조",
+  "habitat": "해안(겨울), 호숫가의 숲(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 드물게 관찰되는 미조이다. 호숫가 숲에서 번식하고 겨울에는 해안에서 지낸다. 나무 구멍에 둥지를 틀고 알 9~10개를 낳는다. 알래스카 남서부, 캐나다 북동부, 아이슬란드, 그린란드 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷 눈 앞의 흰 점",
+      "en": "male: white spot in front of the eye"
+    },
+    {
+      "ko": "암컷의 갈색 머리와 흰 목",
+      "en": "female: brown head and white neck"
+    },
+    {
+      "ko": "검은 윗면과 흰 아랫면",
+      "en": "black upperparts and white underparts"
+    },
+    {
+      "ko": "암컷의 회색 몸",
+      "en": "female: grey body"
+    },
+    {
+      "ko": "날 때 작은 날개 안쪽 흰 부분",
+      "en": "small white inner-wing patch in flight"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "눈 앞에 흰 점이 있다.",
+    "female": "머리는 갈색, 목은 흰색, 몸은 회색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "흰뺨오리",
+      "how": "수컷은 눈 앞에 흰 점이 있고, 날 때 보이는 날개 안쪽의 흰 부분이 암수 모두 흰뺨오리보다 작다."
+    }
+  ],
+  "art": {
+    "subject": "Barrow's Goldeneye (Bucephala islandica), adult male: black upperparts, white underparts, white spot in front of the eye",
+    "pose": "swimming on calm inshore water",
+    "scene": "Korean winter coast with calm inshore sea; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: black upperparts, white underparts, white spot in front of the eye",
+      "adult female, side view swimming: brown head, white neck, grey body",
+      "adult in flight, upperside: small white patch on the inner wing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방흰뺨오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001468",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방흰뺨오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001468",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

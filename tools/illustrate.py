@@ -50,10 +50,18 @@ def volumes() -> list[str]:
 
 
 def all_species() -> list[tuple[str, dict]]:
+    """그릴 차례: 손으로 조사한 종(그림 재료가 가장 자세함)을 먼저, 그다음 책의 도판 번호 순."""
     out = []
     for vid in volumes():
-        for f in sorted((ROOT / "data" / vid / "species").glob("*.json")):
-            out.append((vid, json.loads(f.read_text(encoding="utf-8"))))
+        order = {}
+        book = ROOT / "data" / vid / "book.json"
+        if book.exists():
+            tree = json.loads(book.read_text(encoding="utf-8"))["tree"]
+            ids = [s["id"] for o in tree for f in o["children"] for s in f["children"]]
+            order = {sid: i for i, sid in enumerate(ids)}
+        rows = [json.loads(f.read_text(encoding="utf-8")) for f in (ROOT / "data" / vid / "species").glob("*.json")]
+        rows.sort(key=lambda sp: (bool(sp.get("origin")), order.get(sp["id"], 10**6), sp["id"]))
+        out += [(vid, sp) for sp in rows]
     return out
 
 
@@ -156,6 +164,7 @@ def pick_targets(cfg: dict, args) -> list[tuple[str, dict, str]]:
         raise SystemExit(f"없는 종 id: {', '.join(unknown)}")
     kinds = KINDS if args.kind == "both" else (args.kind,)
     out = []
+    skipped: list[str] = []
     for vid, sp in rows:
         if args.ids and sp["id"] not in args.ids:
             continue
@@ -164,9 +173,13 @@ def pick_targets(cfg: dict, args) -> list[tuple[str, dict, str]]:
                 continue
             probs = prompt_problems(sp, kind)
             if probs:
-                print(f"건너뜀 {sp['id']} {kind}: 종 파일에 {', '.join(probs)} 가 비어 있다")
+                skipped.append(sp["id"])
+                if args.ids:
+                    print(f"건너뜀 {sp['id']} {kind}: 종 파일에 {', '.join(probs)} 가 비어 있다", file=sys.stderr)
                 continue
             out.append((vid, sp, kind))
+    if skipped and not args.ids:
+        print(f"그림 재료(art)가 '조사 중'이라 건너뛴 그림 {len(skipped)}장", file=sys.stderr)
     return out[: args.limit] if args.limit else out
 
 

@@ -1,0 +1,82 @@
+{
+  "id": "dendronanthus-indicus",
+  "ko": "물레새",
+  "sci": "Dendronanthus indicus",
+  "author": "Gmelin, 1789",
+  "en": "Forest Wagtail",
+  "ktsn": 120000002167,
+  "origin": "nibr",
+  "length": "16cm",
+  "status": "흔치 않은 여름철새",
+  "habitat": "산지 숲, 계곡, 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "산지 숲과 계곡, 낙엽활엽수림에 살며 전국에서 번식하는 흔치 않은 여름철새이다. 암수가 함께 지낼 때가 많고, 5~7월에 알 4개를 낳는다. 국내 전역에 살고 국외에서는 일본, 사할린, 중국에 분포한다.",
+  "points": [
+    {
+      "ko": "어두운 갈색 윗부리와 살구색 아랫부리",
+      "en": "dark brown upper mandible, flesh-pink lower mandible"
+    },
+    {
+      "ko": "연한 녹색 띤 갈색 윗면",
+      "en": "pale greenish-brown upperparts"
+    },
+    {
+      "ko": "흰색·검은색 띠가 번갈아 있는 날개",
+      "en": "wings with alternating white and black bands"
+    },
+    {
+      "ko": "가슴의 T자 모양 검은 띠",
+      "en": "black T-shaped band on the breast"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "엷은 갈색 다리",
+      "en": "pale brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Forest Wagtail (Dendronanthus indicus), adult: pale greenish-brown upperparts, white underparts with a black T-shaped band on the breast, wings with two alternating white and black bands, dark brown upper mandible, flesh-pink lower mandible, pale brown legs",
+    "pose": "standing on the forest floor, side view",
+    "scene": "Korean summer deciduous broadleaf forest in a mountain valley; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pale greenish-brown upperparts, white and black wing bands, white underparts, pale brown legs",
+      "adult, front view: black T-shaped band across the white breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물레새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002167",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물레새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002167",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

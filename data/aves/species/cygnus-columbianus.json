@@ -1,0 +1,70 @@
+{
+  "id": "cygnus-columbianus",
+  "ko": "고니",
+  "sci": "Cygnus columbianus",
+  "author": "Ord, 1815",
+  "en": "Tundra Swan",
+  "ktsn": 120000001426,
+  "origin": "nibr",
+  "length": "120cm",
+  "status": "드문 겨울철새",
+  "habitat": "호수, 강 하구, 해안, 초습지, 농경지, 간척지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "호수, 강 하구, 해안, 초습지, 농경지, 간척지 등에서 볼 수 있는 드문 겨울철새다. 물속에 머리를 넣어 물풀의 잎·줄기·뿌리를 먹고, 때로는 농경지나 풀밭에서도 먹이를 찾는다. 예전에는 전국에 적지 않게 찾아왔으나 지금은 크게 줄어, 강원도 동해안 석호, 낙동강 하구, 태화강, 주남저수지, 금강 하구, 천수만, 삽교호, 한강 등지에서 아주 적은 수가 겨울을 난다. 유라시아 대륙 북부, 알래스카, 캐나다 북부에서 번식하고 유럽 서부, 카스피해 주변, 한국, 중국 동부, 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "좁고 둥근 부리의 노란 부분",
+      "en": "small, rounded yellow patch on the bill"
+    },
+    {
+      "ko": "온몸이 흰색(어른새)",
+      "en": "all-white plumage (adult)"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어린새는 몸이 회갈색이다.",
+  "similar": [
+    {
+      "ko": "큰고니",
+      "how": "큰고니보다 작고, 부리의 노란 부분이 좁고 둥그스름하다."
+    }
+  ],
+  "art": {
+    "subject": "Tundra Swan (Cygnus columbianus), adult: all-white plumage, bill with a narrow, rounded yellow patch",
+    "pose": "swimming with the head and neck plunged under water, feeding on water plants",
+    "scene": "coastal lagoon on the Korean east coast in winter, shallow open water with marshy edges; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: all-white plumage, narrow rounded yellow patch on the bill",
+      "adult, head detail: narrow rounded yellow bill patch",
+      "juvenile, side view swimming: grey-brown plumage"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 고니",
+      "url": "https://species.nibr.go.kr/species-detail/120000001426",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 고니",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001426",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

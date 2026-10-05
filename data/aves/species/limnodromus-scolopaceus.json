@@ -1,0 +1,77 @@
+{
+  "id": "limnodromus-scolopaceus",
+  "ko": "긴부리도요",
+  "sci": "Limnodromus scolopaceus",
+  "author": "Say, 1822",
+  "en": "Long-billed Dowitcher",
+  "ktsn": 120000001701,
+  "origin": "nibr",
+  "length": "30cm",
+  "status": "TODO",
+  "habitat": "연안 갯벌, 내륙의 낮은 물가, 습지, 강 하구",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "연안 갯벌과 내륙의 낮은 물가, 습지, 강 하구에서 관찰되는 도요새이다. 시베리아, 알래스카, 캐나다 등지에서 번식하고, 서태평양 해안과 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "기부가 엷은 황갈색인 곧고 긴 검은 부리",
+      "en": "long straight black bill with a pale buff base"
+    },
+    {
+      "ko": "깃 가장자리가 엷은 어두운 회색 윗면",
+      "en": "dark grey crown and upperparts with pale feather edges"
+    },
+    {
+      "ko": "엷은 회갈색 얼굴·목·가슴",
+      "en": "pale grey-brown face, neck and breast"
+    },
+    {
+      "ko": "옆가슴의 흑갈색 가로무늬",
+      "en": "blackish-brown bars on the breast sides"
+    },
+    {
+      "ko": "엷은 갈색 무늬가 있는 흰 아랫면",
+      "en": "white underparts with pale brown markings"
+    },
+    {
+      "ko": "황록색 다리",
+      "en": "yellowish-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Long-billed Dowitcher (Limnodromus scolopaceus), adult: long straight black bill with a pale buff base, dark grey crown and upperparts with pale feather edges, pale grey-brown face, neck, breast and axillaries, blackish-brown bars on the breast sides becoming darker towards the tail, white underparts with pale brown markings, yellowish-green legs",
+    "pose": "standing at the water's edge, side view",
+    "scene": "Korean coastal mudflat at a river mouth with shallow pools; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long straight black bill with pale base, dark grey upperparts with pale edges, pale grey-brown breast with dark bars on the sides, white belly, yellowish-green legs",
+      "adult, head detail: long straight bill, pale buff at the base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 긴부리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001701",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 긴부리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001701",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

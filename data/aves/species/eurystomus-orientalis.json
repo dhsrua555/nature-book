@@ -1,0 +1,83 @@
+{
+  "id": "eurystomus-orientalis",
+  "ko": "파랑새",
+  "sci": "Eurystomus orientalis",
+  "author": "Linnaeus, 1766",
+  "en": "Oriental Dollarbird",
+  "ktsn": 120000001888,
+  "origin": "nibr",
+  "length": "약 29.5cm",
+  "status": "흔하지 않은 여름철새",
+  "habitat": "노거수가 흩어진 활엽수림·혼효림, 도시 공원, 농경지 부근",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5~7월에 알을 낳는다."
+  },
+  "summary": "오래된 큰 나무가 군데군데 선 활엽수림이나 혼효림, 도시 공원, 농경지 둘레에 찾아오는 흔하지 않은 여름철새이다. 5~7월에 알을 3~5개 낳는다. 곤충을 주로 먹어 딱정벌레, 매미, 나비 따위를 잡는다. 전국에 살며 국외에서는 동남아시아, 러시아 동부, 일본, 중국, 오스트레일리아에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 갈색 머리",
+      "en": "blackish-brown head"
+    },
+    {
+      "ko": "자색을 띤 멱 가운데",
+      "en": "purplish centre of throat"
+    },
+    {
+      "ko": "푸른 녹색으로 바뀌는 푸른빛 갈색 등",
+      "en": "bluish-brown mantle shading to blue-green on back and rump"
+    },
+    {
+      "ko": "선명한 푸른 녹색 배",
+      "en": "bright blue-green belly and undertail coverts"
+    },
+    {
+      "ko": "굵고 짧은 부리",
+      "en": "short, stout bill"
+    },
+    {
+      "ko": "붉은 발가락",
+      "en": "red toes"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 검은 갈색, 배는 선명한 푸른 녹색이다.",
+    "female": "대체로 수컷보다 색이 엷다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Dollarbird (Eurystomus orientalis), adult male: blackish-brown crown and sides of head, slightly paler blackish-brown chin and throat with a purplish centre, bluish-brown mantle shading to dull blue-green on the scapulars, back, rump and uppertail coverts, breast and flanks like the back, bright blue-green belly, undertail coverts, underwing coverts and axillaries, tail blue-green at the base and black beyond, short stout bill, small legs with red toes and black claws",
+    "pose": "perched upright on a high bare branch of an old tree",
+    "scene": "Korean summer broadleaf woodland with scattered large old trees beside farmland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: blackish-brown head, bluish-brown to blue-green upperparts, bright blue-green belly, short stout bill, red toes",
+      "adult female, side view perched: like the male but paler overall"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 파랑새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001888",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 파랑새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001888",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "gavia-pacifica",
+  "ko": "회색머리아비",
+  "sci": "Gavia pacifica",
+  "author": "Lawrence, 1858",
+  "en": "Pacific Loon",
+  "ktsn": 120000001480,
+  "origin": "nibr",
+  "length": "약 69cm",
+  "status": "겨울철새",
+  "habitat": "남해안 연안(월동), 해안 호소와 물가 초지(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "남해안 일대와 거제도 연안 등지에서 겨울을 나는 겨울철새로, 월동지에서는 한두 마리 또는 수십 마리씩 무리를 짓는다. 몸이 유선형이어서 잠수와 헤엄을 잘하며, 경계할 때는 몸을 물에 잠그고 목만 내놓는다. 물고기, 갑각류, 연체동물, 극피동물 등을 주로 먹는다. 시베리아 동북부에서 북아메리카 대륙에 걸친 한대 지역의 해안 호소와 물가 초지, 풀이 빽빽한 곳에서 번식하며, 마른풀을 깐 접시 모양 둥지에 6~7월에 알을 2개쯤 낳아 20일 동안 품는다.",
+  "points": [
+    {
+      "ko": "여름깃의 쥐색 머리와 뒷목",
+      "en": "breeding: mouse-grey crown and hindneck"
+    },
+    {
+      "ko": "녹색 광택 도는 검은 멱과 앞목",
+      "en": "breeding: green-glossed black throat and foreneck"
+    },
+    {
+      "ko": "남색 광택 도는 검은 등과 어깨",
+      "en": "breeding: blue-glossed black back and scapulars"
+    },
+    {
+      "ko": "등 양쪽의 굵은 흰 가로무늬",
+      "en": "breeding: bold white bars on the sides of the back"
+    },
+    {
+      "ko": "흰 가슴 옆의 검은 가로선",
+      "en": "black lines on the sides of the white breast"
+    },
+    {
+      "ko": "바깥은 검고 안쪽은 살구색인 다리",
+      "en": "legs black on the outer side, apricot on the inner side"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "여름깃은 암수 모두 머리에서 뒷목까지 쥐색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pacific Loon (Gavia pacifica), adult in breeding plumage: mouse-grey head and hindneck, green-glossed black throat and foreneck, blue-glossed black back, scapulars and rump with several bold white bars on each side of the back, white breast and belly with black lines on the breast sides, blackish-brown bill, legs black on the outer side and apricot on the inner side",
+    "pose": "swimming on the sea with its streamlined body low in the water",
+    "scene": "Korean south-coast sea near an island shore; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: grey head and hindneck, glossy black throat and foreneck, black back with white bars, black lines on the breast sides",
+      "adult breeding, back detail: bold white bars on each side of the glossy black back"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 회색머리아비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001480",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 회색머리아비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001480",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 겨울깃 설명이 없어 그림 정보는 여름깃 기준이다"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "phylloscopus-fuscatus",
+  "ko": "솔새사촌",
+  "sci": "Phylloscopus fuscatus",
+  "author": "Blyth, 1842",
+  "en": "Dusky Warbler",
+  "ktsn": 120000002043,
+  "origin": "nibr",
+  "length": "평균 134mm",
+  "status": "나그네새, 북부에서는 적은 수가 번식",
+  "habitat": "자작나무 숲, 버드나무 숲, 낙엽침엽수 혼합림, 풀이 무성한 툰드라",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "5월 말에 수컷의 지저귐이 가장 활발하다."
+  },
+  "summary": "우리나라에서는 주로 이동 시기에 볼 수 있는 나그네새이며, 북부 지역에서는 적은 수가 번식하기도 한다. 자작나무 숲과 버드나무 숲, 낙엽침엽수 혼합림, 풀이 우거진 툰드라를 좋아하고, 5월 말에 수컷의 지저귐이 가장 활발하며 2m쯤 되는 분비나무나 신갈나무 꼭대기에서 노래하는 모습이 자주 보인다. 둥지는 주로 볏과 식물 줄기 밑동이나 눈잣나무, 매발톱나무 줄기에 마른 풀줄기를 성글게 엮어 옆에 작은 입구를 낸 긴 공 모양으로 짓고, 흰 알을 낳는다. 겨울은 아시아에서 난다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched at the top of a small fir, singing",
+    "scene": "Korean birch and willow woodland with low firs in late spring; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 솔새사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000002043",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 솔새사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002043",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 몸무게 '평균 10.3kg'은 단위가 명백히 틀려 싣지 않음",
+    "원문의 둥지 크기(바깥지름 11.5~12.0mm, 깊이 6.5~9.0mm, 입구 3.3~4.0mm)는 단위가 틀린 것으로 보여 싣지 않음",
+    "원문은 번식지를 알래스카 북부·서부라 하여 다른 종 설명이 섞인 것으로 보여 번식지 분포는 싣지 않음",
+    "원문에 생김새 설명이 없음"
+  ]
+}

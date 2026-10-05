@@ -1,0 +1,78 @@
+{
+  "id": "aythya-fuligula",
+  "ko": "댕기흰죽지",
+  "sci": "Aythya fuligula",
+  "author": "Linnaeus, 1758",
+  "en": "Tufted Duck",
+  "ktsn": 120000001455,
+  "origin": "nibr",
+  "length": "약 40cm",
+  "status": "흔한 겨울철새",
+  "habitat": "호수, 하구, 항구, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "겨울이면 전국의 습지에서 흔히 보이는 겨울철새로, 호수와 하구, 항구 등지에서 작은 무리를 짓는다. 잠수해 새우나 게 같은 갑각류와 물속 곤충, 수초를 먹는다. 유라시아 대륙 북부에서 번식하고 유럽, 북아프리카, 인도, 중국 동부와 남부, 한국, 일본, 대만에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "수컷의 광택 있는 검은 머리",
+      "en": "male: glossy black head"
+    },
+    {
+      "ko": "수컷 뒷머리의 긴 댕기",
+      "en": "male: long tuft on the hindcrown"
+    },
+    {
+      "ko": "끝이 검은 푸르스름한 회색 부리",
+      "en": "bluish-grey bill with a black tip"
+    },
+    {
+      "ko": "수컷의 검은 가슴·등과 흰 옆구리·배",
+      "en": "male: black breast and back, white flanks and belly"
+    },
+    {
+      "ko": "암컷의 짙은 갈색 몸과 짧은 댕기",
+      "en": "female: dark brown overall with a short tuft"
+    },
+    {
+      "ko": "푸르스름한 회색 다리",
+      "en": "bluish-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리는 광택 있는 검은색이고 뒷머리에 긴 댕기가 있으며, 가슴과 등은 검고 옆구리와 배는 희다.",
+    "female": "온몸이 짙은 갈색이고 댕기가 짧다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Tufted Duck (Aythya fuligula), adult male: glossy black head with a long tuft on the hindcrown, black breast and back, white flanks and belly, bluish-grey bill with a black tip, bluish-grey legs",
+    "pose": "swimming in a small flock, one bird diving",
+    "scene": "Korean winter lake near an estuary with calm open water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: glossy black head with long tuft, black breast and back, white flanks, bluish-grey bill with black tip",
+      "adult female, side view swimming: dark brown overall, short tuft, bluish-grey bill with black tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 댕기흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001455",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 댕기흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001455",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "tadorna-ferruginea",
+  "ko": "황오리",
+  "sci": "Tadorna ferruginea",
+  "author": "Pallas, 1764",
+  "en": "Ruddy Shelduck",
+  "ktsn": 120000001430,
+  "origin": "nibr",
+  "length": "64cm",
+  "status": "드문 겨울철새",
+  "habitat": "수확이 끝난 논밭, 습지 주변의 트인 수면",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "한강 하류, 김포평야, 서산 간월호, 금강 중류와 그 주변 농경지 등 몇몇 곳에서 적은 수가 겨울을 나는 드문 겨울철새로, 몸집이 큰 오리다. 아침과 저녁에 수확이 끝난 논밭처럼 비교적 마른 곳에서 무리 지어 풀줄기와 낟알을 먹고, 습지 주변의 트인 물에서 쉰다. 유라시아 대륙 중부에서 번식하고 북아프리카, 남아시아, 중국, 한국, 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "수컷 목의 검은 띠",
+      "en": "male: black neck collar"
+    },
+    {
+      "ko": "온몸이 선명한 주황색",
+      "en": "bright orange plumage overall"
+    },
+    {
+      "ko": "날 때 흰·검은 날개 대비",
+      "en": "contrasting white and black wings in flight"
+    },
+    {
+      "ko": "검은 꼬리",
+      "en": "black tail"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "번식기에는 목에 뚜렷한 검은 띠가 있고, 겨울에는 이 띠가 좁고 흐려진다.",
+    "female": "얼굴에 수컷보다 흰 기가 많다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ruddy Shelduck (Tadorna ferruginea), adult male in winter: bright orange plumage, narrow faint black neck collar, black bill, tail and legs, strongly contrasting white and black wings",
+    "pose": "foraging in a small flock in a harvested rice field",
+    "scene": "Korean farmland in winter: harvested rice paddies and dry fields beside a wetland; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: bright orange body, black neck collar, black bill, tail and legs",
+      "adult female, head detail: face more whitish than the male's",
+      "adult, in flight: strongly contrasting white and black wings"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 황오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001430",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 황오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001430",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

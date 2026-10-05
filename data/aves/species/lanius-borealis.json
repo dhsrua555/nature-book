@@ -1,0 +1,81 @@
+{
+  "id": "lanius-borealis",
+  "ko": "재때까치",
+  "sci": "Lanius borealis",
+  "author": "Vieillot, 1808",
+  "en": "Northern Shrike",
+  "ktsn": 120000528872,
+  "origin": "nibr",
+  "length": "약 24.5cm",
+  "status": "드문 겨울철새",
+  "habitat": "교목이나 관목의 가지 위(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서의 산란기는 4월 하순~6월 상순이다."
+  },
+  "summary": "드물게 찾아오는 겨울새로, 대형 때까치류에 속하며 주로 혼자 또는 암수가 함께 지낸다. 주로 동물성 먹이를 먹어 설치류, 참새류 같은 작은 새, 개구리류와 파충류를 즐겨 잡고 곤충과 거미도 먹는다. 교목이나 관목 가지 위에 둥지를 틀고 한배에 알을 5~7개, 때로는 8~9개 낳는다.",
+  "points": [
+    {
+      "ko": "앞끝이 흰 이마와 회색 정수리",
+      "en": "grey crown with white at the front of the forehead"
+    },
+    {
+      "ko": "검은 눈선과 그 위의 흰 눈썹선",
+      "en": "black eye mask with a white supercilium above"
+    },
+    {
+      "ko": "흰 턱밑·멱·뺨",
+      "en": "white chin, throat and cheeks"
+    },
+    {
+      "ko": "회색 등과 바깥쪽이 흰 어깨깃",
+      "en": "grey back with whitish outer scapulars"
+    },
+    {
+      "ko": "검은 날개",
+      "en": "black wings"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마부터 뒷목까지 순잿빛이고 이마 앞끝은 희며, 눈선은 검다.",
+    "female": "이마와 정수리, 뒷머리가 잿빛 갈색이고 눈선은 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Shrike (Lanius borealis), adult male: pure grey crown, nape and back with white at the very front of the forehead, black eye mask from lores to ear coverts, white supercilium, white chin, throat and cheeks, whitish outer scapulars, grey rump, black wings, black bill, dark brown iris, black legs",
+    "pose": "perched upright on top of a bare shrub, scanning for prey",
+    "scene": "Korean winter open country with scattered trees and shrubs; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: grey upperparts, black mask with white supercilium, white throat and cheeks, black wings",
+      "adult female, head detail: grey-brown crown and nape, brown eye-stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 재때까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000528872",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 재때까치",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528872",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '배는 흰색으로 가느다란 가로띠가 여러 개 있다'가 암컷 설명인지 분명하지 않아 싣지 않았다"
+  ]
+}

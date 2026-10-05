@@ -1,0 +1,70 @@
+{
+  "id": "cuculus-poliocephalus",
+  "ko": "두견",
+  "sci": "Cuculus poliocephalus",
+  "author": "Latham, 1790",
+  "en": "Lesser Cuckoo",
+  "ktsn": 120000001841,
+  "origin": "nibr",
+  "length": "28cm",
+  "status": "TODO",
+  "habitat": "산림, 개활지",
+  "protect": [
+    "천연기념물"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "산림과 트인 개활지에 사는 새로, 뻐꾸기류 가운데 몸집이 작은 편이다. 대부분 휘파람새 둥지에 알을 맡기고, 굴뚝새와 산솔새 둥지에도 탁란한다. 국내에서는 경기도, 평안남도, 평안북도, 제주도 등에 살고, 국외에서는 극동 러시아, 중국, 일본, 동남아시아에 분포한다.",
+  "points": [
+    {
+      "ko": "뻐꾸기류 가운데 작은 몸",
+      "en": "small for a cuckoo"
+    },
+    {
+      "ko": "굵고 뚜렷한 배의 검은 줄무늬",
+      "en": "bold, well-defined black markings on the belly"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "뻐꾸기",
+      "how": "생김새가 비슷하나 배의 검은 줄무늬가 더 굵고 뚜렷하다."
+    }
+  ],
+  "art": {
+    "subject": "Lesser Cuckoo (Cuculus poliocephalus), adult: a small cuckoo with bold, well-defined black markings on the belly",
+    "pose": "perched on a branch at a forest edge",
+    "scene": "Korean forest edge opening onto open country; no people, buildings or text",
+    "views": [
+      "adult, side view perched: small cuckoo with bold black belly markings",
+      "adult, underparts detail: black belly markings thicker and more distinct than in Common Cuckoo"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 두견",
+      "url": "https://species.nibr.go.kr/species-detail/120000001841",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 두견",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001841",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '가슴 세로줄 무늬에 가로줄이 섞임, 뒷목 회색 띠, 깃털로 덮인 발가락, 붉은 홍채'는 큰소쩍새 설명과 같은 내용으로, 다른 종(올빼미류) 설명이 섞인 것으로 보여 생김새에서 뺐다"
+  ]
+}

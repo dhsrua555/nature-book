@@ -1,0 +1,77 @@
+{
+  "id": "grus-monacha",
+  "ko": "흑두루미",
+  "sci": "Grus monacha",
+  "author": "Temminck, 1835",
+  "en": "Hooded Crane",
+  "ktsn": 120000001652,
+  "origin": "nibr",
+  "length": "약 100cm",
+  "status": "드문 겨울철새",
+  "habitat": "넓은 초지, 습지, 간척 농경지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "드물게 찾아오는 겨울철새로, 넓은 초지, 습지, 간척 농경지에서 가족 단위로 지내며 이동 시기와 월동지에서는 여러 가족이 모여 큰 무리를 이룬다. 벼를 비롯한 낟알과 식물의 줄기, 뿌리를 먹는다. 러시아 아무르 유역과 중국 북동부에서 번식하고 중국 양쯔강 유역, 일본, 한국에서 겨울을 나며, 국내에서는 주로 순천만과 서산 간척지에서 월동한다.",
+  "points": [
+    {
+      "ko": "검은 이마",
+      "en": "black forehead"
+    },
+    {
+      "ko": "붉은 맨살이 드러난 머리꼭대기",
+      "en": "bare red skin on the crown"
+    },
+    {
+      "ko": "흰 머리와 목",
+      "en": "white head and neck"
+    },
+    {
+      "ko": "짙은 회색 몸",
+      "en": "dark grey body"
+    },
+    {
+      "ko": "날 때 온통 검게 보이는 날개",
+      "en": "wings look all black in flight"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 머리와 목이 엷은 황갈색이고 몸은 흑갈색이며, 이마에 검은색이 없다.",
+  "similar": [],
+  "art": {
+    "subject": "Hooded Crane (Grus monacha), adult: white head and neck, black forehead, bare red skin on the crown, dark grey to blackish body, wings appearing entirely black in flight",
+    "pose": "feeding on grain in a harvested rice field",
+    "scene": "Korean winter reclaimed farmland and harvested rice fields beside a bay; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white head and neck, black forehead, red crown, dark grey body",
+      "adult, flight view: wings entirely blackish, white head and neck",
+      "juvenile, side view: pale yellowish-brown head and neck, blackish-brown body, no black on the forehead"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흑두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000001652",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흑두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001652",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

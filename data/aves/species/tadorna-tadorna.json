@@ -1,0 +1,77 @@
+{
+  "id": "tadorna-tadorna",
+  "ko": "혹부리오리",
+  "sci": "Tadorna tadorna",
+  "author": "Linnaeus, 1758",
+  "en": "Common Shelduck",
+  "ktsn": 120000001429,
+  "origin": "nibr",
+  "length": "약 61cm",
+  "status": "흔한 겨울철새",
+  "habitat": "연안과 하구의 갯벌",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "주로 바닷가와 하구의 갯벌에서 먹이를 찾는 흔한 겨울철새다. 위로 굽은 부리를 펄에 대고 훑어 갯벌에 붙은 해조류와 갑각류 등을 먹는다. 국내에서는 낙동강, 간월호, 금강 하구, 순천만 등지에서 큰 무리를 지어 겨울을 난다. 유럽에서 동쪽으로 몽골, 중국 동북부에 걸쳐 번식하고, 유럽 남부, 북아프리카, 인도 북부, 중국 동부, 한국, 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "녹색 광택의 검은 머리",
+      "en": "green-glossed black head"
+    },
+    {
+      "ko": "위로 굽은 붉은 부리",
+      "en": "red, upturned bill"
+    },
+    {
+      "ko": "가슴과 등의 적갈색 띠",
+      "en": "chestnut band across the breast and back"
+    },
+    {
+      "ko": "녹색 광택의 검은 어깨깃",
+      "en": "green-glossed black scapulars"
+    },
+    {
+      "ko": "흰 몸",
+      "en": "white body"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Shelduck (Tadorna tadorna), adult: white body, green-glossed black head and scapulars, chestnut band across the breast and back, red upturned bill, red legs",
+    "pose": "walking on a mudflat, sweeping its bill through the mud",
+    "scene": "Korean estuary mudflat in winter at low tide; no people, buildings or text",
+    "views": [
+      "adult, side view walking: green-glossed black head, red upturned bill, chestnut breast band, white body, red legs",
+      "adult, front view: chestnut band across the breast"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 혹부리오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001429",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 혹부리오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001429",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

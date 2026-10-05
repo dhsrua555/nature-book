@@ -1,0 +1,78 @@
+{
+  "id": "vanellus-vanellus",
+  "ko": "댕기물떼새",
+  "sci": "Vanellus vanellus",
+  "author": "Linnaeus, 1758",
+  "en": "Northern Lapwing",
+  "ktsn": 120000001669,
+  "origin": "nibr",
+  "length": "30cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "논, 밭, 습지, 하천, 하구 삼각주",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 3월 하순~5월 하순에 알을 낳는다."
+  },
+  "summary": "비교적 흔한 겨울철새로, 중부 이남의 논, 밭, 습지, 하천, 하구 삼각주 등에 찾아온다. 곤충, 지렁이, 씨와 열매를 먹는다. 둥지는 풀밭 땅 위를 오목하게 파서 접시 모양으로 만든다. 국외에서는 유라시아, 아프리카 서부, 중국 남부에 분포한다.",
+  "points": [
+    {
+      "ko": "녹색 광택 검은 머리와 솟은 댕기",
+      "en": "green-glossed black crown with upswept crest"
+    },
+    {
+      "ko": "눈 위를 지나는 흰 눈썹선",
+      "en": "white supercilium over the eye"
+    },
+    {
+      "ko": "윗가슴의 넓은 검은 띠",
+      "en": "broad black breast band"
+    },
+    {
+      "ko": "녹색 광택이 도는 검은 등",
+      "en": "black back glossed green"
+    },
+    {
+      "ko": "흰 아랫가슴과 배, 옆구리",
+      "en": "white lower breast, belly and flanks"
+    },
+    {
+      "ko": "녹슨 붉은색 위꼬리덮깃",
+      "en": "rusty-red uppertail coverts"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Lapwing (Vanellus vanellus), adult in breeding plumage: black forehead, crown and nape glossed green, with nape feathers raised into an upswept crest; white supercilium from the bill base over the eye; broad black breast band glossed blue; black scapulars, back and rump glossed green with a purple sheen in some light; white lower breast, belly and flanks; deep rusty-red uppertail coverts; brownish apricot legs",
+    "pose": "standing in a field, picking insects and worms from the ground",
+    "scene": "Korean winter rice paddies and wet fields near a river; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: green-glossed black crown with upswept crest, white supercilium, broad black breast band, glossy black back, white belly, brownish apricot legs",
+      "adult, rear view: deep rusty-red uppertail coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 댕기물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001669",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 댕기물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001669",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

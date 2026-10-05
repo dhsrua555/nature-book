@@ -1,0 +1,80 @@
+{
+  "id": "anser-cygnoides",
+  "ko": "개리",
+  "sci": "Anser cygnoides",
+  "author": "Linnaeus, 1758",
+  "en": "Swan Goose",
+  "ktsn": 120000001413,
+  "origin": "nibr",
+  "length": "약 87cm",
+  "status": "매우 드문 겨울철새, 나그네새",
+  "habitat": "호수, 논, 초습지, 소택지, 간척지, 갯벌",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "호수, 논, 초습지, 소택지, 간척지, 갯벌 등을 찾는 매우 드문 겨울철새이자 나그네새다. 물풀의 잎·줄기·뿌리와 풀, 벼, 보리, 밀 등을 먹는다. 러시아 극동, 중국 동북부, 몽골, 사할린 북부 등지의 강가 땅 위 오목한 곳에 마른 풀줄기를 깔아 둥지를 짓고 번식하며, 한국과 중국 양쯔강, 대만, 일본에서 겨울을 난다. 국내에서는 임진강과 한강 하류가 이동 시기의 가장 큰 중간 기착지이고, 금강 하구, 서천 갯벌, 영산강 유역, 낙동강 하구, 주남저수지 등 몇몇 도래지에서 적은 수가 겨울을 난다.",
+  "points": [
+    {
+      "ko": "이마에서 뒷목까지 밤색",
+      "en": "chestnut from forehead down the hindneck"
+    },
+    {
+      "ko": "경계가 뚜렷한 옅은 갈색 뺨·앞목",
+      "en": "pale brown cheeks and foreneck, sharply demarcated"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "갈색 가슴·배와 암갈색 등",
+      "en": "brown breast and belly, dark brown back"
+    },
+    {
+      "ko": "흰 아래꼬리덮깃",
+      "en": "white undertail coverts"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어린새는 부리 기부의 흰 띠가 없다.",
+  "similar": [],
+  "art": {
+    "subject": "Swan Goose (Anser cygnoides), adult: chestnut from the forehead down the hindneck, pale brown cheeks and foreneck with a sharp border, black bill, brown breast and belly, dark brown back and upperwing, white undertail coverts, orange legs",
+    "pose": "grazing on the ground at the edge of a wetland",
+    "scene": "Korean winter river mouth: mudflats and marshy wetland along the lower Han River; no people, buildings or text",
+    "views": [
+      "adult, side view standing: chestnut crown and hindneck, pale brown cheeks and foreneck with a sharp border, black bill, brown body, white undertail coverts, orange legs",
+      "adult, head detail: sharp line between chestnut hindneck and pale brown foreneck, black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001413",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001413",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

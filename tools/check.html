@@ -5,17 +5,18 @@
 <title>도감 점검</title>
 <style>
   body { font: 13px/1.5 system-ui, sans-serif; margin: 16px; background: #f4f1ea; color: #222; }
-  iframe { border: 1px solid #999; background: #000; vertical-align: top; margin: 0 8px 8px 0; }
+  iframe { border: 1px solid #999; background: #fff; vertical-align: top; margin: 0 8px 8px 0; }
   pre { white-space: pre-wrap; background: #fff; padding: 10px; border: 1px solid #ccc; }
 </style>
 </head>
 <body>
-<p>모든 쪽을 두 판형(펼침·한 쪽)으로 펼쳐 보며 오류, 넘친 쪽, 깨진 링크와 그림, 넘김 동작을 점검한다.
-  <code>uv run tools/serve.py</code> 로 띄운 뒤 <code>http://localhost:8000/tools/check.html</code> 로 연다.</p>
-<iframe id="wide" width="1280" height="860"></iframe>
+<p>모든 마디(첫 화면·차례·목·과·종·찾아보기·판권)를 두 판형(펼침·한 쪽)으로 펼쳐 보며 오류, 넘친 쪽, 깨진 링크와 그림, 넘김 동작을 점검한다.
+  <code>uv run tools/serve.py</code> 로 띄운 뒤 <code>http://localhost:8000/tools/check.html</code> 로 연다. <code>?only=wide</code> 처럼 한 판형만, <code>?limit=50</code> 으로 앞 마디만 볼 수 있다.</p>
+<iframe id="wide" width="1366" height="820"></iframe>
 <iframe id="narrow" width="390" height="844"></iframe>
 <pre id="out">점검 중…</pre>
 <script type="module">
+const Q = new URLSearchParams(location.search);
 const out = [];
 const log = s => { out.push(s); document.getElementById("out").textContent = out.join("\n"); };
 addEventListener("error", e => log("harness error: " + e.message));
@@ -28,71 +29,81 @@ async function boot(frame) {
   const w = frame.contentWindow;
   w.addEventListener("error", e => { errs.push(`${e.message} @${e.filename}:${e.lineno}`); log("  오류: " + e.message + " @" + e.lineno); });
   w.addEventListener("unhandledrejection", e => errs.push(`promise: ${e.reason}`));
-  for (let i = 0; i < 100 && !(w.__book && w.document.body.classList.contains("ready")); i++) await wait(50);
+  for (let i = 0; i < 200 && !(w.__book && w.__book.S.layouts.size); i++) await wait(50);
   return { w, errs };
 }
 async function imgsDone(doc) {
-  const imgs = [...doc.querySelectorAll(".book .slot:not(.probe) img")];
+  const imgs = [...doc.querySelectorAll("#book .slot:not(.probe) img")];
   await Promise.all(imgs.map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
   return imgs.filter(i => !i.naturalWidth).map(i => i.getAttribute("src"));
 }
 async function sweep(name, frame) {
   const { w, errs } = await boot(frame);
   const B = w.__book, S = B.S, doc = w.document;
-  log(`== ${name}: ${S.mode} ${S.W}×${S.H}, 쪽 ${S.pages.length}, 화면 ${S.views.length}, 목록 한 쪽 ${S.cap.list}줄, 찾아보기 ${S.cap.index}줄`);
-  const keys = new Set(S.pages.map(p => p.key));
-  let overflow = 0, badLinks = 0, badImgs = 0, turnFail = 0;
-  for (let n = 0; n < S.views.length; n++) {
-    await B.ensure(S.views[n]);
-    B.showView(n);
-    for (const pg of doc.querySelectorAll(".book .slot:not(.probe) .page")) {
-      const inn = pg.querySelector(".pg-in");
-      if (inn && inn.scrollHeight > inn.clientHeight + 2) {
-        overflow++;
-        log(`  넘침: ${pg.dataset.key} (+${inn.scrollHeight - inn.clientHeight}px)`);
+  const limit = +(Q.get("limit") || S.sections.length);
+  log(`== ${name}: ${S.mode} ${S.W}×${S.H}, 마디 ${S.sections.length}, 종 ${S.species.length}, 목록 한 쪽 ${S.cap.list}줄, 찾아보기 ${S.cap.index}개`);
+  let overflow = 0, badLinks = 0, badImgs = 0, turnFail = 0, todoText = 0, views = 0;
+  const secKeys = new Set(S.sections.map(s => s.key));
+  for (let s = 0; s < Math.min(limit, S.sections.length); s++) {
+    const lay = await B.layoutOf(s);
+    for (let v = 0; v < lay.views.length; v++) {
+      views++;
+      B.render({ s, v });
+      for (const pg of doc.querySelectorAll("#book .slot:not(.probe) .page")) {
+        const inn = pg.querySelector(".pg-in");
+        if (inn && inn.scrollHeight > inn.clientHeight + 2) { overflow++; log(`  넘침: ${pg.dataset.key} (+${inn.scrollHeight - inn.clientHeight}px)`); }
+        for (const f of pg.querySelectorAll(".fill, .idx")) {
+          if (f.scrollHeight > f.clientHeight + 2 || f.scrollWidth > f.clientWidth + 2) { overflow++; log(`  목록 넘침: ${pg.dataset.key} (${f.scrollHeight}>${f.clientHeight} / ${f.scrollWidth}>${f.clientWidth})`); }
+        }
+        for (const a of pg.querySelectorAll('a[href^="#/"]')) {
+          const key = decodeURIComponent(a.getAttribute("href")).replace(/^#\/[^/]*\/?/, "");
+          if (!secKeys.has(key.split("/")[0])) { badLinks++; log(`  깨진 링크: ${pg.dataset.key} → ${key}`); }
+        }
+        const walker = doc.createTreeWalker(pg, NodeFilter.SHOW_TEXT);
+        while (walker.nextNode()) if (/TODO/.test(walker.currentNode.nodeValue)) { todoText++; log(`  TODO 글자 노출: ${pg.dataset.key}`); break; }
       }
-      const fill = pg.querySelector(".fill");
-      if (fill && fill.scrollHeight > fill.clientHeight + 2) { overflow++; log(`  목록 넘침: ${pg.dataset.key} (${fill.scrollHeight} > ${fill.clientHeight}, 줄 ${fill.children.length}, 줄높이 ${fill.firstElementChild?.getBoundingClientRect().height.toFixed(2)}, 간격 ${getComputedStyle(fill).rowGap})`); }
-      for (const a of pg.querySelectorAll('a[href^="#/"]')) {
-        const key = decodeURIComponent(a.getAttribute("href")).replace(/^#\/[^/]*\/?/, "");
-        if (!keys.has(key)) { badLinks++; log(`  깨진 링크: ${pg.dataset.key} → ${key}`); }
-      }
-      for (const t of pg.querySelectorAll(".pg-in *")) {
-        if (/TODO/.test(t.childNodes[0]?.nodeValue || "")) { log(`  TODO 글자 노출: ${pg.dataset.key}`); break; }
-      }
+      const broken = await imgsDone(doc);
+      badImgs += broken.length;
+      broken.forEach(b => log(`  그림 없음: ${b}`));
     }
-    const broken = await imgsDone(doc);
-    badImgs += broken.length;
-    broken.forEach(b => log(`  그림 없음: ${b}`));
   }
-  // 넘김: 앞으로 여러 장, 뒤로, 멀리 뛰기, 표지로 돌아가기
-  B.showView(0);
-  const seq = [1, 2, 3, 4, 3, Math.min(S.views.length - 1, 12), 13, 14, 15, 16, 17, 18, 17, 2, 0, S.views.length - 1];
-  for (const n of seq) {
-    log(`  넘김 → ${n}`);
-    await B.turnTo({ delta: n - S.view });
-    for (let i = 0; i < 60 && S.busy; i++) await wait(50);
-    if (S.view !== n) { turnFail++; log(`  넘김 실패: ${n} 로 가지 않음(현재 ${S.view})`); }
-    if (doc.querySelector(".leaf")) { turnFail++; log(`  넘김 뒤 남은 장: ${n}`); }
+  // 넘김: 앞으로 마디 경계를 넘어, 뒤로, 멀리 뛰기, 처음으로
+  B.render({ s: 0, v: 0 });
+  const keyAt = () => B.keyOfPos(S.pos);
+  const steps = [1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1];
+  for (const d of steps) {
+    const want = await B.stepPos(S.pos, d);
+    await B.turnTo({ delta: d });
+    for (let i = 0; i < 80 && S.busy; i++) await wait(25);
+    if (!want || S.pos.s !== want.s || S.pos.v !== want.v) { turnFail++; log(`  넘김 실패 (${d}): ${JSON.stringify(want)} ≠ ${JSON.stringify(S.pos)}`); }
+    if (doc.querySelector(".flip")) { turnFail++; log(`  넘김 뒤 남은 장 (${keyAt()})`); }
   }
-  // 손으로 끌기 흉내: 오른쪽 쪽 아래 모서리에서 왼쪽으로
-  B.showView(Math.min(5, S.views.length - 2));
-  const before = S.view, r = doc.getElementById("book").getBoundingClientRect();
-  const x0 = r.right - 20, y0 = r.bottom - 20;
+  for (const key of ["falco-subbuteo/id", "index/3", "contents", "passeriformes", "colophon", ""]) {
+    await B.turnTo({ key });
+    for (let i = 0; i < 80 && S.busy; i++) await wait(25);
+    const want = await B.posOfKey(key);
+    if (S.pos.s !== want.s || S.pos.v !== want.v) { turnFail++; log(`  건너뛰기 실패: ${key} → ${keyAt()}`); }
+  }
+  // 손으로 밀기 흉내: 오른쪽에서 왼쪽으로
+  B.render(await B.posOfKey("aix-galericulata"));
+  const before = { ...S.pos }, r = doc.getElementById("book").getBoundingClientRect();
+  const x0 = r.right - 40, y0 = r.top + r.height * 0.6;
   const ev = (type, x, y) => new w.PointerEvent(type, { pointerId: 7, pointerType: "touch", isPrimary: true, button: 0, buttons: 1, clientX: x, clientY: y, bubbles: true });
   doc.getElementById("book").dispatchEvent(ev("pointerdown", x0, y0));
-  for (let k = 1; k <= 12; k++) { w.dispatchEvent(ev("pointermove", x0 - k * (r.width * 0.07), y0 - k * 2)); await wait(16); }
-  w.dispatchEvent(ev("pointerup", x0 - r.width * 0.84, y0 - 24));
-  for (let i = 0; i < 40 && S.busy; i++) await wait(50);
-  if (S.view !== before + 1) { turnFail++; log(`  끌어 넘기기 실패 (${before} → ${S.view})`); }
-  if (doc.querySelector(".leaf")) { turnFail++; log("  끌기 뒤 남은 장"); }
-  log(`  쪽 ${S.pages.length} · 화면 ${S.views.length} · 넘친 쪽 ${overflow} · 깨진 링크 ${badLinks} · 빠진 그림 ${badImgs} · 넘김 실패 ${turnFail} · 스크립트 오류 ${errs.length}`);
+  for (let k = 1; k <= 14; k++) { w.dispatchEvent(ev("pointermove", x0 - k * (r.width * 0.05), y0 - k)); await wait(30); }
+  w.dispatchEvent(ev("pointerup", x0 - r.width * 0.7, y0 - 14));
+  for (let i = 0; i < 80 && S.busy; i++) await wait(25);
+  const after = await B.stepPos(before, 1);
+  if (S.pos.s !== after.s || S.pos.v !== after.v) { turnFail++; log(`  밀어 넘기기 실패 (${JSON.stringify(before)} → ${JSON.stringify(S.pos)})`); }
+  if (doc.querySelector(".flip")) { turnFail++; log("  밀기 뒤 남은 장"); }
+  log(`  화면 ${views} · 넘친 쪽 ${overflow} · 깨진 링크 ${badLinks} · 빠진 그림 ${badImgs} · TODO 노출 ${todoText} · 넘김 실패 ${turnFail} · 스크립트 오류 ${errs.length}`);
   errs.forEach(e => log("  오류: " + e));
-  return overflow + badLinks + badImgs + turnFail + errs.length;
+  return overflow + badLinks + badImgs + turnFail + todoText + errs.length;
 }
-const bad = (await sweep("넓은 화면", document.getElementById("wide"))) + (await sweep("좁은 화면", document.getElementById("narrow")));
+let bad = 0;
+if (Q.get("only") !== "narrow") bad += await sweep("넓은 화면", document.getElementById("wide"));
+if (Q.get("only") !== "wide") bad += await sweep("좁은 화면", document.getElementById("narrow"));
 log(bad ? `RESULT FAIL (${bad})` : "RESULT OK");
-document.getElementById("out").textContent = out.join("\n");
 </script>
 </body>
 </html>

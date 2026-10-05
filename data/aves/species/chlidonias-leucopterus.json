@@ -1,0 +1,79 @@
+{
+  "id": "chlidonias-leucopterus",
+  "ko": "흰죽지제비갈매기",
+  "sci": "Chlidonias leucopterus",
+  "author": "Temminck, 1815",
+  "en": "White-winged Tern",
+  "ktsn": 120000001791,
+  "origin": "nibr",
+  "length": "약 25cm",
+  "status": "드문 나그네새",
+  "habitat": "호수, 습지, 섬, 바닷가, 하천 어귀(번식지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 드물게 지나가는 나그네새이다. 온대 지역의 호수, 습지, 섬, 바닷가, 하천 어귀에서 번식하며, 물 위 수초에 갈대와 왕골 줄기, 수초를 쌓아 무리 지어 둥지를 만든다. 유럽 중남부와 동부, 아시아 중부, 아프리카, 아무르, 사할린 등 구북구 곳곳에서 번식하고 아프리카와 열대 아시아 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 머리·목·윗등(여름)",
+      "en": "black head, neck and mantle (breeding)"
+    },
+    {
+      "ko": "검은 무늬 있는 흰 머리(겨울)",
+      "en": "white head with black marks on crown and upper neck (winter)"
+    },
+    {
+      "ko": "여름엔 붉고 겨울엔 검은 부리",
+      "en": "bill red in summer, black in winter"
+    },
+    {
+      "ko": "회색 아랫등과 허리",
+      "en": "grey lower back and rump"
+    },
+    {
+      "ko": "흰 꽁지와 위꽁지덮깃",
+      "en": "white tail and uppertail coverts"
+    },
+    {
+      "ko": "검은 배(여름)",
+      "en": "black belly (breeding)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "White-winged Tern (Chlidonias leucopterus), adult breeding: black head, neck, mantle and belly, grey lower back and rump, white uppertail coverts and tail, red bill",
+    "pose": "flying low over shallow water, side view",
+    "scene": "Korean coastal wetland near a river mouth, shallow water with aquatic plants; no people, buildings or text",
+    "views": [
+      "adult breeding, side view perched: black head, neck, mantle and belly, grey lower back and rump, white tail, red bill",
+      "adult winter, side view perched: white head with black marks on crown and upper neck, white belly, black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰죽지제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001791",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰죽지제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001791",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 '오스트레일리아, 뉴질랜드 등지를 거쳐 아프리카·열대 아시아에서 월동'은 경로가 어색해 요약에는 월동지만 적었다"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "cygnus-olor",
+  "ko": "혹고니",
+  "sci": "Cygnus olor",
+  "author": "Gmelin, 1789",
+  "en": "Mute Swan",
+  "ktsn": 120000001425,
+  "origin": "nibr",
+  "length": "152cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "하구, 저수지, 호수",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅰ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "하구, 저수지, 호수 등에 찾아오는 매우 드문 겨울철새로, 물풀의 뿌리와 줄기를 먹는다. 전국에 찾아오지만 호수 주변 개발과 수초 제거 등으로 찾아오는 수가 줄고 있다. 유럽 중·서부, 몽골, 바이칼호 동부, 우수리강 유역에서 번식하고 소아시아, 북아프리카, 중국 동부, 한국에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "부리 기부의 검은 혹",
+      "en": "black knob at the base of the bill"
+    },
+    {
+      "ko": "오렌지색 부리",
+      "en": "orange bill"
+    },
+    {
+      "ko": "온몸이 흰색",
+      "en": "all-white plumage"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Mute Swan (Cygnus olor), adult: all-white plumage, orange bill with a black knob at the base, black legs",
+    "pose": "swimming on calm water, reaching down to feed on water plants",
+    "scene": "calm Korean reservoir in winter with open water and aquatic plants; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: all-white plumage, orange bill with a black basal knob",
+      "adult, head detail: orange bill with a black knob at the base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 혹고니",
+      "url": "https://species.nibr.go.kr/species-detail/120000001425",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 혹고니",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001425",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

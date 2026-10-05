@@ -1,0 +1,78 @@
+{
+  "id": "loxia-curvirostra",
+  "ko": "솔잣새",
+  "sci": "Loxia curvirostra",
+  "author": "Linnaeus, 1758",
+  "en": "Red Crossbill",
+  "ktsn": 120000002203,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 겨울철새",
+  "habitat": "소나무 숲 가장자리",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 3~4월에 알을 낳는다."
+  },
+  "summary": "우리나라 전역에서 흔히 겨울을 나는 겨울새로, 주로 소나무 숲 가장자리에 산다. 번식기가 아닐 때는 무리 지어 지내며, 땅에는 잘 내려앉지 않고 대부분 나무 위에서 생활한다. 소나무과 씨앗을 즐겨 먹고 장미과·국화과 씨앗과 나무눈, 나비 애벌레·딱정벌레·파리 무리 같은 곤충도 먹는다. 아무르·우수리·일본·중국 북부·사할린·쿠릴 열도 등지에서 번식하는데, 땅에서 5m 넘는 큰키나무 가지에 둥지를 틀고 알을 3~5개, 흔히 4개 낳는다.",
+  "points": [
+    {
+      "ko": "어두운 붉은색 이마~뒷목",
+      "en": "dark red forehead to hindneck"
+    },
+    {
+      "ko": "엷은 갈색 눈선과 귀깃 윗부분",
+      "en": "pale brown eye-stripe and upper ear coverts"
+    },
+    {
+      "ko": "아랫부리 옆이 옅은 어두운 갈색 부리",
+      "en": "dark brown bill with paler sides to lower mandible"
+    },
+    {
+      "ko": "칙칙한 붉은 아랫면",
+      "en": "dull red underparts"
+    },
+    {
+      "ko": "흰 배 가운데와 아래꽁지덮깃",
+      "en": "white belly centre and undertail coverts"
+    },
+    {
+      "ko": "작은날개덮깃이 붉은 갈색인 날개",
+      "en": "dark brown wings with reddish-brown lesser coverts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red Crossbill (Loxia curvirostra), adult male winter: brown nasal bristles, dark red forehead to hindneck, brownish dark-red back, pale brown lores, eye-stripe and upper ear coverts, dull red underparts, white belly centre and undertail coverts with dark brown shaft streaks, dark brown tail with yellowish edges, dark brown wings with reddish-brown lesser coverts, dark brown bill with paler sides to the lower mandible, brown iris, dark brown legs",
+    "pose": "clinging to a pine branch, taking seeds from a cone",
+    "scene": "Korean winter pine-forest edge; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: dark red head and back, dull red underparts, white belly centre and undertail coverts, dark brown wings and tail",
+      "head detail: dark red crown, pale brown eye-stripe and upper ear coverts, dark brown bill with paler sides to lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 솔잣새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002203",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 솔잣새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002203",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

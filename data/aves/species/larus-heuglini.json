@@ -1,0 +1,83 @@
+{
+  "id": "larus-heuglini",
+  "ko": "줄무늬노랑발갈매기",
+  "sci": "Larus heuglini",
+  "author": "Bree, 1876",
+  "en": "Lesser Black-backed Gull (heuglini)",
+  "ktsn": 120000001766,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "겨울철새",
+  "habitat": "바닷가, 특히 갯벌",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "국내에서는 겨울을 나며, 번식깃으로 꽤 늦게 갈아입고 한국재갈매기보다 한 달 이상 늦게 번식한다."
+  },
+  "summary": "제주도 차귀도에서 서해안까지, 그리고 동해안 묵호 등지에서 겨울을 나는 갈매기이다. 한국재갈매기와 달리 민물을 그다지 찾지 않고 대개 바닷물, 그중에서도 갯벌에서 많이 눈에 띈다. 시베리아 맨 북쪽에서 번식하며, 번식기가 다가올수록 다리가 아주 노란 개체가 늘어난다. 덩치는 재갈매기보다 훨씬 작은 개체도 있는데, 이런 개체는 대개 눈이 작고 머리 모양이 날렵하다.",
+  "points": [
+    {
+      "ko": "작은 눈과 날렵한 머리(작은 개체)",
+      "en": "small eye and sleek head shape (smaller birds)"
+    },
+    {
+      "ko": "아랫부리의 큰 붉은 점",
+      "en": "large red spot on the lower mandible"
+    },
+    {
+      "ko": "재갈매기보다 짙은 등",
+      "en": "back darker than Vega Gull's"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "재갈매기",
+      "how": "등이 더 짙고, 아랫부리의 붉은 점이 더 크며, 훨씬 작은 개체도 있다."
+    },
+    {
+      "ko": "한국재갈매기",
+      "how": "등이 더 짙고, 민물보다 바닷물과 갯벌을 찾으며, 한 달 이상 늦게 번식한다."
+    },
+    {
+      "ko": "괭이갈매기",
+      "how": "등 빛깔이 괭이갈매기보다도 더 짙다."
+    }
+  ],
+  "art": {
+    "subject": "Lesser Black-backed Gull, heuglini form (Larus heuglini), adult: dark back, darker than that of Vega Gull and even Black-tailed Gull, large red spot on the lower mandible, yellow legs and feet",
+    "pose": "standing on wet mud at low tide, side view",
+    "scene": "Korean west coast in winter: a broad tidal mudflat at low tide under a pale sky; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark back, large red gonys spot, yellow legs",
+      "adult, head detail: small eye, sleek head shape, large red spot on the lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 줄무늬노랑발갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001766",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 줄무늬노랑발갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001766",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Larus fuscus heuglini)"
+    }
+  ],
+  "todo": []
+}

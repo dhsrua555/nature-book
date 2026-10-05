@@ -1,0 +1,80 @@
+{
+  "id": "hierococcyx-hyperythrus",
+  "ko": "매사촌",
+  "sci": "Hierococcyx hyperythrus",
+  "author": "Gould, 1856",
+  "en": "Northern Hawk-Cuckoo",
+  "ktsn": 120000528831,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "여름철새",
+  "habitat": "산지 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "산란기는 5월 중순~7월 중순이다."
+  },
+  "summary": "산지 숲에 사는 여름새로, 온대와 열대 지방에서 번식한다. 습성이 뻐꾸기와 비슷해 둥지를 짓지 않고 큰유리새 같은 다른 새의 둥지에 알을 낳아 맡긴다. 아시아 동부와 한국(평안북도 용암포)에 분포한다.",
+  "points": [
+    {
+      "ko": "검푸른 회색 머리·턱 밑·목 옆",
+      "en": "dark bluish-grey head, chin and neck sides"
+    },
+    {
+      "ko": "흰 눈앞",
+      "en": "white lores edged dark bluish-grey"
+    },
+    {
+      "ko": "흰 아래꼬리덮깃",
+      "en": "white undertail coverts"
+    },
+    {
+      "ko": "갈색 도는 회색 꼬리",
+      "en": "brownish-grey tail"
+    },
+    {
+      "ko": "꼬리 끝의 붉은 회색 띠와 검은 띠들",
+      "en": "tail tipped reddish-grey, with a broad black band and 3–4 narrow black bars"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Northern Hawk-Cuckoo (Hierococcyx hyperythrus), adult: dark bluish-grey head, chin and neck sides, white lores, white undertail coverts, brownish-grey tail with a reddish-grey tip, a broad black band and 3–4 narrow black bars",
+    "pose": "perched on a branch inside the forest, side view",
+    "scene": "Korean mountain forest in summer; no people, buildings or text",
+    "views": [
+      "adult, side view perched: dark bluish-grey head and neck sides, white lores, brownish-grey banded tail, white undertail coverts",
+      "adult, tail detail from below: reddish-grey tip, broad black band, 3–4 narrow black bars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 매사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000528831",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 매사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528831",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "몸길이 없이 날개길이(191~215mm)만 있음"
+  ]
+}

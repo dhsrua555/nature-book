@@ -1,0 +1,82 @@
+{
+  "id": "upupa-epops",
+  "ko": "후투티",
+  "sci": "Upupa epops",
+  "author": "Linnaeus, 1758",
+  "en": "Common Hoopoe",
+  "ktsn": 120000001899,
+  "origin": "nibr",
+  "length": "약 28cm",
+  "status": "흔하지 않은 여름철새",
+  "habitat": "농촌, 농경지, 구릉지, 야산 노거수의 구멍",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "4~6월에 알을 낳는다."
+  },
+  "summary": "농촌과 농경지, 구릉지, 야산에서 오래된 큰 나무의 구멍에 깃드는 흔하지 않은 여름철새이다. 혼자 또는 암수가 함께 지내며 주로 땅 위에서 생활한다. 4~6월에 알을 5~8개 낳는다. 곤충 애벌레를 즐겨 먹고 거미, 지렁이 따위도 먹으며, 국내에서는 중부 이북에 살고 국외에서는 아프리카와 유라시아 전역에 분포한다.",
+  "points": [
+    {
+      "ko": "끝이 검은 크고 긴 깃의 관모",
+      "en": "large erectile crest tipped black"
+    },
+    {
+      "ko": "관모 뒤쪽 깃의 흰 띠",
+      "en": "white band below the black tips of the rear crest feathers"
+    },
+    {
+      "ko": "분홍빛 갈색 머리",
+      "en": "pinkish-brown head"
+    },
+    {
+      "ko": "포돗빛 분홍 턱 밑과 가슴",
+      "en": "vinaceous-pink chin and breast"
+    },
+    {
+      "ko": "유백색·흑갈색 띠의 아랫등과 허리",
+      "en": "lower back and rump banded creamy white and blackish brown"
+    },
+    {
+      "ko": "검은 부리와 잿빛 다리",
+      "en": "black bill and grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Hoopoe (Upupa epops), adult male winter: pale pinkish-brown forehead, crown and hindneck with a large erectile crest of long feathers tipped black, the rear crest feathers with a white band before the black tip, pinkish-brown sides of head, vinaceous-pink chin and breast, chin and upper throat edged white, pinkish-brown to greyish-brown mantle, lower back and upper rump banded creamy white and blackish brown, black uppertail coverts, black bill, brown iris, grey legs",
+    "pose": "walking on the ground with the crest raised",
+    "scene": "Korean countryside in summer: farmland and low hills with a large old tree; no people, buildings or text",
+    "views": [
+      "adult, side view on the ground: crest raised, pinkish-brown head, vinaceous-pink breast, banded lower back, black bill, grey legs",
+      "adult, head detail: crest fanned, black tips and white band on the rear feathers"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 후투티",
+      "url": "https://species.nibr.go.kr/species-detail/120000001899",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 후투티",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001899",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

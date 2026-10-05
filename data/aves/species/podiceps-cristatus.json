@@ -1,0 +1,73 @@
+{
+  "id": "podiceps-cristatus",
+  "ko": "뿔논병아리",
+  "sci": "Podiceps cristatus",
+  "author": "Linnaeus, 1758",
+  "en": "Great Crested Grebe",
+  "ktsn": 120000001504,
+  "origin": "nibr",
+  "length": "약 49cm",
+  "status": "드문 텃새, 흔한 겨울철새",
+  "habitat": "강 하구, 호수, 저수지, 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "드물게 사는 텃새이면서 흔한 겨울철새로, 우리나라 논병아리류 가운데 가장 크다. 강 하구와 호수, 저수지, 해안에서 잠수해 물고기 등을 잡으며, 겨울에는 해안에서 수백 마리씩 무리를 짓기도 한다. 번식기에는 물풀이나 이끼로 물에 뜨는 둥지를 짓고 자리를 비울 때는 알을 풀로 덮어 두며, 새끼는 깨어난 뒤 어미를 따라다니다 때로 어미 등에 올라타 옮겨 다닌다. 유라시아 대륙 중부, 아프리카, 오스트레일리아, 뉴질랜드에 분포하며, 유라시아에서 번식하는 무리는 겨울에 남쪽으로 내려가 월동한다.",
+  "points": [
+    {
+      "ko": "머리의 검은 뿔깃",
+      "en": "black crest plumes on the head"
+    },
+    {
+      "ko": "번식기의 적갈색 뺨",
+      "en": "breeding: reddish-brown cheeks"
+    },
+    {
+      "ko": "뺨 아래 머리와 목 경계의 검은색",
+      "en": "breeding: black border between head and neck below the cheeks"
+    },
+    {
+      "ko": "검은 기 도는 분홍색 부리",
+      "en": "dusky pink bill"
+    },
+    {
+      "ko": "긴 목",
+      "en": "long neck"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Great Crested Grebe (Podiceps cristatus), adult in breeding plumage: long neck, long black crest plumes on the crown, reddish-brown cheeks with black where the head meets the neck, dusky pink bill",
+    "pose": "swimming with a chick riding on its back",
+    "scene": "Korean reservoir with floating water plants; no people, buildings or text",
+    "views": [
+      "adult breeding, side view swimming: long neck, black crest plumes, reddish-brown cheeks bordered black below, dusky pink bill",
+      "adult, head detail: black crest plumes and dusky pink bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 뿔논병아리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001504",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 뿔논병아리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001504",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

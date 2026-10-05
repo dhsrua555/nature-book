@@ -1,0 +1,79 @@
+{
+  "id": "aythya-marila",
+  "ko": "검은머리흰죽지",
+  "sci": "Aythya marila",
+  "author": "Linnaeus, 1761",
+  "en": "Greater Scaup",
+  "ktsn": 120000001456,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "지역적으로 흔한 겨울철새",
+  "habitat": "해안 근처의 호수, 하구, 석호, 만",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "곳에 따라 흔한 겨울철새로, 겨울철 전국의 하구와 석호, 만에서 관찰된다. 해안 가까운 호수나 하구에서 무리를 지어 지내며, 잠수해 조개류, 갑각류, 해초류를 먹는다. 유라시아 대륙 북부와 북아메리카 북부에서 번식하고, 유럽, 카스피해, 페르시아만, 우수리, 중국 동부, 한국, 일본, 북아메리카 서부·동부 해안에서 월동한다.",
+  "points": [
+    {
+      "ko": "수컷의 녹색 광택 검은 머리와 목",
+      "en": "male: green-glossed black head and neck"
+    },
+    {
+      "ko": "뒷머리에 튀어나온 깃이 없음",
+      "en": "no tuft on the hindcrown"
+    },
+    {
+      "ko": "암컷 부리 기부의 뚜렷한 흰 점",
+      "en": "female: bold white patch at the base of the bill"
+    },
+    {
+      "ko": "수컷의 검은 가슴",
+      "en": "male: black breast"
+    },
+    {
+      "ko": "가는 검은 물결무늬가 있는 흰 윗면",
+      "en": "male: white upperparts with fine black vermiculations"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 목, 가슴은 녹색 광택이 있는 검은색이고, 윗면은 흰 바탕에 가는 검은 물결무늬가 있다.",
+    "female": "갈색빛을 띠며 부리 기부의 흰 점이 뚜렷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "댕기흰죽지",
+      "how": "생김새가 비슷하지만 암수 모두 뒷머리에 튀어나온 깃이 없다."
+    }
+  ],
+  "art": {
+    "subject": "Greater Scaup (Aythya marila), adult male: green-glossed black head, neck and breast, white upperparts finely vermiculated with black, no tuft on the head",
+    "pose": "swimming in a flock on open water, about to dive",
+    "scene": "Korean winter coastal lagoon with calm open water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: green-glossed black head, neck and breast, white upperparts with fine black wavy lines, rounded head without a tuft",
+      "adult female, side view swimming: brownish overall, bold white patch at the base of the bill, no tuft"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001456",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001456",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

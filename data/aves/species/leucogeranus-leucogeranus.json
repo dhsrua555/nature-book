@@ -1,0 +1,77 @@
+{
+  "id": "leucogeranus-leucogeranus",
+  "ko": "시베리아흰두루미",
+  "sci": "Leucogeranus leucogeranus",
+  "author": "Pallas, 1773",
+  "en": "Siberian Crane",
+  "ktsn": 120000528844,
+  "origin": "nibr",
+  "length": "약 135cm",
+  "status": "매우 드문 겨울철새",
+  "habitat": "습지, 논",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "겨울철에 다른 두루미 무리에 섞여 드물게 관찰된다."
+  },
+  "summary": "국내에는 매우 드물게 찾아오는 겨울철새로, 겨울철 다른 두루미 무리에 섞인 1~2마리가 드물게 보이거나 홀로 겨울을 난다. 습지와 논에서 지내며 긴 부리로 땅에 떨어진 식물 씨앗과 곤충, 물고기, 조개 따위를 먹는다. 러시아 오브강 유역과 시베리아 북동부 콜리마천 유역에서 번식하고 중국 포양호와 양쯔강 일대에서 겨울을 난다. 국내에서는 강원도 철원, 파주, 화성, 천수만, 만경강, 순천만, 흑산도, 제주도 등지에서 관찰된 기록이 있다.",
+  "points": [
+    {
+      "ko": "눈 주위에 드러난 붉은 피부",
+      "en": "bare red skin around the eye"
+    },
+    {
+      "ko": "긴 부리",
+      "en": "long bill"
+    },
+    {
+      "ko": "앉아 있을 때 온통 흰 몸",
+      "en": "looks all white at rest"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    },
+    {
+      "ko": "첫째날개깃을 덮는 긴 흰 셋째날개깃",
+      "en": "long white tertials covering the primaries"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어린새는 온몸에 황갈색 깃과 흰 깃이 섞여 있고, 특히 머리와 날개덮깃, 셋째날개깃에 황갈색이 짙다.",
+  "similar": [],
+  "art": {
+    "subject": "Siberian Crane (Leucogeranus leucogeranus), adult: all-white plumage at rest, black primaries hidden under long white tertials, bare red skin around the eye, long bill",
+    "pose": "walking in a wet rice field, probing the ground with its long bill for fallen seeds",
+    "scene": "Korean winter wetland beside harvested rice paddies; no people, buildings or text",
+    "views": [
+      "adult, side view standing: all-white plumage, long white tertials covering the black primaries, bare red skin around the eye",
+      "adult, in flight: black primaries contrasting with white wings and body",
+      "juvenile, side view standing: white mixed with tawny, tawny strongest on head, wing coverts and tertials"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 시베리아흰두루미",
+      "url": "https://species.nibr.go.kr/species-detail/120000528844",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 시베리아흰두루미",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528844",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

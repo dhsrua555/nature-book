@@ -1,0 +1,73 @@
+{
+  "id": "prunella-montanella",
+  "ko": "멧종다리",
+  "sci": "Prunella montanella",
+  "author": "pallas, 1776",
+  "en": "Siberian Accentor",
+  "ktsn": 120000002164,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "흔한 겨울철새",
+  "habitat": "산지의 숲, 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국에서 흔히 겨울을 나는 겨울새로, 산지의 숲이나 농경지에서 지낸다. 보통 홀로 또는 암수가 함께 지내며, 벼과 식물의 씨를 즐겨 먹고 여름철에는 곤충도 즐겨 먹는다. 시베리아 툰드라 일대에서 번식하는데, 나무 밑이나 풀숲에 잔가지와 풀줄기로 밥그릇 모양 둥지를 짓고 한배에 알 4~6개를 낳는다. 중국 동북 지방과 한국에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "black head"
+    },
+    {
+      "ko": "콧등에서 목덜미까지 굵은 황갈색 눈썹선",
+      "en": "broad deep buff supercilium from bill base to nape"
+    },
+    {
+      "ko": "흑갈색 세로줄이 있는 갈색 등",
+      "en": "brown back streaked blackish brown"
+    },
+    {
+      "ko": "황갈색 아랫면",
+      "en": "buff underparts"
+    },
+    {
+      "ko": "밤색 세로줄이 있는 옆구리",
+      "en": "chestnut-streaked flanks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Siberian Accentor (Prunella montanella), adult male in winter plumage: black head with a broad deep buff supercilium running from the base of the bill past the crown to the nape, brown back streaked blackish brown, buff underparts, flanks streaked chestnut",
+    "pose": "foraging on the ground for grass seeds, side view",
+    "scene": "Korean winter farmland edge beside a mountain woodland; no people, buildings or text",
+    "views": [
+      "adult male in winter, side view on the ground: black head, broad buff supercilium, brown back streaked blackish brown, buff underparts, chestnut-streaked flanks",
+      "adult male, head detail: broad buff supercilium from bill base to nape on a black head"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 멧종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002164",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 멧종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002164",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

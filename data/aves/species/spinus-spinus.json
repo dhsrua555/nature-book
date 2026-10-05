@@ -1,0 +1,78 @@
+{
+  "id": "spinus-spinus",
+  "ko": "검은머리방울새",
+  "sci": "Spinus spinus",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Siskin",
+  "ktsn": 120000528871,
+  "origin": "nibr",
+  "length": "12.5cm",
+  "status": "흔한 겨울철새",
+  "habitat": "침엽수림, 오리나무 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서의 산란기는 4~6월이다."
+  },
+  "summary": "우리나라 전역에서 겨울을 나는 흔한 겨울새로, 침엽수림이나 오리나무 숲에서 지낸다. 주로 식물 열매와 씨앗을 먹는다. 구북구 아한대 지역에서 번식하며, 침엽수 높은 가지에 이끼와 잔가지, 털 따위로 작은 컵 모양 둥지를 짓고 알을 3~5개 낳는다. 온대와 아열대 지역에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 이마와 정수리",
+      "en": "black forehead and crown"
+    },
+    {
+      "ko": "검은 턱밑과 멱 가운데",
+      "en": "black chin and centre of throat"
+    },
+    {
+      "ko": "황록색 뒷목·등·가슴",
+      "en": "yellow-green nape, back and breast"
+    },
+    {
+      "ko": "검은 갈색 세로무늬의 잿빛 녹색 옆구리",
+      "en": "greyish-green flanks streaked blackish-brown"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "갈색 부리와 다리",
+      "en": "brown bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Siskin (Spinus spinus), adult male winter: black forehead and crown, black chin and centre of throat, yellow-green nape, back, scapulars, rump and breast, greyish-green flanks with blackish-brown streaks, white belly, undertail coverts yellow at the base and white at the tips with faint dark marks, brown bill and legs",
+    "pose": "clinging to an alder twig, picking at seeds",
+    "scene": "Korean winter conifer woodland and alder grove; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: black crown and chin, yellow-green upperparts and breast, streaked greyish-green flanks, white belly",
+      "adult male winter, underside detail: undertail coverts yellow at the base and white at the tips"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은머리방울새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528871",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은머리방울새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528871",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

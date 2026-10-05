@@ -1,0 +1,75 @@
+{
+  "id": "pluvialis-squatarola",
+  "ko": "개꿩",
+  "sci": "Pluvialis squatarola",
+  "author": "Linnaeus, 1758",
+  "en": "Grey Plover",
+  "ktsn": 120000001673,
+  "origin": "nibr",
+  "length": "29.5cm",
+  "status": "흔한 나그네새",
+  "habitat": "해안 간척지, 사구, 삼각주, 해안 초습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 지나가는 흔한 나그네새로, 해안 간척지와 사구, 삼각주, 바닷가 초습지 등에 내려앉는다. 지렁이, 새우, 조개, 곤충 같은 동물성 먹이를 주로 먹고 식물의 씨도 먹는다. 구북구 대륙 북부의 툰드라에서 이끼 덮인 땅에 접시 모양 둥지를 틀고 알 4개를 낳는다. 겨울에는 남쪽으로 내려가 남반구 남위 40도까지의 갯벌과 강어귀에서 지낸다.",
+  "points": [
+    {
+      "ko": "검은 바탕에 흰 반점이 줄지은 윗면",
+      "en": "black upperparts with rows of white spots"
+    },
+    {
+      "ko": "머리에서 꼬리까지 몸 옆의 굵은 흰 띠",
+      "en": "broad white stripe along the side from head to tail"
+    },
+    {
+      "ko": "검은 아랫면",
+      "en": "black underparts"
+    },
+    {
+      "ko": "날 때 보이는 겨드랑이의 큰 검은 반점",
+      "en": "large black axillary patch in flight"
+    },
+    {
+      "ko": "검은 부리와 짙은 회흑색 다리",
+      "en": "black bill and dark greyish-black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "어른 겨울깃과 비슷하지만 윗면의 검은색과 흰 반점이 더 뚜렷하고, 가슴과 옆구리의 줄무늬도 뚜렷하다.",
+  "similar": [],
+  "art": {
+    "subject": "Grey Plover (Pluvialis squatarola), adult: black upperparts with rows of white spots, broad white stripe running along the side from head to tail, black underparts, black bill, dark greyish-black legs",
+    "pose": "standing on a tidal flat, side view",
+    "scene": "Korean coastal reclaimed land with sand dunes and salt-marsh grass beside a delta, during spring migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black upperparts with rows of white spots, broad white side stripe from head to tail, black underparts, black bill, dark grey-black legs",
+      "adult in flight, from below: large black patch in the armpit",
+      "juvenile, side view standing: crisper black and white spotting on the upperparts, streaked breast and flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개꿩",
+      "url": "https://species.nibr.go.kr/species-detail/120000001673",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개꿩",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001673",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

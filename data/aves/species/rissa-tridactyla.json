@@ -1,0 +1,78 @@
+{
+  "id": "rissa-tridactyla",
+  "ko": "세가락갈매기",
+  "sci": "Rissa tridactyla",
+  "author": "Linnaeus, 1758",
+  "en": "Black-legged Kittiwake",
+  "ktsn": 120000001779,
+  "origin": "nibr",
+  "length": "41cm",
+  "status": "흔하지 않은 겨울철새",
+  "habitat": "강원도 동해안(월동지), 섬 해안과 암초의 절벽(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~6월에 알을 낳는다."
+  },
+  "summary": "국내에서는 흔치 않은 겨울새이지만, 강원도 동해안에는 해마다 큰 무리가 와서 겨울을 보낸다. 번식지에서는 섬 해안이나 암초의 벼랑에 무리 지어 둥지를 틀고, 5~6월에 한배에 알 1~3개를 낳는다. 알래스카, 캄차카, 사할린, 쿠릴 열도, 알류샨 열도 등지에서 번식하고 한국과 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "노란 부리",
+      "en": "yellow bill"
+    },
+    {
+      "ko": "회색 등",
+      "en": "grey back"
+    },
+    {
+      "ko": "검은 갈색 날개 끝",
+      "en": "blackish-brown wingtips"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "검은 갈색 다리",
+      "en": "blackish-brown legs"
+    },
+    {
+      "ko": "흔적만 남은 뒷발가락",
+      "en": "vestigial hind toe"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-legged Kittiwake (Rissa tridactyla), adult: yellow bill, grey back, white underparts, blackish-brown wingtips and legs",
+    "pose": "flying low over the waves, side view",
+    "scene": "Korean east coast in Gangwon in winter: rocky shore and rolling waves of the East Sea; no people, buildings or text",
+    "views": [
+      "adult, side view standing: yellow bill, grey back, white underparts, blackish-brown wingtips and legs",
+      "adult, foot detail: three front toes with only a vestigial hind toe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 세가락갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001779",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 세가락갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001779",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

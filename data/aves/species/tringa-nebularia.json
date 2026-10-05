@@ -1,0 +1,82 @@
+{
+  "id": "tringa-nebularia",
+  "ko": "청다리도요",
+  "sci": "Tringa nebularia",
+  "author": "Gunnerus, 1767",
+  "en": "Common Greenshank",
+  "ktsn": 120000001715,
+  "origin": "nibr",
+  "length": "35cm",
+  "status": "흔한 나그네새",
+  "habitat": "바닷가, 하구 삼각주, 염전, 습지, 호수",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "4~5월과 7~10월쯤 보이며, 번식지에서는 5월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 흔히 지나가는 나그네새로, 이동 시기에 전국의 해안과 습지에서 보인다. 바닷가, 하구 삼각주, 염전, 습지, 호수에 살며 곤충, 갑각류, 복족류 같은 연체동물, 작은 물고기 등을 먹는다. 유라시아 대륙 북부에서 번식하며 알은 4개쯤 낳고, 아프리카, 인도, 동남아시아, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 세로무늬가 굵은 회색 머리·목(여름깃)",
+      "en": "dark grey head and neck boldly streaked black (breeding)"
+    },
+    {
+      "ko": "깃 일부가 검은 회갈색 윗면",
+      "en": "grey-brown upperparts with some black feathers"
+    },
+    {
+      "ko": "흰 아래등·허리·위꼬리덮깃",
+      "en": "white lower back, rump and uppertail coverts"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "갈색 등과 옅어진 윗가슴 무늬(겨울깃)",
+      "en": "browner back and fainter upper-breast markings (winter)"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "윗면에 갈색 기운이 강하고 깃 가장자리가 흰색이며, 이마와 옆머리는 흰 바탕에 검은 축무늬가 있다.",
+  "similar": [],
+  "art": {
+    "subject": "Common Greenshank (Tringa nebularia), adult in breeding plumage: dark grey head, neck and back with bold black streaks, grey-brown upperparts with some black feathers, white lower back, rump and uppertail coverts, white underparts",
+    "pose": "wading in shallow water at a river mouth, side view",
+    "scene": "Korean estuary delta and salt pans during autumn migration; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: dark grey head and neck streaked black, grey-brown upperparts, white underparts",
+      "adult winter, side view standing: browner back, fainter upper-breast markings",
+      "juvenile, side view standing: browner upperparts with white fringes, white forehead and sides of head with black shaft streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 청다리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001715",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 청다리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001715",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

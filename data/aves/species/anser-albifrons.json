@@ -1,0 +1,74 @@
+{
+  "id": "anser-albifrons",
+  "ko": "쇠기러기",
+  "sci": "Anser albifrons",
+  "author": "Scopoli, 1769",
+  "en": "Greater White-fronted Goose",
+  "ktsn": 120000001416,
+  "origin": "nibr",
+  "length": "약 75cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "호수, 저수지, 강, 해안, 간척지 등의 습지, 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5~7월에 알을 낳는다."
+  },
+  "summary": "큰 무리를 지어 전국의 호수와 저수지, 강, 해안, 간척지 등의 습지와 농경지에서 겨울을 나는 비교적 흔한 겨울철새로, 대부분 큰기러기 무리에 섞여 지낸다. 평야와 해안의 트인 습지나 추수가 끝난 농경지에서 낟알, 벼 그루터기, 풀잎·줄기·뿌리 등을 먹는다. 늘 무리 지어 움직이고 경계심이 강하며, 잘 때는 머리를 등 깃에 묻고 한 다리로 서거나 배를 땅에 댄다. 유라시아와 북아메리카 일부, 그린란드의 북극권에서 번식하는데, 한배에 흰 알을 6~7개 낳는다.",
+  "points": [
+    {
+      "ko": "눈과 부리 사이의 흰색",
+      "en": "white blaze between the eye and the bill"
+    },
+    {
+      "ko": "어두운 갈색 머리",
+      "en": "dark brown head"
+    },
+    {
+      "ko": "깃 가장자리가 흰 회갈색 윗면",
+      "en": "grey-brown upperparts with white feather edges"
+    },
+    {
+      "ko": "검은 얼룩이 있는 가슴과 배",
+      "en": "grey-brown to whitish breast and belly with black blotches"
+    },
+    {
+      "ko": "살구색 부리와 다리",
+      "en": "pinkish to pale bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Greater White-fronted Goose (Anser albifrons), adult: dark brown head with white between the eye and the bill, brown ear coverts, neck, chin and throat, grey-brown upperparts with white feather edges, grey-brown to whitish breast and belly with black blotches, pinkish bill and legs",
+    "pose": "grazing in a flock on harvested farmland, one bird alert with head raised",
+    "scene": "open Korean farmland beside a reservoir in winter, rice stubble after the harvest; no people, buildings or text",
+    "views": [
+      "adult, side view standing: dark brown head, white patch at the bill base, grey-brown upperparts edged white, black blotches on the belly, pinkish bill and legs",
+      "adult resting: head tucked into the back feathers, standing on one leg"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠기러기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001416",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠기러기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001416",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

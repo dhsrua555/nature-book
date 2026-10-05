@@ -1,0 +1,77 @@
+{
+  "id": "turnix-tanki",
+  "ko": "세가락메추라기",
+  "sci": "Turnix tanki",
+  "author": "Blyth, 1843",
+  "en": "Yellow-legged Buttonquail",
+  "ktsn": 120000001657,
+  "origin": "nibr",
+  "length": "13cm",
+  "status": "드문 나그네새",
+  "habitat": "관목이 있는 개활지, 농경지, 초지, 낮은 구릉",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "봄과 가을에 드물게 지나가는 나그네새로, 관목이 있는 개활지, 농경지, 초지, 낮은 구릉에 산다. 생김새는 작은 메추라기를 닮았다. 땅을 오목하게 파서 둥지를 만들고 알을 4개 낳으며, 알 품기는 수컷이 맡는다. 아무르강에서 황하 하류, 태국, 동남아시아에 걸쳐 분포한다.",
+  "points": [
+    {
+      "ko": "흑갈색·흰 반점의 적갈색 머리",
+      "en": "rufous head spotted blackish-brown and white"
+    },
+    {
+      "ko": "흰 멱",
+      "en": "white throat"
+    },
+    {
+      "ko": "갈색 등",
+      "en": "brown back"
+    },
+    {
+      "ko": "황갈색 배",
+      "en": "yellowish-brown belly"
+    },
+    {
+      "ko": "가슴 옆과 옆구리의 둥근 흑갈색 반점",
+      "en": "round blackish-brown spots on breast sides and flanks"
+    },
+    {
+      "ko": "선명한 노란 다리",
+      "en": "bright yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Yellow-legged Buttonquail (Turnix tanki), adult: rufous head with blackish-brown and white spots, white throat, brown back, yellowish-brown belly, many round blackish-brown spots on the breast sides and flanks, bright yellow legs",
+    "pose": "walking on the ground among low grass",
+    "scene": "Korean farmland edge with grassy open ground and scattered shrubs during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: rufous head spotted blackish-brown and white, white throat, brown back, yellowish-brown belly, round dark spots on the breast sides and flanks, bright yellow legs",
+      "adult, front view: white throat and round blackish-brown spots on the breast sides and flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 세가락메추라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001657",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 세가락메추라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001657",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

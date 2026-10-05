@@ -1,0 +1,72 @@
+{
+  "id": "pinicola-enucleator",
+  "ko": "솔양진이",
+  "sci": "Pinicola enucleator",
+  "author": "Linnaeus, 1758",
+  "en": "Pine Grosbeak",
+  "ktsn": 120000002201,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "소나무 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "소나무 숲을 좋아하는 새로, 해바라기 씨를 즐겨 먹고 단풍나무·자작나무·느릅나무의 싹도 먹는다. 온순하고 움직임이 적은 편이며, 목에 있는 작은 주머니에 좋은 먹이를 채워 넣기 때문에 비슷한 크기의 새보다 먹는 데 훨씬 오래 머문다. 세계적으로는 아시아 북부, 유럽 북부, 북아메리카 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "불룩한 몸과 긴 꽁지",
+      "en": "plump body and long tail"
+    },
+    {
+      "ko": "장밋빛 붉은 몸(수컷)",
+      "en": "rosy-red plumage (male)"
+    },
+    {
+      "ko": "흰 줄무늬 세 개",
+      "en": "three white stripes"
+    },
+    {
+      "ko": "엷은 황갈색 머리·허리·아랫면(암컷)",
+      "en": "pale buff head, rump and underparts (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "장밋빛이 도는 붉은색이다.",
+    "female": "수컷보다 훨씬 회색빛이 돌고, 머리와 허리, 아랫면이 엷은 황갈색을 띤다."
+  },
+  "young": "어린새는 암컷처럼 수컷보다 훨씬 회색빛이 돌고, 머리와 허리, 아랫면이 엷은 황갈색을 띤다.",
+  "similar": [],
+  "art": {
+    "subject": "Pine Grosbeak (Pinicola enucleator), adult male: plump body, long tail, rosy-red plumage",
+    "pose": "perched quietly on a pine branch, nibbling buds",
+    "scene": "Korean pine forest with dense conifer branches; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: plump body, long tail, rosy-red plumage",
+      "adult female, side view perched: much greyer than the male, pale buff head, rump and underparts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 솔양진이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002201",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 솔양진이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002201",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 몸길이 대신 날개 길이(약 10cm)만 있어 length 를 TODO 로 두었다."
+  ]
+}

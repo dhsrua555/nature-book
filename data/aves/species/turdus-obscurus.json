@@ -1,0 +1,76 @@
+{
+  "id": "turdus-obscurus",
+  "ko": "흰눈썹붉은배지빠귀",
+  "sci": "Turdus obscurus",
+  "author": "Gmelin, 1789",
+  "en": "Eyebrowed Thrush",
+  "ktsn": 120000002097,
+  "origin": "nibr",
+  "length": "약 22cm",
+  "status": "비교적 드문 나그네새",
+  "habitat": "소나무 숲, 일본잎갈나무 숲(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 지나가는 비교적 드문 나그네새이다. 소나무나 일본잎갈나무 숲에 둥지를 틀고, 여름에는 암수가 함께 지내며 6~7월에 알을 4~6개, 흔히 4개 낳는다. 곤충, 복족류, 다족류 등을 주로 먹고 장미과 열매도 즐긴다. 동북아시아에 분포하며 중국 남부와 동남아시아 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "잿빛 띤 어두운 올리브 갈색 머리꼭대기(수컷)",
+      "en": "greyish dark olive-brown crown (male)"
+    },
+    {
+      "ko": "올리브색 등",
+      "en": "olive back"
+    },
+    {
+      "ko": "황색 기 도는 녹슨 갈색 가슴과 옆구리",
+      "en": "yellowish rusty-brown breast and flanks"
+    },
+    {
+      "ko": "끝이 모난 꽁지",
+      "en": "square-ended tail"
+    },
+    {
+      "ko": "잿빛 황갈색이나 살구빛 갈색 다리",
+      "en": "yellowish grey-brown to flesh-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기가 잿빛을 띤 어두운 올리브 갈색으로 깃 중앙이 거무스름하다.",
+    "female": "머리꼭대기와 뒷목이 등과 같은 올리브 갈색이고 깃 중앙만 조금 어둡다. 가슴과 옆구리의 녹슨 갈색이 수컷보다 조금 엷다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eyebrowed Thrush (Turdus obscurus), adult male in winter: greyish dark olive-brown crown with darker feather centres, olive upperparts, yellowish rusty-brown breast and flanks, square-ended tail, brown iris, yellowish grey-brown legs",
+    "pose": "perched on a pine branch, side view",
+    "scene": "Korean pine and larch woods during spring or autumn passage; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: greyish olive-brown crown, olive back, rusty-brown breast and flanks, square tail",
+      "adult female winter, side view perched: olive-brown crown and hindneck matching the back, slightly paler rusty-brown breast and flanks",
+      "adult male summer, side view perched: back greyer and less olive"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰눈썹붉은배지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002097",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰눈썹붉은배지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002097",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "anthus-cervinus",
+  "ko": "붉은가슴밭종다리",
+  "sci": "Anthus cervinus",
+  "author": "pallas, 1811",
+  "en": "Red-throated Pipit",
+  "ktsn": 120000002182,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "드물지 않은 나그네새",
+  "habitat": "습지, 농경지, 해안 근처, 축축한 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나가며, 번식지에서는 6~7월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라를 드물지 않게 지나가는 나그네새이다. 주로 곤충을 먹지만 겨울에는 풀씨를 먹으며, 여름에는 암수가 함께 지내다가 겨울에는 무리를 짓는다. 스칸디나비아반도와 동아시아의 툰드라에서 번식하는데, 습지·농경지·해안 근처나 축축한 풀밭의 살짝 팬 곳에 둥지를 틀고 알을 5~6개 낳는다. 겨울은 동남아시아에서 난다.",
+  "points": [
+    {
+      "ko": "검은 세로무늬가 있는 황갈색 윗면",
+      "en": "buff-brown upperparts streaked black"
+    },
+    {
+      "ko": "연한 황백색 아랫면",
+      "en": "pale yellowish-white underparts"
+    },
+    {
+      "ko": "옆구리의 검은 줄무늬",
+      "en": "black-streaked flanks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-throated Pipit (Anthus cervinus), adult breeding: buff-brown upperparts with black streaks, pale yellowish-white underparts with black streaks on the flanks",
+    "pose": "walking on damp ground, picking insects",
+    "scene": "Korean spring migration: wet grassland and farmland near the coast; no people, buildings or text",
+    "views": [
+      "adult breeding, side view on ground: buff-brown upperparts streaked black, pale yellowish-white underparts, black-streaked flanks",
+      "adult breeding, view from above: buff-brown back with black streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은가슴밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002182",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은가슴밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002182",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

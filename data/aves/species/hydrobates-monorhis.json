@@ -1,0 +1,81 @@
+{
+  "id": "hydrobates-monorhis",
+  "ko": "바다제비",
+  "sci": "Hydrobates monorhis",
+  "author": "Swinhoe, 1867",
+  "en": "Swinhoe's Storm Petrel",
+  "ktsn": 120000528911,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "흔한 여름철새(일부 지역)",
+  "habitat": "앞바다의 섬, 섬의 바위틈과 땅굴",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      7,
+      8
+    ],
+    "note": "7~8월에 알을 낳는다."
+  },
+  "summary": "해안 앞바다의 섬에 살며 일부 지역에서는 흔한 여름철새이다. 섬의 바위틈이나 슴새가 쓰던 땅굴, 또는 스스로 판 깊이 1m에 이르는 땅굴에 둥지를 틀고, 흰 알 1개를 암수가 함께 품는다. 국내에서는 서해안과 독도에 살며, 국외로는 일본의 섬들과 중국, 타이완, 싱가포르, 수마트라, 자바, 인도양에 분포한다.",
+  "points": [
+    {
+      "ko": "연한 갈색 이마",
+      "en": "pale brown forehead"
+    },
+    {
+      "ko": "온몸 암갈색",
+      "en": "dark brown plumage overall"
+    },
+    {
+      "ko": "연한 갈색 날개덮깃",
+      "en": "pale brown wing coverts"
+    },
+    {
+      "ko": "검은 날개깃",
+      "en": "black flight feathers"
+    },
+    {
+      "ko": "검은 제비꼬리 모양 꼬리",
+      "en": "forked black tail"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 온몸이 암갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Swinhoe's Storm Petrel (Hydrobates monorhis), adult: dark brown overall, paler brown forehead and wing coverts, dark greyish-brown underparts and underwing, black primaries and secondaries, brown tertials with pale brown edges, forked black tail, black bill and legs",
+    "pose": "flying low over the sea, wings spread",
+    "scene": "Korean summer sea beside a rocky offshore island; no people, buildings or text",
+    "views": [
+      "adult, in flight from above: dark brown body, paler brown wing coverts, black flight feathers, forked black tail",
+      "adult, side view standing at a burrow entrance: dark brown plumage, black bill and legs"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 바다제비",
+      "url": "https://species.nibr.go.kr/species-detail/120000528911",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 바다제비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528911",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

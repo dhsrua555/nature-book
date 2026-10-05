@@ -1,0 +1,82 @@
+{
+  "id": "larus-glaucoides",
+  "ko": "작은흰갈매기",
+  "sci": "Larus glaucoides",
+  "author": "B.Meyer, 1822",
+  "en": "Iceland Gull",
+  "ktsn": 120000001761,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "흰갈매기보다 몸이 뚜렷하게 작은 갈매기이다. 다리도 흰갈매기보다 짧아서 앉아 있을 때 키 차이가 잘 드러난다. 유럽 북서부와 북아메리카 북동부에 분포한다.",
+  "points": [
+    {
+      "ko": "둥근 머리 윗부분",
+      "en": "rounded crown"
+    },
+    {
+      "ko": "암갈색 홍채",
+      "en": "dark brown iris"
+    },
+    {
+      "ko": "꺾임이 약한 짧은 부리",
+      "en": "short bill with a weak gonys angle"
+    },
+    {
+      "ko": "살구색으로 서서히 번지는 검은 부리 끝",
+      "en": "black bill tip fading gradually into an apricot base"
+    },
+    {
+      "ko": "꽁지 끝보다 길게 나온 첫째날개깃",
+      "en": "primaries projecting well beyond the tail tip"
+    },
+    {
+      "ko": "짧은 다리",
+      "en": "short legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "흰갈매기",
+      "how": "작은흰갈매기가 뚜렷이 작고 부리가 짧으며, 부리 끝 검은색이 기부의 살구색으로 서서히 옅어진다(흰갈매기는 검은 부분이 좁고 경계가 뚜렷하다). 머리 윗부분이 둥글고(흰갈매기는 평평하다), 접은 첫째날개깃이 꽁지 끝보다 뚜렷이 길게 나오며(흰갈매기는 조금 길 뿐이다), 다리가 짧아 앉은 키가 낮다."
+    }
+  ],
+  "art": {
+    "subject": "Iceland Gull (Larus glaucoides): rounded crown, dark brown iris, short bill with a weak gonys angle and a black tip fading gradually into an apricot base, primaries projecting well beyond the tail, short legs",
+    "pose": "standing with wings folded, side view",
+    "scene": "TODO",
+    "views": [
+      "side view standing: rounded head, short bill with black tip blending into an apricot base, dark iris, long primary projection beyond the tail, short legs",
+      "head detail: rounded crown, short bill with gradual black-to-apricot tip, dark brown iris"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 작은흰갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001761",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 작은흰갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001761",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

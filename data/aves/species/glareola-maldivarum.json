@@ -1,0 +1,78 @@
+{
+  "id": "glareola-maldivarum",
+  "ko": "제비물떼새",
+  "sci": "Glareola maldivarum",
+  "author": "Forster, 1795",
+  "en": "Oriental Pratincole",
+  "ktsn": 120000001754,
+  "origin": "nibr",
+  "length": "26.5cm",
+  "status": "매우 적은 수의 나그네새",
+  "habitat": "해안가 풀밭, 하천, 농경지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 3~6월에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 매우 적은 수가 국내를 지나가는 나그네새로, 해안가 풀밭과 하천, 농경지에서 보인다. 작은 무리를 지어 다니며 날면서 파리나 벌 무리의 곤충을 잡아먹는데, 가볍고 빠르게 나는 모습이 제비를 닮았다. 둥지를 짓지 않고 맨땅에 알 2~3개를 낳는다. 시베리아 동북부, 몽골 북동부, 중국 동북부, 인도차이나반도, 인도, 필리핀, 대만에서 번식하고 동남아시아에서 호주에 걸쳐 겨울을 난다.",
+  "points": [
+    {
+      "ko": "기부가 붉은 검은 부리",
+      "en": "black bill with red base"
+    },
+    {
+      "ko": "검은 테두리의 흐린 황백색 멱",
+      "en": "pale creamy-yellow throat bordered with a black line"
+    },
+    {
+      "ko": "어두운 회갈색 윗면과 검은 날개",
+      "en": "dark grey-brown upperparts and black wings"
+    },
+    {
+      "ko": "꼬리 뒤로 나오는 좁고 긴 날개",
+      "en": "long, narrow wings projecting beyond the tail"
+    },
+    {
+      "ko": "크림색 가슴·배와 흰 아랫배",
+      "en": "cream breast and belly, white lower belly"
+    },
+    {
+      "ko": "날 때 흰 허리와 적갈색 아랫날개덮깃",
+      "en": "white rump and rufous underwing coverts in flight"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Pratincole (Glareola maldivarum), adult: long narrow wings projecting beyond the tail, dark grey-brown upperparts, black wings, pale creamy-yellow throat bordered with a black line, cream breast and belly, white lower belly, black bill with red base",
+    "pose": "hawking insects in swift, buoyant flight low over a field",
+    "scene": "Korean coastal grassland beside farmland during spring migration; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black bill with red base, black-bordered pale throat, cream breast, wings projecting past the tail",
+      "adult in flight: rufous underwing coverts, white rump"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 제비물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001754",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 제비물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001754",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

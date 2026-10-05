@@ -1,0 +1,75 @@
+{
+  "id": "himantopus-himantopus",
+  "ko": "장다리물떼새",
+  "sci": "Himantopus himantopus",
+  "author": "Linnaeus, 1758",
+  "en": "Black-winged Stilt",
+  "ktsn": 120000001664,
+  "origin": "nibr",
+  "length": "약 37cm",
+  "status": "드문 나그네새, 드문 여름철새",
+  "habitat": "서해안 간척지, 하천 등 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "드물게 지나가는 나그네새이면서 일부 지역에서 소수가 번식하는 드문 여름철새로, 봄과 가을에 서해안 간척지와 하천 등 습지에 찾아온다. 국내 번식은 1998년 충남 서산 간척지에서 처음 확인되었고, 그 뒤로 여러 간척지와 습지에서 번식 기록이 늘고 있다.",
+  "points": [
+    {
+      "ko": "머리꼭대기~뒷목의 검은 무늬(수컷)",
+      "en": "black or grey-brown cap to hindneck (male)"
+    },
+    {
+      "ko": "가늘고 긴 검은 부리",
+      "en": "long, thin black bill"
+    },
+    {
+      "ko": "검은 날개",
+      "en": "black wings"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "길고 분홍색인 다리",
+      "en": "long pink legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기에서 뒷목에 걸쳐 검은색 또는 회갈색 무늬가 있으며(개체마다 다르다), 몸 윗면은 녹색 광택을 띤다.",
+    "female": "몸 윗면이 갈색이다."
+  },
+  "young": "어린새는 머리꼭대기와 뒷목 등이 갈색을 띤다.",
+  "similar": [],
+  "art": {
+    "subject": "Black-winged Stilt (Himantopus himantopus), adult male: long, thin black bill, black or grey-brown markings from the crown down the hindneck, black wings, upperparts with a green gloss, white underparts, long pink legs",
+    "pose": "wading in shallow water on its long legs",
+    "scene": "Korean west-coast reclaimed land with shallow pools and wet fields in spring; no people, buildings or text",
+    "views": [
+      "adult male, side view wading: black or grey-brown cap to hindneck, green-glossed upperparts, black wings, white underparts, long black bill, long pink legs",
+      "adult female, side view: brown upperparts, white underparts, long pink legs",
+      "juvenile, side view: brownish crown and hindneck"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 장다리물떼새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001664",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 장다리물떼새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001664",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "aegithalos-caudatus",
+  "ko": "오목눈이",
+  "sci": "Aegithalos caudatus",
+  "author": "Linnaeus, 1758",
+  "en": "Long-tailed Tit",
+  "ktsn": 120000001998,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "흔한 텃새",
+  "habitat": "산림, 낙엽활엽수림, 솔숲, 잡목림, 관목림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "알은 4~6월에 낳는다."
+  },
+  "summary": "우리나라 산림 전역에서 번식하는 흔한 텃새로, 낙엽활엽수림과 솔숲, 잡목림, 관목림 등에 살며 주로 나무 위에서 지낸다. 번식기에는 암수가 함께 다니고, 그 밖의 때에는 4~5마리나 10마리 남짓한 가족 무리를 이루며 때로 다른 종과 섞여 큰 무리가 된다. 숲속에 둥지를 틀고 4~6월에 한배에 7~11개, 때로는 13개의 알을 낳는다. 곤충을 주로 먹고 거미류와 콩과식물 씨앗도 먹으며, 한반도 전역과 유라시아 대륙에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 머리와 멱",
+      "en": "white head and throat"
+    },
+    {
+      "ko": "뒷목까지 이어진 굵은 검은 눈썹선",
+      "en": "broad black stripe above the eye reaching the hindneck"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "검은 갈색 날개",
+      "en": "blackish-brown wings"
+    },
+    {
+      "ko": "어두운 갈색 다리, 엷은 갈색 종아리깃",
+      "en": "dark brown legs with pale brown thigh feathering"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Long-tailed Tit (Aegithalos caudatus), adult: white forehead, crown, nape, lores, chin and throat, broad black stripe above the eye running back to the hindneck, blackish-brown wings, black bill, dark brown iris, dark brown legs with pale brown thigh feathering",
+    "pose": "perched on a thin twig high in a tree, one of a small family flock",
+    "scene": "Korean deciduous broadleaf and pine woodland with shrubby undergrowth; no people, buildings or text",
+    "views": [
+      "adult, side view perched: white head, broad black stripe from above the eye to the hindneck, blackish-brown wings, black bill",
+      "adult, front view: white face and throat"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 오목눈이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001998",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 오목눈이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001998",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

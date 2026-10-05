@@ -1,0 +1,82 @@
+{
+  "id": "acrocephalus-bistrigiceps",
+  "ko": "쇠개개비",
+  "sci": "Acrocephalus bistrigiceps",
+  "author": "Swinhoe, 1860",
+  "en": "Black-browed Reed Warbler",
+  "ktsn": 120000155417,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "대부분 나그네새, 일부는 드물게 번식하는 여름새",
+  "habitat": "갈밭, 물가, 고원과 건조한 초지(둥지)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      6,
+      7,
+      8
+    ],
+    "note": "6~8월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 우리나라를 지나는 무리가 대부분인 나그네새이며, 한반도 전역의 갈밭에서 드물게 번식하는 여름새이기도 하다. 고원, 물가, 건조한 초지에 둥지를 틀고 6~8월 상순에 한배에 보통 4~6개의 알을 낳는다. 홀로 또는 암수가 함께 지내지만 번식지에서는 대개 빽빽하게 모여 살며, 먹이는 개개비와 비슷하다. 한국, 구북구 동부, 몽골, 만주, 아무르, 우수리, 사할린, 일본, 중국 등지에서 번식하고 중국 남부, 태국, 미얀마, 인도 아삼 지방에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "눈썹선 위의 검은 갈색 머리 옆줄",
+      "en": "blackish-brown lateral crown stripes above the supercilium"
+    },
+    {
+      "ko": "올리브빛 녹슨 갈색 윗면",
+      "en": "olive-tinged rusty-brown upperparts"
+    },
+    {
+      "ko": "황갈색 기운 흰 턱과 멱 가운데",
+      "en": "buffy-white chin and centre of throat"
+    },
+    {
+      "ko": "황갈색 가슴과 옆구리",
+      "en": "buff breast and flanks"
+    },
+    {
+      "ko": "엷은 녹슨 갈색 허리",
+      "en": "pale rusty-brown rump"
+    },
+    {
+      "ko": "둥근 꽁지",
+      "en": "rounded tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-browed Reed Warbler (Acrocephalus bistrigiceps), adult male winter: olive-tinged rusty-brown from forehead over crown and nape to back, blackish-brown stripes on the sides of the crown above the supercilium, buffy-white chin, centre of throat and centre of belly, buff sides of throat, breast, flanks and undertail coverts, pale rusty-brown rump and uppertail coverts, rounded tail, pale brown eye, leaden-grey legs with a reddish or bluish tinge",
+    "pose": "clinging to a reed stem, side view",
+    "scene": "Korean reedbed beside water during spring migration; no people, buildings or text",
+    "views": [
+      "adult male winter, side view clinging to a reed: rusty-brown upperparts, buff breast and flanks, rounded tail",
+      "adult, head detail: blackish-brown crown-side stripes above the supercilium"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000155417",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155417",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "falco-cherrug",
+  "ko": "헨다손매",
+  "sci": "Falco cherrug",
+  "author": "J.E.Gray, 1834",
+  "en": "Saker Falcon",
+  "ktsn": 120000001576,
+  "origin": "nibr",
+  "length": "46cm",
+  "status": "적은 수가 월동하는 겨울철새",
+  "habitat": "평야의 개활지, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4월 무렵 알을 낳는다."
+  },
+  "summary": "적은 수가 우리나라에서 겨울을 나며, 평야의 트인 땅이나 습지에 산다. 알타이, 파미르, 티베트, 히말라야 등지에서 번식한다. 번식지에서는 4월 무렵 한배에 보통 알 3개를 낳는다.",
+  "points": [
+    {
+      "ko": "갈색 무늬가 있는 흰 정수리",
+      "en": "white crown marked with brown"
+    },
+    {
+      "ko": "흑갈색 등",
+      "en": "blackish-brown back"
+    },
+    {
+      "ko": "암갈색 줄무늬가 있는 흰 배",
+      "en": "white belly streaked dark brown"
+    },
+    {
+      "ko": "옅은 띠가 있는 암갈색 꼬리",
+      "en": "dark brown tail with pale bands"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Saker Falcon (Falco cherrug), adult: white crown and upper head marked with brown, blackish-brown back, white belly streaked dark brown, dark brown tail with pale bands",
+    "pose": "perched on a low mound in open country, side view",
+    "scene": "Korean winter plain: open flat farmland beside a wetland; no people, buildings or text",
+    "views": [
+      "adult, side view perched: whitish crown marked with brown, blackish-brown back, white belly with dark brown streaks",
+      "adult, flight from below: white underparts streaked dark brown, dark brown tail with pale bands"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 헨다손매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001576",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 헨다손매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001576",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

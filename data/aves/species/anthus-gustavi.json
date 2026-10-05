@@ -1,0 +1,78 @@
+{
+  "id": "anthus-gustavi",
+  "ko": "흰등밭종다리",
+  "sci": "Anthus gustavi",
+  "author": "Swinhoe, 1863",
+  "en": "Pechora Pipit",
+  "ktsn": 120000002180,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "드물지 않은 나그네새",
+  "habitat": "습지, 버드나무류가 드문드문 자라는 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 한반도를 지나가며, 번식지에서는 6월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도 전역을 드물지 않게 지나가는 나그네새이다. 딱정벌레·메뚜기·파리 무리 같은 곤충을 주로 먹고 거미도 먹는다. 습지나 버드나무류가 드문드문 자라는 풀밭의 땅 위에 둥지를 틀고 한배에 알을 5개 낳는다. 유럽 동부와 시베리아 북부 등지에서 번식하고, 한국·중국·일본 등을 거쳐 동남아시아 열대에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "또렷하지 않은 눈썹선",
+      "en": "indistinct supercilium"
+    },
+    {
+      "ko": "어두운 세로무늬가 있는 갈색 귀깃",
+      "en": "brown ear coverts with dark streaks"
+    },
+    {
+      "ko": "아랫부리 기부만 옅은 갈색 부리",
+      "en": "brown bill with pale brown base to lower mandible"
+    },
+    {
+      "ko": "턱선의 검은 갈색 작은 반점",
+      "en": "small blackish-brown spots along the malar"
+    },
+    {
+      "ko": "가슴과 옆구리의 굵은 세로무늬",
+      "en": "dark streaks on breast and long streaks on flanks"
+    },
+    {
+      "ko": "굵고 또렷한 검은 갈색 줄의 갈색 등",
+      "en": "brown upperparts with broad, bold blackish-brown streaks"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 깃 색이 같고, 암컷이 수컷보다 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pechora Pipit (Anthus gustavi), adult: indistinct supercilium, brown ear coverts with dark streaks, buffy-white underparts with small blackish-brown spots along the malar, brownish-black streaks on the breast and long streaks on the flanks, brown upperparts with broad, bold blackish-brown streaks, brown wing feathers edged olive-brown, brown bill with a pale brown base to the lower mandible",
+    "pose": "walking on the ground, picking insects from the grass",
+    "scene": "Korean spring migration stopover: damp grassy ground beside a wetland with scattered willows; no people, buildings or text",
+    "views": [
+      "adult, side view on ground: boldly streaked brown upperparts, buffy-white underparts with dark breast streaks and long flank streaks",
+      "head detail: indistinct supercilium, streaked brown ear coverts, small blackish-brown malar spots, brown bill with pale base to lower mandible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰등밭종다리",
+      "url": "https://species.nibr.go.kr/species-detail/120000002180",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰등밭종다리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002180",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

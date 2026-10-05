@@ -1,0 +1,79 @@
+{
+  "id": "calidris-ruficollis",
+  "ko": "좀도요",
+  "sci": "Calidris ruficollis",
+  "author": "Pallas, 1776",
+  "en": "Red-necked Stint",
+  "ktsn": 120000001732,
+  "origin": "nibr",
+  "length": "15cm",
+  "status": "흔한 나그네새",
+  "habitat": "염전, 논, 갯벌, 강 하구, 물웅덩이",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 국내를 흔하게 지나가는 나그네새로, 염전·논·갯벌·강 하구에서 무리를 이루어 지낸다. 서해안 염전 지대와 그 주변의 논, 물웅덩이에서 자주 보이며, 민물도요와 섞여 다니는 일이 많다. 알 4개를 낳아 암수가 함께 품는다. 시베리아 동북부에서 번식하고 가을에 남쪽으로 내려가 인도·미얀마·말레이시아·필리핀·오스트레일리아 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "적갈색 머리·목·윗가슴(여름깃)",
+      "en": "rufous head, neck and upper breast (breeding)"
+    },
+    {
+      "ko": "부리 둘레의 흰색",
+      "en": "white around the base of the bill"
+    },
+    {
+      "ko": "적갈색 등과 어깨(여름깃)",
+      "en": "rufous mantle and scapulars (breeding)"
+    },
+    {
+      "ko": "가는 검은 깃축의 회갈색 윗면(겨울깃)",
+      "en": "grey-brown upperparts with thin dark shaft streaks (winter)"
+    },
+    {
+      "ko": "가로로 긴 통통한 몸",
+      "en": "plump, horizontally elongated body"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 등이 어두운 갈색이고 깃 가장자리가 적갈색이다.",
+  "similar": [],
+  "art": {
+    "subject": "Red-necked Stint (Calidris ruficollis), adult breeding: plump, horizontally elongated body, rufous head, neck and upper breast, white around the bill base, rufous mantle and scapulars, black legs",
+    "pose": "feeding in a small flock on wet mud, picking quickly at the surface",
+    "scene": "Korean west-coast salt pans and nearby paddies during spring migration, shallow pools and wet mud; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: rufous head, neck and upper breast, white around the bill, rufous back, black legs",
+      "adult winter, side view standing: grey-brown upperparts with thin dark shaft streaks",
+      "juvenile, side view standing: dark brown back with rufous feather edges"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 좀도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001732",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 좀도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001732",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

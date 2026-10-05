@@ -1,0 +1,75 @@
+{
+  "id": "mareca-strepera",
+  "ko": "알락오리",
+  "sci": "Mareca strepera",
+  "author": "Linnaeus, 1758",
+  "en": "Gadwall",
+  "ktsn": 120000528789,
+  "origin": "nibr",
+  "length": "약 51cm",
+  "status": "흔한 겨울철새",
+  "habitat": "강, 하구, 저수지, 호수, 물 고인 논, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국에서 볼 수 있는 흔한 겨울철새로, 강과 하구, 저수지, 호수에서 지낸다. 수면성 오리로 낮에는 물 위에서 자맥질해 물속 수초를 뜯거나 수면 가까운 수초와 식물 씨앗을 먹고, 해 질 녘에는 물 고인 논이나 습지로 옮겨 씨앗을 먹는다. 유라시아와 북아메리카의 아한대에서 번식하고 유럽 남부, 북아프리카, 인도, 중국 동부, 한국, 일본에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "회흑색 반점이 흩어진 회색 몸",
+      "en": "male: grey overall with scattered dark grey speckles"
+    },
+    {
+      "ko": "비늘무늬처럼 보이는 가슴",
+      "en": "male: scaly breast, feathers edged black"
+    },
+    {
+      "ko": "수컷의 검은 부리와 아래꼬리덮깃",
+      "en": "male: black bill and undertail coverts"
+    },
+    {
+      "ko": "암컷의 가장자리 주황색 부리",
+      "en": "female: bill black above with orange edges"
+    },
+    {
+      "ko": "흰 둘째날개깃(앉으면 흰 점)",
+      "en": "white secondaries, a white patch at rest and obvious in flight"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "전체가 짙은 회색이고 회흑색 반점이 흩어져 있으며, 부리와 아래꼬리덮깃이 검다. 가슴 깃은 가장자리가 검어 비늘무늬처럼 보인다. 변환깃은 암컷과 비슷하다.",
+    "female": "전체가 갈색이고, 부리는 윗면이 검고 가장자리가 주황색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Gadwall (Mareca strepera), adult male: overall grey with scattered dark grey speckling, breast feathers edged black giving a scaly look, black bill, black undertail coverts, white secondaries showing as a small white patch",
+    "pose": "upending in shallow water to reach submerged plants",
+    "scene": "Korean winter: a calm reservoir with aquatic plants near flooded rice fields; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: grey body with dark speckles, scaly breast, black bill and undertail coverts, small white wing patch",
+      "adult female, side view: brown overall, bill black above with orange edges, small white wing patch",
+      "in flight: white secondaries clearly visible"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000528789",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528789",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

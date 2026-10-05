@@ -1,0 +1,79 @@
+{
+  "id": "falco-amurensis",
+  "ko": "비둘기조롱이",
+  "sci": "Falco amurensis",
+  "author": "Radde, 1863",
+  "en": "Amur Falcon",
+  "ktsn": 120000001573,
+  "origin": "nibr",
+  "length": "29–33cm",
+  "status": "매우 드문 나그네새",
+  "habitat": "강 하구, 농경지, 해안가 개활지의 초지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "아주 드물게 지나가는 나그네새로, 중부 이북 지역을 통과하는 모습이 관찰된다. 강 하구, 농경지, 해안가 트인 땅의 풀밭에 머물며 곤충, 작은 포유류, 새, 개구리, 도마뱀 등을 잡아먹는다. 국외에서는 중국 동북부, 아무르, 우수리, 몽골, 시베리아 북부에 분포한다.",
+  "points": [
+    {
+      "ko": "주황색 납막",
+      "en": "orange cere"
+    },
+    {
+      "ko": "어두운 회색 몸(수컷)",
+      "en": "dark grey overall (male)"
+    },
+    {
+      "ko": "붉은 아랫배와 아래꼬리덮깃(수컷)",
+      "en": "red lower belly and undertail coverts (male)"
+    },
+    {
+      "ko": "날 때 보이는 흰 아래날개덮깃",
+      "en": "white underwing coverts in flight"
+    },
+    {
+      "ko": "검은 날개깃과 꼬리 끝",
+      "en": "black flight feathers and tail tip"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 어두운 회색이고 아랫배와 아래꼬리덮깃이 붉다. 날 때 흰 아래날개덮깃이 뚜렷하게 드러난다.",
+    "female": "윗면이 회색이고 뺨이 희며, 흰 아랫면에 검은 무늬가 빽빽하다. 아랫배의 적갈색은 더 흐리다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Amur Falcon (Falco amurensis), adult male: dark grey overall, red lower belly and undertail coverts, orange cere and legs, black flight feathers and tail tip, white underwing coverts",
+    "pose": "perched on a low post, scanning the grass for prey",
+    "scene": "Korean migration-season grassland on open coastal farmland near a river mouth; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey body, red lower belly and undertail coverts, orange cere and legs",
+      "adult male, flight from below: white underwing coverts contrasting with black flight feathers, black tail tip",
+      "adult female, side view perched: grey upperparts, white cheek, white underparts densely marked black, paler rufous lower belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 비둘기조롱이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001573",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 비둘기조롱이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001573",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "aythya-americana",
+  "ko": "미국흰죽지",
+  "sci": "Aythya americana",
+  "author": "Eyton, 1838",
+  "en": "Redhead",
+  "ktsn": 120000001451,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "TODO",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "TODO",
+    "scene": "TODO",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 미국흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001451",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 미국흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001451",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 생김새(수컷의 흰 정수리, 눈에서 머리 뒤까지의 넓은 녹색 줄, 반점 있는 회색 얼굴, 녹색 익경)는 이 종이 아니라 아메리카홍머리오리(Mareca americana)의 것으로 보여 모든 값을 TODO로 둠"
+  ]
+}

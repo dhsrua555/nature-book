@@ -1,0 +1,74 @@
+{
+  "id": "emberiza-pallasi",
+  "ko": "북방검은머리쑥새",
+  "sci": "Emberiza pallasi",
+  "author": "Cabanis, 1851",
+  "en": "Pallas's Reed Bunting",
+  "ktsn": 120000002232,
+  "origin": "nibr",
+  "length": "16cm",
+  "status": "겨울철새",
+  "habitat": "못가, 습지, 갈대밭, 풀밭",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라 전역에 찾아오는 겨울새로, 못가와 습지, 갈대밭, 풀밭에서 지낸다. 시베리아에서 번식하고 한국, 만주, 중국 남부, 일본 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "황갈색 머리와 목덜미(수컷 겨울깃)",
+      "en": "buff-brown head and nape (winter male)"
+    },
+    {
+      "ko": "엷은 갈색 눈앞과 눈 둘레",
+      "en": "pale brown lores and eye surround"
+    },
+    {
+      "ko": "폭넓은 황백색 뺨선",
+      "en": "broad buffy-white submoustachial stripe"
+    },
+    {
+      "ko": "검은 세로줄무늬가 있는 등",
+      "en": "back streaked black"
+    },
+    {
+      "ko": "황백색 허리와 배",
+      "en": "buffy-white rump and belly"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "겨울깃은 머리와 목덜미, 등이 황갈색으로 보이고, 폭넓은 뺨선과 허리, 배는 황백색이다.",
+    "female": "수컷보다 색이 연하며, 갈색 머리에 흰 눈썹선과 뺨선이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pallas's Reed Bunting (Emberiza pallasi), adult male in winter plumage: buff-brown head, nape and back, back streaked black, pale brown lores and area around the eye, broad buffy-white submoustachial stripe, buffy-white rump, uppertail coverts and belly",
+    "pose": "perched on a reed stem, side view",
+    "scene": "Korean winter: dry reed bed at the edge of a pond with grassy margins; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: buff-brown head and back with black streaks, broad buffy-white submoustachial stripe, buffy-white rump and belly",
+      "adult female, side view perched: paler than the male, brown head with white supercilium and submoustachial stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 북방검은머리쑥새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002232",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 북방검은머리쑥새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002232",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

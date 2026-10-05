@@ -1,0 +1,83 @@
+{
+  "id": "gallinula-chloropus",
+  "ko": "쇠물닭",
+  "sci": "Gallinula chloropus",
+  "author": "Linnaeus, 1758",
+  "en": "Common Moorhen",
+  "ktsn": 120000001641,
+  "origin": "nibr",
+  "length": "약 32cm",
+  "status": "흔한 여름철새",
+  "habitat": "호소, 소택지, 연못, 저수지, 하구 등 물이 고인 곳",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "산란기는 5~8월이다."
+  },
+  "summary": "흔한 여름철새로, 호소와 소택지, 호숫가, 연못가, 저수지, 하구 등 물이 고인 곳에 산다. 국내에서는 중부 이남 전역에서 지낸다. 한배에 알을 6~9개 낳으며, 여러 열매와 곤충, 연체동물, 갑각류, 환형동물을 먹는다. 국외에서는 호주와 뉴질랜드를 뺀 전 세계의 온대와 열대에 분포한다.",
+  "points": [
+    {
+      "ko": "선명한 붉은 이마판",
+      "en": "bright red frontal shield"
+    },
+    {
+      "ko": "선명한 붉은 부리",
+      "en": "bright red bill"
+    },
+    {
+      "ko": "검은 몸",
+      "en": "black body"
+    },
+    {
+      "ko": "어두운 갈색 등과 날개",
+      "en": "dark brown back and wings"
+    },
+    {
+      "ko": "양옆이 흰 아래꼬리덮깃",
+      "en": "undertail coverts black in the centre, white at the sides"
+    },
+    {
+      "ko": "황록색 다리",
+      "en": "yellow-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Moorhen (Gallinula chloropus), adult: black body, dark brown shoulders, back, rump and wing feathers, belly feathers edged greyish-white or white, undertail coverts black in the centre and white at the sides and tip, bright red frontal shield, bright red bill, yellow-green legs",
+    "pose": "standing at the water's edge among reeds, side view",
+    "scene": "Korean summer pond or reservoir edge with reeds and still water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black body, dark brown back and wings, red frontal shield and bill, yellow-green legs",
+      "adult, rear view: undertail coverts black in the centre with white sides and tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠물닭",
+      "url": "https://species.nibr.go.kr/species-detail/120000001641",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠물닭",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001641",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

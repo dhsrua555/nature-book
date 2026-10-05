@@ -1,0 +1,70 @@
+{
+  "id": "locustella-fasciolata",
+  "ko": "붉은허리개개비",
+  "sci": "Locustella fasciolata",
+  "author": "G.R.Gray, 1860",
+  "en": "Gray's Grasshopper Warbler",
+  "ktsn": 120000002033,
+  "origin": "nibr",
+  "length": "약 17cm",
+  "status": "드물지 않은 나그네새",
+  "habitat": "숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 상순~7월 하순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 지나가는 드물지 않은 나그네새로, 숲속에서 지낸다. 주로 곤충을 먹으며 딱정벌레와 매미를 즐겨 잡는다. 강가나 하구의 버드나무와 작은 관목이 흩어진 초지에 둥지를 틀고 6월 상순~7월 하순에 한배에 3~5개의 알을 낳는다. 구북구 동부, 시베리아 남동부, 만주 북부 등지에서 번식하고 필리핀과 뉴기니 등에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "갈색 윗면",
+      "en": "brown upperparts"
+    },
+    {
+      "ko": "잿빛 아랫멱과 가슴",
+      "en": "grey lower throat and breast"
+    },
+    {
+      "ko": "흰 배",
+      "en": "white belly"
+    },
+    {
+      "ko": "잿빛 황갈색 옆구리",
+      "en": "greyish-buff flanks"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Gray's Grasshopper Warbler (Locustella fasciolata), adult: brown upperparts, grey lower throat and breast, white belly, greyish-buff flanks",
+    "pose": "perched low in forest undergrowth, side view",
+    "scene": "Korean forest interior with undergrowth during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched: brown upperparts, grey breast, white belly, greyish-buff flanks",
+      "adult, front view: grey lower throat and breast contrasting with white belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은허리개개비",
+      "url": "https://species.nibr.go.kr/species-detail/120000002033",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은허리개개비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002033",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Helopsaltes fasciolatus)"
+    }
+  ],
+  "todo": []
+}

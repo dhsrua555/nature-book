@@ -1,0 +1,75 @@
+{
+  "id": "caprimulgus-jotaka",
+  "ko": "쏙독새",
+  "sci": "Caprimulgus jotaka",
+  "author": "Temminck & Schlegel, 1845",
+  "en": "Grey Nightjar",
+  "ktsn": 120000155214,
+  "origin": "nibr",
+  "length": "27–32cm",
+  "status": "흔한 여름철새",
+  "habitat": "낙엽활엽수림, 침엽수림, 혼효림 등 산림, 관목이 흩어진 풀숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "4~5월에 걸쳐 오며, 산란기는 5~8월이고 대부분 6월에 알을 낳는다."
+  },
+  "summary": "4~5월에 걸쳐 찾아오는 흔한 여름철새로 전국에 살며, 국외에서는 러시아, 극동 남부, 중국 남동부, 동남아시아, 일본에 분포한다. 밤에 활동하며 낙엽활엽수림, 침엽수림, 혼효림 같은 숲과 관목이 흩어진 풀숲에서 지내고, 낮에는 어두운 숲속이나 우거진 가지에 가지 방향으로 가슴을 바짝 붙이고 있어 좀처럼 눈에 띄지 않는다. 대개 홀로 지내며, 대부분 6월에 침엽수림이나 혼효림 안 풀숲 빈터에 둥지 없이 알 2개를 낳아 암수가 번갈아 품는다. 날면서 큰 입을 벌려 나방, 딱정벌레, 물매미, 벌, 메뚜기 같은 곤충을 잡아먹는다.",
+  "points": [
+    {
+      "ko": "비교적 큰 머리와 눈",
+      "en": "relatively large head and eyes"
+    },
+    {
+      "ko": "큰 입",
+      "en": "wide gape"
+    },
+    {
+      "ko": "갈색·검은색·회색이 섞인 얼룩 깃",
+      "en": "cryptic plumage mottled brown, black and grey"
+    },
+    {
+      "ko": "날 때 긴 날개와 긴 꼬리",
+      "en": "long wings and long tail in flight"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 몸 전체가 갈색·검은색·회색이 섞인 얼룩무늬이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Grey Nightjar (Caprimulgus jotaka), adult: relatively large head and eyes, entire plumage mottled brown, black and grey so that it looks like part of a branch or dead leaves, long wings and long tail",
+    "pose": "resting lengthwise along a branch by day, breast pressed flat against it",
+    "scene": "Korean summer mixed forest: shady interior with a small grassy clearing; no people, buildings or text",
+    "views": [
+      "adult, side view perched lengthwise on a branch: cryptic brown, black and grey mottling, large head and eye",
+      "adult in flight: long wings and long tail, mouth wide open to catch insects"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쏙독새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155214",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쏙독새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155214",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

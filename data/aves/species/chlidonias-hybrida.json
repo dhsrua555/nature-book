@@ -1,0 +1,65 @@
+{
+  "id": "chlidonias-hybrida",
+  "ko": "구레나룻제비갈매기",
+  "sci": "Chlidonias hybrida",
+  "author": "Pallas, 1811",
+  "en": "Whiskered Tern",
+  "ktsn": 120000001790,
+  "origin": "nibr",
+  "length": "23–25cm",
+  "status": "TODO",
+  "habitat": "늪, 습지, 물에 뜬 식물이 많은 강",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "늪과 습지, 물에 떠 있는 식물이 많은 강에 사는 제비갈매기류이다. 몸무게는 100g이다. 아프리카, 프랑스, 러시아, 중국에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 이마와 정수리",
+      "en": "black forehead and crown"
+    },
+    {
+      "ko": "검은 목덜미",
+      "en": "black nape"
+    },
+    {
+      "ko": "눈앞에서 귀깃까지 좁은 흰 줄",
+      "en": "narrow white streak below the eye from lores to ear coverts"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하며, 수컷의 부리와 날개가 암컷보다 아주 조금 더 길다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Whiskered Tern (Chlidonias hybrida), adult: black forehead, crown and nape, narrow white stripe running below the eye from the lores to the ear coverts",
+    "pose": "perched on floating vegetation, side view",
+    "scene": "marshy wetland and a slow river covered with floating plants; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black cap from forehead to nape, narrow white stripe below the eye",
+      "adult, head detail: narrow white streak from the lores to the ear coverts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 구레나룻제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001790",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 구레나룻제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001790",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

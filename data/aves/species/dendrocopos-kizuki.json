@@ -1,0 +1,95 @@
+{
+  "id": "dendrocopos-kizuki",
+  "ko": "쇠딱다구리",
+  "sci": "Dendrocopos kizuki",
+  "author": "Temminck, 1836",
+  "en": "Japanese Pygmy Woodpecker",
+  "ktsn": 120000001907,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "숲, 활엽수림, 잡목림",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6
+    ],
+    "note": "5월 상순~6월 중순에 알을 낳는다."
+  },
+  "summary": "한반도 전역에서 흔히 번식하는 텃새로, 숲 속 나무 위에서 생활한다. 번식기에는 혼자 또는 암수가 함께 다니고, 가을과 겨울에는 혼성 무리를 지어 숲속을 돌아다닌다. 활엽수림이나 잡목림의 큰키나무 줄기에 스스로 구멍을 파 둥지를 짓고, 5월 상순~6월 중순에 한배에 알을 5~7개 낳는다. 곤충과 나무 열매를 먹으며, 국외에서는 중국 북동부, 우수리, 사할린, 쿠릴 열도 남부 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "잿빛 갈색 머리 위와 뒷목",
+      "en": "grey-brown crown and hindneck"
+    },
+    {
+      "ko": "뒷머리 양쪽의 붉은 깃(수컷)",
+      "en": "red feathers at the sides of the nape (male)"
+    },
+    {
+      "ko": "그을린 갈색 귀깃",
+      "en": "smoky-brown ear-coverts"
+    },
+    {
+      "ko": "목 옆과 이어지지 않는 흰 눈썹선",
+      "en": "white supercilium not joining the buff-white neck sides"
+    },
+    {
+      "ko": "검은 띠 3개가 있는 바깥 꽁지깃",
+      "en": "outer tail feathers with three black bars"
+    },
+    {
+      "ko": "붉은 홍채와 납빛 회색 다리",
+      "en": "red iris and lead-grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "뒷머리 양쪽에 붉은 깃이 있다.",
+    "female": "뒷머리 양쪽에 붉은 깃이 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Pygmy Woodpecker (Dendrocopos kizuki), adult male: grey-brown forehead, crown, nape and hindneck with red feathers at each side of the nape, smoky-brown lores and ear-coverts, white supercilium behind the eye not joining the buff-white neck sides, black tail with the outer two pairs brownish-white near the tip and crossed by three black bars, black nasal bristles tipped white, lead-grey horn-coloured bill, red iris, lead-grey legs",
+    "pose": "clinging to a tree trunk, chiselling a nest hole",
+    "scene": "Korean broadleaf and scrub woodland; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a trunk: grey-brown crown with red nape patches, smoky-brown ear-coverts, white supercilium, black tail with barred outer feathers",
+      "adult female, head detail: no red at the sides of the nape"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001907",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001907",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Yungipicus kizuki)"
+    }
+  ],
+  "todo": []
+}

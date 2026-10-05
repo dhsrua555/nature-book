@@ -1,0 +1,79 @@
+{
+  "id": "aythya-valisineria",
+  "ko": "큰흰죽지",
+  "sci": "Aythya valisineria",
+  "author": "A.Wilson, 1814",
+  "en": "Canvasback",
+  "ktsn": 120000001450,
+  "origin": "nibr",
+  "length": "50–61cm",
+  "status": "TODO",
+  "habitat": "트인 습지, 물풀이 무성한 호수, 초지, 해안",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "북극권 숲 가까이의 트인 습지와 물풀이 무성한 호수, 초지에 사는 몸집 큰 잠수성 오리로, 겨울은 해안에서 난다. 먹이 생물이 풍부하고 잠수할 만큼 물이 깊으며 습지 식물이 빽빽한 곳에서, 가장 높은 수위보다 조금 낮은 자리에 둥지를 짓고 암갈색 기가 도는 올리브색 알을 7~9개 낳는다. 무리 지어 날 때 V자를 그리고 최고 시속 116km까지 낼 만큼 빠르며, 평소에는 잘 울지 않지만 구애할 때 수컷이 소리를 낸다. 서스캐처원, 브리티시컬럼비아, 앨버타, 마니토바 남부, 오리건, 유타 북부, 콜로라도, 네브래스카, 미네소타 등지에서 번식하고 북아메리카 해안과 브리티시컬럼비아, 매사추세츠 남부 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "길고 검은 부리",
+      "en": "long black bill"
+    },
+    {
+      "ko": "이마와 부리가 이루는 완만한 각",
+      "en": "sloping forehead running smoothly into the bill"
+    },
+    {
+      "ko": "붉은 고동색 머리(수컷)",
+      "en": "male: reddish chestnut head"
+    },
+    {
+      "ko": "멀리서 검게 보이는 앞몸(수컷)",
+      "en": "male: foreparts look black at a distance"
+    },
+    {
+      "ko": "흰 몸 가운데(수컷)",
+      "en": "male: white central body"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸 가운데는 흰색이고 앞부분은 멀리서 검게 보이며, 머리는 붉은 고동색이다.",
+    "female": "머리와 가슴은 갈색, 눈가와 멱은 밝은 갈색, 등은 회갈색, 옆구리는 회색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "흰죽지",
+      "how": "흰죽지와 비슷하지만 길고 검은 부리가 이마와 완만한 각을 이루어 옆모습이 독특하다."
+    }
+  ],
+  "art": {
+    "subject": "Canvasback (Aythya valisineria), adult male: reddish chestnut head, long black bill forming a smooth sloping line with the forehead, foreparts looking black at a distance, white central body",
+    "pose": "swimming low on open water, about to dive",
+    "scene": "open coastal water of a calm bay in winter; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: reddish chestnut head, sloping forehead into a long black bill, black-looking foreparts, white body",
+      "adult female, side view swimming: brown head and breast, paler brown around the eye and throat, grey-brown back, grey flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰흰죽지",
+      "url": "https://species.nibr.go.kr/species-detail/120000001450",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰흰죽지",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001450",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

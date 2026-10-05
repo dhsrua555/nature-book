@@ -1,0 +1,80 @@
+{
+  "id": "muscicapa-sibirica",
+  "ko": "솔딱새",
+  "sci": "Muscicapa sibirica",
+  "author": "Gmelin, 1789",
+  "en": "Dark-sided Flycatcher",
+  "ktsn": 120000002136,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드물지 않은 나그네새",
+  "habitat": "숲의 나무 위, 아고산대 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 지나간다."
+  },
+  "summary": "봄과 가을에 한반도 전역을 드물지 않게 지나가는 나그네새이다. 홀로 또는 암수가 함께 주로 나무 위에서 지내고 땅에 내려오는 일은 드물며, 날아다니는 곤충과 거미를 주로 먹는다. 아고산대 숲속에 둥지를 틀고 한배에 알 3~5개를 낳는다. 시베리아 남부, 알타이 동부, 몽골 북부, 만주, 아무르, 우수리, 사할린, 일본, 캄차카, 쿠릴 열도 등지에서 번식하고 중국 동·남부, 타이완, 하이난섬, 인도차이나, 태국 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "어둡고 흐린 잿빛 머리꼭대기",
+      "en": "dusky grey crown"
+    },
+    {
+      "ko": "엷은 잿빛 눈앞의 누런 흰 깃",
+      "en": "pale grey lores with buffy-white feathers"
+    },
+    {
+      "ko": "흰 턱밑과 멱 가운데",
+      "en": "white chin and centre of throat"
+    },
+    {
+      "ko": "잿빛 세로 얼룩이 넓은 가슴·옆구리",
+      "en": "breast and flanks broadly streaked dusky grey"
+    },
+    {
+      "ko": "흰 아랫배와 아래꽁지덮깃",
+      "en": "white lower belly and undertail coverts"
+    },
+    {
+      "ko": "가는 잿빛 쥐색 또는 갈색 다리",
+      "en": "thin mouse-grey or brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수를 구별하기 어렵다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Dark-sided Flycatcher (Muscicapa sibirica), adult: dusky grey crown, pale grey lores with buffy-white feathers, dull grey cheeks and ear coverts, broad dull grey streaks on the jaw, breast, flanks and belly sides with the breast almost wholly grey, white chin, centre of throat, lower belly and undertail coverts, dull grey back, rump and uppertail coverts, dark brown tail, blackish-brown bill with a pale base to the lower mandible, brown iris, thin mouse-grey or brown legs",
+    "pose": "perched on a branch high in a tree, side view",
+    "scene": "Korean woodland canopy during spring or autumn migration; no people, buildings or text",
+    "views": [
+      "adult, side view perched: dusky grey crown and upperparts, dark brown tail, grey-streaked breast and flanks, white undertail coverts, thin legs",
+      "adult, front view: white chin and centre of throat, breast almost wholly dull grey, broad grey streaks on the flanks, white lower belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 솔딱새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002136",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 솔딱새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002136",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 월동지 목록에 한국·일본이 들어 있어 '나그네새'라는 국내 상태, 번식지 목록(일본)과 맞지 않는다. 요약에서는 이 둘을 뺐다(확인 필요)."
+  ]
+}

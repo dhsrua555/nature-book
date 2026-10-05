@@ -1,0 +1,84 @@
+{
+  "id": "carpodacus-erythrinus",
+  "ko": "붉은양진이",
+  "sci": "Carpodacus erythrinus",
+  "author": "Pallas, 1770",
+  "en": "Common Rosefinch",
+  "ktsn": 120000002198,
+  "origin": "nibr",
+  "length": "약 14cm",
+  "status": "북부 고산 지대에서 작은 무리가 번식, 중부 이남에서는 드문 나그네새",
+  "habitat": "북부 고산 지대, 습지·물가·언덕의 덤불, 작은 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "산란기는 5월 하순~7월이고, 한 해 한 번 번식한다."
+  },
+  "summary": "한국 북부의 고산 지대에서는 작은 무리가 번식하고, 중부 이남에서는 봄과 가을에 작은 무리가 지나가는 드문 나그네새이다. 습지나 물가, 언덕의 덤불 속이나 작은 숲속 땅 위에 흔히 둥지를 틀고 버드나무 가지 위에 짓기도 하며, 한배에 알을 4~6개 낳는다. 주로 식물성 먹이를 먹고 동물성으로는 딱정벌레 무리를 먹는다. 시베리아 동부, 오호츠크해 연안, 러시아 알타이, 몽골 북부, 아무르, 우수리, 사할린 북부 등지에서 번식하고 일본과 한국 중부 이남을 지나간다.",
+  "points": [
+    {
+      "ko": "진한 다홍색 이마와 머리꼭대기",
+      "en": "deep scarlet forehead and crown"
+    },
+    {
+      "ko": "붉은 갈색 귀깃",
+      "en": "reddish-brown ear coverts"
+    },
+    {
+      "ko": "굵고 둥그스름한 원뿔형 부리",
+      "en": "stout, slightly rounded conical bill"
+    },
+    {
+      "ko": "선명한 장미색 뺨·멱·윗가슴",
+      "en": "vivid rose-red cheeks, throat and upper breast"
+    },
+    {
+      "ko": "아래로 갈수록 옅어지는 장미색 배",
+      "en": "rose underparts fading to dirty white undertail coverts"
+    },
+    {
+      "ko": "갈색 다리",
+      "en": "brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Rosefinch (Carpodacus erythrinus), adult male: deep scarlet forehead to hindcrown with narrow brown fringes, brown lores, reddish-brown ear coverts, vivid rose-red cheeks, throat and upper breast, rose underparts fading to dirty white undertail coverts, stout conical greyish-brown bill with paler lower mandible, brown iris and legs",
+    "pose": "perched on a willow branch, side view",
+    "scene": "Korean spring migration: shrubby waterside and willow thicket at the edge of a wetland; no people, buildings or text",
+    "views": [
+      "adult male winter, side view perched: deep scarlet crown, reddish-brown ear coverts, vivid rose-red cheeks, throat and upper breast, rose underparts fading to dirty white, greyish-brown conical bill",
+      "adult male summer (worn), side view perched: dark brown upperparts, underparts with dirty white ground colour"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은양진이",
+      "url": "https://species.nibr.go.kr/species-detail/120000002198",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은양진이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002198",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "월동지를 '사할린 중부·동부'라 했으나 번식지(사할린 북부)와 거의 겹쳐 사실로 보기 어렵다. summary 에 싣지 않았다."
+  ]
+}

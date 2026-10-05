@@ -1,0 +1,65 @@
+{
+  "id": "circus-cyaneus",
+  "ko": "잿빛개구리매",
+  "sci": "Circus cyaneus",
+  "author": "Linnaeus, 1766",
+  "en": "Hen Harrier",
+  "ktsn": 120000001599,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "적은 수가 찾아오는 겨울철새",
+  "habitat": "습지, 농경지",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국에서 관찰되지만 찾아오는 수는 적은 겨울철새다. 습지와 농경지에서 홀로 지내며 주로 설치류와 새를 잡아먹는다. 세계적으로 펼쳐지는 조류 보호 운동에 힘입어 수가 차츰 늘고 있다.",
+  "points": [
+    {
+      "ko": "밝은 회색 몸(수컷)",
+      "en": "pale grey overall (male)"
+    },
+    {
+      "ko": "갈색 몸(암컷)",
+      "en": "brown overall (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "밝은 회색을 띤다.",
+    "female": "전체적으로 갈색을 띤다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Hen Harrier (Circus cyaneus), adult male: pale grey overall",
+    "pose": "flying low over a field, searching for prey",
+    "scene": "Korean winter farmland: harvested rice fields beside a marsh; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: pale grey overall",
+      "adult female, side view perched: brown overall"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 잿빛개구리매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001599",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 잿빛개구리매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001599",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

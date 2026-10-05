@@ -1,0 +1,74 @@
+{
+  "id": "arenaria-interpres",
+  "ko": "꼬까도요",
+  "sci": "Arenaria interpres",
+  "author": "Linnaeus, 1758",
+  "en": "Ruddy Turnstone",
+  "ktsn": 120000001727,
+  "origin": "nibr",
+  "length": "22cm",
+  "status": "흔한 나그네새",
+  "habitat": "바닷가 암초, 간석지, 농경지, 해안의 자갈밭·모래밭, 해안 간척지, 하구 삼각주",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 6월 하순~7월 하순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 흔히 지나가는 나그네새로, 바닷가 암초와 갯벌, 농경지에서 지낸다. 해안의 자갈밭·모래밭, 바다 위 암초, 해안 간척지, 하구 삼각주 등에 내려앉는다. 갑각류, 작은 물고기, 곤충, 거미, 지렁이와 벼 따위를 먹는다. 유라시아 대륙 북부와 북아메리카 북부의 툰드라에서 번식해 암초 선반이나 모래밭, 풀밭의 오목한 곳에 풀로 둥지를 짓고 한배에 알 3~4개를 낳으며, 아프리카·남아시아·호주·중남미에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 무늬가 섞인 검은 머리",
+      "en": "black head with white brow, lores, forehead, chin and throat"
+    },
+    {
+      "ko": "목과 가슴의 넓은 검은 띠",
+      "en": "broad black band across neck and breast"
+    },
+    {
+      "ko": "검은 얼룩이 있는 적갈색 등(여름깃)",
+      "en": "rufous back blotched with black (breeding)"
+    },
+    {
+      "ko": "흰 아랫면과 검은 꼬리",
+      "en": "white underparts and black tail"
+    },
+    {
+      "ko": "땅딸막한 몸과 짧은 주황색 다리",
+      "en": "stocky build with short orange legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ruddy Turnstone (Arenaria interpres), adult breeding: stocky build, black head with white brow, lores, forehead, chin and throat, broad black band across neck and breast, rufous back blotched with black, white underparts, black tail, short orange legs",
+    "pose": "foraging among rocks at the tide line, side view",
+    "scene": "Korean rocky coast during spring migration: wave-washed reef beside a sandy and gravelly shore; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: black-and-white head, broad black breast band, rufous back with black blotches, white underparts, short orange legs",
+      "adult, head and breast detail: black head with white brow, lores, forehead, chin and throat, broad black breast band"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꼬까도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001727",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꼬까도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001727",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "podiceps-nigricollis",
+  "ko": "검은목논병아리",
+  "sci": "Podiceps nigricollis",
+  "author": "C.L.Brehm, 1831",
+  "en": "Black-necked Grebe",
+  "ktsn": 120000001506,
+  "origin": "nibr",
+  "length": "약 31cm",
+  "status": "비교적 흔한 겨울철새",
+  "habitat": "강 하류, 해안 호수",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국에서 볼 수 있는 비교적 흔한 겨울철새로, 강 하류나 해안 호수에서 무리 지어 지낸다. 종종 수십 마리가 무리를 이루어 잇달아 물속으로 잠수하며 어류, 갑각류, 복족류, 곤충을 잡아먹는다. 유럽에서 카자흐스탄, 중국 동북부에서 우수리, 북아메리카 중부, 아프리카 동부 등지에서 번식하고, 유럽, 중동, 동아시아, 중남미, 아프리카 남부에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "볼록 솟은 정수리",
+      "en": "peaked crown"
+    },
+    {
+      "ko": "붉은 눈",
+      "en": "red eye"
+    },
+    {
+      "ko": "위로 휜 검은 부리",
+      "en": "black upturned bill"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-necked Grebe (Podiceps nigricollis), adult: peaked crown, red eye, black upturned bill",
+    "pose": "swimming in a loose flock on open water, one bird diving",
+    "scene": "Korean winter river mouth with a wide, calm channel near the coast; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: peaked crown, red eye, black upturned bill",
+      "adult, head detail: peaked crown, red eye and upturned black bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은목논병아리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001506",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은목논병아리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001506",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

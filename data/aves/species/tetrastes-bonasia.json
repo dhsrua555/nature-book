@@ -1,0 +1,79 @@
+{
+  "id": "tetrastes-bonasia",
+  "ko": "들꿩",
+  "sci": "Tetrastes bonasia",
+  "author": "Linnaeus, 1758",
+  "en": "Hazel Grouse",
+  "ktsn": 120000001403,
+  "origin": "nibr",
+  "length": "36cm",
+  "status": "흔한 텃새",
+  "habitat": "우거진 숲",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6
+    ],
+    "note": "산란기는 5~6월이다."
+  },
+  "summary": "우거진 숲에 사는 흔한 텃새로, 제주도와 울릉도를 뺀 한반도 전역에서 산다. 숲속에 쓰러진 나무 밑, 관목 뿌리 아래의 땅 위에서 번식한다. 땅 위를 걸어 다니며 먹이를 찾고, 놀라면 푸드덕거리며 날아올라 나뭇가지에 내려앉는다. 국외에서는 유라시아 북부에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷의 턱밑~멱 검은 반점",
+      "en": "male: black patch from chin to throat"
+    },
+    {
+      "ko": "얼룩무늬가 있는 갈색 몸",
+      "en": "brown plumage mottled all over"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "턱밑에서 멱까지 검은 반점이 있다.",
+    "female": "대체로 수컷과 비슷하나 턱밑과 멱의 검은 반점이 없다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Hazel Grouse (Tetrastes bonasia), adult male: brown plumage mottled all over, black patch from chin to throat",
+    "pose": "walking on the forest floor, searching the ground for food",
+    "scene": "dense Korean forest: a fallen tree and shrub roots on the shaded forest floor; no people, buildings or text",
+    "views": [
+      "adult male, side view walking: brown mottled plumage, black patch from chin to throat",
+      "adult female, side view walking: brown mottled plumage without the black throat patch"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 들꿩",
+      "url": "https://species.nibr.go.kr/species-detail/120000001403",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 들꿩",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001403",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

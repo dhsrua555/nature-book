@@ -1,0 +1,79 @@
+{
+  "id": "bucephala-clangula",
+  "ko": "흰뺨오리",
+  "sci": "Bucephala clangula",
+  "author": "Linnaeus, 1758",
+  "en": "Common Goldeneye",
+  "ktsn": 120000001467,
+  "origin": "nibr",
+  "length": "약 45cm",
+  "status": "흔한 겨울철새",
+  "habitat": "하구, 호수, 하천, 습지",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "전국의 습지에서 흔히 겨울을 나는 겨울철새로, 하구와 호수, 하천에서 작은 무리를 짓는다. 잠수해 갑각류, 연체동물, 물고기, 수초 등을 먹는다. 번식기에는 호수나 습지 둘레의 숲에서 지내며 바위틈보다 숲속에서 번식하는 일이 잦고, 한배에 알 6~15개를 낳아 암컷이 27~32일 동안 품는다. 유라시아 대륙과 북미 대륙 북부에서 번식하고 유럽, 페르시아만, 캄차카에서 중국 동부, 한국, 일본, 알래스카에서 미국 중부에 걸쳐 월동한다.",
+  "points": [
+    {
+      "ko": "수컷의 청록색 머리와 노란 눈",
+      "en": "male: blue-green head and yellow eye"
+    },
+    {
+      "ko": "수컷 눈 아래 뺨의 흰 점",
+      "en": "male: white spot on the cheek below the eye"
+    },
+    {
+      "ko": "암컷 검은 부리 끝의 노란 반점",
+      "en": "female: yellow spot at the tip of the black bill"
+    },
+    {
+      "ko": "암컷의 갈색 머리와 흰 목테",
+      "en": "female: dark brown head set off by a white collar"
+    },
+    {
+      "ko": "수컷의 흰 몸과 검은 등",
+      "en": "male: white body with a black back"
+    },
+    {
+      "ko": "날 때 보이는 날개 안쪽의 흰색",
+      "en": "white inner wing visible in flight"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸은 희고 머리는 청록색이며, 노란 눈 아래 뺨에 흰 점이 있고 부리와 등은 검다.",
+    "female": "어두운 갈색 머리와 회색 몸을 흰 목테가 뚜렷이 가르며, 검은 부리 끝에 노란 반점이 있다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Common Goldeneye (Bucephala clangula), adult male: white body, blue-green head, yellow eye with a white spot on the cheek below it, black back and bill",
+    "pose": "swimming on open water in a small flock, about to dive",
+    "scene": "Korean winter estuary with calm open water; no people, buildings or text",
+    "views": [
+      "adult male, side view swimming: blue-green head, yellow eye, white cheek spot below the eye, white body, black back and bill",
+      "adult female, side view swimming: dark brown head, white collar, grey body, black bill with a yellow spot at the tip",
+      "adult in flight, upperside: white inner wing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰뺨오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001467",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰뺨오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001467",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

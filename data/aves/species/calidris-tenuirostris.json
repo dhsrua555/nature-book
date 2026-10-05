@@ -1,0 +1,81 @@
+{
+  "id": "calidris-tenuirostris",
+  "ko": "붉은어깨도요",
+  "sci": "Calidris tenuirostris",
+  "author": "Horsfield, 1821",
+  "en": "Great Knot",
+  "ktsn": 120000001729,
+  "origin": "nibr",
+  "length": "28cm",
+  "status": "비교적 흔한 나그네새",
+  "habitat": "갯벌, 하구, 염전",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 국내를 지나간다."
+  },
+  "summary": "봄과 가을에 국내를 비교적 흔하게 지나가는 나그네새로, 전국의 갯벌·하구·염전에서 보인다. 대개 무리를 지어 움직이고 혼자 지내는 일은 거의 없으며, 갯지렁이·조개·갑각류를 먹는다. 산악 암석지의 이끼 낀 오목한 곳에 둥지를 틀고 한배에 알 4개를 낳는다. 예전에는 서해안 갯벌에 아주 많은 수가 들렀으나 최근 크게 줄었고, 세계 집단이 290,000여 개체로 추정되지만 서식지 파괴로 감소가 심각해 세계자연보전연맹 적색목록에 취약종(VU)으로 올라 있다.",
+  "points": [
+    {
+      "ko": "머리보다 긴 부리",
+      "en": "bill longer than the head"
+    },
+    {
+      "ko": "목·턱 밑·멱의 작은 검은 무늬",
+      "en": "small black spots on neck, chin and throat"
+    },
+    {
+      "ko": "흑갈색 윗면, 여름깃 어깨의 적갈색 무늬",
+      "en": "blackish-brown upperparts with rufous scapular markings in breeding plumage"
+    },
+    {
+      "ko": "가슴과 옆구리의 검은 반점",
+      "en": "black spots on breast and flanks"
+    },
+    {
+      "ko": "날 때 뚜렷한 흰 허리",
+      "en": "conspicuous white rump in flight"
+    },
+    {
+      "ko": "겨울깃의 회색 윗면",
+      "en": "grey upperparts in winter"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Great Knot (Calidris tenuirostris), adult breeding: bill longer than the head, blackish-brown upperparts with rufous scapular markings, small black spots on neck, chin and throat, black spots on breast and flanks",
+    "pose": "feeding in a dense flock on wet mudflat, probing for worms and shellfish",
+    "scene": "Korean west-coast tidal flat during spring migration, wide wet mud with shallow channels; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: long bill, blackish-brown upperparts with rufous scapulars, black spots on breast and flanks",
+      "adult winter, side view standing: grey upperparts",
+      "adult in flight: conspicuous white rump"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은어깨도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001729",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은어깨도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001729",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

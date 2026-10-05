@@ -1,0 +1,84 @@
+{
+  "id": "circus-spilonotus",
+  "ko": "개구리매",
+  "sci": "Circus spilonotus",
+  "author": "Kaup, 1847",
+  "en": "Eastern Marsh Harrier",
+  "ktsn": 120000001598,
+  "origin": "nibr",
+  "length": "47–55cm",
+  "status": "겨울철새",
+  "habitat": "저습지, 호숫가, 갈대밭, 논, 초지",
+  "protect": [
+    "천연기념물"
+  ],
+  "months": {
+    "seen": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "9월부터 이듬해 5월까지 찾아온다."
+  },
+  "summary": "9월부터 이듬해 5월까지 여러 곳에 찾아와 겨울을 나며, 해마다 규칙적으로 오지는 않지만 천수만, 낙동강 하구, 해남 간척지에서는 비교적 꾸준히 관찰된다. 저습지, 호숫가, 넓은 갈대밭 같은 습지와 논, 풀밭 등 트인 땅에 살면서 물고기, 뱀, 개구리, 물새, 설치류 등을 잡아먹고, 갈대밭 같은 습지의 땅 위에 둥지를 튼다. 시베리아 동남부, 몽골, 우수리, 사할린에서 중국 동북부와 일본 북부까지 분포하며 한국, 일본 남부, 중국 남부, 동남아 등지에서 겨울을 난다. 몸무게는 370~780g이다.",
+  "points": [
+    {
+      "ko": "줄무늬가 있는 머리(암컷)",
+      "en": "streaked head (female)"
+    },
+    {
+      "ko": "짙은 회갈색 윗면(수컷)",
+      "en": "dark grey-brown upperparts (male)"
+    },
+    {
+      "ko": "밝은 갈색 몸(암컷)",
+      "en": "pale brown body (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "몸 윗면이 짙은 회갈색이다.",
+    "female": "줄무늬가 있는 머리를 빼면 온몸이 밝은 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "잿빛개구리매",
+      "how": "비슷한 곳에 찾아오지만 무리가 더 작고, 어느 지역에서나 관찰되는 수가 더 적다."
+    }
+  ],
+  "art": {
+    "subject": "Eastern Marsh Harrier (Circus spilonotus), adult male: dark grey-brown upperparts",
+    "pose": "gliding low over a reed bed, searching for prey",
+    "scene": "Korean winter wetland: wide reed beds beside a lake and open reclaimed farmland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: dark grey-brown upperparts",
+      "adult female, side view perched: pale brown overall with a streaked head"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 개구리매",
+      "url": "https://species.nibr.go.kr/species-detail/120000001598",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 개구리매",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001598",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

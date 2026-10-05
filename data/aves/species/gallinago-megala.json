@@ -1,0 +1,78 @@
+{
+  "id": "gallinago-megala",
+  "ko": "꺅도요사촌",
+  "sci": "Gallinago megala",
+  "author": "Swinhoe, 1861",
+  "en": "Swinhoe's Snipe",
+  "ktsn": 120000001698,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "나그네새",
+  "habitat": "논, 호수 습지의 갈대밭, 풀밭",
+  "protect": [],
+  "months": {
+    "seen": [
+      4,
+      10
+    ],
+    "breed": [],
+    "note": "4월과 10월에 지나가며, 번식지의 산란기는 5월 하순쯤이다."
+  },
+  "summary": "4월과 10월에 우리나라를 지나가는 나그네새로, 논이나 호수 습지의 갈대밭, 풀밭에서 지낸다. 홀로 또는 2~3마리의 작은 무리로 다닌다. 연체동물, 모족류, 곤충, 갑각류, 물고기와 식물 열매를 먹는다. 땅 위에 접시 모양 둥지를 짓고 알 4개를 낳는다.",
+  "points": [
+    {
+      "ko": "꼬리깃 20장",
+      "en": "20 tail feathers"
+    },
+    {
+      "ko": "바늘꼬리인 바깥쪽 5~7장",
+      "en": "outer 5–7 tail feathers pin-like"
+    },
+    {
+      "ko": "끝에 가로무늬 2개가 있는 바깥꼬리깃",
+      "en": "outer tail feathers with two bars near the tip"
+    },
+    {
+      "ko": "끝에 넓은 붉은 갈색 띠가 있는 가운데 꼬리깃",
+      "en": "broad central tail feathers with a wide rufous-brown tip band"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "바늘꼬리도요",
+      "how": "바깥꼬리깃이 그리 가늘지 않고 끝에 가로무늬가 2개 있다. 꼬리깃이 20장이고 바깥 5~7장만 바늘꼬리이며, 가운데 5~6장은 폭이 넓고 끝에 넓은 붉은 갈색 띠가 있다."
+    }
+  ],
+  "art": {
+    "subject": "Swinhoe's Snipe (Gallinago megala), adult: 20 tail feathers, the outer 5–7 pin-like but not very narrow and with two bars near the tip, the central 5–6 broad with a wide rufous-brown band at the tip",
+    "pose": "standing in reeds at the edge of a marsh, side view",
+    "scene": "Korean rice fields beside a reedy lake marsh in April or October; no people, buildings or text",
+    "views": [
+      "tail detail, spread: 20 feathers, outer 5–7 pin-like with two bars near the tip, broad central feathers with a wide rufous-brown tip band",
+      "adult, side view standing in grass with the tail slightly fanned to show the rufous-brown tip band"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 꺅도요사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000001698",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 꺅도요사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001698",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

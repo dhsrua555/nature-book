@@ -1,0 +1,82 @@
+{
+  "id": "lyrurus-tetrix",
+  "ko": "멧닭",
+  "sci": "Lyrurus tetrix",
+  "author": "Linnaeus, 1758",
+  "en": "Black Grouse",
+  "ktsn": 120000001405,
+  "origin": "nibr",
+  "length": "수컷 약 54cm, 암컷 약 41cm",
+  "status": "TODO",
+  "habitat": "백두산 고산 지대",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "국내에서는 백두산의 고산 지대에서만 사는 새다. 이곳의 아종 usuriensis 는 우수리와 중국 동북 지방 등지에도 분포하며, 종 전체로는 북유럽과 북아시아 등지에 산다.",
+  "points": [
+    {
+      "ko": "눈 위의 붉은 혹 모양 볏",
+      "en": "red fleshy comb above the eye"
+    },
+    {
+      "ko": "푸른 광택의 검은 머리·목(수컷)",
+      "en": "male: glossy blue-black head and neck"
+    },
+    {
+      "ko": "날개의 흰 띠",
+      "en": "white wing bar"
+    },
+    {
+      "ko": "기부와 끝이 흰 둘째날개깃",
+      "en": "secondaries white at the base and tip"
+    },
+    {
+      "ko": "검은 가로무늬의 암갈색 배(암컷)",
+      "en": "female: dark brown and grey belly, barred and mottled black"
+    },
+    {
+      "ko": "두 갈래로 갈라진 꼬리",
+      "en": "forked tail"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "온몸이 검고 머리·목·배에 푸른 광택이 있으며, 목둘레와 아래쪽 등, 허리에는 옅은 녹색 빛이 돈다. 날개에 흰 띠가 있고 아랫배와 넓적다리에는 회백색이 섞이며, 날개 아랫덮깃은 희다.",
+    "female": "배는 회색을 띤 암갈색이고 깃털마다 검은 가로무늬와 얼룩무늬가 있다. 몸길이는 수컷보다 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black Grouse (Lyrurus tetrix), adult male: black plumage with blue gloss on the head, neck and belly, faint pale green sheen on the neck ring, lower back and rump, white wing bar, grey-white mixed into the lower belly and thighs, white underwing coverts, red comb above the eye, black bill, forked tail",
+    "pose": "standing on the ground, side view",
+    "scene": "Korean alpine zone high on Mount Baekdu, open high-mountain slopes; no people, buildings or text",
+    "views": [
+      "adult male, side view standing: glossy blue-black plumage, red comb above the eye, white wing bar, black bill, forked tail",
+      "adult female, side view standing: dark brown and grey plumage barred and mottled black",
+      "adult male, in flight from below: white underwing coverts and white wing bar"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 멧닭",
+      "url": "https://species.nibr.go.kr/species-detail/120000001405",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 멧닭",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001405",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문 분포에 북아메리카가 들어 있으나 이 종은 북아메리카에 살지 않는 것으로 보여 summary에서 뺌, 확인 필요",
+    "‘둘째날개깃 기부와 끝은 흰색, 꼬리는 두 갈래’가 암컷 설명 뒤에 붙어 있어 암수 어느 쪽 특징인지 확인 필요"
+  ]
+}

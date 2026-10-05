@@ -1,0 +1,64 @@
+{
+  "id": "dendrocopos-minor",
+  "ko": "쇠오색딱다구리",
+  "sci": "Dendrocopos minor",
+  "author": "Linnaeus, 1758",
+  "en": "Lesser Spotted Woodpecker",
+  "ktsn": 120000001909,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "트인 숲, 잡목 숲, 나무가 있는 초원, 뜰, 과수원",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "트인 숲과 잡목 숲, 나무가 섞인 초원, 뜰, 과수원에서 볼 수 있는 아주 작은 딱다구리로, 날개 길이는 9.2~9.4cm이다. 높은 곳에 둥지를 틀고 먹이도 높은 곳에서 찾으며 조용한 편이라, 날개를 치며 내는 소리로 있는 곳을 알아채는 일이 많다. 가지를 따라 기어오르거나 가지 사이를 날고 빈터는 물결치듯 날아 건너며, 작은 가지 속의 애벌레나 거미 같은 먹이를 찾아 나무 꼭대기까지 오르기도 한다. 섬에서는 번식하지 않으며, 영국 잉글랜드 북부 등지에 분포하고 영국에 사는 딱따구리 3종 가운데 가장 드물다.",
+  "points": [
+    {
+      "ko": "밝은 빨간 정수리(수컷)",
+      "en": "bright red crown (male)"
+    },
+    {
+      "ko": "매우 작은 몸",
+      "en": "very small size"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "정수리가 밝은 빨간색이다.",
+    "female": "수컷과 달리 정수리가 밝은 빨간색이 아니다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Lesser Spotted Woodpecker (Dendrocopos minor), adult male: a very small woodpecker with a bright red crown",
+    "pose": "creeping along a thin branch high in the canopy",
+    "scene": "Korean open woodland with scrub, wooded grassland and an orchard; no people, buildings or text",
+    "views": [
+      "adult male, side view clinging to a thin branch: very small, bright red crown",
+      "adult female, head detail: crown without the male's bright red"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 쇠오색딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001909",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 쇠오색딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001909",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Dryobates minor)"
+    }
+  ],
+  "todo": [
+    "원문이 영국 자료로 보인다: 분포를 '영국, 잉글랜드 북부(요크셔, 랭커셔, 웨일즈)'로만 적고(웨일즈는 잉글랜드 북부가 아님) 국내 상태·분포가 없어 status 를 TODO 로 두었다"
+  ]
+}

@@ -1,0 +1,619 @@
+# IOC World Bird List v15.2 (doi 10.14344/IOC.ML.15.2) 영문명. tools/ref_en.py 가 만듦
+sci	ko	en	ioc_sci	match
+Tetrastes bonasia	들꿩	Hazel Grouse	Tetrastes bonasia	same
+Lyrurus tetrix	멧닭	Black Grouse	Lyrurus tetrix	same
+Coturnix japonica	메추라기	Japanese Quail	Coturnix japonica	same
+Phasianus colchicus	꿩	Common Pheasant	Phasianus colchicus	same
+Anser cygnoides	개리	Swan Goose	Anser cygnoides	same
+Anser fabalis	큰기러기	Taiga Bean Goose	Anser fabalis	same
+Anser anser	회색기러기	Greylag Goose	Anser anser	same
+Anser albifrons	쇠기러기	Greater White-fronted Goose	Anser albifrons	same
+Anser erythropus	흰이마기러기	Lesser White-fronted Goose	Anser erythropus	same
+Anser indicus	줄기러기	Bar-headed Goose	Anser indicus	same
+Anser canagicus	흰머리기러기	Emperor Goose	Anser canagicus	same
+Anser caerulescens	흰기러기	Snow Goose	Anser caerulescens	same
+Branta bernicla	흑기러기	Brant Goose	Branta bernicla	same
+Cygnus olor	혹고니	Mute Swan	Cygnus olor	same
+Cygnus columbianus	고니	Tundra Swan	Cygnus columbianus	same
+Cygnus cygnus	큰고니	Whooper Swan	Cygnus cygnus	same
+Tadorna tadorna	혹부리오리	Common Shelduck	Tadorna tadorna	same
+Tadorna ferruginea	황오리	Ruddy Shelduck	Tadorna ferruginea	same
+Tadorna cristata	원앙사촌	Crested Shelduck	Tadorna cristata	same
+Aix galericulata	원앙	Mandarin Duck	Aix galericulata	same
+Anas rubripes	미국오리	American Black Duck	Anas rubripes	same
+Anas platyrhynchos	청둥오리	Mallard	Anas platyrhynchos	same
+Anas acuta	고방오리	Northern Pintail	Anas acuta	same
+Anas crecca	쇠오리	Eurasian Teal	Anas crecca	same
+Netta rufina	붉은부리흰죽지	Red-crested Pochard	Netta rufina	same
+Aythya valisineria	큰흰죽지	Canvasback	Aythya valisineria	same
+Aythya americana	미국흰죽지	Redhead	Aythya americana	same
+Aythya ferina	흰죽지	Common Pochard	Aythya ferina	same
+Aythya baeri	붉은가슴흰죽지	Baer's Pochard	Aythya baeri	same
+Aythya nyroca	적갈색흰죽지	Ferruginous Duck	Aythya nyroca	same
+Aythya fuligula	댕기흰죽지	Tufted Duck	Aythya fuligula	same
+Aythya marila	검은머리흰죽지	Greater Scaup	Aythya marila	same
+Somateria spectabilis	호사북방오리	King Eider	Somateria spectabilis	same
+Histrionicus histrionicus	흰줄박이오리	Harlequin Duck	Histrionicus histrionicus	same
+Melanitta americana	검둥오리	Black Scoter	Melanitta americana	same
+Clangula hyemalis	바다꿩	Long-tailed Duck	Clangula hyemalis	same
+Bucephala clangula	흰뺨오리	Common Goldeneye	Bucephala clangula	same
+Bucephala islandica	북방흰뺨오리	Barrow's Goldeneye	Bucephala islandica	same
+Mergellus albellus	흰비오리	Smew	Mergellus albellus	same
+Mergus merganser	비오리	Common Merganser	Mergus merganser	same
+Mergus serrator	바다비오리	Red-breasted Merganser	Mergus serrator	same
+Mergus squamatus	호사비오리	Scaly-sided Merganser	Mergus squamatus	same
+Gavia stellata	아비	Red-throated Loon	Gavia stellata	same
+Gavia arctica	큰회색머리아비	Black-throated Loon	Gavia arctica	same
+Gavia pacifica	회색머리아비	Pacific Loon	Gavia pacifica	same
+Gavia adamsii	흰부리아비	Yellow-billed Loon	Gavia adamsii	same
+Phoebastria albatrus	알바트로스	Short-tailed Albatross	Phoebastria albatrus	same
+Pterodroma hypoleuca	흰배슴새	Bonin Petrel	Pterodroma hypoleuca	same
+Calonectris leucomelas	슴새	Streaked Shearwater	Calonectris leucomelas	same
+Bulweria bulwerii	검은슴새	Bulwer's Petrel	Bulweria bulwerii	same
+Tachybaptus ruficollis	논병아리	Little Grebe	Tachybaptus ruficollis	same
+Podiceps grisegena	큰논병아리	Red-necked Grebe	Podiceps grisegena	same
+Podiceps cristatus	뿔논병아리	Great Crested Grebe	Podiceps cristatus	same
+Podiceps auritus	귀뿔논병아리	Horned Grebe	Podiceps auritus	same
+Podiceps nigricollis	검은목논병아리	Black-necked Grebe	Podiceps nigricollis	same
+Ciconia nigra	먹황새	Black Stork	Ciconia nigra	same
+Ciconia boyciana	황새	Oriental Stork	Ciconia boyciana	same
+Threskiornis melanocephalus	검은머리흰따오기	Black-headed Ibis	Threskiornis melanocephalus	same
+Nipponia nippon	따오기	Crested Ibis	Nipponia nippon	same
+Platalea leucorodia	노랑부리저어새	Eurasian Spoonbill	Platalea leucorodia	same
+Platalea minor	저어새	Black-faced Spoonbill	Platalea minor	same
+Botaurus stellaris	알락해오라기	Eurasian Bittern	Botaurus stellaris	same
+Ixobrychus sinensis	덤불해오라기	Yellow Bittern	Botaurus sinensis	stem+year
+Ixobrychus eurhythmus	큰덤불해오라기	Von Schrenck's Bittern	Botaurus eurhythmus	epithet+author
+Ixobrychus cinnamomeus	열대붉은해오라기	Cinnamon Bittern	Botaurus cinnamomeus	stem+year
+Gorsachius goisagi	붉은해오라기	Japanese Night Heron	Gorsachius goisagi	same
+Gorsachius melanolophus	푸른눈테해오라기	Malayan Night Heron	Gorsachius melanolophus	same
+Nycticorax nycticorax	해오라기	Black-crowned Night Heron	Nycticorax nycticorax	same
+Butorides striata	검은댕기해오라기	Striated Heron	Butorides striata	same
+Ardeola bacchus	흰날개해오라기	Chinese Pond Heron	Ardeola bacchus	same
+Bubulcus ibis	황로	Western Cattle Egret	Ardea ibis	epithet+author
+Ardea cinerea	왜가리	Grey Heron	Ardea cinerea	same
+Ardea purpurea	붉은왜가리	Purple Heron	Ardea purpurea	same
+Ardea alba	중대백로	Great Egret	Ardea alba	same
+Egretta garzetta	쇠백로	Little Egret	Egretta garzetta	same
+Egretta sacra	흑로	Pacific Reef Heron	Egretta sacra	same
+Egretta eulophotes	노랑부리백로	Chinese Egret	Egretta eulophotes	same
+Fregata minor	큰군함조	Great Frigatebird	Fregata minor	same
+Fregata ariel	군함조	Lesser Frigatebird	Fregata ariel	same
+Pelecanus onocrotalus	큰사다새	Great White Pelican	Pelecanus onocrotalus	same
+Pelecanus crispus	사다새	Dalmatian Pelican	Pelecanus crispus	same
+Sula dactylatra	푸른얼굴얼가니새	Masked Booby	Sula dactylatra	same
+Sula sula	붉은발얼가니새	Red-footed Booby	Sula sula	same
+Sula leucogaster	갈색얼가니새	Brown Booby	Sula leucogaster	same
+Phalacrocorax carbo	민물가마우지	Great Cormorant	Phalacrocorax carbo	same
+Phalacrocorax capillatus	가마우지	Japanese Cormorant	Phalacrocorax capillatus	same
+Phalacrocorax pelagicus	쇠가마우지	Pelagic Cormorant	Urile pelagicus	stem+year
+Phalacrocorax urile	붉은뺨가마우지	Red-faced Cormorant	Urile urile	stem+year
+Falco tinnunculus	황조롱이	Common Kestrel	Falco tinnunculus	same
+Falco amurensis	비둘기조롱이	Amur Falcon	Falco amurensis	same
+Falco columbarius	쇠황조롱이	Merlin	Falco columbarius	same
+Falco subbuteo	새호리기	Eurasian Hobby	Falco subbuteo	same
+Falco cherrug	헨다손매	Saker Falcon	Falco cherrug	same
+Falco rusticolus	흰매	Gyrfalcon	Falco rusticolus	same
+Falco peregrinus	매	Peregrine Falcon	Falco peregrinus	same
+Pandion haliaetus	물수리	Osprey	Pandion haliaetus	same
+Pernis ptilorhynchus	벌매	Crested Honey Buzzard	Pernis ptilorhynchus	same
+Milvus migrans	솔개	Black Kite	Milvus migrans	same
+Haliaeetus albicilla	흰꼬리수리	White-tailed Eagle	Haliaeetus albicilla	same
+Haliaeetus pelagicus	참수리	Steller's Sea Eagle	Haliaeetus pelagicus	same
+Gypaetus barbatus	수염수리	Bearded Vulture	Gypaetus barbatus	same
+Gyps himalayensis	고산대머리수리	Himalayan Vulture	Gyps himalayensis	same
+Aegypius monachus	독수리	Cinereous Vulture	Aegypius monachus	same
+Spilornis cheela	관수리	Crested Serpent Eagle	Spilornis cheela	same
+Circus spilonotus	개구리매	Eastern Marsh Harrier	Circus spilonotus	same
+Circus cyaneus	잿빛개구리매	Hen Harrier	Circus cyaneus	same
+Circus melanoleucos	알락개구리매	Pied Harrier	Circus melanoleucos	same
+Accipiter soloensis	붉은배새매	Chinese Sparrowhawk	Tachyspiza soloensis	epithet+author
+Accipiter gularis	조롱이	Japanese Sparrowhawk	Tachyspiza gularis	manual
+Accipiter nisus	새매	Eurasian Sparrowhawk	Accipiter nisus	same
+Accipiter gentilis	참매	Eurasian Goshawk	Astur gentilis	epithet+author
+Butastur indicus	왕새매	Grey-faced Buzzard	Butastur indicus	same
+Buteo buteo	대륙말똥가리	Common Buzzard	Buteo buteo	same
+Buteo hemilasius	큰말똥가리	Upland Buzzard	Buteo hemilasius	same
+Buteo lagopus	털발말똥가리	Rough-legged Buzzard	Buteo lagopus	same
+Aquila nipalensis	초원수리	Steppe Eagle	Aquila nipalensis	same
+Aquila heliaca	흰죽지수리	Eastern Imperial Eagle	Aquila heliaca	same
+Aquila chrysaetos	검독수리	Golden Eagle	Aquila chrysaetos	same
+Hieraaetus pennatus	흰점어깨수리	Booted Eagle	Hieraaetus pennatus	same
+Otis tarda	느시	Great Bustard	Otis tarda	same
+Coturnicops exquisitus	알락뜸부기	Swinhoe's Rail	Coturnicops exquisitus	same
+Rallus aquaticus	회색가슴뜸부기	Water Rail	Rallus aquaticus	same
+Amaurornis phoenicurus	흰배뜸부기	White-breasted Waterhen	Amaurornis phoenicurus	same
+Gallicrex cinerea	뜸부기	Watercock	Gallicrex cinerea	same
+Gallinula chloropus	쇠물닭	Common Moorhen	Gallinula chloropus	same
+Fulica atra	물닭	Eurasian Coot	Fulica atra	same
+Grus canadensis	캐나다두루미	Sandhill Crane	Antigone canadensis	stem+year
+Grus vipio	재두루미	White-naped Crane	Antigone vipio	epithet+author
+Grus grus	검은목두루미	Common Crane	Grus grus	same
+Grus monacha	흑두루미	Hooded Crane	Grus monacha	same
+Grus japonensis	두루미	Red-crowned Crane	Grus japonensis	same
+Turnix tanki	세가락메추라기	Yellow-legged Buttonquail	Turnix tanki	same
+Haematopus ostralegus	검은머리물떼새	Eurasian Oystercatcher	Haematopus ostralegus	same
+Himantopus himantopus	장다리물떼새	Black-winged Stilt	Himantopus himantopus	same
+Recurvirostra avosetta	뒷부리장다리물떼새	Pied Avocet	Recurvirostra avosetta	same
+Vanellus vanellus	댕기물떼새	Northern Lapwing	Vanellus vanellus	same
+Vanellus cinereus	민댕기물떼새	Grey-headed Lapwing	Vanellus cinereus	same
+Pluvialis fulva	검은가슴물떼새	Pacific Golden Plover	Pluvialis fulva	same
+Pluvialis squatarola	개꿩	Grey Plover	Pluvialis squatarola	same
+Rostratula benghalensis	호사도요	Greater Painted-snipe	Rostratula benghalensis	same
+Hydrophasianus chirurgus	물꿩	Pheasant-tailed Jacana	Hydrophasianus chirurgus	same
+Scolopax rusticola	멧도요	Eurasian Woodcock	Scolopax rusticola	same
+Lymnocryptes minimus	꼬마도요	Jack Snipe	Lymnocryptes minimus	same
+Gallinago solitaria	청도요	Solitary Snipe	Gallinago solitaria	same
+Gallinago hardwickii	큰꺅도요	Latham's Snipe	Gallinago hardwickii	same
+Gallinago stenura	바늘꼬리도요	Pin-tailed Snipe	Gallinago stenura	same
+Gallinago megala	꺅도요사촌	Swinhoe's Snipe	Gallinago megala	same
+Gallinago gallinago	꺅도요	Common Snipe	Gallinago gallinago	same
+Limnodromus scolopaceus	긴부리도요	Long-billed Dowitcher	Limnodromus scolopaceus	same
+Limnodromus semipalmatus	큰부리도요	Asian Dowitcher	Limnodromus semipalmatus	same
+Numenius minutus	쇠부리도요	Little Curlew	Numenius minutus	same
+Numenius phaeopus	중부리도요	Eurasian Whimbrel	Numenius phaeopus	same
+Numenius arquata	마도요	Eurasian Curlew	Numenius arquata	same
+Numenius madagascariensis	알락꼬리마도요	Far Eastern Curlew	Numenius madagascariensis	same
+Tringa erythropus	학도요	Spotted Redshank	Tringa erythropus	same
+Tringa totanus	붉은발도요	Common Redshank	Tringa totanus	same
+Tringa stagnatilis	쇠청다리도요	Marsh Sandpiper	Tringa stagnatilis	same
+Tringa nebularia	청다리도요	Common Greenshank	Tringa nebularia	same
+Tringa guttifer	청다리도요사촌	Nordmann's Greenshank	Tringa guttifer	same
+Tringa melanoleuca	큰노랑발도요	Greater Yellowlegs	Tringa melanoleuca	same
+Tringa ochropus	삑삑도요	Green Sandpiper	Tringa ochropus	same
+Tringa glareola	알락도요	Wood Sandpiper	Tringa glareola	same
+Xenus cinereus	뒷부리도요	Terek Sandpiper	Xenus cinereus	same
+Actitis hypoleucos	깝작도요	Common Sandpiper	Actitis hypoleucos	same
+Arenaria interpres	꼬까도요	Ruddy Turnstone	Arenaria interpres	same
+Calidris tenuirostris	붉은어깨도요	Great Knot	Calidris tenuirostris	same
+Calidris canutus	붉은가슴도요	Red Knot	Calidris canutus	same
+Calidris alba	세가락도요	Sanderling	Calidris alba	same
+Calidris ruficollis	좀도요	Red-necked Stint	Calidris ruficollis	same
+Calidris minuta	작은도요	Little Stint	Calidris minuta	same
+Calidris temminckii	흰꼬리좀도요	Temminck's Stint	Calidris temminckii	same
+Calidris subminuta	종달도요	Long-toed Stint	Calidris subminuta	same
+Calidris melanotos	아메리카메추라기도요	Pectoral Sandpiper	Calidris melanotos	same
+Calidris acuminata	메추라기도요	Sharp-tailed Sandpiper	Calidris acuminata	same
+Calidris ferruginea	붉은갯도요	Curlew Sandpiper	Calidris ferruginea	same
+Calidris alpina	민물도요	Dunlin	Calidris alpina	same
+Phalaropus tricolor	큰지느러미발도요	Wilson's Phalarope	Phalaropus tricolor	same
+Phalaropus lobatus	지느러미발도요	Red-necked Phalarope	Phalaropus lobatus	same
+Phalaropus fulicarius	붉은배지느러미발도요	Red Phalarope	Phalaropus fulicarius	same
+Glareola maldivarum	제비물떼새	Oriental Pratincole	Glareola maldivarum	same
+Larus crassirostris	괭이갈매기	Black-tailed Gull	Larus crassirostris	same
+Larus canus	갈매기	Common Gull	Larus canus	same
+Larus glaucescens	수리갈매기	Glaucous-winged Gull	Larus glaucescens	same
+Larus hyperboreus	흰갈매기	Glaucous Gull	Larus hyperboreus	same
+Larus glaucoides	작은흰갈매기	Iceland Gull	Larus glaucoides	same
+Larus smithsonianus	옅은재갈매기	American Herring Gull	Larus smithsonianus	same
+Larus heuglini	줄무늬노랑발갈매기	Lesser Black-backed Gull (heuglini)	Larus fuscus heuglini	manual
+Larus schistisagus	큰재갈매기	Slaty-backed Gull	Larus schistisagus	same
+Pagophila eburnea	북극흰갈매기	Ivory Gull	Pagophila eburnea	same
+Xema sabini	목테갈매기	Sabine's Gull	Xema sabini	same
+Rissa tridactyla	세가락갈매기	Black-legged Kittiwake	Rissa tridactyla	same
+Sterna dougallii	긴꼬리제비갈매기	Roseate Tern	Sterna dougallii	same
+Sterna hirundo	제비갈매기	Common Tern	Sterna hirundo	same
+Chlidonias hybrida	구레나룻제비갈매기	Whiskered Tern	Chlidonias hybrida	same
+Chlidonias leucopterus	흰죽지제비갈매기	White-winged Tern	Chlidonias leucopterus	same
+Chlidonias niger	검은제비갈매기	Black Tern	Chlidonias niger	same
+Stercorarius maccormicki	남극도둑갈매기	South Polar Skua	Stercorarius maccormicki	same
+Stercorarius pomarinus	넓적꼬리도둑갈매기	Pomarine Jaeger	Stercorarius pomarinus	same
+Stercorarius parasiticus	북극도둑갈매기	Parasitic Jaeger	Stercorarius parasiticus	same
+Stercorarius longicaudus	긴꼬리도둑갈매기	Long-tailed Jaeger	Stercorarius longicaudus	same
+Uria lomvia	큰부리바다오리	Thick-billed Murre	Uria lomvia	same
+Uria aalge	바다오리	Common Murre	Uria aalge	same
+Brachyramphus perdix	알락쇠오리	Long-billed Murrelet	Brachyramphus perdix	same
+Synthliboramphus antiquus	바다쇠오리	Ancient Murrelet	Synthliboramphus antiquus	same
+Synthliboramphus wumizusume	뿔쇠오리	Japanese Murrelet	Synthliboramphus wumizusume	same
+Aethia pusilla	작은바다오리	Least Auklet	Aethia pusilla	same
+Cerorhinca monocerata	흰수염바다오리	Rhinoceros Auklet	Cerorhinca monocerata	same
+Syrrhaptes paradoxus	사막꿩	Pallas's Sandgrouse	Syrrhaptes paradoxus	same
+Columba rupestris	낭비둘기	Hill Pigeon	Columba rupestris	same
+Columba oenas	분홍가슴비둘기	Stock Dove	Columba oenas	same
+Columba janthina	흑비둘기	Black Wood Pigeon	Columba janthina	same
+Streptopelia decaocto	염주비둘기	Eurasian Collared Dove	Streptopelia decaocto	same
+Streptopelia tranquebarica	홍비둘기	Red Collared Dove	Streptopelia tranquebarica	same
+Streptopelia chinensis	목점박이비둘기	Spotted Dove	Spilopelia chinensis	stem+year
+Treron sieboldii	녹색비둘기	White-bellied Green Pigeon	Treron sieboldii	same
+Clamator coromandus	밤색날개뻐꾸기	Chestnut-winged Cuckoo	Clamator coromandus	same
+Cuculus micropterus	검은등뻐꾸기	Indian Cuckoo	Cuculus micropterus	same
+Cuculus canorus	뻐꾸기	Common Cuckoo	Cuculus canorus	same
+Cuculus poliocephalus	두견	Lesser Cuckoo	Cuculus poliocephalus	same
+Surniculus lugubris	검은두견이	Square-tailed Drongo-Cuckoo	Surniculus lugubris	same
+Eudynamys scolopacea	검은뻐꾸기	Asian Koel	Eudynamys scolopaceus	stem+year
+Centropus bengalensis	작은뻐꾸기사촌	Lesser Coucal	Centropus bengalensis	same
+Otus bakkamoena	큰소쩍새	Indian Scops Owl	Otus bakkamoena	same
+Otus sunia	소쩍새	Oriental Scops Owl	Otus sunia	same
+Bubo bubo	수리부엉이	Eurasian Eagle-Owl	Bubo bubo	same
+Strix aluco	올빼미	Tawny Owl	Strix aluco	same
+Strix uralensis	긴점박이올빼미	Ural Owl	Strix uralensis	same
+Surnia ulula	긴꼬리올빼미	Northern Hawk-Owl	Surnia ulula	same
+Athene noctua	금눈쇠올빼미	Little Owl	Athene noctua	same
+Ninox scutulata	솔부엉이	Brown Boobook	Ninox scutulata	same
+Asio otus	칡부엉이	Long-eared Owl	Asio otus	same
+Asio flammeus	쇠부엉이	Short-eared Owl	Asio flammeus	same
+Aerodramus brevirostris	작은칼새	Himalayan Swiftlet	Aerodramus brevirostris	same
+Hirundapus caudacutus	바늘꼬리칼새	White-throated Needletail	Hirundapus caudacutus	same
+Apus pacificus	칼새	Pacific Swift	Apus pacificus	same
+Apus nipalensis	쇠칼새	House Swift	Apus nipalensis	same
+Eurystomus orientalis	파랑새	Oriental Dollarbird	Eurystomus orientalis	same
+Halcyon coromanda	호반새	Ruddy Kingfisher	Halcyon coromanda	same
+Halcyon pileata	청호반새	Black-capped Kingfisher	Halcyon pileata	same
+Alcedo atthis	물총새	Common Kingfisher	Alcedo atthis	same
+Megaceryle lugubris	뿔호반새	Crested Kingfisher	Megaceryle lugubris	same
+Upupa epops	후투티	Common Hoopoe	Upupa epops	same
+Jynx torquilla	개미잡이	Eurasian Wryneck	Jynx torquilla	same
+Dendrocopos kizuki	쇠딱다구리	Japanese Pygmy Woodpecker	Yungipicus kizuki	epithet+author
+Dendrocopos canicapillus	아물쇠딱다구리	Grey-capped Pygmy Woodpecker	Yungipicus canicapillus	epithet+author
+Dendrocopos minor	쇠오색딱다구리	Lesser Spotted Woodpecker	Dryobates minor	epithet+author
+Dendrocopos leucotos	큰오색딱다구리	White-backed Woodpecker	Dendrocopos leucotos	same
+Dendrocopos major	오색딱다구리	Great Spotted Woodpecker	Dendrocopos major	same
+Picoides tridactylus	세가락딱다구리	Eurasian Three-toed Woodpecker	Picoides tridactylus	same
+Dryocopus javensis	크낙새	White-bellied Woodpecker	Dryocopus javensis	same
+Dryocopus martius	까막딱다구리	Black Woodpecker	Dryocopus martius	same
+Picus canus	청딱다구리	Grey-headed Woodpecker	Picus canus	same
+Pitta nympha	팔색조	Fairy Pitta	Pitta nympha	same
+Pitta moluccensis	푸른날개팔색조	Blue-winged Pitta	Pitta moluccensis	same
+Artamus fuscus	회색숲제비	Ashy Woodswallow	Artamus fuscus	same
+Pericrocotus divaricatus	할미새사촌	Ashy Minivet	Pericrocotus divaricatus	same
+Lanius tigrinus	칡때까치	Tiger Shrike	Lanius tigrinus	same
+Lanius bucephalus	때까치	Bull-headed Shrike	Lanius bucephalus	same
+Lanius cristatus	노랑때까치	Brown Shrike	Lanius cristatus	same
+Lanius collurio	붉은등때까치	Red-backed Shrike	Lanius collurio	same
+Lanius schach	긴꼬리때까치	Long-tailed Shrike	Lanius schach	same
+Lanius sphenocercus	물때까치	Chinese Grey Shrike	Lanius sphenocercus	same
+Oriolus chinensis	꾀꼬리	Black-naped Oriole	Oriolus chinensis	same
+Dicrurus macrocercus	검은바람까마귀	Black Drongo	Dicrurus macrocercus	same
+Dicrurus leucophaeus	회색바람까마귀	Ashy Drongo	Dicrurus leucophaeus	same
+Dicrurus hottentottus	바람까마귀	Hair-crested Drongo	Dicrurus hottentottus	same
+Terpsiphone paradisi	북방긴꼬리딱새	Indian Paradise Flycatcher	Terpsiphone paradisi	same
+Terpsiphone atrocaudata	긴꼬리딱새	Black Paradise Flycatcher	Terpsiphone atrocaudata	same
+Garrulus glandarius	어치	Eurasian Jay	Garrulus glandarius	same
+Cyanopica cyanus	물까치	Azure-winged Magpie	Cyanopica cyanus	same
+Nucifraga caryocatactes	잣까마귀	Northern Nutcracker	Nucifraga caryocatactes	same
+Pyrrhocorax pyrrhocorax	붉은부리까마귀	Red-billed Chough	Pyrrhocorax pyrrhocorax	same
+Corvus dauuricus	갈까마귀	Daurian Jackdaw	Coloeus dauuricus	epithet+author
+Corvus frugilegus	떼까마귀	Rook	Corvus frugilegus	same
+Corvus corone	까마귀	Carrion Crow	Corvus corone	same
+Corvus macrorhynchos	큰부리까마귀	Large-billed Crow	Corvus macrorhynchos	same
+Corvus corax	큰까마귀	Northern Raven	Corvus corax	same
+Bombycilla garrulus	황여새	Bohemian Waxwing	Bombycilla garrulus	same
+Bombycilla japonica	홍여새	Japanese Waxwing	Bombycilla japonica	same
+Parus major	노랑배박새	Great Tit	Parus major	same
+Remiz pendulinus	스윈호오목눈이	Eurasian Penduline Tit	Remiz pendulinus	same
+Riparia riparia	갈색제비	Sand Martin	Riparia riparia	same
+Hirundo rustica	제비	Barn Swallow	Hirundo rustica	same
+Ptyonoprogne rupestris	바위산제비	Eurasian Crag Martin	Ptyonoprogne rupestris	same
+Delichon dasypus	흰털발제비	Asian House Martin	Delichon dasypus	same
+Cecropis daurica	귀제비	Eastern Red-rumped Swallow	Cecropis daurica	same
+Aegithalos caudatus	오목눈이	Long-tailed Tit	Aegithalos caudatus	same
+Calandrella brachydactyla	쇠종다리	Greater Short-toed Lark	Calandrella brachydactyla	same
+Galerida cristata	뿔종다리	Crested Lark	Galerida cristata	same
+Eremophila alpestris	해변종다리	Horned Lark	Eremophila alpestris	same
+Cisticola juncidis	개개비사촌	Zitting Cisticola	Cisticola juncidis	same
+Rhopophilus pekinensis	꼬리치레	Beijing Babbler	Rhopophilus pekinensis	same
+Pycnonotus sinensis	검은이마직박구리	Light-vented Bulbul	Pycnonotus sinensis	same
+Megalurus pryeri	큰개개비	Marsh Grassbird	Helopsaltes pryeri	epithet+author
+Urosphena squameiceps	숲새	Asian Stubtail	Urosphena squameiceps	same
+Locustella lanceolata	쥐발귀개개비	Lanceolated Warbler	Locustella lanceolata	same
+Locustella certhiola	북방개개비	Pallas's Grasshopper Warbler	Helopsaltes certhiola	epithet+author
+Locustella ochotensis	알락꼬리쥐발귀	Middendorff's Grasshopper Warbler	Helopsaltes ochotensis	epithet+author
+Locustella pleskei	섬개개비	Styan's Grasshopper Warbler	Helopsaltes pleskei	epithet+author
+Locustella fasciolata	붉은허리개개비	Gray's Grasshopper Warbler	Helopsaltes fasciolatus	manual
+Phylloscopus trochilus	연노랑솔새	Willow Warbler	Phylloscopus trochilus	same
+Phylloscopus collybita	검은다리솔새	Common Chiffchaff	Phylloscopus collybita	same
+Phylloscopus fuscatus	솔새사촌	Dusky Warbler	Phylloscopus fuscatus	same
+Phylloscopus affinis	노랑배솔새사촌	Tickell's Leaf Warbler	Phylloscopus affinis	same
+Phylloscopus schwarzi	긴다리솔새사촌	Radde's Warbler	Phylloscopus schwarzi	same
+Phylloscopus proregulus	노랑허리솔새	Pallas's Leaf Warbler	Phylloscopus proregulus	same
+Phylloscopus inornatus	노랑눈썹솔새	Yellow-browed Warbler	Phylloscopus inornatus	same
+Phylloscopus humei	연노랑눈썹솔새	Hume's Leaf Warbler	Phylloscopus humei	same
+Phylloscopus borealis	쇠솔새	Arctic Warbler	Phylloscopus borealis	same
+Phylloscopus plumbeitarsus	버들솔새	Two-barred Warbler	Phylloscopus plumbeitarsus	same
+Phylloscopus tenellipes	되솔새	Pale-legged Leaf Warbler	Phylloscopus tenellipes	same
+Phylloscopus borealoides	사할린되솔새	Sakhalin Leaf Warbler	Phylloscopus borealoides	same
+Phylloscopus coronatus	산솔새	Eastern Crowned Warbler	Phylloscopus coronatus	same
+Panurus biarmicus	수염오목눈이	Bearded Reedling	Panurus biarmicus	same
+Regulus regulus	상모솔새	Goldcrest	Regulus regulus	same
+Troglodytes troglodytes	굴뚝새	Eurasian Wren	Troglodytes troglodytes	same
+Sitta europaea	동고비	Eurasian Nuthatch	Sitta europaea	same
+Sitta villosa	쇠동고비	Chinese Nuthatch	Sitta villosa	same
+Certhia familiaris	나무발발이	Eurasian Treecreeper	Certhia familiaris	same
+Sturnus sturninus	북방쇠찌르레기	Daurian Starling	Agropsar sturninus	epithet+author
+Sturnus sinensis	잿빛쇠찌르레기	White-shouldered Starling	Sturnia sinensis	stem+year
+Sturnus roseus	분홍찌르레기	Rosy Starling	Pastor roseus	epithet+author
+Sturnus sericeus	붉은부리찌르레기	Red-billed Starling	Spodiopsar sericeus	stem+year
+Sturnus cineraceus	찌르레기	White-cheeked Starling	Spodiopsar cineraceus	epithet+author
+Sturnus vulgaris	흰점찌르레기	Common Starling	Sturnus vulgaris	same
+Zoothera aurea	호랑지빠귀	White's Thrush	Zoothera aurea	same
+Turdus hortulorum	되지빠귀	Grey-backed Thrush	Turdus hortulorum	same
+Turdus cardis	검은지빠귀	Japanese Thrush	Turdus cardis	same
+Turdus obscurus	흰눈썹붉은배지빠귀	Eyebrowed Thrush	Turdus obscurus	same
+Turdus pallidus	흰배지빠귀	Pale Thrush	Turdus pallidus	same
+Turdus chrysolaus	붉은배지빠귀	Brown-headed Thrush	Turdus chrysolaus	same
+Turdus atrogularis	검은목지빠귀	Black-throated Thrush	Turdus atrogularis	same
+Turdus ruficollis	붉은목지빠귀	Red-throated Thrush	Turdus ruficollis	same
+Turdus naumanni	노랑지빠귀	Naumann's Thrush	Turdus naumanni	same
+Turdus eunomus	개똥지빠귀	Dusky Thrush	Turdus eunomus	same
+Turdus iliacus	붉은날개지빠귀	Redwing	Turdus iliacus	same
+Turdus mupinensis	큰점지빠귀	Chinese Thrush	Turdus mupinensis	same
+Erithacus rubecula	꼬까울새	European Robin	Erithacus rubecula	same
+Luscinia svecica	흰눈썹울새	Bluethroat	Luscinia svecica	same
+Phoenicurus ochruros	검은머리딱새	Black Redstart	Phoenicurus ochruros	same
+Phoenicurus auroreus	딱새	Daurian Redstart	Phoenicurus auroreus	same
+Rhyacornis fuliginosa	부채꼬리바위딱새	Plumbeous Water Redstart	Phoenicurus fuliginosus	stem+year
+Chaimarrornis leucocephalus	흰머리바위딱새	White-capped Redstart	Phoenicurus leucocephalus	epithet+author
+Saxicola torquatus	검은딱새	African Stonechat	Saxicola torquatus	same
+Saxicola ferreus	검은뺨딱새	Grey Bush Chat	Saxicola ferreus	same
+Oenanthe isabellina	긴다리사막딱새	Isabelline Wheatear	Oenanthe isabellina	same
+Oenanthe oenanthe	사막딱새	Northern Wheatear	Oenanthe oenanthe	same
+Oenanthe pleschanka	검은등사막딱새	Pied Wheatear	Oenanthe pleschanka	same
+Oenanthe deserti	검은꼬리사막딱새	Desert Wheatear	Oenanthe deserti	same
+Monticola solitarius	바다직박구리	Blue Rock Thrush	Monticola solitarius	same
+Monticola gularis	꼬까직박구리	White-throated Rock Thrush	Monticola gularis	same
+Muscicapa griseisticta	제비딱새	Grey-streaked Flycatcher	Muscicapa griseisticta	same
+Muscicapa sibirica	솔딱새	Dark-sided Flycatcher	Muscicapa sibirica	same
+Muscicapa dauurica	쇠솔딱새	Asian Brown Flycatcher	Muscicapa dauurica	same
+Muscicapa ferruginea	회색머리딱새	Ferruginous Flycatcher	Muscicapa ferruginea	same
+Ficedula zanthopygia	흰눈썹황금새	Yellow-rumped Flycatcher	Ficedula zanthopygia	same
+Ficedula narcissina	황금새	Narcissus Flycatcher	Ficedula narcissina	same
+Ficedula mugimaki	노랑딱새	Mugimaki Flycatcher	Ficedula mugimaki	same
+Ficedula parva	붉은가슴흰꼬리딱새	Red-breasted Flycatcher	Ficedula parva	same
+Cyanoptila cyanomelana	큰유리새	Blue-and-white Flycatcher	Cyanoptila cyanomelana	same
+Eumyias thalassinus	파랑딱새	Verditer Flycatcher	Eumyias thalassinus	same
+Niltava davidi	붉은가슴딱새	Fujian Niltava	Niltava davidi	same
+Cinclus pallasii	물까마귀	Brown Dipper	Cinclus pallasii	same
+Passer domesticus	집참새	House Sparrow	Passer domesticus	same
+Passer montanus	참새	Eurasian Tree Sparrow	Passer montanus	same
+Lonchura punctulata	얼룩무늬납부리새	Scaly-breasted Munia	Lonchura punctulata	same
+Prunella collaris	바위종다리	Alpine Accentor	Prunella collaris	same
+Prunella montanella	멧종다리	Siberian Accentor	Prunella montanella	same
+Dendronanthus indicus	물레새	Forest Wagtail	Dendronanthus indicus	same
+Motacilla citreola	노랑머리할미새	Citrine Wagtail	Motacilla citreola	same
+Motacilla cinerea	노랑할미새	Grey Wagtail	Motacilla cinerea	same
+Motacilla alba	알락할미새	White Wagtail	Motacilla alba	same
+Motacilla grandis	검은등할미새	Japanese Wagtail	Motacilla grandis	same
+Anthus richardi	큰밭종다리	Richard's Pipit	Anthus richardi	same
+Anthus godlewskii	쇠밭종다리	Blyth's Pipit	Anthus godlewskii	same
+Anthus pratensis	풀밭종다리	Meadow Pipit	Anthus pratensis	same
+Anthus trivialis	나무밭종다리	Tree Pipit	Anthus trivialis	same
+Anthus hodgsoni	힝둥새	Olive-backed Pipit	Anthus hodgsoni	same
+Anthus gustavi	흰등밭종다리	Pechora Pipit	Anthus gustavi	same
+Anthus roseatus	한국밭종다리	Rosy Pipit	Anthus roseatus	same
+Anthus cervinus	붉은가슴밭종다리	Red-throated Pipit	Anthus cervinus	same
+Anthus rubescens	밭종다리	American Pipit	Anthus rubescens	same
+Anthus spinoletta	옅은밭종다리	Water Pipit	Anthus spinoletta	same
+Fringilla montifringilla	되새	Brambling	Fringilla montifringilla	same
+Leucosticte arctoa	갈색양진이	Asian Rosy Finch	Leucosticte arctoa	same
+Uragus sibiricus	긴꼬리홍양진이	Siberian Long-tailed Rosefinch	Carpodacus sibiricus	epithet+author
+Carpodacus erythrinus	붉은양진이	Common Rosefinch	Carpodacus erythrinus	same
+Carpodacus roseus	양진이	Pallas's Rosefinch	Carpodacus roseus	same
+Pinicola enucleator	솔양진이	Pine Grosbeak	Pinicola enucleator	same
+Loxia curvirostra	솔잣새	Red Crossbill	Loxia curvirostra	same
+Loxia leucoptera	흰죽지솔잣새	Two-barred Crossbill	Loxia leucoptera	same
+Pyrrhula pyrrhula	멋쟁이새	Eurasian Bullfinch	Pyrrhula pyrrhula	same
+Coccothraustes coccothraustes	콩새	Hawfinch	Coccothraustes coccothraustes	same
+Eophona migratoria	밀화부리	Chinese Grosbeak	Eophona migratoria	same
+Eophona personata	큰부리밀화부리	Japanese Grosbeak	Eophona personata	same
+Emberiza citrinella	노랑멧새	Yellowhammer	Emberiza citrinella	same
+Emberiza leucocephalos	흰머리멧새	Pine Bunting	Emberiza leucocephalos	same
+Emberiza cioides	멧새	Meadow Bunting	Emberiza cioides	same
+Emberiza jankowskii	점박이멧새	Jankowski's Bunting	Emberiza jankowskii	same
+Emberiza hortulana	회색머리멧새	Ortolan Bunting	Emberiza hortulana	same
+Emberiza tristrami	흰배멧새	Tristram's Bunting	Emberiza tristrami	same
+Emberiza fucata	붉은뺨멧새	Chestnut-eared Bunting	Emberiza fucata	same
+Emberiza pusilla	쇠붉은뺨멧새	Little Bunting	Emberiza pusilla	same
+Emberiza chrysophrys	노랑눈썹멧새	Yellow-browed Bunting	Emberiza chrysophrys	same
+Emberiza rustica	쑥새	Rustic Bunting	Emberiza rustica	same
+Emberiza elegans	노랑턱멧새	Yellow-throated Bunting	Emberiza elegans	same
+Emberiza aureola	검은머리촉새	Yellow-breasted Bunting	Emberiza aureola	same
+Emberiza rutila	꼬까참새	Chestnut Bunting	Emberiza rutila	same
+Emberiza melanocephala	검은머리멧새	Black-headed Bunting	Emberiza melanocephala	same
+Emberiza bruniceps	붉은머리멧새	Red-headed Bunting	Emberiza bruniceps	same
+Emberiza sulphurata	무당새	Yellow Bunting	Emberiza sulphurata	same
+Emberiza spodocephala	촉새	Black-faced Bunting	Emberiza spodocephala	same
+Emberiza variabilis	검은멧새	Grey Bunting	Emberiza variabilis	same
+Emberiza pallasi	북방검은머리쑥새	Pallas's Reed Bunting	Emberiza pallasi	same
+Emberiza yessoensis	쇠검은머리쑥새	Ochre-rumped Bunting	Emberiza yessoensis	same
+Calcarius lapponicus	긴발톱멧새	Lapland Longspur	Calcarius lapponicus	same
+Plectrophenax nivalis	흰멧새	Snow Bunting	Plectrophenax nivalis	same
+Zonotrichia leucophrys	흰정수리북미멧새	White-crowned Sparrow	Zonotrichia leucophrys	same
+Passerculus sandwichensis	초원멧새	Savannah Sparrow	Passerculus sandwichensis	same
+Anas carolinensis	미국쇠오리	Green-winged Teal	Anas carolinensis	same
+Emberiza schoeniclus	검은머리쑥새	Common Reed Bunting	Emberiza schoeniclus	same
+Melanitta fusca	노랑부리검둥오리사촌	Velvet Scoter	Melanitta fusca	same
+Zosterops erythropleurus	한국동박새	Chestnut-flanked White-eye	Zosterops erythropleurus	same
+Zosterops japonicus	동박새	Warbling White-eye	Zosterops japonicus	same
+Larus fuscus	작은노랑발갈매기	Lesser Black-backed Gull	Larus fuscus	same
+Motacilla alba lugens	백할미새	White Wagtail (lugens)	Motacilla alba	same
+Motacilla alba leucopsis	알락할미새	White Wagtail (leucopsis)	Motacilla alba	same
+Motacilla alba ocularis	검은턱할미새	White Wagtail (ocularis)	Motacilla alba	same
+Anser fabalis serrirostris	큰기러기	Taiga Bean Goose (serrirostris)	Anser fabalis	same
+Motacilla alba baicalensis	시베리아알락할미새	White Wagtail (baicalensis)	Motacilla alba	same
+Thalasseus bergii	큰제비갈매기	Greater Crested Tern	Thalasseus bergii	same
+Cacomantis merulinus	우는뻐꾸기	Plaintive Cuckoo	Cacomantis merulinus	same
+Corvus splendens	집까마귀	House Crow	Corvus splendens	same
+Dicrurus annectans	큰부리바람까마귀	Crow-billed Drongo	Dicrurus annectens	manual
+Acridotheres tristis	검은머리갈색찌르레기	Common Myna	Acridotheres tristis	same
+Ixobrychus flavicollis	검은해오라기	Black Bittern	Botaurus flavicollis	epithet+author
+Larus cachinnans	한국재갈매기	Caspian Gull	Larus cachinnans	same
+Streptopelia orientalis	멧비둘기	Oriental Turtle Dove	Streptopelia orientalis	same
+Anser fabalis middendorffi	큰부리큰기러기	Taiga Bean Goose (middendorffi)	Anser fabalis	same
+Ficedula albicilla	흰꼬리딱새	Taiga Flycatcher	Ficedula albicilla	same
+Gelochelidon nilotica	큰부리제비갈매기	Gull-billed Tern	Gelochelidon nilotica	same
+Dendrocopos hyperythrus	붉은배오색딱다구리	Rufous-bellied Woodpecker	Dendrocopos hyperythrus	same
+Ardea alba alba	대백로	Great Egret (alba)	Ardea alba	same
+Ardea alba modesta	중대백로	Great Egret (modesta)	Ardea alba	same
+Anas zonorhyncha	흰뺨검둥오리	Eastern Spot-billed Duck	Anas zonorhyncha	same
+Ardea intermedia	중백로	Medium Egret	Ardea intermedia	same
+Aquila fasciata	흰배줄무늬수리	Bonelli's Eagle	Aquila fasciata	same
+Nisaetus nipalensis	뿔매	Mountain Hawk-Eagle	Nisaetus nipalensis	same
+Rallus indicus	흰눈썹뜸부기	Brown-cheeked Rail	Rallus indicus	same
+Charadrius hiaticula	흰죽지꼬마물떼새	Common Ringed Plover	Charadrius hiaticula	same
+Charadrius placidus	흰목물떼새	Long-billed Plover	Thinornis placidus	stem+year
+Charadrius dubius	꼬마물떼새	Little Ringed Plover	Thinornis dubius	epithet+author
+Charadrius alexandrinus	흰물떼새	Kentish Plover	Anarhynchus alexandrinus	epithet+author
+Charadrius mongolus	왕눈물떼새	Siberian Sand Plover	Anarhynchus mongolus	epithet+author
+Charadrius atrifrons	검은이마왕눈물떼새	Tibetan Sand Plover	Anarhynchus atrifrons	epithet+author
+Charadrius leschenaultii	큰왕눈물떼새	Greater Sand Plover	Anarhynchus leschenaultii	stem+year
+Charadrius veredus	큰물떼새	Oriental Plover	Anarhynchus veredus	epithet+author
+Limosa limosa	흑꼬리도요	Black-tailed Godwit	Limosa limosa	same
+Limosa lapponica	큰뒷부리도요	Bar-tailed Godwit	Limosa lapponica	same
+Cepphus carbo	흰눈썹바다오리	Spectacled Guillemot	Cepphus carbo	same
+Cuculus optatus	벙어리뻐꾸기	Oriental Cuckoo	Cuculus optatus	same
+Tyto longimembris	가면올빼미	Eastern Grass Owl	Tyto longimembris	same
+Caprimulgus jotaka	쏙독새	Grey Nightjar	Caprimulgus jotaka	same
+Periparus ater	진박새	Coal Tit	Periparus ater	same
+Sittiparus varius	곤줄박이	Varied Tit	Sittiparus varius	same
+Parus cinereus	박새	Cinereous Tit	Parus cinereus	same
+Alauda arvensis	종다리	Eurasian Skylark	Alauda arvensis	same
+Acrocephalus orientalis	개개비	Oriental Reed Warbler	Acrocephalus orientalis	same
+Acrocephalus bistrigiceps	쇠개개비	Black-browed Reed Warbler	Acrocephalus bistrigiceps	same
+Acrocephalus agricola	북방쇠개개비	Paddyfield Warbler	Acrocephalus agricola	same
+Sylvia curruca	쇠흰턱딱새	Lesser Whitethroat	Curruca curruca	epithet+author
+Suthora webbiana	붉은머리오목눈이	Vinous-throated Parrotbill	Suthora webbiana	same
+Larvivora sibilans	울새	Rufous-tailed Robin	Larvivora sibilans	same
+Cyanoptila cumatilis	대륙큰유리새	Zappey's Flycatcher	Cyanoptila cumatilis	same
+Thalasseus bernsteini	뿔제비갈매기	Chinese Crested Tern	Thalasseus bernsteini	same
+Prunella rubida	쇠바위종다리	Japanese Accentor	Prunella rubida	same
+Sylvia nisoria	비늘무늬덤불개개비	Barred Warbler	Curruca nisoria	manual
+Branta ruficollis	붉은가슴기러기	Red-breasted Goose	Branta ruficollis	same
+Gygis alba	흰제비갈매기	Atlantic White Tern	Gygis alba	same
+Saxicola caprata	흰죽지검은딱새	Pied Bush Chat	Saxicola caprata	same
+Bucephala albeola	꼬마오리	Bufflehead	Bucephala albeola	same
+Phoebastria immutabilis	레이산알바트로스	Laysan Albatross	Phoebastria immutabilis	same
+Plegadis falcinellus	적갈색따오기	Glossy Ibis	Plegadis falcinellus	same
+Onychoprion aleuticus	알류샨제비갈매기	Aleutian Tern	Onychoprion aleuticus	same
+Elanus caeruleus	검은어깨매	Black-winged Kite	Elanus caeruleus	same
+Culicicapa ceylonensis	회색머리노랑딱새	Grey-headed Canary-flycatcher	Culicicapa ceylonensis	same
+Acrocephalus schoenobaenus	풀쇠개개비	Sedge Warbler	Acrocephalus schoenobaenus	same
+Acridotheres cristatellus	검은뿔찌르레기	Crested Myna	Acridotheres cristatellus	same
+Turdus feae	갈색지빠귀	Grey-sided Thrush	Turdus feae	same
+Turdus pilaris	회색머리지빠귀	Fieldfare	Turdus pilaris	same
+Aethia cristatella	뿔바다오리	Crested Auklet	Aethia cristatella	same
+Aviceda leuphotes	검은댕기수리	Black Baza	Aviceda leuphotes	same
+Acrocephalus dumetorum	덤불개개비	Blyth's Reed Warbler	Acrocephalus dumetorum	same
+Accipiter virgatus	작은새매	Besra	Tachyspiza virgata	stem+year
+Phoenicurus schisticeps	흰목딱새	White-throated Redstart	Phoenicurus schisticeps	same
+Aythya collaris	북미댕기흰죽지	Ring-necked Duck	Aythya collaris	same
+Aythya affinis	쇠검은머리흰죽지	Lesser Scaup	Aythya affinis	same
+Melanocorypha mongolica	흰날개종다리	Mongolian Lark	Melanocorypha mongolica	same
+Muscicapa muttui	갈색솔딱새	Brown-breasted Flycatcher	Muscicapa muttui	same
+Myiomela leucura	흰꼬리유리딱새	White-tailed Robin	Myiomela leucura	same
+Turdus viscivorus	대륙점지빠귀	Mistle Thrush	Turdus viscivorus	same
+Phylloscopus tephrocephalus	회색머리노랑솔새	Grey-crowned Warbler	Phylloscopus tephrocephalus	same
+Melanitta perspicillata	흰이마검둥오리	Surf Scoter	Melanitta perspicillata	same
+Pericrocotus cantonensis	갈색할미새사촌	Swinhoe's Minivet	Pericrocotus cantonensis	same
+Phylloscopus yunnanensis	연노랑허리솔새	Chinese Leaf Warbler	Phylloscopus yunnanensis	same
+Iduna caligata	쇠덤불개개비	Booted Warbler	Iduna caligata	same
+Phylloscopus ricketti	노랑배솔새	Sulphur-breasted Warbler	Phylloscopus ricketti	same
+Fringilla coelebs	푸른머리되새	Eurasian Chaffinch	Fringilla coelebs	same
+Bucanetes mongolicus	바위양진이	Mongolian Finch	Bucanetes mongolicus	same
+Lanius cristatus lucionensis	노랑때까치	Brown Shrike (lucionensis)	Lanius cristatus	same
+Lanius cristatus confusus	넓은이마홍때까치	Brown Shrike (confusus)	Lanius cristatus	same
+Lanius cristatus crisatus	홍때까치	Brown Shrike (crisatus)	Lanius cristatus	same
+Aegithalos caudatus magnus	오목눈이	Long-tailed Tit (magnus)	Aegithalos caudatus	same
+Aegithalos caudatus caudatus	흰머리오목눈이	Long-tailed Tit (caudatus)	Aegithalos caudatus	same
+Phylloscopus xanthodryas	솔새	Japanese Leaf Warbler	Phylloscopus xanthodryas	same
+Phylloscopus examinandus	큰솔새	Kamchatka Leaf Warbler	Phylloscopus examinandus	same
+Emberiza personata	섬촉새	Masked Bunting	Emberiza personata	same
+Motacilla alba personata	흰이마알락할미새	White Wagtail (personata)	Motacilla alba	same
+Zosterops simplex	작은동박새	Swinhoe's White-eye	Zosterops simplex	same
+Mareca penelope	홍머리오리	Eurasian Wigeon	Mareca penelope	same
+Galerida cristata coreensis	뿔종다리	Crested Lark (coreensis)	Galerida cristata	same
+Pyrrhula pyrrhula rosacea	멋쟁이새	Eurasian Bullfinch (rosacea)	Pyrrhula pyrrhula	same
+Pyrrhula pyrrhula griseiventris	재색멋쟁이새	Eurasian Bullfinch (griseiventris)	Pyrrhula pyrrhula	same
+Pyrrhula pyrrhula cassinii	붉은배멋쟁이새	Eurasian Bullfinch (cassinii)	Pyrrhula pyrrhula	same
+Delichon lagopodum	흰턱제비	Siberian House Martin	Delichon lagopodum	same
+Motacilla tschutschensis	긴발톱할미새	Eastern Yellow Wagtail	Motacilla tschutschensis	same
+Horornis canturians	휘파람새	Manchurian Bush Warbler	Horornis canturians	same
+Horornis diphone	섬휘파람새	Japanese Bush Warbler	Horornis diphone	same
+Phylloscopus claudiae	히말라야산솔새	Claudia's Leaf Warbler	Phylloscopus claudiae	same
+Dryocopus javensis richardsi	크낙새	White-bellied Woodpecker (richardsi)	Dryocopus javensis	same
+Spatula clypeata	넓적부리	Northern Shoveler	Spatula clypeata	same
+Mareca americana	아메리카홍머리오리	American Wigeon	Mareca americana	same
+Mareca falcata	청머리오리	Falcated Duck	Mareca falcata	same
+Spatula querquedula	발구지	Garganey	Spatula querquedula	same
+Sibirionetta formosa	가창오리	Baikal Teal	Sibirionetta formosa	same
+Mareca strepera	알락오리	Gadwall	Mareca strepera	same
+Branta hutchinsii	캐나다기러기	Cackling Goose	Branta hutchinsii	same
+Melanitta stejnegeri	검둥오리사촌	Stejneger's Scoter	Melanitta stejnegeri	same
+Eudromias morinellus	흰눈썹물떼새	Eurasian Dotterel	Eudromias morinellus	same
+Chroicocephalus genei	긴목갈매기	Slender-billed Gull	Chroicocephalus genei	same
+Ichthyaetus ichthyaetus	큰검은머리갈매기	Pallas's Gull	Ichthyaetus ichthyaetus	same
+Hydrocoloeus minutus	꼬마갈매기	Little Gull	Hydrocoloeus minutus	same
+Ichthyaetus relictus	고대갈매기	Relict Gull	Ichthyaetus relictus	same
+Chroicocephalus ridibundus	붉은부리갈매기	Black-headed Gull	Chroicocephalus ridibundus	same
+Saundersilarus saundersi	검은머리갈매기	Saunders's Gull	Saundersilarus saundersi	same
+Sternula albifrons	쇠제비갈매기	Little Tern	Sternula albifrons	same
+Onychoprion anaethetus	에위니아제비갈매기	Bridled Tern	Onychoprion anaethetus	same
+Hydroprogne caspia	붉은부리큰제비갈매기	Caspian Tern	Hydroprogne caspia	same
+Onychoprion fuscatus	검은등제비갈매기	Sooty Tern	Onychoprion fuscatus	same
+Calidris pygmaea	넓적부리도요	Spoon-billed Sandpiper	Calidris pygmaea	same
+Tringa brevipes	노랑발도요	Grey-tailed Tattler	Tringa brevipes	same
+Calidris falcinellus	송곳부리도요	Broad-billed Sandpiper	Calidris falcinellus	same
+Calidris pugnax	목도리도요	Ruff	Calidris pugnax	same
+Calidris subruficollis	누른도요	Buff-breasted Sandpiper	Calidris subruficollis	same
+Hierococcyx hyperythrus	매사촌	Northern Hawk-Cuckoo	Hierococcyx hyperythrus	same
+Hierococcyx sparverioides	큰매사촌	Large Hawk-Cuckoo	Hierococcyx sparverioides	same
+Clanga clanga	항라머리검독수리	Greater Spotted Eagle	Clanga clanga	same
+Buteo japonicus	말똥가리	Eastern Buzzard	Buteo japonicus	same
+Grus virgo	쇠재두루미	Demoiselle Crane	Grus virgo	same
+Leucogeranus leucogeranus	시베리아흰두루미	Siberian Crane	Leucogeranus leucogeranus	same
+Zapornia fusca	쇠뜸부기사촌	Ruddy-breasted Crake	Zapornia fusca	same
+Zapornia paykullii	한국뜸부기	Band-bellied Crake	Zapornia paykullii	same
+Zapornia pusilla	쇠뜸부기	Baillon's Crake	Zapornia pusilla	same
+Alaudala cheleensis	북방쇠종다리	Asian Short-toed Lark	Alaudala cheleensis	same
+Lalage melaschistos	검은할미새사촌	Black-winged Cuckooshrike	Lalage melaschistos	same
+Acanthis flammea	홍방울새	Redpoll	Acanthis flammea	same
+Acanthis hornemanni	쇠홍방울새	Redpoll (hornemanni)	Acanthis flammea hornemanni	manual
+Chloris sinica	방울새	Oriental Greenfinch	Chloris sinica	same
+Spinus spinus	검은머리방울새	Eurasian Siskin	Spinus spinus	same
+Lanius borealis	재때까치	Northern Shrike	Lanius borealis	same
+Larvivora akahige	붉은가슴울새	Japanese Robin	Larvivora akahige	same
+Calliope calliope	진홍가슴	Siberian Rubythroat	Calliope calliope	same
+Larvivora cyane	쇠유리새	Siberian Blue Robin	Larvivora cyane	same
+Tarsiger cyanurus	유리딱새	Red-flanked Bluetail	Tarsiger cyanurus	same
+Poecile montanus	북방쇠박새	Willow Tit	Poecile montanus	same
+Poecile palustris	쇠박새	Marsh Tit	Poecile palustris	same
+Pardaliparus venustulus	노랑배진박새	Yellow-bellied Tit	Periparus venustulus	epithet+author
+Passer cinnamomeus	섬참새	Russet Sparrow	Passer cinnamomeus	same
+Agropsar philippensis	쇠찌르레기	Chestnut-cheeked Starling	Agropsar philippensis	same
+Locustella davidi	점무늬가슴쥐발귀	Baikal Bush Warbler	Locustella davidi	same
+Arundinax aedon	큰부리개개비	Thick-billed Warbler	Arundinax aedon	same
+Turdus mandarinus	대륙검은지빠귀	Chinese Blackbird	Turdus mandarinus	same
+Geokichla citrina	귤빛지빠귀	Orange-headed Thrush	Geokichla citrina	same
+Geokichla sibirica	흰눈썹지빠귀	Siberian Thrush	Geokichla sibirica	same
+Hydrobates monorhis	바다제비	Swinhoe's Storm Petrel	Hydrobates monorhis	same
+Ardenna carneipes	붉은발슴새	Flesh-footed Shearwater	Ardenna carneipes	same
+Ardenna tenuirostris	쇠부리슴새	Short-tailed Shearwater	Ardenna tenuirostris	same
+Bubo scandiacus	흰올빼미	Snowy Owl	Bubo scandiacus	same
+Lanius cristatus superciliosus	진홍때까치	Brown Shrike (superciliosus)	Lanius cristatus	same
+Larus vegae	재갈매기	Vega Gull	Larus vegae	same
+Larus brunnicephalus	갈색머리갈매기	Brown-headed Gull	Chroicocephalus brunnicephalus	epithet+author
+Lanius isabellinus	덤불때까치	Isabelline Shrike	Lanius isabellinus	same
+Buteo refectus	히말라야말똥가리	Himalayan Buzzard	Buteo refectus	same
+Phoenicurus phoenicurus	흰이마딱새	Common Redstart	Phoenicurus phoenicurus	same
+Hierococcyx nisicolor	작은매사촌	Hodgson's Hawk-Cuckoo	Hierococcyx nisicolor	same
+Aegithalos glaucogularis	검은턱오목눈이	Silver-throated Bushtit	Aegithalos glaucogularis	same
+Hypsipetes amaurotis	직박구리	Brown-eared Bulbul	Hypsipetes amaurotis	same
+Pica serica	까치	Oriental Magpie	Pica serica	same
+Pericrocotus tegimae	검은가슴할미새사촌	Ryukyu Minivet	Pericrocotus tegimae	same
+Fratercula cirrhata	댕기바다오리	Tufted Puffin	Fratercula cirrhata	same
+Lanius phoenicuroides	붉은꼬리때까치	Red-tailed Shrike	Lanius phoenicuroides	same
+Acrocephalus tangorum	우수리개개비	Manchurian Reed Warbler	Acrocephalus tangorum	same
+Lanius tephronotus	회색등때까치	Grey-backed Shrike	Lanius tephronotus	same
+Hypsipetes leucocephalus	흰머리검은직박구리	Black Bulbul	Hypsipetes leucocephalus	same
+Nettapus coromandelianus	흰얼굴아기오리	Cotton Pygmy Goose	Nettapus coromandelianus	same
+Apus apus	검은등칼새	Common Swift	Apus apus	same
+Phoebastria nigripes	검은발알바트로스	Black-footed Albatross	Phoebastria nigripes	same
+Ficedula elisae	북방황금새	Green-backed Flycatcher	Ficedula elisae	same
+Ficedula owstoni	남방황금새	Ryukyu Flycatcher	Ficedula owstoni	same
+Phylloscopus sibilatrix	노랑가슴솔새	Wood Warbler	Phylloscopus sibilatrix	same
+Phylloscopus subaffinis	담황턱솔새	Buff-throated Warbler	Phylloscopus subaffinis	same
+Phylloscopus omeiensis	회색정수리노랑솔새	Martens's Warbler	Phylloscopus omeiensis	same
+Phylloscopus amandii	쇠긴다리솔새사촌			
+Locustella tacsanowskia	땅개개비	Chinese Bush Warbler	Locustella tacsanowskia	same
+Emberiza godlewskii	바위멧새	Godlewski's Bunting	Emberiza godlewskii	same
+Tachymarptis melba	흰배칼새	Alpine Swift	Tachymarptis melba	same
+Zonotrichia atricapilla	노랑정수리북미멧새	Golden-crowned Sparrow	Zonotrichia atricapilla	same

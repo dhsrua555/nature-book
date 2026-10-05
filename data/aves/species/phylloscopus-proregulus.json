@@ -1,0 +1,70 @@
+{
+  "id": "phylloscopus-proregulus",
+  "ko": "노랑허리솔새",
+  "sci": "Phylloscopus proregulus",
+  "author": "Pallas, 1811",
+  "en": "Pallas's Leaf Warbler",
+  "ktsn": 120000002046,
+  "origin": "nibr",
+  "length": "약 9cm",
+  "status": "드물지 않은 나그네새(북부 지역)",
+  "habitat": "산지 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 중순~7월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라 북부 지역에서 봄과 가을에 드물지 않게 지나가는 나그네새로, 중부 이남에서는 볼 수 없다. 솔새 가운데 가장 작으며, 산지 숲에 살면서 주로 침엽수나 낙엽활엽수의 꼭대기 가까이에 앉고 곤충을 주로 먹는다. 사할린, 아무르, 우수리, 바이칼호, 알타이, 만주 북부, 몽골 북부 등지에서 번식하며 5월 중순~7월 상순에 한배에 5~6개, 때로는 7개의 알을 낳는다. 중국 남부, 인도차이나, 하이난섬 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "머리 가운데의 노란 선 1줄",
+      "en": "single yellow stripe along the centre of the crown"
+    },
+    {
+      "ko": "진한 올리브색 윗면",
+      "en": "dark olive upperparts"
+    },
+    {
+      "ko": "날개의 노란 띠 2줄",
+      "en": "two yellow wing bars"
+    },
+    {
+      "ko": "노란빛을 띤 흰 아랫면",
+      "en": "yellowish-white underparts"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pallas's Leaf Warbler (Phylloscopus proregulus), adult: dark olive upperparts, single yellow stripe along the centre of the crown, two yellow wing bars, yellowish-white underparts",
+    "pose": "perched near the top of a conifer, side view",
+    "scene": "Korean mountain forest of conifers and deciduous trees in spring or autumn; no people, buildings or text",
+    "views": [
+      "adult, side view perched: dark olive upperparts, yellow crown stripe, two yellow wing bars, yellowish-white underparts",
+      "adult, head from above: yellow central crown stripe"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 노랑허리솔새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002046",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 노랑허리솔새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002046",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

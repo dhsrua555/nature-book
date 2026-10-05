@@ -1,0 +1,79 @@
+{
+  "id": "xema-sabini",
+  "ko": "목테갈매기",
+  "sci": "Xema sabini",
+  "author": "Sabine, 1819",
+  "en": "Sabine's Gull",
+  "ktsn": 120000001777,
+  "origin": "nibr",
+  "length": "33–36cm",
+  "status": "미조",
+  "habitat": "번식기에는 습한 툰드라, 비번식기에는 트인 바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 5월 하순~7월 상순에 알을 낳는다."
+  },
+  "summary": "우리나라에서는 미조로 기록된 갈매기이다. 번식기에는 습한 툰드라에서 지내고, 번식기가 지나면 대개 트인 바다에서 생활하며 겨울은 열대 지역에서 보낸다. 주로 곤충을 잡아먹고 연체동물과 물고기도 먹는다. 5월 하순~7월 상순에 한배에 알 2~3개를 낳는다.",
+  "points": [
+    {
+      "ko": "잿빛 머리와 검은 목테(여름깃)",
+      "en": "grey hood edged by a black collar (breeding)"
+    },
+    {
+      "ko": "흰 이마와 거무스름한 머리(겨울깃)",
+      "en": "white forehead, dusky rest of head (non-breeding)"
+    },
+    {
+      "ko": "끝이 노란 검은 부리",
+      "en": "black bill with a yellow tip"
+    },
+    {
+      "ko": "검은 첫째날개깃과 흰 삼각형 무늬",
+      "en": "black primaries and broad white triangle on the secondaries"
+    },
+    {
+      "ko": "제비꼬리 모양 꽁지",
+      "en": "forked tail"
+    },
+    {
+      "ko": "잿빛 다리",
+      "en": "grey legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Sabine's Gull (Xema sabini), adult breeding: grey hood bordered by a black collar against the white lower neck, black bill with a yellow tip, black primaries, broad white triangle on the secondaries, black leading edge to the wing, forked tail, grey legs",
+    "pose": "flying low over the sea, showing the black-and-white wing pattern",
+    "scene": "open sea off the Korean coast under a wide sky; no people, buildings or text",
+    "views": [
+      "adult breeding, side view standing: grey hood, black collar, black bill with yellow tip, grey legs",
+      "adult non-breeding, head detail: white forehead, dusky rest of head, band across the upper neck",
+      "adult, in flight from above: black primaries and black leading edge, broad white triangle on the secondaries, forked tail"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 목테갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001777",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 목테갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001777",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

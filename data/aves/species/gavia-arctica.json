@@ -1,0 +1,77 @@
+{
+  "id": "gavia-arctica",
+  "ko": "큰회색머리아비",
+  "sci": "Gavia arctica",
+  "author": "Linnaeus, 1758",
+  "en": "Black-throated Loon",
+  "ktsn": 120000001479,
+  "origin": "nibr",
+  "length": "72–78cm",
+  "status": "흔한 겨울철새",
+  "habitat": "먼바다, 연안, 강 하류",
+  "protect": [],
+  "months": {
+    "seen": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "breed": [],
+    "note": "11월 초순에 와서 3월 하순까지 머물며, 5월 중순까지 남은 기록도 있다."
+  },
+  "summary": "11월 초순에 와서 3월 하순까지 머무는 흔한 겨울철새로, 해안에서 떨어진 먼바다에 많고 연안이나 강 하류에서는 드물게 보인다. 혼자 또는 작은 무리로 잠수해 물고기를 잡는다. 회색머리아비보다 월동하는 수가 많지만, 다른 아비류처럼 어선에서 버린 폐기름에 오염되거나 어망에 걸려 질식하는 등 여러 까닭으로 수가 줄고 있는 것으로 추정된다. 유라시아 북부와 알래스카 서북부에서 번식하고 겨울에는 남쪽으로 옮겨 가 지낸다.",
+  "points": [
+    {
+      "ko": "곧고 뾰족한 부리",
+      "en": "straight, pointed bill"
+    },
+    {
+      "ko": "멱에 가는 검은 가로줄이 없음",
+      "en": "no thin dark chin strap across the throat"
+    },
+    {
+      "ko": "옆구리 뒤쪽 넓은 흰 무늬",
+      "en": "broad white rear-flank patch extending up the side"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "회색머리아비",
+      "how": "생김새가 거의 같지만 멱에 가늘고 검은 가로줄 무늬가 없다."
+    }
+  ],
+  "art": {
+    "subject": "Black-throated Loon (Gavia arctica), adult: straight, pointed bill, plain throat without a thin dark line, broad white patch on the rear flanks extending up the side of the body",
+    "pose": "swimming low on the open sea, about to dive",
+    "scene": "open sea off the Korean coast in winter with a grey swell; no people, buildings or text",
+    "views": [
+      "adult, side view swimming: straight pointed bill, broad white rear-flank patch rising up the side of the body",
+      "head and neck detail: throat without a thin dark cross-line"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 큰회색머리아비",
+      "url": "https://species.nibr.go.kr/species-detail/120000001479",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 큰회색머리아비",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001479",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

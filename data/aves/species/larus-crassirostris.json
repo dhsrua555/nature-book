@@ -1,0 +1,94 @@
+{
+  "id": "larus-crassirostris",
+  "ko": "괭이갈매기",
+  "sci": "Larus crassirostris",
+  "author": "Vieillot, 1818",
+  "en": "Black-tailed Gull",
+  "ktsn": 120000001757,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "무인도서(번식), 해안, 강, 하구, 하천",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "이른 봄부터 번식지에 모여들어 8월까지 번식한다."
+  },
+  "summary": "우리나라 무인도에서 번식하고 겨울도 나는 흔한 텃새로, 해안과 강, 하구, 하천에서 볼 수 있다. 서해안과 남해안의 무인도에 큰 무리를 이루어 번식하며, 이른 봄부터 모여들어 8월까지 번식을 이어 간다. 물고기 떼가 모이는 곳에 잘 모이고 물고기, 곤충, 물풀 등을 먹는다. 고양이 울음과 비슷한 소리를 낸다고 해서 이 이름이 붙었다.",
+  "points": [
+    {
+      "ko": "끝이 붉은 노란 부리",
+      "en": "yellow bill with a red tip"
+    },
+    {
+      "ko": "노란 눈과 빨간 눈테",
+      "en": "yellow eye with a red orbital ring"
+    },
+    {
+      "ko": "겨울 뒷머리의 갈색 줄무늬",
+      "en": "brown streaking on the hindcrown in winter"
+    },
+    {
+      "ko": "흰 몸에 진한 회색 등·날개덮깃",
+      "en": "white body with dark grey back and wing coverts"
+    },
+    {
+      "ko": "날 때 보이는 꼬리 끝 검은 띠",
+      "en": "black band at the tail tip in flight"
+    },
+    {
+      "ko": "노란 발",
+      "en": "yellow feet"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "어린새는 온몸이 갈색이고 다리가 분홍색이며, 부리는 분홍색에 끝이 검다.",
+  "similar": [],
+  "art": {
+    "subject": "Black-tailed Gull (Larus crassirostris), adult: white body, dark grey back and wing coverts, yellow bill with red tip, yellow eye with red eye-ring, yellow feet, black band at the tail tip",
+    "pose": "standing on a rocky islet among a breeding colony, side view",
+    "scene": "Korean uninhabited islet off the west coast in spring, rocky slopes with patches of grass; no people, buildings or text",
+    "views": [
+      "adult, side view standing: white body, dark grey back, yellow bill with red tip, yellow eye with red eye-ring, yellow feet",
+      "adult in flight: black band across the tail tip",
+      "juvenile, side view standing: all-brown plumage, pink legs, pink bill with black tip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 괭이갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001757",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 괭이갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001757",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "번식 시작이 '이른 봄'으로만 적혀 있어 months.breed 를 TODO 로 두었다."
+  ]
+}

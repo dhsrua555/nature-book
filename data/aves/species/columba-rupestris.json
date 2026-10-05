@@ -1,0 +1,64 @@
+{
+  "id": "columba-rupestris",
+  "ko": "낭비둘기",
+  "sci": "Columba rupestris",
+  "author": "Pallas, 1811",
+  "en": "Hill Pigeon",
+  "ktsn": 120000001821,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "희귀한 텃새",
+  "habitat": "TODO",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO"
+  },
+  "summary": "양비둘기 또는 굴비둘기라고도 부르는 비둘기로, 국내에서는 희귀한 텃새이다. 세계적인 집단 규모는 밝혀지지 않았으며, 집비둘기와 경쟁하고 교잡하면서 줄어드는 것으로 추정되지만 일부 지역에서는 여전히 흔한 종으로 여겨진다. 국내에서도 집비둘기와의 교잡이 감소 원인으로 추정된다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched, side view",
+    "scene": "TODO",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 낭비둘기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001821",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 낭비둘기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001821",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

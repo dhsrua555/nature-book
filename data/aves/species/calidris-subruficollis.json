@@ -1,0 +1,73 @@
+{
+  "id": "calidris-subruficollis",
+  "ko": "누른도요",
+  "sci": "Calidris subruficollis",
+  "author": "Vieillot, 1819",
+  "en": "Buff-breasted Sandpiper",
+  "ktsn": 120000528823,
+  "origin": "nibr",
+  "length": "20cm",
+  "status": "미조",
+  "habitat": "초지, 내륙의 물가",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "우리나라에서는 미조로 기록된 도요로, 풀밭과 내륙의 물가에서 지낸다. 알래스카 극지방과 북극 툰드라, 캐나다 북서부에서 번식하며 한배에 갈색 반점이 있는 알 4개를 낳는다. 겨울은 아르헨티나에서 난다.",
+  "points": [
+    {
+      "ko": "곧고 짧은 부리",
+      "en": "short, straight bill"
+    },
+    {
+      "ko": "황갈색 얼굴",
+      "en": "buff face"
+    },
+    {
+      "ko": "깃 끝이 흰 흑갈색 윗면",
+      "en": "blackish-brown upperparts with white feather tips"
+    },
+    {
+      "ko": "황갈색 배",
+      "en": "buff belly"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Buff-breasted Sandpiper (Calidris subruficollis), adult: blackish-brown upperparts with white-tipped feathers, buff face and belly, short straight bill, yellow legs",
+    "pose": "walking in short grass, side view",
+    "scene": "Korean short-grass field beside an inland pond; no people, buildings or text",
+    "views": [
+      "adult, side view standing: blackish-brown upperparts with white feather tips, buff face and belly, yellow legs",
+      "adult, head detail: buff face, short straight bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 누른도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000528823",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 누른도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528823",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

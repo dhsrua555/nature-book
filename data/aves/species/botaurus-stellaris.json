@@ -1,0 +1,77 @@
+{
+  "id": "botaurus-stellaris",
+  "ko": "알락해오라기",
+  "sci": "Botaurus stellaris",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Bittern",
+  "ktsn": 120000001522,
+  "origin": "nibr",
+  "length": "약 76cm",
+  "status": "겨울철새",
+  "habitat": "갈대밭, 풀이 우거진 습지, 호수",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "갈대밭, 풀이 무성한 습지, 호수 등에서 홀로 지내는 겨울철새이다. 주로 밤에 움직이지만 낮에 활동할 때도 있다. 유럽, 시베리아, 중국 북부 등지에서 번식하고 한국, 일본, 중국 남부, 보르네오섬, 말레이시아 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "검은 이마와 머리꼭대기",
+      "en": "black forehead and crown"
+    },
+    {
+      "ko": "가는 어두운 갈색 턱밑 줄",
+      "en": "thin dark brown throat stripe"
+    },
+    {
+      "ko": "두툼한 노란 부리",
+      "en": "thick yellow bill"
+    },
+    {
+      "ko": "검은 갈색 세로무늬의 가슴",
+      "en": "breast streaked blackish-brown"
+    },
+    {
+      "ko": "톱니 모양 황갈색 테의 검은 등",
+      "en": "black back and scapulars with jagged buff edges"
+    },
+    {
+      "ko": "짧고 굵은 황록색 다리",
+      "en": "short, stout yellowish-green legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수가 같은 무늬다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Bittern (Botaurus stellaris), adult: black forehead and crown, hindneck black with buff feather edges and barring, thin dark brown throat stripe with buff on either side, blackish-brown streaks on the breast, black back and scapulars with jagged buff edges, pale buff rump with irregular faint dark bars, thick yellow bill, short stout yellowish-green legs",
+    "pose": "standing still among reeds at dusk, side view",
+    "scene": "Korean winter reedbed at the edge of a lake, dry brown reeds standing in shallow water; no people, buildings or text",
+    "views": [
+      "adult, side view standing: black crown, streaked breast, black back with jagged buff edges, thick yellow bill, short yellowish-green legs",
+      "adult, head and neck detail: black forehead and crown, thin dark brown throat stripe, buff sides with blackish-brown streaks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 알락해오라기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001522",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 알락해오라기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001522",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

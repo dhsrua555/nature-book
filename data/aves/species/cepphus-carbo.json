@@ -1,0 +1,76 @@
+{
+  "id": "cepphus-carbo",
+  "ko": "흰눈썹바다오리",
+  "sci": "Cepphus carbo",
+  "author": "Pallas, 1811",
+  "en": "Spectacled Guillemot",
+  "ktsn": 120000155159,
+  "origin": "nibr",
+  "length": "37cm",
+  "status": "겨울철새",
+  "habitat": "해안의 암초와 바위틈, 앞바다",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "산란기는 4월 중순~5월이나, 번식 장소는 원문에 없다."
+  },
+  "summary": "우리나라에서는 강원도 해안, 경상남도 낙동강 하구, 부산 앞바다 등지에서 겨울을 난다. 잠수할 때는 날개를 펴고 물속을 날듯이 헤엄치며, 날 때는 날개를 세차게 퍼덕이며 바다 위를 스치듯 낮게 난다. 암초에서 쉴 때는 몸을 곧추세우고 부척을 굽혀 바닥에 대며, 암초나 바위의 틈을 잠자리로 쓴다. 둥지를 짓지 않고 해안 암초의 틈이나 바위 위에 바로 알을 2~3개 낳으며, 작은 물고기와 갑각류 등을 먹는다.",
+  "points": [
+    {
+      "ko": "눈 둘레의 흰 꽁지 모양 얼룩",
+      "en": "white tail-shaped patch around the eye"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "나머지는 검은 깃털",
+      "en": "otherwise black plumage"
+    },
+    {
+      "ko": "겨울깃의 흰 아랫면",
+      "en": "white underparts in winter"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 모두 눈 둘레에 흰 얼룩이 있고 나머지 깃은 검다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Spectacled Guillemot (Cepphus carbo), adult winter: black plumage with white underparts, white tail-shaped patch around the eye, black bill, red legs",
+    "pose": "resting upright on a reef, tarsi bent so they rest on the rock",
+    "scene": "Korean east-coast sea in winter: dark offshore reef rocks with crevices; no people, buildings or text",
+    "views": [
+      "adult, side view standing upright on rock: all black with white patch around the eye, black bill, red legs",
+      "adult winter, side view swimming: black upperparts, white underparts, white eye patch"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰눈썹바다오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000155159",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰눈썹바다오리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155159",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "'날개 18~20cm가량'은 날개 편 길이가 아니라 날개 길이로 보여 wingspan 에 넣지 않았다"
+  ]
+}

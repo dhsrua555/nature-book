@@ -1,0 +1,83 @@
+{
+  "id": "turdus-hortulorum",
+  "ko": "되지빠귀",
+  "sci": "Turdus hortulorum",
+  "author": "Sclater, 1863",
+  "en": "Grey-backed Thrush",
+  "ktsn": 120000002094,
+  "origin": "nibr",
+  "length": "약 23cm",
+  "status": "여름철새",
+  "habitat": "숲, 참나무가 있는 숲속",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "5~6월에 알을 낳는다."
+  },
+  "summary": "봄과 가을의 이동 무렵 우리나라 숲에 머물렀다 떠나는 여름철새이다. 숲속 참나무 등의 가지에 밥그릇 모양 둥지를 짓고, 5~6월에 녹청색 바탕에 적갈색 반점이 있는 알을 6~7개 낳는다. 흰배지빠귀와 비슷한 소리로 지저귄다. 한국, 중국, 러시아 등에 분포한다.",
+  "points": [
+    {
+      "ko": "수컷의 회색 머리·등·멱",
+      "en": "grey head, back and throat (male)"
+    },
+    {
+      "ko": "흰 아랫가슴과 배",
+      "en": "white lower breast and belly"
+    },
+    {
+      "ko": "주황색 옆구리",
+      "en": "orange flanks"
+    },
+    {
+      "ko": "어두운 회색 날개와 꼬리",
+      "en": "dark grey wings and tail (male)"
+    },
+    {
+      "ko": "암컷 가슴·옆구리의 검은 반점",
+      "en": "black spots on breast and flanks (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리, 등, 멱, 윗가슴이 회색이고 아랫가슴과 배는 흰색, 옆구리는 주황색이다. 날개와 꼬리는 어두운 회색이다.",
+    "female": "등이 갈색이고 배는 흰색이며, 옆구리는 주황색이고 가슴과 옆구리에 검은 반점이 있다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "흰눈썹붉은배지빠귀",
+      "how": "흰 눈썹선이 뚜렷하다."
+    }
+  ],
+  "art": {
+    "subject": "Grey-backed Thrush (Turdus hortulorum), adult male: grey head, back, throat and upper breast, white lower breast and belly, orange flanks, dark grey wings and tail",
+    "pose": "perched on an oak branch, side view",
+    "scene": "Korean deciduous forest with oaks in late spring; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: grey head, back and upper breast, orange flanks, white belly, dark grey wings and tail",
+      "adult female, side view perched: brown back, white belly, orange flanks, black spots on breast and flanks"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 되지빠귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000002094",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 되지빠귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002094",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

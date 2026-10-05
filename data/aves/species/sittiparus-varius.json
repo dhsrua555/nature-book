@@ -1,0 +1,96 @@
+{
+  "id": "sittiparus-varius",
+  "ko": "곤줄박이",
+  "sci": "Sittiparus varius",
+  "author": "Temminck & Schlegel, 1847",
+  "en": "Varied Tit",
+  "ktsn": 120000155325,
+  "origin": "nibr",
+  "length": "14cm",
+  "status": "흔한 텃새",
+  "habitat": "산림, 공원",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "4~7월에 알을 낳는다."
+  },
+  "summary": "전국의 산림과 공원에 사는 흔한 텃새이다. 나무 구멍이나 건물 틈에서 번식하며 4~7월에 알을 5~8개 낳는다. 번식기에는 암수가 함께 지내고, 그 뒤에는 작은 무리를 이루거나 다른 종과 섞인 무리로 지낸다. 곤충을 주로 먹고 여러 씨앗과 열매도 먹으며, 국외에서는 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "검은 머리",
+      "en": "black crown"
+    },
+    {
+      "ko": "유백색 이마와 얼굴",
+      "en": "creamy-white forehead and face"
+    },
+    {
+      "ko": "검은 턱과 멱",
+      "en": "black chin and throat"
+    },
+    {
+      "ko": "유백색 윗가슴",
+      "en": "creamy-white upper breast"
+    },
+    {
+      "ko": "푸른빛 회색 윗면",
+      "en": "bluish-grey upperparts"
+    },
+    {
+      "ko": "밤색 아랫면",
+      "en": "chestnut underparts"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Varied Tit (Sittiparus varius), adult: black crown with creamy-white forehead and face, black chin and throat, creamy-white upper breast, bluish-grey upperparts, chestnut underparts",
+    "pose": "perched on a branch near a tree cavity, side view",
+    "scene": "Korean mixed woodland with mature trees; no people, buildings or text",
+    "views": [
+      "adult, side view perched: black crown, creamy face, bluish-grey upperparts, chestnut underparts",
+      "adult, front view: black chin and throat, creamy-white upper breast, chestnut belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 곤줄박이",
+      "url": "https://species.nibr.go.kr/species-detail/120000155325",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 곤줄박이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155325",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ficedula-owstoni",
+  "ko": "남방황금새",
+  "sci": "Ficedula owstoni",
+  "author": "Bangs, 1901",
+  "en": "Ryukyu Flycatcher",
+  "ktsn": 120000533852,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "TODO",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "TODO",
+    "scene": "TODO",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 남방황금새",
+      "url": "https://species.nibr.go.kr/species-detail/120000533852",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+  ]
+}

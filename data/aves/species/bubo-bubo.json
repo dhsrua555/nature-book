@@ -1,0 +1,76 @@
+{
+  "id": "bubo-bubo",
+  "ko": "수리부엉이",
+  "sci": "Bubo bubo",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Eagle-Owl",
+  "ktsn": 120000001859,
+  "origin": "nibr",
+  "length": "약 70cm",
+  "status": "TODO",
+  "habitat": "개활지·물가에 인접한 암벽 지대, 바위산",
+  "protect": [
+    "천연기념물",
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "숲으로만 이루어진 산보다 개활지나 물가에 닿은 암벽 지대와 바위산에 주로 사는, 올빼미과에서 몸이 가장 큰 새이다. 무리 짓지 않고 홀로 지내며, 밤에 활동하지만 낮에도 움직인다. 둥지를 짓지 않고 암벽의 선반 같은 곳이나 평평한 바위, 바위틈에 흰 알을 2~3개 낳으며, 암컷이 알을 품는 동안 수컷이 먹이를 날라 준다. 쥐, 두더지, 토끼, 개구리, 뱀, 비둘기, 꿩 따위를 먹고, 전국에 살며 국외에서는 구북구 전역과 북아프리카에 분포한다.",
+  "points": [
+    {
+      "ko": "긴 귀깃",
+      "en": "long ear tufts"
+    },
+    {
+      "ko": "주황빛 노란 눈",
+      "en": "orange-yellow eyes"
+    },
+    {
+      "ko": "검은·진갈색 세로줄의 황갈색 윗면",
+      "en": "tawny upperparts streaked black and dark brown"
+    },
+    {
+      "ko": "아래로 갈수록 가늘어지는 배 세로줄",
+      "en": "breast and belly streaks narrowing towards the belly"
+    },
+    {
+      "ko": "연갈색 깃털로 덮인 다리와 발가락",
+      "en": "legs and toes feathered pale brown"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Eagle-Owl (Bubo bubo), adult: very large owl with long ear tufts, orange-yellow eyes, crown, hindneck, back and wing coverts tawny with black and dark brown streaks, breast and belly streaks becoming narrower lower down, legs and toes feathered pale brown",
+    "pose": "perched on a rock ledge of a cliff, ear tufts raised",
+    "scene": "Korean rocky cliff above a river with open fields nearby; no people, buildings or text",
+    "views": [
+      "adult, side view perched: long ear tufts, tawny upperparts streaked black and dark brown, legs feathered pale brown",
+      "adult, front view perched: orange-yellow eyes, breast and belly streaks narrowing downward"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 수리부엉이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001859",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 수리부엉이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001859",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

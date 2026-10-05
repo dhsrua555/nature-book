@@ -1,0 +1,52 @@
+{
+  "id": "accipiter-gularis",
+  "ko": "조롱이",
+  "sci": "Accipiter gularis",
+  "author": "Temminck and Schlegel, 1844",
+  "en": "Japanese Sparrowhawk",
+  "ktsn": 120000001603,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "울창한 숲",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "5월 무렵 알을 낳는다."
+  },
+  "summary": "작은 새나 곤충 등을 주로 먹는다. 울창한 숲속에 둥지를 틀고 5월 무렵 알 2개를 낳는다. 산지가 훼손되어 사는 곳이 파괴되는 것이 가장 큰 위협이다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched on a branch inside dense forest, side view",
+    "scene": "dense Korean forest interior in late spring; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 조롱이",
+      "url": "https://species.nibr.go.kr/species-detail/120000001603",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 조롱이",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001603",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명 (IOC 학명 Tachyspiza gularis)"
+    }
+  ],
+  "todo": []
+}

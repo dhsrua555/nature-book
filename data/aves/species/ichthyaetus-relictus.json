@@ -1,0 +1,67 @@
+{
+  "id": "ichthyaetus-relictus",
+  "ko": "고대갈매기",
+  "sci": "Ichthyaetus relictus",
+  "author": "Lönnberg, 1931",
+  "en": "Relict Gull",
+  "ktsn": 120000528808,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "동아시아 전역에 사는 갈매기과 철새로, 적호갈매기라고도 부른다. 카자흐스탄, 러시아, 몽골의 일부 지역에서 번식하는데, 번식지의 물 양이 달라지면서 번식 성공률이 낮다. 러시아와 중국에서는 사람의 방해와 나쁜 날씨로 번식지 여건이 나빠지고 있다.",
+  "points": [
+    {
+      "ko": "각진 머리",
+      "en": "angular head shape"
+    },
+    {
+      "ko": "어두운 붉은색 부리",
+      "en": "dark red bill"
+    },
+    {
+      "ko": "어두운 붉은색 다리",
+      "en": "dark red legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Relict Gull (Ichthyaetus relictus), adult: angular head, dark red bill and legs",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "adult, side view standing: angular head, dark red bill and legs",
+      "adult, head detail: angular head profile, dark red bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 고대갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528808",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 고대갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528808",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

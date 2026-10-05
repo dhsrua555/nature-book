@@ -1,0 +1,77 @@
+{
+  "id": "otus-sunia",
+  "ko": "소쩍새",
+  "sci": "Otus sunia",
+  "author": "Hodgson, 1836",
+  "en": "Oriental Scops Owl",
+  "ktsn": 120000001855,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "흔하지 않은 여름철새",
+  "habitat": "민가 주변 야산, 공원, 산림, 사찰 주변",
+  "protect": [
+    "천연기념물"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "번식기는 5~6월이며, 이때 밤새도록 운다."
+  },
+  "summary": "마을 가까운 야산과 공원, 산림, 절 둘레에 찾아오는 흔하지 않은 여름철새이다. 번식기인 5~6월에는 해 질 녘부터 새벽까지 밤새 울고, 날이 흐리면 낮에도 운다. 나무 구멍에 흰 알을 3~4개 낳으며, 주로 곤충을 잡아먹지만 작은 새나 쥐도 잡는다. 우리나라 전역에 산다.",
+  "points": [
+    {
+      "ko": "긴 귀깃",
+      "en": "long ear tufts"
+    },
+    {
+      "ko": "갈색이 흩어진 회갈색 몸",
+      "en": "grey-brown plumage flecked with brown"
+    },
+    {
+      "ko": "회색형과 적색형이 있음",
+      "en": "grey and rufous morphs"
+    },
+    {
+      "ko": "깃털 없는 발가락",
+      "en": "unfeathered toes"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Oriental Scops Owl (Otus sunia), adult grey morph: grey-brown overall flecked with brown, long ear tufts, bare unfeathered toes",
+    "pose": "perched upright on a branch at dusk, calling",
+    "scene": "Korean wooded hillside near a village in early summer, at dusk; no people, buildings or text",
+    "views": [
+      "adult grey morph, side view perched: grey-brown flecked brown, long ear tufts, bare toes",
+      "adult rufous morph, side view perched: reddish-brown overall, long ear tufts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 소쩍새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001855",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 소쩍새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001855",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문의 국외 분포 '에스파니아, 일본, 아프리카, 동남아시아' 가운데 에스파니아·아프리카는 이 종의 분포로 보기 어려워(다른 소쩍새류를 한 종으로 묶던 때의 분포로 보임) 요약에서 국외 분포를 뺐다"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "scolopax-rusticola",
+  "ko": "멧도요",
+  "sci": "Scolopax rusticola",
+  "author": "Linnaeus, 1758",
+  "en": "Eurasian Woodcock",
+  "ktsn": 120000001691,
+  "origin": "nibr",
+  "length": "약 34cm",
+  "status": "드문 나그네새, 일부는 드물지 않게 월동",
+  "habitat": "낙엽활엽 관목 숲, 잡목 숲",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "번식지에서는 4월 상순~6월 하순에 알을 낳는다."
+  },
+  "summary": "봄과 가을에 한반도를 드물게 지나가는 나그네새이지만, 겨울을 나는 개체도 드물지 않다. 홀로 또는 암수가 함께 지내며 밤에 활동한다. 낙엽활엽 관목 숲이나 잡목 숲의 나무뿌리 근처 오목한 땅에 낙엽과 마른풀로 접시 모양 둥지를 만들고 알 3~4개를 낳는다. 모족류, 곤충, 다족류, 갑각류, 연체동물과 열매를 먹으며, 유라시아 중북부에서 번식하고 아프리카 북부, 인도, 중국 남부, 한국, 일본 등지에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "곧고 긴 부리",
+      "en": "long straight bill"
+    },
+    {
+      "ko": "흰 턱밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "검은색·갈색·회색 잔무늬로 덮인 윗면",
+      "en": "upperparts covered in fine, intricate black, brown and grey markings"
+    },
+    {
+      "ko": "어두운 갈색 물결무늬가 있는 연갈색 아랫면",
+      "en": "pale brown underparts with dark brown wavy barring"
+    },
+    {
+      "ko": "짧은 다리",
+      "en": "short legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Eurasian Woodcock (Scolopax rusticola), adult: long straight bill, short legs, upperparts covered in fine, intricate black, brown and grey markings, white chin, pale brown underparts with dark brown wavy bars",
+    "pose": "crouched on leaf litter near the base of a tree, side view",
+    "scene": "Korean deciduous scrub woodland in winter, leaf litter around tree roots; no people, buildings or text",
+    "views": [
+      "adult, side view standing: long straight bill, intricate black, brown and grey upperparts, pale brown underparts with dark wavy bars, short legs",
+      "adult, head detail: long straight bill and white chin"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 멧도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000001691",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 멧도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001691",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

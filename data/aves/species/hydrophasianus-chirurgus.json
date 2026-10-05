@@ -1,0 +1,77 @@
+{
+  "id": "hydrophasianus-chirurgus",
+  "ko": "물꿩",
+  "sci": "Hydrophasianus chirurgus",
+  "author": "Scopoli, 1786",
+  "en": "Pheasant-tailed Jacana",
+  "ktsn": 120000001688,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "저수지, 가시연꽃이 빽빽한 곳",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "저수지나 가시연꽃이 빽빽하게 자라는 물에 사는 새로, 긴 목과 긴 꼬리, 긴 발가락이 눈에 띈다. 분포권 북쪽에서 번식하는 무리는 남쪽으로 옮겨 가지만, 남쪽에서 번식하는 무리는 한곳에 머무는 텃새이다. 중국 양쯔 강 이남과 일본 규슈(후쿠오카)에 분포한다.",
+  "points": [
+    {
+      "ko": "연한 황색 뒷목",
+      "en": "pale yellow hindneck"
+    },
+    {
+      "ko": "흰 얼굴·멱·앞목과 윗가슴",
+      "en": "white face, throat, foreneck and upper breast"
+    },
+    {
+      "ko": "검은 아랫가슴과 등",
+      "en": "black lower breast and back"
+    },
+    {
+      "ko": "접은 날개 위쪽의 흰 부분",
+      "en": "white upper part of the folded wing"
+    },
+    {
+      "ko": "가늘게 뻗은 첫째날개깃",
+      "en": "slender, elongated primaries"
+    },
+    {
+      "ko": "긴 꼬리와 긴 발가락",
+      "en": "long tail and very long toes"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Pheasant-tailed Jacana (Hydrophasianus chirurgus), adult: long neck, long tail, very long toes and slender elongated primaries; pale yellow hindneck; white face, throat, foreneck and upper breast; white upper part of the folded wing; black lower breast, back and rest of the body",
+    "pose": "standing on floating leaves, side view",
+    "scene": "Korean reservoir thickly covered with floating prickly water-lily leaves; no people, buildings or text",
+    "views": [
+      "adult, side view standing: pale yellow hindneck, white face, throat and foreneck, black lower breast and body, long tail, very long toes",
+      "wing detail: slender elongated primaries and white upper part of the folded wing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 물꿩",
+      "url": "https://species.nibr.go.kr/species-detail/120000001688",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 물꿩",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001688",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

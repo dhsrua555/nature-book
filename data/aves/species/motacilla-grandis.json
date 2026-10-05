@@ -1,0 +1,76 @@
+{
+  "id": "motacilla-grandis",
+  "ko": "검은등할미새",
+  "sci": "Motacilla grandis",
+  "author": "Sharpe, 1885",
+  "en": "Japanese Wagtail",
+  "ktsn": 120000002173,
+  "origin": "nibr",
+  "length": "21cm",
+  "status": "남부 지방의 드물지 않은 겨울철새",
+  "habitat": "물가 돌담, 풀숲, 지붕 틈새(둥지 자리)",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "산란기는 3월 중순~7월이다(국내 번식인지는 원문에 없다)."
+  },
+  "summary": "한반도 남부에서 드물지 않게 겨울을 나는 겨울새이다. 암수가 함께 지내고, 번식을 마치면 어린 새를 데리고 작은 무리를 이룬다. 물속 곤충이 늘어나는 이른 봄부터 번식에 들어가, 물가 돌담이나 풀숲, 지붕 틈새에 둥지를 틀고 3월 중순~7월에 한배에 알 4~6개를 낳는다. 갑충, 파리, 나비, 거미, 조개, 가재 등을 잡아먹고 농작물 낟알도 먹으며, 일본과 우리나라 일부 내륙 지방에 분포한다.",
+  "points": [
+    {
+      "ko": "흰 이마와 눈썹선",
+      "en": "white forehead and supercilium"
+    },
+    {
+      "ko": "흰 턱밑",
+      "en": "white chin"
+    },
+    {
+      "ko": "검은 윗면과 가슴",
+      "en": "black upperparts and breast"
+    },
+    {
+      "ko": "흰 아랫가슴·배·아래꼬리덮깃",
+      "en": "white lower breast, belly and undertail coverts"
+    },
+    {
+      "ko": "검은 꼬리",
+      "en": "black tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Japanese Wagtail (Motacilla grandis), adult: black upperparts, breast and tail, white forehead joined to a white supercilium, white chin, white lower breast, belly and undertail coverts",
+    "pose": "walking along the water's edge, picking at insects",
+    "scene": "Korean winter riverside in the south with a low stone wall and grassy bank; no people, buildings or text",
+    "views": [
+      "adult, side view walking: black upperparts and tail, white forehead and supercilium, black breast, white belly",
+      "adult, front view: white chin, black breast, white lower breast and belly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 검은등할미새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002173",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 검은등할미새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002173",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "겨울새라 하면서 산란기(3월 중순~7월)와 둥지를 적었으나 국내에서 번식하는지 밝히지 않아 months.breed 를 TODO로 두었다."
+  ]
+}

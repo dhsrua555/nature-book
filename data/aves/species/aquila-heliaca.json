@@ -1,0 +1,51 @@
+{
+  "id": "aquila-heliaca",
+  "ko": "흰죽지수리",
+  "sci": "Aquila heliaca",
+  "author": "Savigny, 1809",
+  "en": "Eastern Imperial Eagle",
+  "ktsn": 120000001615,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "드문 겨울철새",
+  "habitat": "하구, 간척지, 저수지",
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "드물게 찾아오는 겨울철새로, 전국의 하구, 간척지, 저수지 등에 국지적으로 나타난다. 분포의 대부분은 유럽과 러시아 일대이며, 여러 개발 탓에 종의 존속이 위협받고 있다.",
+  "points": [],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "TODO",
+    "pose": "perched, side view",
+    "scene": "Korean winter estuary with reclaimed land and a reservoir nearby; no people, buildings or text",
+    "views": []
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흰죽지수리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001615",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흰죽지수리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001615",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

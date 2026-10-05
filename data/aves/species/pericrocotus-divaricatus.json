@@ -1,0 +1,81 @@
+{
+  "id": "pericrocotus-divaricatus",
+  "ko": "할미새사촌",
+  "sci": "Pericrocotus divaricatus",
+  "author": "Raffles, 1822",
+  "en": "Ashy Minivet",
+  "ktsn": 120000001930,
+  "origin": "nibr",
+  "length": "약 20cm",
+  "status": "비교적 흔한 여름철새",
+  "habitat": "낙엽활엽수림, 잡목림, 인가 부근의 외딴 교목",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [
+      5,
+      6
+    ],
+    "note": "5~6월에 알을 낳는다."
+  },
+  "summary": "중부 이북과 남한에서 비교적 흔히 볼 수 있는 여름철새로, 낙엽활엽수림이나 잡목림에 살며 인가 근처에 홀로 선 큰키나무 꼭대기에 둥지를 틀기도 한다. 번식기에는 암수가 함께 지내다가 이동 시기에는 무리를 이룬다. 5~6월에 한배에 알 4~5개를 낳고, 곤충을 주로 먹는다. 시베리아, 중국 북동부, 일본 등지에서 번식하고 동남아시아에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "흰 이마와 앞머리(수컷)",
+      "en": "white forehead and forecrown (male)"
+    },
+    {
+      "ko": "검은 뒷머리와 뒷목",
+      "en": "black hindcrown and nape"
+    },
+    {
+      "ko": "부리 기부에서 눈 뒤까지 검은 눈선",
+      "en": "black eye-stripe from bill base to behind the eye"
+    },
+    {
+      "ko": "흰 턱 밑·멱·목 옆",
+      "en": "white chin, throat and neck sides"
+    },
+    {
+      "ko": "끝에 흰 쐐기 무늬가 있는 검은 꼬리",
+      "en": "black tail with long white wedge-shaped tips"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Ashy Minivet (Pericrocotus divaricatus), adult male: white forehead and forecrown, black hindcrown and nape, white supercilium above the lores, black eye-stripe from the bill base through the eye, white ear coverts darkening towards the rear, thin white line below the eye, white chin, throat and neck sides, black tail with long white wedge-shaped tips on the outer feathers, black bill, brown iris, black legs",
+    "pose": "perched at the very top of a tall tree, side view",
+    "scene": "a lone tall tree at the edge of deciduous broadleaf woodland in Korean summer; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: white forehead, black hindcrown and nape, white supercilium, black eye-stripe, white throat, black bill and legs",
+      "adult male, tail from below: black tail with long white wedge-shaped tips"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 할미새사촌",
+      "url": "https://species.nibr.go.kr/species-detail/120000001930",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 할미새사촌",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001930",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

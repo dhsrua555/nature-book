@@ -1,0 +1,78 @@
+{
+  "id": "zosterops-japonicus",
+  "ko": "동박새",
+  "sci": "Zosterops japonicus",
+  "author": "Temminck & Schlegel, 1845",
+  "en": "Warbling White-eye",
+  "ktsn": 120000072228,
+  "origin": "nibr",
+  "length": "12cm",
+  "status": "TODO",
+  "habitat": "상록활엽수림",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO",
+    "note": "4~7월에 알을 낳는다."
+  },
+  "summary": "경상남도와 전라남도의 해안과 섬, 제주도에 사는 새로, 상록활엽수림에서 지낸다. 잡목림이나 적송림, 관목림의 나뭇가지, 큰키나무의 아랫가지, 나무를 감고 오른 덩굴 등에 사발 모양 둥지를 틀고, 흰색이나 엷은 청색 알 3~5개를 암수가 번갈아 품는다. 새끼에게는 곤충 애벌레를 가장 많이 먹이고 거미와 나비, 파리 같은 어른벌레도 먹이며, 둥지를 떠난 새끼도 며칠 동안 어미에게 먹이를 받아먹는다. 국외에서는 중국, 타이완, 인도차이나반도 북부, 필리핀 북부, 일본에 분포한다.",
+  "points": [
+    {
+      "ko": "가는 흰 깃이 고리를 이룬 눈 둘레",
+      "en": "ring of fine white feathers around the eye"
+    },
+    {
+      "ko": "끝이 뾰족하고 조금 굽은 흑갈색 부리",
+      "en": "pointed, slightly decurved blackish-brown bill"
+    },
+    {
+      "ko": "노란 목",
+      "en": "yellow throat"
+    },
+    {
+      "ko": "황록색 윗면",
+      "en": "yellow-green upperparts"
+    },
+    {
+      "ko": "회백색 아랫면과 담갈색 옆구리",
+      "en": "greyish-white underparts with pale brown flanks"
+    },
+    {
+      "ko": "어두운 회갈색 다리",
+      "en": "dark grey-brown legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 색이 비슷하며, 암컷이 수컷보다 조금 작다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Warbling White-eye (Zosterops japonicus), adult: yellow-green upperparts, yellow throat, greyish-white underparts with pale brown flanks, ring of fine white feathers around the eye, pointed, slightly decurved blackish-brown bill, dark grey-brown legs",
+    "pose": "perched on a twig among evergreen leaves, side view",
+    "scene": "Korean southern coast: evergreen broadleaf forest on an island hillside; no people, buildings or text",
+    "views": [
+      "adult, side view perched: yellow-green upperparts, yellow throat, white eye-ring, greyish-white underparts with pale brown flanks, dark grey-brown legs",
+      "adult, head detail: ring of fine white feathers around the eye, pointed, slightly decurved blackish-brown bill"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 동박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000072228",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 동박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000072228",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

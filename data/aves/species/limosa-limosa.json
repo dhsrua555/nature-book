@@ -1,0 +1,80 @@
+{
+  "id": "limosa-limosa",
+  "ko": "흑꼬리도요",
+  "sci": "Limosa limosa",
+  "author": "Linnaeus, 1758",
+  "en": "Black-tailed Godwit",
+  "ktsn": 120000155073,
+  "origin": "nibr",
+  "length": "36.5–38.5cm",
+  "status": "흔한 나그네새",
+  "habitat": "물이 얕게 고인 논, 강 하구, 갯벌",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": [],
+    "note": "봄과 가을에 우리나라를 지나간다."
+  },
+  "summary": "봄과 가을에 흔하게 지나가는 나그네새이다. 물이 얕게 고인 논, 강 하구, 갯벌에서 무리 지어 먹이를 찾으며, 갯지렁이와 갑각류 같은 여러 무척추동물을 먹고 농경지에서는 볍씨도 먹는다. 유라시아 대륙 중부에서 번식하고 아프리카, 유럽 남부, 인도, 동남아시아, 호주에서 겨울을 난다.",
+  "points": [
+    {
+      "ko": "끝을 빼고 분홍색인 곧고 긴 부리",
+      "en": "long straight bill, pink except at the tip"
+    },
+    {
+      "ko": "번식깃의 적갈색 머리와 앞가슴",
+      "en": "breeding: rufous head to upper breast"
+    },
+    {
+      "ko": "번식깃 윗면의 검은·적갈색 반점",
+      "en": "breeding: upperparts spotted black and rufous"
+    },
+    {
+      "ko": "흰 바탕에 검은 줄무늬 옆구리",
+      "en": "white flanks barred black"
+    },
+    {
+      "ko": "겨울깃의 회갈색 윗면과 흰 배",
+      "en": "non-breeding: grey-brown upperparts, white belly"
+    },
+    {
+      "ko": "날 때 넓은 검은 꼬리 끝과 흰 기부",
+      "en": "in flight, broad black tail band and white tail base"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "번식깃은 몸 윗면에 검은색과 적갈색 반점이 있고 머리에서 앞가슴까지 적갈색이다.",
+    "female": "수컷보다 크고 부리가 더 길며, 머리와 가슴의 붉은색이 수컷보다 연하다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Black-tailed Godwit (Limosa limosa), adult male breeding: long straight bill, pink except at the tip, rufous head, neck and upper breast, upperparts spotted black and rufous, white flanks barred black, long legs",
+    "pose": "wading in a shallow flooded rice field, probing with its long bill",
+    "scene": "Korean flooded rice paddies in spring with shallow standing water; no people, buildings or text",
+    "views": [
+      "adult male breeding, side view standing: long straight pink-based bill, rufous head and breast, black-and-rufous spotted upperparts, barred white flanks",
+      "adult female breeding, side view: larger, longer bill, paler red on head and breast",
+      "adult non-breeding in flight: grey-brown upperparts, white underparts, broad black tail tip and white tail base"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 흑꼬리도요",
+      "url": "https://species.nibr.go.kr/species-detail/120000155073",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 흑꼬리도요",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000155073",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

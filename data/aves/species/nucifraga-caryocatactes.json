@@ -1,0 +1,99 @@
+{
+  "id": "nucifraga-caryocatactes",
+  "ko": "잣까마귀",
+  "sci": "Nucifraga caryocatactes",
+  "author": "Linnaeus, 1758",
+  "en": "Northern Nutcracker",
+  "ktsn": 120000001960,
+  "origin": "nibr",
+  "length": "약 34.5cm",
+  "status": "드물지 않은 텃새",
+  "habitat": "고지대, 겨울에는 평지",
+  "protect": [],
+  "months": {
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      3,
+      4
+    ],
+    "note": "3~4월에 한 해 한 번 번식한다."
+  },
+  "summary": "전국에서 번식하는 드물지 않은 텃새로, 주로 고지대에서 번식하고 겨울에는 평지로 내려와 떠돌아다닌다. 작은 무리를 짓거나 홀로 또는 암수가 함께 지내며, 나무 위나 땅에서 먹이를 찾는다. 소나무를 비롯한 침엽수의 씨앗을 특히 좋아한다. 3~4월에 한 해 한 번 번식해 한배에 알 2~5개를 낳으며, 국외에서는 우랄, 바이칼, 몽골 북부, 사할린, 아무르, 우수리, 만주 등지에 분포한다.",
+  "points": [
+    {
+      "ko": "짙은 초콜릿색 머리꼭대기와 뒷목",
+      "en": "dark chocolate-brown crown and nape"
+    },
+    {
+      "ko": "지저분한 흰색 눈앞",
+      "en": "dirty-white lores"
+    },
+    {
+      "ko": "흰 물방울무늬 초콜릿색 귀깃과 멱",
+      "en": "chocolate ear coverts and throat with white teardrop spots"
+    },
+    {
+      "ko": "흰 부리털이 있는 검은 부리",
+      "en": "black bill with white nasal bristles"
+    },
+    {
+      "ko": "남빛 녹색 광택의 검은 갈색 날개",
+      "en": "blackish-brown wings with a blue-green gloss"
+    },
+    {
+      "ko": "검은 다리",
+      "en": "black legs"
+    }
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "TODO",
+  "similar": [
+    {
+      "ko": "까마귀",
+      "how": "잣까마귀가 까마귀보다 훨씬 작다."
+    }
+  ],
+  "art": {
+    "subject": "Northern Nutcracker (Nucifraga caryocatactes), adult: dark chocolate-brown forehead, crown and nape, dirty-white lores, chocolate-brown ear coverts and throat with slender white teardrop spots, blackish-brown wings with a blue-green gloss, black bill with white nasal bristles, brown iris, black legs",
+    "pose": "perched on a pine branch, extracting seeds from a cone",
+    "scene": "high Korean mountain slopes with pines and other conifers in early spring; no people, buildings or text",
+    "views": [
+      "adult, side view perched: dark chocolate-brown body, white teardrop spots on ear coverts and throat, blackish-brown glossy wings, black bill and legs",
+      "adult, head detail: dirty-white lores, white-spotted ear coverts and throat, black bill with white nasal bristles"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 잣까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001960",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 잣까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001960",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hydroprogne-caspia",
+  "ko": "붉은부리큰제비갈매기",
+  "sci": "Hydroprogne caspia",
+  "author": "Pallas, 1770",
+  "en": "Caspian Tern",
+  "ktsn": 120000528815,
+  "origin": "nibr",
+  "length": "TODO",
+  "status": "TODO",
+  "habitat": "TODO",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": []
+  },
+  "summary": "북미, 북유럽, 중부 유럽, 서부 시베리아, 오스트레일리아, 뉴질랜드, 남부 아프리카에서 번식하고 미국 남부, 아프리카 북서부, 남아프리카, 일본 등지에서 겨울을 나는 제비갈매기다. 같은 무리의 다른 제비갈매기들보다 덩치가 크다.",
+  "points": [
+    {
+      "ko": "다른 제비갈매기보다 큰 덩치",
+      "en": "large, heavy-bodied tern"
+    },
+    {
+      "ko": "첫째날개깃 1~8번째의 검은빛",
+      "en": "blackish first to eighth primaries"
+    },
+    {
+      "ko": "짧은 꼬리",
+      "en": "short tail"
+    }
+  ],
+  "sexes": {
+    "alike": null,
+    "text": "TODO"
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Caspian Tern (Hydroprogne caspia), adult: large tern, first to eighth primaries blackish, short tail",
+    "pose": "standing, side view",
+    "scene": "TODO",
+    "views": [
+      "adult, side view standing: large, heavy-bodied tern with a short tail",
+      "adult in flight from below: blackish primaries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은부리큰제비갈매기",
+      "url": "https://species.nibr.go.kr/species-detail/120000528815",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은부리큰제비갈매기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528815",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": []
+}

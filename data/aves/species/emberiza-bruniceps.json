@@ -1,0 +1,72 @@
+{
+  "id": "emberiza-bruniceps",
+  "ko": "붉은머리멧새",
+  "sci": "Emberiza bruniceps",
+  "author": "Brandt, 1841",
+  "en": "Red-headed Bunting",
+  "ktsn": 120000002228,
+  "origin": "nibr",
+  "length": "17cm",
+  "status": "TODO",
+  "habitat": "관목림, 농경지 주변",
+  "protect": [],
+  "months": {
+    "seen": "TODO",
+    "breed": "TODO"
+  },
+  "summary": "관목림과 농경지 주변에 사는 새로, 아시아와 인도에 분포한다. 나무 위나 관목림의 덤불 속에 둥지를 틀고 알 3~5개를 낳는다. 주로 식물 씨앗을 먹는다.",
+  "points": [
+    {
+      "ko": "적갈색 머리와 가슴(수컷)",
+      "en": "chestnut head and breast (male)"
+    },
+    {
+      "ko": "녹색을 띤 등(수컷)",
+      "en": "greenish back (male)"
+    },
+    {
+      "ko": "노란 배(수컷)",
+      "en": "yellow belly (male)"
+    },
+    {
+      "ko": "갈색 머리와 회갈색 등(암컷)",
+      "en": "brown head and grey-brown back (female)"
+    }
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리와 가슴이 적갈색이고 등은 녹색을 띠며 배는 노랗다.",
+    "female": "수컷보다 색이 엷으며 등은 회갈색, 머리는 갈색이다."
+  },
+  "young": "TODO",
+  "similar": [],
+  "art": {
+    "subject": "Red-headed Bunting (Emberiza bruniceps), adult male: reddish-chestnut head and breast, greenish back, yellow belly",
+    "pose": "perched on top of a shrub, side view",
+    "scene": "shrubland bordering farmland; no people, buildings or text",
+    "views": [
+      "adult male, side view perched: chestnut head and breast, greenish back, yellow belly",
+      "adult female, side view perched: paler than the male, brown head, grey-brown back"
+    ]
+  },
+  "sources": [
+    {
+      "title": "국립생물자원관 국가생물종목록(2025) – 붉은머리멧새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002228",
+      "used": "국명·학명·분류·보호 표시"
+    },
+    {
+      "title": "국립생물자원관 종 설명 – 붉은머리멧새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002228",
+      "used": "몸길이, 국내 상태, 생김새, 사는 곳, 먹이, 번식, 분포"
+    },
+    {
+      "title": "IOC World Bird List v15.2",
+      "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
+      "used": "영문명"
+    }
+  ],
+  "todo": [
+    "원문에 국내 상태·기록이 없다"
+  ]
+}
