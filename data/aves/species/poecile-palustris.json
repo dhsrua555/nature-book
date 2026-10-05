@@ -1,0 +1,59 @@
+{
+  "id": "poecile-palustris",
+  "ko": "쇠박새",
+  "sci": "Poecile palustris",
+  "author": "(Linnaeus, 1758)",
+  "en": "Marsh Tit",
+  "ktsn": 120000528889,
+  "length": "약 12.5cm",
+  "wingspan": "약 19cm",
+  "status": "흔한 텃새",
+  "habitat": "평지와 산의 낙엽활엽수림, 숲 가장자리",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [4, 5],
+    "note": "우리나라 전역에서 연중 볼 수 있는 텃새다. 4월에 산란을 시작하며 알을 낳는 시기는 4~5월이다. 번식기가 지나면 무리를 지어 다닌다."
+  },
+  "summary": "광택 있는 검은 머리꼭대기와 작은 검은 턱밑, 흰 뺨을 가진 작은 박새류로, 우리나라 전역에서 흔히 볼 수 있는 텃새다. 평지와 산의 낙엽활엽수림에 살며 나무 구멍이나 딱따구리가 판 구멍, 인공 새집에 풀과 이끼로 둥지를 만든다. 번식기가 지나면 무리를 지어 다니며, 먹이를 숨겨 두었다가 위치를 기억해 찾아 먹는다. 북방쇠박새와 겉모습이 매우 비슷해 울음소리로 구별하는 것이 확실하다.",
+  "points": [
+    {"ko": "광택 있는 검은 머리꼭대기", "en": "glossy black cap"},
+    {"ko": "작고 단정한 검은 턱밑", "en": "small neat black bib"},
+    {"ko": "흰 뺨", "en": "white cheeks"},
+    {"ko": "흰 줄 없는 회갈색 날개", "en": "plain grey-brown wings, no wing bar"},
+    {"ko": "부리 가장자리의 연한 선", "en": "pale cutting edge to the bill"}
+  ],
+  "sexes": {"alike": true, "text": "암수 같은 색이라 깃으로는 가리기 어렵다. 날개 길이로 암수를 구별하는 방법이 쓰이며, 수컷의 날개가 조금 더 길다."},
+  "young": "어린새는 어른새와 매우 비슷하지만 검은 머리꼭대기와 턱밑이 흐릿하고, 윗면은 더 회색, 아랫면은 더 연하다. 9월 무렵이면 어른깃으로 바뀐다.",
+  "similar": [
+    {"ko": "북방쇠박새", "how": "생김새가 매우 비슷하나 머리꼭대기에 광택이 없고, 보통 둘째날개깃에 연한 무늬가 있다. 겉모습만으로는 가리기 어려워 울음소리로 구별하며, 주로 중부 이북에 사는 흔하지 않은 텃새다."},
+    {"ko": "박새", "how": "몸길이 14cm로 더 크고, 멱에서 배 가운데로 굵은 검은 세로줄이 이어지며 흰 날개띠가 있다."},
+    {"ko": "진박새", "how": "몸길이 약 11cm로 더 작고, 뒷목 가운데가 희며 머리꼭대기 깃이 작은 댕기를 이룬다."}
+  ],
+  "art": {
+    "subject": "Adult Marsh Tit (Poecile palustris hellmayri, South Korean population), a small tit about 12.5 cm long. Glossy black cap and nape with a faint blue sheen; a small, neat black bib under the bill; white cheeks and sides of the throat; upperparts plain pale grey-brown with no wing bars; breast, flanks and belly greyish white; tail pale brownish grey; short, stout black bill with a narrow pale cutting edge; dark grey legs. Sexes alike.",
+    "pose": "perched on a thin twig, body slightly upright, side view, alert",
+    "scene": "Korean deciduous broadleaf forest on a low hillside in early spring: bare oak and maple twigs with swelling buds, a mossy trunk with an old woodpecker hole softly blurred behind; no people, buildings or text",
+    "views": [
+      "adult, perched, side view",
+      "adult, perched, front three-quarter view showing the small black bib",
+      "adult head, close side profile showing the glossy cap and pale cutting edge of the bill"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 쇠박새", "url": "https://species.nibr.go.kr/species-detail/120000528889", "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"},
+    {"title": "국립생물자원관 종 설명 API – 쇠박새 개요(한반도생물자원포털 2010)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528889", "used": "몸길이 약 12.5cm·형태·서식지·둥지·산란 4~5월·북방쇠박새와의 차이"},
+    {"title": "국립생물자원관 종 콘텐츠 목록 – 쇠박새(옛 ktsn 120000001979, 한국의새소리 2010)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001979&pageNo=1&pageSize=50", "used": "우리나라 전역의 흔한 텃새·4월 산란 시작·비번식기 무리·울음소리"},
+    {"title": "국립생물자원관 종 콘텐츠 목록 – 북방쇠박새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001980&pageNo=1&pageSize=50", "used": "유사종 북방쇠박새(둘째날개깃 담색 반점, 울음으로 구별, 중부 이북의 흔하지 않은 텃새)"},
+    {"title": "국립생물자원관 종 콘텐츠 목록 – 진박새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001977&pageNo=1&pageSize=50", "used": "유사종 진박새"},
+    {"title": "IOC World Bird List v15.2 – Waxwings and their allies, tits & penduline tits", "url": "https://www.worldbirdnames.org/new/bow/waxwings/", "used": "영명 Marsh Tit, 한반도 아종"},
+    {"title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv", "used": "P. p. hellmayri(남한)·jeholicus(북한)·brevirostris(최북단) 분포"},
+    {"title": "Wikipedia – Marsh tit", "url": "https://en.wikipedia.org/wiki/Marsh_tit", "used": "날개편길이 19cm·부리 연한 가장자리·머리 광택·다리 색·어린새·먹이 저장(BWP 등 인용 문장)"},
+    {"title": "Broughton R.K. et al. 2008. Ageing and sexing Marsh Tits Poecile palustris using wing length and moult. Ringing & Migration 24(2):88–94 (NERC Open Research Archive)", "url": "https://nora.nerc.ac.uk/id/eprint/5017/", "used": "암수 구별이 어렵고 날개 길이로 가림"}
+  ],
+  "todo": [
+    "breed: 국립생물자원관 산란기 4~5월만 반영. 5월 산란분의 육추가 6월까지 이어지는지 국내 출처 미확인",
+    "wingspan: 19cm는 유럽 원명아종 자료(위키백과, BWP 인용). 국내 아종 값은 미확인",
+    "young·art의 부리·다리 색: 유럽 원명아종 기준 서술(위키백과). 국내 아종 hellmayri의 깃 차이는 미확인"
+  ]
+}

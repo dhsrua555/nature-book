@@ -1,0 +1,58 @@
+{
+  "id": "picus-canus",
+  "ko": "청딱다구리",
+  "sci": "Picus canus",
+  "author": "Gmelin, 1788",
+  "en": "Grey-headed Woodpecker",
+  "ktsn": 120000001918,
+  "length": "25–26cm",
+  "wingspan": "38–40cm",
+  "status": "비교적 흔한 텃새",
+  "habitat": "산림(큰키나무가 있는 숲)",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [4, 5, 6],
+    "note": "1년 내내 볼 수 있다. 4~6월에 큰키나무 줄기에 뚫은 구멍에 알을 낳는다."
+  },
+  "summary": "회색 머리와 녹색 몸을 지닌 딱다구리로, 숲에 사는 비교적 흔한 텃새다. 대개 혼자 지내며, 단단한 꼬리깃으로 몸을 받친 채 나무줄기에 곧게 붙거나 줄기를 빙 돌며 위로 올라간다. 곤충을 주로 먹고 그 가운데 개미를 특히 즐기며, 큰키나무 줄기에 구멍을 뚫어 둥지를 만든다.",
+  "points": [
+    {"ko": "회색 머리", "en": "plain grey head"},
+    {"ko": "수컷 앞머리의 붉은 무늬", "en": "red forecrown (male)"},
+    {"ko": "가는 검은 뺨선과 눈앞 선", "en": "thin black moustache and lores"},
+    {"ko": "녹색 등과 날개", "en": "green back and wings"},
+    {"ko": "황록색 위꼬리덮깃", "en": "yellowish-green uppertail coverts"},
+    {"ko": "무늬 없는 회색 아랫면", "en": "plain greenish-grey underparts"}
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "앞머리(머리꼭대기 앞쪽)가 광택 있는 붉은색이다.",
+    "female": "머리에 붉은색이 없고, 회색 정수리에 가는 검은 세로 얼룩이 있다."
+  },
+  "young": "TODO",
+  "similar": [
+    {"ko": "오색딱다구리", "how": "같은 숲에 흔하지만 몸이 흑백 무늬이고 아랫배와 아래꼬리덮깃이 붉어, 녹색과 회색으로 된 청딱다구리와 쉽게 구별된다."}
+  ],
+  "art": {
+    "subject": "Grey-headed Woodpecker (Picus canus jessoensis), adult male: plain grey face, nape and neck with a glossy red patch on the forecrown; a narrow black line through the lores and a thin black moustachial stripe; usually some fine black streaks on the grey hindcrown; grey of the nape blending into olive-green back, scapulars and wing coverts (East Asian birds slightly greyer and less green than European ones); yellowish-green uppertail coverts with golden-tinged tips; flight feathers barred brown-black on grey-white; plain greenish-grey breast, belly and undertail coverts without spots or bars; legs dark greenish-brown.",
+    "pose": "clinging upright to a large tree trunk, braced on its stiff tail, head turned in profile",
+    "scene": "Korean mixed deciduous forest in late autumn, thick old trunks, golden and russet leaves, an ant mound at the foot of a tree, soft low sunlight; no people, buildings or text",
+    "views": [
+      "adult male, clinging to trunk, side view: red forecrown, grey head, thin black moustache",
+      "adult female, clinging to trunk, side view: no red, grey crown with fine black streaks"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 청딱다구리", "url": "https://species.nibr.go.kr/species-detail/120000001918", "used": "국명·학명·분류(보호 지정 없음)"},
+    {"title": "국립생물자원관 종 설명(API) – 청딱다구리", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001918", "used": "부위별 깃 색, 암수 차이, 다리 색, 비교적 흔한 텃새, 행동, 둥지, 산란 시기, 먹이(개미)"},
+    {"title": "IOC World Bird List v15.2 master list", "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx", "used": "영문명 Grey-headed Woodpecker, 아종 jessoensis 분포(Korean Pen. 포함)"},
+    {"title": "Wikipedia – Grey-headed woodpecker", "url": "https://en.wikipedia.org/wiki/Grey-headed_woodpecker", "used": "몸길이·날개 편 길이(Cramp 1985), 붉은 앞머리, 눈앞 검은 선과 가는 뺨선, 날개깃 무늬, 암컷 정수리 줄무늬, jessoensis 특징"}
+  ],
+  "todo": [
+    "몸길이: 국립생물자원관 설명에 없어 영문 위키(Cramp 1985, 유럽 기준아종) 25–26cm를 씀. 국내 아종 jessoensis 값 확인 필요",
+    "어린새 특징 출처를 찾지 못함",
+    "번식 달은 국립생물자원관의 산란 시기(4–6월) 기준이며 육추 기간은 포함하지 않음",
+    "부리·홍채 색은 확인하지 못해 그림 묘사에서 뺐다",
+    "유사종: 국내에 생김새가 비슷한 녹색 딱다구리가 없어, 같은 숲의 흔한 딱다구리(오색딱다구리)와의 차이만 적음"
+  ]
+}

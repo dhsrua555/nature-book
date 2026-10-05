@@ -1,0 +1,102 @@
+{
+  "id": "aves",
+  "title": "한국의 새",
+  "kicker": "조류 도감",
+  "en": "The Birds of Korea",
+  "sci": "Aves",
+  "edition": "2026",
+  "basis": {
+    "name": "국립생물자원관 국가생물종목록",
+    "edition": "2025",
+    "ref": "tools/ref/nibr-aves-2025.tsv",
+    "url": "https://species.nibr.go.kr"
+  },
+  "intro": "한국에서 기록된 새를 국립생물자원관 국가생물종목록(2025)의 분류에 따라 목, 과, 종의 차례로 엮었다. 종마다 그 새가 사는 곳을 배경으로 한 수채 도판과, 알아보는 데 필요한 특징을 짚은 동정 도해를 한 벌씩 싣는다.",
+  "rep": "falco-subbuteo",
+  "seq_note": "seq: 국가생물종목록 끝에 덧붙어 일련번호가 분류 순서와 어긋나는 종의 자리(목록 일련번호 사이 값)",
+  "seq": { "Pica serica": 270.5 },
+  "labels": { "season": "관찰 시기", "seen": "볼 수 있음", "breed": "번식기", "sexes": "암수 구별", "young": "어린새", "similar": "비슷한 종", "points": "동정 포인트" },
+  "fields": [
+    { "key": "length", "label": "몸길이" },
+    { "key": "wingspan", "label": "날개 편 길이", "optional": true },
+    { "key": "status", "label": "국내 상태" },
+    { "key": "habitat", "label": "사는 곳" },
+    { "key": "protect", "label": "보호", "optional": true }
+  ],
+  "orders": {
+    "Anseriformes": {
+      "rep": "aix-galericulata",
+      "desc": "물갈퀴가 달린 발과 넓적한 부리를 지닌 물새 무리다. 오리, 기러기, 고니가 모두 이 목에 든다."
+    },
+    "Ciconiiformes": {
+      "rep": "ardea-cinerea",
+      "desc": "긴 다리와 긴 목, 긴 부리로 물가에서 먹이를 찾는 큰 새 무리다. 국가생물종목록은 황새과, 저어새과, 백로과를 이 목에 둔다. 근래의 세계 조류 목록(IOC)은 백로과와 저어새과를 사다새목으로 옮겨 다룬다."
+    },
+    "Falconiformes": {
+      "rep": "falco-subbuteo",
+      "desc": "갈고리처럼 굽은 부리와 날카로운 발톱으로 다른 동물을 사냥하는, 낮에 활동하는 맹금류 무리다. 국가생물종목록은 매과와 수리과를 함께 이 목에 둔다. 분자 계통 연구를 따르는 근래의 목록(IOC)은 수리과를 수리목으로 떼어 내고, 매과는 앵무새와 참새 무리에 더 가까운 것으로 본다."
+    },
+    "Columbiformes": {
+      "rep": "streptopelia-orientalis",
+      "desc": "작은 머리와 통통한 몸, 짧은 부리를 지닌 새 무리다. 암수가 모두 모이주머니(소낭)에서 만든 젖 같은 분비물로 새끼를 먹여 기른다."
+    },
+    "Coraciiformes": {
+      "rep": "alcedo-atthis",
+      "desc": "큰 머리와 선명한 깃 색을 지닌 새 무리로, 앞을 향한 발가락 가운데 일부가 밑동에서 서로 붙어 있다. 국가생물종목록은 파랑새과, 물총새과, 후투티과를 이 목에 둔다."
+    },
+    "Piciformes": {
+      "rep": "dendrocopos-major",
+      "desc": "발가락이 앞뒤로 둘씩 나뉜 발로 나무줄기에 붙어 지내는 새 무리다. 국내에는 딱다구리과 한 과가 산다."
+    },
+    "Passeriformes": {
+      "rep": "cyanoptila-cyanomelana",
+      "desc": "세계 조류의 절반이 넘는 종이 속한 가장 큰 목이다. 발가락 셋은 앞, 하나는 뒤를 향해 나뭇가지를 움켜쥐기 좋고, 울음을 내는 울대가 발달해 노래가 다양하다."
+    }
+  },
+  "families": {
+    "Anatidae": {
+      "rep": "aix-galericulata",
+      "desc": "기러기목의 거의 모든 종이 속한 과다. 부리 가장자리에 빗살처럼 늘어선 얇은 판으로 물과 진흙 속의 먹이를 걸러 먹는 종이 많다."
+    },
+    "Ardeidae": {
+      "rep": "ardea-cinerea",
+      "desc": "얕은 물에 서서 물고기와 개구리 따위를 노리는 새들이다. 날 때 목을 S자로 접어 머리를 어깨 쪽으로 당기는 점이 목을 곧게 뻗고 나는 황새, 두루미와 다르다."
+    },
+    "Falconidae": {
+      "rep": "falco-subbuteo",
+      "desc": "길고 끝이 뾰족한 날개로 빠르게 나는 맹금류다. 윗부리 끝 가까이에 이빨처럼 튀어나온 돌기가 있어 잡은 먹이의 목뼈를 끊는다."
+    },
+    "Columbidae": {
+      "rep": "streptopelia-orientalis",
+      "desc": "비둘기목을 대표하는 과다. 씨앗과 열매를 주로 먹고, 물을 마실 때 부리를 담근 채 빨아들인다."
+    },
+    "Alcedinidae": {
+      "rep": "alcedo-atthis",
+      "desc": "크고 곧은 부리와 짧은 다리를 지녔다. 물가 횃대에서 물속으로 곧장 뛰어들어 물고기를 잡는 종이 많고, 흙 벼랑에 굴을 파 둥지를 트는 종이 많다."
+    },
+    "Picidae": {
+      "rep": "dendrocopos-major",
+      "desc": "단단한 부리로 나무를 쪼아 먹이를 찾고 둥지 구멍을 판다. 대부분의 종은 긴 혀로 나무 속 곤충을 끌어내고, 빳빳한 꼬리깃으로 몸을 받친다."
+    },
+    "Corvidae": {
+      "rep": "cyanopica-cyanus",
+      "desc": "참새목에서 몸집이 큰 편에 드는 무리로, 까마귀와 까치, 어치가 속한다. 먹이를 숨겨 두었다가 다시 찾아 먹는 행동으로 잘 알려져 있다."
+    },
+    "Paridae": {
+      "rep": "parus-cinereus",
+      "desc": "몸집이 작고 부리가 짧고 단단하다. 나무 구멍이나 틈에 둥지를 틀며, 겨울에는 여러 종이 섞여 무리를 짓는 일이 많다."
+    },
+    "Pycnonotidae": {
+      "rep": "hypsipetes-amaurotis",
+      "desc": "열매와 곤충을 함께 먹는 중간 크기의 명금류로, 아시아와 아프리카의 따뜻한 지역에 종이 많다."
+    },
+    "Muscicapidae": {
+      "rep": "cyanoptila-cyanomelana",
+      "desc": "곤충을 잡아먹는 작은 명금류 무리다. 횃대에서 날아올라 공중의 곤충을 낚아채거나 땅에 내려 먹이를 찾는다. 딱새와 유리새 무리가 여기에 든다."
+    },
+    "Passeridae": {
+      "rep": "passer-montanus",
+      "desc": "짧고 굵은 원뿔 모양 부리로 씨앗을 까먹는 작은 새들이다. 사람이 사는 곳 가까이에서 흔히 보인다."
+    }
+  }
+}

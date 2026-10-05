@@ -1,0 +1,43 @@
+# 삽화 프롬프트 템플릿 — 모든 그림의 톤을 여기 한 곳에서 맞춘다.
+# {style} 자리에는 아래 style 이, 나머지 {…} 자리에는 종 파일(data/<권>/species/<id>.json)의 값이 들어간다.
+#   {ko} {en} {sci} {subject} {pose} {scene} {views} {points}
+# 고친 뒤에는 `uv run tools/illustrate.py prompt <종 id>` 로 완성된 프롬프트를 먼저 확인한다.
+
+model = "gpt-image-2.5-flare"   # 다른 선택: gpt-image-2.5-sunburst(기준 그림 편집이 더 정밀), gpt-image-2
+quality = "high"                # low · medium · high · xhigh · max  (시험 삼아 돌릴 때는 low)
+web_width = 1000                # 웹용 webp 가로 픽셀
+webp_quality = 84
+
+style = """
+Hand-painted naturalist watercolor in the manner of a 19th-century ornithological book plate, on warm cream cold-press watercolor paper with visible paper grain. Layered translucent washes, soft wet-in-wet blooms, crisp dry-brush detail and fine pen-and-ink lines describing individual feathers. Muted, natural, earthy palette. The bird must be scientifically accurate: proportions, bill shape and colour, eye colour, leg colour and every plumage mark exactly as described. No text, letters, numbers, labels, signature, watermark, border or frame anywhere in the image.
+"""
+
+# 기준 그림을 넘길 때 덧붙는 말 (--ref 또는 아래 [scene]/[plate] 의 ref)
+ref_note = """
+The attached reference image(s) show the house style. Match only their painting technique, paper texture, colour temperature and level of detail. Do not copy the species, the pose, the composition or the background of the reference.
+"""
+
+[scene]
+# 서식지를 배경으로 한 도판 → img/<권>/<id>.webp
+size = "1536x1024"
+suffix = ""
+ref = []                        # 예: ["art/ref/scene-style.png"]  (마음에 든 도판을 넣어 두면 늘 함께 넘긴다)
+prompt = """
+{style}
+Subject: one {en} ({sci}) — {subject}. Pose: {pose}.
+Setting: {scene}. Paint the setting as a soft but recognisable watercolor background that shows where this species lives in Korea, with the right plants, season and light.
+Composition: landscape format. The bird is the clear subject, sharply painted, about one third of the image width, placed slightly off-centre; the background is looser and gently out of focus so the bird stands out. Nothing else competes for attention (no people, buildings or other animals).
+"""
+
+[plate]
+# 동정 도해(글자 없음, 번호·설명은 웹에서 얹는다) → img/<권>/<id>.id.webp
+size = "1024x1536"
+suffix = ".id"
+ref = []
+prompt = """
+{style}
+An identification plate of the {en} ({sci}) on a plain, pale cream paper background with no scenery at all.
+Show these views, arranged from top to bottom with generous empty space between them, all at the same scale: {views}.
+Every one of these field marks must be clearly visible and accurately painted: {points}.
+Keep wide empty margins to the left and right of each view, because labels will be added there later. Absolutely no text or lettering of any kind.
+"""

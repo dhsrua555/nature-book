@@ -1,0 +1,72 @@
+{
+  "id": "cyanoptila-cyanomelana",
+  "ko": "큰유리새",
+  "sci": "Cyanoptila cyanomelana",
+  "author": "(Temminck, 1829)",
+  "en": "Blue-and-white Flycatcher",
+  "ktsn": 120000002145,
+  "length": "16.5cm",
+  "wingspan": "TODO",
+  "status": "흔한 여름철새",
+  "habitat": "계곡과 절벽이 있는 산지 낙엽활엽수림",
+  "protect": [],
+  "months": {
+    "seen": [4, 5, 6, 7, 8, 9],
+    "breed": [5, 6, 7],
+    "note": "4월 중순에 도래하고 5–7월에 산란한다. 9월까지 남하하는 개체가 보이며, 10–11월 기록은 늦은 경우다."
+  },
+  "summary": "수컷은 광택 있는 코발트색 윗면과 검은 얼굴, 흰 배가 뚜렷하게 대비되는 솔딱새과 새로, 전국에서 흔히 번식하는 여름철새다. 계곡이 발달한 낙엽활엽수림에 살며, 세력권 안 나무 꼭대기처럼 눈에 띄는 곳에 앉아 맑은 소리로 지저귄다. 앉은 자리에서 날아올라 곤충을 잡고 돌아오며, 땅에는 거의 내려오지 않는다. 계곡 근처 절벽이나 바위 틈에 이끼와 낙엽으로 둥지를 짓는다.",
+  "points": [
+    {"ko": "광택 있는 코발트색 윗면", "en": "glossy cobalt-blue upperparts"},
+    {"ko": "검은 얼굴·멱·윗가슴(수컷)", "en": "blackish face, throat and upper breast (male)"},
+    {"ko": "경계가 뚜렷한 흰 배", "en": "sharply demarcated white belly"},
+    {"ko": "꼬리 기부의 흰 반점", "en": "white bases to the outer tail"},
+    {"ko": "가늘고 어두운 다리", "en": "slender dark legs"},
+    {"ko": "암컷의 적갈색 허리·꼬리", "en": "female: rufous-tinged rump and tail"}
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "이마부터 등까지 윗면이 자줏빛이 조금 도는 광택 있는 코발트 청색이고, 머리꼭대기는 대개 조금 더 밝다. 눈앞·뺨·귀깃·멱·윗가슴은 검은색이며 국내 아종(intermedia)은 검은 부분에 푸른빛이 돈다. 옆구리는 칙칙한 청색, 아랫가슴부터 아래꼬리덮깃까지는 흰색이다. 꼬리깃 기부가 희다.",
+    "female": "윗면은 녹색 기가 도는 회갈색이고 날개·허리·꼬리는 적갈색을 띤다. 멱 중앙은 갈색 기 도는 크림색으로 밝고, 가슴은 회갈색, 배는 흰색이다. 눈 둘레에 가는 흐린 테가 있다."
+  },
+  "young": "어린 수컷은 몸이 암컷처럼 갈색이지만 날개·허리·꼬리에 파란색이 나타나며, 그 정도는 개체마다 다르다.",
+  "similar": [
+    {"ko": "쇠유리새", "how": "쇠유리새 수컷은 턱밑부터 아랫면 전체가 희고, 검은색은 눈앞에서 목 옆·가슴 옆으로 띠처럼만 이어진다. 꼬리에 흰색이 없고 다리가 길고 연분홍빛이며, 숲 바닥 덤불에서 지낸다. 쇠유리새 암컷은 허리·꼬리에 푸른빛이 돌고 다리가 분홍빛이어서, 허리·꼬리가 적갈색이고 다리가 어두운 큰유리새 암컷과 다르다."},
+    {"ko": "대륙큰유리새", "how": "수컷의 멱·가슴·귀깃이 검지 않고 윗면처럼 파란빛을 띤다. 국내에서는 길잃은새로 기록된다. 암컷과 첫 겨울 개체는 큰유리새와 구별하기 어렵다."}
+  ],
+  "art": {
+    "subject": "Adult male Blue-and-white Flycatcher of the Korean subspecies intermedia, a fairly large flycatcher about 16.5 cm long. Upperparts from forehead to tail glossy deep cobalt blue with a slight purplish sheen, the crown a little paler and brighter blue; lores, cheeks, ear-coverts, chin, throat and upper breast blackish with a dark blue wash (matt, not jet black), sharply cut off from the clean white lower breast, belly and undertail coverts; flanks dusky blue; tail blue-black with white bases to the outer tail feathers; flight feathers black edged cobalt; black bill; dark brown eye; slender dark brown legs.",
+    "pose": "perched upright on an exposed bare twig at the top of a tree, head raised as if singing",
+    "scene": "steep wooded mountain valley in Korea in May, fresh green deciduous broadleaf foliage, a mossy rock cliff and a clear stream below; no people, buildings or text",
+    "views": [
+      "adult male, perched, side view",
+      "adult female, perched, side view (grey-brown with pale cream throat patch, rufous-tinged rump and tail)",
+      "first-year male, perched, side view (brown head and body with blue wings, rump and tail)"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 큰유리새", "url": "https://species.nibr.go.kr/species-detail/120000002145", "used": "국명·학명·분류·몸길이·국내 상태·형태·어린 수컷·산란기"},
+    {"title": "국립생물자원관 종 설명 API – 큰유리새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000002145", "used": "여름철새, 16.5cm, 둥지, 산란기 5~7월"},
+    {"title": "국립생물자원관 종 설명 콘텐츠 목록(API) – 큰유리새 (환경부 한국의야생동·식물, 한국의새소리 2010, 사이버교육센터 자료)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?ktsn=120000002145&stts=Y&srchRelKtsn=Y&pageNo=1&pageSize=100", "used": "흔한 여름새(SV/c), 수컷·암컷 깃 세부, 꼬리 기부 흰색, 다리 색, 나무 꼭대기 노래"},
+    {"title": "국립생물자원관 철새 종 검색(API) – cyanomelana", "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=cyanomelana&pageCount=1&unitCount=10", "used": "철새 DB 구분 '여름 철새'"},
+    {"title": "국립생물자원관 철새 종 검색(API) – cumatilis", "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=cumatilis&pageCount=1&unitCount=10", "used": "대륙큰유리새 국명과 '길잃은새' 구분"},
+    {"title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 큰유리새", "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001122", "used": "나무 위 생활, 날아오는 곤충 잡기, 수컷 깃·다리 색"},
+    {"title": "운문산생태탐방안내센터(대구지방환경청) – 큰유리새", "url": "https://www.eco-unmunsan.kr/open.content/ko/unmunsa/notice/?i=5046&p=3&c=animal", "used": "암컷 허리·위꼬리덮깃 다갈색, 계곡 낙엽활엽수림"},
+    {"title": "Birds Korea 2014 대한민국 조류목록", "url": "http://www.birdskorea.or.kr/Birds/Checklist/BK-CL-Checklist-Apr-2014.shtml", "used": "큰유리새 P2, S2"},
+    {"title": "Birds Korea – Birdyear", "url": "http://www.birdskorea.org/Birds/Birding_in_Korea/BK-BK-Birdyear.shtml", "used": "4월 중순 도래, 6월 번식지 우점"},
+    {"title": "Birds Korea Bird News 2013년 8월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-08.shtml", "used": "8월 노래하는 수컷(intermedia) 기록"},
+    {"title": "Birds Korea Bird News 2005년 9월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-09.shtml", "used": "9월 이동 기록"},
+    {"title": "Birds Korea Bird News 2003년 11월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-11.shtml", "used": "11월 기록을 '매우 늦은 기록'으로 평가"},
+    {"title": "Birds Korea Bird News 2010년 4월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-04.shtml", "used": "국내 cumatilis(대륙큰유리새) 기록"},
+    {"title": "HKBWS Avifauna – Blue-and-white Flycatcher", "url": "https://avifauna.hkbws.org.hk/species/0400/048600", "used": "intermedia 수컷 멱 색, 바깥 꼬리깃 기부 흰색, 암컷·첫 겨울 수컷 깃"},
+    {"title": "Dewi et al. (2016) Forktail 32: 36–40, Field records of Zappey's Flycatcher on Java and Sumatra", "url": "https://www.orientalbirdclub.org/s/Zappeys-Flycatcher-fpj4.pdf", "used": "대륙큰유리새와의 구별(멱·가슴·귀깃 색), 암컷·첫 겨울 개체 구별 불가"},
+    {"title": "Birds of the World – Blue-and-white Flycatcher (아종 분포)", "url": "https://birdsoftheworld.org/bow/species/bawfly2/cur/introduction", "used": "한국 번식 아종 intermedia"},
+    {"title": "Wikipedia – Blue-and-white flycatcher", "url": "https://en.wikipedia.org/wiki/Blue-and-white_flycatcher", "used": "IOC 영문명, 번식기(분포 전역 기준) 참고"},
+    {"title": "Wikimedia Commons – Cyanoptila cyanomelana male.JPG", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyanoptila_cyanomelana_male.JPG", "used": "그림용 꼬리 기부 흰 반점·머리꼭대기 색 확인(사진)"}
+  ],
+  "todo": [
+    "wingspan: 공식·학술 출처에서 날개편길이를 찾지 못함",
+    "months.seen: 달을 직접 적은 공식 출처가 없어 Birds Korea(4월 중순 도래, 8·9월 관찰), 국립생물자원관(5–7월 산란)을 합쳐 정함. 10월은 해에 따라 1–2건뿐이라 뺐음. 검토 필요",
+    "young: 갓 둥지를 떠난 어린새(유조) 깃 설명은 찾지 못하고 어린 수컷 설명만 씀"
+  ]
+}

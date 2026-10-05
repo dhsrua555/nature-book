@@ -1,0 +1,40 @@
+# ChatGPT Work 삽화 작업 지침
+
+ChatGPT 데스크톱 앱의 **Work**가 이 프로젝트에서 도감 삽화를 그릴 때 따르는 절차다.
+API 키 없이 앱에 들어 있는 이미지 생성(`$imagegen`, gpt-image-2)으로 그리고, 그림은 요금제 사용량에서 나간다.
+
+## 할 일
+
+1. 프로젝트 맨 위에서 실행한다.
+   ```
+   uv run tools/illustrate.py queue --limit 4
+   ```
+   아직 그림이 없는 작업이 JSON 배열로 나온다. 항목마다 `id`, `ko`(국명), `kind`, `size`, `orientation`, `save_to`, `refs`, `prompt` 가 있다.
+2. 항목마다 한 장씩:
+   - `$imagegen` 으로 `prompt` 를 **고치지 말고 그대로** 넣어 그린다. 방향과 크기는 `orientation`·`size` 를 따른다
+     (`scene` = 가로 1536×1024, `plate` = 세로 1024×1536).
+   - `refs` 에 파일이 있으면 기준 그림으로 함께 붙인다. 붓질·종이·색감만 맞추고, 종·자세·배경은 따라 하지 않는다.
+   - 결과를 `save_to` 경로(예: `art/inbox/aix-galericulata.png`, 동정 도해는 `art/inbox/aix-galericulata.id.png`)에 PNG로 저장한다.
+   - 그림을 직접 살펴본다. 아래에 해당하면 한 번만 다시 그린다.
+     - 글자·숫자·서명·테두리가 들어갔다.
+     - 프롬프트의 깃 색·부리·다리 색 설명과 눈에 띄게 다르다(다른 종처럼 보인다).
+     - `plate` 인데 배경에 풍경이 있거나, 요구한 모습(views) 수가 맞지 않다.
+3. 다 그렸으면 실행한다.
+   ```
+   uv run tools/illustrate.py import
+   ```
+   webp로 줄여 `img/` 에 넣고 원본은 `art/raw/` 로 옮긴 뒤 `data/*/book.json` 을 다시 만든다.
+4. 마지막에 짧게 보고한다: 그린 종, 다시 그린 종과 이유, 실패한 종.
+
+## 하지 말 것
+
+- `data/` 의 종 자료, 코드, `tools/style.toml` 을 고치지 않는다.
+- `img/` 의 기존 그림을 지우거나 덮어쓰지 않는다.
+- `git commit` · `git push` 하지 않는다. 사람이 검수한 뒤 커밋한다.
+- 한 번에 `--limit` 보다 많이 그리지 않는다(요금제 사용량 보호).
+
+## 예약 작업으로 돌릴 때
+
+Work 대화에서 이렇게 부탁하면 된다.
+
+> 매일 오전 9시에 이 프로젝트에서 tools/WORK.md 대로 삽화를 4장씩 그려 줘. 남은 작업이 없으면 아무것도 하지 말고 끝내.

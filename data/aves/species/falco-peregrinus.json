@@ -1,0 +1,56 @@
+{
+  "id": "falco-peregrinus",
+  "ko": "매",
+  "sci": "Falco peregrinus",
+  "author": "Tunstall, 1771",
+  "en": "Peregrine Falcon",
+  "ktsn": 120000001578,
+  "length": "34–50cm",
+  "wingspan": "80–120cm",
+  "status": "매우 드문 텃새",
+  "habitat": "섬과 해안 절벽, 겨울에는 하구·호수·저수지·농경지",
+  "protect": ["천연기념물", "멸종위기 야생생물 Ⅱ급"],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [3, 4, 5, 6],
+    "note": "번식기는 3월부터 6월 중순까지이며, 알은 3월 하순~4월에 낳는다. 겨울에는 전국의 해안·하구·저수지·농경지 같은 트인 곳에서도 보인다."
+  },
+  "summary": "외딴 섬과 해안 절벽에서 번식하는 대형 매류로, 천연기념물이자 멸종위기 야생생물 Ⅱ급이다. 절벽이나 높은 나무 위에서 지켜보다가 날아가는 새를 발견하면 높은 곳에서 빠르게 내리꽂아 공중에서 잡는다. 오리·도요새 같은 중형 조류를 주로 먹고, 번식기에는 수컷이 공중에서 암컷에게 먹이를 건네는 모습을 볼 수 있다.",
+  "points": [
+    {"ko": "검은 머리와 굵은 뺨선", "en": "black hood and broad moustache"},
+    {"ko": "어두운 청회색 등과 날개", "en": "dark blue-grey back and wings"},
+    {"ko": "흰 멱과 뺨", "en": "white throat and cheeks"},
+    {"ko": "아랫면의 촘촘한 검은 가로줄", "en": "dense fine black barring below"},
+    {"ko": "노란 눈테·납막·발", "en": "yellow eye-ring, cere and feet"},
+    {"ko": "길고 뾰족한 날개", "en": "long pointed wings"}
+  ],
+  "sexes": {"alike": true, "text": "암수 거의 같은 색이다. 암컷이 수컷보다 훨씬 커서(수컷 약 38cm, 암컷 약 51cm) 크기 차이로 짐작할 수 있다."},
+  "young": "등이 갈색이고, 연한 황갈색 아랫면에 굵은 흑갈색 세로줄무늬가 가득하다.",
+  "similar": [
+    {"ko": "새호리기", "how": "더 작고 날개가 가늘며, 아랫면에 가로줄 대신 굵은 검은 세로줄이 있다. 허벅지와 아래꼬리덮깃이 무늬 없는 적갈색이다."},
+    {"ko": "황조롱이", "how": "훨씬 가볍고 작으며, 등이 적갈색이고 꼬리가 길다. 공중에서 정지비행을 하며 먹이를 찾는다."}
+  ],
+  "art": {
+    "subject": "Peregrine Falcon of the East Asian resident race (Falco peregrinus japonensis), adult: slate-black crown and nape forming a dark hood, with a large, bold black moustachial patch below the eye; white throat and pale cheeks contrasting sharply with the black head; dark blue-grey back, wings and tail with faint darker barring, black wingtips; tail with thin dark bars, a black tip and a narrow white terminal band; underparts white to pale buff, densely crossed with fine black bars on the breast, belly, flanks and thighs; dark eye with a yellow eye-ring, yellow cere, black hooked bill, strong yellow feet with black talons. Powerful, broad-chested build.",
+    "pose": "perched upright on a rocky sea-cliff ledge, body erect, head turned scanning the sea",
+    "scene": "a rugged rocky sea cliff on an uninhabited island off Korea's southwest coast in early spring, waves breaking white below, a few seabirds over the water, sparse pines and grass on the cliff top; no people, buildings or text",
+    "views": [
+      "adult, from above in flight: dark blue-grey back and upperwing, blackish head, black wingtips, long pointed wings, barred tail with pale tip",
+      "adult, from below in flight: black hood and broad moustache against white throat, densely barred pale underparts, long pointed wings",
+      "adult, side view in flight (stoop): wings half-folded close to the body, compact powerful shape, black moustache, yellow feet tucked"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 매", "url": "https://species.nibr.go.kr/species-detail/120000001578", "used": "국명·학명·분류·보호 등급(천연기념물, 멸종위기 Ⅱ급)"},
+    {"title": "국립생물자원관 종 설명(API) – 매", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001578", "used": "몸길이·날개 편 길이, 깃 색, 암수, 어린새, 번식 장소, 먹이, 먹이 전달 행동"},
+    {"title": "IOC World Bird List v15.2 master list", "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx", "used": "영문명 Peregrine Falcon, 아종 japonensis 분포"},
+    {"title": "한국민족문화대백과사전 – 매", "url": "https://encykorea.aks.ac.kr/Article/E0017917", "used": "국내 아종(japonensis), 매우 드문 텃새, 겨울 분포, 산란 시기, 암수 몸길이, 사냥법, 먹이"},
+    {"title": "Choi & Nam (2015) Diet of Peregrine Falcons (Falco peregrinus) in Korea, Journal of Raptor Research 49(4)", "url": "https://bioone.org/journals/journal-of-raptor-research/volume-49/issue-4/rapt-49-04-376-388.1/Diet-of-Peregrine-Falcons-Falco-peregrinus-in-Korea--Food/10.3356/rapt-49-04-376-388.1.full", "used": "국내 번식기(3월~6월 중순), 연중 관찰, 섬 번식지, pealei는 겨울 미조"},
+    {"title": "Wikipedia – Peregrine falcon", "url": "https://en.wikipedia.org/wiki/Peregrine_falcon", "used": "성조 깃 색(검은 머리·뺨선, 흰 멱, 가로줄 아랫면, 꼬리 무늬), 납막·발 색, 암수 크기 차, 어린새"}
+  ],
+  "todo": [
+    "국내 지위 '매우 드문 텃새'는 한국민족문화대백과(1995 집필) 표현이다. 최근 국내 개체수 평가는 확인하지 못함",
+    "겨울철 북방 아종(calidus 등)의 국내 도래 여부는 확인하지 못함(Choi & Nam은 pealei를 겨울 미조로만 언급)",
+    "아랫날개 무늬는 출처를 찾지 못해 그림 묘사에서 뺐다"
+  ]
+}

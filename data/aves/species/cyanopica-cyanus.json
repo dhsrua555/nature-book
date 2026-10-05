@@ -1,0 +1,59 @@
+{
+  "id": "cyanopica-cyanus",
+  "ko": "물까치",
+  "sci": "Cyanopica cyanus",
+  "author": "(Pallas, 1776)",
+  "en": "Azure-winged Magpie",
+  "ktsn": 120000001956,
+  "length": "37cm",
+  "wingspan": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "산지·평지의 숲, 마을 주변 숲과 대나무숲, 도시 공원",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [5, 6, 7],
+    "note": "한반도 전역에서 연중 머무는 텃새다. 5월부터 알을 낳기 시작하며 산란기는 5~7월이다."
+  },
+  "summary": "머리가 검고 날개와 긴 꼬리가 옅은 하늘색인 까마귀과 새로, 한반도 전역에서 흔히 보는 텃새다. 숲 가장자리와 마을 주변 숲, 도시 공원에서 늘 무리를 지어 움직이며, 번식기에도 여러 쌍이 가까이 모여 둥지를 튼다. 둥지 일을 돕는 도우미 새가 함께하는 협동 번식을 한다. 곤충을 즐겨 먹지만 열매와 씨앗도 먹는 잡식성이다.",
+  "points": [
+    {"ko": "광택 있는 검은 머리", "en": "glossy black cap"},
+    {"ko": "흰 뺨과 멱", "en": "white cheeks and throat"},
+    {"ko": "회갈색 등, 연회색 배", "en": "grey-fawn back, pale grey underparts"},
+    {"ko": "하늘색 날개와 긴 꼬리", "en": "pale azure-blue wings and long tail"},
+    {"ko": "가운데 꼬리 끝 흰 무늬", "en": "white tip to central tail feathers"}
+  ],
+  "sexes": {"alike": true, "text": "암수 같은 색이다. 수컷이 몸집이 조금 더 크다."},
+  "young": "어린새는 가운데 꼬리깃이 짧고, 꼬리깃 끝에 몇 mm 폭의 흰 테가 있다. 큰날개덮깃과 작은날개깃(소익) 끝도 희다.",
+  "similar": [
+    {"ko": "까치", "how": "몸길이 46cm로 훨씬 크고, 푸른 광택이 도는 검은 몸에 흰 배와 흰 어깨 무늬가 있다. 물까치처럼 회색 몸에 하늘색 날개와 꼬리를 가지지 않는다."},
+    {"ko": "어치", "how": "몸이 분홍빛 도는 갈색이고 날개덮깃에 청색과 검은색 가로띠가 있으며, 흰 허리와 검은 꼬리가 대비된다. 머리가 검지 않고 굵은 검은 뺨선이 있다."}
+  ],
+  "art": {
+    "subject": "Adult Azure-winged Magpie (Cyanopica cyanus, Korean mainland population), a slim long-tailed corvid about 37 cm long with the tail roughly half the total length. Glossy black cap covering forehead, crown, nape and the eye; clean white chin, throat and cheeks directly below the cap; mantle and back soft grey-fawn (brownish grey); underparts pale grey to off-white; wings and long graduated tail pale azure blue (flight feathers blackish on the hidden inner webs, pale blue on the outer webs, primaries white along the outer web from the middle to the tip); a distinct white tip about 2 cm long on the two central tail feathers; black bill and black legs; dark brown iris. Sexes alike.",
+    "pose": "perched on a slender branch, body angled three-quarters, long blue tail hanging down and slightly fanned, head turned to show the black cap and white throat",
+    "scene": "edge of a deciduous woodland beside rural farmland in Korea in late spring (May): fresh green Japanese larch and mulberry foliage, a bamboo thicket in the soft background, gentle overcast light; no people, buildings or text",
+    "views": [
+      "adult, perched, side view",
+      "adult in flight from above, showing azure wings, white-edged primaries and white-tipped central tail feathers",
+      "juvenile, perched, side view, with short central tail feathers and narrow white tips to the tail feathers"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 물까치", "url": "https://species.nibr.go.kr/species-detail/120000001956", "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"},
+    {"title": "국립생물자원관 종 설명 API – 물까치 개요(한반도생물자원포털 2011)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001956", "used": "몸길이 37cm·흔한 텃새·형태·서식지·둥지·산란기 5~7월·한배 6~9개"},
+    {"title": "국립생물자원관 종 콘텐츠 목록 – 물까치(한국의새소리 2010 생태·국내분포)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001956&pageNo=1&pageSize=50", "used": "무리 지어 번식·낙엽송과 대나무숲 둥지·5월부터 산란·한국 전역의 흔한 텃새"},
+    {"title": "IOC World Bird List v15.2 – Crows, mudnesters, birds-of-paradise", "url": "https://www.worldbirdnames.org/bow/crows/", "used": "영명 Azure-winged Magpie, 한반도 아종 C. c. cyanus(koreensis 포함)"},
+    {"title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv", "used": "아종 분포 문구 확인"},
+    {"title": "Wikipedia – Azure-winged magpie", "url": "https://en.wikipedia.org/wiki/Azure-winged_magpie", "used": "검은 머리·흰 멱·하늘색 날개와 꼬리, 흰 꼬리 끝이 이베리아까치와의 차이, 몸길이 31–35cm(차이 기록)"},
+    {"title": "Bird Research News Vol.6 No.6 (2009) – Azure-winged Magpie (Harada S.), Japan Bird Research Association", "url": "https://www.bird-research.jp/1_shiryo/seitai/onaga.pdf", "used": "암수 같은 색·수컷이 조금 큼, 첫째날개깃 바깥 깃판의 흰색, 가운데 꼬리 끝 약 2cm 흰 무늬, 홍채·부리·다리 색, 어린새 꼬리와 날개덮깃"},
+    {"title": "Kang K-H et al. 2022. Nest characteristics and composition of the colonial nesting Azure-winged magpie Cyanopica cyanus in South Korea. PeerJ 10:e13637", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9250309/", "used": "남양주 번식 시기(4월 하순 둥지 짓기~6월 중·하순 이소), 집단 번식·협동 번식, 국내 텃새"},
+    {"title": "Andalucia Bird Society – Bird of the Month, November 2021", "url": "https://www.andaluciabirdsociety.org/article-library/about-birds/bird-of-the-month-november-2021/", "used": "동아시아 개체의 흰 꼬리 끝 보강 확인"},
+    {"title": "국립생물자원관 종 콘텐츠 목록 – 어치", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001954&pageNo=1&pageSize=50", "used": "유사종 어치의 특징"}
+  ],
+  "todo": [
+    "wingspan: 날개편길이 출처 미확인",
+    "young: 어린새 머리 깃(검은 머리의 광택·얼룩 정도)은 신뢰할 출처를 찾지 못해 꼬리·날개덮깃 특징만 적음. 근거 자료는 일본 개체군(C. c. japonica) 기준",
+    "breed: 국립생물자원관 산란기 5~7월만 반영. 7월 산란분의 육추가 8월까지 이어지는지 국내 출처 미확인"
+  ]
+}

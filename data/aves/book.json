@@ -1,0 +1,717 @@
+{
+ "id": "aves",
+ "title": "한국의 새",
+ "kicker": "조류 도감",
+ "en": "The Birds of Korea",
+ "sci": "Aves",
+ "edition": "2026",
+ "basis": {
+  "name": "국립생물자원관 국가생물종목록",
+  "edition": "2025",
+  "ref": "tools/ref/nibr-aves-2025.tsv",
+  "url": "https://species.nibr.go.kr"
+ },
+ "intro": "한국에서 기록된 새를 국립생물자원관 국가생물종목록(2025)의 분류에 따라 목, 과, 종의 차례로 엮었다. 종마다 그 새가 사는 곳을 배경으로 한 수채 도판과, 알아보는 데 필요한 특징을 짚은 동정 도해를 한 벌씩 싣는다.",
+ "fields": [
+  {
+   "key": "length",
+   "label": "몸길이"
+  },
+  {
+   "key": "wingspan",
+   "label": "날개 편 길이",
+   "optional": true
+  },
+  {
+   "key": "status",
+   "label": "국내 상태"
+  },
+  {
+   "key": "habitat",
+   "label": "사는 곳"
+  },
+  {
+   "key": "protect",
+   "label": "보호",
+   "optional": true
+  }
+ ],
+ "labels": {
+  "season": "관찰 시기",
+  "seen": "볼 수 있음",
+  "breed": "번식기",
+  "sexes": "암수 구별",
+  "young": "어린새",
+  "similar": "비슷한 종",
+  "points": "동정 포인트"
+ },
+ "rep": "falco-subbuteo",
+ "built": "2026-10-05",
+ "counts": {
+  "species": 21,
+  "orders": 7,
+  "families": 11,
+  "nibr": 597
+ },
+ "similar": {
+  "aix-galericulata": [
+   "anas-platyrhynchos"
+  ],
+  "anas-platyrhynchos": [
+   null,
+   null
+  ],
+  "ardea-cinerea": [
+   null,
+   null
+  ],
+  "ardea-alba": [
+   null,
+   null
+  ],
+  "falco-tinnunculus": [
+   "falco-subbuteo",
+   "falco-peregrinus"
+  ],
+  "falco-subbuteo": [
+   "falco-peregrinus",
+   "falco-tinnunculus"
+  ],
+  "falco-peregrinus": [
+   "falco-subbuteo",
+   "falco-tinnunculus"
+  ],
+  "streptopelia-orientalis": [
+   null,
+   null
+  ],
+  "alcedo-atthis": [
+   null,
+   null
+  ],
+  "dendrocopos-major": [
+   null
+  ],
+  "picus-canus": [
+   "dendrocopos-major"
+  ],
+  "cyanopica-cyanus": [
+   "pica-serica",
+   null
+  ],
+  "pica-serica": [
+   "cyanopica-cyanus"
+  ],
+  "corvus-macrorhynchos": [
+   null,
+   null
+  ],
+  "parus-cinereus": [
+   "poecile-palustris",
+   null
+  ],
+  "poecile-palustris": [
+   null,
+   "parus-cinereus",
+   null
+  ],
+  "hypsipetes-amaurotis": [
+   null,
+   null
+  ],
+  "phoenicurus-auroreus": [
+   null,
+   null
+  ],
+  "cyanoptila-cyanomelana": [
+   "larvivora-cyane",
+   null
+  ],
+  "larvivora-cyane": [
+   "cyanoptila-cyanomelana",
+   null
+  ],
+  "passer-montanus": [
+   null,
+   null
+  ]
+ },
+ "tree": [
+  {
+   "rank": "order",
+   "id": "anseriformes",
+   "sci": "Anseriformes",
+   "ko": "기러기목",
+   "rep": "aix-galericulata",
+   "desc": "물갈퀴가 달린 발과 넓적한 부리를 지닌 물새 무리다. 오리, 기러기, 고니가 모두 이 목에 든다.",
+   "nibr": 56,
+   "children": [
+    {
+     "rank": "family",
+     "id": "anatidae",
+     "sci": "Anatidae",
+     "ko": "오리과",
+     "rep": "aix-galericulata",
+     "desc": "기러기목의 거의 모든 종이 속한 과다. 부리 가장자리에 빗살처럼 늘어선 얇은 판으로 물과 진흙 속의 먹이를 걸러 먹는 종이 많다.",
+     "nibr": 56,
+     "children": [
+      {
+       "id": "aix-galericulata",
+       "ko": "원앙",
+       "sci": "Aix galericulata",
+       "en": "Mandarin Duck",
+       "status": "비교적 흔한 텃새이자 겨울철새",
+       "length": "약 45cm",
+       "no": 20,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 2
+      },
+      {
+       "id": "anas-platyrhynchos",
+       "ko": "청둥오리",
+       "sci": "Anas platyrhynchos",
+       "en": "Mallard",
+       "status": "매우 흔한 겨울철새(일부 지역에서 번식)",
+       "length": "약 59cm",
+       "no": 22,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "ciconiiformes",
+   "sci": "Ciconiiformes",
+   "ko": "황새목",
+   "rep": "ardea-cinerea",
+   "desc": "긴 다리와 긴 목, 긴 부리로 물가에서 먹이를 찾는 큰 새 무리다. 국가생물종목록은 황새과, 저어새과, 백로과를 이 목에 둔다. 근래의 세계 조류 목록(IOC)은 백로과와 저어새과를 사다새목으로 옮겨 다룬다.",
+   "nibr": 25,
+   "children": [
+    {
+     "rank": "family",
+     "id": "ardeidae",
+     "sci": "Ardeidae",
+     "ko": "백로과",
+     "rep": "ardea-cinerea",
+     "desc": "얕은 물에 서서 물고기와 개구리 따위를 노리는 새들이다. 날 때 목을 S자로 접어 머리를 어깨 쪽으로 당기는 점이 목을 곧게 뻗고 나는 황새, 두루미와 다르다.",
+     "nibr": 18,
+     "children": [
+      {
+       "id": "ardea-cinerea",
+       "ko": "왜가리",
+       "sci": "Ardea cinerea",
+       "en": "Grey Heron",
+       "status": "흔한 여름철새이자 흔한 겨울철새",
+       "length": "약 93cm",
+       "no": 72,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 1
+      },
+      {
+       "id": "ardea-alba",
+       "ko": "중대백로",
+       "sci": "Ardea alba",
+       "en": "Great Egret",
+       "status": "흔한 여름철새",
+       "length": "약 90cm",
+       "no": 74,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "falconiformes",
+   "sci": "Falconiformes",
+   "ko": "매목",
+   "rep": "falco-subbuteo",
+   "desc": "갈고리처럼 굽은 부리와 날카로운 발톱으로 다른 동물을 사냥하는, 낮에 활동하는 맹금류 무리다. 국가생물종목록은 매과와 수리과를 함께 이 목에 둔다. 분자 계통 연구를 따르는 근래의 목록(IOC)은 수리과를 수리목으로 떼어 내고, 매과는 앵무새와 참새 무리에 더 가까운 것으로 본다.",
+   "nibr": 39,
+   "children": [
+    {
+     "rank": "family",
+     "id": "falconidae",
+     "sci": "Falconidae",
+     "ko": "매과",
+     "rep": "falco-subbuteo",
+     "desc": "길고 끝이 뾰족한 날개로 빠르게 나는 맹금류다. 윗부리 끝 가까이에 이빨처럼 튀어나온 돌기가 있어 잡은 먹이의 목뼈를 끊는다.",
+     "nibr": 7,
+     "children": [
+      {
+       "id": "falco-tinnunculus",
+       "ko": "황조롱이",
+       "sci": "Falco tinnunculus",
+       "en": "Common Kestrel",
+       "status": "비교적 흔한 텃새",
+       "length": "수컷 33cm, 암컷 38cm",
+       "no": 89,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 3
+      },
+      {
+       "id": "falco-subbuteo",
+       "ko": "새호리기",
+       "sci": "Falco subbuteo",
+       "en": "Eurasian Hobby",
+       "status": "여름철새",
+       "length": "29–36cm",
+       "no": 92,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 5
+      },
+      {
+       "id": "falco-peregrinus",
+       "ko": "매",
+       "sci": "Falco peregrinus",
+       "en": "Peregrine Falcon",
+       "status": "매우 드문 텃새",
+       "length": "34–50cm",
+       "no": 95,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "columbiformes",
+   "sci": "Columbiformes",
+   "ko": "비둘기목",
+   "rep": "streptopelia-orientalis",
+   "desc": "작은 머리와 통통한 몸, 짧은 부리를 지닌 새 무리다. 암수가 모두 모이주머니(소낭)에서 만든 젖 같은 분비물로 새끼를 먹여 기른다.",
+   "nibr": 9,
+   "children": [
+    {
+     "rank": "family",
+     "id": "columbidae",
+     "sci": "Columbidae",
+     "ko": "비둘기과",
+     "rep": "streptopelia-orientalis",
+     "desc": "비둘기목을 대표하는 과다. 씨앗과 열매를 주로 먹고, 물을 마실 때 부리를 담근 채 빨아들인다.",
+     "nibr": 8,
+     "children": [
+      {
+       "id": "streptopelia-orientalis",
+       "ko": "멧비둘기",
+       "sci": "Streptopelia orientalis",
+       "en": "Oriental Turtle Dove",
+       "status": "흔한 텃새",
+       "length": "약 33cm",
+       "no": 438,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "coraciiformes",
+   "sci": "Coraciiformes",
+   "ko": "파랑새목",
+   "rep": "alcedo-atthis",
+   "desc": "큰 머리와 선명한 깃 색을 지닌 새 무리로, 앞을 향한 발가락 가운데 일부가 밑동에서 서로 붙어 있다. 국가생물종목록은 파랑새과, 물총새과, 후투티과를 이 목에 둔다.",
+   "nibr": 6,
+   "children": [
+    {
+     "rank": "family",
+     "id": "alcedinidae",
+     "sci": "Alcedinidae",
+     "ko": "물총새과",
+     "rep": "alcedo-atthis",
+     "desc": "크고 곧은 부리와 짧은 다리를 지녔다. 물가 횃대에서 물속으로 곧장 뛰어들어 물고기를 잡는 종이 많고, 흙 벼랑에 굴을 파 둥지를 트는 종이 많다.",
+     "nibr": 4,
+     "children": [
+      {
+       "id": "alcedo-atthis",
+       "ko": "물총새",
+       "sci": "Alcedo atthis",
+       "en": "Common Kingfisher",
+       "status": "흔한 여름철새, 일부 텃새",
+       "length": "17cm",
+       "no": 240,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "piciformes",
+   "sci": "Piciformes",
+   "ko": "딱다구리목",
+   "rep": "dendrocopos-major",
+   "desc": "발가락이 앞뒤로 둘씩 나뉜 발로 나무줄기에 붙어 지내는 새 무리다. 국내에는 딱다구리과 한 과가 산다.",
+   "nibr": 11,
+   "children": [
+    {
+     "rank": "family",
+     "id": "picidae",
+     "sci": "Picidae",
+     "ko": "딱다구리과",
+     "rep": "dendrocopos-major",
+     "desc": "단단한 부리로 나무를 쪼아 먹이를 찾고 둥지 구멍을 판다. 대부분의 종은 긴 혀로 나무 속 곤충을 끌어내고, 빳빳한 꼬리깃으로 몸을 받친다.",
+     "nibr": 11,
+     "children": [
+      {
+       "id": "dendrocopos-major",
+       "ko": "오색딱다구리",
+       "sci": "Dendrocopos major",
+       "en": "Great Spotted Woodpecker",
+       "status": "흔한 텃새",
+       "length": "약 24cm",
+       "no": 248,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 1
+      },
+      {
+       "id": "picus-canus",
+       "ko": "청딱다구리",
+       "sci": "Picus canus",
+       "en": "Grey-headed Woodpecker",
+       "status": "비교적 흔한 텃새",
+       "length": "25–26cm",
+       "no": 252,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "rank": "order",
+   "id": "passeriformes",
+   "sci": "Passeriformes",
+   "ko": "참새목",
+   "rep": "cyanoptila-cyanomelana",
+   "desc": "세계 조류의 절반이 넘는 종이 속한 가장 큰 목이다. 발가락 셋은 앞, 하나는 뒤를 향해 나뭇가지를 움켜쥐기 좋고, 울음을 내는 울대가 발달해 노래가 다양하다.",
+   "nibr": 255,
+   "children": [
+    {
+     "rank": "family",
+     "id": "corvidae",
+     "sci": "Corvidae",
+     "ko": "까마귀과",
+     "rep": "cyanopica-cyanus",
+     "desc": "참새목에서 몸집이 큰 편에 드는 무리로, 까마귀와 까치, 어치가 속한다. 먹이를 숨겨 두었다가 다시 찾아 먹는 행동으로 잘 알려져 있다.",
+     "nibr": 11,
+     "children": [
+      {
+       "id": "cyanopica-cyanus",
+       "ko": "물까치",
+       "sci": "Cyanopica cyanus",
+       "en": "Azure-winged Magpie",
+       "status": "흔한 텃새",
+       "length": "37cm",
+       "no": 270,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 4
+      },
+      {
+       "id": "pica-serica",
+       "ko": "까치",
+       "sci": "Pica serica",
+       "en": "Oriental Magpie",
+       "status": "텃새",
+       "length": "46cm",
+       "no": 598,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 4
+      },
+      {
+       "id": "corvus-macrorhynchos",
+       "ko": "큰부리까마귀",
+       "sci": "Corvus macrorhynchos",
+       "en": "Large-billed Crow",
+       "status": "흔한 텃새",
+       "length": "약 57cm",
+       "no": 276,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 2
+      }
+     ]
+    },
+    {
+     "rank": "family",
+     "id": "paridae",
+     "sci": "Paridae",
+     "ko": "박새과",
+     "rep": "parus-cinereus",
+     "desc": "몸집이 작고 부리가 짧고 단단하다. 나무 구멍이나 틈에 둥지를 틀며, 겨울에는 여러 종이 섞여 무리를 짓는 일이 많다.",
+     "nibr": 7,
+     "children": [
+      {
+       "id": "parus-cinereus",
+       "ko": "박새",
+       "sci": "Parus cinereus",
+       "en": "Cinereous Tit",
+       "status": "텃새",
+       "length": "14cm",
+       "no": 466,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 5
+      },
+      {
+       "id": "poecile-palustris",
+       "ko": "쇠박새",
+       "sci": "Poecile palustris",
+       "en": "Marsh Tit",
+       "status": "흔한 텃새",
+       "length": "약 12.5cm",
+       "no": 576,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 3
+      }
+     ]
+    },
+    {
+     "rank": "family",
+     "id": "pycnonotidae",
+     "sci": "Pycnonotidae",
+     "ko": "직박구리과",
+     "rep": "hypsipetes-amaurotis",
+     "desc": "열매와 곤충을 함께 먹는 중간 크기의 명금류로, 아시아와 아프리카의 따뜻한 지역에 종이 많다.",
+     "nibr": 3,
+     "children": [
+      {
+       "id": "hypsipetes-amaurotis",
+       "ko": "직박구리",
+       "sci": "Hypsipetes amaurotis",
+       "en": "Brown-eared Bulbul",
+       "status": "흔한 텃새",
+       "length": "약 28cm",
+       "no": 597,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 6
+      }
+     ]
+    },
+    {
+     "rank": "family",
+     "id": "muscicapidae",
+     "sci": "Muscicapidae",
+     "ko": "솔딱새과",
+     "rep": "cyanoptila-cyanomelana",
+     "desc": "곤충을 잡아먹는 작은 명금류 무리다. 횃대에서 날아올라 공중의 곤충을 낚아채거나 땅에 내려 먹이를 찾는다. 딱새와 유리새 무리가 여기에 든다.",
+     "nibr": 39,
+     "children": [
+      {
+       "id": "phoenicurus-auroreus",
+       "ko": "딱새",
+       "sci": "Phoenicurus auroreus",
+       "en": "Daurian Redstart",
+       "status": "흔한 텃새",
+       "length": "14cm",
+       "no": 341,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 4
+      },
+      {
+       "id": "cyanoptila-cyanomelana",
+       "ko": "큰유리새",
+       "sci": "Cyanoptila cyanomelana",
+       "en": "Blue-and-white Flycatcher",
+       "status": "흔한 여름철새",
+       "length": "16.5cm",
+       "no": 360,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 4
+      },
+      {
+       "id": "larvivora-cyane",
+       "ko": "쇠유리새",
+       "sci": "Larvivora cyane",
+       "en": "Siberian Blue Robin",
+       "status": "나그네새, 드문 여름철새",
+       "length": "약 15cm",
+       "no": 573,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 5
+      }
+     ]
+    },
+    {
+     "rank": "family",
+     "id": "passeridae",
+     "sci": "Passeridae",
+     "ko": "참새과",
+     "rep": "passer-montanus",
+     "desc": "짧고 굵은 원뿔 모양 부리로 씨앗을 까먹는 작은 새들이다. 사람이 사는 곳 가까이에서 흔히 보인다.",
+     "nibr": 3,
+     "children": [
+      {
+       "id": "passer-montanus",
+       "ko": "참새",
+       "sci": "Passer montanus",
+       "en": "Eurasian Tree Sparrow",
+       "status": "흔한 텃새",
+       "length": "14.5cm",
+       "no": 365,
+       "img": {
+        "scene": false,
+        "plate": false
+       },
+       "focus": [
+        0.5,
+        0.5
+       ],
+       "todo": 3
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "hypsipetes-amaurotis",
+  "ko": "직박구리",
+  "sci": "Hypsipetes amaurotis",
+  "author": "(Temminck, 1830)",
+  "en": "Brown-eared Bulbul",
+  "ktsn": 120000530330,
+  "length": "약 28cm",
+  "wingspan": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "평지에서 산지까지 나무가 있는 곳, 도시 공원·정원",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [5, 6],
+    "note": "5–6월에 4–5개의 알을 낳는다. 비번식기와 이동할 때는 큰 무리를 이룬다."
+  },
+  "summary": "회색 몸에 귀깃의 밤색 반점이 두드러지는 몸길이 28cm 안팎의 새로, 평지에서 산지까지 나무가 있는 곳이면 도시 공원에서도 흔히 보이는 텃새다. 거의 나무 위에서만 지내며 땅으로 내려오는 일은 드물다. 열매와 곤충을 먹고, '삐-잇, 삐-잇' 하고 시끄럽게 울며 파도 모양을 그리며 난다. 비번식기와 이동 시기에는 큰 무리를 짓는다.",
+  "points": [
+    {"ko": "귀깃의 밤색 반점", "en": "chestnut-brown ear patch"},
+    {"ko": "푸른빛 도는 회색 머리", "en": "blue-tinged ash-grey head"},
+    {"ko": "흰 반점이 흩어진 배", "en": "grey underparts spotted white"},
+    {"ko": "회갈색 날개", "en": "grey-brown wings"},
+    {"ko": "길고 어두운 꼬리", "en": "long dark tail"}
+  ],
+  "sexes": {"alike": true, "text": "암수 같은 색이다. 깃 색으로는 암수를 가리기 어렵다."},
+  "young": "TODO",
+  "similar": [
+    {"ko": "검은이마직박구리", "how": "몸길이 약 19cm로 훨씬 작고, 검은 머리에 눈 뒤에서 뒷머리까지 흰 무늬가 있으며 귀깃에 밤색 반점이 없다. 국내에서는 직박구리보다 훨씬 드물다."},
+    {"ko": "찌르레기", "how": "부리와 다리가 주황색이고(부리 끝만 검다) 이마와 뺨이 희다. 직박구리는 부리가 검고 귀깃이 밤색이다."}
+  ],
+  "art": {
+    "subject": "Adult Brown-eared Bulbul (sexes alike), a slender, long-tailed songbird about 28 cm long. Head, nape and back ash-grey with a faint bluish tinge; crown feathers pointed, giving a slightly ragged, spiky crown. A distinct chestnut-brown patch on the ear-coverts behind the eye, reaching toward the side of the neck. Wings and long tail grey-brown. Throat and upper breast grey with paler feather edges, becoming increasingly spotted and scaled with white toward the belly and vent. Slender, slightly decurved black bill; dark reddish-brown eye; dark reddish-brown legs.",
+    "pose": "perched upright on a branch of a fruiting tree, head turned slightly, long tail hanging below the perch",
+    "scene": "edge of a deciduous woodland in Korea in late autumn, nearly bare twigs with a few ripe orange persimmons and red berries, soft hazy sky; no people, buildings or text",
+    "views": [
+      "adult, perched, side view",
+      "adult, in undulating flight, side view",
+      "adult, head close-up showing the chestnut ear patch and spiky grey crown"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 직박구리", "url": "https://species.nibr.go.kr/species-detail/120000530330", "used": "국명·학명·분류·몸길이·국내 상태·서식지·산란기"},
+    {"title": "국립생물자원관 종 설명 콘텐츠 목록(API) – 직박구리 (환경부 한국의야생동·식물, 사이버교육센터 자료 포함)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?ktsn=120000530330&stts=Y&srchRelKtsn=Y&pageNo=1&pageSize=100", "used": "산란기 5~6월, 무리 이동, 파도 모양 비행, 울음소리, 흔한 텃새(Res/c)"},
+    {"title": "국립생물자원관 철새 종 검색(API) – amaurotis", "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=amaurotis&pageCount=1&unitCount=10", "used": "철새 DB 구분 '텃새'"},
+    {"title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 직박구리", "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001044", "used": "암수 같은 색, 깃 색 세부"},
+    {"title": "Birds Korea 2014 대한민국 조류목록", "url": "http://www.birdskorea.or.kr/Birds/Checklist/BK-CL-Checklist-Apr-2014.shtml", "used": "직박구리 R1, P2; 검은이마직박구리 S4, P5, R5(상대적 희소성)"},
+    {"title": "Birds Korea – Birdyear", "url": "http://www.birdskorea.org/Birds/Birding_in_Korea/BK-BK-Birdyear.shtml", "used": "도시 공원 큰 나무에 흔함"},
+    {"title": "Wikipedia – Brown-eared bulbul", "url": "https://en.wikipedia.org/wiki/Brown-eared_bulbul", "used": "IOC 영문명, 긴 꼬리"},
+    {"title": "Wikipedia – Light-vented bulbul", "url": "https://en.wikipedia.org/wiki/Light-vented_bulbul", "used": "검은이마직박구리 크기·머리 무늬"},
+    {"title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 찌르레기", "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001118", "used": "찌르레기 부리·다리·얼굴 색"},
+    {"title": "Wikimedia Commons – The brown-eared bulbul after playing with water.jpg", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_brown-eared_bulbul_after_playing_with_water.jpg", "used": "그림용 부리·눈·다리 색 확인(사진)"}
+  ],
+  "todo": [
+    "wingspan: 공식·학술 출처에서 날개편길이를 찾지 못함",
+    "young: 어린새 깃 설명을 공식·학술 출처에서 찾지 못함(비공식 사이트에만 '더 갈색'이라는 설명이 있음)",
+    "months.breed: 국내 출처는 산란기(5–6월)만 제시함. 육추가 7월까지 이어지는지는 출처 없음",
+    "art: 부리·눈·다리 색은 출처 문장이 아니라 Wikimedia 사진(일본 개체)으로 확인함"
+  ]
+}

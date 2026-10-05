@@ -1,0 +1,63 @@
+{
+  "id": "phoenicurus-auroreus",
+  "ko": "딱새",
+  "sci": "Phoenicurus auroreus",
+  "author": "(Pallas, 1776)",
+  "en": "Daurian Redstart",
+  "ktsn": 120000002118,
+  "length": "14cm",
+  "wingspan": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "인가 주변, 공원, 농경지, 강변 덤불, 산림 가장자리",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": [5, 6, 7],
+    "note": "3월부터 울기 시작하며, 산란기는 5–7월이다."
+  },
+  "summary": "수컷의 주황색 아랫면과 은회색 머리, 날개의 흰 반점이 눈에 띄는 작은 새로, 전국에서 흔히 번식하는 텃새다. 인가 주변부터 숲 가장자리까지 여러 환경에 살며, 나무 꼭대기나 전깃줄처럼 트인 곳에 앉아 울어 쉽게 눈에 띈다. 나무 구멍, 쓰러진 나무 밑, 돌 틈, 건물 틈 같은 오목한 곳에 둥지를 튼다. 곤충과 열매를 함께 먹는다.",
+  "points": [
+    {"ko": "은회색 머리꼭대기(수컷)", "en": "silver-grey crown (male)"},
+    {"ko": "검은 얼굴과 멱(수컷)", "en": "black face and throat (male)"},
+    {"ko": "날개의 흰 반점", "en": "white wing patch"},
+    {"ko": "주황색 가슴과 배(수컷)", "en": "orange breast and belly (male)"},
+    {"ko": "주황색 허리와 꼬리 옆", "en": "orange rump and tail sides"}
+  ],
+  "sexes": {
+    "alike": false,
+    "male": "머리꼭대기와 뒷목은 회색이고 깃 끝이 닳는 봄여름에는 더 맑은 잿빛이 된다. 얼굴과 멱은 검고, 등과 날개는 검은빛이며 날개에 큰 흰 반점이 있다. 가슴부터 아랫면은 짙은 주황색이고, 꼬리는 가운데가 검고 양옆이 주황색이다.",
+    "female": "전체가 올리브빛 도는 회갈색이고 날개와 꼬리는 짙은 갈색이다. 허리와 바깥 꼬리깃은 주황색이며, 날개에 수컷보다 작은 흰 반점이 있다."
+  },
+  "young": "어린새는 회갈색 바탕에 얼룩무늬가 있다. 어린 수컷은 어른 수컷과 무늬 배치가 비슷하지만 색이 훨씬 흐리다.",
+  "similar": [
+    {"ko": "검은머리딱새", "how": "수컷은 날개에 흰 반점이 없고, 머리꼭대기가 은회색이 아니라 어두운 회색에서 검은색이다. 암컷도 회갈색에 허리·꼬리만 주황색이다. 국내에서는 드물게 지나가는 나그네새다."},
+    {"ko": "유리딱새", "how": "암컷은 허리와 꼬리가 푸른색이고 옆구리가 주황색이다. 딱새 암컷은 허리와 꼬리 양옆이 주황색이고 날개에 흰 반점이 있다."}
+  ],
+  "art": {
+    "subject": "Adult male Daurian Redstart in breeding plumage, a small chat about 14 cm long. Crown and nape pale silvery grey; forehead, lores, face, ear-coverts, chin and throat black; mantle and back black; wings black with a large, conspicuous white patch at the base of the secondaries and tertials; breast, belly and undertail coverts deep rufous-orange; rump orange; tail orange with blackish central feathers; thin black bill; dark brown eye; blackish-brown legs.",
+    "pose": "perched upright on the tip of a bare shrub branch, tail slightly lowered, showing the white wing patch",
+    "scene": "edge of farmland and scrub at the foot of a wooded hillside in Korea in early spring (March), leafless shrubs, dry grasses and a few yellow forsythia flowers; no people, buildings or text",
+    "views": [
+      "adult male, perched, side view",
+      "adult female, perched, side view",
+      "adult male, perched, rear three-quarter view showing white wing patch, orange rump and orange tail sides"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 딱새", "url": "https://species.nibr.go.kr/species-detail/120000002118", "used": "국명·학명·분류·몸길이·국내 상태·형태·어린새·서식지"},
+    {"title": "국립생물자원관 종 설명 콘텐츠 목록(API) – 딱새 (한국의새소리 2010, 환경부 한국의야생동·식물 자료)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?ktsn=120000002118&stts=Y&srchRelKtsn=Y&pageNo=1&pageSize=100", "used": "산란기 5~7월, 3월부터 울기 시작, 흔한 텃새, 수컷·암컷 깃 세부, 부리·다리 색"},
+    {"title": "국립생물자원관 철새 종 검색(API) – auroreus, ochruros", "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=auroreus&pageCount=1&unitCount=10", "used": "딱새 '텃새', 검은머리딱새 '나그네새' 구분"},
+    {"title": "Birds Korea 2014 대한민국 조류목록", "url": "http://www.birdskorea.or.kr/Birds/Checklist/BK-CL-Checklist-Apr-2014.shtml", "used": "딱새 R1, W2; 검은머리딱새 PV1(드묾); 유리딱새 P1, W4"},
+    {"title": "Wikipedia – Daurian redstart", "url": "https://en.wikipedia.org/wiki/Daurian_redstart", "used": "IOC 영문명, 꼬리 무늬, 어린 수컷 설명"},
+    {"title": "Wikipedia – Black redstart", "url": "https://en.wikipedia.org/wiki/Black_redstart", "used": "검은머리딱새 동부 아종 수컷의 날개 흰 반점 없음, 암컷 색"},
+    {"title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 유리딱새", "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001180", "used": "유리딱새 암컷 허리·꼬리·옆구리 색"},
+    {"title": "인공새집에서 관찰된 딱새와 박새의 혼합 육추 사례 (한국조류학회지 29(2), 2022)", "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002919545", "used": "4월 하순 산란 사례(notes에만 기록)"},
+    {"title": "딱새의 번식생태에 관한 연구 (한국조류학회지 14(1), 2007)", "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002217844", "used": "번식 관찰 기간 5–9월, 포란~이소 약 37일(notes에만 기록)"},
+    {"title": "Wikimedia Commons – Daurian redstart at Daisen Park in Osaka, January 2016.jpg", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daurian_redstart_at_Daisen_Park_in_Osaka,_January_2016.jpg", "used": "그림용 수컷 깃 배치 확인(사진)"}
+  ],
+  "todo": [
+    "wingspan: 공식·학술 출처에서 날개편길이를 찾지 못함",
+    "months.breed: 국립생물자원관(환경부) 산란기 5–7월을 따름. 4월 산란 사례(2022 논문)와 9월까지 이어진 번식 관찰(2007 논문)이 있어 실제 번식기는 더 길 수 있음",
+    "similar 검은머리딱새: 국내 기록 아종(동부 아종 rufiventris 여부)을 국내 출처로 확인하지 못함"
+  ]
+}

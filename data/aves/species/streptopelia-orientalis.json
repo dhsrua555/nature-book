@@ -1,0 +1,61 @@
+{
+  "id": "streptopelia-orientalis",
+  "ko": "멧비둘기",
+  "sci": "Streptopelia orientalis",
+  "author": "(Latham, 1790)",
+  "en": "Oriental Turtle Dove",
+  "ktsn": 120000086224,
+  "length": "약 33cm",
+  "wingspan": "TODO",
+  "status": "흔한 텃새",
+  "habitat": "마을·농경지·초지 주변의 숲, 공원과 정원",
+  "protect": [],
+  "months": {
+    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "breed": "TODO",
+    "note": "전국에 사는 텃새로 사철 볼 수 있고, 1년에 2회 정도 번식한다."
+  },
+  "summary": "도시 공원에서 산지 숲까지 어디서나 흔히 보이는 우리나라의 대표적인 비둘기다. 머리와 몸 아랫면은 회갈색이고, 날개깃 가장자리가 적갈색이어서 접은 날개가 비늘처럼 얼룩져 보인다. 작은 나뭇가지를 엉성하게 쌓은 둥지에 알 2개를 낳으며, 1년에 두 번쯤 번식한다. 낮고 탁한 소리로 '구, 구, 쿠-, 쿠-' 하고 울며, 번식기에는 날개를 수평으로 편 채 활공하기도 한다.",
+  "points": [
+    {"ko": "목 옆의 검은·회색 줄무늬", "en": "black-and-grey striped neck patch"},
+    {"ko": "적갈색 테의 비늘무늬 날개", "en": "scaly wing coverts with rufous fringes"},
+    {"ko": "회갈색 머리와 가슴", "en": "greyish-brown head and breast"},
+    {"ko": "검은 꼬리 끝의 흰빛 띠", "en": "pale band at tip of dark tail"},
+    {"ko": "붉은 눈과 다리", "en": "reddish eye and legs"}
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
+  "young": "어린새는 어른보다 칙칙하고, 특히 머리 색이 흐리며 목 옆의 줄무늬 반점이 없다.",
+  "similar": [
+    {"ko": "염주비둘기", "how": "몸이 더 연한 회갈색이고, 목 옆 줄무늬 대신 뒷목에 흰 테를 두른 검은 반달 목테가 있다. 국내에서는 드물다."},
+    {"ko": "집비둘기", "how": "야생형 깃은 연회색 바탕에 날개의 검은 띠 두 줄과 흰 허리가 특징이며, 집비둘기는 깃 색이 개체마다 크게 다르다."}
+  ],
+  "art": {
+    "subject": "Adult Oriental Turtle Dove of the nominate subspecies orientalis: a bulky, fairly short-tailed dove; head, neck and breast soft pinkish grey-brown with a bluish-grey tinge on the crown; on each side of the neck a patch of four or five black bars on a blue-grey background; bluish-grey back; scapulars, tertials and wing coverts with large blackish rounded centres and broad rufous-orange fringes, forming a bold scaly pattern; dark grey flight feathers; blackish tail with a pale blue-grey to whitish terminal band; slate-grey vent; orange-red eye with a narrow red eye-ring and no bare skin patch around the eye; small pinkish-grey bill; reddish-pink legs and feet.",
+    "pose": "Perched on a bare branch in three-quarter side view, wings folded so the scaly pattern and neck patch are clear.",
+    "scene": "The edge of a Korean mixed pine and oak woodland bordering dry crop fields in early spring (March): leafless oak branches, green pine needles, pale brown fields and a grassy bank below, soft morning light. No people, buildings or text.",
+    "views": [
+      "adult, perched, side view (neck patch and scaly wing coverts)",
+      "adult in flight, from above, tail spread showing the dark tail with pale terminal band",
+      "juvenile, perched, side view (duller head, no neck patch)"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 멧비둘기", "url": "https://species.nibr.go.kr/species-detail/120000086224", "used": "국명·학명·분류·몸길이·형태·서식지·둥지·울음·분포"},
+    {"title": "한국민족문화대백과사전 – 비둘기", "url": "https://encykorea.aks.ac.kr/Article/E0025113", "used": "흔한 텃새, 서식 환경, 1년 2회 번식·한배 2란, 염주비둘기는 희귀종"},
+    {"title": "Hong Kong Bird Watching Society Avifauna Database – Oriental Turtle Dove", "url": "https://avifauna.hkbws.org.hk/species/0050/006300", "used": "어린새 특징, 깃 묘사(목 반점, 비늘무늬 날개)"},
+    {"title": "Richardson (2019) The first record of a live Oriental Turtle Dove in Cyprus. Sandgrouse 41", "url": "https://osme.org/wp-content/uploads/2023/07/The-first-record-of-a-live-Oriental-Turtle-Dove-Streptopelia-orientalis-in-Cyprus.pdf", "used": "목 반점 줄 수, 원명아종(orientalis)의 꼬리 끝·뒷목 색, 눈테, 한국 번식 아종, 어린새 목 반점 없음"},
+    {"title": "Great Himalayan National Park – Oriental Turtle Dove", "url": "https://www.greathimalayannationalpark.org/?p=1561", "used": "암수 같음"},
+    {"title": "Wikipedia – Oriental turtle dove", "url": "https://en.wikipedia.org/wiki/Oriental_turtle_dove", "used": "깃 묘사(비늘무늬, 맨살 눈 둘레 없음), 아종 분포"},
+    {"title": "Wikipedia – Eurasian collared dove", "url": "https://en.wikipedia.org/wiki/Eurasian_collared_dove", "used": "염주비둘기 목테·깃 색"},
+    {"title": "Wikipedia – Rock dove", "url": "https://en.wikipedia.org/wiki/Rock_dove", "used": "집비둘기(야생형) 깃 특징과 깃 색 변이"},
+    {"title": "IOC World Bird List v15 – Pigeons", "url": "https://www.worldbirdnames.org/new/bow/pigeons/", "used": "영문명 Oriental Turtle Dove, 명명자 (Latham, 1790), 아종 orientalis 분포"}
+  ],
+  "todo": [
+    "wingspan: 확인한 출처 없음",
+    "months.breed: 국내 번식 달을 밝힌 출처를 찾지 못함(일본 연구는 4월 초~10월 초로 보고하나 국외 자료라 쓰지 않음)",
+    "art: 꼬리 끝 띠 색이 출처마다 다름(NIBR '흰 띠', Sandgrouse는 원명아종을 'pale blue-grey'로 적음) — 그림은 연청회색~흰빛으로 지정"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "title": "자연 도감",
+  "volumes": [
+    { "id": "aves", "title": "한국의 새", "book": "data/aves/book.json" }
+  ]
+}

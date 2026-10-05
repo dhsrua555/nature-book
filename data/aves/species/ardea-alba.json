@@ -1,0 +1,59 @@
+{
+  "id": "ardea-alba",
+  "ko": "중대백로",
+  "sci": "Ardea alba",
+  "author": "Linnaeus, 1758",
+  "en": "Great Egret",
+  "ktsn": 120000001543,
+  "length": "약 90cm",
+  "wingspan": "131–170cm",
+  "status": "흔한 여름철새",
+  "habitat": "논, 하천, 저수지, 양어장, 하구, 갯벌; 숲에서 집단번식",
+  "protect": [],
+  "months": {
+    "seen": [4, 5, 6, 7, 8, 9, 10],
+    "breed": [4, 5, 6, 7, 8],
+    "note": "보통 4월 초에 도래해 번식하고 10월경 남쪽 월동지로 떠난다. 소수는 월동하며, 겨울에는 몸이 더 큰 아종 대백로가 찾아온다."
+  },
+  "summary": "여름철 논과 하천에서 흔히 보이는 큰 흰 백로다. 얕은 물을 천천히 걸으며 물고기와 개구리 따위를 잡는다. 왜가리 등 다른 백로류와 함께 숲에 집단번식지를 이루고, 한배에 알 3~4개를 낳는다. 번식기에는 부리가 검어지고 등에 긴 장식깃이 자라며, 번식이 끝나면 부리가 노랗게 바뀐다.",
+  "points": [
+    {"ko": "온몸이 흰색", "en": "all-white plumage"},
+    {"ko": "눈 뒤까지 이어진 입꼬리선", "en": "gape line extending behind the eye"},
+    {"ko": "번식기 검은 부리·청록 눈앞", "en": "breeding: black bill, green lores"},
+    {"ko": "비번식기 노란 부리", "en": "non-breeding: yellow bill"},
+    {"ko": "검은 다리와 발", "en": "black legs and feet"},
+    {"ko": "가늘고 길게 꺾인 목", "en": "long, thin, kinked neck"}
+  ],
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다. 번식기에는 부리가 검고 눈앞 맨살이 청록색이며 등에 긴 장식깃이 난다. 번식이 끝나면 장식깃이 빠지고 부리가 노랗게 바뀐다."
+  },
+  "young": "어린새는 어른과 비슷하지만 장식깃이 없고, 부리는 노란색에 끝이 검다.",
+  "similar": [
+    {"ko": "중백로", "how": "몸이 작고 부리가 짧고 굵다. 입꼬리선이 눈 아래에서 끝나며(중대백로는 눈 뒤까지 이어짐), 목의 꺾임이 덜하다."},
+    {"ko": "쇠백로", "how": "훨씬 작고 부리가 검으며 발이 노랗다."}
+  ],
+  "art": {
+    "subject": "Adult Great Egret of the eastern subspecies modesta in breeding plumage: entirely white plumage; long, straight, lacy aigrette plumes on the back reaching beyond the tail; long black bill; bare lores bright blue-green; dark gape line running from the bill corner to behind the eye; yellow eye; long, thin neck with a distinct kink; long black legs and black feet.",
+    "pose": "Wading slowly in shallow water with the neck in a kinked S-curve and the bill angled down toward the water, side view.",
+    "scene": "Flooded rice paddies beside a slow stream in Korea in early summer (June): bright green rows of rice, a grassy earthen levee, willows along the stream, and a low hill with pine and bamboo groves in the distance. No people, buildings or text.",
+    "views": [
+      "adult, breeding plumage, standing, side view (black bill, blue-green lores, back plumes)",
+      "adult, non-breeding plumage, standing, side view (yellow bill, no plumes)",
+      "adult in flight, side view, neck retracted and legs trailing"
+    ]
+  },
+  "sources": [
+    {"title": "국립생물자원관 국가생물종목록 – 중대백로", "url": "https://species.nibr.go.kr/species-detail/120000001543", "used": "국명·학명·분류·몸길이·상태·암수·번식기/비번식기 형태·한배 알 수·서식지·아종 대백로 겨울 도래"},
+    {"title": "이두표 외 (2006) 전라남도 내의 백로류 집단번식지 특성에 관한 연구. 한국환경생태학회 학술대회논문집", "url": "https://koreascience.or.kr/article/CFKO200627642577584.pdf", "used": "집단번식 백로류의 도래(4월 초)·이동(10월경)·소수 월동, 중대백로가 가장 흔한 번식 종"},
+    {"title": "IUCN SSC Heron Specialist Group – Eastern Great Egret", "url": "https://heronconservation.org/herons-of-the-world/list/eastern-great-egret/", "used": "국내 번식 시기(4~8월), 번식기·비번식기 맨살 색, 어린새, 중백로·쇠백로와의 차이"},
+    {"title": "Wikipedia – Great egret", "url": "https://en.wikipedia.org/wiki/Great_egret", "used": "날개 편 길이(종 전체), 아종 modesta 분포"},
+    {"title": "Wikipedia – Medium egret", "url": "https://en.wikipedia.org/wiki/Medium_egret", "used": "중백로와의 차이(입꼬리선, 목, 부리)"},
+    {"title": "Wikipedia – Little egret", "url": "https://en.wikipedia.org/wiki/Little_egret", "used": "쇠백로 부리·발 색"},
+    {"title": "IOC World Bird List v15 – Ibises, herons, pelicans", "url": "https://www.worldbirdnames.org/new/bow/pelicans/", "used": "영문명 Great Egret, 아종 modesta를 분리하지 않음"}
+  ],
+  "todo": [
+    "wingspan: 131–170cm는 종 전체 값이며, 국내 여름철새인 아종 modesta(가장 작은 아종)만의 값은 확인하지 못함",
+    "months.seen: 4월 초 도래·10월경 이동은 집단번식 백로류 6종을 묶은 서술(원 1981 인용)이며 중대백로만의 도래·이동 달을 따로 밝힌 출처는 찾지 못함"
+  ]
+}

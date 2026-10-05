@@ -1,0 +1,11 @@
+# 삽화 원본·작업 폴더 (웹용 webp만 img/ 에 올린다)
+art/
+# 참고용 초안
+draft/
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+
+# API 키
+.env
