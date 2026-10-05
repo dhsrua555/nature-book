@@ -7,12 +7,12 @@
   "ktsn": 120000001896,
   "origin": "nibr",
   "length": "37.5cm",
-  "status": "TODO",
+  "status": "겨울에 드물게 찾아옴, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
   "habitat": "계류, 호수, 댐 부근",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "산란기는 5월 하순~6월 하순이며, 국내 번식은 원문에 없다."
   },
   "summary": "우리나라에서는 1917년에 한 마리가 잡힌 뒤로 자취를 감춘 새이다. 산골 시내나 호수, 댐 둘레에 살며, 물가 나뭇가지에 앉아 물속 물고기를 노린다. 산란기는 5월 하순~6월 하순이고 한배에 알을 4~7개 낳는다. 일본, 인도, 중국 남부, 동남아시아에 분포한다.",
@@ -72,7 +72,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "WV2",
+    "bs": "0",
+    "cat": "2",
+    "bk": "Megaceryle lugubris",
+    "rarity": 7.5
+  },
+  "breeding": "번식 기록 없음"
 }

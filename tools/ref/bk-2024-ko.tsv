@@ -1,0 +1,614 @@
+# Ha, J-M. & Moores, N. 2024. 새와 생명의 터 조류목록(2024). https://birdskoreablog.org/wp-content/uploads/2024/08/Birds-Korea-checklist-Kor-2024-final-with-quick-fix-20240827.pdf — tools/ref_bk.py 가 옮김
+no	cat	ko	en	sci
+1	1	흑기러기	Brant Goose	Branta bernicla
+2	1	붉은가슴기러기	Red-breasted Goose	Branta ruficollis
+3	R1A	큰캐나다기러기	Canada Goose	Branta canadensis
+4	1	흰얼굴기러기	Barnacle Goose	Branta leucopsis
+5	1	캐나다기러기	Cackling Goose	Branta hutchinsii
+6	1	줄기러기	Bar-headed Goose	Anser indicus
+7	1	흰머리기러기	Emperor Goose	Anser canagicus
+8	1	흰기러기	Snow Goose	Anser caerulescens
+9	1	회색기러기	Greylag Goose	Anser anser
+10	1	개리	Swan Goose	Anser cygnoides
+11	1	큰부리큰기러기	Taiga Bean Goose	Anser fabalis
+12	1	큰기러기	Tundra Bean Goose	Anser serrirostris
+13	1	쇠기러기	Greater White-fronted Goose	Anser albifrons
+14	1	흰이마기러기	Lesser White-fronted Goose	Anser erythropus
+15	1	혹고니	Mute Swan	Cygnus olor
+16	1	고니	Tundra Swan	Cygnus columbianus
+17	1	큰고니	Whooper Swan	Cygnus cygnus
+18	1	혹부리오리	Common Shelduck	Tadorna tadorna
+19	1	황오리	Ruddy Shelduck	Tadorna ferruginea
+20	2	원앙사촌	Crested Shelduck	Tadorna cristata
+21	1	원앙	Mandarin Duck	Aix galericulata
+22	1	쇠솜털오리	Cotton Pygmy Goose	Nettapus coromandelianus
+23	1	가창오리	Baikal Teal	Sibirionetta formosa
+24	1	발구지	Garganey	Spatula querquedula
+25	1	넓적부리오리	Northern Shoveler	Spatula clypeata
+26	1	알락오리	Gadwall	Mareca strepera
+27	1	청머리오리	Falcated Duck	Mareca falcata
+28	1	홍머리오리	Eurasian Wigeon	Mareca penelope
+29	1	아메리카홍머리오리	American Wigeon	Mareca americana
+30	1	흰뺨검둥오리	Eastern Spot-billed Duck	Anas zonorhyncha
+31	1	청둥오리	Mallard	Anas platyrhynchos
+32	1	고방오리	Northern Pintail	Anas acuta
+33	1	쇠오리	Eurasian Teal	Anas crecca
+34	1	미국쇠오리	Green-winged Teal	Anas carolinensis
+35	1	붉은부리흰죽지	Red-crested Pochard	Netta rufina
+36	1	큰흰죽지	Canvasback	Aythya valisineria
+37	1	흰죽지	Common Pochard	Aythya ferina
+38	1	붉은가슴흰죽지	Baer's Pochard	Aythya baeri
+39	1	적갈색흰죽지	Ferruginous Duck	Aythya nyroca
+40	1	줄부리오리	Ring-necked Duck	Aythya collaris
+41	1	댕기흰죽지	Tufted Duck	Aythya fuligula
+42	1	검은머리흰죽지	Greater Scaup	Aythya marila
+43	1	쇠검은머리흰죽지	Lesser Scaup	Aythya affinis
+44	1	호사북방오리	King Eider	Somateria spectabilis
+45	1	흰줄박이오리	Harlequin Duck	Histrionicus histrionicus
+46	1	흰이마검둥오리	Surf Scoter	Melanitta perspicillata
+47	1	노랑부리검둥오리사촌	Velvet Scoter	Melanitta fusca
+48	1	검둥오리사촌	Stejneger's Scoter	Melanitta stejnegeri
+49	1	검둥오리	Black Scoter	Melanitta americana
+50	1	바다꿩	Long-tailed Duck	Clangula hyemalis
+51	1	꼬마오리	Bufflehead	Bucephala albeola
+52	1	흰뺨오리	Common Goldeneye	Bucephala clangula
+53	1	흰비오리	Smew	Mergellus albellus
+54	1	비오리	Common Merganser	Mergus merganser
+55	1	바다비오리	Red-breasted Merganser	Mergus serrator
+56	1	호사비오리	Scaly-sided Merganser	Mergus squamatus
+57	1	들꿩	Hazel Grouse	Tetrastes bonasia
+58	1	꿩	Common Pheasant	Phasianus colchicus
+59	1	메추라기	Japanese Quail	Coturnix japonica
+60	1	쏙독새	Grey Nightjar	Caprimulgus jotaka
+61	1	황해쇠칼새	Himalayan Swiftlet	Aerodramus brevirostris
+62	1	바늘꼬리칼새	White-throated Needletail	Hirundapus caudacutus
+63	1	흰배칼새	Alpine Swift	Tachymarptis melba
+64	3	검은등칼새	Common Swift	Apus apus
+65	1	칼새	Pacific Swift	Apus pacificus
+66	1	쇠칼새	House Swift	Apus nipalensis
+67	1	느시	Great Bustard	Otis tarda
+68	3	큰뻐꾸기사촌	Greater Coucal	Centropus sinensis
+69	1	작은뻐꾸기사촌	Lesser Coucal	Centropus bengalensis
+70	1	밤색날개뻐꾸기	Chestnut-winged Cuckoo	Clamator coromandus
+71	1	검은뻐꾸기	Asian Koel	Eudynamys scolopaceus
+72	1	우는뻐꾸기	Plaintive Cuckoo	Cacomantis merulinus
+73	1	검은두견이	Square-tailed Drongo-Cuckoo	Surniculus lugubris
+74	1	큰매사촌	Large Hawk-Cuckoo	Hierococcyx sparverioides
+75	1	매사촌	Northern Hawk-Cuckoo	Hierococcyx hyperythrus
+76	1	두견이	Lesser Cuckoo	Cuculus poliocephalus
+77	1	검은등뻐꾸기	Indian Cuckoo	Cuculus micropterus
+78	3	남방벙어리뻐꾸기	Himalayan Cuckoo	Cuculus saturatus
+79	1	벙어리뻐꾸기	Oriental Cuckoo	Cuculus optatus
+80	1	뻐꾸기	Common Cuckoo	Cuculus canorus
+81	1	사막꿩	Pallas's Sandgrouse	Syrrhaptes paradoxus
+82	5F	집비둘기	Rock Dove	Columba livia
+83	1	낭비둘기	Hill Pigeon	Columba rupestris
+84	1	분홍가슴비둘기	Stock Dove	Columba oenas
+85	1	흑비둘기	Black Wood Pigeon	Columba janthina
+86	1	멧비둘기	Oriental Turtle Dove	Streptopelia orientalis
+87	1	염주비둘기	Eurasian Collared Dove	Streptopelia decaocto
+88	1	홍비둘기	Red Collared Dove	Streptopelia tranquebarica
+89	1	목점박이비둘기	Spotted Dove	Spilopelia chinensis
+90	1	녹색비둘기	White-bellied Green Pigeon	Treron sieboldii
+91	1	회색가슴뜸부기	Western Water Rail	Rallus aquaticus
+92	1	흰눈썹뜸부기	Eastern Water Rail	Rallus indicus
+93	1	쇠물닭	Common Moorhen	Gallinula chloropus
+94	1	물닭	Eurasian Coot	Fulica atra
+95	1	알락뜸부기	Swinhoe's Rail	Coturnicops exquisitus
+96	1	쇠뜸부기사촌	Ruddy-breasted Crake	Zapornia fusca
+97	1	한국뜸부기	Band-bellied Crake	Zapornia paykullii
+98	1	쇠뜸부기	Baillon's Crake	Zapornia pusilla
+99	1	뜸부기	Watercock	Gallicrex cinerea
+100	1	흰배뜸부기	White-breasted Waterhen	Amaurornis phoenicurus
+101	1	시베리아흰두루미	Siberian Crane	Leucogeranus leucogeranus
+102	1	캐나다두루미	Sandhill Crane	Antigone canadensis
+103	1	재두루미	White-naped Crane	Antigone vipio
+104	1	쇠재두루미	Demoiselle Crane	Grus virgo
+105	1	두루미	Red-crowned Crane	Grus japonensis
+106	1	검은목두루미	Common Crane	Grus grus
+107	1	흑두루미	Hooded Crane	Grus monacha
+108	1	논병아리	Little Grebe	Tachybaptus ruficollis
+109	1	큰논병아리	Red-necked Grebe	Podiceps grisegena
+110	1	뿔논병아리	Great Crested Grebe	Podiceps cristatus
+111	1	귀뿔논병아리	Horned Grebe	Podiceps auritus
+112	1	검은목논병아리	Black-necked Grebe	Podiceps nigricollis
+113	1	큰홍학	Greater Flamingo	Phoenicopterus roseus
+114	1	세가락메추라기	Yellow-legged Buttonquail	Turnix tanki
+115	1	검은머리물떼새	Far Eastern Oystercatcher	Haematopus osculans
+116	1	장다리물떼새	Black-winged Stilt	Himantopus himantopus
+117	1	딋부리장다리물떼새	Pied Avocet	Recurvirostra avosetta
+118	1	개꿩	Grey Plover	Pluvialis squatarola
+119	1	검은가슴물떼새	Pacific Golden Plover	Pluvialis fulva
+120	3	미국검은가슴물떼새	American Golden Plover	Pluvialis dominica
+121	1	흰눈썹물떼새	Eurasian Dotterel	Eudromias morinellus
+122	1	흰죽지꼬마물떼새	Common Ringed Plover	Charadrius hiaticula
+123	1	꼬마물떼새	Little Ringed Plover	Charadrius dubius
+124	1	흰목물떼새	Long-billed Plover	Charadrius placidus
+125	1	댕기물떼새	Northern Lapwing	Vanellus vanellus
+126	1	민댕기물떼새	Grey-headed Lapwing	Vanellus cinereus
+127	1	큰물떼새	Oriental Plover	Anarhynchus veredus
+128	1	왕눈물떼새	Tibetan Sand Plover	Anarhynchus atrifrons
+129	1	몽골왕눈물떼새	Siberian Sand Plover	Anarhynchus mongolus
+130	1	큰왕눈물떼새	Greater Sand Plover	Anarhynchus leschenaultii
+131	1	흰물떼새	Kentish Plover	Anarhynchus alexandrinus
+132	R1A	큰흰물떼새	White-faced Plover	Anarhynchus dealbatus
+133	1	호사도요	Greater Painted-snipe	Rostratula benghalensis
+134	1	물꿩	Pheasant-tailed Jacana	Hydrophasianus chirurgus
+135	1	중부리도요	Eurasian Whimbrel	Numenius phaeopus
+136	1	쇠부리도요	Little Curlew	Numenius minutus
+137	1	알락꼬리마도요	Far Eastern Curlew	Numenius madagascariensis
+138	1	마도요	Eurasian Curlew	Numenius arquata
+139	1	큰뒷부리도요	Bar-tailed Godwit	Limosa lapponica
+140	1	흑꼬리도요	Black-tailed Godwit	Limosa limosa
+141	4	캐나다흑꼬리도요	Hudsonian Godwit	Limosa haemastica
+142	1	큰부리도요	Asian Dowitcher	Limnodromus semipalmatus
+143	1	긴부리도요	Long-billed Dowitcher	Limnodromus scolopaceus
+144	1	꼬마도요	Jack Snipe	Lymnocryptes minimus
+145	1	멧도요	Eurasian Woodcock	Scolopax rusticola
+146	1	청도요	Solitary Snipe	Gallinago solitaria
+147	1	꺅도요사촌	Swinhoe's Snipe	Gallinago megala
+148	1	바늘꼬리도요	Pin-tailed Snipe	Gallinago stenura
+149	1	큰꺅도요	Latham's Snipe	Gallinago hardwickii
+150	1	꺅도요	Common Snipe	Gallinago gallinago
+151	1	붉은배지느러미발도요	Red Phalarope	Phalaropus fulicarius
+152	1	지느러미발도요	Red-necked Phalarope	Phalaropus lobatus
+153	1	뒷부리도요	Terek Sandpiper	Xenus cinereus
+154	1	깝작도요	Common Sandpiper	Actitis hypoleucos
+155	1	삑삑도요	Green Sandpiper	Tringa ochropus
+156	1	노랑발도요	Grey-tailed Tattler	Tringa brevipes
+157	1	쇠청다리도요	Marsh Sandpiper	Tringa stagnatilis
+158	1	알락도요	Wood Sandpiper	Tringa glareola
+159	1	붉은발도요	Common Redshank	Tringa totanus
+160	1	청다리도요사촌	Nordmann's Greenshank	Tringa guttifer
+161	1	학도요	Spotted Redshank	Tringa erythropus
+162	1	청다리도요	Common Greenshank	Tringa nebularia
+163	1	꼬까도요	Ruddy Turnstone	Arenaria interpres
+164	1	붉은어깨도요	Great Knot	Calidris tenuirostris
+165	1	붉은가슴도요	Red Knot	Calidris canutus
+166	1	목도리도요	Ruff	Calidris pugnax
+167	1	송곳부리도요	Broad-billed Sandpiper	Calidris falcinellus
+168	1	메추라기도요	Sharp-tailed Sandpiper	Calidris acuminata
+169	1	붉은갯도요	Curlew Sandpiper	Calidris ferruginea
+170	1	흰꼬리좀도요	Temminck's Stint	Calidris temminckii
+171	1	종달도요	Long-toed Stint	Calidris subminuta
+172	1	좀도요	Red-necked Stint	Calidris ruficollis
+173	1	넓적부리도요	Spoon-billed Sandpiper	Calidris pygmaea
+174	1	누른도요	Buff-breasted Sandpiper	Calidris subruficollis
+175	1	세가락도요	Sanderling	Calidris alba
+176	1	민물도요	Dunlin	Calidris alpina
+177	1	작은도요	Little Stint	Calidris minuta
+178	1	아메리카메추라기도요	Pectoral Sandpiper	Calidris melanotos
+179	3	긴부리좀도요	Western Sandpiper	Calidris mauri
+180	1	제비물떼새	Oriental Pratincole	Glareola maldivarum
+181	1	흰제비갈매기	White Tern	Gygis alba
+182	1	알류샨제비갈매기	Aleutian Tern	Onychoprion aleuticus
+183	1	검은등제비갈매기	Sooty Tern	Onychoprion fuscatus
+184	1	에위니아제비갈매기	Bridled Tern	Onychoprion anaethetus
+185	1	쇠제비갈매기	Little Tern	Sternula albifrons
+186	1	큰부리제비갈매기	Gull-billed Tern	Gelochelidon nilotica
+187	1	붉은부리큰제비갈매기	Caspian Tern	Hydroprogne caspia
+188	1	구레나룻제비갈매기	Whiskered Tern	Chlidonias hybrida
+189	1	검은제비갈매기	Black Tern	Chlidonias niger
+190	1	흰죽지제비갈매기	White-winged Tern	Chlidonias leucopterus
+191	R1A	북극제비갈매기	Arctic Tern	Sterna paradisaea
+192	1	제비갈매기	Common Tern	Sterna hirundo
+193	1	긴꼬리제비갈매기	Roseate Tern	Sterna dougallii
+194	1	큰제비갈매기	Greater Crested Tern	Thalasseus bergii
+195	1	뿔제비갈매기	Chinese Crested Tern	Thalasseus bernsteini
+196	1	세가락갈매기	Black-legged Kittiwake	Rissa tridactyla
+197	1	검은머리갈매기	Saunders's Gull	Saundersilarus saundersi
+198	1	긴목갈매기	Slender-billed Gull	Chroicocephalus genei
+199	1	붉은부리갈매기	Black-headed Gull	Chroicocephalus ridibundus
+200	1	갈색머리갈매기	Brown-headed Gull	Chroicocephalus brunnicephalus
+201	1	큰검은머리갈매기	Pallas's Gull	Ichthyaetus ichthyaetus
+202	1	고대갈매기	Relict Gull	Ichthyaetus relictus
+203	1	괭이갈매기	Black-tailed Gull	Larus crassirostris
+204	1	갈매기	Common Gull	Larus canus
+205	4	북미갈매기	Ring-billed Gull	Larus delawarensis
+206	R1A	미국큰재갈매기	Western Gull	Larus occidentalis
+207	1	카스피해갈매기	Caspian Gull	Larus cachinnans
+208	1	재갈매기	Vega Gull	Larus vegae
+209	1	한국재갈매기	Mongolian Gull	Larus mongolicus
+210	1	흰갈매기	Glaucous Gull	Larus hyperboreus
+211	1	검은등갈매기	Lesser Black-backed Gull	Larus fuscus
+212	1	옅은재갈매기	American Herring Gull	Larus smithsonianus
+213	1	수리갈매기	Glaucous-winged Gull	Larus glaucescens
+214	1	큰재갈매기	Slaty-backed Gull	Larus schistisagus
+215	1	작은흰갈매기	Iceland Gull	Larus glaucoides
+216	1	긴꼬리도둑갈매기	Long-tailed Jaeger	Stercorarius longicaudus
+217	1	북극도둑갈매기	Parasitic Jaeger	Stercorarius parasiticus
+218	1	넓적꼬리도둑갈매기	Pomarine Jaeger	Stercorarius pomarinus
+219	1	남극도둑갈매기	South Polar Skua	Stercorarius maccormicki
+220	1	흰수염바다오리	Rhinoceros Auklet	Cerorhinca monocerata
+221	1	댕기바다오리	Tufted Puffin	Fratercula cirrhata
+222	1	작은바다오리	Least Auklet	Aethia pusilla
+223	1	콧수염바다오리	Crested Auklet	Aethia cristatella
+224	1	알락쇠오리	Long-billed Murrelet	Brachyramphus perdix
+225	1	흰눈썹바다오리	Spectacled Guillemot	Cepphus carbo
+226	3	작은바다쇠오리	Little Auk	Alle alle
+227	1	큰부리바다오리	Thick-billed Murre	Uria lomvia
+228	1	바다오리	Common Murre	Uria aalge
+229	1	바다쇠오리	Ancient Murrelet	Synthliboramphus antiquus
+230	1	뿔쇠오리	Crested Murrelet	Synthliboramphus wumizusume
+231	1	아비	Red-throated Loon	Gavia stellata
+232	1	큰회색머리아비	Black-throated Loon	Gavia arctica
+233	1	회색머리아비	Pacific Loon	Gavia pacifica
+234	1	흰부리아비	Yellow-billed Loon	Gavia adamsii
+235	1	레이산알바트로스	Laysan Albatross	Phoebastria immutabilis
+236	1		Black-footed Albatross	Phoebastia nigripes
+237	R2A	알바트로스	Short-tailed Albatross	Phoebastria albatrus
+238	1	바다제비	Swinhoe's Storm Petrel	Hydrobates monorhis
+239	1	흰배슴새	Bonin Petrel	Pterodroma hypoleuca
+240	1	슴새	Streaked Shearwater	Calonectris leucomelas
+241	R1A	사대양슴새	Sooty Shearwater	Ardenna grisea
+242	1	쇠부리슴새	Short-tailed Shearwater	Ardenna tenuirostris
+243	1	붉은발슴새	Flesh-footed Shearwater	Ardenna carneipes
+244	1	검은슴새	Bulwer's Petrel	Bulweria bulwerii
+245	1	먹황새	Black Stork	Ciconia nigra
+246	1,5A	황새	Oriental Stork	Ciconia boyciana
+247	1	군함조	Lesser Frigatebird	Fregata ariel
+248	1	큰군함조	Great Frigatebird	Fregata minor
+249	1	붉은발얼가니새	Red-footed Booby	Sula sula
+250	1	갈색얼가니새	Brown Booby	Sula leucogaster
+251	1	푸른얼굴얼가니새	Masked Booby	Sula dactylatra
+252	1	쇠가마우지	Pelagic Cormorant	Urile pelagicus
+253	1	가마우지	Temminck's Cormorant	Phalacrocorax capillatus
+254	1	민물가마우지	Great Cormorant	Phalacrocorax carbo
+255	5E	검은날개흰따오기	African Sacred Ibis	Threskiornis aethiopicus
+256	1	검은머리흰따오기	Black-headed Ibis	Threskiornis melanocephalus
+257	2,5C	따오기	Crested Ibis	Nipponia nippon
+258	1	적갈색따오기	Glossy Ibis	Plegadis falcinellus
+259	1	노랑부리저어새	Eurasian Spoonbill	Platalea leucorodia
+260	1	저어새	Black-faced Spoonbill	Platalea minor
+261	1	알락해오라기	Eurasian Bittern	Botaurus stellaris
+262	1	검은해오라기	Black Bittern	Ixobrychus flavicollis
+263	1	열대덤불해오라기	Cinnamon Bittern	Ixobrychus cinnamomeus
+264	1	큰덤불해오라기	Von Schrenck's Bittern	Ixobrychus eurhythmus
+265	1	덤불해오라기	Yellow Bittern	Ixobrychus sinensis
+266	1	해오라기	Black-crowned Night Heron	Nycticorax nycticorax
+267	1	푸른눈테해오라기	Malayan Night Heron	Gorsachius melanolophus
+268	1	붉은해오라기	Japanese Night Heron	Gorsachius goisagi
+269	1	흑로	Pacific Reef Egret	Egretta sacra
+270	1	노랑부리백로	Chinese Egret	Egretta eulophotes
+271	1	쇠백로	Little Egret	Egretta garzetta
+272	1	검은댕기해오라기	Striated Heron	Butorides striata
+273	1	흰날개해오라기	Chinese Pond Heron	Ardeola bacchus
+274	1	황로	Eastern Cattle Egret	Bubulcus coromandus
+275	1	중대백로	Great Egret	Ardea alba
+276	1	중백로	Eastern Intermediate Egret	Ardea intermedia
+277	1	왜가리	Grey Heron	Ardea cinerea
+278	1	붉은왜가리	Purple Heron	Ardea purpurea
+279	2	큰사다새	Great White Pelican	Pelecanus onocrotalus
+280	2	사다새	Dalmatian Pelican	Pelecanus crispus
+281	1	물수리	Osprey	Pandion haliaetus
+282	1	검은어깨매	Black-winged Kite	Elanus caeruleus
+283	1	수염수리	Bearded Vulture	Gypaetus barbatus
+284	1	벌매	Crested Honey Buzzard	Pernis ptilorhynchus
+285	1	검은뿔작은매	Black Baza	Aviceda leuphotes
+286	1	고산대머리수리	Himalayan Vulture	Gyps himalayensis
+287	1	독수리	Cinereous Vulture	Aegypius monachus
+288	1	관수리	Crested Serpent Eagle	Spilornis cheela
+289	1	작은발땅꾼수리	Short-toed Snake Eagle	Circaetus gallicus
+290	2	뿔매	Mountain Hawk-Eagle	Nisaetus nipalensis
+291	1	항라머리검독수리	Greater Spotted Eagle	Clanga clanga
+292	1	흰점어깨수리	Booted Eagle	Hieraaetus pennatus
+293	1	초원수리	Steppe Eagle	Aquila nipalensis
+294	1	흰죽지수리	Eastern Imperial Eagle	Aquila heliaca
+295	1	검독수리	Golden Eagle	Aquila chrysaetos
+296	1	흰배줄무늬수리	Bonelli's Eagle	Aquila fasciata
+297	1	붉은배새매	Chinese Sparrowhawk	Accipiter soloensis
+298	1	조롱이	Japanese Sparrowhawk	Accipiter gularis
+299	1	작은새매	Besra	Accipiter virgatus
+300	1	새매	Eurasian Sparrowhawk	Accipiter nisus
+301	1	참매	Eurasian Goshawk	Accipiter gentilis
+302	1	개구리매	Eastern Marsh Harrier	Circus spilonotus
+303	1	잿빛개구리매	Hen Harrier	Circus cyaneus
+304	1	알락개구리매	Pied Harrier	Circus melanoleucos
+305	1	솔개	Black Kite	Milvus migrans
+306	1	참수리	Steller's Sea Eagle	Haliaeetus pelagicus
+307	1	흰꼬리수리	White-tailed Eagle	Haliaeetus albicilla
+308	1	왕새매	Grey-faced Buzzard	Butastur indicus
+309	1	털발말똥가리	Rough-legged Buzzard	Buteo lagopus
+310	1	큰말똥가리	Upland Buzzard	Buteo hemilasius
+311	1	말똥가리	Eastern Buzzard	Buteo japonicus
+312	R1A	대륙말똥가리	Common Buzzard	Buteo buteo
+313	1	가면올빼미	Eastern Grass Owl	Tyto longimembris
+314	1	솔부엉이	Northern Boobook	Ninox japonica
+315	1	금눈쇠올빼미	Little Owl	Athene noctua
+316	1	소쩍새	Oriental Scops Owl	Otus sunia
+317	1	큰소쩍새	Northern Scops Owl	Otus semitorques
+318	1	칡부엉이	Long-eared Owl	Asio otus
+319	1	쇠부엉이	Short-eared Owl	Asio flammeus
+320	2	흰올빼미	Snowy Owl	Bubo scandiacus
+321	1	수리부엉이	Eurasian Eagle-Owl	Bubo bubo
+322	1	올빼미	Himalayan Owl	Strix nivicolum
+323	1	긴점박이올빼미	Ural Owl	Strix uralensis
+324	1	후투티	Eurasian Hoopoe	Upupa epops
+325	1	파랑새	Oriental Dollarbird	Eurystomus orientalis
+326	1	호반새	Ruddy Kingfisher	Halcyon coromanda
+327	1	청호반새	Black-capped Kingfisher	Halcyon pileata
+328	1	물총새	Common Kingfisher	Alcedo atthis
+329	2	뿔호반새	Crested Kingfisher	Megaceryle lugubris
+330	1	개미잡이	Eurasian Wryneck	Jynx torquilla
+331	1	아물쇠딱다구리	Grey-capped Pygmy Woodpecker	Yungipicus canicapillus
+332	1	쇠딱다구리	Japanese Pygmy Woodpecker	Yungipicus kizuki
+333	1	붉은배오색딱다구리	Rufous-bellied Woodpecker	Dendrocopos hyperythrus
+334	1	오색딱다구리	Great Spotted Woodpecker	Dendrocopos major
+335	1	큰오색딱다구리	White-backed Woodpecker	Dendrocopos leucotos
+336	2	크낙새	White-bellied Woodpecker	Dryocopus javensis
+337	1	까막딱다구리	Black Woodpecker	Dryocopus martius
+338	1	청딱다구리	Grey-headed Woodpecker	Picus canus
+339	3	흰발톱황조롱이	Lesser Kestrel	Falco naumanni
+340	1	황조롱이	Common Kestrel	Falco tinnunculus
+341	1	비둘기조롱이	Amur Falcon	Falco amurensis
+342	1	쇠황조롱이	Merlin	Falco columbarius
+343	1	새호리기	Eurasian Hobby	Falco subbuteo
+344	1	헨다손매	Saker Falcon	Falco cherrug
+345	1	흰매	Gyrfalcon	Falco rusticolus
+346	1	매	Peregrine Falcon	Falco peregrinus
+347	1	푸른날개팔색조	Blue-winged Pitta	Pitta moluccensis
+348	1	팔색조	Fairy Pitta	Pitta nympha
+349	1	회색숲제비	Ashy Woodswallow	Artamus fuscus
+350	1	할미새사촌	Ashy Minivet	Pericrocotus divaricatus
+351	1	류큐할미새사촌	Ryukyu Minivet	Pericrocotus tegimae
+352	1	갈색할미새사촌	Swinhoe's Minivet	Pericrocotus cantonensis
+353	1	검은할미새사촌	Black-winged Cuckooshrike	Lalage melaschistos
+354	1	꾀꼬리	Black-naped Oriole	Oriolus chinensis
+355	1	큰부리바람까마귀	Crow-billed Drongo	Dicrurus annectens
+356	1	바람까마귀	Hair-crested Drongo	Dicrurus hottentottus
+357	1	회색바람까마귀	Ashy Drongo	Dicrurus leucophaeus
+358	1	검은바람까마귀	Black Drongo	Dicrurus macrocercus
+359	1	북방긴꼬리딱새	Amur Paradise Flycatcher	Terpsiphone incei
+360	1	긴꼬리딱새	Black Paradise Flycatcher	Terpsiphone atrocaudata
+361	1	초원때까치	Great Grey Shrike	Lanius excubitor
+362	1	물때까치	Chinese Grey Shrike	Lanius sphenocercus
+363	1	재때까치	Northern Shrike	Lanius borealis
+364	1	칡때까치	Tiger Shrike	Lanius tigrinus
+365	1	덤불때까치	Isabelline Shrike	Lanius isabellinus
+366	1	붉은등때까치	Red-backed Shrike	Lanius collurio
+367	1	노랑때까치	Brown Shrike	Lanius cristatus
+368	1	때까치	Bull-headed Shrike	Lanius bucephalus
+369	1	긴꼬리때까치	Long-tailed Shrike	Lanius schach
+370	1	회색등때까치	Grey-backed Shrike	Lanius tephronotus
+371	1	어치	Eurasian Jay	Garrulus glandarius
+372	1	물까치	Azure-winged Magpie	Cyanopica cyanus
+373	1	까치	Oriental Magpie	Pica serica
+374	1	잣까마귀	Spotted Nutcracker	Nucifraga caryocatactes
+375	1	붉은부리까마귀	Red-billed Chough	Pyrrhocorax pyrrhocorax
+376	1	갈까마귀	Daurian Jackdaw	Coloeus dauuricus
+377	R1D	집까마귀	House Crow	Corvus splendens
+378	1	떼까마귀	Rook	Corvus frugilegus
+379	1	까마귀	Carrion Crow	Corvus corone
+380	1	큰부리까마귀	Large-billed Crow	Corvus macrorhynchos
+381	3	큰까마귀	Northern Raven	Corvus corax
+382	1	황여새	Bohemian Waxwing	Bombycilla garrulus
+383	1	홍여새	Japanese Waxwing	Bombycilla japonica
+384	1	회색머리노랑딱새	Grey-headed Canary-flycatcher	Culicicapa ceylonensis
+385	1	진박새	Coal Tit	Periparus ater
+386	1	노랑배진박새	Yellow-bellied Tit	Pardaliparus venustulus
+387	1	곤줄박이	Varied Tit	Sittiparus varius
+388	1	쇠박새	Marsh Tit	Poecile palustris
+389	2	북방쇠박새	Willow Tit	Poecile montanus
+390	3	흰머리유리박새	Azure Tit	Cyanistes cyanus
+391	1	노랑배박새	Northern Great Tit	Parus major
+392	1	박새	Eastern Great Tit	Parus minor
+393	1	스윈호오목눈이	Chinese Penduline Tit	Remiz consobrinus
+394	1	수염오목눈이	Bearded Reedling	Panurus biarmicus
+395	1	종다리	Eurasian Skylark	Alauda arvensis
+396	R1A	극동종다리	Far Eastern Lark 	Alauda japonica
+397	1	뿔종다리	Crested Lark	Galerida cristata
+398	1	해변종다리	Horned Lark	Eremophila alpestris
+399	1	쇠종다리	Mongolian Short-toed Lark	Calandrella dukhunensis
+400	3	큰부리종다리	Bimaculated Lark	Melanocorypha bimaculata
+401	1	큰흰날개종다리	Mongolian Lark	Melanocorypha mongolica
+402	1	북방쇠종다리	Asian Short-toed Lark	Alaudala cheleensis
+403	1	초원쇠종다리	Turkestan Short-toed Lark	Alaudala heinei
+404	1	직박구리	Brown-eared Bulbul	Hypsipetes amaurotis
+405	1	흰머리직박구리	Black Bulbul	Hypsipetes leucocephalus
+406	1	검은이마직박구리	Light-vented Bulbul	Pycnonotus sinensis
+407	R1A	짙은갈색제비	Grey-throated Martin	Riparia chinensis
+408	1	갈색제비	Sand Martin	Riparia riparia
+409	R1A	옅은갈색제비	Pale Martin	Riparia diluta
+410	1	바위산제비	Eurasian Crag Martin	Ptyonoprogne rupestris
+411	1	제비	Barn Swallow	Hirundo rustica
+412	1	흰턱제비	Siberian House Martin	Delichon lagopodum
+413	1	흰털발제비	Asian House Martin	Delichon dasypus
+414	1	귀제비	Red-rumped Swallow	Cecropis daurica
+415	1	섬휘파람새	Japanese Bush Warbler	Horornis diphone
+416	1	휘파람새	Manchurian Bush Warbler	Horornis canturians
+417	1	숲새	Asian Stubtail	Urosphena squameiceps
+418	1	오목눈이	Long-tailed Tit	Aegithalos caudatus
+419	1	검은턱오목눈이	Silver-throated Bushtit	Aegithalos glaucogularis
+420	1	노랑턱솔새	Wood Warbler	Phylloscopus sibilatrix
+421	1	연노랑눈썹솔새	Hume's Leaf Warbler	Phylloscopus humei
+422	1	노랑눈썹솔새	Yellow-browed Warbler	Phylloscopus inornatus
+423	1	연노랑허리솔새	Chinese Leaf Warbler	Phylloscopus yunnanensis
+424	1	노랑허리솔새	Pallas's Leaf Warbler	Phylloscopus proregulus
+425	1	쇠긴다리솔새사촌	Yellow-streaked Warbler	Phylloscopus armandii
+426	1	긴다리솔새사촌	Radde's Warbler	Phylloscopus schwarzi
+427	1	노랑배솔새사촌	Tickell's Leaf Warbler	Phylloscopus affinis
+428	1	솔새사촌	Dusky Warbler	Phylloscopus fuscatus
+429	1	담황턱솔새	Buff-throated Warbler	Phylloscopus subaffinis
+430	1	연노랑솔새	Willow Warbler	Phylloscopus trochilus
+431	1	검은다리솔새	Common Chiffchaff	Phylloscopus collybita
+432	1	산솔새	Eastern Crowned Warbler	Phylloscopus coronatus
+433	1	회색머리노랑솔새	Grey-crowned Warbler	Phylloscopus tephrocephalus
+434	1	햇노랑솔새	Martens's Warbler	Phylloscopus omeiensis
+435	1	버들솔새	Two-barred Warbler	Phylloscopus plumbeitarsus
+436	R1A	대륙솔새	Greenish Warbler	Phylloscopus trochiloides
+437	1	사할린되솔새	Sakhalin Leaf Warbler	Phylloscopus borealoides
+438	1	되솔새	Pale-legged Leaf Warbler	Phylloscopus tenellipes
+439	1	일본솔새	Japanese Leaf Warbler	Phylloscopus xanthodryas
+440	1	솔새	Kamchatka Leaf Warbler	Phylloscopus examinandus
+441	1	쇠솔새	Arctic Warbler	Phylloscopus borealis
+442	1	노랑배솔새	Sulphur-breasted Warbler	Phylloscopus ricketti
+443	1	북방동고비솔새	Claudia's Leaf Warbler	Phylloscopus claudiae
+444	R1A		Hartert's Leaf Warbler	Phylloscopus goodsoni
+445	1	개개비	Oriental Reed Warbler	Acrocephalus orientalis
+446	1	쇠개개비	Black-browed Reed Warbler	Acrocephalus bistrigiceps
+447	1	풀쇠개개비	Sedge Warbler	Acrocephalus schoenobaenus
+448	1	우수리개개비	Manchurian Reed Warbler	Acrocephalus tangorum
+449	1	북방쇠개개비	Paddyfield Warbler	Acrocephalus agricola
+450	1	덤불개개비	Blyth's Reed Warbler	Acrocephalus dumetorum
+451	1	큰부리개개비	Thick-billed Warbler	Arundinax aedon
+452	1	쇠덤불개개비	Booted Warbler	Iduna caligata
+453	1	붉은허리개개비	Gray's Grasshopper Warbler	Helopsaltes fasciolatus
+454	1	큰개개비	Marsh Grassbird	Helopsaltes pryeri
+455	1	북방개개비	Pallas's Grasshopper Warbler	Helopsaltes certhiola
+456	1	알락꼬리쥐발귀	Middendorff's Grasshopper Warbler	Helopsaltes ochotensis
+457	1	섬개개비	Styan's Grasshopper Warbler	Helopsaltes pleskei
+458	1	쥐발귀개개비	Lanceolated Warbler	Locustella lanceolata
+459	1	땅개개비	Chinese Bush Warbler	Locustella tacsanowskia
+460	1	점무늬가슴쥐발귀	Baikal Bush Warbler	Locustella davidi
+461	1	개개비사촌	Zitting Cisticola	Cisticola juncidis
+462	1	비늘무늬덤불개개비	Barred Warbler	Curruca nisoria
+463	1	쇠흰턱딱새	Lesser Whitethroat	Curruca curruca
+464	2	꼬리치레	Beijing Babbler	Rhopophilus pekinensis
+465	1	붉은머리오목눈이	Vinous-throated Parrotbill	Suthora webbiana
+466	1	한국동박새	Chestnut-flanked White-eye	Zosterops erythropleurus
+467	1	작은동박새	Swinhoe's White-eye	Zosterops simplex
+468	1	동박새	Warbling White-eye	Zosterops japonicus
+469	1	상모솔새	Goldcrest	Regulus regulus
+470	1	굴뚝새	Eurasian Wren	Troglodytes troglodytes
+471	1	쇠동고비	Chinese Nuthatch	Sitta villosa
+472	1	동고비	Eurasian Nuthatch	Sitta europaea
+473	1	나무발발이	Eurasian Treecreeper	Certhia familiaris
+474	1	뿔찌르레기	Crested Myna	Acridotheres cristatellus
+475	5E	자바뿔찌르레기	Javan Myna	Acridotheres javanicus
+476	R1D	갈색찌르레기	Common Myna	Acridotheres tristis
+477	1	붉은부리찌르레기	Red-billed Starling	Spodiopsar sericeus
+478	1	찌르레기	White-cheeked Starling	Spodiopsar cineraceus
+479	1	북방쇠찌르레기	Daurian Starling	Agropsar sturninus
+480	1	쇠찌르레기	Chestnut-cheeked Starling	Agropsar philippensis
+481	1	잿빛쇠찌르레기	White-shouldered Starling	Sturnia sinensis
+482	1	분홍찌르레기	Rosy Starling	Pastor roseus
+483	1	흰점찌르레기	Common Starling	Sturnus vulgaris
+484	1	호랑지빠귀	White's Thrush	Zoothera aurea
+485	1	흰눈썹지빠귀	Siberian Thrush	Geokichla sibirica
+486	1	귤빛지빠귀	Orange-headed Thrush	Geokichla citrina
+487	1	큰점지빠귀	Chinese Thrush	Turdus mupinensis
+488	1	대륙점지빠귀	Mistle Thrush	Turdus viscivorus
+489	1	대륙검은지빠귀	Chinese Blackbird	Turdus mandarinus
+490	1	붉은날개지빠귀	Redwing	Turdus iliacus
+491	1	검은지빠귀	Grey Thrush	Turdus cardis
+492	1	되지빠귀	Grey-backed Thrush	Turdus hortulorum
+493	1	흰눈썹붉은배지빠귀	Eyebrowed Thrush	Turdus obscurus
+494	1	흰배지빠귀	Pale Thrush	Turdus pallidus
+495	1	갈색지빠귀	Grey-sided Thrush	Turdus feae
+496	1	붉은배지빠귀	Brown-headed Thrush	Turdus chrysolaus
+497	1	회색머리지빠귀	Fieldfare	Turdus pilaris
+498	1	검은목지빠귀	Black-throated Thrush	Turdus atrogularis
+499	1	붉은목지빠귀	Red-throated Thrush	Turdus ruficollis
+500	1	개똥지빠귀	Dusky Thrush	Turdus eunomus
+501	1	노랑지빠귀	Naumann's Thrush	Turdus naumanni
+502	R1D	까치울새	Oriental Magpie-Robin	Copsychus saularis
+503	1	제비딱새	Grey-streaked Flycatcher	Muscicapa griseisticta
+504	1	솔딱새	Dark-sided Flycatcher	Muscicapa sibirica
+505	1	꼬까딱새	Ferruginous Flycatcher	Muscicapa ferruginea
+506	1	갈색솔딱새	Brown-breasted Flycatcher	Muscicapa muttui
+507	1	쇠솔딱새	Asian Brown Flycatcher	Muscicapa dauurica
+508	1	붉은가슴딱새	Fujian Niltava	Niltava davidi
+509	1	큰유리새	Blue-and-white Flycatcher	Cyanoptila cyanomelana
+510	1	하늘유리새	Zappey's Flycatcher	Cyanoptila cumatilis
+511	1	파랑딱새	Verditer Flycatcher	Eumyias thalassinus
+512	1	주황가슴파랑딱새	Chinese Blue Flycatcher	Cyornis glaucicomans
+513	1	꼬까울새	European Robin	Erithacus rubecula
+514	1	흰눈썹울새	Bluethroat	Luscinia svecica
+515	1	흰꼬리유리딱새	White-tailed Robin	Myiomela leucura
+516	1	진홍가슴	Siberian Rubythroat	Calliope calliope
+517	1	쇠유리새	Siberian Blue Robin	Larvivora cyane
+518	1	붉은가슴울새	Japanese Robin	Larvivora akahige
+519	1	울새	Rufous-tailed Robin	Larvivora sibilans
+520	1	흰눈썹황금새	Yellow-rumped Flycatcher	Ficedula zanthopygia
+521	1	북방황금새	Green-backed Flycatcher	Ficedula elisae
+522	1	황금새	Narcissus Flycatcher	Ficedula narcissina
+523	1	남방황금새	Ryukyu Flycatcher	Ficedula owstoni
+524	3	진푸른딱새	Slaty-blue Flycatcher	Ficedula tricolor
+525	1	노랑딱새	Mugimaki Flycatcher	Ficedula mugimaki
+526	1	서양흰꼬리딱새	Red-breasted Flycatcher	Ficedula parva
+527	1	흰꼬리딱새	Taiga Flycatcher	Ficedula albicilla
+528	3	알락딱새	European Pied Flycatcher	Ficedula hypoleuca
+529	1	유리딱새	Red-flanked Bluetail	Tarsiger cyanurus
+530	1	부채꼬리바위딱새	Plumbeous Water Redstart	Phoenicurus fuliginosus
+531	1	흰머리바위딱새	White-capped Redstart	Phoenicurus leucocephalus
+532	1	검은머리딱새	Black Redstart	Phoenicurus ochruros
+533	1	흰이마딱새	Common Redstart	Phoenicurus phoenicurus
+534	1	딱새	Daurian Redstart	Phoenicurus auroreus
+535	3	흰날개딱새	Güldenstädt's Redstart	Phoenicurus erythrogastrus
+536	1	꼬까직박구리	White-throated Rock Thrush	Monticola gularis
+537	1	바다직박구리	Blue Rock Thrush	Monticola solitarius
+538	1	검은뺨딱새	Grey Bush Chat	Saxicola ferreus
+539	1	검은딱새	Amur Stonechat	Saxicola stejnegeri
+540	1	북방사막딱새	Northern Wheatear	Oenanthe oenanthe
+541	1	긴다리사막딱새	Isabelline Wheatear	Oenanthe isabellina
+542	1	검은꼬리사막딱새	Desert Wheatear	Oenanthe deserti
+543	1	검은등사막딱새	Pied Wheatear	Oenanthe pleschanka
+544	1	물까마귀	Brown Dipper	Cinclus pallasii
+545	1	섬참새	Russet Sparrow	Passer cinnamomeus
+546	1	참새	Eurasian Tree Sparrow	Passer montanus
+547	1	집참새	House Sparrow	Passer domesticus
+548	1	얼룩무늬납부리새	Scaly-breasted Munia	Lonchura punctulata
+549	1	바위종다리	Alpine Accentor	Prunella collaris
+550	1	멧종다리	Siberian Accentor	Prunella montanella
+551	1	쇠바위종다리	Japanese Accentor	Prunella rubida
+552	1	물레새	Forest Wagtail	Dendronanthus indicus
+553	1	서양긴발톱할미새	Western Yellow Wagtail	Motacilla flava
+554	1	긴발톱할미새	Eastern Yellow Wagtail	Motacilla tschutschensis
+555	1	노랑머리할미새	Citrine Wagtail	Motacilla citreola
+556	1	노랑할미새	Grey Wagtail	Motacilla cinerea
+557	1	알락할미새	White Wagtail	Motacilla alba
+558	1	검은등할미새	Japanese Wagtail	Motacilla grandis
+559	1	큰밭종다리	Richard's Pipit	Anthus richardi
+560	1	쇠밭종다리	Blyth's Pipit	Anthus godlewskii
+561	1	풀밭종다리	Meadow Pipit	Anthus pratensis
+562	1	나무밭종다리	Tree Pipit	Anthus trivialis
+563	1	힝둥새	Olive-backed Pipit	Anthus hodgsoni
+564	1	흰등밭종다리	Pechora Pipit	Anthus gustavi
+565	1	한국밭종다리	Rosy Pipit	Anthus roseatus
+566	1	붉은가슴밭종다리	Red-throated Pipit	Anthus cervinus
+567	1	밭종다리	Siberian Pipit	Anthus japonicus
+568	1	옅은밭종다리	Water Pipit	Anthus spinoletta
+569	1	푸른머리되새	Common Chaffinch	Fringilla coelebs
+570	1	되새	Brambling	Fringilla montifringilla
+571	1	콩새	Hawfinch	Coccothraustes coccothraustes
+572	1	밀화부리	Chinese Grosbeak	Eophona migratoria
+573	1	큰부리밀화부리	Japanese Grosbeak	Eophona personata
+574	1	솔양진이	Pine Grosbeak	Pinicola enucleator
+575	1	멋쟁이	Eurasian Bullfinch	Pyrrhula pyrrhula
+576	1	바위양진이	Mongolian Finch	Bucanetes mongolicus
+577	1	갈색양진이	Asian Rosy Finch	Leucosticte arctoa
+578	1	붉은양진이	Common Rosefinch	Carpodacus erythrinus
+579	1	긴꼬리홍양진이	Siberian Long-tailed Rosefinch	Carpodacus sibiricus
+580	1	양진이	Pallas's Rosefinch	Carpodacus roseus
+581	1	방울새	Grey-capped Greenfinch	Chloris sinica
+582	1	홍방울새	Redpoll	Acanthis flammea
+583	1	솔잣새	Red Crossbill	Loxia curvirostra
+584	2,3	흰죽지솔잣새	Two-barred Crossbill	Loxia leucoptera
+585	1	검은머리방울새	Eurasian Siskin	Spinus spinus
+586	1	긴발톱멧새	Lapland Longspur	Calcarius lapponicus
+587	1	흰멧새	Snow Bunting	Plectrophenax nivalis
+588	1	노랑멧새	Yellowhammer	Emberiza citrinella
+589	1	흰머리멧새	Pine Bunting	Emberiza leucocephalos
+590	1	동부산악멧새	Godlewski's Bunting	Emberiza godlewskii
+591	1	멧새	Meadow Bunting	Emberiza cioides
+592	1	노랑수염멧새	Ortolan Bunting	Emberiza hortulana
+593	1	흰배멧새	Tristram's Bunting	Emberiza tristrami
+594	1	붉은뺨멧새	Chestnut-eared Bunting	Emberiza fucata
+595	1	쇠붉은뺨멧새	Little Bunting	Emberiza pusilla
+596	1	노랑눈썹멧새	Yellow-browed Bunting	Emberiza chrysophrys
+597	1	쑥새	Rustic Bunting	Emberiza rustica
+598	1	노랑턱멧새	Yellow-throated Bunting	Emberiza elegans
+599	1	검은머리촉새	Yellow-breasted Bunting	Emberiza aureola
+600	1	꼬까참새	Chestnut Bunting	Emberiza rutila
+601	1	검은머리멧새	Black-headed Bunting	Emberiza melanocephala
+602	1	붉은머리멧새	Red-headed Bunting	Emberiza bruniceps
+603	1	무당새	Yellow Bunting	Emberiza sulphurata
+604	1	촉새	Black-faced Bunting	Emberiza spodocephala
+605	1	섬촉새	Masked Bunting	Emberiza personata
+606	1	검은멧새	Grey Bunting	Emberiza variabilis
+607	1	북방검은머리쑥새	Pallas's Reed Bunting	Emberiza pallasi
+608	1	쇠검은머리쑥새	Ochre-rumped Bunting	Emberiza yessoensis
+609	1	검은머리쑥새	Common Reed Bunting	Emberiza schoeniclus
+610	1	흰정수리멧새	White-crowned Sparrow	Zonotrichia leucophrys
+611	1	노랑정수리멧새	Golden-crowned Sparrow	Zonotrichia atricapilla
+612	1	초원멧새	Savannah Sparrow	Passerculus sandwichensis

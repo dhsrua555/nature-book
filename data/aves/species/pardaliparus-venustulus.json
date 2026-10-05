@@ -7,7 +7,7 @@
   "ktsn": 120000528892,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "나그네새 수백 마리 · 겨울철새 수백 마리 · 여름철새 수십 마리",
   "habitat": "TODO",
   "protect": [],
   "months": {
@@ -38,9 +38,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Periparus venustulus)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
-  ]
+  ],
+  "occurrence": {
+    "code": "P4, W4, S5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Pardaliparus venustulus",
+    "rarity": 4.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

@@ -7,7 +7,7 @@
   "ktsn": 120000001530,
   "origin": "nibr",
   "length": "약 49cm",
-  "status": "TODO",
+  "status": "여름철새, 해마다 수십 마리 · 이동기에도 드물게 기록",
   "habitat": "숲이 있는 해안 섬, 침엽수림 속 어두운 계곡, 연못가",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
@@ -74,9 +74,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문이 국내 상태를 '간혹 나타나는 철새'라고만 적어 여름철새·나그네새 등 어느 것인지 알 수 없어 status 를 TODO로 둠"
-  ]
+  ],
+  "occurrence": {
+    "code": "S5, PV1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Gorsachius goisagi",
+    "rarity": 5.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

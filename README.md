@@ -98,7 +98,22 @@ uv run tools/serve.py          # http://localhost:8000
 3. `uv run tools/nibr_entries.py batches` — 원문이 있는 종을 묶음으로 나눈다. 묶음마다 `tools/ENTRY_RULES.md` 규칙대로
    **원문에 있는 사실만** 우리 문장으로 다시 써서 `cache/work/out-NN.json` 을 만든다(원문에 없으면 TODO, 원문이 다른 종을 설명하거나 서로 어긋나면 그 값은 TODO 로 두고 `todo` 에 까닭).
 4. `uv run tools/nibr_entries.py check cache/work/out-NN.json` — 몸길이 같은 수와 국내 상태 낱말이 원문에 실제로 있는지 대조한다.
-5. `uv run tools/nibr_entries.py merge` → `uv run tools/build.py`.
+5. `uv run tools/nibr_entries.py merge` → `uv run tools/occurrence.py --write` → `uv run tools/build.py`.
+   (`merge` 는 이미 있는 종 파일을 덮어쓰지 않는다. 다시 만들 때만 `--force`.)
+
+### 국내 상태(흔하기)
+
+국내 상태 칸은 새와 생명의 터(Birds Korea) 조류목록 2022(Moores & Ha)를 따른다. 이 목록은 남한에서 사진·녹음·표본으로 확인된 기록을 바탕으로
+종마다 계절(텃새·여름철새·나그네새·겨울철새)과 그 계절에 해마다 국내에 있는 개체 수 범위(수십·수백·수천·수만·10만 마리 이상),
+드물게 기록되는 종은 기록 건수(해마다 10건 미만, 지금까지 10건 미만), 2000년 이후 번식 여부를 적는다.
+
+1. `uv run tools/ref_bk.py` — 2022 영문판(상태)과 2024 국문판(국명)을 받아 `tools/ref/bk-2022.tsv`, `bk-2024-ko.tsv` 로 옮긴다.
+2. `uv run tools/occurrence.py --show` — 국명·학명·영문명으로 짝을 찾아 상태 문장을 미리 본다. 갈래가 엇갈리면 파일 위 `MANUAL` 에 정한다.
+3. `uv run tools/occurrence.py --write` — 종 파일의 `status`, `breeding`, `occurrence`(원래 표시와 흔하기 점수)를 고쳐 쓰고,
+   국내 번식 기록이 없는 종은 달력의 번식기를 비우며, 해마다 오는 텃새는 볼 수 있는 달을 열두 달로 채운다.
+   목록에 없는 종(20종, 주로 북한 지역 기록이나 확인되지 않은 기록)은 국가생물종목록 쪽 상태를 두고 '목록에 없음'을 덧붙인다.
+
+삽화는 이 흔하기 점수(`occurrence.rarity`, 1 가장 흔함 → 7 기록 손꼽을 만큼, 9.5 목록 밖) 순서로 그린다.
 
 원문이 없는 종(약 150종, 주로 드물게 찾아오는 새)은 국명·학명·분류·보호 표시만 싣고 '해설을 아직 싣지 못했다'고 밝힌다.
 

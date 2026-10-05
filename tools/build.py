@@ -220,6 +220,9 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
             # 첫 화면 '오늘의 새'가 고를 때 쓰는 값: 해설이 있는지, 볼 수 있는 달
             "text": not has_todo_str(sp.get("summary")),
             "seen": (sp.get("months") or {}).get("seen") if isinstance((sp.get("months") or {}).get("seen"), list) else None,
+            # 흔하기(새와 생명의 터 2022: 1 해마다 10만 마리 이상 … 5 수십 마리, 6·7 길잃은새, 9 이상 목록 밖) — 삽화 차례와 오늘의 새에 쓴다
+            "rarity": (sp.get("occurrence") or {}).get("rarity", 9.5),
+            "occ": (sp.get("occurrence") or {}).get("code"),
             **({"origin": sp["origin"]} if sp.get("origin") else {}),
         })
 

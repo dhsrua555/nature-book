@@ -1,0 +1,1018 @@
+# Moores, N. & Ha, J-M. 2022. The Birds Korea Checklist (2022). https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf — tools/ref_bk.py 가 옮김
+no	cat	en	sci	ssp	ncs	gcs	status	bs
+1	1	Brant Goose	Branta bernicla		LAT	LC	WV1	0
+1	1	Brant Goose	Branta bernicla	nigricans	LAT	LC	WV1	0
+2	1	Red-breasted Goose	Branta ruficollis		IOS	VU	V2	0
+3	1	Barnacle Goose	Branta leucopsis		IOS	LC	V2	0
+4	1	Cackling Goose	Branta hutchinsii		IOS	LC	WV1	0
+4	1	Cackling Goose	Branta hutchinsii	leucopareia	IOS	LC	WV1	0
+4	1	Cackling Goose	Branta hutchinsii	minima	IOS	LC	WV2	0
+4	1	Cackling Goose	Branta hutchinsii	taverneri	IOS	LC	WV2	0
+5	1	Bar-headed Goose	Anser indicus		IOS	LC	V2	0
+6	1	Emperor Goose	Anser canagicus		IOS	NT	V2	0
+7	1	Snow Goose	Anser caerulescens		ILT	LC	WV1	0
+7	1	Snow Goose	Anser caerulescens	caerulescens	ILT	LC	WV1	0
+8	1	Greylag Goose	Anser anser		IOS	LC	V1	0
+8	1	Greylag Goose	Anser anser	rubrirostris	IOS	LC	V1	0
+9	1	Swan Goose	Anser cygnoides		GCS	VU	P3, W5	0
+10	1	Taiga Bean Goose	Anser fabalis		RCP	LC	W3, SV2	0
+10	1	Taiga Bean Goose	Anser fabalis	johanseni	RCP	LC	V2?	0
+10	1	Taiga Bean Goose	Anser fabalis	middendorffii	RCP	LC	W3, SV2	0
+11	1	Tundra Bean Goose	Anser serrirostris		RCP	NR	P1, W2, SV1	0
+11	1	Tundra Bean Goose	Anser serrirostris	serrirostris	RCP	NR	P1, W2, SV1	0
+12	1	Greater White-fronted Goose	Anser albifrons		RCP	LC	P1, W1,SV1	0
+12	1	Greater White-fronted Goose	Anser albifrons	albifrons	RCP	LC	W4	0
+12	1	Greater White-fronted Goose	Anser albifrons	frontalis	RCP	LC	P1, W1,SV1	0
+13	1	Lesser White-fronted	Anser erythropus		GCS	VU	P5,W5	0
+14	1	Goose Mute Swan	Cygnus olor		TNS	LC	W5	0
+15	1	Tundra Swan	Cygnus columbianus		NBS	LC	W5, P5	0
+15	1	Tundra Swan	Cygnus columbianus	bewickii	NBS	LC	W5, P5	0
+16	1	Whooper Swan	Cygnus cygnus		PNS	LC	W3, SV2	0
+17	1	Common Shelduck	Tadorna tadorna		DES	LC	W2, SV2	0
+18	1	Ruddy Shelduck	Tadorna ferruginea		NBS	LC	W3, SV2	0
+19	1	Mandarin Duck	Aix galericulata		NBM	LC	R3, P3, W3	1
+20	1	Cotton Pygmy Goose	Nettapus coromandelianus		IOS	LC	V2	0
+21	1	Baikal Teal	Sibirionetta formosa		GFI	LC	W1, SV2	0
+22	1	Garganey	Spatula querquedula		DES	LC	P4	0
+23	1	Northern Shoveler	Spatula clypeata		LCS	LC	W3, SV2	0
+24	1	Gadwall	Mareca strepera		LCS	LC	W2, SV2	0
+24	1	Gadwall	Mareca strepera	strepera	LCS	LC	W2, SV2	0
+25	1	Falcated Duck	Mareca falcata		PCS	NT	W3, SV1	2
+26	1	Eurasian Wigeon	Mareca penelope		NBM	LC	W2, P3, SV1	0
+27	1	American Wigeon	Mareca americana		IOS	LC	WV1	0
+28	1	Eastern Spot-billed Duck	Anas zonorhyncha		NBM	LC	W2, R2	1
+29	1	Mallard	Anas platyrhynchos		NBS	LC	W1, P2, R4	1
+29	1	Mallard	Anas platyrhynchos	platyrhynchos	NBS	LC	W1, P2, R4	1
+30	1	Northern Pintail	Anas acuta		NBS	LC	W2, P3, SV2	0
+31	1	Eurasian Teal	Anas crecca		DES	LC	W2, SV1	0
+32	1	Green-winged Teal	Anas carolinensis		IOS	LC	V2	0
+33	1	Red-crested Pochard	Netta rufina		IOS	LC	V1	0
+34	1	Canvasback	Aythya valisineria		IOS	LC	V2	0
+35	1	Common Pochard	Aythya ferina		GCS	VU	P2, W2, SV1	0
+36	1	Baer's Pochard	Aythya baeri		LAT	CR	V1	0
+37	1	Ferruginous Duck	Aythya nyroca		IOS	NT	V1	0
+38	1	Ring-necked Duck	Aythya collaris		IOS	LC	V2	0
+39	1	Tufted Duck	Aythya fuligula		LCS	LC	W3, P4, SV2	0
+40	1	Greater Scaup	Aythya marila		LCS	LC	W2, SV2	0
+40	1	Greater Scaup	Aythya marila	nearctica	LCS	LC	W2, SV2	0
+41	1	Lesser Scaup	Aythya affinis		IOS	LC	V2	0
+42	1	King Eider	Somateria spectabilis		IOS	LC	V2	0
+43	1	Harlequin Duck	Histrionicus histrionicus		PNS	LC	W4	0
+44	1	Surf Scoter	Melanitta perspicillata		IOS		V2	0
+45	1	Velvet Scoter	Melanitta fusca		IOS	VU	V2	0
+46	1	Stejneger's Scoter	Melanitta stejnegeri		NBS	LC	W4, SV2	0
+47	1	Black Scoter	Melanitta americana		NBS	NT	W4	0
+48	1	Long-tailed Duck	Clangula hyemalis		NRO	VU	WV1	0
+49	1	Bufflehead	Bucephala albeola		IOS	LC	V2	0
+50	1	Common Goldeneye	Bucephala clangula		NBM	LC	W3	0
+50	1	Common Goldeneye	Bucephala clangula	clangula	NBM	LC	W3	0
+51	1	Smew	Mergellus albellus		LCS	LC	W3	0
+52	1	Common Merganser	Mergus merganser		DES	LC	W2, R5	1
+52	1	Common Merganser	Mergus merganser	merganser	DES	LC	W2, R5	1
+53	1	Red-breasted Merganser	Mergus serrator		LCS	LC	W3, SV2	0
+54	1	Scaly-sided Merganser	Mergus squamatus		GCS	EN	W4, P4	0
+55	1	Hazel Grouse	Tetrastes bonasia		NAB	LC	R1	1
+55	1	Hazel Grouse	Tetrastes bonasia	amurensis	NAB	LC	R1	1
+56	1	Common Pheasant	Phasianus colchicus		NAB	LC	R1	1
+56	1	Common Pheasant	Phasianus colchicus	karpowi	NAB	LC	R1	1
+57	1	Japanese Quail	Coturnix japonica		PCS	NT	W4, SV2	1
+58	1	Grey Nightjar	Caprimulgus jotaka		DES	LC	P3, S3	1
+58	1	Grey Nightjar	Caprimulgus jotaka	jotaka	DES	LC	P3, S3	1
+59	1	Himalayan Swiftlet	Aerodramus brevirostris		IOS	LC	V1	0
+59	1	Himalayan Swiftlet	Aerodramus brevirostris	innominatus	IOS	LC	V1	0
+60	1	White-throated Needletail	Hirundapus caudacutus		LCS	LC	P3, S5	2
+60	1	White-throated Needletail	Hirundapus caudacutus	caudacutus	LCS	LC	P3, S5	2
+61	1	Alpine Swift	Tachymarptis melba		IOS	LC	V2	0
+61	1	Alpine Swift	Tachymarptis melba	nubifugus (?)	IOS	LC	V2	0
+62	1	Pacific Swift	Apus pacificus		NAB	LC	P2, S3	1
+62	1	Pacific Swift	Apus pacificus	pacificus	NAB	LC	P2, S3	1
+63	1	House Swift	Apus nipalensis		IOS	LC	V1	0
+63	1	House Swift	Apus nipalensis	nipalensis	IOS	LC	V1	0
+64	1	Great Bustard	Otis tarda		LAT	VU	WV2	0
+64	1	Great Bustard	Otis tarda	dybowskii	LAT	VU	WV2	0
+65	1	Lesser Coucal	Centropus bengalensis		IOS	LC	V2	0
+65	1	Lesser Coucal	Centropus bengalensis	lignator (?)	IOS	LC	V2	0
+66	1	Chestnut-winged Cuckoo	Clamator coromandus		IOS	LC	V1	1
+67	1	Asian Koel	Eudynamys scolopaceus		IOS	LC	V1	0
+67	1	Asian Koel	Eudynamys scolopaceus	chinensis	IOS	LC	V1	0
+68	1	Plaintive Cuckoo	Cacomantis merulinus		IOS	LC	V2	0
+68	1	Plaintive Cuckoo	Cacomantis merulinus	querulus	IOS	LC	V2	0
+69	1	Square-tailed Drongo- Cuckoo	Surniculus lugubris		IOS	LC	V2	0
+69	1	Square-tailed Drongo- Cuckoo	Surniculus lugubris	barussarum	IOS	LC	V2	0
+70	1	Large Hawk-Cuckoo	Hierococcyx sparverioides		IOS	LC	V1	0
+71	1	Northern Hawk-Cuckoo	Hierococcyx hyperythrus		BDS	LC	S3, P4	1
+72	1	Lesser Cuckoo	Cuculus poliocephalus		BDS	LC	S3	1
+73	1	Indian Cuckoo	Cuculus micropterus		LCS	LC	S3	1
+73	1	Indian Cuckoo	Cuculus micropterus	micropterus	LCS	LC	S3	1
+74	1	Oriental Cuckoo	Cuculus optatus		NAB	LC	S2, P3	1
+75	1	Common Cuckoo	Cuculus canorus		HDR	LC	P2, S3	1
+76	1	Hill Pigeon	Columba rupestris		TNS	LC	R5, W5	1
+76	1	Hill Pigeon	Columba rupestris	rupestris	TNS	LC	R5, W5	1
+77	1	Stock Dove	Columba oenas		IOS	LC	WV2	0
+77	1	Stock Dove	Columba oenas	yarkandensis	IOS	LC	WV2	0
+78	1	Black Wood Pigeon	Columba janthina		PCS	NT	R4, S5	1
+78	1	Black Wood Pigeon	Columba janthina	janthina	PCS	NT	R4, S5	1
+79	1	Oriental Turtle Dove	Streptopelia orientalis		DES	LC	R1, P3	1
+79	1	Oriental Turtle Dove	Streptopelia orientalis	orientalis	DES	LC	R1, P3	1
+80	1	Eurasian Collared Dove	Streptopelia decaocto		NRO	LC	V1	0
+81	1	Red Turtle Dove	Streptopelia tranquebarica		IOS	LC	V1	0
+81	1	Red Turtle Dove	Streptopelia tranquebarica	humilis	IOS	LC	V1	0
+82	1	Spotted Dove	Spilopelia chinensis		IOS	LC	V2	0
+82	1	Spotted Dove	Spilopelia chinensis	chinensis	IOS	LC	V2	0
+83	1	White-bellied Green Pigeon	Treron sieboldii		IOS	LC	V1	0
+83	1	White-bellied Green Pigeon	Treron sieboldii	sieboldii	IOS	LC	V1	0
+84	1	Western Water Rail	Rallus aquaticus		IOS	LC	WV2	0
+84	1	Western Water Rail	Rallus aquaticus	korejewi	IOS	LC	WV2	0
+85	1	Eastern Water Rail	Rallus indicus		DES	LC	W5	0
+86	1	Common Moorhen	Gallinula chloropus		LCS	LC	S3, R4	1
+86	1	Common Moorhen	Gallinula chloropus	chloropus	LCS	LC	S3, R4	1
+87	1	Eurasian Coot	Fulica atra		NAB	LC	W2, R4	1
+87	1	Eurasian Coot	Fulica atra	atra	NAB	LC	W2, R4	1
+88	1	Swinhoe's Rail	Coturnicops exquisitus		IOS	VU	V2	0
+89	1	Ruddy-breasted Crake	Porzana fusca		PNS	LC	S5	1
+89	1	Ruddy-breasted Crake	Porzana fusca	erythrothorax	PNS	LC	S5	1
+90	1	Band-bellied Crake	Porzana paykullii		IOS	NT	V1	2
+91	1	Baillon's Crake	Porzana pusilla		NBM	LC	P5, SV2	0
+91	1	Baillon's Crake	Porzana pusilla	pusilla	NBM	LC	P5, SV2	0
+92	1	Watercock	Gallicrex cinerea		BDS	LC	S5	1
+93	1	White-breasted Waterhen	Amaurornis phoenicurus		RRO	LC	P5, SV2	1
+93	1	White-breasted Waterhen	Amaurornis phoenicurus	phoenicurus	RRO	LC	P5, SV2	1
+94	1	Siberian Crane	Leucogeranus leucogeranus		IOS	CR	WV1	0
+95	1	Sandhill Crane	Antigone canadensis		RRO	LC	W5, SV2	0
+95	1	Sandhill Crane	Antigone canadensis	canadensis	RRO	LC	W5, SV2	0
+96	1	White-naped Crane	Antigone vipio		GCS	VU	P3, W3, SV2	0
+97	1	Demoiselle Crane	Grus virgo		IOS	LC	V2	0
+98	1	Red-crowned Crane	Grus japonensis		GCS	VU	W3, SV2	0
+99	1	Common Crane	Grus grus		RRO	LC	W5	0
+100	1	Hooded Crane	Grus monacha		GCS	VU	P2, W3	0
+101	1	Little Grebe	Tachybaptus ruficollis		LCS	LC	R3, S4	1
+101	1	Little Grebe	Tachybaptus ruficollis	poggei	LCS	LC	R3, S4	1
+102	1	Red-necked Grebe	Podiceps grisegena		PNS	LC	W4	0
+102	1	Red-necked Grebe	Podiceps grisegena	holbollii	PNS	LC	W4	0
+103	1	Great Crested Grebe	Podiceps cristatus		NAB	LC	W2, R4	1
+103	1	Great Crested Grebe	Podiceps cristatus	cristatus	NAB	LC	W2, R4	1
+104	1	Horned Grebe	Podiceps auritus		GCS	VU	W5, SV2	0
+104	1	Horned Grebe	Podiceps auritus	auritus	GCS	VU	W5, SV2	0
+105	1	Black-necked Grebe	Podiceps nigricollis		NBS	LC	W3	0
+105	1	Black-necked Grebe	Podiceps nigricollis	nigricollis	NBS	LC	W3	0
+106	1	Greater Flamingo	Phoenicopterus roseus		IOS	LC	V2	0
+107	1	Yellow-legged Buttonquail	Turnix tanki		NRO	LC	V1	2
+107	1	Yellow-legged Buttonquail	Turnix tanki	blanfordii	NRO	LC	V1	2
+108	1	Far Eastern Oystercatcher	Haematopus osculans		GFI	NT	W3, R4	1
+109	1	Black-winged Stilt	Himantopus himantopus		LCS	LC	P4, S5, WV2	1
+110	1	Pied Avocet	Recurvirostra avosetta		RRO	LC	W5, SV2	1
+111	1	Northern Lapwing	Vanellus vanellus		PCS	NT	W4	0
+112	1	Grey-headed Lapwing	Vanellus cinereus		IOS	LC	V1	0
+113	1	Pacific Golden Plover	Pluvialis fulva		DES	LC	P4	0
+114	1	Grey Plover	Pluvialis squatarola		NBM	LC	P3, W3, S4	0
+114	1	Grey Plover	Pluvialis squatarola	squatarola / tomkovichi	NBM	LC	P3, W3, S4	0
+115	1	Common Ringed Plover	Charadrius hiaticula		IOS	LC	V1	0
+115	1	Common Ringed Plover	Charadrius hiaticula	tundrae	IOS	LC	V1	0
+116	1	Long-billed Plover	Charadrius placidus		PNS	LC	R3, P5	1
+117	1	Little Ringed Plover	Charadrius dubius		LCS	LC	P3, S3, WV2	1
+118	1	Kentish Plover	Charadrius alexandrinus		NBS	LC	P2, S4, W4	1
+118	1	Kentish Plover	Charadrius alexandrinus	nihonensis	NBS	LC	P2, S4, W4	1
+119	1	Tibetan Sand Plover	Charadrius atrifrons		IOS	NR	V2	0
+119	1	Tibetan Sand Plover	Charadrius atrifrons	atrifrons / schaeferi	IOS	NR	V2	0
+120	1	Siberian Sand Plover	Charadrius mongolus		NBM	LC	P3, WV1	0
+120	1	Siberian Sand Plover	Charadrius mongolus	mongolus	NBM	LC	P5	0
+120	1	Siberian Sand Plover	Charadrius mongolus	stegmanni	NBM	LC	P3, WV1	0
+121	1	Greater Sand Plover	Charadrius leschenaultii		LCS	LC	P5, SV2	0
+121	1	Greater Sand Plover	Charadrius leschenaultii	leschenaultii	LCS	LC	P5, SV2	0
+122	1	Oriental Plover	Charadrius veredus		LCS	LC	P5	0
+123	1	Eurasian Dotterel	Charadrius morinellus		IOS	LC	V2	0
+124	1	Greater Painted-snipe	Rostratula benghalensis		PNS	LC	S5, WV1	1
+125	1	Pheasant-tailed Jacana	Hydrophasianus chirurgus		RRO	LC	S5	1
+126	1	Eurasian Whimbrel	Numenius phaeopus		DES	LC	P3, WV2	0
+126	1	Eurasian Whimbrel	Numenius phaeopus	variegatus	DES	LC	P3, WV2	0
+127	1	Little Curlew	Numenius minutus		LCS	LC	P5	0
+128	1	Far Eastern Curlew	Numenius madagascariensis		GCS	EN	P3, S4, WV1	0
+129	1	Eurasian Curlew	Numenius arquata		PCS	NT	P3, W3, S4	0
+129	1	Eurasian Curlew	Numenius arquata	orientalis	PCS	NT	P3, W3, S4	0
+130	1	Bar-tailed Godwit	Limosa lapponica		PCS	NT	P2, S5, WV2	0
+130	1	Bar-tailed Godwit	Limosa lapponica	menzbieri	PCS	NT	P3, S5, WV2	0
+130	1	Bar-tailed Godwit	Limosa lapponica	baueri	PCS	NT	P2	0
+130	1	Bar-tailed Godwit	Limosa lapponica	anadyrensis	PCS	NT	P4?	0
+131	1	Black-tailed Godwit	Limosa limosa		NBS	NT	P3, SV1, WV2	0
+131	1	Black-tailed Godwit	Limosa limosa	melanuroides	NBS	NT	P3, SV1, WV2?	0
+131	1	Black-tailed Godwit	Limosa limosa	bohaii	NBS	NT	P4, WV2	0
+132	1	Ruddy Turnstone	Arenaria interpres		NBS	LC	P4, WV2	0
+132	1	Ruddy Turnstone	Arenaria interpres	interpres	NBS	LC	P4, WV2	0
+133	1	Great Knot	Calidris tenuirostris		GCS	EN	P2, S5	0
+134	1	Red Knot	Calidris canutus		PCS	NT	P3	0
+134	1	Red Knot	Calidris canutus	piersmai	PCS	NT	DD	0
+134	1	Red Knot	Calidris canutus	rogersi	PCS	NT	P4	0
+135	1	Ruff	Calidris pugnax		LCS	LC	P5, WV2	0
+136	1	Broad-billed Sandpiper	Calidris falcinellus		DES	LC	P3	0
+136	1	Broad-billed Sandpiper	Calidris falcinellus	sibirica	DES	LC	P3	0
+137	1	Sharp-tailed Sandpiper	Calidris acuminata		GCS	VU	P4	0
+138	1	Curlew Sandpiper	Calidris ferruginea		PCS	NT	P5	0
+139	1	Temminck's Stint	Calidris temminckii		HDR	LC	P5	0
+140	1	Long-toed Stint	Calidris subminuta		DES	LC	P4	0
+141	1	Spoon-billed Sandpiper	Calidris pygmaea		GCS	CR	P5	0
+142	1	Red-necked Stint	Calidris ruficollis		PCS	NT	P3, WV2	0
+143	1	Sanderling	Calidris alba		NBM	LC	P4, W4	0
+143	1	Sanderling	Calidris alba	alba / rubida	NBM	LC	P4, W4	0
+144	1	Dunlin	Calidris alpina		NBM	LC	P1, W2, SV1	0
+144	1	Dunlin	Calidris alpina	sakhalina	NBM	LC	DD	0
+144	1	Dunlin	Calidris alpina	kistchinski	NBM	LC	P5?	0
+144	1	Dunlin	Calidris alpina	actites	NBM	LC	V2	0
+144	1	Dunlin	Calidris alpina	arcticola	NBM	LC	DD	0
+145	1	Little Stint	Calidris minuta		IOS	LC	V1	0
+146	1	Buff-breasted Sandpiper	Calidris subruficollis		IOS	NT	V2	0
+147	1	Pectoral Sandpiper	Calidris melanotos		IOS	LC	V1	0
+148	1	Asian Dowitcher	Limnodromus semipalmatus		IOS	NT	V1	0
+149	1	Long-billed Dowitcher	Limnodromus scolopaceus		IOS	LC	V1	0
+150	1	Eurasian Woodcock	Scolopax rusticola		DES	LC	P4, W4, SV2	0
+151	1	Jack Snipe	Lymnocryptes minimus		IOS	LC	V2	0
+152	1	Solitary Snipe	Gallinago solitaria		NRO	LC	V1	0
+152	1	Solitary Snipe	Gallinago solitaria	japonica	NRO	LC	V1	0
+153	1	Latham's Snipe	Gallinago hardwickii		PCS	NT	P5	0
+154	1	Pin-tailed Snipe	Gallinago stenura		DES	LC	P3, WV2	0
+155	1	Swinhoe's Snipe	Gallinago megala		DES	LC	P4	0
+156	1	Common Snipe	Gallinago gallinago		NBM	LC	P4, W5	0
+156	1	Common Snipe	Gallinago gallinago	gallinago	NBM	LC	P4, W5	0
+157	1	Terek Sandpiper	Xenus cinereus		NAB	LC	P2, S4	0
+158	1	Red-necked Phalarope	Phalaropus lobatus		DES	LC	P3	0
+159	1	Red Phalarope	Phalaropus fulicarius		IOR	LC	V1	0
+160	1	Common Sandpiper	Actitis hypoleucos		LCS	LC	S3, P4, W5	1
+161	1	Green Sandpiper	Tringa ochropus		LCS	LC	P3, W4	0
+162	1	Grey-tailed Tattler	Tringa brevipes		PCS	NT	P3, SV2	0
+163	1	Common Redshank	Tringa totanus		PNS	LC	P4, S5, WV2	1
+163	1	Common Redshank	Tringa totanus	ussuriensis	PNS	LC	P4, S5, WV2	1
+163	1	Common Redshank	Tringa totanus	terrignotae	PNS	LC	DD	0
+164	1	Marsh Sandpiper	Tringa stagnatilis		LCS	LC	P4, SV2	0
+165	1	Wood Sandpiper	Tringa glareola		DES	LC	P3, SV2	0
+166	1	Spotted Redshank	Tringa erythropus		NBS	LC	P5, WV1	0
+167	1	Common Greenshank	Tringa nebularia		DES	LC	P3, W5, SV1	0
+168	1	Nordmann's Greenshank	Tringa guttifer		GCS	EN	P5, SV2	0
+169	1	Oriental Pratincole	Glareola maldivarum		RRO	LC	P5, SV2	1
+170	1	Black-legged Kittiwake	Rissa tridactyla		GCS	VU	P2, W3	0
+170	1	Black-legged Kittiwake	Rissa tridactyla	pollicaris	GCS	VU	P3, W3	0
+171	1	Slender-billed Gull	Chroicocephalus genei		IOS	LC	V2	0
+172	1	Black-headed Gull	Chroicocephalus ridibundus		LCS	LC	P2, W2, S5	0
+173	1	Saunders's Gull	Chroicocephalus saundersi		GCS	VU	W3, P3, S3	1
+174	1	Relict Gull	Ichthyaetus relictus		NRO	VU	WV1	0
+175	1	Pallas's Gull	Ichthyaetus ichthyaetus		IOS	LC	V1	0
+176	1	Black-tailed Gull	Larus crassirostris		NAB	LC	S1, W2	1
+177	1	Common Gull	Larus canus		LCS	LC	W2	0
+177	1	Common Gull	Larus canus	heinei	LCS	LC	W4	0
+177	1	Common Gull	Larus canus	kamtschatschensis	LCS	LC	W2	0
+178	1	Glaucous-winged Gull	Larus glaucescens		LCS	LC	W5	0
+179	1	Glaucous Gull	Larus hyperboreus		LCS	LC	W4, SV2	0
+179	1	Glaucous Gull	Larus hyperboreus	pallidissimus	LCS	LC	W4, SV2	0
+179	1	Glaucous Gull	Larus hyperboreus	barrovianus	LCS	LC	V1	0
+180	1	Iceland Gull	Larus glaucoides		IOS	LC	WV1	0
+181	1	American Herring Gull	Larus smithsonianus		IOS	LC	WV1	0
+182	1	Vega Gull	Larus vegae		NAB	NR	W2, P2, S5	0
+182	1	Vega Gull	Larus vegae	vegae	NAB	NR	W2, P2, S5	0
+182	1	Vega Gull	Larus vegae	birulai *	NAB	NR	W5	0
+183	1	Mongolian Gull	Larus mongolicus		NAB	NR	P2,W3, S4	1
+184	1	Caspian Gull	Larus cachinnans		IOS	LC	WV1	0
+185	1	Slaty-backed Gull	Larus schistisagus		NAB	LC	W3, SV1	0
+186	1	Lesser Black-backed Gull	Larus fuscus		NAB	LC	P3, W4, SV2	0
+186	1	Lesser Black-backed Gull	Larus fuscus	fuscus	NAB	LC	V2	0
+186	1	Lesser Black-backed Gull	Larus fuscus	Larus fuscus	NAB	LC	V2	0
+186	1	Lesser Black-backed Gull	Larus fuscus	taimyrensis *	NAB	LC	P3, W4, SV2	0
+186	1	Lesser Black-backed Gull	Larus fuscus	barabensis	NAB	LC	WV1	0
+187	1	White Tern	Gygis alba		IOS	LC	V2	0
+187	1	White Tern	Gygis alba	candida?	IOS	LC	V2	0
+188	1	Gull-billed Tern	Gelochelidon nilotica		IOS	LC	V1	0
+188	1	Gull-billed Tern	Gelochelidon nilotica	affinis	IOS	LC	V1	0
+189	1	Caspian Tern	Hydroprogne caspia		IOS	LC	V1	0
+190	1	Greater Crested Tern	Thalasseus bergii		IOS	LC	V2	0
+190	1	Greater Crested Tern	Thalasseus bergii	cristatus	IOS	LC	V2	0
+191	1	Chinese Crested Tern	Thalasseus bernsteini		IOS	CR	SV1	1
+192	1	Little Tern	Sternula albifrons		PNS	LC	S3, WV2	1
+192	1	Little Tern	Sternula albifrons	sinensis	PNS	LC	S3, WV2	1
+193	1	Aleutian Tern	Onychoprion aleuticus		GCS	VU	P5	0
+194	1	Bridled Tern	Onychoprion anaethetus		IOS	LC	V2	0
+194	1	Bridled Tern	Onychoprion anaethetus	anaethetus	IOS	LC	V2	0
+195	1	Sooty Tern	Onychoprion fuscatus		IOS	LC	V1	0
+195	1	Sooty Tern	Onychoprion fuscatus	nubilosus / oahuensis	IOS	LC	V1	0
+196	1	Roseate Tern	Sterna dougallii		IOS	LC	V2	0
+196	1	Roseate Tern	Sterna dougallii	bangsi	IOS	LC	V2	0
+197	1	Common Tern	Sterna hirundo		DES	LC	P2, SV1, WV2	0
+197	1	Common Tern	Sterna hirundo	minussensis	DES	LC	V1	0
+197	1	Common Tern	Sterna hirundo	longipennis	DES	LC	P2, SV1, WV2	0
+198	1	Arctic Tern	Sterna paradisaea		IOS	LC	V2	0
+199	1	Whiskered Tern	Chlidonias hybrida		NAB	LC	P4, WV1	0
+199	1	Whiskered Tern	Chlidonias hybrida	hybrida	NAB	LC	P4, WV1	0
+200	1	White-winged Tern	Chlidonias leucopterus		NAB	LC	P4	0
+201	1	Black Tern	Chlidonias niger		IOS	LC	V2	0
+201	1	Black Tern	Chlidonias niger	niger	IOS	LC	V2	0
+202	1	South Polar Skua	Stercorarius maccormicki		IOR	LC	S5	0
+203	1	Pomarine Jaeger	Stercorarius pomarinus		DES	LC	P4, WV2	0
+204	1	Parasitic Jaeger	Stercorarius parasiticus		LCS	LC	P5	0
+205	1	Long-tailed Jaeger	Stercorarius longicaudus		IOS	LC	V1	0
+205	1	Long-tailed Jaeger	Stercorarius longicaudus	pallescens	IOS	LC	V1	0
+206	1	Thick-billed Murre	Uria lomvia		DES	LC	W5	0
+206	1	Thick-billed Murre	Uria lomvia	arra	DES	LC	W5	0
+207	1	Common Murre	Uria aalge		DES	LC	W5	0
+207	1	Common Murre	Uria aalge	inornata	DES	LC	W5	0
+208	1	Spectacled Guillemot	Cepphus carbo		DES	LC	W5	0
+209	1	Long-billed Murrelet	Brachyramphus perdix		PCS	NT	W5, SV2	0
+210	1	Ancient Murrelet	Synthliboramphus antiquus		NBS	LC	W2, S4	1
+210	1	Ancient Murrelet	Synthliboramphus antiquus	antiquus	NBS	LC	W2, S4	1
+211	1	Crested Murrelet	Synthliboramphus wumizusume		GCS	VU	S4, R5	1
+212	1	Least Auklet	Aethia pusilla		IOS	LC	WV1	0
+213	1	Crested Auklet	Aethia cristatella		IOS	LC	WV2	0
+214	1	Rhinoceros Auklet	Cerorhinca monocerata		LCS	LC	W3	0
+215	1	Tufted Puffin	Fratercula cirrhata		IOS	LC	V2	0
+216	1	Red-throated Loon	Gavia stellata		HDR	LC	P3, W4	0
+217	1	Black-throated Loon	Gavia arctica		DES	LC	W3, SV1	0
+217	1	Black-throated Loon	Gavia arctica	viridigularis	DES	LC	W3, SV1	0
+218	1	Pacific Loon	Gavia pacifica		LCS	LC	P3, W3, SV2	0
+219	1	Yellow-billed Loon	Gavia adamsii		PCS	NT	W5, SV2	0
+220	1	Laysan Albatross	Phoebastria immutabilis		IOS	NT	V2	0
+221	1	Swinhoe's Storm Petrel	Oceanodroma monorhis		PCS	NT	S1	1
+222	1	Bonin Petrel	Pterodroma hypoleuca		IOS	LC	V2	0
+223	1	Streaked Shearwater	Calonectris leucomelas		PCS	NT	S2	1
+224	1	Short-tailed Shearwater	Ardenna tenuirostris		LCS	LC	P4, WV2	0
+225	1	Flesh-footed Shearwater	Ardenna carneipes		PCS	NT	P5	0
+226	1	Bulwer's Petrel	Bulweria bulwerii		IOS	LC	V2	0
+227	1	Black Stork	Ciconia nigra		TNS	LC	V1	3
+228	1	Oriental Stork	Ciconia boyciana		GCS	EN	W5, SV2, RI	1 RI
+229	1	Great Frigatebird	Fregata minor		IOS	LC	V2	0
+229	1	Great Frigatebird	Fregata minor	minor	IOS	LC	V2	0
+230	1	Lesser Frigatebird	Fregata ariel		IOS	LC	V1	0
+230	1	Lesser Frigatebird	Fregata ariel	ariel	IOS	LC	V1	0
+231	1	Masked Booby	Sula dactylatra		IOS	LC	V2	0
+231	1	Masked Booby	Sula dactylatra	personata	IOS	LC	V2	0
+232	1	Red-footed Booby	Sula sula		IOS	LC	V2	0
+232	1	Red-footed Booby	Sula sula	rubripes	IOS	LC	V2	0
+233	1	Brown Booby	Sula leucogaster		IOS	LC	V1	0
+233	1	Brown Booby	Sula leucogaster	plotus	IOS	LC	V1	0
+234	1	Pelagic Cormorant	Urile pelagicus		NAB	LC	W3, R4	1
+234	1	Pelagic Cormorant	Urile pelagicus	pelagicus	NAB	LC	W3, R4	1
+235	1	Temminck's Cormorant	Phalacrocorax capillatus		DES	LC	R4, W4	1
+236	1	Great Cormorant	Phalacrocorax carbo		NAB	LC	S1, R2	1
+236	1	Great Cormorant	Phalacrocorax carbo	sinensis	NAB	LC	S1, R2	1
+236	1	Great Cormorant	Phalacrocorax carbo	hanedae	NAB	LC	DD	2
+237	1	Black-headed Ibis	Threskiornis melanocephalus		IOS	NT	V2	0
+238	1	Glossy Ibis	Plegadis falcinellus		IOS	LC	V2	0
+239	1	Eurasian Spoonbill	Platalea leucorodia		PNS	LC	W4, SV1	2
+239	1	Eurasian Spoonbill	Platalea leucorodia	leucorodia	PNS	LC	W4, SV1	2
+240	1	Black-faced Spoonbill	Platalea minor		GCS	EN	S3, R5	1
+241	1	Eurasian Bittern	Botaurus stellaris		PNS	LC	W5, P5, SV2	0
+241	1	Eurasian Bittern	Botaurus stellaris	stellaris	PNS	LC	W5, P5, SV2	0
+242	1	Yellow Bittern	Ixobrychus sinensis		DES	LC	S4	1
+243	1	Von Schrenck's Bittern	Ixobrychus eurhythmus		BDS	LC	S5	1
+244	1	Cinnamon Bittern	Ixobrychus cinnamomeus		IOS	LC	PV1	2
+245	1	Black Bittern	Ixobrychus flavicollis		IOS	LC	PV1	0
+246	1	Japanese Night Heron	Gorsachius goisagi		GCS	VU	S5, PV1	1
+247	1	Malayan Night Heron	Gorsachius melanolophus		IOS	LC	V2	0
+248	1	Black-crowned Night Heron	Nycticorax nycticorax		DES	LC	S3, R5	1
+248	1	Black-crowned Night Heron	Nycticorax nycticorax	nycticorax	DES	LC	S3, R5	1
+249	1	Striated Heron	Butorides striata		DES	LC	S3, WV2	1
+249	1	Striated Heron	Butorides striata	amurensis	DES	LC	S3, WV2	1
+250	1	Chinese Pond Heron	Ardeola bacchus		LCS	LC	P4, S5, WV1	1
+251	1	Eastern Cattle Egret	Bubulcus coromandus		LCS	NR	S3	1
+252	1	Grey Heron	Ardea cinerea		HDR	LC	S2, R3	1
+252	1	Grey Heron	Ardea cinerea	cinerea	HDR	LC	DD	0
+252	1	Grey Heron	Ardea cinerea	jouyi	HDR	LC	S2, R3	1
+253	1	Purple Heron	Ardea purpurea		NBM	LC	P5, SV2	0
+253	1	Purple Heron	Ardea purpurea	manilensis	NBM	LC	P5, SV2	0
+254	1	Great Egret	Ardea alba		HDR	LC	S2, P3, W3	1
+254	1	Great Egret	Ardea alba	alba	HDR	LC	W3, SV1	0
+254	1	Great Egret	Ardea alba	modesta	HDR	LC	S2, P3, WV1	1
+255	1	Intermediate Egret	Ardea intermedia		LCS	LC	S3	1
+255	1	Intermediate Egret	Ardea intermedia	intermedia	LCS	LC	S3	1
+256	1	Little Egret	Egretta garzetta		NAB	LC	S3, W4	1
+256	1	Little Egret	Egretta garzetta	garzetta	NAB	LC	S3, W4	1
+257	1	Pacific Reef Egret	Egretta sacra		LCS	LC	R4	1
+257	1	Pacific Reef Egret	Egretta sacra	sacra	LCS	LC	R4	1
+258	1	Chinese Egret	Egretta eulophotes		GCS	VU	S4, WV2	1
+259	1	Western Osprey	Pandion haliaetus		PNS	LC	P4, W5, R5	1
+259	1	Western Osprey	Pandion haliaetus	haliaetus	PNS	LC	P4, W5, R5	1
+260	1	Black-winged Kite	Elanus caeruleus		IOS	LC	V1	1*
+260	1	Black-winged Kite	Elanus caeruleus	vociferus	IOS	LC	V1	1*
+261	1	Bearded Vulture	Gypaetus barbatus		IOS	NT	V2	0
+262	1	Crested Honey Buzzard	Pernis ptilorhynchus		PNS	LC	P3, S5	1
+262	1	Crested Honey Buzzard	Pernis ptilorhynchus	orientalis	PNS	LC	P3, S5	1
+263	1	Black Baza	Aviceda leuphotes		IOS	LC	V2	0
+263	1	Black Baza	Aviceda leuphotes	syama (?)	IOS	LC	V2	0
+264	1	Himalayan Vulture	Gyps himalayensis		IOS	NT	V2	0
+265	1	Cinereous Vulture	Aegypius monachus		PCS	NT	W3, SV2	0
+266	1	Crested Serpent Eagle	Spilornis cheela		IOS	LC	V2	0
+266	1	Crested Serpent Eagle	Spilornis cheela	ricketti	IOS	LC	V2	0
+267	1	Short-toed Snake Eagle	Circaetus gallicus		IOS	LC	V2	0
+267	1	Short-toed Snake Eagle	Circaetus gallicus	gallicus	IOS	LC	V2	0
+268	1	Greater Spotted Eagle	Clanga clanga		GCS	VU	P5, WV1, SV2	0
+269	1	Booted Eagle	Hieraaetus pennatus		IOS	LC	V2	0
+270	1	Steppe Eagle	Aquila nipalensis		IOS	EN	V1	0
+270	1	Steppe Eagle	Aquila nipalensis	nipalensis	IOS	EN	V1	0
+271	1	Eastern Imperial Eagle	Aquila heliaca		IOS	VU	V1	0
+272	1	Golden Eagle	Aquila chrysaetos		TNS	LC	W5, SV2	3
+272	1	Golden Eagle	Aquila chrysaetos	japonica	TNS	LC	W5, SV2	3
+273	1	Bonelli's Eagle	Aquila fasciata		IOS	LC	V2	0
+273	1	Bonelli's Eagle	Aquila fasciata	fasciata	IOS	LC	V2	0
+274	1	Chinese Sparrowhawk	Accipiter soloensis		NBS	LC	P3, S4	1
+275	1	Japanese Sparrowhawk	Accipiter gularis		PNS	LC	P3, R4	1
+275	1	Japanese Sparrowhawk	Accipiter gularis	sibiricus	PNS	LC	DD?	0
+275	1	Japanese Sparrowhawk	Accipiter gularis	gularis	PNS	LC	P3, R4	1
+276	1	Besra	Accipiter virgatus		IOS		V2	0
+276	1	Besra	Accipiter virgatus	virgatus	IOS		V2	0
+277	1	Eurasian Sparrowhawk	Accipiter nisus		LCS	LC	P3, W3, SV2	2
+277	1	Eurasian Sparrowhawk	Accipiter nisus	nisosimilis	LCS	LC	P3, W3, SV2	2
+278	1	Northern Goshawk	Accipiter gentilis		PNS	LC	P3, W3, R4	1
+278	1	Northern Goshawk	Accipiter gentilis	albidus	PNS	LC	V2	0
+278	1	Northern Goshawk	Accipiter gentilis	schvedowi	PNS	LC	P3, W3, R5	1
+278	1	Northern Goshawk	Accipiter gentilis	fujiyamae	PNS	LC	W4	0
+279	1	Eastern Marsh Harrier	Circus spilonotus		LCS	LC	P5, WV1	0
+280	1	Hen Harrier	Circus cyaneus		LCS	LC	W4, P5	0
+281	1	Pied Harrier	Circus melanoleucos		LCS	LC	P5, SV2	1
+282	1	Black Kite	Milvus migrans		PNS	LC	P4, W4, R5	1
+282	1	Black Kite	Milvus migrans	lineatus	PNS	LC	P4, W4, R5	1
+283	1	White-tailed Eagle	Haliaeetus albicilla		PNS	LC	W4, RV1	1
+283	1	White-tailed Eagle	Haliaeetus albicilla	albicilla	PNS	LC	W4, RV1	1
+284	1	Steller's Sea Eagle	Haliaeetus pelagicus		GCS	VU	W5	0
+284	1	Steller's Sea Eagle	Haliaeetus pelagicus	pelagicus	GCS	VU	W5	0
+284	1	Steller's Sea Eagle	Haliaeetus pelagicus	Var. niger	GCS	VU	(RE)	0
+285	1	Grey-faced Buzzard	Butastur indicus		HDR	LC	P2, S4	1
+286	1	Rough-legged Buzzard	Buteo lagopus		PNS	LC	W5	0
+286	1	Rough-legged Buzzard	Buteo lagopus	menzbieri	PNS	LC	W5	0
+286	1	Rough-legged Buzzard	Buteo lagopus	kamtschatkensis	PNS	LC	WV2	0
+287	1	Upland Buzzard	Buteo hemilasius		PNS	LC	P5, W5	0
+288	1	Eastern Buzzard	Buteo japonicus		LCS	LC	P3, W3, SV2	0
+288	1	Eastern Buzzard	Buteo japonicus	japonicus	LCS	LC	P3, W3, SV2	0
+289	1	Eastern Grass Owl	Tyto longimembris		IOS	LC	V2	0
+289	1	Eastern Grass Owl	Tyto longimembris	chinensis	IOS	LC	V2	0
+290	1	Northern Boobook	Ninox japonica		DES	LC	P3, S3	1
+290	1	Northern Boobook	Ninox japonica	japonica / (florensis?)	DES	LC	P3, S3	1
+291	1	Little Owl	Athene noctua		LCS	LC	W5, SV2	1
+291	1	Little Owl	Athene noctua	plumipes	LCS	LC	W5, SV2	1
+292	1	Oriental Scops Owl	Otus sunia		DES	LC	S3	1
+292	1	Oriental Scops Owl	Otus sunia	japonicus	DES	LC	DD	0
+292	1	Oriental Scops Owl	Otus sunia	stictonotus	DES	LC	S3	1
+293	1	"""Northern Scops Owl"""	Otus semitorques		PNS	LC	R3	1
+293	1	"""Northern Scops Owl"""	Otus semitorques	ussuriensis	PNS	LC	R3	1
+293	1	"""Northern Scops Owl"""	Otus semitorques	semitorques	PNS	LC	DD	2
+294	1	Long-eared Owl	Asio otus		PNS	LC	W5	0
+294	1	Long-eared Owl	Asio otus	otus	PNS	LC	W5	0
+295	1	Short-eared Owl	Asio flammeus		PNS	LC	W5	0
+295	1	Short-eared Owl	Asio flammeus	flammeus	PNS	LC	W5	0
+296	1	Eurasian Eagle-Owl	Bubo bubo		PNS	LC	R3	1
+296	1	Eurasian Eagle-Owl	Bubo bubo	kiautschensis	PNS	LC	R3	1
+297	1	Himalayan Owl	Strix nivicolum		PNS	LC	R5	1
+297	1	Himalayan Owl	Strix nivicolum	ma	PNS	LC	R5	1
+298	1	Ural Owl	Strix uralensis		TNS	LC	R5	1
+298	1	Ural Owl	Strix uralensis	nikolskii	TNS	LC	R5	1
+299	1	Eurasian Hoopoe	Upupa epops		NAB	LC	P3, S3, W4	1
+299	1	Eurasian Hoopoe	Upupa epops	epops	NAB	LC	P3, S3, W4	1
+300	1	Oriental Dollarbird	Eurystomus orientalis		NAB	LC	S2, P3	1
+300	1	Oriental Dollarbird	Eurystomus orientalis	cyanocollis	NAB	LC	S2, P3	1
+301	1	Ruddy Kingfisher	Halcyon coromanda		BDS	LC	S4	1
+301	1	Ruddy Kingfisher	Halcyon coromanda	major	BDS	LC	S4	1
+302	1	Black-capped Kingfisher	Halcyon pileata		GCS	VU	S5	1
+303	1	Common Kingfisher	Alcedo atthis		LCS	LC	S3, R4	1
+303	1	Common Kingfisher	Alcedo atthis	bengalensis	LCS	LC	S3, R5	1
+304	1	Eurasian Wryneck	Jynx torquilla		LCS	LC	P4, WV2	0
+304	1	Eurasian Wryneck	Jynx torquilla	chinensis	LCS	LC	P4, WV2	0
+305	1	Grey-capped Pygmy Woodpecker	Yungipicus canicapillus		HDR	LC	R4	1
+305	1	Grey-capped Pygmy Woodpecker	Yungipicus canicapillus	doerriesi	HDR	LC	R4	1
+306	1	Japanese Pygmy Woodpecker	Yungipicus kizuki		NAB	LC	R1	1
+306	1	Japanese Pygmy Woodpecker	Yungipicus kizuki	nippon	NAB	LC	R1	1
+307	1	Rufous-bellied Woodpecker	Dendrocopos hyperythrus		IOS	LC	PV1	0
+307	1	Rufous-bellied Woodpecker	Dendrocopos hyperythrus	subrufinus	IOS	LC	PV1	0
+308	1	Great Spotted Woodpecker	Dendrocopos major		NAB	LC	R1, W5	1
+308	1	Great Spotted Woodpecker	Dendrocopos major	japonicus	NAB	LC	R1, W5	1
+309	1	White-backed Woodpecker	Dendrocopos leucotos		NAB	LC	R2	1
+309	1	White-backed Woodpecker	Dendrocopos leucotos	leucotos	NAB	LC	R2	1
+309	1	White-backed Woodpecker	Dendrocopos leucotos	takahashii	NAB	LC	R5	1
+309	1	White-backed Woodpecker	Dendrocopos leucotos	quelpartensis	NAB	LC	R4	1
+310	1	Black Woodpecker	Dryocopus martius		PNS	LC	R3	1
+310	1	Black Woodpecker	Dryocopus martius	martius	PNS	LC	R3	1
+311	1	Grey-headed Woodpecker	Picus canus		NAB	LC	R2	1
+311	1	Grey-headed Woodpecker	Picus canus	jessoensis	NAB	LC	R2	1
+312	1	Common Kestrel	Falco tinnunculus		LCS	LC	W3, P3, R4	1
+312	1	Common Kestrel	Falco tinnunculus	perpallidus	LCS	LC	W5	0
+312	1	Common Kestrel	Falco tinnunculus	interstinctus	LCS	LC	W3, P3, R4	1
+313	1	Amur Falcon	Falco amurensis		PNS	LC	P4	0
+314	1	Merlin	Falco columbarius		PNS	LC	W5, P5	0
+314	1	Merlin	Falco columbarius	insignis / pacificus	PNS	LC	W5, P5	0
+315	1	Eurasian Hobby	Falco subbuteo		NAB	LC	P3, S3	1
+315	1	Eurasian Hobby	Falco subbuteo	subbuteo	NAB	LC	P3, S3	1
+316	1	Saker Falcon	Falco cherrug		IOS	EN	V1	0
+316	1	Saker Falcon	Falco cherrug	coatsi	IOS	EN	V1	0
+317	1	Gyrfalcon	Falco rusticolus		IOS	LC	V2	0
+318	1	Peregrine Falcon	Falco peregrinus		PNS	LC	R3, W4, P4	1
+318	1	Peregrine Falcon	Falco peregrinus	calidus	PNS	LC	P5	0
+318	1	Peregrine Falcon	Falco peregrinus	japonensis	PNS	LC	R3, W4, P5	1
+319	1	Blue-winged Pitta	Pitta moluccensis		IOS	LC	V2	0
+320	1	Fairy Pitta	Pitta nympha		GCS	VU	S3	1
+321	1	Ashy Woodswallow	Artamus fuscus		IOS	LC	V2	0
+322	1	Ashy Minivet	Pericrocotus divaricatus		LCS	LC	P3, S5	1
+323	1	Ryukyu Minivet	Pericrocotus tegimae		IOS	LC	V2	0
+324	1	Swinhoe's Minivet	Pericrocotus cantonensis		IOS	LC	V2	0
+325	1	Black-winged Cuckooshrike	Lalage melaschistos		IOS	LC	V1	0
+325	1	Black-winged Cuckooshrike	Lalage melaschistos	intermedia	IOS	LC	V1	0
+326	1	Tiger Shrike	Lanius tigrinus		NAB	LC	S3, P4	1
+327	1	Bull-headed Shrike	Lanius bucephalus		DES	LC	R2, W4	1
+327	1	Bull-headed Shrike	Lanius bucephalus	bucephalus	DES	LC	R2, W4	1
+328	1	Brown Shrike	Lanius cristatus		TNS	LC	P3, S5	1
+328	1	Brown Shrike	Lanius cristatus	cristatus	TNS	LC	P4	0
+328	1	Brown Shrike	Lanius cristatus	confusus	TNS	LC	P3, S5	1
+328	1	Brown Shrike	Lanius cristatus	lucionensis	TNS	LC	P5, S5	1
+328	1	Brown Shrike	Lanius cristatus	superciliosus	TNS	LC	V2	0
+329	1	Red-backed Shrike	Lanius collurio		IOS	LC	V2	0
+330	1	Long-tailed Shrike	Lanius schach		RRO	LC	P5, WV1, SV1	1
+330	1	Long-tailed Shrike	Lanius schach	schach	RRO	LC	P5, WV1, SV1	1
+331	1	Grey-backed Shrike	Lanius tephronotus		IOS	LC	V2	0
+331	1	Grey-backed Shrike	Lanius tephronotus	Lanius tephronotus	IOS	LC	V2	0
+332	1	Northern Shrike	Lanius borealis		IOS	LC	V1	0
+332	1	Northern Shrike	Lanius borealis	sibiricus	IOS	LC	V1	0
+332	1	Northern Shrike	Lanius borealis	bianchii	IOS	LC	V2	0
+332	1	Northern Shrike	Lanius borealis	mollis	IOS	LC	V2	0
+333	1	Great Grey Shrike	Lanius excubitor		IOS	LC	V2	0
+333	1	Great Grey Shrike	Lanius excubitor	pallidirostris	IOS	LC	V2	0
+334	1	Chinese Grey Shrike	Lanius sphenocercus		LCS	LC	P5, W5, R/SV2	2
+335	1	Black-naped Oriole	Oriolus chinensis		NAB	LC	S2, P2	1
+335	1	Black-naped Oriole	Oriolus chinensis	diffusus	NAB	LC	S2, P2	1
+336	1	Crow-billed Drongo	Dicrurus annectens		IOS	LC	V2	0
+337	1	Hair-crested Drongo	Dicrurus hottentottus		IOS	LC	V1	0
+337	1	Hair-crested Drongo	Dicrurus hottentottus	brevirostris	IOS	LC	V1	0
+338	1	Ashy Drongo	Dicrurus leucophaeus		IOS	LC	PV1	0
+338	1	Ashy Drongo	Dicrurus leucophaeus	leucogenis	IOS	LC	PV1	0
+339	1	Black Drongo	Dicrurus macrocercus		RRO	LC	P5, SV2	0
+339	1	Black Drongo	Dicrurus macrocercus	cathoecus	RRO	LC	P5, SV2	0
+340	1	Amur Paradise Flycatcher	Terpsiphone incei		IOS	LC	V1	0
+341	1	Black Paradise Flycatcher	Terpsiphone atrocaudata		PCS	NT	S3	1
+341	1	Black Paradise Flycatcher	Terpsiphone atrocaudata	atrocaudata	PCS	NT	S3	1
+342	1	Eurasian Jay	Garrulus glandarius		DES	LC	R1	1
+342	1	Eurasian Jay	Garrulus glandarius	brandtii	DES	LC	R1	1
+343	1	Azure-winged Magpie	Cyanopica cyanus		LCS	LC	R2	1
+343	1	Azure-winged Magpie	Cyanopica cyanus	cyanus	LCS	LC	R2	1
+344	1	Oriental Magpie	Pica serica		DES	NR	R1	1
+344	1	Oriental Magpie	Pica serica	anderssoni	DES	NR	R1	1
+345	1	Spotted Nutcracker	Nucifraga caryocatactes		LCS	LC	R5, V2	1
+345	1	Spotted Nutcracker	Nucifraga caryocatactes	macrorhynchos	LCS	LC	R5, V2	1
+346	1	Daurian Jackdaw	Coloeus dauuricus		NBM	LC	W3, P4	0
+347	1	Rook	Corvus frugilegus		NAB	LC	W1, P2	0
+347	1	Rook	Corvus frugilegus	pastinator	NAB	LC	W1, P2	0
+348	1	Carrion Crow	Corvus corone		HDR	LC	W3, R5	1
+348	1	Carrion Crow	Corvus corone	orientalis	HDR	LC	W3, R5	1
+349	1	Large-billed Crow	Corvus macrorhynchos		NAB	LC	R1, W2	1
+349	1	Large-billed Crow	Corvus macrorhynchos	japonensis	NAB	LC	DD	1
+349	1	Large-billed Crow	Corvus macrorhynchos	mandshuricus	NAB	LC	R1, W2	1
+350	1	Bohemian Waxwing	Bombycilla garrulus		LCS	LC	W4, P4	0
+350	1	Bohemian Waxwing	Bombycilla garrulus	garrulus	LCS	LC	W4, P4	0
+351	1	Japanese Waxwing	Bombycilla japonica		PCS	NT	P3, W5	0
+352	1	Grey-headed Canary- flycatcher	Culicicapa ceylonensis		IOS	LC	V2	0
+352	1	Grey-headed Canary- flycatcher	Culicicapa ceylonensis	calochrysea	IOS	LC	V2	0
+353	1	Coal Tit	Periparus ater		DES	LC	R1, W1	1
+353	1	Coal Tit	Periparus ater	ater	DES	LC	R1, W1	1
+353	1	Coal Tit	Periparus ater	insularis	DES	LC	DD	0
+354	1	Yellow-bellied Tit	Pardaliparus venustulus		RRO	LC	P4, W4, S5	1
+355	1	Varied Tit	Sittiparus varius		NAB	LC	R1	1
+355	1	Varied Tit	Sittiparus varius	varius	NAB	LC	R1	1
+355	1	Varied Tit	Sittiparus varius	utsurioensis *	NAB	LC	R4	1
+356	1	Marsh Tit	Poecile palustris		NAB	LC	R1	1
+356	1	Marsh Tit	Poecile palustris	hellmayri	NAB	LC	R1	1
+357	1	Northern Great Tit	Parus major		IOS	LC	V2	0
+357	1	Northern Great Tit	Parus major	kapustini	IOS	LC	V2	0
+358	1	Eastern Great Tit	Parus minor		DES	NR	R1, W1	1
+358	1	Eastern Great Tit	Parus minor	minor	DES	NR	R1, W1	1
+358	1	Eastern Great Tit	Parus minor	dageletensis	DES	NR	R4	1
+359	1	Chinese Penduline Tit	Remiz consobrinus		LCS	LC	P3, W4, SV2	1
+360	1	Bearded Reedling	Panurus biarmicus		IOS	LC	V2	0
+360	1	Bearded Reedling	Panurus biarmicus	russicus	IOS	LC	V2	0
+361	1	Eurasian Skylark	Alauda arvensis		BDS	LC	W4, R5	1
+361	1	Eurasian Skylark	Alauda arvensis	pekinensis	BDS	LC	W4	0
+361	1	Eurasian Skylark	Alauda arvensis	lonnbergi	BDS	LC	W4, R5	1
+362	1	Far Eastern Lark	Alauda japonica		BDM	NR	W3, R4	1
+362	1	Far Eastern Lark	Alauda japonica	intermedia	BDM	NR	P4, W4, R5	1
+362	1	Far Eastern Lark	Alauda japonica	japonica	BDM	NR	R4	1
+363	1	Crested Lark	Galerida cristata		LAT	LC	V1	1
+363	1	Crested Lark	Galerida cristata	coreensis	LAT	LC	V1	1
+364	1	Horned Lark	Eremophila alpestris		IOS	LC	V2	0
+364	1	Horned Lark	Eremophila alpestris	flava	IOS	LC	V2	0
+364	1	Horned Lark	Eremophila alpestris	brandti	IOS	LC	V2	0
+365	1	Mongolian Short-toed Lark	Calandrella dukhunensis		LCS	LC	P4	0
+366	1	Mongolian Lark	Melanocorypha mongolica		IOS	LC	PV2	0
+367	1	Turkestan Short-toed Lark	Alaudala heinei		IOS	NR	V1	0
+367	1	Turkestan Short-toed Lark	Alaudala heinei	heinei	IOS	NR	V1	0
+368	1	Brown-eared Bulbul	Hypsipetes amaurotis		DES	LC	R1, P2	1
+368	1	Brown-eared Bulbul	Hypsipetes amaurotis	amaurotis	DES	LC	R1, P2	1
+369	1	Black Bulbul	Hypsipetes leucocephalus		IOS	LC	V2	0
+369	1	Black Bulbul	Hypsipetes leucocephalus	leucocephalus	IOS	LC	V2	0
+370	1	Light-vented Bulbul	Pycnonotus sinensis		RRO	LC	R3, S4	1
+370	1	Light-vented Bulbul	Pycnonotus sinensis	sinensis	RRO	LC	R3, S4	1
+371	1	Sand Martin	Riparia riparia		LCS	LC	P3	0
+371	1	Sand Martin	Riparia riparia	ijimae	LCS	LC	P3	0
+372	1	Pale Martin	Riparia diluta		IOS	LC	PV2	0
+372	1	Pale Martin	Riparia diluta	fohkienensis	IOS	LC	PV2	0
+373	1	Eurasian Crag Martin	Ptyonoprogne rupestris		IOS	LC	PV2	0
+374	1	Barn Swallow	Hirundo rustica		HDS	LC	P1, S2, WV1	1
+374	1	Barn Swallow	Hirundo rustica	gutturalis	HDS	LC	P1, S2, WV1	1
+374	1	Barn Swallow	Hirundo rustica	tytleri	HDS	LC	V2	0
+374	1	Barn Swallow	Hirundo rustica	saturata	HDS	LC	DD	0
+374	1	Barn Swallow	Hirundo rustica	mandschurica	HDS	LC	DD	0
+375	1	Siberian House Martin	Delichon lagopodum		RRO	LC	P5	0
+376	1	Asian House Martin	Delichon dasypus		DES	LC	P5, SV2, WV2 1	or 2
+376	1	Asian House Martin	Delichon dasypus	dasypus	DES	LC	P4, SV2, WV2 1	or 2
+377	1	Red-rumped Swallow	Cecropis daurica		LCS	LC	P2, S3	1
+377	1	Red-rumped Swallow	Cecropis daurica	japonica	LCS	LC	P2, S3	1
+378	1	Japanese Bush Warbler	Horornis diphone		LCS	LC	R2, W4	1
+378	1	Japanese Bush Warbler	Horornis diphone	cantans	LCS	LC	R2, W4	1
+379	1	Manchurian Bush Warbler	Horornis canturians		LCS	LC	P3, S3, WV2	1
+379	1	Manchurian Bush Warbler	Horornis canturians	canturians	LCS	LC	DD	0
+379	1	Manchurian Bush Warbler	Horornis canturians	borealis	LCS	LC	P3, S3, WV2	1
+380	1	Manchurian Bush Warbler (sensu stricto) Asian Stubtail	Urosphena squameiceps		NAB	LC	P2, S3	1
+381	1	Long-tailed Tit	Aegithalos caudatus		BDM	LC	R1	1
+381	1	Long-tailed Tit	Aegithalos caudatus	caudatus	BDM	LC	W4, R5	1
+381	1	Long-tailed Tit	Aegithalos caudatus	trivirgatus	BDM	LC	R3	1
+381	1	Long-tailed Tit	Aegithalos caudatus	magnus	BDM	LC	R1	1
+382	1	Silver-throated Bushtit	Aegithalos glaucogularis		IOS	LC	V2	0
+382	1	Silver-throated Bushtit	Aegithalos glaucogularis	vinaceus	IOS	LC	V2	0
+383	1	Wood Warbler	Phylloscopus sibilatrix		IOS	LC	V2	0
+384	1	Hume's Leaf Warbler	Phylloscopus humei		RRO	LC	P5	0
+384	1	Hume's Leaf Warbler	Phylloscopus humei	humei	RRO	LC	DD	0
+384	1	Hume's Leaf Warbler	Phylloscopus humei	mandellii	RRO	LC	P5	0
+385	1	Yellow-browed Warbler	Phylloscopus inornatus		NAB	LC	P1, WV1	0
+386	1	Chinese Leaf Warbler	Phylloscopus yunnanensis		IOS	LC	V2	0
+387	1	Pallas's Leaf Warbler	Phylloscopus proregulus		LCS	LC	P3, S4, WV1	1
+388	1	Yellow-streaked Warbler	Phylloscopus armandii		IOS	LC	PV1	0
+388	1	Yellow-streaked Warbler	Phylloscopus armandii	armandii	IOS	LC	PV1	0
+389	1	Radde's Warbler	Phylloscopus schwarzi		LCS	LC	P4, S5	1
+390	1	Tickell's Leaf Warbler	Phylloscopus affinis		IOS	LC	PV1	0
+390	1	Tickell's Leaf Warbler	Phylloscopus affinis	occisinensis	IOS	LC	PV1	0
+391	1	Dusky Warbler	Phylloscopus fuscatus		NAB	LC	P3, S4, W4	1
+391	1	Dusky Warbler	Phylloscopus fuscatus	fuscatus	NAB	LC	P3, S4, W4	1
+392	1	Buff-throated Warbler	Phylloscopus subaffinis		IOS	LC	V2	0
+393	1	Willow Warbler	Phylloscopus trochilus		IOS	LC	PV2	0
+393	1	Willow Warbler	Phylloscopus trochilus	yakutensis	IOS	LC	PV2	0
+394	1	Common Chiffchaff	Phylloscopus collybita		IOS	LC	V1	0
+394	1	Common Chiffchaff	Phylloscopus collybita	tristis	IOS	LC	V1	0
+395	1	Eastern Crowned Warbler	Phylloscopus coronatus		NBM	LC	S2, P3	1
+396	1	Grey-crowned Warbler	Phylloscopus tephrocephalus		IOS	LC	V2	0
+397	1	Martens's Warbler	Phylloscopus omeiensis		IOS	LC	V2	0
+398	1	Two-barred Warbler	Phylloscopus plumbeitarsus		LCS	LC	P4, S5	1
+399	1	Sakhalin Leaf Warbler	Phylloscopus borealoides		RRO	LC	P5	0
+400	1	Pale-legged Leaf Warbler	Phylloscopus tenellipes		NBM	LC	P3, S3	1
+401	1	Japanese Leaf Warbler	Phylloscopus xanthodryas		IOS	LC	V1	0
+402	1	Kamchatka Leaf Warbler	Phylloscopus examinandus		LCS	LC	P4	0
+403	1	Arctic Warbler	Phylloscopus borealis		DES	LC	P3	0
+404	1	Sulphur-breasted Warbler	Phylloscopus ricketti		IOS	LC	V2	0
+405	1	Claudia's Leaf Warbler	Phylloscopus claudiae		IOS	LC	PV2	0
+406	1	Oriental Reed Warbler	Acrocephalus orientalis		NAB	LC	S1, P3	1
+407	1	Black-browed Reed Warbler	Acrocephalus bistrigiceps		LCS	LC	P3, SV1	1
+408	1	Sedge Warbler	Acrocephalus schoenobaenus		IOS	LC	V2	0
+409	1	Manchurian Reed Warbler	Acrocephalus tangorum		IOS	VU	PV2	0
+410	1	Paddyfield Warbler	Acrocephalus agricola		IOS	LC	V2	0
+410	1	Paddyfield Warbler	Acrocephalus agricola	agricola / septimus	IOS	LC	V2	0
+411	1	Blyth's Reed Warbler	Acrocephalus dumetorum		IOS	LC	V2	0
+412	1	Thick-billed Warbler	Arundinax aedon		LCS	LC	P4	0
+412	1	Thick-billed Warbler	Arundinax aedon	rufescens	LCS	LC	P4	0
+413	1	Booted Warbler	Iduna caligata		IOS	LC	V2	0
+414	1	Gray's Grasshopper	Helopsaltes fasciolatus		DES	LC	P4	0
+415	1	Warbler Marsh Grassbird	Helopsaltes pryeri		IOS	NT	PV2	0
+415	1	Warbler Marsh Grassbird	Helopsaltes pryeri	sinensis	IOS	NT	PV2	0
+416	1	Pallas's Grasshopper Warbler	Helopsaltes certhiola		LCS	LC	P3, WV2	0
+416	1	Pallas's Grasshopper Warbler	Helopsaltes certhiola	certhiola	LCS	LC	P3	0
+416	1	Pallas's Grasshopper Warbler	Helopsaltes certhiola	rubescens	LCS	LC	DD	0
+416	1	Pallas's Grasshopper Warbler	Helopsaltes certhiola	minor	LCS	LC	DD	0
+417	1	Styan's Grasshopper Warbler	Helopsaltes pleskei		GCS	VU	S3	1
+418	1	Middendorff's Grasshopper Warbler	Helopsaltes ochotensis		DES	LC	P4	0
+419	1	Lanceolated Warbler	Locustella lanceolata		DES	LC	P3	0
+419	1	Lanceolated Warbler	Locustella lanceolata	hendersonii / lanceolata	DES	LC	P3	0
+420	1	Baikal Bush Warbler	Locustella davidi		IOR	LC	V1	0
+420	1	Baikal Bush Warbler	Locustella davidi	davidi	IOR	LC	V1	0
+421	1	Zitting Cisticola	Cisticola jundicis		LCS	LC	S3, R5	1
+421	1	Zitting Cisticola	Cisticola jundicis	brunniceps	LCS	LC	S3, R5	1
+422	1	Barred Warbler	Curruca nisoria		IOS	LC	V2	0
+422	1	Barred Warbler	Curruca nisoria	merzbacheri	IOS	LC	V2	0
+423	1	Lesser Whitethroat	Curruca curruca		IOS	LC	V2	0
+423	1	Lesser Whitethroat	Curruca curruca	blythi	IOS	LC	V2	0
+423	1	Lesser Whitethroat	Curruca curruca	halimodendri	IOS	LC	V2	0
+424	1	Vinous-throated Parrotbill	Sinosuthora webbiana		NAB	LC	R1	1
+424	1	Vinous-throated Parrotbill	Sinosuthora webbiana	fulvicauda	NAB	LC	R1	1
+425	1	Chestnut-flanked White-	Zosterops erythropleurus		LCS	LC	P3	0
+426	1	eye Swinhoe's White-eye	Zosterops simplex		RRO	LC	P5	0
+426	1	eye Swinhoe's White-eye	Zosterops simplex	simplex	RRO	LC	P5	0
+427	1	Warbling White-eye	Zosterops japonicus		LCS	LC	R2, P4	1
+427	1	Warbling White-eye	Zosterops japonicus	japonicus	LCS	LC	R2, P4	1
+428	1	Goldcrest	Regulus regulus		NAB	LC	W2, P2	0
+428	1	Goldcrest	Regulus regulus	japonensis	NAB	LC	W2, P2	0
+429	1	Eurasian Wren	Troglodytes troglodytes		DES	LC	W2, R3	1
+429	1	Eurasian Wren	Troglodytes troglodytes	dauricus	DES	LC	W2, R3	1
+430	1	Chinese Nuthatch	Sitta villosa		IOS	LC	WV1	0
+430	1	Chinese Nuthatch	Sitta villosa	corea	IOS	LC	WV1	0
+431	1	Eurasian Nuthatch	Sitta europaea		NAB	LC	R1	1
+431	1	Eurasian Nuthatch	Sitta europaea	asiatica	NAB	LC	V2	0
+431	1	Eurasian Nuthatch	Sitta europaea	amurensis	NAB	LC	R1	1
+431	1	Eurasian Nuthatch	Sitta europaea	bedfordi	NAB	LC	EXT	3
+432	1	Eurasian Treecreeper	Certhia familiaris		HDR	LC	R4, W5	1
+432	1	Eurasian Treecreeper	Certhia familiaris	daurica	HDR	LC	R4, W5	1
+433	1	Crested Myna	Acridotheres cristatellus		IOS	LC	PV2	0
+433	1	Crested Myna	Acridotheres cristatellus	cristatellus	IOS	LC	PV2	0
+434	1	Red-billed Starling	Spodiopsar sericeus		RRO	LC	P4, S4, W4	1
+435	1	White-cheeked Starling	Spodiopsar cineraceus		BDM	LC	P2, W3, R3	1
+436	1	Daurian Starling	Agropsar sturninus		LCS	LC	P4, SV1	1
+437	1	Chestnut-cheeked Starling	Agropsar philippensis		LCS	LC	P4, S5, WV2	1
+438	1	White-shouldered Starling	Sturnia sinensis		RRO	LC	P5, SV1	1
+439	1	Rosy Starling	Pastor roseus		IOS	LC	V1	0
+440	1	Common Starling	Sturnus vulgaris		LCS	LC	W4, P4	0
+440	1	Common Starling	Sturnus vulgaris	poltaratskyi	LCS	LC	W4, P4	0
+441	1	White's Thrush	Zoothera aurea		NAB	LC	P2, S2, R4	1
+441	1	White's Thrush	Zoothera aurea	toratugumi	NAB	LC	P2, S2, R4	1
+442	1	Siberian Thrush	Geokichla sibirica		LCS	LC	P4, SV2	0
+442	1	Siberian Thrush	Geokichla sibirica	sibirica	LCS	LC	P4, SV2	0
+442	1	Siberian Thrush	Geokichla sibirica	davisoni	LCS	LC	P5	0
+443	1	Orange-headed Thrush	Geokichla citrina		IOS	LC	V2	0
+443	1	Orange-headed Thrush	Geokichla citrina	courtoisi / melli	IOS	LC	V2	0
+444	1	Chinese Thrush	Turdus mupinensis		IOS	LC	PV1	0
+445	1	Mistle Thrush	Turdus viscivorus		IOS	LC	V2	0
+445	1	Mistle Thrush	Turdus viscivorus	viscivorus	IOS	LC	V2	0
+446	1	Chinese Blackbird	Turdus mandarinus		RRO	LC	P5, SV1, WV1	1
+446	1	Chinese Blackbird	Turdus mandarinus	mandarinus	RRO	LC	P5, SV1, WV1	1
+447	1	Redwing	Turdus iliacus		IOS	NT	V2	0
+447	1	Redwing	Turdus iliacus	iliacus	IOS	NT	V2	0
+448	1	Grey Thrush	Turdus cardis		LCS	LC	P4	0
+449	1	Grey-backed Thrush	Turdus hortulorum		NAB	LC	S1, P2, WV2	1
+450	1	Eyebrowed Thrush	Turdus obscurus		LCS	LC	P3	0
+451	1	Pale Thrush	Turdus pallidus		NAB	LC	S1, P2, R3	1
+452	1	Grey-sided Thrush	Turdus feae		IOS	VU	PV2	0
+453	1	Brown-headed Thrush	Turdus chrysolaus		LCS	LC	P4	0
+453	1	Brown-headed Thrush	Turdus chrysolaus	orii	LCS	LC	V2	0
+453	1	Brown-headed Thrush	Turdus chrysolaus	chrysolaus	LCS	LC	P4	0
+454	1	Fieldfare	Turdus pilaris		IOS	LC	V2	0
+455	1	Black-throated Thrush	Turdus atrogularis		IOS	LC	V1	0
+456	1	Red-throated Thrush	Turdus ruficollis		RRO	LC	P5, WV1	0
+457	1	Dusky Thrush	Turdus eunomus		NAB	LC	P1, W3	0
+458	1	Naumann's Thrush	Turdus naumanni		HDR	LC	W2, P3	0
+459	1	Grey-streaked Flycatcher	Muscicapa griseisticta		HDR	LC	P3	0
+460	1	Dark-sided Flycatcher	Muscicapa sibirica		DES	LC	P4	0
+460	1	Dark-sided Flycatcher	Muscicapa sibirica	sibirica	DES	LC	P4	0
+461	1	Asian Brown Flycatcher	Muscicapa dauurica		HDR	LC	P2, S4	1
+461	1	Asian Brown Flycatcher	Muscicapa dauurica	dauurica	HDR	LC	P2, S4	1
+462	1	Brown-breasted Flycatcher	Muscicapa muttui		IOS	LC	V2	0
+463	1	Ferruginous Flycatcher	Muscicapa ferruginea		IOS	LC	V2	0
+464	1	Chinese Blue Flycatcher	Cyornis glaucicomans		IOS	LC	V2	0
+465	1	Fujian Niltava	Niltava davidi		IOS	LC	V2	0
+466	1	Blue-and-white Flycatcher	Cyanoptila cyanomelana		DES	LC	S1, P2	1
+466	1	Blue-and-white Flycatcher	Cyanoptila cyanomelana	intermedia	DES	LC	S1, P2	1
+466	1	Blue-and-white Flycatcher	Cyanoptila cyanomelana	cyanomelana	DES	LC	P4, S5	0
+467	1	Zappey's Flycatcher	Cyanoptila cumatilis		IOS	NT	V1	0
+468	1	Verditer Flycatcher	Eumyias thalassinus		IOS	LC	PV1, WV2	0
+468	1	Verditer Flycatcher	Eumyias thalassinus	thalassinus	IOS	LC	PV1, WV2	0
+469	1	European Robin	Erithacus rubecula		IOS	LC	V2	0
+469	1	European Robin	Erithacus rubecula	tataricus	IOS	LC	V2	0
+470	1	Siberian Blue Robin	Larvivora cyane		HDR	LC	S2, P3	1
+470	1	Siberian Blue Robin	Larvivora cyane	cyane	HDR	LC	S2, P3	1
+470	1	Siberian Blue Robin	Larvivora cyane	nechaevi	HDR	LC	DD	0
+471	1	Rufous-tailed Robin	Larvivora sibilans		LCS	LC	P3	0
+472	1	Japanese Robin	Larvivora akahige		LCS	LC	P5, WV2, SV2	0
+472	1	Japanese Robin	Larvivora akahige	akahige	LCS	LC	P5, WV2, SV2	0
+473	1	Bluethroat	Luscinia svecica		LCS	LC	P5, WV2	0
+473	1	Bluethroat	Luscinia svecica	svecica	LCS	LC	P5, WV2	0
+474	1	Siberian Rubythroat	Calliope calliope		LCS	LC	P3, S4, WV2	1
+474	1	Siberian Rubythroat	Calliope calliope	calliope	LCS	LC	P3, S4, WV2	1
+474	1	Siberian Rubythroat	Calliope calliope	camtschatkensis	LCS	LC	P5	0
+475	1	White-tailed Robin	Myiomela leucura		IOS	LC	V2	0
+475	1	White-tailed Robin	Myiomela leucura	leucura / montium	IOS	LC	V2	0
+476	1	Red-flanked Bluetail	Tarsiger cyanurus		LCS	LC	P1, W4, SV2	0
+477	1	Yellow-rumped Flycatcher	Ficedula zanthopygia		BDS	LC	S2, P3	1
+478	1	Green-backed Flycatcher	Ficedula elisae		IOS	LC	PV2	0
+479	1	Narcissus Flycatcher	Ficedula narcissina		LCS	LC	P4, SV2	1
+480	1	Ryukyu Flycatcher	Ficedula owstoni		IOS	LC	V2	0
+481	1	Mugimaki Flycatcher	Ficedula mugimaki		HDR	LC	P3, WV2	0
+482	1	Taiga Flycatcher	Ficedula albicilla		LCS	LC	P4	0
+483	1	Red-breasted Flycatcher	Ficedula parva		IOS	LC	V1	0
+484	1	Black Redstart	Phoenicurus ochruros		IOS	LC	V1	0
+484	1	Black Redstart	Phoenicurus ochruros	rufiventris	IOS	LC	V1	0
+485	1	Daurian Redstart	Phoenicurus auroreus		DES	LC	R1, W2	1
+485	1	Daurian Redstart	Phoenicurus auroreus	auroreus	DES	LC	R1, W2	1
+486	1	Plumbeous Water Redstart	Phoenicurus fuliginosus		IOS	LC	V1	1
+486	1	Plumbeous Water Redstart	Phoenicurus fuliginosus	fuliginosus	IOS	LC	V1	1
+487	1	White-capped Redstart	Phoenicurus leucocephalus		IOS	LC	V2	0
+488	1	Blue Rock Thrush	Monticola solitarius		DES	LC	S2, R4	1
+488	1	Blue Rock Thrush	Monticola solitarius	pandoo	DES	LC	V2	0
+488	1	Blue Rock Thrush	Monticola solitarius	philippensis	DES	LC	S2, R4	1
+489	1	White-throated Rock	Monticola gularis		LCS	LC	P4, SV2	0
+490	1	Thrush Amur Stonechat	Saxicola stejnegeri		NBM	NR	P2, S4, WV2	1
+491	1	Grey Bush Chat	Saxicola ferreus		IOS	LC	V1	0
+491	1	Grey Bush Chat	Saxicola ferreus	haringtoni	IOS	LC	V1	0
+492	1	Northern Wheatear	Oenanthe oenanthe		IOS	LC	V2	0
+492	1	Northern Wheatear	Oenanthe oenanthe	oenanthe	IOS	LC	V2	0
+493	1	Isabelline Wheatear	Oenanthe isabellina		IOS	LC	V2	0
+494	1	Desert Wheatear	Oenanthe deserti		IOS	LC	V2	0
+494	1	Desert Wheatear	Oenanthe deserti	deserti	IOS	LC	V2	0
+495	1	Pied Wheatear	Oenanthe pleschanka		IOS	LC	V1	0
+495	1	Pied Wheatear	Oenanthe pleschanka	pleschanka	IOS	LC	V1	0
+495	1	Pied Wheatear	Oenanthe pleschanka	Var. vittata	IOS	LC	V2	0
+496	1	Brown Dipper	Cinclus pallasii		DES	LC	R3	1
+496	1	Brown Dipper	Cinclus pallasii	pallasii	DES	LC	R3	1
+497	1	Russet Sparrow	Passer cinnamomeus		LCS	LC	R4, P5	1
+497	1	Russet Sparrow	Passer cinnamomeus	rutilans	LCS	LC	R4, P5	1
+498	1	Eurasian Tree Sparrow	Passer montanus		BDS	LC	R1, P4	1
+498	1	Eurasian Tree Sparrow	Passer montanus	saturatus	BDS	LC	R1, P4	1
+499	1	House Sparrow	Passer domesticus		IOS	LC	V2	0
+499	1	House Sparrow	Passer domesticus	bactrianus (?)	IOS	LC	V2	0
+500	1	Scaly-breasted Munia	Lonchura punctulata		IOS	LC	V2	0
+500	1	Scaly-breasted Munia	Lonchura punctulata	topela	IOS	LC	V2	0
+501	1	Alpine Accentor	Prunella collaris		LCS	LC	W4, P5	0
+501	1	Alpine Accentor	Prunella collaris	erythropygia	LCS	LC	W4, P5	0
+502	1	Siberian Accentor	Prunella montanella		LCS	LC	W2	0
+502	1	Siberian Accentor	Prunella montanella	badia	LCS	LC	W2	0
+503	1	Japanese Accentor	Prunella rubida		IOS	LC	V2	0
+504	1	Forest Wagtail	Dendronanthus indicus		HDR	LC	P4, S4	1
+505	1	Eastern Yellow Wagtail	Motacilla tschutschensis		LCS	LC	P2, WV2	0
+505	1	Eastern Yellow Wagtail	Motacilla tschutschensis	plexa	LCS	LC	P4	0
+505	1	Eastern Yellow Wagtail	Motacilla tschutschensis	tschutschensis	LCS	LC	P3	0
+505	1	Eastern Yellow Wagtail	Motacilla tschutschensis	macronyx	LCS	LC	P4	0
+505	1	Eastern Yellow Wagtail	Motacilla tschutschensis	taivana	LCS	LC	P3, WV2	0
+506	1	Citrine Wagtail	Motacilla citreola		RRO	LC	P5	0
+506	1	Citrine Wagtail	Motacilla citreola	citreola	RRO	LC	P5	0
+507	1	Grey Wagtail	Motacilla cinerea		NAB	LC	P2, S3, R5	1
+507	1	Grey Wagtail	Motacilla cinerea	cinerea	NAB	LC	P2, S3, R5	1
+508	1	White Wagtail	Motacilla alba		HDR	LC	P1, S2, W3	1
+508	1	White Wagtail	Motacilla alba	alba	HDR	LC	V2	0
+508	1	White Wagtail	Motacilla alba	personata	HDR	LC	V2	0
+508	1	White Wagtail	Motacilla alba	baicalensis	HDR	LC	V1	0
+508	1	White Wagtail	Motacilla alba	ocularis	HDR	LC	P2, W5	0
+508	1	White Wagtail	Motacilla alba	lugens	HDR	LC	P3, W3, SV2	0
+508	1	White Wagtail	Motacilla alba	leucopsis	HDR	LC	P2, S2, R4	1
+508	1	White Wagtail	Motacilla alba	alboides	HDR	LC	V2	0
+509	1	Japanese Wagtail	Motacilla grandis		BDS	LC	R3	1
+510	1	Richard's Pipit	Anthus richardi		LCS	LC	P4, WV2	0
+511	1	Blyth's Pipit	Anthus godlewskii		DES	LC	P5	0
+512	1	Meadow Pipit	Anthus pratensis		IOS	LC	V2	0
+513	1	Tree Pipit	Anthus trivialis		IOS	LC	V1	0
+513	1	Tree Pipit	Anthus trivialis	trivialis	IOS	LC	V1	0
+514	1	Olive-backed Pipit	Anthus hodgsoni		NAB	LC	P1, W3, SV1	1
+514	1	Olive-backed Pipit	Anthus hodgsoni	hodgsoni	NAB	LC	P3, W3, SV1	1
+514	1	Olive-backed Pipit	Anthus hodgsoni	yunnanensis	NAB	LC	P1	0
+515	1	Pechora Pipit	Anthus gustavi		LCS	LC	P3	0
+515	1	Pechora Pipit	Anthus gustavi	gustavi	LCS	LC	P3	0
+515	1	Pechora Pipit	Anthus gustavi	menzbieri	LCS	LC	P5	0
+516	1	Rosy Pipit	Anthus roseatus		IOS	LC	V2	0
+517	1	Red-throated Pipit	Anthus cervinus		LCS	LC	P3, WV1	0
+518	1	Buff-bellied Pipit	Anthus rubescens		LCS	LC	P2, W3	0
+518	1	Buff-bellied Pipit	Anthus rubescens	japonicus	LCS	LC	P2, W3	0
+518	1	Buff-bellied Pipit	Anthus rubescens	rubescens	LCS	LC	V2 (?)	0
+519	1	Water Pipit	Anthus spinoletta		IOS	LC	V1	0
+519	1	Water Pipit	Anthus spinoletta	blakistoni	IOS	LC	V1	0
+520	1	Common Chaffinch	Fringilla coelebs		IOS	LC	V2	0
+520	1	Common Chaffinch	Fringilla coelebs	coelebs	IOS	LC	V2	0
+521	1	Brambling	Fringilla montifringilla		NAB	LC	P1, W1	0
+522	1	Hawfinch	Coccothraustes coccothraustes		LCS	LC	P2, W2	0
+522	1	Hawfinch	Coccothraustes coccothraustes	shulpini	LCS	LC	P2, W2	0
+522	1	Hawfinch	Coccothraustes coccothraustes	japonicus	LCS	LC	DD	0
+523	1	Chinese Grosbeak	Eophona migratoria		LCS	LC	P3, S4, W4	1
+523	1	Chinese Grosbeak	Eophona migratoria	migratoria	LCS	LC	P3, S4, W4	1
+524	1	Japanese Grosbeak	Eophona personata		LCS	LC	P4, W5	0
+524	1	Japanese Grosbeak	Eophona personata	personata	LCS	LC	W5	0
+524	1	Japanese Grosbeak	Eophona personata	magnirostris	LCS	LC	P4	0
+525	1	Pine Grosbeak	Pinicola enucleator		IOS	LC	V2	0
+525	1	Pine Grosbeak	Pinicola enucleator	kamtschatkensis (?)	IOS	LC	V2	0
+526	1	Eurasian Bullfinch	Pyrrhula pyrrhula		LCS	LC	W3	0
+526	1	Eurasian Bullfinch	Pyrrhula pyrrhula	cineracea	LCS	LC	V2	0
+526	1	Eurasian Bullfinch	Pyrrhula pyrrhula	griseiventris	LCS	LC	V1	0
+526	1	Eurasian Bullfinch	Pyrrhula pyrrhula	rosacea	LCS	LC	W3	0
+527	1	Mongolian Finch	Bucanetes mongolicus		IOS	LC	V2	0
+528	1	Asian Rosy Finch	Leucosticte arctoa		LCS	LC	W4	0
+528	1	Asian Rosy Finch	Leucosticte arctoa	brunneonucha	LCS	LC	W4	0
+529	1	Common Rosefinch	Carpodacus erythrinus		LCS	LC	P4, WV1	0
+529	1	Common Rosefinch	Carpodacus erythrinus	grebnitskii	LCS	LC	P4, WV1	0
+529	1	Common Rosefinch	Carpodacus erythrinus	roseatus	LCS	LC	V2	0
+530	1	Siberian Long-tailed Rosefinch	Carpodacus sibiricus		LCS	LC	P3, W3	0
+530	1	Siberian Long-tailed Rosefinch	Carpodacus sibiricus	sibiricus	LCS	LC	DD	0
+530	1	Siberian Long-tailed Rosefinch	Carpodacus sibiricus	ussuriensis	LCS	LC	P3, W3	0
+531	1	Pallas's Rosefinch	Carpodacus roseus		LCS	LC	P3, W4	0
+531	1	Pallas's Rosefinch	Carpodacus roseus	roseus	LCS	LC	P3, W4	0
+531	1	Pallas's Rosefinch	Carpodacus roseus	portenkoi	LCS	LC	?	0
+532	1	Grey-capped Greenfinch	Chloris sinica		NAB	LC	W1, R2	1
+532	1	Grey-capped Greenfinch	Chloris sinica	ussuriensis	NAB	LC	W1, R2	1
+532	1	Grey-capped Greenfinch	Chloris sinica	kawarahiba	NAB	LC	W3	0
+532	1	Grey-capped Greenfinch	Chloris sinica	minor	NAB	LC	DD	0
+533	1	Common Redpoll	Acanthis flammea		NBS	LC	W5	0
+533	1	Common Redpoll	Acanthis flammea	flammea	NBS	LC	W5	0
+534	1	Arctic Redpoll	Acanthis hornemanni		IOS	NR	V2	0
+534	1	Arctic Redpoll	Acanthis hornemanni	exilipes	IOS	NR	V2	0
+535	1	Red Crossbill	Loxia curvirostra		LCS	LC	W4, SV1	1
+535	1	Red Crossbill	Loxia curvirostra	tianschanica	LCS	LC	V2?	2
+535	1	Red Crossbill	Loxia curvirostra	japonica	LCS	LC	W4, SV1	1
+536	1	Eurasian Siskin	Spinus spinus		NAB	LC	P1, W2, SV2	2
+537	1	Lapland Longspur	Calcarius lapponicus		DES	LC	W3, P4	0
+537	1	Lapland Longspur	Calcarius lapponicus	coloratus	DES	LC	W3, P4	0
+538	1	Snow Bunting	Plectrophenax nivalis		IOS	LC	WV1	0
+538	1	Snow Bunting	Plectrophenax nivalis	vlasowae	IOS	LC	WV1	0
+539	1	Yellowhammer	Emberiza citrinella		IOS	LC	V2	0
+539	1	Yellowhammer	Emberiza citrinella	erythrogenys	IOS	LC	V2	0
+540	1	Pine Bunting	Emberiza leucocephalos		LCS	LC	P4, W5	0
+540	1	Pine Bunting	Emberiza leucocephalos	leucocephalos	LCS	LC	P4, W5	0
+540	1	Pine Bunting	Emberiza leucocephalos	fronto	LCS	LC	V2	0
+541	1	Godlewski's Bunting	Emberiza godlewskii		IOS	LC	V2	0
+541	1	Godlewski's Bunting	Emberiza godlewskii	godlewskii	IOS	LC	V2	0
+542	1	Meadow Bunting	Emberiza cioides		HDR	LC	W2, R3	1
+542	1	Meadow Bunting	Emberiza cioides	weigoldi	HDR	LC	W3	0
+542	1	Meadow Bunting	Emberiza cioides	castaneiceps	HDR	LC	R3	1
+542	1	Meadow Bunting	Emberiza cioides	ciopsis	HDR	LC	V2	0
+543	1	Ortolan Bunting	Emberiza hortulana		IOS	LC	V2	0
+544	1	Tristram's Bunting	Emberiza tristrami		LCS	LC	P3, S4, W5	1
+545	1	Chestnut-eared Bunting	Emberiza fucata		NBM	LC	P4, W4, S5	1
+545	1	Chestnut-eared Bunting	Emberiza fucata	fucata	NBM	LC	P4, W4, S5	1
+546	1	Little Bunting	Emberiza pusilla		NAB	LC	P2, W4	0
+547	1	Yellow-browed Bunting	Emberiza chrysophrys		NAB	LC	P2	0
+548	1	Rustic Bunting	Emberiza rustica		GCS	VU	P1, W2	0
+549	1	Yellow-throated Bunting	Emberiza elegans		BDM	LC	W1, R1, P2	1
+549	1	Yellow-throated Bunting	Emberiza elegans	elegans	BDM	LC	W1, R1, P2	1
+550	1	Yellow-breasted Bunting	Emberiza aureola		GCS	CR	P4	0
+550	1	Yellow-breasted Bunting	Emberiza aureola	aureola	GCS	CR	P5	0
+550	1	Yellow-breasted Bunting	Emberiza aureola	ornata	GCS	CR	P4	0
+551	1	Chestnut Bunting	Emberiza rutila		NBM	LC	P3, WV2	0
+552	1	Black-headed Bunting	Emberiza melanocephala		IOS	LC	V1	0
+553	1	Red-headed Bunting	Emberiza bruniceps		IOS	LC	V2	0
+554	1	Yellow Bunting	Emberiza sulphurata		PNS	LC	P4	0
+555	1	Black-faced Bunting	Emberiza spodocephala		DES	LC	P1, W4, SV2	1
+555	1	Black-faced Bunting	Emberiza spodocephala	spodocephala	DES	LC	P4, W5	0
+555	1	Black-faced Bunting	Emberiza spodocephala	extremiorientis *	DES	LC	P1, W4, SV2	1
+556	1	Masked Bunting	Emberiza personata		LCS	LC	P5, W5	0
+557	1	Grey Bunting	Emberiza variabilis		LCS	LC	P5, W5	0
+557	1	Grey Bunting	Emberiza variabilis	variabilis / musica	LCS	LC	P5, W5	0
+558	1	Pallas's Reed Bunting	Emberiza pallasi		DES	LC	W2, P3	0
+558	1	Pallas's Reed Bunting	Emberiza pallasi	pallasi	DES	LC	DD	0
+558	1	Pallas's Reed Bunting	Emberiza pallasi	polaris	DES	LC	W2, P3	0
+558	1	Pallas's Reed Bunting	Emberiza pallasi	lydiae	DES	LC	V2	0
+559	1	Ochre-rumped Bunting	Emberiza yessoensis		TNS	NT	P4, W5, S5	1
+559	1	Ochre-rumped Bunting	Emberiza yessoensis	continentalis	TNS	NT	P4, W5, S5	1
+560	1	Common Reed Bunting	Emberiza schoeniclus		LCS	LC	W3	0
+560	1	Common Reed Bunting	Emberiza schoeniclus	pyrrhulina	LCS	LC	W3	0
+561	1	White-crowned Sparrow	Zonotrichia leucophrys		IOS	LC	V2	0
+561	1	White-crowned Sparrow	Zonotrichia leucophrys	gambelii	IOS	LC	V2	0
+562	1	Golden-crowned Sparrow	Zonotrichia atricapilla		IOS	LC	V2	0
+563	1	Savannah Sparrow	Passerculus sandwichensis		IOS	LC	V2	0
+563	1	Savannah Sparrow	Passerculus sandwichensis	anthinus (?)	IOS	LC	V2	0
+564	2	Crested Shelduck	Tadorna cristata		REX	CR	RE	0
+565	2	Pallas's Sandgrouse	Syrrhaptes paradoxus		IOS	LC	V2	0
+566	2	Crested Ibis	Nipponia nippon		REX	EN	INT	1
+567	2	Great White Pelican	Pelecanus onocrotalus		IOS	LC	V2	0
+568	2	Dalmatian Pelican	Pelecanus crispus		IOS	NT	V2	0
+569	2	Mountain Hawk-Eagle	Nisaetus nipalensis		REX	NT	V2	0
+569	2	Mountain Hawk-Eagle	Nisaetus nipalensis	orientalis	REX	NT	V2	0
+570	2	Snowy Owl	Bubo scandiacus		IOS	VU	V2	0
+571	2	Crested Kingfisher	Megaceryle lugubris		IOS	LC	WV2	0
+571	2	Crested Kingfisher	Megaceryle lugubris	pallida	IOS	LC	WV2	0
+572	2	White-bellied Woodpecker	Dryocopus javensis		REX	LC	DD	1
+572	2	White-bellied Woodpecker	Dryocopus javensis	richardsi	REX	LC	DD	1
+573	2	Willow Tit	Poecile montanus		IOS	LC	WV2	0
+573	2	Willow Tit	Poecile montanus	baicalensis	IOS	LC	WV2	0
+574	2	Beijing Babbler	Rhopophilus pekinensis		NRO	LC	V2	2
+575	2	Two-barred Crossbill	Loxia leucoptera		IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	bifasciata	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	polaris	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	brachypus	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	kamtschaticus	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	yenisseensis	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	diversa	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	sibirica	IOS	LC	V2	0
+575	2	Two-barred Crossbill	Loxia leucoptera	grandis	IOS	LC	V2	0
+	3	Common Swift	Apus apus		IOS	LC	V1	0
+	3	Greater Coucal	Centropus sinensis		IOS	LC	V2	0
+	3	Himalayan Cuckoo	Cuculus saturatus		IOS	LC	V2	0
+	3	American Golden Plover	Pluvialis dominica		IOS	LC	V2	0
+	3	Western Sandpiper	Calidris mauri		IOS	LC	V2	0
+	3	Little Auk	Alle alle		IOS	LC	V2	0
+	3	Little Auk	Alle alle	polaris	IOS	LC	V2	0
+	3	Lesser Kestrel	Falco naumanni		IOS	LC	V2	0
+	3	Red-billed Chough	Pyrrhocorax pyrrhocorax		IOS	LC	V2	0
+	3	Red-billed Chough	Pyrrhocorax pyrrhocorax	brachypus	IOS	LC	V2	0
+	3	Northern Raven	Corvus corax		IOS	LC	V2	0
+	3	Northern Raven	Corvus corax	kamtschaticus	IOS	LC	V2	0
+	3	Azure Tit	Cyanistes cyanus		IOS	LC	V2	0
+	3	Azure Tit	Cyanistes cyanus	yenisseensis	IOS	LC	V2	0
+	3	Bimaculated Lark	Melanocorypha bimaculata		IOS	LC	V2	0
+	3	Chinese Bush Warbler	Locustella tacsanowskia		IOS	LC	V2	0
+	3	Slaty-blue Flycatcher	Ficedula tricolor		IOS	LC	V2	0
+	3	Slaty-blue Flycatcher	Ficedula tricolor	diversa	IOS	LC	V2	0
+	3	European Pied Flycatcher	Ficedula hypoleuca		IOS	LC	V2	0
+	3	European Pied Flycatcher	Ficedula hypoleuca	sibirica	IOS	LC	V2	0
+	3	Güldenstädt's Redstart	Phoenicurus erythrogastrus		IOS	LC	V2	0
+	3	Güldenstädt's Redstart	Phoenicurus erythrogastrus	grandis	IOS	LC	V2	0
+	4	Ring-billed Gull	Larus delawarensis		IOS	LC	V2	0
+	4	Hudsonian Godwit	Limosa haemastica		IOS	LC	V2	0
+	5	Rock Dove	Columba livia		LCS	LC	R2	1
+	5	African Sacred Ibis	Threskiornis aethiopicus		IOS	LC	V2	0
+	5	Javan Myna	Acridotheres javanicus		IOS	VU	V2	0
+	R	Canada Goose	Branta canadensis		IOS	LC	V2	0
+	R	White-faced Plover	Charadrius dealbatus		IOS	DD	V2?	0
+	R	Western Gull	Larus occidentalis		IOS	LC	WV2	0
+	R	Short-tailed Albatross	Phoebastria albatrus		IOS	VU	V2	0
+	R	Sooty Shearwater	Ardenna grisea		IOS	NT	V2	0
+	R	Common Buzzard	Buteo buteo		IOS	LC	V2	0
+	R	House Crow	Corvus splendens		IOS	LC	V2	0
+	R	Asian Short-toed Lark	Alaudala cheleensis		IOS	NR	V2	0
+	R	Asian Short-toed Lark	Alaudala cheleensis	cheleensis	IOS	NR	V2	0
+	R	Grey-throated Martin	Riparia chinensis		IOS	LC	V2	0
+	R	Grey-throated Martin	Riparia chinensis	chinensis	IOS	LC	V2	0
+	R	Greenish Warbler	Phylloscopus trochiloides		IOS	LC	V2?	0
+	R	Greenish Warbler	Phylloscopus trochiloides	obscuratus	IOS	LC	V2?	0
+	R	Common Myna	Acridotheres tristis		IOS	LC	V2	0
+	R	Oriental Magpie-Robin	Copsychus saularis		IOS	LC	V2	0
+	R	Oriental Magpie-Robin	Copsychus saularis	saularis	IOS	LC	V2	0
+	R	Common Redstart	Phoenicurus phoenicurus		IOS	LC	V2	0
+	R	Common Redstart	Phoenicurus phoenicurus	phoenicurus	IOS	LC	V2	0
+	R	Western Yellow Wagtail	Motacilla flava		IOS	LC	V2	0
+	R	Western Yellow Wagtail	Motacilla flava	lutea	IOS	LC	V2	0
+	R	Western Yellow Wagtail	Motacilla flava	thunbergi	IOS	LC	V2	0

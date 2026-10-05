@@ -7,7 +7,7 @@
   "ktsn": 120000001583,
   "origin": "nibr",
   "length": "TODO",
-  "status": "많은 수가 지나가는 나그네새, 드물게 번식",
+  "status": "나그네새 수천 마리 · 여름철새 수십 마리",
   "habitat": "숲 가장자리, 초지",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
@@ -46,7 +46,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P3, S5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Pernis ptilorhynchus",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

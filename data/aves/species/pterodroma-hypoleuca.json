@@ -7,12 +7,12 @@
   "ktsn": 120000001488,
   "origin": "nibr",
   "length": "30.0cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "대양의 섬",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "대양의 외딴 섬에 사는 바닷새이다. 외딴 섬에만 분포해 전체 개체 수는 자세히 조사되지 않았지만, 태평양의 리시안스키섬(Lisianski Island) 한 곳에만 15~25만 쌍이 살 만큼 지역에 따라서는 흔하다. 하와이 제도와 일본 보닌 열도의 외딴 섬 등지에서 번식하고 북태평양 아열대 해역에서 겨울을 난다.",
   "points": [],
@@ -43,9 +43,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 국내 상태와 생김새가 없다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Pterodroma hypoleuca",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

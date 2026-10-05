@@ -7,15 +7,15 @@
   "ktsn": 120000001792,
   "origin": "nibr",
   "length": "TODO",
-  "status": "나그네새",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "연안, 먼바다, 바닷가, 하구",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": [],
-    "note": "봄과 가을에 우리나라를 지나간다."
+    "note": ""
   },
-  "summary": "봄과 가을에 우리나라를 지나가는 나그네새로, 연안과 먼바다에서 지낸다. 바닷가나 하구에서는 늘 무리를 이루어 생활하며, 멸치 같은 작은 물고기와 오징어, 새우 같은 갑각류를 먹는다. 얕은 물가의 나무 위나 튀어나온 바위에 풀줄기를 높이 쌓아 둥지를 짓고 알을 1~3개 낳는다. 세계적으로는 온대 지역에 분포한다.",
+  "summary": "우리나라에는 지금까지 기록이 10건이 안 되는 길잃은새로, 연안과 먼바다에서 지낸다. 바닷가나 하구에서는 늘 무리를 이루어 생활하며, 멸치 같은 작은 물고기와 오징어, 새우 같은 갑각류를 먹는다. 얕은 물가의 나무 위나 튀어나온 바위에 풀줄기를 높이 쌓아 둥지를 짓고 알을 1~3개 낳는다. 세계적으로는 온대 지역에 분포한다.",
   "points": [
     {
       "ko": "검은 부리와 머리",
@@ -73,9 +73,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문 몸길이 '20-60cm'는 범위가 지나치게 넓어 믿기 어려워 length 를 TODO 로 두었다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Chlidonias niger",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

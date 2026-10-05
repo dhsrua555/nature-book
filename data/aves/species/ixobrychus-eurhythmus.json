@@ -7,7 +7,7 @@
   "ktsn": 120000001525,
   "origin": "nibr",
   "length": "약 38cm",
-  "status": "드문 여름철새",
+  "status": "여름철새, 해마다 수십 마리",
   "habitat": "갈대밭, 작은 물웅덩이, 풀이 우거진 습지",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
@@ -79,7 +79,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Botaurus eurhythmus)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "S5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Ixobrychus eurhythmus",
+    "rarity": 5.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

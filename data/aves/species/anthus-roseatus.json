@@ -7,12 +7,12 @@
   "ktsn": 120000002181,
   "origin": "nibr",
   "length": "약 15cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "고산 지대, 번식기에는 해발 2,400~4,600m 고지",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "번식 시기는 6~7월이며, 이때는 해발 2,400~4,600m 고지에서만 지낸다."
   },
   "summary": "높은 산에 사는 새로, 번식기인 6~7월에는 해발 2,400~4,600m 고지에서만 지낸다. 한배에 알을 보통 3~4개, 드물게 5개까지 낳는다. 가을에는 아랫부리 기부가 살구빛이 도는 노란색을 띤다.",
@@ -72,9 +72,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "번식기에 2,400~4,600m 고지에서만 산다고 하면서 300m 이하에서도 드물게 번식한다고 해 원문이 서로 맞지 않는다. 300m 이야기는 싣지 않았다."
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Anthus roseatus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

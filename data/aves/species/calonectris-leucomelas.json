@@ -7,7 +7,7 @@
   "ktsn": 120000001490,
   "origin": "nibr",
   "length": "TODO",
-  "status": "드문 여름철새",
+  "status": "여름철새, 해마다 수만 마리",
   "habitat": "바다, 땅속에 판 굴(둥지)",
   "protect": [],
   "months": {
@@ -18,7 +18,7 @@
     ],
     "note": "6~7월에 알을 낳는다."
   },
-  "summary": "우리나라에서 드물게 번식하는 여름철새로, 바다에서 무리를 지어 지내며 울릉도와 제주도에서 관찰된다. 날개가 길어 제자리에서 바로 날아오르지 못하고, 나무나 벼랑 위에서 뛰어내리거나 달려가다가 떠오른다. 땅속에 굴을 파서 둥지를 만들고 6~7월에 흰 알 1개를 낳아 암수가 번갈아 품는다. 물고기, 오징어, 낙지, 해조류 등을 먹으며, 국외에서는 중국 해안에 분포한다.",
+  "summary": "우리나라에 해마다 수만 마리가 찾아와 번식하는 여름철새로, 바다에서 무리를 지어 지내며 울릉도와 제주도에서 관찰된다. 날개가 길어 제자리에서 바로 날아오르지 못하고, 나무나 벼랑 위에서 뛰어내리거나 달려가다가 떠오른다. 땅속에 굴을 파서 둥지를 만들고 6~7월에 흰 알 1개를 낳아 암수가 번갈아 품는다. 물고기, 오징어, 낙지, 해조류 등을 먹으며, 국외에서는 중국 해안에 분포한다.",
   "points": [
     {
       "ko": "깃 끝이 흰 검은 갈색 이마~뒷머리",
@@ -71,7 +71,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "S2",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Calonectris leucomelas",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

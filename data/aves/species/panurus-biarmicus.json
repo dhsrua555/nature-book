@@ -7,12 +7,12 @@
   "ktsn": 120000002059,
   "origin": "nibr",
   "length": "약 16.5cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "민물 습지",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "민물 습지에 사는 새로, 온대 지역 일부에 분포한다. 대부분 일부일처로 지내며, '칭- 칭-' 하고 조용히 우는 등 여러 가지 소리를 낸다. 여름에는 곤충, 겨울에는 씨앗을 먹고 모기 애벌레나 활짝 핀 애기부들 등도 먹으며, 날벌레를 찾을 때는 거꾸로 매달린 채 머리를 빙빙 돌린다. 영국 남동부와 아시아 등지에 분포한다.",
   "points": [
@@ -68,10 +68,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문의 '혀로 털을 정리한다', '태평양 북부 분포' 같은 서술은 의심스러워 요약에 넣지 않았다(확인 필요)",
     "원문에 국내 상태와 시기가 없다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Panurus biarmicus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

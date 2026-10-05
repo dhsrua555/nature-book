@@ -183,6 +183,11 @@ FIELDS = ["length", "wingspan", "status", "habitat", "months", "summary", "point
 
 
 def cmd_merge(args) -> int:
+    # 종 파일은 그 뒤로 손보거나(국내 상태 tools/occurrence.py, 해설 고침) 하므로 함부로 덮어쓰지 않는다
+    done = [f for f in SPECIES.glob("*.json") if json.loads(f.read_text(encoding="utf-8")).get("origin")]
+    if done and not args.force:
+        print(f"origin 이 붙은 종 파일 {len(done)}개가 이미 있다. 다시 만들려면 --force (그 뒤 tools/occurrence.py --write 를 다시 돌린다)")
+        return 1
     en_by = {r["sci"]: r for r in tsv(EN)}
     outs: dict[str, dict] = {}
     for f in sorted(WORK.glob("out-*.json")):
@@ -276,7 +281,8 @@ def main() -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     b = sub.add_parser("batches")
     b.add_argument("--size", type=int, default=30)
-    sub.add_parser("merge")
+    mg = sub.add_parser("merge")
+    mg.add_argument("--force", action="store_true", help="이미 만든 종 파일도 다시 만든다")
     c = sub.add_parser("check")
     c.add_argument("file")
     args = ap.parse_args()

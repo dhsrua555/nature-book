@@ -7,7 +7,7 @@
   "ktsn": 120000002075,
   "origin": "nibr",
   "length": "약 12cm",
-  "status": "백두산 지역의 흔한 텃새(중부 이남에서는 매우 드물다)",
+  "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "산지의 침엽수림",
   "protect": [],
   "months": {
@@ -25,7 +25,7 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "산지 침엽수림에 사는 새로, 백두산 지역에서는 흔한 텃새이지만 중부 이남에서는 매우 드물다. 나무 사이를 재빠르게 옮겨 다닌다. 마른 나무줄기에 스스로 구멍을 파서 둥지를 틀지만 딱따구리가 쓰던 둥지를 쓰기도 하며, 한배에 알을 5~6개 낳는다. 중국 북부와 한국(백두산)에 산다.",
   "points": [
@@ -84,7 +84,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "WV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Sitta villosa",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

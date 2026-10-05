@@ -7,15 +7,12 @@
   "ktsn": 120000002163,
   "origin": "nibr",
   "length": "18cm",
-  "status": "텃새(북부), 드문 겨울철새(중부 이남)",
+  "status": "겨울철새 수백 마리 · 나그네새 수십 마리",
   "habitat": "돌이 많은 산지의 풀밭, 바위 틈(둥지)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": [
-      6,
-      7
-    ],
+    "breed": [],
     "note": "6~7월에 알을 낳고, 중부 이남에는 늦가을에 내려와 겨울을 난다."
   },
   "summary": "돌이 많은 산지의 풀밭에 사는 새로, 북부 지역에서는 텃새이고 중부 이남에서는 늦가을에 내려와 겨울을 나는 드문 겨울철새이다. 바위 틈에 벼과 식물의 이삭·줄기·잎이나 이끼로 밥그릇 모양 둥지를 짓고 6~7월에 알 3~4개를 낳는다. 곤충을 주로 먹지만 열매와 씨도 먹는다. 국내에서는 북부 지방, 경상북도, 경기도에 살고, 국외에서는 남부 유럽에서 아시아 동부까지 분포한다.",
@@ -71,7 +68,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [
+    "[새와 생명의 터] 국내 번식 기록이 없어 국립생물자원관 설명의 번식 달([6, 7])을 달력에서 뺐다"
+  ],
+  "occurrence": {
+    "code": "W4, P5",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Prunella collaris",
+    "rarity": 4.0
+  },
+  "breeding": "번식 기록 없음"
 }

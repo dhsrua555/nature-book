@@ -7,7 +7,7 @@
   "ktsn": 120000001685,
   "origin": "nibr",
   "length": "약 23.5cm",
-  "status": "희귀한 나그네새, 겨울철새",
+  "status": "여름철새, 해마다 수십 마리 · 겨울에도 드물게 기록",
   "habitat": "TODO",
   "protect": [
     "천연기념물"
@@ -17,7 +17,7 @@
     "breed": [],
     "note": "봄부터 가을 사이에 알을 낳는다."
   },
-  "summary": "드물게 찾아오는 나그네새이자 겨울철새이다. 암컷이 구애하고 과시 행동을 하며, 봄부터 가을 사이에 한배에 알 4~6개를 낳아 수컷에게 품게 한 뒤 새 수컷과 다시 짝을 지어 알을 낳는다. 곤충, 조개, 지렁이와 볏과 식물, 여러 풀씨를 먹는 잡식성이다. 아프리카, 아시아, 오스트레일리아에 분포한다.",
+  "summary": "해마다 수십 마리가 찾아오는 여름철새이며, 겨울에도 드물게 기록된다. 암컷이 구애하고 과시 행동을 하며, 봄부터 가을 사이에 한배에 알 4~6개를 낳아 수컷에게 품게 한 뒤 새 수컷과 다시 짝을 지어 알을 낳는다. 곤충, 조개, 지렁이와 볏과 식물, 여러 풀씨를 먹는 잡식성이다. 아프리카, 아시아, 오스트레일리아에 분포한다.",
   "points": [
     {
       "ko": "이마에서 뒷머리까지 넓은 흰 정수리선",
@@ -75,9 +75,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 국내 상태를 나그네새·겨울철새로만 적었는데 봄~가을 산란을 말하고 장소는 밝히지 않아, 국내 번식 여부 확인 필요"
-  ]
+  ],
+  "occurrence": {
+    "code": "S5, WV1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Rostratula benghalensis",
+    "rarity": 5.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

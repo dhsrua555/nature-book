@@ -7,11 +7,24 @@
   "ktsn": 120000002016,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "텃새 수천 마리 · 여름철새 수백 마리",
   "habitat": "평지의 산림, 과수원, 농경지 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO",
     "note": "국내에서는 2002년 10월 어청도에서 처음 확인되었다."
   },
@@ -72,7 +85,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "R3, S4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Pycnonotus sinensis",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

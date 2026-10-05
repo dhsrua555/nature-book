@@ -7,15 +7,15 @@
   "ktsn": 120000001945,
   "origin": "nibr",
   "length": "28cm",
-  "status": "미조",
+  "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "TODO",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": [],
-    "note": "국내에서는 1988년 5월에 한 번 관찰되었다."
+    "note": "국내에서는 1988년 5월에 관찰된 기록이 있다."
   },
-  "summary": "국내에서는 1988년 5월 충청남도 서산의 길가 전봇대에서 단 한 번 관찰된 미조이다. 날 때는 물결 모양을 그리며 난다. 중국 동남부에서 번식하고 인도차이나에서 겨울을 난다.",
+  "summary": "국내에서는 해마다 수십 마리가 지나가는 나그네새이다. 1988년 5월에는 충청남도 서산의 길가 전봇대에서 관찰되었다. 날 때는 물결 모양을 그리며 난다. 중국 동남부에서 번식하고 인도차이나에서 겨울을 난다.",
   "points": [
     {
       "ko": "온몸이 검은색",
@@ -60,7 +60,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P5, SV2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Dicrurus macrocercus",
+    "rarity": 5.0
+  },
+  "breeding": "번식 기록 없음"
 }

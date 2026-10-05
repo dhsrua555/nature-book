@@ -7,7 +7,7 @@
   "ktsn": 120000528872,
   "origin": "nibr",
   "length": "약 24.5cm",
-  "status": "드문 겨울철새",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "교목이나 관목의 가지 위(둥지 자리)",
   "protect": [],
   "months": {
@@ -15,7 +15,7 @@
     "breed": [],
     "note": "번식지에서의 산란기는 4월 하순~6월 상순이다."
   },
-  "summary": "드물게 찾아오는 겨울새로, 대형 때까치류에 속하며 주로 혼자 또는 암수가 함께 지낸다. 주로 동물성 먹이를 먹어 설치류, 참새류 같은 작은 새, 개구리류와 파충류를 즐겨 잡고 곤충과 거미도 먹는다. 교목이나 관목 가지 위에 둥지를 틀고 한배에 알을 5~7개, 때로는 8~9개 낳는다.",
+  "summary": "드물게 찾아오는 길잃은새로, 대형 때까치류에 속하며 주로 혼자 또는 암수가 함께 지낸다. 주로 동물성 먹이를 먹어 설치류, 참새류 같은 작은 새, 개구리류와 파충류를 즐겨 잡고 곤충과 거미도 먹는다. 교목이나 관목 가지 위에 둥지를 틀고 한배에 알을 5~7개, 때로는 8~9개 낳는다.",
   "points": [
     {
       "ko": "앞끝이 흰 이마와 회색 정수리",
@@ -73,9 +73,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문의 '배는 흰색으로 가느다란 가로띠가 여러 개 있다'가 암컷 설명인지 분명하지 않아 싣지 않았다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Lanius borealis",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

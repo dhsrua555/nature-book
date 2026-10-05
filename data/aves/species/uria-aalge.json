@@ -7,14 +7,14 @@
   "ktsn": 120000001803,
   "origin": "nibr",
   "length": "TODO",
-  "status": "여름철새",
+  "status": "겨울철새, 해마다 수십 마리",
   "habitat": "바닷가 섬의 암초와 암벽, 바다",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
-  "summary": "동해 연안에서 관찰되는 여름철새로, 바닷가 섬의 암초와 암벽에서 산다. 바다 위를 헤엄치고 잠수하며 물고기, 게와 새우 같은 갑각류, 연체동물, 벼과 식물의 열매를 먹는다. 수백에서 수만 마리가 큰 무리를 이루어 함께 번식하며, 둥지를 짓지 않고 암벽이나 암초 위에 바로 알을 낳는다. 세계적으로는 동아시아, 유럽, 북아메리카에 분포한다.",
+  "summary": "해마다 수십 마리가 찾아오는 드문 겨울철새로 동해 연안에서 관찰되며, 바닷가 섬의 암초와 암벽에서 산다. 바다 위를 헤엄치고 잠수하며 물고기, 게와 새우 같은 갑각류, 연체동물, 벼과 식물의 열매를 먹는다. 수백에서 수만 마리가 큰 무리를 이루어 함께 번식하며, 둥지를 짓지 않고 암벽이나 암초 위에 바로 알을 낳는다. 세계적으로는 동아시아, 유럽, 북아메리카에 분포한다.",
   "points": [
     {
       "ko": "길고 곧은 검은 부리",
@@ -72,9 +72,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 여름철새라 하지만 국내 번식지나 번식 시기를 밝히지 않아 국내 상태 확인이 필요하다"
-  ]
+  ],
+  "occurrence": {
+    "code": "W5",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Uria aalge",
+    "rarity": 5.0
+  },
+  "breeding": "번식 기록 없음"
 }

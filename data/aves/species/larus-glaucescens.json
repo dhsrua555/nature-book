@@ -7,12 +7,12 @@
   "ktsn": 120000001759,
   "origin": "nibr",
   "length": "60–68cm",
-  "status": "TODO",
+  "status": "겨울철새, 해마다 수십 마리",
   "habitat": "해안의 염수 지역, 만, 강어귀, 섬, 바닷가, 개펄",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "번식지에서는 5월 말~7월에 알을 낳는다."
   },
   "summary": "해안의 짠물 지역과 만, 강어귀, 섬, 바닷가, 개펄에 사는 큰 갈매기이다. 알래스카에서는 큰 둥지를, 그 남쪽 지역에서는 그보다 작은 둥지를 틀고 5월 말~7월에 담황색 알 2~3개를 낳는다. 알은 26~28일 만에 깨고, 새끼는 깨어난 뒤 35~54일이면 날 수 있으며, 완전한 어른이 되기까지 4년이 걸리고 수명은 20년이다. 북태평양의 알래스카에서 워싱턴주에 걸쳐 분포한다.",
@@ -65,10 +65,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문의 날개 편 길이 '약 137mm'는 몸길이 60~68cm인 새로서 단위가 틀린 것으로 보여 TODO 로 두었다."
   ],
-  "wingspan": "TODO"
+  "wingspan": "TODO",
+  "occurrence": {
+    "code": "W5",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Larus glaucescens",
+    "rarity": 5.0
+  },
+  "breeding": "번식 기록 없음"
 }

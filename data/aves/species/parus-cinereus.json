@@ -7,22 +7,54 @@
   "ktsn": 120000155331,
   "length": "14cm",
   "wingspan": "TODO",
-  "status": "텃새",
+  "status": "텃새·겨울철새, 해마다 10만 마리 이상",
   "habitat": "인가 주변부터 산림까지, 도시 공원과 녹지",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [4, 5, 6],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6
+    ],
     "note": "전국에 사는 텃새다. 번식 초반인 3월부터 지저귀는 소리가 들리고, 4월부터 알을 낳으며 한 해에 두 번 번식한다."
   },
   "summary": "검은 머리에 흰 뺨, 멱에서 배 가운데로 이어지는 검은 세로줄이 눈에 띄는 작은 새로, 인가 주변부터 산림까지 전국에 두루 사는 텃새다. 나무 구멍이나 건물 틈, 인공 새집에 둥지를 틀고 4월부터 알을 낳으며 한 해에 두 번 번식한다. 기후 변화에 민감하게 반응해 환경부 기후변화 생물지표 종에 들어 있다. 예전에는 노랑배박새(Parus major)와 같은 종으로 다루었다.",
   "taxon_note": "국립생물자원관 국가생물종목록은 박새를 Parus cinereus로 적는다. IOC 세계조류목록은 14.2판(2024년 8월)에서 일본박새(Japanese Tit, Parus minor)를 Parus cinereus(영명 Cinereous Tit, 잠정 영명)에 합쳤으며, 한반도 본토 개체군을 P. c. minor, 울릉도 개체군을 P. c. dageletensis로 둔다(v15.2 페이지 기준).",
   "points": [
-    {"ko": "검은 머리와 흰 뺨", "en": "black head, large white cheek patch"},
-    {"ko": "배 가운데 검은 세로줄", "en": "black ventral stripe"},
-    {"ko": "연둣빛 윗등", "en": "yellowish-green upper mantle"},
-    {"ko": "흰 날개띠", "en": "white wing bar"},
-    {"ko": "회색 등, 흰 아랫면", "en": "grey back, whitish underparts"}
+    {
+      "ko": "검은 머리와 흰 뺨",
+      "en": "black head, large white cheek patch"
+    },
+    {
+      "ko": "배 가운데 검은 세로줄",
+      "en": "black ventral stripe"
+    },
+    {
+      "ko": "연둣빛 윗등",
+      "en": "yellowish-green upper mantle"
+    },
+    {
+      "ko": "흰 날개띠",
+      "en": "white wing bar"
+    },
+    {
+      "ko": "회색 등, 흰 아랫면",
+      "en": "grey back, whitish underparts"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -31,8 +63,14 @@
   },
   "young": "어린새는 무늬 배치는 어른새와 같지만 윗면에 올리브빛, 아랫면에 노란 기가 돌고, 입가의 연한 색이 두드러진다.",
   "similar": [
-    {"ko": "쇠박새", "how": "몸길이 약 12.5cm로 작고, 배에 검은 세로줄이 없이 턱밑만 작게 검다. 윗면은 갈색 기 도는 연한 회색이고 날개에 흰 줄이 없다."},
-    {"ko": "진박새", "how": "몸길이 약 11cm로 더 작고, 뒷목 가운데가 희며 머리꼭대기 깃이 작은 댕기를 이룬다. 아랫면은 크림색이고 배에 검은 세로줄이 없다."}
+    {
+      "ko": "쇠박새",
+      "how": "몸길이 약 12.5cm로 작고, 배에 검은 세로줄이 없이 턱밑만 작게 검다. 윗면은 갈색 기 도는 연한 회색이고 날개에 흰 줄이 없다."
+    },
+    {
+      "ko": "진박새",
+      "how": "몸길이 약 11cm로 더 작고, 뒷목 가운데가 희며 머리꼭대기 깃이 작은 댕기를 이룬다. 아랫면은 크림색이고 배에 검은 세로줄이 없다."
+    }
   ],
   "art": {
     "subject": "Adult male Cinereous Tit of the Korean mainland population (Parus cinereus minor, formerly called Japanese Tit), about 14 cm. Glossy black head and throat with a large clean white cheek patch and a small whitish patch on the hind neck; a broad black stripe runs from the black throat down the centre of the white to pale greyish-white underparts and spreads into an extensive black patch between the legs; upper mantle washed yellowish green, rest of the back and rump grey; wings grey with a bluish tinge to the median coverts and to the edges of the flight feathers, and a bold white wing bar formed by the white tips of the greater coverts; tail grey with bluish edges; short, stout, pointed bill.",
@@ -45,25 +83,94 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 박새", "url": "https://species.nibr.go.kr/species-detail/120000155331", "used": "국명·학명 Parus cinereus Vieillot, 1818·분류·보호 등급(nibr_species.json 제공 값). 현 ktsn에는 종 설명 없음"},
-    {"title": "국립생물자원관 종 정보 API – ktsn 120000155331", "url": "https://species.nibr.go.kr/gwsvc/ktsn/api/v1/public/txgrp-search/list?ktsn=120000155331", "used": "현 ktsn이 '박새 Parus cinereus Vieillot, 1818'임을 확인"},
-    {"title": "국립생물자원관 종 정보 API – 옛 ktsn 120000001975", "url": "https://species.nibr.go.kr/gwsvc/ktsn/api/v1/public/txgrp-search/list?ktsn=120000001975", "used": "옛 ktsn이 현재 '노랑배박새 Parus major Linnaeus, 1758'로 표시됨을 확인"},
-    {"title": "국립생물자원관 종 설명 API – 옛 ktsn 120000001975 개요(한반도생물자원포털 2010)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001975", "used": "몸길이 14cm·형태(연둣빛 등, 흰 아랫면, 검은 세로줄)·전국 텃새·4월 산란·연 2회 번식 (박새가 Parus major로 다뤄지던 때의 설명)"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 옛 ktsn 120000001975(생태·국내분포)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001975&pageNo=1&pageSize=50", "used": "국내분포 전국, 3월부터 울음, 번식 생태"},
-    {"title": "IOC World Bird List v15.2 – Waxwings and their allies, tits & penduline tits", "url": "https://www.worldbirdnames.org/new/bow/waxwings/", "used": "영명 Cinereous Tit, P. minor 병합, 한반도 아종"},
-    {"title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv", "used": "Parus cinereus 주석(병합 근거)·P. c. minor와 P. c. dageletensis 분포"},
-    {"title": "Wikipedia – Cinereous tit", "url": "https://en.wikipedia.org/wiki/Cinereous_tit", "used": "IOC 14.2판 병합(각주 Gill et al. 2024), 흰 날개띠, 암컷의 가는 세로줄, 어린새의 녹색·노란 기"},
-    {"title": "The Avifauna of Hong Kong (HKBWS) – Japanese Tit", "url": "https://avifauna.hkbws.org.hk/species/0270/034800", "used": "P. m. minor의 녹색 윗등과 푸른 기 도는 날개, 흰 날개띠, 수컷 다리 사이 검은 부분, 어린새"},
-    {"title": "국립공원공단 국립공원연구원 보도자료(2020.4.23) – 소백산 박새류 산란, 첫 조사한 2011년 이후 가장 빨라", "url": "https://www.knps.or.kr/front/research/open/pnewsDtl.do?menuNo=8000315&pnewsId=PNEWSM015829", "used": "첫 산란 4월 2일(2020 소백산), 환경부 기후변화 생물지표 100종"},
-    {"title": "정혜진 2012. 박새의 서식지로서 도시녹지의 생물지리학적 접근. 영남대학교 학위논문(ScienceON)", "url": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0012736942&dbt=DIKO", "used": "번식시기 4월~6월 말, 1차·2차 번식"},
-    {"title": "국립수목원 웹진 vol.150 – 다시 올 새들을 기다리며", "url": "https://www.forest.go.kr/kna/webzine/2023/vol_150/s2.html", "used": "박새를 텃새로 적음(보강)"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 쇠박새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001979&pageNo=1&pageSize=50", "used": "유사종 쇠박새"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 진박새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001977&pageNo=1&pageSize=50", "used": "유사종 진박새"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 박새",
+      "url": "https://species.nibr.go.kr/species-detail/120000155331",
+      "used": "국명·학명 Parus cinereus Vieillot, 1818·분류·보호 등급(nibr_species.json 제공 값). 현 ktsn에는 종 설명 없음"
+    },
+    {
+      "title": "국립생물자원관 종 정보 API – ktsn 120000155331",
+      "url": "https://species.nibr.go.kr/gwsvc/ktsn/api/v1/public/txgrp-search/list?ktsn=120000155331",
+      "used": "현 ktsn이 '박새 Parus cinereus Vieillot, 1818'임을 확인"
+    },
+    {
+      "title": "국립생물자원관 종 정보 API – 옛 ktsn 120000001975",
+      "url": "https://species.nibr.go.kr/gwsvc/ktsn/api/v1/public/txgrp-search/list?ktsn=120000001975",
+      "used": "옛 ktsn이 현재 '노랑배박새 Parus major Linnaeus, 1758'로 표시됨을 확인"
+    },
+    {
+      "title": "국립생물자원관 종 설명 API – 옛 ktsn 120000001975 개요(한반도생물자원포털 2010)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001975",
+      "used": "몸길이 14cm·형태(연둣빛 등, 흰 아랫면, 검은 세로줄)·전국 텃새·4월 산란·연 2회 번식 (박새가 Parus major로 다뤄지던 때의 설명)"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 옛 ktsn 120000001975(생태·국내분포)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001975&pageNo=1&pageSize=50",
+      "used": "국내분포 전국, 3월부터 울음, 번식 생태"
+    },
+    {
+      "title": "IOC World Bird List v15.2 – Waxwings and their allies, tits & penduline tits",
+      "url": "https://www.worldbirdnames.org/new/bow/waxwings/",
+      "used": "영명 Cinereous Tit, P. minor 병합, 한반도 아종"
+    },
+    {
+      "title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv",
+      "used": "Parus cinereus 주석(병합 근거)·P. c. minor와 P. c. dageletensis 분포"
+    },
+    {
+      "title": "Wikipedia – Cinereous tit",
+      "url": "https://en.wikipedia.org/wiki/Cinereous_tit",
+      "used": "IOC 14.2판 병합(각주 Gill et al. 2024), 흰 날개띠, 암컷의 가는 세로줄, 어린새의 녹색·노란 기"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Japanese Tit",
+      "url": "https://avifauna.hkbws.org.hk/species/0270/034800",
+      "used": "P. m. minor의 녹색 윗등과 푸른 기 도는 날개, 흰 날개띠, 수컷 다리 사이 검은 부분, 어린새"
+    },
+    {
+      "title": "국립공원공단 국립공원연구원 보도자료(2020.4.23) – 소백산 박새류 산란, 첫 조사한 2011년 이후 가장 빨라",
+      "url": "https://www.knps.or.kr/front/research/open/pnewsDtl.do?menuNo=8000315&pnewsId=PNEWSM015829",
+      "used": "첫 산란 4월 2일(2020 소백산), 환경부 기후변화 생물지표 100종"
+    },
+    {
+      "title": "정혜진 2012. 박새의 서식지로서 도시녹지의 생물지리학적 접근. 영남대학교 학위논문(ScienceON)",
+      "url": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0012736942&dbt=DIKO",
+      "used": "번식시기 4월~6월 말, 1차·2차 번식"
+    },
+    {
+      "title": "국립수목원 웹진 vol.150 – 다시 올 새들을 기다리며",
+      "url": "https://www.forest.go.kr/kna/webzine/2023/vol_150/s2.html",
+      "used": "박새를 텃새로 적음(보강)"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 쇠박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001979&pageNo=1&pageSize=50",
+      "used": "유사종 쇠박새"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 진박새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001977&pageNo=1&pageSize=50",
+      "used": "유사종 진박새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "wingspan: 날개편길이 출처 미확인",
     "length·status·형태: 현 ktsn(120000155331)에 국립생물자원관 설명이 없어, 현재 '노랑배박새 Parus major'로 표시된 옛 ktsn 120000001975 아래 남은 2010년 설명을 씀. 내용(연둣빛 등, 흰 아랫면, 전국 텃새)은 국내 박새와 일치하나 국립생물자원관의 정리 상태 확인 필요",
     "art: 부리·다리·홍채 색은 확인한 출처에 없어 적지 않음",
     "breed: 7월 포함 여부가 출처마다 다름(학위논문 4월~6월 말 기준으로 둠). 2차 번식 육추가 7월까지 이어지는지 국내 공식 출처 미확인"
-  ]
+  ],
+  "occurrence": {
+    "code": "R1, W1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Parus minor",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

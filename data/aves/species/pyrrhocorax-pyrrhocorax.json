@@ -7,12 +7,12 @@
   "ktsn": 120000001962,
   "origin": "nibr",
   "length": "39–40cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만 · 사진·표본 없이 관찰 기록만 있음",
   "habitat": "낭떠러지의 굴, 바위틈(둥지 자리)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "갈까마귀보다 조금 큰 새로, 20마리가 넘는 무리를 지어 날아다니는 모습을 볼 수 있다. 낭떠러지의 굴이나 바위틈에 나뭇가지로 둥지를 짓고 알 3개를 낳는다. 무척추동물을 먹으며, 영국, 아일랜드, 스페인, 지중해 연안, 서아시아, 중앙아시아에 분포한다.",
   "points": [
@@ -64,7 +64,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "3",
+    "bk": "Pyrrhocorax pyrrhocorax",
+    "rarity": 9
+  },
+  "breeding": "번식 기록 없음"
 }

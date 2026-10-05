@@ -7,7 +7,7 @@
   "ktsn": 120000001480,
   "origin": "nibr",
   "length": "약 69cm",
-  "status": "겨울철새",
+  "status": "나그네새·겨울철새, 해마다 수천 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "남해안 연안(월동), 해안 호소와 물가 초지(번식지)",
   "protect": [],
   "months": {
@@ -72,9 +72,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 겨울깃 설명이 없어 그림 정보는 여름깃 기준이다"
-  ]
+  ],
+  "occurrence": {
+    "code": "P3, W3, SV2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Gavia pacifica",
+    "rarity": 3.0
+  },
+  "breeding": "번식 기록 없음"
 }

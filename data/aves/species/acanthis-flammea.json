@@ -7,7 +7,7 @@
   "ktsn": 120000528859,
   "origin": "nibr",
   "length": "약 13cm",
-  "status": "흔한 겨울철새",
+  "status": "겨울철새, 해마다 수십 마리",
   "habitat": "초원 지대, 관목 지대",
   "protect": [],
   "months": {
@@ -15,7 +15,7 @@
     "breed": [],
     "note": "해마다 불규칙하게 찾아오며, 번식지에서는 4~6월에 알을 5~6개 낳는다."
   },
-  "summary": "초원과 관목 지대에 사는 흔한 겨울새로, 해마다 찾아오는 정도가 불규칙하다. 이동할 때는 수십 마리씩 무리를 짓고, 그 뒤에는 작은 무리로 나뉘어 겨울을 난다. 자작나무류 씨앗과 석죽과 식물 열매를 즐겨 먹고 딱정벌레도 잡아먹는다. 전국에서 볼 수 있으며, 국외에서는 유라시아와 북아메리카, 아프리카 서북부에 분포한다.",
+  "summary": "초원과 관목 지대에 사는 드문 겨울새로, 해마다 찾아오는 정도가 불규칙하다. 이동할 때는 수십 마리씩 무리를 짓고, 그 뒤에는 작은 무리로 나뉘어 겨울을 난다. 자작나무류 씨앗과 석죽과 식물 열매를 즐겨 먹고 딱정벌레도 잡아먹는다. 전국에서 볼 수 있으며, 국외에서는 유라시아와 북아메리카, 아프리카 서북부에 분포한다.",
   "points": [
     {
       "ko": "광택 있는 어두운 홍색 정수리",
@@ -72,7 +72,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W5",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Acanthis flammea",
+    "rarity": 5.0
+  },
+  "breeding": "번식 기록 없음"
 }

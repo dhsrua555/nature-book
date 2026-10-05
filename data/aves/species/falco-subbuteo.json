@@ -7,28 +7,62 @@
   "ktsn": 120000001575,
   "length": "29–36cm",
   "wingspan": "74–84cm",
-  "status": "여름철새",
+  "status": "나그네새·여름철새, 해마다 수천 마리",
   "habitat": "산림과 숲 가장자리, 도시 숲, 농경지·개활지",
-  "protect": ["멸종위기 야생생물 Ⅱ급"],
+  "protect": [
+    "멸종위기 야생생물 Ⅱ급"
+  ],
   "months": {
     "seen": "TODO",
-    "breed": [5, 6, 7, 8],
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
     "note": "알은 5월 하순~6월 하순에 낳고, 28일 품은 뒤 28~32일 새끼를 기른다. 가을에 남쪽으로 떠나 겨울을 난다."
   },
   "summary": "여름에 찾아와 번식하는 날렵한 매류로, 멸종위기 야생생물 Ⅱ급이다. 길고 뾰족한 날개로 빠르게 날며 잠자리 같은 큰 곤충이나 제비 같은 작은 새를 공중에서 잡는다. 스스로 둥지를 짓지 않고 까치 같은 다른 새의 묵은 둥지에 알을 낳기 때문에, 까치둥지가 없어지면 번식에 어려움을 겪는다.",
   "points": [
-    {"ko": "어두운 청회색 윗면", "en": "dark slate-grey upperparts"},
-    {"ko": "길고 가는 뾰족한 날개", "en": "long, narrow, pointed wings"},
-    {"ko": "비교적 짧은 꼬리", "en": "relatively short tail"},
-    {"ko": "가슴·배의 굵은 검은 세로줄", "en": "heavy dark streaks on breast and belly"},
-    {"ko": "적갈색 허벅지·아래꼬리덮깃", "en": "rufous thighs and undertail coverts"},
-    {"ko": "검은 뺨선과 흰 뺨·멱", "en": "black moustache, white cheeks and throat"}
+    {
+      "ko": "어두운 청회색 윗면",
+      "en": "dark slate-grey upperparts"
+    },
+    {
+      "ko": "길고 가는 뾰족한 날개",
+      "en": "long, narrow, pointed wings"
+    },
+    {
+      "ko": "비교적 짧은 꼬리",
+      "en": "relatively short tail"
+    },
+    {
+      "ko": "가슴·배의 굵은 검은 세로줄",
+      "en": "heavy dark streaks on breast and belly"
+    },
+    {
+      "ko": "적갈색 허벅지·아래꼬리덮깃",
+      "en": "rufous thighs and undertail coverts"
+    },
+    {
+      "ko": "검은 뺨선과 흰 뺨·멱",
+      "en": "black moustache, white cheeks and throat"
+    }
   ],
-  "sexes": {"alike": true, "text": "암수 같은 색이다."},
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
   "young": "성조보다 훨씬 갈색을 띠고 윗면 깃 가장자리가 엷어 비늘무늬처럼 보인다. 허벅지와 아래꼬리덮깃은 적갈색이 아니라 담황색 바탕에 줄무늬가 있다.",
   "similar": [
-    {"ko": "매", "how": "몸이 더 크고 다부지며, 아랫면에 세로줄이 아니라 촘촘한 가로줄이 있고, 새호리기처럼 무늬 없는 적갈색 허벅지·아래꼬리덮깃이 없다."},
-    {"ko": "황조롱이", "how": "날개가 덜 뾰족하고 꼬리가 더 길다. 등이 적갈색이며 허벅지에 적갈색 바지 같은 깃이 없고, 공중에서 정지비행을 자주 한다."}
+    {
+      "ko": "매",
+      "how": "몸이 더 크고 다부지며, 아랫면에 세로줄이 아니라 촘촘한 가로줄이 있고, 새호리기처럼 무늬 없는 적갈색 허벅지·아래꼬리덮깃이 없다."
+    },
+    {
+      "ko": "황조롱이",
+      "how": "날개가 덜 뾰족하고 꼬리가 더 길다. 등이 적갈색이며 허벅지에 적갈색 바지 같은 깃이 없고, 공중에서 정지비행을 자주 한다."
+    }
   ],
   "art": {
     "subject": "Eurasian Hobby (Falco subbuteo subbuteo), adult: dark slate-grey upperparts with a blackish crown and nape; a narrow, tapered black moustachial stripe dropping below the eye, contrasting sharply with white cheeks, an unstreaked white throat and a white half-collar on the neck sides; whitish underparts boldly streaked black on the breast and belly; unstreaked rufous-red thighs ('trousers'), vent and undertail coverts; dark eye with a yellow eye-ring, black bill with a yellow base, yellow cere, yellow legs and feet. Long, narrow, sharply pointed sickle-shaped wings and a relatively short, square-ended tail (shorter than a kestrel's).",
@@ -41,22 +75,74 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 새호리기", "url": "https://species.nibr.go.kr/species-detail/120000001575", "used": "국명·학명·분류·보호 등급(멸종위기 Ⅱ급)"},
-    {"title": "국립생물자원관 종 설명(API) – 새호리기", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001575", "used": "여름철새, 윗면 색, 아랫배·아래꼬리덮깃 붉은색, 급강하 사냥, 까치둥지 소실 위협"},
-    {"title": "IOC World Bird List v15.2 master list", "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx", "used": "영문명 Eurasian Hobby, 아종 subbuteo 분포(Europe to Japan)"},
-    {"title": "Wikipedia – Eurasian hobby", "url": "https://en.wikipedia.org/wiki/Eurasian_hobby", "used": "몸길이·날개 편 길이, 성조·어린새 깃 색, 암수 같음, 긴 날개와 각진 꼬리, 먹이"},
-    {"title": "Wikipedia – Hobby (bird)", "url": "https://en.wikipedia.org/wiki/Hobby_(bird)", "used": "길고 가는 날개(long, narrow wings)"},
-    {"title": "Birds of the World – Eurasian Hobby (introduction)", "url": "https://birdsoftheworld.org/bow/species/eurhob/cur/introduction", "used": "청회색 윗면, 흰 뺨과 검은 뺨선, 가슴·배의 굵은 세로줄, 붉은 허벅지·아래꼬리덮깃"},
-    {"title": "RSPB – Hobby", "url": "https://www.rspb.org.uk/birds-and-wildlife/hobby", "used": "황조롱이보다 짧은 꼬리, 뾰족한 날개, 눈테·부리·다리 색, 어린새는 붉은 바지 없음"},
-    {"title": "HKBWS Avifauna – Eurasian Hobby", "url": "https://avifauna.hkbws.org.hk/species/0220/029900", "used": "흰 반목테(half-collar), 어린새 깃 가장자리·옅은 적갈색"},
-    {"title": "디지털동작문화대전 – 새호리기", "url": "https://dongjak.grandculture.net/dongjak/toc/GC08200329", "used": "산란기(5월 하순~6월 하순), 포란·육추 기간, 다른 새 둥지 이용, 가을에 남하"},
-    {"title": "디지털철원문화대전 – 새호리기", "url": "https://cheorwon.grandculture.net/cheorwon/toc/GC07800331", "used": "서식지(산림, 도시의 숲, 개활지, 농경지), 먹이"},
-    {"title": "Birds Korea – ROK's Breeding Bird Species: the Winners and Losers (2016)", "url": "https://www.birdskoreablog.org/?p=18224", "used": "국내 번식 확인 경과(1981 첫 여름 체류, 1990년대 서울 번식)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 새호리기",
+      "url": "https://species.nibr.go.kr/species-detail/120000001575",
+      "used": "국명·학명·분류·보호 등급(멸종위기 Ⅱ급)"
+    },
+    {
+      "title": "국립생물자원관 종 설명(API) – 새호리기",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001575",
+      "used": "여름철새, 윗면 색, 아랫배·아래꼬리덮깃 붉은색, 급강하 사냥, 까치둥지 소실 위협"
+    },
+    {
+      "title": "IOC World Bird List v15.2 master list",
+      "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx",
+      "used": "영문명 Eurasian Hobby, 아종 subbuteo 분포(Europe to Japan)"
+    },
+    {
+      "title": "Wikipedia – Eurasian hobby",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_hobby",
+      "used": "몸길이·날개 편 길이, 성조·어린새 깃 색, 암수 같음, 긴 날개와 각진 꼬리, 먹이"
+    },
+    {
+      "title": "Wikipedia – Hobby (bird)",
+      "url": "https://en.wikipedia.org/wiki/Hobby_(bird)",
+      "used": "길고 가는 날개(long, narrow wings)"
+    },
+    {
+      "title": "Birds of the World – Eurasian Hobby (introduction)",
+      "url": "https://birdsoftheworld.org/bow/species/eurhob/cur/introduction",
+      "used": "청회색 윗면, 흰 뺨과 검은 뺨선, 가슴·배의 굵은 세로줄, 붉은 허벅지·아래꼬리덮깃"
+    },
+    {
+      "title": "RSPB – Hobby",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/hobby",
+      "used": "황조롱이보다 짧은 꼬리, 뾰족한 날개, 눈테·부리·다리 색, 어린새는 붉은 바지 없음"
+    },
+    {
+      "title": "HKBWS Avifauna – Eurasian Hobby",
+      "url": "https://avifauna.hkbws.org.hk/species/0220/029900",
+      "used": "흰 반목테(half-collar), 어린새 깃 가장자리·옅은 적갈색"
+    },
+    {
+      "title": "디지털동작문화대전 – 새호리기",
+      "url": "https://dongjak.grandculture.net/dongjak/toc/GC08200329",
+      "used": "산란기(5월 하순~6월 하순), 포란·육추 기간, 다른 새 둥지 이용, 가을에 남하"
+    },
+    {
+      "title": "디지털철원문화대전 – 새호리기",
+      "url": "https://cheorwon.grandculture.net/cheorwon/toc/GC07800331",
+      "used": "서식지(산림, 도시의 숲, 개활지, 농경지), 먹이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "months.seen: 국내 도래·떠나는 달을 출처로 확인하지 못함(국립생물자원관은 '여름철새'라고만 적음)",
     "months.breed 5–8은 디지털동작문화대전의 산란기(5월 하순~6월 하순)에 포란 28일·육추 28~32일을 더해 계산한 값이다. 국내 문헌의 번식기 표기 확인 필요",
     "몸길이: 국립생물자원관 값이 없어 영문 위키 29–36cm를 씀(국내 지역문화대전은 31–35cm, 33–35cm)",
     "'비교적 짧은 꼬리'는 황조롱이와 견준 상대 표현(RSPB). HKBWS는 'moderately long tail'로 적어 그림에서 꼬리를 지나치게 짧게 그리지 않도록 주의"
-  ]
+  ],
+  "occurrence": {
+    "code": "P3, S3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Falco subbuteo",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

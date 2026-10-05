@@ -260,10 +260,19 @@ function todayParts() {
   const kst = new Date(Date.now() + 9 * 3600e3);
   return { y: kst.getUTCFullYear(), m: kst.getUTCMonth() + 1, d: kst.getUTCDate(), w: kst.getUTCDay() };
 }
+/* 이번 달에 국내에서 볼 법한가: 볼 수 있는 달을 알면 그것을, 모르면 새와 생명의 터 계절 표시
+   (R 한 해 내내, S 4–9월, W 10–3월, P 3–5월·8–11월)를 쓴다. 고를 때만 쓰고 화면에 보이지는 않는다. */
+const SEASON_MONTHS = { R: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], S: [4, 5, 6, 7, 8, 9], W: [10, 11, 12, 1, 2, 3], P: [3, 4, 5, 8, 9, 10, 11] };
+function inSeason(s, m) {
+  if (Array.isArray(s.seen)) return s.seen.includes(m);
+  const regular = String(s.occ || "").split(",").map(x => x.trim().match(/^([RSPW])\d/)).filter(Boolean).map(x => x[1]);
+  return regular.some(k => SEASON_MONTHS[k].includes(m));
+}
 function todayPool() {
   const { m } = todayParts();
-  const pool = S.species.filter(s => s.text && (!Array.isArray(s.seen) || s.seen.includes(m)));
-  return pool.length ? pool : S.species;
+  // 해설이 있고, 해마다 찾아오는(개체 수 범위가 있는) 종 가운데 이번 달에 볼 법한 종
+  const pool = S.species.filter(s => s.text && s.rarity <= 5 && inSeason(s, m));
+  return pool.length ? pool : S.species.filter(s => s.text);
 }
 function weighted(pool, rnd) {
   const w = pool.map(s => (s.img?.scene ? 6 : 1));
@@ -346,8 +355,9 @@ function facts(d, known = false) {
       if (!v.length) return "";
       v = v.map(x => `<span class="stamp">${esc(x)}</span>`).join(" ");
     } else {
-      if ((f.optional || known) && isTodo(v)) return "";
+      if ((f.optional || known) && isTodo(v) && !(f.key === "status" && d.occurrence?.note)) return "";
       v = val(v);
+      if (f.key === "status" && d.occurrence?.note) v += ` <span class="aside">(${esc(d.occurrence.note)})</span>`;
     }
     return `<dt>${esc(f.label)}</dt><dd>${v}</dd>`;
   }).join("");
@@ -543,6 +553,9 @@ const R = {
       <h2 class="pg-title">출처와 판권</h2>
       <p>분류와 국명, 학명, 보호 표시는 <a href="${esc(b.basis.url)}" target="_blank" rel="noopener">${esc(b.basis.name)}</a>(${esc(b.basis.edition)})을 따랐다.
         영문명은 IOC World Bird List(v15.2)에서 학명으로 찾아 붙였다.</p>
+      <p>국내 상태(텃새·철새 구분, 해마다 찾아오는 개체 수 범위, 국내 번식 여부)는 남한에서 사진·녹음·표본으로 확인된 기록을 바탕으로 한
+        <a href="https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf" target="_blank" rel="noopener">새와 생명의 터(Birds Korea) 조류목록 2022</a>를 따랐다.
+        이 목록에 없는 종은 그렇다고 밝혀 두었다.</p>
       <p>${b.counts.hand}종은 여러 문헌을 견주어 따로 조사했고, 나머지 종의 해설은 국립생물자원관 종 설명을 근거로 다시 썼다.
         근거에 없는 값은 지어내지 않고 <span class="todo">조사 중</span>으로 비워 두었다. 종마다 참고한 곳은 그 종의 해설 끝에 적었다.</p>
       <p>도판과 동정 도해는 생성형 이미지 모델로 그린 뒤 사람이 살펴 고른 그림이다. 동정 도해의 글자는 그림에 넣지 않고 해설 자료에서 얹었다.</p>

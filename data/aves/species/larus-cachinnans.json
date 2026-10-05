@@ -7,7 +7,7 @@
   "ktsn": 120000086214,
   "origin": "nibr",
   "length": "TODO",
-  "status": "흔하지 않은 겨울철새",
+  "status": "나그네새 수만 마리 · 겨울철새 수천 마리 · 여름철새 수백 마리",
   "habitat": "강, 하구, 해안, 간척지",
   "protect": [],
   "months": {
@@ -22,7 +22,7 @@
     "breed": [],
     "note": "10월부터 이듬해 3월 사이에 관찰된다."
   },
-  "summary": "10월부터 이듬해 3월까지 강과 하구, 해안, 간척지에서 볼 수 있는 흔하지 않은 겨울철새로, 주로 재갈매기를 비롯한 다른 갈매기 무리에 섞여 드물게 눈에 띈다. 물고기와 게, 물속 곤충 등을 먹는다.",
+  "summary": "10월부터 이듬해 3월까지 강과 하구, 해안, 간척지에서 볼 수 있는 겨울철새로, 해마다 수천 마리가 겨울을 나고 이동 시기에는 수만 마리가 지나간다. 주로 재갈매기를 비롯한 다른 갈매기 무리에 섞여 지낸다. 물고기와 게, 물속 곤충 등을 먹는다.",
   "points": [
     {
       "ko": "갈색 줄무늬 없는 흰 머리와 목",
@@ -80,7 +80,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P2,W3, S4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Larus mongolicus",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

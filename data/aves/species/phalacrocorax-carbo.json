@@ -7,15 +7,28 @@
   "ktsn": 120000001565,
   "origin": "nibr",
   "length": "약 82cm",
-  "status": "매우 흔한 겨울철새, 드문 텃새",
+  "status": "여름철새 10만 마리 이상 · 텃새 수만 마리",
   "habitat": "해안, 하구, 강, 호수",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO",
-    "note": "주로 겨울에 머물고, 내륙 일부에서 드물게 번식한다."
+    "note": "한 해 내내 머물며, 내륙 일부에서 번식한다."
   },
-  "summary": "국내에 매우 흔히 찾아오는 겨울철새로 해안, 하구, 강, 호수에서 겨울을 나며, 드물게 텃새로 남아 내륙 몇몇 곳에서 번식하기도 한다. 호수나 강, 바닷가에서 물속으로 잠수해 먹이를 잡는다. 이동할 때는 기러기처럼 일정한 대형을 짜서 무리 지어 난다. 국외에서는 유라시아, 아프리카, 오스트레일리아, 북아메리카 등 넓은 지역에 산다.",
+  "summary": "국내에 해마다 10만 마리 이상 찾아오는 매우 흔한 여름철새이자 수만 마리가 사는 텃새로, 해안, 하구, 강, 호수에서 지내며 내륙 몇몇 곳에서 번식하기도 한다. 호수나 강, 바닷가에서 물속으로 잠수해 먹이를 잡는다. 이동할 때는 기러기처럼 일정한 대형을 짜서 무리 지어 난다. 국외에서는 유라시아, 아프리카, 오스트레일리아, 북아메리카 등 넓은 지역에 산다.",
   "points": [
     {
       "ko": "노란 부리 기부",
@@ -69,7 +82,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "S1, R2",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Phalacrocorax carbo",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

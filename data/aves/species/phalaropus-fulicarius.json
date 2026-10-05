@@ -7,12 +7,12 @@
   "ktsn": 120000001751,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "바다, 궂은 날씨에는 해안가",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "겨울을 바다에서 나는 도요새로, 날씨가 궂으면 해안가에서도 보인다. 아이슬란드 서부와 시베리아에서 번식하고 아프리카와 남아메리카에서 겨울을 나며, 유럽은 이동 중에 거쳐 가는 곳이다.",
   "points": [
@@ -76,10 +76,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 견줄 종을 '붉은목깝작도요(red-necked phalaropes)'로 적어, 영어 이름이 같은 지느러미발도요로 옮겼다.",
     "원문이 유럽에서의 모습만 적어 국내 상태와 몸길이가 없다."
-  ]
+  ],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Phalaropus fulicarius",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

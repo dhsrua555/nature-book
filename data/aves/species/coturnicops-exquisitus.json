@@ -7,14 +7,14 @@
   "ktsn": 120000001629,
   "origin": "nibr",
   "length": "약 15cm",
-  "status": "드문 나그네새",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "소택지, 논, 습지 풀숲, 호소",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "우리나라에 드물게 들르는 나그네새로, 소택지, 논, 습지의 풀숲, 호소 등에서 산다. 뜸부기 무리 가운데 가장 작은 편에 든다. 풀밭이나 풀 사이 땅 위에 물풀 잎으로 접시 모양 둥지를 짓고 알을 6개 낳으며, 알은 크림빛 갈색 바탕에 적갈색 반점이 흩어져 있다. 일본, 중국 동부, 한카호, 바이칼, 우수리 등지에 분포하며, 세계적으로 희귀한 종으로 알려져 있다.",
+  "summary": "우리나라에는 지금까지 기록이 10건이 안 되는 길잃은새로, 소택지, 논, 습지의 풀숲, 호소 등에서 산다. 뜸부기 무리 가운데 가장 작은 편에 든다. 풀밭이나 풀 사이 땅 위에 물풀 잎으로 접시 모양 둥지를 짓고 알을 6개 낳으며, 알은 크림빛 갈색 바탕에 적갈색 반점이 흩어져 있다. 일본, 중국 동부, 한카호, 바이칼, 우수리 등지에 분포하며, 세계적으로 희귀한 종으로 알려져 있다.",
   "points": [
     {
       "ko": "암갈색 부리",
@@ -71,7 +71,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Coturnicops exquisitus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

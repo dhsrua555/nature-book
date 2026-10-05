@@ -7,11 +7,24 @@
   "ktsn": 120000002086,
   "origin": "nibr",
   "length": "약 24cm",
-  "status": "흔한 여름철새, 중부 이남에서는 겨울철새",
+  "status": "나그네새 수만 마리 · 겨울철새 수천 마리 · 텃새 수천 마리",
   "habitat": "나무 구멍, 건물 지붕과 틈, 돌담 틈(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       3,
       4,
@@ -21,7 +34,7 @@
     ],
     "note": "알은 3월 하순~7월경에 낳는다."
   },
-  "summary": "우리나라 전역에서 번식하는 흔한 여름새이며, 중부 이남에서는 겨울을 나기도 한다. 나무 구멍, 건물 지붕이나 틈, 돌담 틈, 딱따구리가 쓰던 둥지 등에 둥지를 틀고 3월 하순~7월경에 알을 4~6개 낳는다. 번식기에는 암수가 함께 지내고 그 밖의 때에는 대개 무리를 지으며, 무엇이든 먹는 잡식성이다. 유라시아 대륙 동부와 일본 등지에서 번식한다.",
+  "summary": "우리나라 전역에서 번식하는 텃새이자 해마다 수만 마리가 지나가는 흔한 나그네새이며, 중부 이남에서는 겨울을 나기도 한다. 나무 구멍, 건물 지붕이나 틈, 돌담 틈, 딱따구리가 쓰던 둥지 등에 둥지를 틀고 3월 하순~7월경에 알을 4~6개 낳는다. 번식기에는 암수가 함께 지내고 그 밖의 때에는 대개 무리를 지으며, 무엇이든 먹는 잡식성이다. 유라시아 대륙 동부와 일본 등지에서 번식한다.",
   "points": [
     {
       "ko": "녹색 광택이 도는 검은 머리와 뒷목",
@@ -74,7 +87,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Spodiopsar cineraceus)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P2, W3, R3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Spodiopsar cineraceus",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

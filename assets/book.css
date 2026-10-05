@@ -318,6 +318,7 @@ kbd { font-family: var(--sans); font-size: .9em; font-weight: 600; border: 1px s
 }
 .facts dt { color: var(--label); white-space: nowrap; font-weight: 600; }
 .facts dd { margin: 0; }
+.facts .aside { color: var(--fade); font-size: .9em; }
 .season h3 { margin-top: 1em; }
 .cal { display: grid; grid-template-columns: repeat(12, 1fr); gap: 3px; }
 .mo { display: flex; flex-direction: column; align-items: center; gap: .2em; }

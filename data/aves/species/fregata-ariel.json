@@ -7,12 +7,12 @@
   "ktsn": 120000001553,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "열대 대양, 섬의 나무(둥지)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "열대 대양에 사는 큰 바닷새로, 가끔 우리나라 바다에도 나타난다. 낮에는 하늘을 날다가 빠르게 내리꽂혀 파도 사이로 튀어 오르는 물고기를 잡고, 다른 바닷새를 괴롭혀 토해 낸 먹이를 가로채기도 한다. 때로는 배를 따라다니며, 번식기가 아니면 내륙에서는 보기 어렵다. 섬의 나무에 나뭇가지로 엉성한 접시 모양 둥지를 짓고, 주로 물고기를 먹는다.",
   "points": [
@@ -72,10 +72,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 몸길이를 '1m 이상'이라 하나 이 종(작은 군함조류)으로서는 지나치게 커 보여 length 를 TODO로 둠",
     "원문의 '가슴은 유백색'이 암컷 설명에 이어 나와 암컷 특징으로 보았으나 확인 필요"
-  ]
+  ],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Fregata ariel",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

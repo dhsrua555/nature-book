@@ -7,22 +7,51 @@
   "ktsn": 120000528882,
   "length": "약 15cm",
   "wingspan": "TODO",
-  "status": "나그네새, 드문 여름철새",
+  "status": "여름철새 수만 마리 · 나그네새 수천 마리",
   "habitat": "높은 산의 관목 숲과 하층이 빽빽한 숲, 계곡 주변; 이동기에는 섬과 해안의 숲 덤불",
   "protect": [],
   "months": {
-    "seen": [4, 5, 6, 7, 8, 9],
-    "breed": [5, 6, 7],
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
     "note": "4월부터 울기 시작하고, 봄 이동 무리는 4–5월에 많이 보인다. 5–7월에 산란한다. 가을 이동기에는 섬에서 드물게 보인다."
   },
-  "summary": "수컷은 윗면이 어두운 파란색, 아랫면이 흰색인 작은 솔딱새과 새다. 봄과 가을에 드물지 않게 지나가는 나그네새이고, 일부는 높은 산의 덤불 숲에서 드물게 번식한다. 숲 바닥을 뛰어다니며 꼬리를 자주 떨고, 빽빽한 덤불 속에 숨어 지낸다. 번식기에는 계곡 가까이에서 트릴이 섞인 소리로 울며, 땅 위나 나무뿌리 밑에 둥지를 튼다.",
+  "summary": "수컷은 윗면이 어두운 파란색, 아랫면이 흰색인 작은 솔딱새과 새다. 봄과 가을에 드물지 않게 지나가는 나그네새이고, 해마다 수만 마리가 찾아와 높은 산의 덤불 숲에서 번식하는 여름철새이기도 하다. 숲 바닥을 뛰어다니며 꼬리를 자주 떨고, 빽빽한 덤불 속에 숨어 지낸다. 번식기에는 계곡 가까이에서 트릴이 섞인 소리로 울며, 땅 위나 나무뿌리 밑에 둥지를 튼다.",
   "points": [
-    {"ko": "어두운 파란색 윗면(수컷)", "en": "dark blue upperparts (male)"},
-    {"ko": "눈앞~가슴 옆 검은 띠", "en": "black band from lores to breast sides"},
-    {"ko": "흰 멱과 아랫면", "en": "white throat and underparts"},
-    {"ko": "길고 연분홍빛 다리", "en": "long pale pink legs"},
-    {"ko": "꼬리를 자주 떠는 습성", "en": "frequently shivers its tail"},
-    {"ko": "암컷의 푸른빛 허리·꼬리", "en": "female: bluish rump and tail"}
+    {
+      "ko": "어두운 파란색 윗면(수컷)",
+      "en": "dark blue upperparts (male)"
+    },
+    {
+      "ko": "눈앞~가슴 옆 검은 띠",
+      "en": "black band from lores to breast sides"
+    },
+    {
+      "ko": "흰 멱과 아랫면",
+      "en": "white throat and underparts"
+    },
+    {
+      "ko": "길고 연분홍빛 다리",
+      "en": "long pale pink legs"
+    },
+    {
+      "ko": "꼬리를 자주 떠는 습성",
+      "en": "frequently shivers its tail"
+    },
+    {
+      "ko": "암컷의 푸른빛 허리·꼬리",
+      "en": "female: bluish rump and tail"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -31,8 +60,14 @@
   },
   "young": "첫 겨울 수컷은 윗면이 회갈색이고 허리·위꼬리덮깃·꼬리·날개덮깃·어깨깃에 파란색이 조금씩 섞인다. 멱과 가슴은 황갈색을 띠고 흐린 비늘무늬가 있다.",
   "similar": [
-    {"ko": "큰유리새", "how": "큰유리새 수컷은 얼굴·멱·윗가슴이 검고(국내 아종은 검푸른빛) 흰 배와 경계가 뚜렷하며, 바깥 꼬리깃 기부가 희고 다리가 가늘고 어두운 갈색이다. 쇠유리새 수컷은 턱밑부터 아랫면 전체가 희고 검은색은 눈앞에서 목 옆·가슴 옆으로 띠처럼만 이어지며, 꼬리에 흰색이 없고 다리가 연분홍빛이다. 암컷은 허리·꼬리가 푸른빛(쇠유리새)인지 적갈색(큰유리새)인지, 다리가 분홍빛인지 어두운지로 가른다. 쇠유리새는 덤불 속 땅 위를 뛰어다니고, 큰유리새는 나무 위 높은 곳에 앉으며 땅에 거의 내려오지 않는다."},
-    {"ko": "유리딱새", "how": "수컷은 흰 눈썹선이 있고 옆구리가 주황색이며, 암컷도 옆구리가 주황색이다. 쇠유리새는 암수 모두 옆구리에 주황색이 없다."}
+    {
+      "ko": "큰유리새",
+      "how": "큰유리새 수컷은 얼굴·멱·윗가슴이 검고(국내 아종은 검푸른빛) 흰 배와 경계가 뚜렷하며, 바깥 꼬리깃 기부가 희고 다리가 가늘고 어두운 갈색이다. 쇠유리새 수컷은 턱밑부터 아랫면 전체가 희고 검은색은 눈앞에서 목 옆·가슴 옆으로 띠처럼만 이어지며, 꼬리에 흰색이 없고 다리가 연분홍빛이다. 암컷은 허리·꼬리가 푸른빛(쇠유리새)인지 적갈색(큰유리새)인지, 다리가 분홍빛인지 어두운지로 가른다. 쇠유리새는 덤불 속 땅 위를 뛰어다니고, 큰유리새는 나무 위 높은 곳에 앉으며 땅에 거의 내려오지 않는다."
+    },
+    {
+      "ko": "유리딱새",
+      "how": "수컷은 흰 눈썹선이 있고 옆구리가 주황색이며, 암컷도 옆구리가 주황색이다. 쇠유리새는 암수 모두 옆구리에 주황색이 없다."
+    }
   ],
   "art": {
     "subject": "Adult male Siberian Blue Robin (Larvivora cyane), a small, upright, ground-dwelling robin about 15 cm long. Entire upperparts from forehead to uppertail coverts dull dark slate-blue; lores black, the black continuing below the eye and down the side of the neck to the sides of the breast as a narrow dark border; chin, throat, breast, belly and undertail coverts clean white; upper flanks dark, lower flanks blue-grey; tail blackish with blue outer edges, no white in the tail; fine black bill; brown eye; long, thin, very pale pinkish-flesh legs.",
@@ -45,29 +80,79 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 쇠유리새", "url": "https://species.nibr.go.kr/species-detail/120000528882", "used": "국명·학명·분류·몸길이·국내 상태·형태·다리 색·산란기"},
-    {"title": "국립생물자원관 종 설명 API – 쇠유리새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528882", "used": "몸길이 15cm쯤, 고산에서 드물게 번식, 봄·가을 나그네새"},
-    {"title": "국립생물자원관 종 설명 콘텐츠 목록(API) – 쇠유리새 (한국의새소리 2010, 환경부 한국의야생동·식물 자료)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?ktsn=120000528882&stts=Y&srchRelKtsn=Y&pageNo=1&pageSize=100", "used": "4월부터 울기 시작, 산란기 5~7월, 암컷 깃, 큰유리새와 비교, 둥지 위치, 소리"},
-    {"title": "국립생물자원관 철새 종 검색(API) – cyane", "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=cyane&pageCount=1&unitCount=10", "used": "철새 DB 구분 '여름 철새'"},
-    {"title": "Birds Korea 2014 대한민국 조류목록", "url": "http://www.birdskorea.or.kr/Birds/Checklist/BK-CL-Checklist-Apr-2014.shtml", "used": "쇠유리새 P3, S3; 유리딱새 P1, W4"},
-    {"title": "Birds Korea Bird News 2003년 4월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-04.shtml", "used": "4월 봄 이동 기록"},
-    {"title": "Birds Korea Bird News 2008년 5월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2008-05.shtml", "used": "5월 이동 기록(25개체)"},
-    {"title": "Birds Korea Bird News 2007년 6월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-06.shtml", "used": "6월 노래 기록(번식기 체류)"},
-    {"title": "Birds Korea Bird News 2004년 8월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-08.shtml", "used": "8월 어린 개체 기록, 가을 섬에서 매우 드묾"},
-    {"title": "Birds Korea Bird News 2003년 9월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-09.shtml", "used": "9월 기록, 가을 섬에서 극히 드묾"},
-    {"title": "Birds Korea Bird News 2004년 9월", "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-09.shtml", "used": "9월 기록"},
-    {"title": "HKBWS Avifauna – Siberian Blue Robin", "url": "https://avifauna.hkbws.org.hk/species/0400/049000", "used": "수컷 검은 띠·다리 색, 암컷·첫 겨울 수컷 깃, 땅 위 행동과 꼬리 떨기"},
-    {"title": "Birds of the World – Siberian Blue Robin (아종 분포)", "url": "https://birdsoftheworld.org/bow/species/sibrob/cur/introduction", "used": "한국 번식 아종 bochaiensis"},
-    {"title": "Wikipedia – Siberian blue robin", "url": "https://en.wikipedia.org/wiki/Siberian_blue_robin", "used": "IOC 영문명, 하층 식생이 빽빽한 숲에서 번식, 땅에서 먹이 찾음"},
-    {"title": "국립생물자원관 국가생물종목록 – 큰유리새", "url": "https://species.nibr.go.kr/species-detail/120000002145", "used": "비교용 큰유리새 형태·다리 색"},
-    {"title": "HKBWS Avifauna – Blue-and-white Flycatcher", "url": "https://avifauna.hkbws.org.hk/species/0400/048600", "used": "비교용 큰유리새 꼬리 흰 반점, intermedia 수컷 멱 색, 암컷 허리·꼬리 색"},
-    {"title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 유리딱새", "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001180", "used": "유리딱새 눈썹선·옆구리 색"},
-    {"title": "Wikimedia Commons – Larvivora cyane (male).jpg", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Larvivora_cyane_(male).jpg", "used": "그림용 수컷 깃 배치·다리 색 확인(사진)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 쇠유리새",
+      "url": "https://species.nibr.go.kr/species-detail/120000528882",
+      "used": "국명·학명·분류·몸길이·국내 상태·형태·다리 색·산란기"
+    },
+    {
+      "title": "국립생물자원관 종 설명 API – 쇠유리새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000528882",
+      "used": "몸길이 15cm쯤, 고산에서 드물게 번식, 봄·가을 나그네새"
+    },
+    {
+      "title": "국립생물자원관 종 설명 콘텐츠 목록(API) – 쇠유리새 (한국의새소리 2010, 환경부 한국의야생동·식물 자료)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?ktsn=120000528882&stts=Y&srchRelKtsn=Y&pageNo=1&pageSize=100",
+      "used": "4월부터 울기 시작, 산란기 5~7월, 암컷 깃, 큰유리새와 비교, 둥지 위치, 소리"
+    },
+    {
+      "title": "국립생물자원관 철새 종 검색(API) – cyane",
+      "url": "https://species.nibr.go.kr/gwsvc/birds/api/v1/public/species/search?schKeyword=cyane&pageCount=1&unitCount=10",
+      "used": "철새 DB 구분 '여름 철새'"
+    },
+    {
+      "title": "HKBWS Avifauna – Siberian Blue Robin",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/049000",
+      "used": "수컷 검은 띠·다리 색, 암컷·첫 겨울 수컷 깃, 땅 위 행동과 꼬리 떨기"
+    },
+    {
+      "title": "Birds of the World – Siberian Blue Robin (아종 분포)",
+      "url": "https://birdsoftheworld.org/bow/species/sibrob/cur/introduction",
+      "used": "한국 번식 아종 bochaiensis"
+    },
+    {
+      "title": "Wikipedia – Siberian blue robin",
+      "url": "https://en.wikipedia.org/wiki/Siberian_blue_robin",
+      "used": "IOC 영문명, 하층 식생이 빽빽한 숲에서 번식, 땅에서 먹이 찾음"
+    },
+    {
+      "title": "국립생물자원관 국가생물종목록 – 큰유리새",
+      "url": "https://species.nibr.go.kr/species-detail/120000002145",
+      "used": "비교용 큰유리새 형태·다리 색"
+    },
+    {
+      "title": "HKBWS Avifauna – Blue-and-white Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/048600",
+      "used": "비교용 큰유리새 꼬리 흰 반점, intermedia 수컷 멱 색, 암컷 허리·꼬리 색"
+    },
+    {
+      "title": "국가생물종지식정보시스템(국립수목원) 조류도감 – 유리딱새",
+      "url": "https://www.nature.go.kr/kbi/brbst/pilbk/selectBridPilbkDtl.do?anmlSpecsId=A000001180",
+      "used": "유리딱새 눈썹선·옆구리 색"
+    },
+    {
+      "title": "Wikimedia Commons – Larvivora cyane (male).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Larvivora_cyane_(male).jpg",
+      "used": "그림용 수컷 깃 배치·다리 색 확인(사진)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "wingspan: 공식·학술 출처에서 날개편길이를 찾지 못함",
     "months.seen: 달을 직접 적은 공식 출처가 없어 국립생물자원관(4월부터 울기 시작, 5–7월 산란)과 Birds Korea 월별 관찰 기록(4–10월)을 합쳐 정함. 10월은 기록 1건뿐이라 뺐음. 검토 필요",
     "young: 갓 둥지를 떠난 어린새(유조) 깃 설명은 찾지 못하고 첫 겨울 수컷 설명만 씀",
     "length: 국립생물자원관 출처끼리 15cm쯤(개요)과 14cm(한국의새소리 2010)로 다름. 개요 값을 씀"
-  ]
+  ],
+  "occurrence": {
+    "code": "S2, P3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Larvivora cyane",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

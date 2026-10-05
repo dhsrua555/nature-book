@@ -7,11 +7,24 @@
   "ktsn": 120000002098,
   "origin": "nibr",
   "length": "약 23cm",
-  "status": "나그네새",
+  "status": "여름철새 10만 마리 이상 · 나그네새 수만 마리 · 텃새 수천 마리",
   "habitat": "숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식지에서는 6월경에 알을 낳는다."
   },
@@ -74,7 +87,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "S1, P2, R3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Turdus pallidus",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

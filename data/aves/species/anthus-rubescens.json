@@ -7,7 +7,7 @@
   "ktsn": 120000002183,
   "origin": "nibr",
   "length": "약 16cm",
-  "status": "겨울철새(월동하거나 통과)",
+  "status": "나그네새 수만 마리 · 겨울철새 수천 마리",
   "habitat": "논, 초지, 해안, 하천",
   "protect": [],
   "months": {
@@ -72,7 +72,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P2, W3",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Anthus rubescens",
+    "rarity": 2.0
+  },
+  "breeding": "번식 기록 없음"
 }

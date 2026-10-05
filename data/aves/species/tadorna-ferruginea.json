@@ -7,14 +7,14 @@
   "ktsn": 120000001430,
   "origin": "nibr",
   "length": "64cm",
-  "status": "드문 겨울철새",
+  "status": "겨울철새, 해마다 수천 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "수확이 끝난 논밭, 습지 주변의 트인 수면",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "한강 하류, 김포평야, 서산 간월호, 금강 중류와 그 주변 농경지 등 몇몇 곳에서 적은 수가 겨울을 나는 드문 겨울철새로, 몸집이 큰 오리다. 아침과 저녁에 수확이 끝난 논밭처럼 비교적 마른 곳에서 무리 지어 풀줄기와 낟알을 먹고, 습지 주변의 트인 물에서 쉰다. 유라시아 대륙 중부에서 번식하고 북아프리카, 남아시아, 중국, 한국, 일본에서 겨울을 난다.",
+  "summary": "한강 하류, 김포평야, 서산 간월호, 금강 중류와 그 주변 농경지 등 몇몇 곳에서 해마다 수천 마리가 겨울을 나는 겨울철새로, 몸집이 큰 오리다. 아침과 저녁에 수확이 끝난 논밭처럼 비교적 마른 곳에서 무리 지어 풀줄기와 낟알을 먹고, 습지 주변의 트인 물에서 쉰다. 유라시아 대륙 중부에서 번식하고 북아프리카, 남아시아, 중국, 한국, 일본에서 겨울을 난다.",
   "points": [
     {
       "ko": "검은 부리",
@@ -73,7 +73,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W3, SV2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Tadorna ferruginea",
+    "rarity": 3.0
+  },
+  "breeding": "번식 기록 없음"
 }

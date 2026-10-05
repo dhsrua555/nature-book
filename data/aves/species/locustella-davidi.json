@@ -7,12 +7,12 @@
   "ktsn": 120000528899,
   "origin": "nibr",
   "length": "108–113mm",
-  "status": "TODO",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "숲 가장자리",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "2000년 5월 어청도와 상왕등도 인근 해상에서 성조 3마리가 확인되었다."
   },
   "summary": "주로 숲 가장자리에서 발견되는 작은 새로, 우리나라에서는 함경북도에서 번식한다. 2000년 5월 전라북도 서해안의 어청도와 상왕등도 인근 바다에서 다 자란 새 3마리가 확인된 기록이 있다. 부리 길이는 10.7~11.5mm, 날개 길이는 52.0~54.5mm, 꽁지 길이는 42.5~45.5mm, 부척은 18.6~19.4mm이다.",
@@ -44,7 +44,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Locustella davidi",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

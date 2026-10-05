@@ -7,12 +7,12 @@
   "ktsn": 120000001450,
   "origin": "nibr",
   "length": "50–61cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "트인 습지, 물풀이 무성한 호수, 초지, 해안",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "북극권 숲 가까이의 트인 습지와 물풀이 무성한 호수, 초지에 사는 몸집 큰 잠수성 오리로, 겨울은 해안에서 난다. 먹이 생물이 풍부하고 잠수할 만큼 물이 깊으며 습지 식물이 빽빽한 곳에서, 가장 높은 수위보다 조금 낮은 자리에 둥지를 짓고 암갈색 기가 도는 올리브색 알을 7~9개 낳는다. 무리 지어 날 때 V자를 그리고 최고 시속 116km까지 낼 만큼 빠르며, 평소에는 잘 울지 않지만 구애할 때 수컷이 소리를 낸다. 서스캐처원, 브리티시컬럼비아, 앨버타, 마니토바 남부, 오리건, 유타 북부, 콜로라도, 네브래스카, 미네소타 등지에서 번식하고 북아메리카 해안과 브리티시컬럼비아, 매사추세츠 남부 등지에서 겨울을 난다.",
   "points": [
@@ -73,7 +73,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Aythya valisineria",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

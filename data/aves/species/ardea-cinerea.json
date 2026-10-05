@@ -7,22 +7,58 @@
   "ktsn": 120000001541,
   "length": "약 93cm",
   "wingspan": "155–195cm",
-  "status": "흔한 여름철새이자 흔한 겨울철새",
+  "status": "여름철새 수만 마리 · 텃새 수천 마리",
   "habitat": "논, 하천, 저수지, 연못, 하구·갯벌; 숲의 높은 나무에서 집단번식",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [4, 5, 6, 7],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
     "note": "번식 무리는 2월 하순부터 번식지에 모이고 4월 상순~5월 중순에 알을 낳는다. 번식이 끝나면 상당수가 남쪽으로 떠나지만 겨울에 머무는 개체도 늘고 있어 사철 볼 수 있다."
   },
   "summary": "국내 백로과 새 가운데 가장 큰 종이다. 논·하천·저수지·하구 같은 물가에 홀로 또는 두세 마리씩 꼼짝 않고 서서 물고기, 개구리, 뱀, 들쥐 따위를 노린다. 높은 나무 위에 중대백로 등 다른 백로류와 섞여 집단으로 둥지를 짓는다. 여름철새로 알려졌지만 겨울에 머무는 개체도 많아 사철 볼 수 있다.",
   "points": [
-    {"ko": "흰 머리의 검은 눈썹선과 댕기", "en": "black stripe over the eye ending in a crest"},
-    {"ko": "앞목의 검은 세로줄", "en": "black streaks down the foreneck"},
-    {"ko": "잿빛 등과 날개", "en": "ash-grey upperparts"},
-    {"ko": "날개 어깨의 검은 무늬", "en": "black shoulder patch"},
-    {"ko": "길고 곧은 노란 부리", "en": "long straight yellowish bill"},
-    {"ko": "날 때 목을 S자로 접음", "en": "neck retracted in S-shape in flight"}
+    {
+      "ko": "흰 머리의 검은 눈썹선과 댕기",
+      "en": "black stripe over the eye ending in a crest"
+    },
+    {
+      "ko": "앞목의 검은 세로줄",
+      "en": "black streaks down the foreneck"
+    },
+    {
+      "ko": "잿빛 등과 날개",
+      "en": "ash-grey upperparts"
+    },
+    {
+      "ko": "날개 어깨의 검은 무늬",
+      "en": "black shoulder patch"
+    },
+    {
+      "ko": "길고 곧은 노란 부리",
+      "en": "long straight yellowish bill"
+    },
+    {
+      "ko": "날 때 목을 S자로 접음",
+      "en": "neck retracted in S-shape in flight"
+    }
   ],
   "sexes": {
     "alike": true,
@@ -30,8 +66,14 @@
   },
   "young": "어린새는 어른의 검은 머리줄이 회색이고 흰 얼굴도 연회색을 띤다. 전체적으로 칙칙하며 댕기깃이 짧고 어둡다.",
   "similar": [
-    {"ko": "붉은왜가리", "how": "몸이 조금 작고 전체적으로 더 어둡다. 목이 적갈색이고 양옆으로 검은 줄이 이어지며 정수리가 검다."},
-    {"ko": "재두루미", "how": "멀리서 나는 회색 큰 새로 혼동할 수 있으나, 왜가리는 목을 S자로 접어 움츠리고 날고 두루미류는 목을 곧게 펴고 난다."}
+    {
+      "ko": "붉은왜가리",
+      "how": "몸이 조금 작고 전체적으로 더 어둡다. 목이 적갈색이고 양옆으로 검은 줄이 이어지며 정수리가 검다."
+    },
+    {
+      "ko": "재두루미",
+      "how": "멀리서 나는 회색 큰 새로 혼동할 수 있으나, 왜가리는 목을 S자로 접어 움츠리고 날고 두루미류는 목을 곧게 펴고 난다."
+    }
   ],
   "art": {
     "subject": "Adult Grey Heron of the pale eastern subspecies jouyi: white crown, face and neck; a broad black stripe from above the eye to the nape ending in long, slender black crest plumes; two or three lines of black streaks down the centre of the white foreneck; elongated pale grey plumes at the base of the foreneck and on the scapulars; ash-grey back and wing coverts with a black patch at the bend of the wing; black patches on the sides of the breast and along the flanks, whitish underparts and thighs; long, straight, dagger-shaped yellow bill with yellow bare lores; yellow eye; long yellowish-brown legs.",
@@ -44,17 +86,66 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 왜가리", "url": "https://species.nibr.go.kr/species-detail/120000001541", "used": "국명·학명·분류·몸길이·상태·형태·산란 시기·서식지"},
-    {"title": "한국민족문화대백과사전 – 왜가리 (원병오)", "url": "https://encykorea.aks.ac.kr/Article/E0039193", "used": "국내 최대 백로과, 여름새·일부 월동, 집단번식, 포란·육추 일수, 부리·눈앞·다리 색"},
-    {"title": "Kim & Koo (2009) Nest site selection and reproductive success of herons and egrets in Pyeongtaek heronry, Korea. Waterbirds 32(1)", "url": "https://bioone.org/journals/Waterbirds/volume-32/issue-1/063.032.0113/Nest-Site-Selection-and-Reproductive-Success-of-Herons-and-Egrets/10.1675/063.032.0113.full", "used": "번식지 도착(2월 하순), 번식 후 남쪽 이동 시기"},
-    {"title": "Kim & Koo (2009) Nest site characteristics and reproductive parameters of Grey Herons in Korea. Zoological Studies 48(5)", "url": "https://zoolstud.sinica.edu.tw/Journals/48.5/657.pdf", "used": "평택 집단번식지 도착·포란 시기, 한배 알 수"},
-    {"title": "이두표 외 (2006) 전라남도 내의 백로류 집단번식지 특성에 관한 연구. 한국환경생태학회 학술대회논문집", "url": "https://koreascience.or.kr/article/CFKO200627642577584.pdf", "used": "왜가리·중대백로가 가장 흔한 집단번식 종, 번식지 식생(소나무·대나무 군락) — 그림 장면"},
-    {"title": "IUCN SSC Heron Specialist Group – Grey Heron", "url": "https://heronconservation.org/herons-of-the-world/list/grey-heron/", "used": "아종 jouyi 특징, 번식기 장식깃·부리 색 변화, 어린새, 검은 어깨 무늬, 비행 모습"},
-    {"title": "Wikipedia – Grey heron", "url": "https://en.wikipedia.org/wiki/Grey_heron", "used": "날개 편 길이, 깃 묘사, 어린새, 목을 접고 나는 비행"},
-    {"title": "Wikipedia – Purple heron", "url": "https://en.wikipedia.org/wiki/Purple_heron", "used": "붉은왜가리와의 차이"},
-    {"title": "IOC World Bird List v15 – Ibises, herons, pelicans", "url": "https://www.worldbirdnames.org/new/bow/pelicans/", "used": "영문명 Grey Heron, 아종 jouyi 분포(Korean Pen.)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 왜가리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001541",
+      "used": "국명·학명·분류·몸길이·상태·형태·산란 시기·서식지"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 왜가리 (원병오)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0039193",
+      "used": "국내 최대 백로과, 여름새·일부 월동, 집단번식, 포란·육추 일수, 부리·눈앞·다리 색"
+    },
+    {
+      "title": "Kim & Koo (2009) Nest site selection and reproductive success of herons and egrets in Pyeongtaek heronry, Korea. Waterbirds 32(1)",
+      "url": "https://bioone.org/journals/Waterbirds/volume-32/issue-1/063.032.0113/Nest-Site-Selection-and-Reproductive-Success-of-Herons-and-Egrets/10.1675/063.032.0113.full",
+      "used": "번식지 도착(2월 하순), 번식 후 남쪽 이동 시기"
+    },
+    {
+      "title": "Kim & Koo (2009) Nest site characteristics and reproductive parameters of Grey Herons in Korea. Zoological Studies 48(5)",
+      "url": "https://zoolstud.sinica.edu.tw/Journals/48.5/657.pdf",
+      "used": "평택 집단번식지 도착·포란 시기, 한배 알 수"
+    },
+    {
+      "title": "이두표 외 (2006) 전라남도 내의 백로류 집단번식지 특성에 관한 연구. 한국환경생태학회 학술대회논문집",
+      "url": "https://koreascience.or.kr/article/CFKO200627642577584.pdf",
+      "used": "왜가리·중대백로가 가장 흔한 집단번식 종, 번식지 식생(소나무·대나무 군락) — 그림 장면"
+    },
+    {
+      "title": "IUCN SSC Heron Specialist Group – Grey Heron",
+      "url": "https://heronconservation.org/herons-of-the-world/list/grey-heron/",
+      "used": "아종 jouyi 특징, 번식기 장식깃·부리 색 변화, 어린새, 검은 어깨 무늬, 비행 모습"
+    },
+    {
+      "title": "Wikipedia – Grey heron",
+      "url": "https://en.wikipedia.org/wiki/Grey_heron",
+      "used": "날개 편 길이, 깃 묘사, 어린새, 목을 접고 나는 비행"
+    },
+    {
+      "title": "Wikipedia – Purple heron",
+      "url": "https://en.wikipedia.org/wiki/Purple_heron",
+      "used": "붉은왜가리와의 차이"
+    },
+    {
+      "title": "IOC World Bird List v15 – Ibises, herons, pelicans",
+      "url": "https://www.worldbirdnames.org/new/bow/pelicans/",
+      "used": "영문명 Grey Heron, 아종 jouyi 분포(Korean Pen.)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "months.breed: 산란기(4월 상순~5월 중순, NIBR)에 포란 25~28일·육추 50~55일(백과)을 더해 계산한 값. 국내 번식 종료 달을 직접 밝힌 출처는 찾지 못함(늦은 둥지는 8월 초까지 갈 수 있음)"
-  ]
+  ],
+  "occurrence": {
+    "code": "S2, R3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Ardea cinerea",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

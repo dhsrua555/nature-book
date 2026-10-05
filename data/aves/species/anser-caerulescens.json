@@ -7,7 +7,7 @@
   "ktsn": 120000001420,
   "origin": "nibr",
   "length": "67cm",
-  "status": "매우 드문 겨울철새",
+  "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "평야와 간척지의 논, 하구",
   "protect": [],
   "months": {
@@ -65,7 +65,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "WV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Anser caerulescens",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

@@ -7,22 +7,53 @@
   "ktsn": 120000001440,
   "length": "약 59cm",
   "wingspan": "81–98cm",
-  "status": "매우 흔한 겨울철새(일부 지역에서 번식)",
+  "status": "겨울철새 10만 마리 이상 · 나그네새 수만 마리 · 텃새 수백 마리",
   "habitat": "하천, 호수·저수지, 하구·해안, 농경지, 습지",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 10, 11, 12],
-    "breed": [4, 5, 6, 7],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
     "note": "10월 초순에 도래해 4월 하순까지 주로 관찰된다. 1990년대 한강 하류에서 번식이 확인된 뒤 일부 지역에서 번식하므로 여름에도 드물게 볼 수 있다. 산란기는 4월 하순~7월 상순."
   },
   "summary": "전국에서 가장 흔히 보이는 겨울 오리다. 가을 수확이 끝날 무렵 찾아와 이듬해 봄까지 머문다. 낮에는 강과 호수의 물 위나 모래톱, 제방에서 무리 지어 쉬고, 해가 지면 논과 습지로 날아가 낟알과 풀씨 등을 먹는다. 일부는 국내에 남아 번식한다.",
   "points": [
-    {"ko": "광택 나는 녹색 머리", "en": "glossy green head"},
-    {"ko": "가는 흰 목테", "en": "narrow white neck ring"},
-    {"ko": "수컷의 노란 부리", "en": "yellow bill (male)"},
-    {"ko": "위로 말린 검은 꼬리깃", "en": "black upcurled tail feathers"},
-    {"ko": "흰 테 두른 청보라 날개거울", "en": "purple-blue speculum edged white"},
-    {"ko": "암컷: 주황 바탕 검은 무늬 부리", "en": "female: orange bill with dark marks"}
+    {
+      "ko": "광택 나는 녹색 머리",
+      "en": "glossy green head"
+    },
+    {
+      "ko": "가는 흰 목테",
+      "en": "narrow white neck ring"
+    },
+    {
+      "ko": "수컷의 노란 부리",
+      "en": "yellow bill (male)"
+    },
+    {
+      "ko": "위로 말린 검은 꼬리깃",
+      "en": "black upcurled tail feathers"
+    },
+    {
+      "ko": "흰 테 두른 청보라 날개거울",
+      "en": "purple-blue speculum edged white"
+    },
+    {
+      "ko": "암컷: 주황 바탕 검은 무늬 부리",
+      "en": "female: orange bill with dark marks"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -31,8 +62,14 @@
   },
   "young": "갓 깬 새끼는 얼굴과 배가 노랗고 등은 검다. 한 달쯤 지나면 암컷과 비슷하지만 줄무늬가 더 많은 수수한 깃이 된다.",
   "similar": [
-    {"ko": "흰뺨검둥오리", "how": "청둥오리 암컷과 비슷한 갈색 오리지만 부리가 검고 끝만 노랗다. 얼굴과 목이 몸보다 연한 색이다."},
-    {"ko": "알락오리", "how": "암컷이 청둥오리 암컷을 닮았으나 몸이 작고 배가 희며, 부리 가장자리가 주황색이다. 날 때 날개에 흑백 날개거울이 흰 네모로 보인다."}
+    {
+      "ko": "흰뺨검둥오리",
+      "how": "청둥오리 암컷과 비슷한 갈색 오리지만 부리가 검고 끝만 노랗다. 얼굴과 목이 몸보다 연한 색이다."
+    },
+    {
+      "ko": "알락오리",
+      "how": "암컷이 청둥오리 암컷을 닮았으나 몸이 작고 배가 희며, 부리 가장자리가 주황색이다. 날 때 날개에 흑백 날개거울이 흰 네모로 보인다."
+    }
   ],
   "art": {
     "subject": "Adult male Mallard in breeding plumage: glossy bottle-green head with a metallic sheen, narrow white neck ring, purple-tinged chestnut-brown breast, pale grey finely vermiculated flanks and belly, grey-brown back, black rump and undertail coverts with the black central tail feathers curled upward, white-edged dark tail, iridescent purple-blue speculum bordered with white, bright yellow bill with a small dark tip, orange legs and feet, dark eye.",
@@ -45,14 +82,47 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 청둥오리", "url": "https://species.nibr.go.kr/species-detail/120000001440", "used": "국명·학명·분류·몸길이·상태·형태·행동"},
-    {"title": "한국민족문화대백과사전 – 청둥오리 (원병오)", "url": "https://encykorea.aks.ac.kr/Article/E0056378", "used": "도래·관찰 시기(10월 초순~4월 하순), 국내 번식 기록, 산란기, 서식지, 깃털 묘사"},
-    {"title": "Wikipedia – Mallard", "url": "https://en.wikipedia.org/wiki/Mallard", "used": "날개 편 길이, 수컷·암컷 깃, 부리 색, 날개거울, 에클립스, 새끼·어린새, 알락오리 암컷과의 차이"},
-    {"title": "Wikipedia – Eastern spot-billed duck", "url": "https://en.wikipedia.org/wiki/Eastern_spot-billed_duck", "used": "흰뺨검둥오리 부리·머리 색(비슷한 종)"},
-    {"title": "IOC World Bird List v15 – Waterfowl", "url": "https://www.worldbirdnames.org/new/bow/waterfowl/", "used": "영문명 Mallard, 명명자 Linnaeus, 1758"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 청둥오리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001440",
+      "used": "국명·학명·분류·몸길이·상태·형태·행동"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 청둥오리 (원병오)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056378",
+      "used": "도래·관찰 시기(10월 초순~4월 하순), 국내 번식 기록, 산란기, 서식지, 깃털 묘사"
+    },
+    {
+      "title": "Wikipedia – Mallard",
+      "url": "https://en.wikipedia.org/wiki/Mallard",
+      "used": "날개 편 길이, 수컷·암컷 깃, 부리 색, 날개거울, 에클립스, 새끼·어린새, 알락오리 암컷과의 차이"
+    },
+    {
+      "title": "Wikipedia – Eastern spot-billed duck",
+      "url": "https://en.wikipedia.org/wiki/Eastern_spot-billed_duck",
+      "used": "흰뺨검둥오리 부리·머리 색(비슷한 종)"
+    },
+    {
+      "title": "IOC World Bird List v15 – Waterfowl",
+      "url": "https://www.worldbirdnames.org/new/bow/waterfowl/",
+      "used": "영문명 Mallard, 명명자 Linnaeus, 1758"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "art: 다리·발의 주황색은 인용 출처에서 직접 확인하지 못함(일반 도감 지식) — 검토 권장",
     "months.breed: 백과의 산란기(4월 하순~7월 상순)는 종 전체 서술이며, 국내 번식 개체만의 시기는 따로 확인하지 못함"
-  ]
+  ],
+  "occurrence": {
+    "code": "W1, P2, R4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Anas platyrhynchos",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

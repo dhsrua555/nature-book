@@ -7,21 +7,56 @@
   "ktsn": 120000001433,
   "length": "약 45cm",
   "wingspan": "65–75cm",
-  "status": "비교적 흔한 텃새이자 겨울철새",
+  "status": "텃새·나그네새·겨울철새, 해마다 수천 마리",
   "habitat": "산림 주변의 계곡·냇가·늪, 겨울에는 저수지·호수·하천",
-  "protect": ["천연기념물"],
+  "protect": [
+    "천연기념물"
+  ],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [4, 5, 6, 7],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
     "note": "일부는 사철 머물며 번식하고, 겨울에는 북쪽 번식 무리가 중부 이남으로 내려와 수가 늘어난다. 산란은 4~7월."
   },
   "summary": "숲이 우거진 산골짜기의 계곡과 냇가에 사는 작은 오리다. 물가에 가까운 오래된 나무의 구멍이나 바위틈에 둥지를 틀고, 도토리 같은 나무 열매와 수서곤충, 작은 물고기를 먹는다. 국내에서는 일부가 텃새로 사철 머물며, 겨울에는 북쪽에서 내려온 무리가 더해져 저수지와 하천에 모인다. 천연기념물로 지정되어 보호받는다.",
   "points": [
-    {"ko": "붉은 부리, 끝은 흰색", "en": "red bill with a whitish tip"},
-    {"ko": "눈 위 넓은 흰 반달무늬", "en": "broad white crescent above the eye"},
-    {"ko": "등 위로 선 주황 돛깃", "en": "upright orange sail feathers"},
-    {"ko": "보랏빛 가슴의 흰 세로줄 둘", "en": "two white bars on the purple breast"},
-    {"ko": "암컷: 흰 눈테와 눈 뒤 흰 선", "en": "female: white eye-ring and stripe behind the eye"}
+    {
+      "ko": "붉은 부리, 끝은 흰색",
+      "en": "red bill with a whitish tip"
+    },
+    {
+      "ko": "눈 위 넓은 흰 반달무늬",
+      "en": "broad white crescent above the eye"
+    },
+    {
+      "ko": "등 위로 선 주황 돛깃",
+      "en": "upright orange sail feathers"
+    },
+    {
+      "ko": "보랏빛 가슴의 흰 세로줄 둘",
+      "en": "two white bars on the purple breast"
+    },
+    {
+      "ko": "암컷: 흰 눈테와 눈 뒤 흰 선",
+      "en": "female: white eye-ring and stripe behind the eye"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -30,7 +65,10 @@
   },
   "young": "TODO",
   "similar": [
-    {"ko": "청둥오리", "how": "암컷끼리 견주면 청둥오리 암컷은 갈색 얼룩 바탕에 어두운 눈선이 눈을 가로지르고 부리에 주황색이 섞인다. 원앙 암컷은 머리가 회색이고, 흰 눈테가 눈 뒤의 가는 흰 선으로 이어진다."}
+    {
+      "ko": "청둥오리",
+      "how": "암컷끼리 견주면 청둥오리 암컷은 갈색 얼룩 바탕에 어두운 눈선이 눈을 가로지르고 부리에 주황색이 섞인다. 원앙 암컷은 머리가 회색이고, 흰 눈테가 눈 뒤의 가는 흰 선으로 이어진다."
+    }
   ],
   "art": {
     "subject": "Adult male Mandarin Duck in full breeding plumage: small bright red bill with a whitish tip; broad white crescent stripe sweeping from above the eye back toward the nape; glossy dark green-purple forehead and crown running into a long drooping crest that turns chestnut-orange at the rear; orange-rufous face with elongated orange 'whisker' hackles fanning down the sides of the neck; deep purple-maroon breast with two vertical white bars bordered by black on the side of the breast; ruddy orange-buff flanks; a pair of large upright orange 'sail' feathers (broadened inner wing feathers) raised above the back; dark olive-brown back; white belly and undertail; orange legs and feet; dark eye.",
@@ -43,15 +81,56 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 원앙", "url": "https://species.nibr.go.kr/species-detail/120000001433", "used": "국명·학명·분류·몸길이·상태·형태·서식지·보호 등급(천연기념물)"},
-    {"title": "국립생물자원관 종 설명 API – 원앙", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001433", "used": "종 설명 원문 재확인"},
-    {"title": "한국민족문화대백과사전 – 원앙 (원병오)", "url": "https://encykorea.aks.ac.kr/Article/E0040744", "used": "산란 시기(4~7월), 텃새·겨울 남하, 나무구멍 번식, 먹이, 다리 색"},
-    {"title": "국가유산청 국가유산포털 – 원앙", "url": "https://www.heritage.go.kr/DATA1/heritage/hub_img/html/cul_1369903270000.html", "used": "서식지(산골짜기 계곡, 겨울 저수지·호수), 나무구멍 번식, 천연기념물"},
-    {"title": "내 손안에 서울 – 서울에 대거 출현한 '원앙'을 찾아서", "url": "https://mediahub.seoul.go.kr/archives/2010073", "used": "철새였으나 국내에서 상당수가 텃새화"},
-    {"title": "Wikipedia – Mandarin duck", "url": "https://en.wikipedia.org/wiki/Mandarin_duck", "used": "날개 편 길이, 수컷·암컷·에클립스 형태, 둥지(물가 나무 구멍)"},
-    {"title": "IOC World Bird List v15 – Waterfowl", "url": "https://www.worldbirdnames.org/new/bow/waterfowl/", "used": "영문명 Mandarin Duck, 명명자 (Linnaeus, 1758)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 원앙",
+      "url": "https://species.nibr.go.kr/species-detail/120000001433",
+      "used": "국명·학명·분류·몸길이·상태·형태·서식지·보호 등급(천연기념물)"
+    },
+    {
+      "title": "국립생물자원관 종 설명 API – 원앙",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001433",
+      "used": "종 설명 원문 재확인"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 원앙 (원병오)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040744",
+      "used": "산란 시기(4~7월), 텃새·겨울 남하, 나무구멍 번식, 먹이, 다리 색"
+    },
+    {
+      "title": "국가유산청 국가유산포털 – 원앙",
+      "url": "https://www.heritage.go.kr/DATA1/heritage/hub_img/html/cul_1369903270000.html",
+      "used": "서식지(산골짜기 계곡, 겨울 저수지·호수), 나무구멍 번식, 천연기념물"
+    },
+    {
+      "title": "내 손안에 서울 – 서울에 대거 출현한 '원앙'을 찾아서",
+      "url": "https://mediahub.seoul.go.kr/archives/2010073",
+      "used": "철새였으나 국내에서 상당수가 텃새화"
+    },
+    {
+      "title": "Wikipedia – Mandarin duck",
+      "url": "https://en.wikipedia.org/wiki/Mandarin_duck",
+      "used": "날개 편 길이, 수컷·암컷·에클립스 형태, 둥지(물가 나무 구멍)"
+    },
+    {
+      "title": "IOC World Bird List v15 – Waterfowl",
+      "url": "https://www.worldbirdnames.org/new/bow/waterfowl/",
+      "used": "영문명 Mandarin Duck, 명명자 (Linnaeus, 1758)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "young: 어린새(유조) 깃 특징을 인용이 달린 출처에서 확인하지 못함(영문 위키백과의 새끼 설명은 '출처 필요' 표시)"
-  ]
+  ],
+  "occurrence": {
+    "code": "R3, P3, W3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Aix galericulata",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

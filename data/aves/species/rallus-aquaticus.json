@@ -7,7 +7,7 @@
   "ktsn": 120000001631,
   "origin": "nibr",
   "length": "약 29cm",
-  "status": "봄·가을에 통과하고, 일부 겨울철새",
+  "status": "겨울에 드물게 찾아옴, 지금까지 기록 10건 미만",
   "habitat": "줄과 갈대가 우거진 호소·소택지, 하구 물가",
   "protect": [],
   "months": {
@@ -72,9 +72,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 주남저수지를 '창녕'에 있다고 적었으나 지명 확인이 필요해 지역명은 뺐다"
-  ]
+  ],
+  "occurrence": {
+    "code": "WV2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Rallus aquaticus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

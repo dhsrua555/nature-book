@@ -7,12 +7,12 @@
   "ktsn": 120000001614,
   "origin": "nibr",
   "length": "약 62–74cm",
-  "status": "TODO",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "사막, 반사막, 스텝 지대, 대초원",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "사막, 반사막, 스텝 지대, 대초원처럼 건조한 곳을 좋아하는 수리다. 갓 죽은 고기는 종류를 가리지 않고 먹으며, 설치류와 토끼만 한 작은 포유류, 메추라기만 한 새를 사냥하고 다른 동물의 먹이를 훔치기도 한다. 나무 위에 나뭇가지로 지은 둥지에 알을 1~3개 낳고, 과시할 때를 빼면 조용하며 울음소리는 까마귀와 비슷하다. 루마니아 동부, 러시아 남부, 중앙아시아, 몽골 등지에서 번식하며, 유럽·중앙아시아 번식 집단은 아프리카에서, 동부 번식 집단은 인도에서 겨울을 난다.",
   "points": [
@@ -68,10 +68,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 국내 도래 상태와 시기가 없다"
   ],
-  "wingspan": "165–190cm"
+  "wingspan": "165–190cm",
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Aquila nipalensis",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

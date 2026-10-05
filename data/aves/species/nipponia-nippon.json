@@ -7,7 +7,7 @@
   "ktsn": 120000001516,
   "origin": "nibr",
   "length": "약 75cm",
-  "status": "TODO",
+  "status": "야생 개체는 2000년 이후 확인된 기록 없음 · 복원 사업으로 들여와 기르고 풀어놓음",
   "habitat": "관목이나 대나무가 빽빽한 소나무 숲",
   "protect": [
     "천연기념물",
@@ -75,9 +75,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 백색형·회색형이 있다고 하고 회색형도 '겨울깃'으로 적는데, 회색이 색 변이형인지 번식기 깃인지 확인 필요"
-  ]
+  ],
+  "occurrence": {
+    "code": "INT",
+    "bs": "1",
+    "cat": "2",
+    "bk": "Nipponia nippon",
+    "rarity": 8.5
+  },
+  "breeding": "복원 사업으로 풀어놓은 무리가 번식"
 }

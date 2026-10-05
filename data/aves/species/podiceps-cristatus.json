@@ -7,11 +7,24 @@
   "ktsn": 120000001504,
   "origin": "nibr",
   "length": "약 49cm",
-  "status": "드문 텃새, 흔한 겨울철새",
+  "status": "겨울철새 수만 마리 · 텃새 수백 마리",
   "habitat": "강 하구, 호수, 저수지, 해안",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO"
   },
   "summary": "드물게 사는 텃새이면서 흔한 겨울철새로, 우리나라 논병아리류 가운데 가장 크다. 강 하구와 호수, 저수지, 해안에서 잠수해 물고기 등을 잡으며, 겨울에는 해안에서 수백 마리씩 무리를 짓기도 한다. 번식기에는 물풀이나 이끼로 물에 뜨는 둥지를 짓고 자리를 비울 때는 알을 풀로 덮어 두며, 새끼는 깨어난 뒤 어미를 따라다니다 때로 어미 등에 올라타 옮겨 다닌다. 유라시아 대륙 중부, 아프리카, 오스트레일리아, 뉴질랜드에 분포하며, 유라시아에서 번식하는 무리는 겨울에 남쪽으로 내려가 월동한다.",
@@ -67,7 +80,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W2, R4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Podiceps cristatus",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

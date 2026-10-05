@@ -7,19 +7,15 @@
   "ktsn": 120000090055,
   "origin": "nibr",
   "length": "약 24cm",
-  "status": "드문 텃새(백두산 고지대), 남한에서는 미조",
+  "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "침엽수림, 울창한 숲속의 나무 구멍(둥지)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": [
-      3,
-      4,
-      5
-    ],
+    "breed": [],
     "note": "산란기는 3~5월이다."
   },
-  "summary": "우리나라에서는 주로 백두산 고지대에서 드물게 번식하는 텃새이고, 남한에서는 경기도에서 2회 채집된 기록만 있는 미조이다. 침엽수림에 살며 울창한 숲속의 나무 구멍에 둥지를 틀고 한배에 알을 3~4개 낳는다. 곤충을 주로 먹는다. 국외에서는 히말라야에서 만주에 걸친 동아시아와 미얀마 북부, 타이에 분포한다.",
+  "summary": "우리나라에서는 주로 백두산 고지대에서 드물게 번식하는 텃새이고, 남한에는 이동기에 드물게 찾아오며 경기도에서 2회 채집된 기록이 있다. 침엽수림에 살며 울창한 숲속의 나무 구멍에 둥지를 틀고 한배에 알을 3~4개 낳는다. 곤충을 주로 먹는다. 국외에서는 히말라야에서 만주에 걸친 동아시아와 미얀마 북부, 타이에 분포한다.",
   "points": [
     {
       "ko": "수컷 붉은 정수리, 암컷 검은 정수리",
@@ -77,7 +73,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [
+    "[새와 생명의 터] 국내 번식 기록이 없어 국립생물자원관 설명의 번식 달([3, 4, 5])을 달력에서 뺐다"
+  ],
+  "occurrence": {
+    "code": "PV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Dendrocopos hyperythrus",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

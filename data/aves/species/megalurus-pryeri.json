@@ -7,12 +7,12 @@
   "ktsn": 120000002021,
   "origin": "nibr",
   "length": "약 12.5cm",
-  "status": "TODO",
+  "status": "이동기에 드물게 찾아옴, 지금까지 기록 10건 미만",
   "habitat": "볏과 식물이 빽빽한 초습지, 갈대숲",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "알은 7월 하순~8월 상순에 낳는다."
   },
   "summary": "볏과 식물이 빽빽하게 자란 초습지에 사는 새로, 갈대숲 깊이 숨어들어 잎과 줄기 사이를 이리저리 걸어 다니며 먹이를 찾는다. 나비목과 메뚜기목 곤충을 즐겨 먹는다. 둥지는 땅에서 27~35cm 높이의 풀잎이나 줄기 사이에 틀고, 7월 하순~8월 상순에 한배에 5~6개의 알을 낳는다. 북쪽에서 번식하는 무리는 겨울에 남쪽으로 내려가며, 구북구 동부, 일본, 만주 등지에 분포한다.",
@@ -72,7 +72,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Helopsaltes pryeri)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "PV2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Helopsaltes pryeri",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

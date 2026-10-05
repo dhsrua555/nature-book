@@ -7,7 +7,7 @@
   "ktsn": 120000001946,
   "origin": "nibr",
   "length": "TODO",
-  "status": "미조",
+  "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "산림, 덤불, 공원",
   "protect": [],
   "months": {
@@ -43,10 +43,23 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문의 수컷 생김새(금속광택 녹색 몸, 자줏빛 남색 가슴 깃, 이마의 털 모양 관모)는 바람까마귀 원문과 같아 다른 종을 설명한 것으로 보이고, 암컷만 어두운 회색으로 적혀 암수 설명이 서로 맞지 않으므로 생김새·암수 차이를 TODO 로 둠",
     "원문의 수치는 날개 길이(수컷 16.8cm, 암컷 13.4cm)뿐이라 몸길이는 TODO"
-  ]
+  ],
+  "occurrence": {
+    "code": "PV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Dicrurus leucophaeus",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

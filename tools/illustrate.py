@@ -50,7 +50,7 @@ def volumes() -> list[str]:
 
 
 def all_species() -> list[tuple[str, dict]]:
-    """그릴 차례: 손으로 조사한 종(그림 재료가 가장 자세함)을 먼저, 그다음 책의 도판 번호 순."""
+    """그릴 차례: 흔한 종부터 드문 종 순(새와 생명의 터 2022의 개체 수 범위, occurrence.rarity), 같으면 책의 도판 번호 순."""
     out = []
     for vid in volumes():
         order = {}
@@ -60,7 +60,7 @@ def all_species() -> list[tuple[str, dict]]:
             ids = [s["id"] for o in tree for f in o["children"] for s in f["children"]]
             order = {sid: i for i, sid in enumerate(ids)}
         rows = [json.loads(f.read_text(encoding="utf-8")) for f in (ROOT / "data" / vid / "species").glob("*.json")]
-        rows.sort(key=lambda sp: (bool(sp.get("origin")), order.get(sp["id"], 10**6), sp["id"]))
+        rows.sort(key=lambda sp: ((sp.get("occurrence") or {}).get("rarity", 9.5), order.get(sp["id"], 10**6), sp["id"]))
         out += [(vid, sp) for sp in rows]
     return out
 

@@ -20,6 +20,7 @@
     { "key": "length", "label": "몸길이" },
     { "key": "wingspan", "label": "날개 편 길이", "optional": true },
     { "key": "status", "label": "국내 상태" },
+    { "key": "breeding", "label": "국내 번식", "optional": true },
     { "key": "habitat", "label": "사는 곳" },
     { "key": "protect", "label": "보호", "optional": true }
   ],

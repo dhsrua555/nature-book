@@ -7,12 +7,12 @@
   "ktsn": 120000001830,
   "origin": "nibr",
   "length": "약 33cm",
-  "status": "TODO",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "울창한 활엽수림, 혼합림",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "6월경 한배에 알 2개를 낳는다."
   },
   "summary": "울창한 활엽수림이나 혼합림에 사는 녹색 비둘기로, 혼자 또는 몇 마리씩 작은 무리로 지낸다. 열매와 씨앗을 먹으며, 6월경 한배에 알 2개를 낳는다. 일본, 타이완, 인도차이나반도 등지에 분포하는 동아시아 남부 특산종이다.",
@@ -69,7 +69,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Treron sieboldii",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

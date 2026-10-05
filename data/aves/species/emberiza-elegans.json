@@ -7,7 +7,7 @@
   "ktsn": 120000002224,
   "origin": "nibr",
   "length": "16cm",
-  "status": "텃새",
+  "status": "겨울철새 10만 마리 이상 · 텃새 10만 마리 이상 · 나그네새 수만 마리",
   "habitat": "산림, 경작지, 습지 주변의 관목과 덤불",
   "protect": [],
   "months": {
@@ -89,7 +89,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W1, R1, P2",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Emberiza elegans",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

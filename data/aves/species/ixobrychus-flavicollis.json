@@ -7,12 +7,12 @@
   "ktsn": 120000085544,
   "origin": "nibr",
   "length": "58cm",
-  "status": "TODO",
+  "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "갈대밭, 나무 위(둥지 자리)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "긴 목과 길고 노란 부리를 지닌 몸집 큰 새로, 갈대밭이나 나무 위에 둥지를 틀고 알 3~5개를 낳는다. 숨어 지내는 습성과 사는 환경 때문에 보기 어려울 수 있지만, 날아가는 모습은 종종 눈에 띈다. 곤충과 물고기, 양서류를 먹는다. 열대 지방에서 번식하며 유럽, 아시아, 인도, 스리랑카 동부, 중국, 인도네시아, 오스트레일리아에 분포한다.",
   "points": [
@@ -63,9 +63,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Botaurus flavicollis)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 국내 상태·기록이 없다"
-  ]
+  ],
+  "occurrence": {
+    "code": "PV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Ixobrychus flavicollis",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

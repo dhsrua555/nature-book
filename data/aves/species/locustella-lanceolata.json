@@ -7,15 +7,12 @@
   "ktsn": 120000002029,
   "origin": "nibr",
   "length": "약 11cm",
-  "status": "나그네새",
+  "status": "나그네새, 해마다 수천 마리",
   "habitat": "습지와 소택지의 풀밭, 버드나무와 관목, 물가의 갈대밭",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": [
-      6,
-      7
-    ],
+    "breed": [],
     "note": "알은 6월 중순~7월 하순에 낳는다."
   },
   "summary": "봄과 가을에 작은 무리를 지어 우리나라 전역을 지나가는 나그네새로, 습지나 소택지의 풀, 버드나무와 관목 덤불, 물가 갈대밭 등지에서 지낸다. 몸을 숨긴 채 좀처럼 모습을 드러내지 않으며 주로 곤충을 먹는다. 둥지는 풀 밑이나 땅에서 30cm 높이의 덤불 속에 짓는데 둘레가 흔히 풀로 가려져 있고, 6월 중순~7월 하순에 한배에 3~5개의 알을 낳는다. 한국을 비롯해 시베리아 동부, 캄차카, 만주, 사할린, 홋카이도, 혼슈 등지에서 번식하고 인도, 미얀마, 수마트라, 보르네오, 자바 등지에서 겨울을 난다.",
@@ -71,7 +68,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [
+    "[새와 생명의 터] 국내 번식 기록이 없어 국립생물자원관 설명의 번식 달([6, 7])을 달력에서 뺐다"
+  ],
+  "occurrence": {
+    "code": "P3",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Locustella lanceolata",
+    "rarity": 3.0
+  },
+  "breeding": "번식 기록 없음"
 }

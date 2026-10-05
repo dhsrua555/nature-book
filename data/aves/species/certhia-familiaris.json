@@ -7,11 +7,24 @@
   "ktsn": 120000002078,
   "origin": "nibr",
   "length": "약 13cm",
-  "status": "북부 지방의 텃새, 중부 이남에서는 흔하지 않은 겨울새",
+  "status": "텃새 수백 마리 · 겨울철새 수십 마리",
   "habitat": "침엽수림, 혼합림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       3,
       4,
@@ -72,7 +85,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "R4, W5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Certhia familiaris",
+    "rarity": 4.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

@@ -7,12 +7,12 @@
   "ktsn": 120000001590,
   "origin": "nibr",
   "length": "약 110cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "고산 지대의 바위 벽",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "국내에서는 함경남도와 강원도에서 발견된 기록이 있다. 높은 산의 바위 벽 가운데 선반처럼 튀어나온 자리에 둥지를 틀고, 한배에 알 1~2개를 낳지만 대개 1개만 깨어난다. 주로 동물의 사체를 먹는데, 먹이를 높은 데서 떨어뜨려 부서진 뼈에서 골수를 빼 먹으며 거북도 이렇게 깨뜨려 먹는다. 국외에서는 알타이, 중국, 몽골, 에스파냐, 모로코, 북아프리카, 티베트에 분포한다.",
   "points": [
@@ -71,7 +71,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Gypaetus barbatus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

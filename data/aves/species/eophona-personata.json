@@ -7,14 +7,14 @@
   "ktsn": 120000002211,
   "origin": "nibr",
   "length": "약 23cm",
-  "status": "드물지 않은 여름철새",
+  "status": "나그네새 수백 마리 · 겨울철새 수십 마리",
   "habitat": "산지 숲(번식), 평원(월동), 노거수가 우거진 강가 숲",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
-  "summary": "우리나라 북부 일부 지역에서 번식도 하는 드물지 않은 여름새로, 산지의 숲속에서 번식하고 평원에서 겨울을 난다. 여름에는 오래된 큰 나무가 우거진 강가 숲에서 무리 지어 다닌다. 무거운 몸짓으로 힘차게 곧장 날아간다. 우수리, 만주 등지에서 번식하고 만주, 중국 동부 등지에서 겨울을 난다.",
+  "summary": "우리나라에는 해마다 수백 마리가 지나가고 수십 마리가 겨울을 나며, 북부 일부 지역에서는 번식도 한다. 산지의 숲속에서 번식하고 평원에서 겨울을 난다. 여름에는 오래된 큰 나무가 우거진 강가 숲에서 무리 지어 다닌다. 무거운 몸짓으로 힘차게 곧장 날아간다. 우수리, 만주 등지에서 번식하고 만주, 중국 동부 등지에서 겨울을 난다.",
   "points": [
     {
       "ko": "크고 높으며 등이 굽은 부리",
@@ -64,9 +64,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "similar 의 '제주밀화부리'는 원문 표기 그대로이며 지금 국가생물종목록에 없는 이름이라 어느 종인지 확인이 필요하다."
-  ]
+  ],
+  "occurrence": {
+    "code": "P4, W5",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Eophona personata",
+    "rarity": 4.0
+  },
+  "breeding": "번식 기록 없음"
 }

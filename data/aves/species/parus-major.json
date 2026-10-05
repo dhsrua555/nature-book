@@ -7,12 +7,12 @@
   "ktsn": 120000001975,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "TODO",
   "points": [],
@@ -43,9 +43,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문은 아랫면이 흰색이고 전국에 사는 텃새라 하여 국명 '노랑배박새'와 맞지 않음. 박새 설명으로 보여 모든 값을 TODO 로 둠"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Parus major",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

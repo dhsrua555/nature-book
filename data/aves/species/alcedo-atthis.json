@@ -7,22 +7,59 @@
   "ktsn": 120000001894,
   "length": "17cm",
   "wingspan": "약 25cm",
-  "status": "흔한 여름철새, 일부 텃새",
+  "status": "여름철새 수천 마리 · 텃새 수백 마리",
   "habitat": "하천, 호수, 저수지 등 물가와 그 둘레의 흙벼랑",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [4, 5, 6, 7, 8],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
     "note": "봄부터 가을까지 흔히 번식하며, 겨울에는 일부만 남는다(제주도 월동 확인). 번식기는 4~8월이다."
   },
   "summary": "냇가와 저수지에서 흔히 보는 작은 새로, 몸에 비해 머리가 크고 부리가 길며 꼬리는 짧다. 물가 나뭇가지에 앉아 있거나 물 위에서 정지비행하다가 곧장 물속으로 뛰어들어 작은 물고기를 잡는다. 물가 흙벼랑에 깊이 1m에 이르는 굴을 파고 그 안쪽에 알을 낳는다.",
   "points": [
-    {"ko": "등·허리의 선명한 파란 줄", "en": "brilliant azure back and rump"},
-    {"ko": "청록색 머리·날개의 푸른 점", "en": "green-blue crown and wings with pale blue spots"},
-    {"ko": "눈 앞뒤의 주황색 무늬", "en": "orange patches before and behind eye"},
-    {"ko": "흰 멱과 목 옆 흰 무늬", "en": "white throat and neck patch"},
-    {"ko": "주황색 아랫면", "en": "orange underparts"},
-    {"ko": "붉은 다리, 긴 부리", "en": "red legs; long bill"}
+    {
+      "ko": "등·허리의 선명한 파란 줄",
+      "en": "brilliant azure back and rump"
+    },
+    {
+      "ko": "청록색 머리·날개의 푸른 점",
+      "en": "green-blue crown and wings with pale blue spots"
+    },
+    {
+      "ko": "눈 앞뒤의 주황색 무늬",
+      "en": "orange patches before and behind eye"
+    },
+    {
+      "ko": "흰 멱과 목 옆 흰 무늬",
+      "en": "white throat and neck patch"
+    },
+    {
+      "ko": "주황색 아랫면",
+      "en": "orange underparts"
+    },
+    {
+      "ko": "붉은 다리, 긴 부리",
+      "en": "red legs; long bill"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -31,8 +68,14 @@
   },
   "young": "성조보다 윗면이 칙칙하고 녹색을 더 띠며 아랫면이 옅다. 부리는 검고, 다리도 처음에는 검다.",
   "similar": [
-    {"ko": "청호반새", "how": "몸길이 약 28cm로 훨씬 크고, 머리가 검고 등과 날개가 보랏빛 파란색이다. 굵은 부리와 다리가 붉으며, 날 때 첫째날개 기부에 큰 흰 무늬가 보인다."},
-    {"ko": "호반새", "how": "약 25cm로 더 크고, 몸 전체가 적갈색이며 크고 붉은 부리를 가졌다. 우거진 숲 속에 산다."}
+    {
+      "ko": "청호반새",
+      "how": "몸길이 약 28cm로 훨씬 크고, 머리가 검고 등과 날개가 보랏빛 파란색이다. 굵은 부리와 다리가 붉으며, 날 때 첫째날개 기부에 큰 흰 무늬가 보인다."
+    },
+    {
+      "ko": "호반새",
+      "how": "약 25cm로 더 크고, 몸 전체가 적갈색이며 크고 붉은 부리를 가졌다. 우거진 숲 속에 산다."
+    }
   ],
   "art": {
     "subject": "Common Kingfisher (Alcedo atthis bengalensis), adult male: compact body with a large head, a long dagger-like bill entirely black, and a short tail; crown and moustachial stripe dark green-blue, finely spotted with pale turquoise; wings dark green-blue with pale blue spots on the coverts; a brilliant azure-blue stripe down the back and rump; blue-green tail; orange-rufous spot in front of the eye and orange-rufous ear patch behind it; white chin and throat and a white patch on the side of the neck; orange-rufous breast and belly; dark eye; small bright red legs and feet.",
@@ -45,17 +88,62 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 물총새", "url": "https://species.nibr.go.kr/species-detail/120000001894", "used": "국명·학명·분류(보호 지정 없음)"},
-    {"title": "국립생물자원관 종 설명(API) – 물총새", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001894", "used": "몸길이, 깃 색, 암수 부리 차이, 흔히 번식하는 여름철새 또는 텃새, 번식기 4–8월, 둥지, 먹이"},
-    {"title": "IOC World Bird List v15.2 master list", "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx", "used": "영문명 Common Kingfisher, 아종 bengalensis 분포(c India to se Siberia, Japan and se Asia)"},
-    {"title": "Wikipedia – Common kingfisher", "url": "https://en.wikipedia.org/wiki/Common_kingfisher", "used": "날개 편 길이, 짧은 꼬리·큰 머리·긴 부리 체형, 암컷 아랫부리 색, 어린새, 아종 bengalensis(한국 포함)"},
-    {"title": "한국민족문화대백과사전 – 물총새", "url": "https://encykorea.aks.ac.kr/Article/E0075075", "used": "흔한 철새, 필리핀 월동·제주도 일부 월동, 번식기 3–8월(참고), 굴 둥지, 정지비행 후 급강하 사냥"},
-    {"title": "한국민족문화대백과사전 – 호반새", "url": "https://encykorea.aks.ac.kr/Article/E0075081", "used": "유사종 호반새(몸 전체 적갈색, 숲 속 서식)"},
-    {"title": "Wikipedia – Black-capped kingfisher", "url": "https://en.wikipedia.org/wiki/Black-capped_kingfisher", "used": "유사종 청호반새(28cm, 검은 머리, 붉은 부리, 날개의 흰 무늬)"},
-    {"title": "Wikipedia – Ruddy kingfisher", "url": "https://en.wikipedia.org/wiki/Ruddy_kingfisher", "used": "유사종 호반새(약 25cm, 크고 붉은 부리)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 물총새",
+      "url": "https://species.nibr.go.kr/species-detail/120000001894",
+      "used": "국명·학명·분류(보호 지정 없음)"
+    },
+    {
+      "title": "국립생물자원관 종 설명(API) – 물총새",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001894",
+      "used": "몸길이, 깃 색, 암수 부리 차이, 흔히 번식하는 여름철새 또는 텃새, 번식기 4–8월, 둥지, 먹이"
+    },
+    {
+      "title": "IOC World Bird List v15.2 master list",
+      "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx",
+      "used": "영문명 Common Kingfisher, 아종 bengalensis 분포(c India to se Siberia, Japan and se Asia)"
+    },
+    {
+      "title": "Wikipedia – Common kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Common_kingfisher",
+      "used": "날개 편 길이, 짧은 꼬리·큰 머리·긴 부리 체형, 암컷 아랫부리 색, 어린새, 아종 bengalensis(한국 포함)"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 물총새",
+      "url": "https://encykorea.aks.ac.kr/Article/E0075075",
+      "used": "흔한 철새, 필리핀 월동·제주도 일부 월동, 번식기 3–8월(참고), 굴 둥지, 정지비행 후 급강하 사냥"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 호반새",
+      "url": "https://encykorea.aks.ac.kr/Article/E0075081",
+      "used": "유사종 호반새(몸 전체 적갈색, 숲 속 서식)"
+    },
+    {
+      "title": "Wikipedia – Black-capped kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Black-capped_kingfisher",
+      "used": "유사종 청호반새(28cm, 검은 머리, 붉은 부리, 날개의 흰 무늬)"
+    },
+    {
+      "title": "Wikipedia – Ruddy kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Ruddy_kingfisher",
+      "used": "유사종 호반새(약 25cm, 크고 붉은 부리)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "months.seen 1–12는 국립생물자원관의 '여름철새 또는 텃새' 표기와 백과의 제주도 월동 기록에 근거한다. 겨울 관찰이 남부·제주 외 지역에서도 정기적인지 확인 필요",
     "번식기: 국립생물자원관 4–8월, 한국민족문화대백과 3–8월 — 지침대로 국립생물자원관 값 사용"
-  ]
+  ],
+  "occurrence": {
+    "code": "S3, R4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Alcedo atthis",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

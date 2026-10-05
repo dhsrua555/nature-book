@@ -7,21 +7,53 @@
   "ktsn": 120000001911,
   "length": "약 24cm",
   "wingspan": "34–39cm",
-  "status": "흔한 텃새",
+  "status": "텃새 10만 마리 이상 · 겨울철새 수십 마리",
   "habitat": "낙엽활엽수림, 잡목림, 아고산대 숲",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [5, 6, 7],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
     "note": "1년 내내 볼 수 있다. 5~7월에 나무줄기에 판 구멍에 알을 낳는다."
   },
   "summary": "전국의 숲에서 흔히 보는 텃새 딱다구리로, 혼자 또는 암수가 함께 지낼 때가 많다. 흑백 무늬 몸에 아랫배와 아래꼬리덮깃이 붉어 눈에 잘 띈다. 나무껍질을 쪼아 곤충과 애벌레, 거미를 잡아먹고 열매도 먹으며, 마른 나무를 빠르게 두드리는 드러밍으로 짝과 연락하고 세력권을 알린다.",
   "points": [
-    {"ko": "수컷 뒷머리의 붉은 띠", "en": "red nape patch (male)"},
-    {"ko": "어깨의 큰 흰 무늬", "en": "large white shoulder patches"},
-    {"ko": "부리에서 이어진 검은 뺨선", "en": "black cheek bar from bill"},
-    {"ko": "흑백 줄무늬 날개깃", "en": "black-and-white barred flight feathers"},
-    {"ko": "선명한 붉은 아래꼬리덮깃", "en": "bright red undertail coverts"}
+    {
+      "ko": "수컷 뒷머리의 붉은 띠",
+      "en": "red nape patch (male)"
+    },
+    {
+      "ko": "어깨의 큰 흰 무늬",
+      "en": "large white shoulder patches"
+    },
+    {
+      "ko": "부리에서 이어진 검은 뺨선",
+      "en": "black cheek bar from bill"
+    },
+    {
+      "ko": "흑백 줄무늬 날개깃",
+      "en": "black-and-white barred flight feathers"
+    },
+    {
+      "ko": "선명한 붉은 아래꼬리덮깃",
+      "en": "bright red undertail coverts"
+    }
   ],
   "sexes": {
     "alike": false,
@@ -30,7 +62,10 @@
   },
   "young": "성조보다 광택이 덜하고, 머리꼭대기가 붉다(수컷 쪽이 붉은 부분이 더 넓다). 아랫면은 칙칙한 흰색이고 아랫배는 붉은색 대신 분홍빛이다.",
   "similar": [
-    {"ko": "큰오색딱다구리", "how": "조금 더 크고(24–26cm), 날개에 흰 가로줄 무늬가 있으며 등 아래쪽이 희다. 수컷은 뒷머리가 아니라 머리꼭대기가 붉다."}
+    {
+      "ko": "큰오색딱다구리",
+      "how": "조금 더 크고(24–26cm), 날개에 흰 가로줄 무늬가 있으며 등 아래쪽이 희다. 수컷은 뒷머리가 아니라 머리꼭대기가 붉다."
+    }
   ],
   "art": {
     "subject": "Great Spotted Woodpecker (Dendrocopos major japonicus), adult male: glossy blue-black crown, hindneck, back, rump and uppertail coverts; a crimson band about 1 cm wide across the nape; buffy-white face around the eye and ear coverts, buffy-white chin, throat and neck sides; a black bar running from the base of the lower mandible back toward the nape and down onto the side of the breast; large white oval shoulder (scapular) patches; black flight feathers barred with white; black tail with white-barred outer feathers; unstreaked buffy-white to pale buff breast, belly and flanks; rose-pink lower belly and bright scarlet undertail coverts; slate-grey chisel-shaped bill; reddish-brown to red eye; greenish-grey legs and zygodactyl feet.",
@@ -43,13 +78,46 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 오색딱다구리", "url": "https://species.nibr.go.kr/species-detail/120000001911", "used": "국명·학명·분류(보호 지정 없음)"},
-    {"title": "국립생물자원관 종 설명(API) – 오색딱다구리", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001911", "used": "몸길이, 부위별 깃 색, 암수 차이, 흔한 텃새, 서식 숲, 산란 시기, 먹이"},
-    {"title": "IOC World Bird List v15.2 master list", "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx", "used": "영문명 Great Spotted Woodpecker, 아종 japonicus 분포(Korean Pen. 포함)"},
-    {"title": "Wikipedia – Great spotted woodpecker", "url": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker", "used": "날개 편 길이, 어깨 흰 무늬, 날개깃·꼬리 흑백 줄, 뺨선 형태, 다리·눈 색, 어린새, 드러밍"},
-    {"title": "Wikipedia – White-backed woodpecker", "url": "https://en.wikipedia.org/wiki/White-backed_woodpecker", "used": "유사종 큰오색딱다구리(24–26cm, 흰 등 아래쪽, 날개 흰 가로줄, 수컷 붉은 정수리)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 오색딱다구리",
+      "url": "https://species.nibr.go.kr/species-detail/120000001911",
+      "used": "국명·학명·분류(보호 지정 없음)"
+    },
+    {
+      "title": "국립생물자원관 종 설명(API) – 오색딱다구리",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001911",
+      "used": "몸길이, 부위별 깃 색, 암수 차이, 흔한 텃새, 서식 숲, 산란 시기, 먹이"
+    },
+    {
+      "title": "IOC World Bird List v15.2 master list",
+      "url": "https://worldbirdnames.org/master_ioc_list_v15.2.xlsx",
+      "used": "영문명 Great Spotted Woodpecker, 아종 japonicus 분포(Korean Pen. 포함)"
+    },
+    {
+      "title": "Wikipedia – Great spotted woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+      "used": "날개 편 길이, 어깨 흰 무늬, 날개깃·꼬리 흑백 줄, 뺨선 형태, 다리·눈 색, 어린새, 드러밍"
+    },
+    {
+      "title": "Wikipedia – White-backed woodpecker",
+      "url": "https://en.wikipedia.org/wiki/White-backed_woodpecker",
+      "used": "유사종 큰오색딱다구리(24–26cm, 흰 등 아래쪽, 날개 흰 가로줄, 수컷 붉은 정수리)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "번식 달은 국립생물자원관의 산란 시기(5–7월) 기준이다. 육추가 8월까지 이어지는지 확인하지 못함"
-  ]
+  ],
+  "occurrence": {
+    "code": "R1, W5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Dendrocopos major",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

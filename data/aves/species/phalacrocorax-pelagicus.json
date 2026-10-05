@@ -7,7 +7,7 @@
   "ktsn": 120000001567,
   "origin": "nibr",
   "length": "약 73cm",
-  "status": "비교적 드문 텃새",
+  "status": "겨울철새 수천 마리 · 텃새 수백 마리",
   "habitat": "섬, 해안가 바위와 암벽",
   "protect": [],
   "months": {
@@ -26,9 +26,9 @@
       12
     ],
     "breed": "TODO",
-    "note": "서해 일부 섬에서 무리 지어 번식하고, 겨울에는 해안가 바위에서 드물게 보인다."
+    "note": "서해 일부 섬에서 무리 지어 번식하고, 겨울에는 해안가 바위에서 볼 수 있다."
   },
-  "summary": "비교적 드문 텃새로, 서해 일부 섬에서 무리 지어 번식하고 겨울에는 해안가 바위나 암벽에서 드물게 볼 수 있다. 암벽 위나 오목한 자리에 마른 풀과 해초로 둥지를 짓고 한배에 알 3~4개를 낳아 약 31일 동안 품는다. 해마다 같은 자리를 쓰기 때문에 바위가 배설물로 하얗게 덮이기도 한다.",
+  "summary": "해마다 수천 마리가 겨울을 나는 겨울철새이자 비교적 드문 텃새로, 서해 일부 섬에서 무리 지어 번식하고 겨울에는 해안가 바위나 암벽에서 볼 수 있다. 암벽 위나 오목한 자리에 마른 풀과 해초로 둥지를 짓고 한배에 알 3~4개를 낳아 약 31일 동안 품는다. 해마다 같은 자리를 쓰기 때문에 바위가 배설물로 하얗게 덮이기도 한다.",
   "points": [
     {
       "ko": "다른 가마우지보다 가는 머리와 부리",
@@ -81,7 +81,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Urile pelagicus)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W3, R4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Urile pelagicus",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

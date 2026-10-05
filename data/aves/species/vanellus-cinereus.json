@@ -7,7 +7,7 @@
   "ktsn": 120000001670,
   "origin": "nibr",
   "length": "36cm",
-  "status": "희귀한 나그네새",
+  "status": "길잃은새, 해마다 10건 미만",
   "habitat": "논, 밭, 개울가 풀숲, 모래밭, 초습지",
   "protect": [],
   "months": {
@@ -15,7 +15,7 @@
     "breed": [],
     "note": "번식지에서는 3월 하순~6월 상순에 알을 낳는다."
   },
-  "summary": "우리나라에서는 희귀한 나그네새로 알려져 있으며, 논, 밭, 개울가 풀숲, 모래밭, 초습지 등에 찾아온다. 번식기가 아닐 때는 무리 지어 지낸다. 곤충, 지렁이, 파충류, 물고기 등을 먹고, 풀숲이나 잔디, 자갈밭의 오목한 곳에 둥지를 지어 알 3~4개를 27~30일 동안 품는다. 시베리아 남부, 몽골, 중국, 일본에 분포한다.",
+  "summary": "우리나라에서는 해마다 10건 미만으로 기록되는 길잃은새로, 논, 밭, 개울가 풀숲, 모래밭, 초습지 등에 찾아온다. 번식기가 아닐 때는 무리 지어 지낸다. 곤충, 지렁이, 파충류, 물고기 등을 먹고, 풀숲이나 잔디, 자갈밭의 오목한 곳에 둥지를 지어 알 3~4개를 27~30일 동안 품는다. 시베리아 남부, 몽골, 중국, 일본에 분포한다.",
   "points": [
     {
       "ko": "회색 머리와 목",
@@ -72,7 +72,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Vanellus cinereus",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

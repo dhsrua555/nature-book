@@ -7,12 +7,12 @@
   "ktsn": 120000001557,
   "origin": "nibr",
   "length": "140–178cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
   "habitat": "호숫가, 습지의 갈대밭, 갯벌(둥지 자리)",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "번식지에서는 3~7월에 알을 낳는다."
   },
   "summary": "우리나라에서는 1914년 인천에서 한 번 채집된 기록만 있는 새이다. 아랫부리에 늘어나는 큰 주머니가 있어 작은 물고기나 새우 따위를 빨아들여 삼킨다. 호숫가나 습지의 갈대밭, 갯벌에 나뭇가지, 수초, 풀로 접시 모양 둥지를 짓고 흰 알을 보통 2~3개 낳는다. 유럽, 아시아, 페르시아만, 카스피해, 몽골, 중국에서 번식하고 중국 남부, 인도 북부, 이집트에서 겨울을 난다.",
@@ -64,7 +64,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "2",
+    "bk": "Pelecanus crispus",
+    "rarity": 7.5
+  },
+  "breeding": "번식 기록 없음"
 }

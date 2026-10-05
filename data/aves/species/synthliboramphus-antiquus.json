@@ -7,7 +7,7 @@
   "ktsn": 120000001809,
   "origin": "nibr",
   "length": "약 25cm",
-  "status": "텃새",
+  "status": "겨울철새 수만 마리 · 여름철새 수백 마리",
   "habitat": "바다, 바닷가, 섬, 육지의 연못",
   "protect": [],
   "months": {
@@ -31,7 +31,7 @@
     ],
     "note": "국내 산란기는 3월 중순~4월 중순이고, 다른 지역에서는 6~7월에 알을 낳는다."
   },
-  "summary": "우리나라의 텃새로, 주로 섬에서 번식한다. 바닷가와 육지의 연못 등에서 지내며, 겨울에는 몇 마리에서 수천 마리에 이르는 무리가 바다 위를 줄지어 떠다니며 잠수한다. 작은 물고기, 갑각류, 조개 같은 연체동물을 잡아먹는다. 국내에서는 알을 1~2개, 때로 3개 낳으며 강원도, 경상북도, 전라남도, 제주도 등지에서 볼 수 있다.",
+  "summary": "해마다 수만 마리가 겨울을 나는 겨울철새이자 수백 마리가 찾아오는 여름철새로, 주로 섬에서 번식한다. 바닷가와 육지의 연못 등에서 지내며, 겨울에는 몇 마리에서 수천 마리에 이르는 무리가 바다 위를 줄지어 떠다니며 잠수한다. 작은 물고기, 갑각류, 조개 같은 연체동물을 잡아먹는다. 국내에서는 알을 1~2개, 때로 3개 낳으며 강원도, 경상북도, 전라남도, 제주도 등지에서 볼 수 있다.",
   "points": [
     {
       "ko": "검은 머리 위와 목덜미",
@@ -76,7 +76,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W2, S4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Synthliboramphus antiquus",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

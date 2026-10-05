@@ -7,12 +7,12 @@
   "ktsn": 120000001560,
   "origin": "nibr",
   "length": "약 81cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "열대 바다, 섬",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "열대 바다에 사는 땅딸막한 바닷새이다. 사람 사는 곳 가까이에 둥지를 틀고, 엷은 푸른빛이 도는 백악질 알을 2개 낳는다. 바하마와 대서양, 인도양, 태평양의 섬 등지에 분포한다.",
   "points": [
@@ -63,9 +63,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 국내 출현이나 국내 상태에 관한 말이 없다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Sula dactylatra",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

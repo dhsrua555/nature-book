@@ -7,12 +7,12 @@
   "ktsn": 120000001419,
   "origin": "nibr",
   "length": "약 77cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "툰드라의 호수와 석호 부근, 해안",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "툰드라의 호수나 석호 부근에서 번식하는 기러기로, 알래스카 서부와 시베리아 북동부 해안에 분포한다. 보통 알을 4~6개 낳아 대략 24~27일 동안 품는다. 털갈이 때 번식하지 않는 개체들은 알래스카의 세인트로렌스섬에 크게 모이거나 시베리아 추코스키 반도 북부로 모이고, 번식 집단은 번식지 가까이에서 털갈이를 한다.",
   "points": [
@@ -76,7 +76,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Anser canagicus",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

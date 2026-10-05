@@ -7,7 +7,7 @@
   "ktsn": 120000001939,
   "origin": "nibr",
   "length": "31cm",
-  "status": "드문 겨울철새",
+  "status": "나그네새·겨울철새, 해마다 수십 마리 · 한 해 내내 또는 여름에도 드물게 기록(10건 미만)",
   "habitat": "나뭇가지 위(둥지 자리)",
   "protect": [],
   "months": {
@@ -68,7 +68,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P5, W5, R/SV2",
+    "bs": "2",
+    "cat": "1",
+    "bk": "Lanius sphenocercus",
+    "rarity": 5.0
+  },
+  "breeding": "2000년 이후 번식 추정"
 }

@@ -7,7 +7,7 @@
   "ktsn": 120000001757,
   "origin": "nibr",
   "length": "TODO",
-  "status": "흔한 텃새",
+  "status": "여름철새 10만 마리 이상 · 겨울철새 수만 마리",
   "habitat": "무인도서(번식), 해안, 강, 하구, 하천",
   "protect": [],
   "months": {
@@ -28,7 +28,7 @@
     "breed": "TODO",
     "note": "이른 봄부터 번식지에 모여들어 8월까지 번식한다."
   },
-  "summary": "우리나라 무인도에서 번식하고 겨울도 나는 흔한 텃새로, 해안과 강, 하구, 하천에서 볼 수 있다. 서해안과 남해안의 무인도에 큰 무리를 이루어 번식하며, 이른 봄부터 모여들어 8월까지 번식을 이어 간다. 물고기 떼가 모이는 곳에 잘 모이고 물고기, 곤충, 물풀 등을 먹는다. 고양이 울음과 비슷한 소리를 낸다고 해서 이 이름이 붙었다.",
+  "summary": "우리나라 무인도에서 번식하고 겨울도 나는 흔한 여름철새이자 겨울철새로, 해안과 강, 하구, 하천에서 볼 수 있다. 서해안과 남해안의 무인도에 큰 무리를 이루어 번식하며, 이른 봄부터 모여들어 8월까지 번식을 이어 간다. 물고기 떼가 모이는 곳에 잘 모이고 물고기, 곤충, 물풀 등을 먹는다. 고양이 울음과 비슷한 소리를 낸다고 해서 이 이름이 붙었다.",
   "points": [
     {
       "ko": "끝이 붉은 노란 부리",
@@ -86,9 +86,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "번식 시작이 '이른 봄'으로만 적혀 있어 months.breed 를 TODO 로 두었다."
-  ]
+  ],
+  "occurrence": {
+    "code": "S1, W2",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Larus crassirostris",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

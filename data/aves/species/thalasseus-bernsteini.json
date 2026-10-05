@@ -7,7 +7,7 @@
   "ktsn": 120000212501,
   "origin": "nibr",
   "length": "TODO",
-  "status": "TODO",
+  "status": "여름에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "TODO",
   "protect": [
     "멸종위기 야생생물 Ⅰ급"
@@ -40,9 +40,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
-  ]
+  ],
+  "occurrence": {
+    "code": "SV1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Thalasseus bernsteini",
+    "rarity": 6
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

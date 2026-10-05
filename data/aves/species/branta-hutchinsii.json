@@ -7,7 +7,7 @@
   "ktsn": 120000528791,
   "origin": "nibr",
   "length": "약 67cm",
-  "status": "TODO",
+  "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "습지, 논, 강 등 숲이 없는 평지",
   "protect": [],
   "months": {
@@ -67,9 +67,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문 일부(북미 골프장·도심 공원의 텃새화 개체, 흰 목덜미·목둘레 묘사)는 캐나다기러기(Branta canadensis) 무리 일반 설명으로 보여 B. hutchinsii에 맞는지 확인 필요; 국내 상태는 원문에 없음"
-  ]
+  ],
+  "occurrence": {
+    "code": "WV1",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Branta hutchinsii",
+    "rarity": 6
+  },
+  "breeding": "번식 기록 없음"
 }

@@ -7,14 +7,27 @@
   "ktsn": 120000001859,
   "origin": "nibr",
   "length": "약 70cm",
-  "status": "TODO",
+  "status": "텃새, 해마다 수천 마리",
   "habitat": "개활지·물가에 인접한 암벽 지대, 바위산",
   "protect": [
     "천연기념물",
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO"
   },
   "summary": "숲으로만 이루어진 산보다 개활지나 물가에 닿은 암벽 지대와 바위산에 주로 사는, 올빼미과에서 몸이 가장 큰 새이다. 무리 짓지 않고 홀로 지내며, 밤에 활동하지만 낮에도 움직인다. 둥지를 짓지 않고 암벽의 선반 같은 곳이나 평평한 바위, 바위틈에 흰 알을 2~3개 낳으며, 암컷이 알을 품는 동안 수컷이 먹이를 날라 준다. 쥐, 두더지, 토끼, 개구리, 뱀, 비둘기, 꿩 따위를 먹고, 전국에 살며 국외에서는 구북구 전역과 북아프리카에 분포한다.",
@@ -70,7 +83,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "R3",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Bubo bubo",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

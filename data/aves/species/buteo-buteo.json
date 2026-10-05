@@ -7,7 +7,7 @@
   "ktsn": 120000001609,
   "origin": "nibr",
   "length": "수컷 52cm, 암컷 56cm",
-  "status": "흔한 통과철새, 겨울철새",
+  "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
   "habitat": "경작지, 산림, 숲 가장자리",
   "protect": [],
   "months": {
@@ -23,9 +23,9 @@
       5
     ],
     "breed": [],
-    "note": "9~10월부터 서해안 섬 지역에서 남하하는 무리가 보이고, 12월~이듬해 2월에 전국에서 월동하며, 북상하는 개체는 5월까지 관찰된다."
+    "note": ""
   },
-  "summary": "한국 전역에 흔히 찾아와 지나가거나 겨울을 나는 맹금으로, 경작지와 산림, 숲 가장자리에 산다. 깃털 색은 개체마다 차이가 크다. 날개를 조금 들어 완만한 V자를 이룬 채 날고 정지비행도 하며, 주로 설치류를 잡지만 곤충, 양서·파충류, 새도 먹는다. 알은 보통 2~4개를 낳고, 유라시아와 아프리카에 널리 분포한다.",
+  "summary": "우리나라에는 지금까지 기록이 10건이 안 되는 길잃은새로, 경작지와 산림, 숲 가장자리에 사는 맹금이다. 깃털 색은 개체마다 차이가 크다. 날개를 조금 들어 완만한 V자를 이룬 채 날고 정지비행도 하며, 주로 설치류를 잡지만 곤충, 양서·파충류, 새도 먹는다. 알은 보통 2~4개를 낳고, 유라시아와 아프리카에 널리 분포한다.",
   "points": [
     {
       "ko": "어두운 갈색 눈(어른새)",
@@ -84,8 +84,21 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [],
-  "wingspan": "122–137cm"
+  "wingspan": "122–137cm",
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "R",
+    "bk": "Buteo buteo",
+    "rarity": 9
+  },
+  "breeding": "번식 기록 없음"
 }

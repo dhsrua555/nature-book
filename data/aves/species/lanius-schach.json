@@ -7,7 +7,7 @@
   "ktsn": 120000001937,
   "origin": "nibr",
   "length": "TODO",
-  "status": "텃새",
+  "status": "나그네새, 해마다 수십 마리 · 겨울에도 드물게 기록 · 여름에도 드물게 기록",
   "habitat": "관목이 무성한 곳, 경작지",
   "protect": [],
   "months": {
@@ -27,7 +27,7 @@
     ],
     "breed": "TODO"
   },
-  "summary": "남부지방에 사는 텃새로, 관목이 우거진 곳이나 경작지에서 지낸다. 도마뱀, 설치류, 작은 새, 곤충 따위를 잡아 나뭇가지나 철사에 꽂아 두는 습성이 있는데, 이렇게 둔 먹이를 잊어버리는 일이 잦다. 평소에는 물결치듯 오르내리며 날지만 먹이를 덮칠 때는 곧장 돌진한다. 국내에서는 전라남도 하태도·가거도와 제주도 등지에서 볼 수 있고, 국외에서는 인도에서 뉴기니까지 분포한다.",
+  "summary": "해마다 수십 마리가 지나가는 나그네새로, 관목이 우거진 곳이나 경작지에서 지낸다. 도마뱀, 설치류, 작은 새, 곤충 따위를 잡아 나뭇가지나 철사에 꽂아 두는 습성이 있는데, 이렇게 둔 먹이를 잊어버리는 일이 잦다. 평소에는 물결치듯 오르내리며 날지만 먹이를 덮칠 때는 곧장 돌진한다. 국내에서는 전라남도 하태도·가거도와 제주도 등지에서 볼 수 있고, 국외에서는 인도에서 뉴기니까지 분포한다.",
   "points": [
     {
       "ko": "진줏빛 회색 머리",
@@ -80,7 +80,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P5, WV1, SV1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Lanius schach",
+    "rarity": 5.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

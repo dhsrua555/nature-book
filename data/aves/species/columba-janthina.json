@@ -7,14 +7,27 @@
   "ktsn": 120000001823,
   "origin": "nibr",
   "length": "약 40cm",
-  "status": "텃새이자 여름철새",
+  "status": "텃새 수백 마리 · 여름철새 수십 마리",
   "habitat": "울릉도와 남해안 섬의 상록활엽수림",
   "protect": [
     "천연기념물",
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO",
     "note": "서남해에서는 2월 말부터 둥지를 짓는다."
   },
@@ -68,7 +81,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "R4, S5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Columba janthina",
+    "rarity": 4.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

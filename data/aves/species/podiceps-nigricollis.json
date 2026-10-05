@@ -7,7 +7,7 @@
   "ktsn": 120000001506,
   "origin": "nibr",
   "length": "약 31cm",
-  "status": "비교적 흔한 겨울철새",
+  "status": "겨울철새, 해마다 수천 마리",
   "habitat": "강 하류, 해안 호수",
   "protect": [],
   "months": {
@@ -59,7 +59,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "W3",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Podiceps nigricollis",
+    "rarity": 3.0
+  },
+  "breeding": "번식 기록 없음"
 }

@@ -7,26 +7,66 @@
   "ktsn": 120000001967,
   "length": "약 57cm",
   "wingspan": "TODO",
-  "status": "흔한 텃새",
+  "status": "텃새 10만 마리 이상 · 겨울철새 수만 마리",
   "habitat": "산림과 숲, 농경지와 주거지 주변, 도심 녹지공원",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [3, 4, 5, 6, 7],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "note": "전국에 사는 텃새로, 주로 산림에서 번식하고 겨울에는 저지대로 옮겨 온다. 번식기는 3~7월이고 알은 3월 하순~6월 하순에 낳으며, 새끼가 둥지를 떠나 독립하는 때는 5~7월이다."
   },
   "summary": "온몸이 광택 있는 검은색이고 부리가 유난히 크고 굵은 까마귀로, 우리 주변에서 흔히 보는 까마귀류 가운데 가장 크다. 전국에 사는 흔한 텃새로 주로 산림에서 번식하며, 최근에는 도심 녹지에서도 꾸준히 번식한다. 낟알과 열매부터 곤충, 작은 동물, 다른 새의 알과 새끼, 동물 사체와 음식 찌꺼기까지 가리지 않고 먹는다. 새끼가 둥지를 떠나는 5~7월에는 둥지 가까이 온 사람의 머리를 향해 날아들며 위협하기도 한다.",
   "points": [
-    {"ko": "크고 굵게 굽은 부리", "en": "massive, strongly arched bill"},
-    {"ko": "가파르게 솟은 이마", "en": "steep forehead, domed crown"},
-    {"ko": "보랏빛 광택의 검은 몸", "en": "glossy black with purple sheen"},
-    {"ko": "멱의 길쭉한 깃", "en": "elongated throat hackles"}
+    {
+      "ko": "크고 굵게 굽은 부리",
+      "en": "massive, strongly arched bill"
+    },
+    {
+      "ko": "가파르게 솟은 이마",
+      "en": "steep forehead, domed crown"
+    },
+    {
+      "ko": "보랏빛 광택의 검은 몸",
+      "en": "glossy black with purple sheen"
+    },
+    {
+      "ko": "멱의 길쭉한 깃",
+      "en": "elongated throat hackles"
+    }
   ],
-  "sexes": {"alike": true, "text": "암수 같은 색이다. 암컷이 평균적으로 조금 작고 윗부리가 덜 굽었다."},
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다. 암컷이 평균적으로 조금 작고 윗부리가 덜 굽었다."
+  },
   "young": "어린새는 어른새보다 깃의 광택이 적고, 홍채가 갈색이 아니라 탁한 푸른빛을 띤다.",
   "similar": [
-    {"ko": "까마귀", "how": "몸길이 약 50cm로 조금 작고 부리가 가늘다. 큰부리까마귀는 윗부리가 크게 굽고 이마가 가파르게 솟아 부리와 거의 직각을 이루며, 울음소리도 더 굵고 크게 울린다."},
-    {"ko": "떼까마귀", "how": "봄·가을에 지나가거나 남부에서 큰 무리로 겨울을 나는 새다. 부리가 더 가늘고, 어른새는 부리 기부와 콧구멍 둘레의 잿빛 피부가 드러나 보인다."}
+    {
+      "ko": "까마귀",
+      "how": "몸길이 약 50cm로 조금 작고 부리가 가늘다. 큰부리까마귀는 윗부리가 크게 굽고 이마가 가파르게 솟아 부리와 거의 직각을 이루며, 울음소리도 더 굵고 크게 울린다."
+    },
+    {
+      "ko": "떼까마귀",
+      "how": "봄·가을에 지나가거나 남부에서 큰 무리로 겨울을 나는 새다. 부리가 더 가늘고, 어른새는 부리 기부와 콧구멍 둘레의 잿빛 피부가 드러나 보인다."
+    }
   ],
   "art": {
     "subject": "Adult Large-billed Crow (Corvus macrorhynchos mandshuricus, Korean population), about 57 cm long. Entirely black, glossy plumage with a purple sheen; very large, deep black bill with a strongly arched culmen, its base covered by overlapping black bristles; steep forehead rising almost at a right angle from the bill base, giving a high domed crown; elongated lanceolate hackle feathers on the throat; slightly rounded tail; black legs and feet; dark brown iris. Sexes alike in plumage.",
@@ -39,19 +79,76 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 큰부리까마귀", "url": "https://species.nibr.go.kr/species-detail/120000001967", "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"},
-    {"title": "국립생물자원관 종 설명 API – 큰부리까마귀 개요(한반도생물자원포털 2011)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001967", "used": "몸길이 57cm쯤·형태·암컷이 다소 작음·둥지·산란 3월 하순~6월 하순·먹이"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 큰부리까마귀(한국의새소리 2010 생태·국내분포)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001967&pageNo=1&pageSize=50", "used": "흔한 텃새·산림 번식·겨울 저지대 이동·울음소리"},
-    {"title": "기후에너지환경부·국립생물자원관 보도자료(2026.5.20) – 초여름 잦아지는 큰부리까마귀 공격, 둥지 근처 피하고 우산·모자로 대비하세요", "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156762515&call_from=rsslink", "used": "텃새·전국 분포, 몸길이 56.5cm(차이 기록), 부리·이마 형태, 번식기 3~7월, 독립 5~7월, 산란수·포란·육추, 서식지, 도심 번식·방어 행동"},
-    {"title": "위 보도자료 첨부 파일(HWPX, 붙임1 큰부리까마귀 생태 특성)", "url": "https://www.korea.kr/common/download.do?fileId=198467136&tblKey=GMN", "used": "붙임1 생태 특성 표 원문"},
-    {"title": "서울특별시 환경분야 누리집 – 새끼 보호 시기 7월까지 큰부리까마귀 주의", "url": "https://news.seoul.go.kr/env/?p=569372", "used": "번식기 3~7월, 이소기 5~7월 방어 행동"},
-    {"title": "IOC World Bird List v15.2 – Crows, mudnesters, birds-of-paradise", "url": "https://www.worldbirdnames.org/bow/crows/", "used": "영명 Large-billed Crow, 한반도 아종 C. m. mandshuricus"},
-    {"title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv", "used": "아종 분포·분류 주석"},
-    {"title": "Wikipedia – Large-billed crow", "url": "https://en.wikipedia.org/wiki/Large-billed_crow", "used": "부리·광택·홍채·다리·멱 깃, 암수 차이, 어린새 (HBW 인용 문장), 몸길이 46–59cm(차이 기록)"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 까마귀", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001966&pageNo=1&pageSize=50", "used": "유사종 까마귀(50cm, 가는 부리)"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 떼까마귀", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001965&pageNo=1&pageSize=50", "used": "유사종 떼까마귀(나그네새·겨울새, 부리 기부 잿빛 피부, 가는 부리)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 큰부리까마귀",
+      "url": "https://species.nibr.go.kr/species-detail/120000001967",
+      "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"
+    },
+    {
+      "title": "국립생물자원관 종 설명 API – 큰부리까마귀 개요(한반도생물자원포털 2011)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000001967",
+      "used": "몸길이 57cm쯤·형태·암컷이 다소 작음·둥지·산란 3월 하순~6월 하순·먹이"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 큰부리까마귀(한국의새소리 2010 생태·국내분포)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001967&pageNo=1&pageSize=50",
+      "used": "흔한 텃새·산림 번식·겨울 저지대 이동·울음소리"
+    },
+    {
+      "title": "기후에너지환경부·국립생물자원관 보도자료(2026.5.20) – 초여름 잦아지는 큰부리까마귀 공격, 둥지 근처 피하고 우산·모자로 대비하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156762515&call_from=rsslink",
+      "used": "텃새·전국 분포, 몸길이 56.5cm(차이 기록), 부리·이마 형태, 번식기 3~7월, 독립 5~7월, 산란수·포란·육추, 서식지, 도심 번식·방어 행동"
+    },
+    {
+      "title": "위 보도자료 첨부 파일(HWPX, 붙임1 큰부리까마귀 생태 특성)",
+      "url": "https://www.korea.kr/common/download.do?fileId=198467136&tblKey=GMN",
+      "used": "붙임1 생태 특성 표 원문"
+    },
+    {
+      "title": "서울특별시 환경분야 누리집 – 새끼 보호 시기 7월까지 큰부리까마귀 주의",
+      "url": "https://news.seoul.go.kr/env/?p=569372",
+      "used": "번식기 3~7월, 이소기 5~7월 방어 행동"
+    },
+    {
+      "title": "IOC World Bird List v15.2 – Crows, mudnesters, birds-of-paradise",
+      "url": "https://www.worldbirdnames.org/bow/crows/",
+      "used": "영명 Large-billed Crow, 한반도 아종 C. m. mandshuricus"
+    },
+    {
+      "title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv",
+      "used": "아종 분포·분류 주석"
+    },
+    {
+      "title": "Wikipedia – Large-billed crow",
+      "url": "https://en.wikipedia.org/wiki/Large-billed_crow",
+      "used": "부리·광택·홍채·다리·멱 깃, 암수 차이, 어린새 (HBW 인용 문장), 몸길이 46–59cm(차이 기록)"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001966&pageNo=1&pageSize=50",
+      "used": "유사종 까마귀(50cm, 가는 부리)"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 떼까마귀",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001965&pageNo=1&pageSize=50",
+      "used": "유사종 떼까마귀(나그네새·겨울새, 부리 기부 잿빛 피부, 가는 부리)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "wingspan: 날개편길이 출처 미확인"
-  ]
+  ],
+  "occurrence": {
+    "code": "R1, W2",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Corvus macrorhynchos",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

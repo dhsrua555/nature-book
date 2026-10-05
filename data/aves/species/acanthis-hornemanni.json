@@ -7,12 +7,12 @@
   "ktsn": 120000528860,
   "origin": "nibr",
   "length": "약 11–14cm",
-  "status": "TODO",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "목초지, 길가, 툰드라",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO",
+    "breed": [],
     "note": "겨울에는 목초지나 길가에서, 여름에는 툰드라에서 지낸다."
   },
   "summary": "겨울에는 목초지나 길가에서, 여름에는 툰드라 지역에서 지내는 작은 새이다. 나무의 새싹이나 작은 열매를 쪼아 먹는다. 바위 밑이나 수풀이 우거진 곳에 엷은 푸른빛 바탕에 밝은 갈색 반점이 있는 알을 5~6개 낳는다. 북극 해안 지역에 분포한다.",
@@ -65,9 +65,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Acanthis flammea hornemanni)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문의 '둔부에 줄무늬가 있다'와 '허리 깃털이 흰색이다'가 같은 부위를 말하는지 분명하지 않아 줄무늬는 싣지 않았다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "1",
+    "bk": "Acanthis hornemanni",
+    "rarity": 7
+  },
+  "breeding": "번식 기록 없음"
 }

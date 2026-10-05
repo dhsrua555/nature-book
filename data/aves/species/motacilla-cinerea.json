@@ -7,11 +7,24 @@
   "ktsn": 120000002171,
   "origin": "nibr",
   "length": "20cm",
-  "status": "흔한 여름철새",
+  "status": "나그네새 수만 마리 · 여름철새 수천 마리 · 텃새 수십 마리",
   "habitat": "계곡, 하천, 연못 등 습지 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": "TODO"
   },
   "summary": "계곡, 하천, 연못 같은 습지 주변에 살며 우리나라에서 흔히 번식하는 여름철새이다. 돌 틈이나 건물 틈에 가는 줄기와 뿌리로 둥지를 짓는다. 땅에서 걸을 때 다른 할미새류처럼 꼬리를 위아래로 까딱이고, 날 때는 물결 모양으로 오르내리며, 나무 꼭대기나 전깃줄, 지붕, 바위 위에 앉아 운다. 국내 전역에 살고 국외에서는 러시아, 중국, 일본, 인도차이나에 분포한다.",
@@ -72,7 +85,20 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": []
+  "todo": [],
+  "occurrence": {
+    "code": "P2, S3, R5",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Motacilla cinerea",
+    "rarity": 2.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

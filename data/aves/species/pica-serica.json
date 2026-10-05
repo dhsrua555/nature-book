@@ -7,26 +7,66 @@
   "ktsn": 120000532854,
   "length": "46cm",
   "wingspan": "TODO",
-  "status": "텃새",
+  "status": "텃새, 해마다 10만 마리 이상",
   "habitat": "도시와 농촌의 평지, 마을 주변 나무와 농경지",
   "protect": [],
   "months": {
-    "seen": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "breed": [2, 3, 4, 5, 6],
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "note": "전국에 사는 텃새다. 2월부터 번식을 시작하며, 서울대학교 캠퍼스 장기 조사에서는 3월 초부터 6월 중순까지 둥지의 알과 새끼를 조사한다."
   },
   "summary": "푸른 광택이 도는 검은 몸에 흰 배와 흰 어깨 무늬, 긴 꼬리를 가진 까마귀과 새로, 우리나라를 대표하는 텃새다. 도시와 농촌의 평지에 살며 나무나 전신주 위에 둥지를 튼다. 이른 봄인 2월부터 번식을 시작하고, 번식기가 지나면 무리를 지어 지낸다. 예전에는 유라시아까치(Pica pica)의 한 아종으로 보았으나 유전자 연구 이후 별개의 종으로 나뉘었다.",
   "points": [
-    {"ko": "푸른 광택의 검은 몸", "en": "black plumage with blue-green gloss"},
-    {"ko": "흰 어깨깃", "en": "white scapular patch"},
-    {"ko": "흰 배와 옆구리", "en": "white belly and flanks"},
-    {"ko": "날 때 보이는 흰 첫째날개깃", "en": "white primaries visible in flight"},
-    {"ko": "길고 층진 검은 꼬리", "en": "long graduated black tail"}
+    {
+      "ko": "푸른 광택의 검은 몸",
+      "en": "black plumage with blue-green gloss"
+    },
+    {
+      "ko": "흰 어깨깃",
+      "en": "white scapular patch"
+    },
+    {
+      "ko": "흰 배와 옆구리",
+      "en": "white belly and flanks"
+    },
+    {
+      "ko": "날 때 보이는 흰 첫째날개깃",
+      "en": "white primaries visible in flight"
+    },
+    {
+      "ko": "길고 층진 검은 꼬리",
+      "en": "long graduated black tail"
+    }
   ],
-  "sexes": {"alike": true, "text": "암수 같은 색이다."},
+  "sexes": {
+    "alike": true,
+    "text": "암수 같은 색이다."
+  },
   "young": "어린새는 어른새와 무늬가 같지만 검은 부분이 광택 없는 그을음색이고 흰 부분에 담황색 기가 돈다. 꼬리가 어른새보다 짧으며, 늦여름이면 어른새와 거의 같아진다.",
   "similar": [
-    {"ko": "물까치", "how": "몸길이 37cm로 작고, 검은 머리 아래 몸이 회갈색이며 날개와 꼬리가 하늘색이다. 흰 어깨 무늬와 흰 배가 없다."}
+    {
+      "ko": "물까치",
+      "how": "몸길이 37cm로 작고, 검은 머리 아래 몸이 회갈색이며 날개와 꼬리가 하늘색이다. 흰 어깨 무늬와 흰 배가 없다."
+    }
   ],
   "art": {
     "subject": "Adult Oriental Magpie (Pica serica anderssoni, Korean population), about 46 cm long with a long graduated tail. Head, neck, breast, mantle and back black; wings black with a blue-green gloss on the secondaries and tertials; a large pure white scapular patch on each shoulder; white belly and flanks sharply demarcated from the black breast; primaries with extensive white inner webs and black tips, forming a white panel when the wing opens; rump mostly black with a narrow greyish-white band; long black tail glossed green and reddish purple; black bill and black legs; dark brown iris. Sexes alike.",
@@ -39,19 +79,68 @@
     ]
   },
   "sources": [
-    {"title": "국립생물자원관 국가생물종목록 – 까치", "url": "https://species.nibr.go.kr/species-detail/120000532854", "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"},
-    {"title": "국립생물자원관 종 설명 API – 까치 개요(한반도생물자원포털 2010)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000532854", "used": "몸길이 46cm·형태·대표적인 텃새·둥지·2월부터 번식·비번식기 무리"},
-    {"title": "국립생물자원관 종 콘텐츠 목록 – 까치(옛 ktsn 120000001958, 한국의새소리 2010 등)", "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001958&pageNo=1&pageSize=50", "used": "국내분포 전국, 생태(텃새·2월 번식 시작)"},
-    {"title": "IOC World Bird List v15.2 – Crows, mudnesters, birds-of-paradise", "url": "https://www.worldbirdnames.org/bow/crows/", "used": "영명 Oriental Magpie, 8.2판 분리, 한반도 아종 P. s. anderssoni"},
-    {"title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv", "used": "분리 근거 문구(Lee et al. 2003; Song et al. 2018)·아종 분포"},
-    {"title": "Wikipedia – Oriental magpie", "url": "https://en.wikipedia.org/wiki/Oriental_magpie", "used": "몸길이 45cm(차이 기록), 허리의 좁은 회백색 띠, 유라시아까치와의 차이"},
-    {"title": "Wikipedia – Eurasian magpie", "url": "https://en.wikipedia.org/wiki/Eurasian_magpie", "used": "첫째날개깃 안쪽 깃판의 흰색, 홍채·부리·다리 색, 어린새 꼬리가 짧음(Pica pica 기준)"},
-    {"title": "The Avifauna of Hong Kong (HKBWS) – Oriental Magpie", "url": "https://avifauna.hkbws.org.hk/species/0260/033600", "used": "깃 광택 색(둘째·셋째날개깃 청록, 꼬리 녹색·적자색), 암수 같음, 어린새"},
-    {"title": "Kim H-h et al. 2026. Habitat urbanization, nest defense and breeding success in the Oriental Magpie (Pica serica). Frontiers in Ecology and Evolution 14:1842756", "url": "https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2026.1842756/full", "used": "서울 번식 시기(12월 시작·1월 하순 본격화, 둥지 조사 3월 초~6월 중순, 한 번식 약 4.5개월)"}
+    {
+      "title": "국립생물자원관 국가생물종목록 – 까치",
+      "url": "https://species.nibr.go.kr/species-detail/120000532854",
+      "used": "국명·학명·분류·보호 등급(nibr_species.json 제공 값)"
+    },
+    {
+      "title": "국립생물자원관 종 설명 API – 까치 개요(한반도생물자원포털 2010)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/get-cn-data/120000532854",
+      "used": "몸길이 46cm·형태·대표적인 텃새·둥지·2월부터 번식·비번식기 무리"
+    },
+    {
+      "title": "국립생물자원관 종 콘텐츠 목록 – 까치(옛 ktsn 120000001958, 한국의새소리 2010 등)",
+      "url": "https://species.nibr.go.kr/gwsvc/digital/api/v1/public/bisp-conts/list?contsTypeMulti=EO,DT,SO,ET,ND,ID,EC,AB&cprgtYn=Y&stts=Y&ktsn=120000001958&pageNo=1&pageSize=50",
+      "used": "국내분포 전국, 생태(텃새·2월 번식 시작)"
+    },
+    {
+      "title": "IOC World Bird List v15.2 – Crows, mudnesters, birds-of-paradise",
+      "url": "https://www.worldbirdnames.org/bow/crows/",
+      "used": "영명 Oriental Magpie, 8.2판 분리, 한반도 아종 P. s. anderssoni"
+    },
+    {
+      "title": "IOC World Bird List 마스터 시트(위 페이지에 내장된 구글 시트, CSV)",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmLDAgrFrQXmUSd7-KbWHN6XzJLklmm6HP28wFxbhSzVKPE4yHq-GmroLuqaCWiA/pub?gid=546146977&single=true&output=csv",
+      "used": "분리 근거 문구(Lee et al. 2003; Song et al. 2018)·아종 분포"
+    },
+    {
+      "title": "Wikipedia – Oriental magpie",
+      "url": "https://en.wikipedia.org/wiki/Oriental_magpie",
+      "used": "몸길이 45cm(차이 기록), 허리의 좁은 회백색 띠, 유라시아까치와의 차이"
+    },
+    {
+      "title": "Wikipedia – Eurasian magpie",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+      "used": "첫째날개깃 안쪽 깃판의 흰색, 홍채·부리·다리 색, 어린새 꼬리가 짧음(Pica pica 기준)"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Oriental Magpie",
+      "url": "https://avifauna.hkbws.org.hk/species/0260/033600",
+      "used": "깃 광택 색(둘째·셋째날개깃 청록, 꼬리 녹색·적자색), 암수 같음, 어린새"
+    },
+    {
+      "title": "Kim H-h et al. 2026. Habitat urbanization, nest defense and breeding success in the Oriental Magpie (Pica serica). Frontiers in Ecology and Evolution 14:1842756",
+      "url": "https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2026.1842756/full",
+      "used": "서울 번식 시기(12월 시작·1월 하순 본격화, 둥지 조사 3월 초~6월 중순, 한 번식 약 4.5개월)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    }
   ],
   "todo": [
     "wingspan: 날개편길이 출처 미확인",
     "breed: 국내 공식 출처는 '2월부터 번식 시작'만 적음. 끝 달 6월은 서울대 장기 연구의 둥지 조사 기간(3월 초~6월 중순)에 근거한 것이며, 2월은 산란이 아닌 둥지 짓기일 수 있음",
     "art: 홍채 색(어두운 갈색)과 첫째날개깃 안쪽 깃판의 흰색은 유라시아까치(Pica pica) 기준 자료. 깃 광택 색은 출처마다 '더 푸르다/더 녹색이다'로 엇갈림"
-  ]
+  ],
+  "occurrence": {
+    "code": "R1",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Pica serica",
+    "rarity": 1.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

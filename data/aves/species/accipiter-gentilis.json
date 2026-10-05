@@ -7,14 +7,27 @@
   "ktsn": 120000001605,
   "origin": "nibr",
   "length": "50–56cm",
-  "status": "TODO",
+  "status": "나그네새 수천 마리 · 겨울철새 수천 마리 · 텃새 수백 마리",
   "habitat": "산야, 평지, 하천변, 번식기에는 깊은 산림",
   "protect": [
     "천연기념물",
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       5,
       6
@@ -78,9 +91,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Astur gentilis)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 국내 상태 낱말(텃새·겨울철새 등)이 없어 status 를 TODO 로 둠(겨울에 흔히 보이고 번식도 한다고만 함)"
-  ]
+  ],
+  "occurrence": {
+    "code": "P3, W3, R4",
+    "bs": "1",
+    "cat": "1",
+    "bk": "Accipiter gentilis",
+    "rarity": 3.0
+  },
+  "breeding": "2000년 이후 번식 확인"
 }

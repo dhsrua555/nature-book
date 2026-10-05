@@ -7,7 +7,7 @@
   "ktsn": 120000528853,
   "origin": "nibr",
   "length": "TODO",
-  "status": "나그네새",
+  "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
   "habitat": "물가 모래땅, 자갈밭, 농경지",
   "protect": [],
   "months": {
@@ -18,9 +18,9 @@
       10
     ],
     "breed": [],
-    "note": "4~5월과 9~10월에 지나가며, 번식지에서의 번식기는 4~6월이다."
+    "note": "번식지에서의 번식기는 4~6월이다."
   },
-  "summary": "4~5월과 9~10월에 우리나라 전역을 지나가는 나그네새로, 물가 모래땅이나 자갈밭, 농경지 등에서 지낸다. 중앙아시아와 몽골, 중국 북부에서 번식하고 남쪽으로 내려가 겨울을 난다. 번식기는 4~6월이고 한배에 알을 3~4개 낳는다.",
+  "summary": "우리나라에는 지금까지 기록이 10건이 안 되는 길잃은새로, 물가 모래땅이나 자갈밭, 농경지 등에서 지낸다. 중앙아시아와 몽골, 중국 북부에서 번식하고 남쪽으로 내려가 겨울을 난다. 번식기는 4~6월이고 한배에 알을 3~4개 낳는다.",
   "points": [
     {
       "ko": "엷은 모래색 눈앞과 눈썹선",
@@ -73,9 +73,22 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
   "todo": [
     "원문에 몸길이가 없고 날개길이(8.5~10cm)만 있어 length를 TODO로 두었다"
-  ]
+  ],
+  "occurrence": {
+    "code": "V2",
+    "bs": "0",
+    "cat": "R",
+    "bk": "Alaudala cheleensis",
+    "rarity": 9
+  },
+  "breeding": "번식 기록 없음"
 }
