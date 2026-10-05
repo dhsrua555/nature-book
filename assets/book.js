@@ -429,8 +429,8 @@ const R = {
     const b = S.book, c = b.counts;
     return `<div class="pg-in intro">
       <p class="kicker">${esc(b.kicker)}</p>
-      <h1 class="title">${esc(b.title)}</h1>
-      <p class="title-en"><i>${esc(b.en)}</i></p>
+      <h1 class="title">${esc(b.title).replace(/\s*(\(.+\))$/, ' <span class="paren">$1</span>')}</h1>
+      ${b.en ? `<p class="title-en"><i>${esc(b.en)}</i></p>` : ""}
       ${ORN}
       <p class="lede">${esc(b.intro)}</p>
       <dl class="tally">
