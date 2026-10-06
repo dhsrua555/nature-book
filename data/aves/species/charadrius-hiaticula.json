@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Common Ringed Plover (Charadrius hiaticula), adult in breeding plumage, as seen on Korean coasts on spring passage in May: white forehead with a black band across the forecrown above it; crown and nape plain grey-brown; black mask from the bill base through the eye to the ear coverts, with a small white mark behind the eye; white throat joining a complete white collar; broad, complete black breast band; upperparts plain grey-brown; underparts white; bill short, orange with a black tip; no obvious coloured eye-ring; legs orange.",
+    "pose": "running on wet sand and stopping to pick prey from the surface, side view",
+    "scene": "Korean west-coast sandy shore at the edge of a tidal flat in May, low tide, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact, round-headed plover, slightly smaller than a starling and chunkier than Little Ringed Plover, with a short thick neck and horizontal stance. Bill short and stubby, clearly shorter than the head, straight. Legs medium length, orange. In flight a long, clear white wing-bar on brown upperwings, and a brown tail centre with white sides. Runs in short bursts, stops, then tilts forward to pick prey from the surface.",
+    "avoid": [
+      "Do not paint a bright yellow eye-ring or an all-dark bill; that is Little Ringed Plover (Charadrius dubius), which also lacks the white wing-bar.",
+      "Do not break the black breast band into two side patches; that is Kentish Plover (Charadrius alexandrinus).",
+      "Do not paint dull pinkish or greyish legs; breeding adults have orange legs.",
+      "Do not draw a long, slim bill with brown ear coverts; that is Long-billed Plover (Charadrius placidus)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

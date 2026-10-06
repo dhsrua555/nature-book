@@ -120,14 +120,23 @@
     }
   ],
   "art": {
-    "subject": "Adult male Mallard in breeding plumage: glossy bottle-green head with a metallic sheen, narrow white neck ring, purple-tinged chestnut-brown breast, pale grey finely vermiculated flanks and belly, grey-brown back, black rump and undertail coverts with the black central tail feathers curled upward, white-edged dark tail, iridescent purple-blue speculum bordered with white, bright yellow bill with a small dark tip, orange legs and feet, dark eye.",
+    "subject": "Mallard (Anas platyrhynchos), adult male in breeding plumage (worn from about October to May, so right for a Korean winter river): glossy bottle-green head; narrow white neck ring, broken at the back of the neck; purplish chestnut-brown breast; pale grey flanks and belly finely vermiculated; grey-brown mantle; black rump and undertail coverts, with the black central uppertail coverts curled up into a ring; whitish-grey outer tail feathers; purple-blue speculum bordered by white bars in front and behind; bright greenish-yellow bill with a small black nail; dark brown eye; orange legs and feet.",
     "pose": "Swimming on open water in side profile, wings folded so the purple-blue speculum with white borders shows at the rear of the wing.",
     "scene": "A wide lowland river in Korea in mid-winter: open water with thin ice along the edges, a sandbar and dry common reeds on the bank, an earthen levee and harvested rice-paddy stubble beyond, pale winter sky. No people, buildings or text.",
     "views": [
-      "adult male, breeding plumage, swimming, side view",
-      "adult female, swimming, side view (mottled brown, dark eye-stripe, orange bill with dark marks)",
-      "adult male in flight, from above, showing the white-bordered purple-blue speculum"
-    ]
+      "adult male, breeding plumage, swimming, side view: glossy green head, narrow white neck ring, purplish chestnut breast, pale grey body, black stern with curled black central feathers, white-bordered blue speculum at the rear of the folded wing, yellow bill",
+      "adult female, swimming, side view: buff-brown body with dark brown feather centres giving a mottled pattern, dark crown and dark eye-stripe on a paler face, orange bill with an irregular dark saddle along the top, whitish tail sides, the same white-bordered speculum",
+      "adult male in flight seen from above, head, body and tail in line: green head, white neck ring, grey-brown back, purple-blue speculum with white bars in front and behind, whitish tail with the black curled central feathers"
+    ],
+    "build": "Large, heavy dabbling duck, about 59cm; much smaller than a goose. Long body riding high on the water, rounded head, medium-length neck. Bill flat and broad, about as long as the head, slightly widened towards the tip, straight in profile. Legs short, orange, set near the centre of the body so it walks well on land. At rest the wingtips reach close to the tail tip. Tail short and pointed. In flight broad-based wings with fast steady beats; the white-bordered blue speculum shows on the upperwing and the underwing is whitish.",
+    "avoid": [
+      "Do not paint a dark bill with only a yellow tip on the brown bird; that is Eastern Spot-billed Duck, the duck most often confused with the female.",
+      "Do not give the female the male's yellow bill or white neck ring.",
+      "Do not paint a green or black-and-white speculum; the Mallard's is purple-blue framed by two white bars.",
+      "Do not give the male a crest or a reddish-orange breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

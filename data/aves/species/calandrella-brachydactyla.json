@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Short-toed Lark (Calandrella brachydactyla), adult: pointed blackish-brown bill, greyish breast and belly with large dark brown patches on the sides of the breast, pale brown wings, dark brown tail, dark brown toes",
+    "subject": "Greater Short-toed Lark (Calandrella brachydactyla), adult (sexes alike in plumage), as seen on Korean fields during passage in April-May: crown sandy-brown, often warm-tinged, finely streaked dark; pale creamy supercilium and pale eye-ring; upperparts sandy grey-brown streaked dark; median coverts dark-centred, forming a dark bar on the wing; long tertials dark-centred with pale edges; underparts whitish with a buff wash on the breast sides and flanks, the breast largely unstreaked; a dark brown patch on each side of the upper breast; tail dark brown with white outer feathers; stout pointed bill, pinkish horn with a greyish ridge; dark eye; pale pinkish-brown legs.",
     "pose": "standing on bare ground among grass tufts, side view",
-    "scene": "dry open ground with clumps of grass around a shallow hollow; no people, buildings or text",
+    "scene": "Korean coastal farmland and dry reclaimed land with short grass tufts in May, during spring passage; no people, buildings or text",
     "views": [
-      "adult, side view standing: pointed blackish-brown bill, greyish underparts with dark brown breast-side patches, pale brown wings, dark brown tail",
-      "adult, front view: large dark brown patch on each side of the breast"
-    ]
+      "adult, side view standing on bare ground among grass tufts: sandy streaked upperparts, pale supercilium, dark median-covert bar, long tertials covering the primaries, whitish unstreaked breast with a dark breast-side patch, stout pinkish bill with a grey ridge, dark tail with white edges",
+      "adult, front view standing: whitish breast and belly with a buff wash, a dark brown patch on each side of the upper breast, otherwise almost unstreaked, conical bill, pale legs"
+    ],
+    "build": "Small, compact lark, about 14cm, about the size of a sparrow; rounded head without a crest, short neck, stands fairly upright on bare ground. Bill short, stout, conical and pointed like a finch's, shorter than the head. Legs short, with a short hind claw. At rest the long tertials cover almost the whole of the primaries, leaving little or no primary tip visible, and the tail extends beyond them. Tail medium-length, dark with white outer edges. Flight undulating; no white trailing edge to the wing.",
+    "avoid": [
+      "Do not paint a band of fine dark streaks across the breast and visible primary tips beyond the tertials - that is Asian Short-toed Lark (Alaudala cheleensis).",
+      "Do not paint a crest or heavy streaking (Eurasian Skylark).",
+      "Do not paint a blackish bill or dark legs; the bill is pinkish with a grey ridge and the legs pale.",
+      "Do not paint a thin pipit-like bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

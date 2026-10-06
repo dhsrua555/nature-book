@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Brown Shrike (Lanius cristatus cristatus), adult male, as seen on Korean islands and field edges during passage in May and August-September: crown, nape, back and rump plain warm rufous-brown, the crown about the same colour as the back; a narrow white forehead line continuing as a white supercilium above a broad black mask from the lores through the eye to the ear coverts; throat white; underparts creamy-white with a rich rufous-buff wash on the breast sides, flanks and belly; wings dark brown with paler rufous-buff edges and no white patch; long rufous-brown tail; strong blackish hooked bill; dark eye; dark grey legs.",
+    "pose": "perched upright on the top of a shrub, tail slightly lowered, scanning the ground for insects",
+    "scene": "Korean island scrub and field edge with shrubs in May, during spring passage, fresh green leaves; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized shrike, about the size of a Bull-headed Shrike and larger than a sparrow, with a large head, upright posture and long tail. Bill stout, shorter than the head, deep and laterally compressed with a hooked tip. Legs short, strong, dark grey. Wings short and rounded; the long, graduated, rounded tail extends far beyond the wingtips and is often swung slowly from side to side. Hunts from exposed perches, dropping onto insects.",
+    "avoid": [
+      "Do not paint a pale grey crown - that marks the subspecies lucionensis; in this form the crown is warm rufous-brown like the back.",
+      "Do not paint a white patch on the primaries or a rufous crown contrasting with a grey back - those mark Bull-headed Shrike (Lanius bucephalus).",
+      "Do not paint black-barred chestnut upperparts with a blue-grey crown (Tiger Shrike, Lanius tigrinus).",
+      "Do not make the bill thin or straight; it is stout and hooked."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

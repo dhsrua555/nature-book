@@ -41,13 +41,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red Collared Dove (Streptopelia tranquebarica), adult male: greenish-grey head, black collar on the neck, deep wine-red upper back and wings, the red fading paler below",
+    "subject": "Red Collared Dove (Streptopelia tranquebarica), adult male: head blue-grey, paler on the forehead and chin; a narrow black half-collar on the hindneck; mantle, scapulars and wing coverts deep wine-red; primaries blackish; rump and uppertail coverts blue-grey; breast and belly pinkish wine-red, fading to whitish under the tail; tail grey with broad white tips to the outer feathers; bill short and black; dark eye; legs dark reddish.",
     "pose": "perched on a branch, side view",
     "scene": "dry open woodland; no people, buildings or text",
     "views": [
-      "adult male, side view perched: greenish-grey head, black collar, deep wine-red back and wings",
-      "adult female, side view perched: paler wine and grey tones than the male"
-    ]
+      "adult male, side view perched: blue-grey head, narrow black hindneck collar, deep wine-red back and wings with blackish primaries, pinkish-red breast fading paler towards the vent",
+      "adult female, side view perched: grey-brown head, brown upperparts and pale buffy-pink underparts without wine-red, same narrow black hindneck collar, blackish primaries"
+    ],
+    "build": "Small, compact dove, about 23cm, roughly starling length and much smaller than Oriental Turtle Dove, with a small round head, plump body and a fairly short tail for a dove. Bill short and slender, much shorter than the head. Legs short. Tail square-ended; from below the base is blackish and the outer feathers broadly tipped white. Fast, direct flight showing blackish flight feathers against the wine-red (male) or brown (female) coverts.",
+    "avoid": [
+      "Do not make it large, long-tailed and sandy; that is Eurasian Collared Dove (Streptopelia decaocto), which the female resembles.",
+      "Do not paint the male's head red or green; it is blue-grey.",
+      "Do not paint scaly wing coverts (Oriental Turtle Dove) or a white-spotted neck patch (Spotted Dove)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

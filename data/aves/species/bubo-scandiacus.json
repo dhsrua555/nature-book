@@ -46,14 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Snowy Owl (Bubo scandiacus), adult male: white overall with some blackish-brown markings on the back, flight-feather tips and tail, fine markings on the neck, black bill, densely feathered legs and toes, black claws",
+    "subject": "Snowy Owl (Bubo scandiacus), adult male in winter: almost pure white all over, with only a few small, sparse blackish-brown spots and bars on the back, the tips of the flight feathers and the tail, and a few fine dark flecks on the crown and nape. Round head with no visible ear-tufts and a white face without a sharply rimmed facial disc. Black bill, largely hidden in the white facial feathers; bright golden-yellow eyes; legs and toes buried in dense white feathering, black claws.",
     "pose": "sitting still on a wooden post, watching the ground for prey",
     "scene": "Korean winter open country: a coastal marsh beside a beach with dry grass and a lone post; no people, buildings or text",
     "views": [
-      "adult male, side view perched: white overall, some blackish-brown markings on back, flight-feather tips and tail, black bill, feathered feet",
-      "adult female, side view perched: larger, white with blackish-brown bars across the back",
-      "foot detail: densely feathered legs and toes with black claws"
-    ]
+      "adult male, side view perched upright: almost pure white, a few small blackish-brown spots on the back, flight-feather tips and tail, round head without ear-tufts, black bill half hidden, yellow eyes, thickly feathered white feet",
+      "adult female, side view perched upright: larger and bulkier, white face and throat, crown, nape and neck finely marked dark, back, wings and tail heavily barred blackish brown, breast sides, belly and flanks also barred, yellow eyes",
+      "foot detail: short legs and toes buried in dense white feathering like fur, only the curved black claws showing"
+    ],
+    "build": "Large, bulky, heavy-bodied owl, much bigger than a crow and close to a Eurasian Eagle-Owl in size; females clearly larger than males. Big rounded head set flush on a broad body, no neck visible. Bill short, strongly hooked, black, mostly buried in facial feathering. Legs short and so thickly feathered that the feet look like white fur mittens with black claws. Wings long and broad; tail short and rounded. Sits upright and still on the ground, a mound or a post; flight low with steady, rather shallow wingbeats.",
+    "avoid": [
+      "Do not paint ear-tufts; the Snowy Owl's head is smoothly round (ear-tufts mark the Eurasian Eagle-Owl).",
+      "Do not paint orange, red or dark eyes; the iris is bright yellow.",
+      "Do not give it a heart-shaped facial disc like a Barn Owl, or bare yellow toes.",
+      "Do not cover the adult male in dense dark barring; heavy barring belongs to females and young birds."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

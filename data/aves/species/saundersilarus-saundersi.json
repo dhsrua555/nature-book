@@ -55,14 +55,24 @@
   "young": "어린새는 윗면이 갈색이고 깃 가장자리가 옅은 색이다.",
   "similar": [],
   "art": {
-    "subject": "Saunders's Gull (Saundersilarus saundersi), adult breeding: black head, white eye-ring, black bill, dark pearl-grey back, mostly white flight feathers, white neck, underparts and tail, red legs",
+    "subject": "Saunders's Gull (Saundersilarus saundersi), adult in breeding plumage as seen on Korean west-coast mudflats from March to June: jet-black hood covering the head and upper throat, with bold white crescents above and below the eye forming a broken white eye-ring; neck, underparts and tail white; mantle and wing coverts pearl-grey; folded wingtips black with white tips; outer primaries largely white with small black subterminal marks. Bill short, stubby and black; dark eye; legs dark red.",
     "pose": "flying low and slowly over a mudflat, about to drop onto a crab",
     "scene": "Korean west-coast tidal mudflat at a river mouth in spring; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black head, white eye-ring, black bill, dark pearl-grey back, white underparts and tail, red legs",
-      "adult non-breeding, head detail: white head with dark markings",
-      "juvenile, side view: brown upperparts with paler feather edges"
-    ]
+      "adult breeding plumage (March–June), side view standing: black hood with white crescents above and below the eye, short stubby black bill, pearl-grey back and wings, black-and-white wingtips, white neck, underparts and tail, dark red legs",
+      "adult non-breeding plumage, head close-up in side view: white head with a dark spot behind the eye and a dusky smudge over the rear crown, white eye crescents, short black bill",
+      "juvenile, side view standing: brown upperparts with paler buff feather edges, dark spot behind the eye, white underparts, black tail band",
+      "adult in flight seen from below: white body and tail, mostly white outer primaries, and a distinct black wedge on the underside of the inner primaries"
+    ],
+    "build": "Small, compact gull, 29–32cm, clearly smaller than a Black-tailed Gull and a little smaller than a Black-headed Gull, with a rounded head and a short, thick, blunt black bill much shorter than the head. Legs short, dark red. At rest the wingtips extend beyond the tail. Flight light and tern-like; it often hovers low over the mud and drops onto crabs. In flight the upperwing is grey with whitish outer primaries tipped with small black marks, and from below it shows a black wedge on the inner primaries.",
+    "avoid": [
+      "Do not paint a long, slender red bill — that is Black-headed Gull; Saunders's bill is short, stubby and black.",
+      "Do not paint a chocolate-brown hood; the hood is jet black.",
+      "Do not paint large solid black wingtips like a Black-tailed Gull's; the outer primaries are mostly white with small black marks.",
+      "Do not make it large or long-legged; it is a small, compact gull."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

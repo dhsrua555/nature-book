@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Plover (Charadrius veredus), adult male breeding: pale brown crown and hindcrown, white forehead, lores, cheeks, chin and throat, pale brown rear ear-coverts, pale buff supercilium, pale brown back and rump, rusty breast band bordered below by a black band, pure white belly and flanks, dark brown tail with white tips, slender black bill, long dull yellow legs",
+    "subject": "Oriental Plover (Charadrius veredus), adult male in breeding plumage, as seen on Korean islands on spring passage (March–May): crown and hindcrown pale brown; forehead, lores, cheeks, chin and throat white, rear ear-coverts pale brown, a pale buff supercilium, so the whole head looks pale and white-faced; back, wings and tail pale grey-brown, the tail tipped white; a broad rusty-chestnut band across the upper breast bordered below by a black band; belly, flanks and undertail pure white. Slender black bill; dark eye; long dull yellow legs.",
     "pose": "running lightly over open ground in search of insects",
-    "scene": "Gravel flat beside a flowing stream on open Korean island ground; no people, buildings or text",
+    "scene": "Korean island in spring: short-grass field and gravel flats beside a stream under an open sky; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: pale brown crown and upperparts, white face, buff supercilium, rusty breast band with black lower border, white belly, long dull yellow legs",
-      "adult male breeding, front view: white throat, rusty upper-breast band and black band below it"
-    ]
+      "adult male breeding, side view standing upright on short grass: pale brown crown and upperparts, white face and throat with a buff supercilium, broad rusty-chestnut breast band edged black below, pure white belly and flanks, slender black bill, long dull yellow legs, wingtips projecting beyond the tail",
+      "adult male breeding, front view: white throat and face, rusty-chestnut upper-breast band with a black band beneath it, white belly, long yellowish legs"
+    ],
+    "build": "Slender, long-legged plover, about 22.5cm long, a little smaller than Pacific Golden Plover; small rounded head, slim neck and long body, standing tall. Bill slender, straight and fine, about as long as the head. Legs long, with much bare tibia. Very long wings: at rest the wingtips project clearly beyond the tail tip. In flight long, pointed, almost plain brown wings and dusky underwings; flies fast and dashing like a swift.",
+    "avoid": [
+      "Do not paint a black mask or a black forehead bar — those mark Greater and Lesser Sand Plovers.",
+      "Do not paint a short-legged, dumpy plover shape; it is tall, slim and long-winged.",
+      "Do not paint gold-spangled upperparts or black underparts — that is Pacific Golden Plover.",
+      "Do not paint a broad white wing-bar in flight."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

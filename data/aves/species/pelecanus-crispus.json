@@ -41,13 +41,23 @@
   "young": "어린새는 온몸이 갈색이다.",
   "similar": [],
   "art": {
-    "subject": "Dalmatian Pelican (Pelecanus crispus), adult: white plumage, black primaries, huge bill with a large expandable pouch on the lower mandible, leaden-grey legs",
+    "subject": "Dalmatian Pelican (Pelecanus crispus), adult in winter at a Korean coastal wetland: plumage silvery greyish-white overall, with curly, untidy crest feathers on the hindcrown and nape; at rest the black primaries show at the rear of the folded wing; a small bare patch around the eye; iris pale yellow; bill enormous and grey, with a small hooked nail; pouch on the lower mandible orange-yellow (brighter orange-red in early spring); legs and feet leaden-grey.",
     "pose": "swimming on calm water, scooping small fish into its bill pouch",
     "scene": "Korean coastal wetland: a lake shore with reedbeds beside tidal mudflats; no people, buildings or text",
     "views": [
-      "adult, side view swimming: white body, black primaries, huge bill with pouch",
-      "juvenile, side view: brown all over"
-    ]
+      "adult winter, side view standing on the shore: silvery greyish-white plumage, curly crest on hindcrown and nape, pale yellow iris, huge grey bill with an orange-yellow pouch on the lower mandible, black primaries at the rear of the folded wing, leaden-grey legs and webbed feet",
+      "adult, flight seen from above: head drawn back with the bill resting on the neck, very long broad wings, greyish-white coverts and back, black primaries; head, body and tail in one line",
+      "juvenile, side view swimming: greyish-brown head, neck and upperparts, dull whitish underparts, pale pouch, the same huge bill and shape as the adult"
+    ],
+    "build": "A huge waterbird, 140–178cm, the largest of the pelicans and bulkier than a swan, with a heavy body, thick neck and short legs; swims high on the water. Bill straight and enormous, far longer than the head, with a large expandable pouch on the lower mandible. Legs short and stout, leaden-grey, all four toes webbed. In flight the head is drawn back with the bill on the neck; wings very long and broad; from above the primaries are black, from below the underwing is mostly greyish-white with only the primary tips darker. Tail short and rounded.",
+    "avoid": [
+      "Do not paint pink legs or a pure white body with a pink flush — that is Great White Pelican; Dalmatian is silvery greyish-white with leaden-grey legs.",
+      "Do not paint an all-black rear half to the underwing (Great White Pelican); from below only the primary tips are dark.",
+      "Do not paint a dark eye on the adult; the iris is pale yellow.",
+      "Do not paint a sleek head; adults have curly, shaggy crest feathers on the nape."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

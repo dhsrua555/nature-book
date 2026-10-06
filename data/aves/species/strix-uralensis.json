@@ -47,13 +47,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ural Owl (Strix uralensis), adult: pale buff-brown plumage with scattered white blotches at the feather tips",
+    "subject": "Ural Owl (Strix uralensis), adult (sexes alike), as seen in Korean mountain forests: overall pale greyish-buff to buff-brown; large rounded facial disc plain pale greyish-buff, unmarked, with a thin dark rim; upperparts buff-brown with dark brown streaks and large whitish blotches at the tips of the scapulars and wing coverts; underparts pale buff-white with long, narrow dark brown streaks and no cross-bars; tail long, barred dark and pale. Bill yellow; eyes small for an owl and dark brown; legs and toes densely feathered pale buff.",
     "pose": "perched upright on a branch at dusk",
     "scene": "Korean mountain forest; no people, buildings or text",
     "views": [
-      "adult, side view perched: pale buff-brown with scattered white blotches",
-      "adult, plumage detail: white spots at the tips of buff-brown feathers"
-    ]
+      "adult, front view perched: large round head, plain pale facial disc with a thin dark rim, small dark eyes, yellow bill, pale buff underparts with long dark streaks and no cross-bars",
+      "adult, side view perched: buff-brown upperparts with dark streaks and white blotches at the feather tips, long barred tail extending well beyond the wingtips"
+    ],
+    "build": "Large owl, much bigger than a Tawny Owl and about the size of a crow, with a big rounded head without ear tufts. Bill short, hooked, yellow. Tail long and graduated, extending well beyond the folded wingtips, noticeably longer than in Tawny Owl. Perches upright and still, often on an open branch. In flight long broad wings and a long tail give a buzzard-like outline.",
+    "avoid": [
+      "Do not give it ear tufts.",
+      "Do not paint large yellow or orange eyes; the eyes are relatively small and dark.",
+      "Do not paint cross-barred streaks on the underparts or a short tail; those belong to Tawny Owl (Strix aluco).",
+      "Do not paint a dark, strongly marked face; the facial disc is plain and pale."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

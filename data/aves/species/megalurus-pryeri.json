@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Marsh Grassbird (Megalurus pryeri), adult male (winter plumage): buff upperparts from forehead to uppertail coverts with black shaft streaks, broader on the crown, back and scapulars and narrower on the hindneck and rump, faint pale supercilium, pale brown lores and ear-coverts, white chin, throat and centre of breast and belly, buff sides of breast and belly, thin brown bill with a darker brown culmen, dark brown iris, pale brown legs",
+    "subject": "Marsh Grassbird (Megalurus pryeri), adult (sexes alike), as seen on autumn passage in Korea: upperparts buff from forehead to uppertail coverts with black shaft streaks, broad on the crown, mantle and scapulars and narrow on the hindneck and rump; faint pale supercilium; pale brown lores and ear-coverts; wings brown with buff feather edges; chin, throat and centre of breast and belly white, unstreaked; sides of breast and belly warm buff; long, strongly graduated brown tail; thin brown bill with a darker brown culmen; dark brown eye; pale brown legs.",
     "pose": "clambering between dense reed stems, side view",
-    "scene": "wet grassy marsh with dense reeds; no people, buildings or text",
+    "scene": "dense reed and sedge marsh in Korea during autumn migration, reeds turning buff with feathery seed heads, soft daylight; no people, buildings or text",
     "views": [
-      "adult male in winter plumage, side view clinging to a reed stem: black-streaked buff upperparts, faint pale supercilium, white throat and belly centre, buff flanks",
-      "adult, head detail: thin brown bill with darker culmen, pale brown lores and ear-coverts"
-    ]
+      "adult, side view clinging to an upright reed stem: buff upperparts with bold black streaks on crown, mantle and scapulars, faint pale supercilium, white throat and centre of breast and belly, buff sides of breast and belly, long graduated tail, pale brown legs gripping the stem",
+      "adult, head in side view: thin brown bill with darker brown culmen, faint pale supercilium, pale brown lores and ear-coverts, dark brown eye, black-streaked buff crown"
+    ],
+    "build": "A small, slender, long-tailed marsh warbler, 12.5cm, with a body smaller than a sparrow's; nearly half the length is tail. Rounded head with a flat forehead and no crest. Bill thin and fine, slightly shorter than the head, with gently rounded culmen and lower edge. Legs medium, pale brown, with strong feet for clinging to reed stems. Wings short and rounded; at rest the wingtips barely pass the base of the tail. Tail long and strongly graduated, with narrow, rounded feathers, often slightly cocked or fanned. Flight short and weak, low over the reeds with the tail spread.",
+    "avoid": [
+      "Do not paint plain, unstreaked upperparts; that is a reed warbler such as Oriental Reed Warbler (Acrocephalus orientalis).",
+      "Do not paint a bold white supercilium with a black stripe above it (Black-browed Reed Warbler); the supercilium is faint.",
+      "Do not give it a short tail with white tips (Zitting Cisticola); the tail is long, graduated and plain brown.",
+      "Do not streak the white throat, breast or belly."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

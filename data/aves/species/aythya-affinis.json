@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Lesser Scaup (Aythya affinis), adult male in winter plumage, as worn from October to April: head and neck black with a purple gloss in good light; breast black; back and scapulars pale grey with coarse dark wavy vermiculation; flanks white with faint grey vermiculation; rear end and tail black. Bill pale blue-grey with only a very small black nail at the tip; iris bright yellow; legs and feet grey.",
+    "pose": "swimming on calm water, side view",
+    "scene": "Korean estuary or coastal reservoir in winter, calm water under a pale grey sky; no people, buildings or text",
+    "views": [],
+    "build": "Medium-small diving duck, slightly smaller than a Tufted Duck, compact and short-bodied. Head small and narrow with a peaked crown, the highest point behind the eye; no crest. Bill shorter than the head, broad and flat, with only a tiny black nail at the tip. Short grey legs set far back. In flight a white wing-bar across the secondaries that turns grey on the primaries. Tail short and dark, held low on the water.",
+    "avoid": [
+      "Do not paint a large rounded head with green gloss and a wide black nail on the bill — those are Greater Scaup (Aythya marila) traits.",
+      "Do not carry the white wing-bar onto the primaries; in Lesser Scaup it is white only on the secondaries.",
+      "Do not give it a crest or a black back like Tufted Duck; the back is pale grey with dark wavy lines.",
+      "Do not paint a dark eye; the iris is bright yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

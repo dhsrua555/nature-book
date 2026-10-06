@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Green-backed Flycatcher (Ficedula elisae), adult male in spring, a migrant on a Korean offshore island: crown, nape and back olive-green; a short yellow stripe from the bill to the eye and a yellow eye-ring, with no supercilium behind the eye; rump bright yellow; wings blackish with a white patch on the inner wing coverts; tail black; throat, breast and belly yellow, paler towards the undertail coverts, with no orange. Bill short and dark; eye dark; legs dark grey.",
+    "pose": "perched upright on a twig in the mid-canopy, side view",
+    "scene": "fresh spring foliage at a woodland edge on a Korean offshore island in May, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact flycatcher, clearly smaller than a sparrow, with a rounded head and short neck; perches upright in the mid-canopy and makes short sallies. Bill short, flat and dark, much shorter than the head. Legs short and dark grey. Tail medium length, square, all black without white sides.",
+    "avoid": [
+      "Do not paint a black back or crown — that is male Narcissus Flycatcher; Green-backed has olive-green upperparts.",
+      "Do not paint a long yellow supercilium behind the eye or an orange throat (Narcissus Flycatcher).",
+      "Do not paint a white supercilium (Yellow-rumped Flycatcher, common in Korea).",
+      "Do not paint white tail sides."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

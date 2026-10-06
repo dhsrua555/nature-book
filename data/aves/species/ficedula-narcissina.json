@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Narcissus Flycatcher (Ficedula narcissina), adult male in winter plumage: brownish-black forehead, crown, lores, cheeks, ear coverts, nape, neck sides, breast sides, back and scapulars, bright yellow supercilium, orange to deep orange chin and throat, yellow breast and belly with a paler lower belly, brown iris, dark brown legs",
+    "subject": "Narcissus Flycatcher (Ficedula narcissina), adult male on spring passage (April–May): forehead, crown, lores, cheeks, ear coverts, nape, neck sides, back and scapulars black (slightly brownish-black in some birds); a bright yellow supercilium over the eye; a bold white patch on the inner wing coverts of the otherwise black wing; rump bright yellow; tail black; chin and throat deep orange, shading into bright yellow on the breast and belly and becoming whitish on the lower belly and undertail coverts; short black bill, broad and flat at the base; brown iris; dark brown legs.",
     "pose": "perched high in the crown of a tree, side view",
     "scene": "Korean deciduous broadleaf woodland during migration; no people, buildings or text",
     "views": [
-      "adult male, side view perched: brownish-black head and back, bright yellow supercilium, deep orange throat, yellow breast and belly",
-      "adult male, front view: deep orange chin and throat, yellow breast, paler lower belly"
-    ]
+      "adult male, side view perched: black head and back, bright yellow supercilium, white wing patch, yellow rump, deep orange chin and throat, yellow breast and belly, dark brown legs",
+      "adult male, front view perched: deep orange chin and throat grading into a yellow breast and belly, paler whitish lower belly, yellow supercilia on both sides of the black head"
+    ],
+    "build": "Small, neat flycatcher, about 11cm by the book's measure, slightly smaller than a sparrow, with a rounded head, short neck and upright stance. Bill short and flat, broad-based and triangular when seen from above, much shorter than the head. Legs short, dark. Wings fairly long; tail medium length and square. Perches quietly in the mid and upper canopy and sallies out for insects.",
+    "avoid": [
+      "Do not paint a white supercilium or a lemon-yellow throat — that is Yellow-rumped Flycatcher (Ficedula zanthopygia).",
+      "Do not paint the head and back green or olive; the adult male is black above.",
+      "Do not omit the white wing patch or the yellow rump.",
+      "Do not give it a thin, pointed warbler bill; it is short and broad-based."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

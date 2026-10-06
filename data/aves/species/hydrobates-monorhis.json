@@ -100,13 +100,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Swinhoe's Storm Petrel (Hydrobates monorhis), adult: dark brown overall, paler brown forehead and wing coverts, dark greyish-brown underparts and underwing, black primaries and secondaries, brown tertials with pale brown edges, forked black tail, black bill and legs",
+    "subject": "Swinhoe's Storm Petrel (Hydrobates monorhis), adult in summer (breeding season around Korean offshore islands): whole plumage dark sooty brown, the head the same colour as the body; on each upperwing a paler greyish-brown diagonal band across the coverts from the bend of the wing; primaries, secondaries and tail blackish; underparts and underwing dark greyish-brown with no white anywhere; rump dark, the same colour as the back; tail blackish and forked; small black bill with a tube-shaped nostril on top; dark eye; black legs and feet.",
     "pose": "flying low over the sea, wings spread",
     "scene": "Korean summer sea beside a rocky offshore island; no people, buildings or text",
     "views": [
-      "adult, in flight from above: dark brown body, paler brown wing coverts, black flight feathers, forked black tail",
-      "adult, side view standing at a burrow entrance: dark brown plumage, black bill and legs"
-    ]
+      "adult in flight seen from above, head, body and tail in line: all dark sooty-brown body and rump, blackish flight feathers, a paler greyish-brown diagonal band across each upperwing, forked blackish tail",
+      "adult, side view crouching low on rock at a burrow entrance: small dark sooty-brown bird resting on short black legs, tube-nosed black bill, long folded wings, blackish forked tail"
+    ],
+    "build": "Small seabird, about 20cm: about the length of a Barn Swallow but with longer, broader, angled wings. Small rounded head, short neck, slender body. Bill short and black, much shorter than the head, with a raised tubular nostril on the upper mandible and a small hooked tip. Legs short, thin and black; in flight the feet do not project beyond the tail. Wings long and pointed, sharply bent at the wrist. Tail moderately forked. Flies low over the sea with buoyant, bounding flight and erratic changes of direction.",
+    "avoid": [
+      "Do not paint a white rump; Swinhoe's Storm Petrel has a dark rump, unlike Leach's Storm Petrel.",
+      "Do not paint a swallow: no glossy blue and no red throat, and the bill has a tubular nostril.",
+      "Do not paint white underparts or a white band on the underwing.",
+      "Do not paint long legs or feet trailing beyond the tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

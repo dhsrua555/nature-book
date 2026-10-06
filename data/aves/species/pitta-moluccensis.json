@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Blue-winged Pitta (Pitta moluccensis), adult: crown with broad buff-brown sides divided by a black central crown stripe; a broad black mask from the bill through the eye to the nape; chin and throat white; mantle, back and scapulars green; wing coverts and rump shining cobalt-blue; flight feathers black with a large white patch at the base of the primaries; breast and flanks rich buff; lower belly and undertail coverts scarlet; tail short, black with a blue tip. Bill black and stout; dark eye; legs pinkish.",
+    "pose": "standing upright on leaf litter, side view",
+    "scene": "Shady evergreen broadleaf forest floor on a southern Korean island in May, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Plump, almost tailless ground bird, a little larger and heavier-billed than Fairy Pitta (Pitta nympha); large head and upright stance on long legs, with a very short tail. Bill stout, slightly shorter than the head. Legs long and strong, pinkish. Wings rounded. In flight a large white patch shows across the black primaries, and the blue rump and wing coverts flash. Hops on the forest floor, flicking over leaf litter.",
+    "avoid": [
+      "Do not paint chestnut crown sides with a long creamy supercilium and pale whitish-buff underparts; those mark Fairy Pitta (Pitta nympha), the pitta that breeds in Korea.",
+      "Do not paint the blue as a small spot; the wing coverts and rump are broadly bright blue.",
+      "Do not give it a long tail or a slender bill.",
+      "Do not paint a red throat or blue underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

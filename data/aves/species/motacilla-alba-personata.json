@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "White Wagtail of the form personata (Motacilla alba personata, Masked Wagtail), adult male in breeding plumage, a spring vagrant on a Korean riverbank: forehead, forecrown, lores, area around the eye and ear coverts white, forming a white face mask with no dark eye-stripe; rest of the crown, nape, neck sides, chin, throat and breast black, enclosing the white face; mantle, back and rump grey; wings blackish with broad white edges to the coverts forming a large white wing panel; belly and undertail white; tail long, black in the centre with white outer feathers. Bill black and slender; eye dark; legs black.",
+    "pose": "walking on a pebbly riverbank pumping its tail, side view",
+    "scene": "pebbly river shoal with low willows in Korea in early spring (March–April), clear light; no people, buildings or text",
+    "views": [],
+    "build": "Slim, long-tailed wagtail, longer than a sparrow and the same size as the White Wagtails common in Korea; horizontal stance, walks briskly and pumps its long tail up and down. Bill black, thin and straight, shorter than the head. Legs black, fairly long and slender. The long tail projects far beyond the wingtips. In flight deeply undulating, showing much white in the wing and white tail sides.",
+    "avoid": [
+      "Do not paint a black line through the eye; personata has an all-white face (ocularis and lugens have a black eye-stripe).",
+      "Do not paint a white throat with a separate black breast patch (Amur Wagtail leucopsis, common in Korea); breeding personata is black from chin to breast.",
+      "Do not paint a black back (male leucopsis or lugens); personata's back is grey.",
+      "Do not paint yellow anywhere on the underparts (Grey or Citrine Wagtail)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

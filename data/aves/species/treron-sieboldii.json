@@ -46,13 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-bellied Green Pigeon (Treron sieboldii), adult male: dark green back, wings and tail, yellowish-green breast, white belly and flanks, dark purple shoulder coverts, black band on the tail",
+    "subject": "White-bellied Green Pigeon (Treron sieboldii), adult male: head and neck olive-green, brighter yellowish-green on the forehead and face; back, wings and tail dark green; a dark purplish-maroon patch on the shoulder (lesser and median wing coverts); flight feathers blackish-green; throat and breast yellowish-green; belly and flanks white; tail dark green with a blackish band across it; bill pale blue-grey; legs reddish-pink.",
     "pose": "perched in a broadleaf tree, side view, eating fruit",
     "scene": "dense broadleaf forest with a lush green canopy; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark purple shoulder coverts, dark green back and wings, yellowish-green breast, white belly",
-      "adult female, side view perched: dark green shoulder coverts, black band on the tail"
-    ]
+      "adult male, side view perched among leaves: dark purplish-maroon shoulder patch, dark green back and wings, yellowish-green breast, white belly and flanks, dark green tail with a black band, pale blue-grey bill",
+      "adult female, side view perched: shoulder dark green like the rest of the wing with no purple, yellowish-green breast, white belly, black band on the dark green tail"
+    ],
+    "build": "Medium-sized, plump, rather short-necked pigeon, about 33cm, close to feral pigeon length, with a small rounded head and a medium-long tail. Bill short, much shorter than the head. Legs short. Moves slowly and quietly among leaves, clambering to reach fruit and sitting still, well hidden by its green colour. Flight fast and direct on pointed wings.",
+    "avoid": [
+      "Do not paint a grey or dark iridescent body; that is Japanese Wood Pigeon (Columba janthina) or a feral pigeon.",
+      "Do not paint a yellow or green belly; the belly and flanks are white.",
+      "Do not give the female the purple shoulder patch.",
+      "Do not paint a red or black bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -39,13 +39,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Spotted Eagle (Clanga clanga), adult: blackish-brown plumage overall, with a few whitish spots on the head and neck visible at close range",
+    "subject": "Greater Spotted Eagle (Clanga clanga), adult as seen on Korean wetlands in winter (November–March): plumage almost uniformly dark blackish-brown, the head and body as dark as the wings; often a narrow whitish crescent on the uppertail coverts; flight feathers and tail blackish. Bill rather small for an eagle, dark grey, with a yellow cere and a gape line ending below the eye; dark brown eye; legs feathered with narrow, dark 'stovepipe' trousers; bare toes yellow.",
     "pose": "perched upright on a bare branch, side view",
-    "scene": "TODO",
+    "scene": "Korean winter river floodplain: reedbeds, wet meadows and a lake edge with a few bare willow trees under a pale sky; no people, buildings or text",
     "views": [
-      "adult, side view perched: large raptor, blackish-brown overall, a few whitish spots on head and neck",
-      "adult, head and neck detail: scattered whitish spots on dark brown feathers"
-    ]
+      "adult, side view perched upright on a bare branch: large raptor build, uniformly blackish-brown, short rounded tail reaching about the folded wingtips, narrow dark feathered trousers, small dark bill with a yellow cere, yellow toes",
+      "juvenile, side view perched: blackish-brown with rows of bold white spots on the wing coverts and white tips to the secondaries and tertials, whitish uppertail-covert crescent, dark head"
+    ],
+    "build": "Medium-large, compact eagle, clearly larger and heavier than Eastern Buzzard but much smaller than Golden Eagle; rather short-necked and bull-headed with a relatively small bill. At rest the wingtips reach about the tail tip. Tail short and rounded. In flight broad, parallel-edged wings with seven long fingers, held flat or with the hand slightly drooped when gliding, and a short rounded tail; looks dark and heavy.",
+    "avoid": [
+      "Do not paint a golden-buff nape or a long tail — that is Golden Eagle.",
+      "Do not paint a pale nape patch or a long gape line extending behind the eye — that is Steppe Eagle (Aquila nipalensis).",
+      "Do not paint a pale buzzard pattern with dark carpal patches; the adult is uniformly dark.",
+      "Do not give the adult the juvenile's white-spotted wings."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

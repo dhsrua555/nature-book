@@ -67,13 +67,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Merganser (Mergus merganser), adult male: green-tinged black head and upper neck, white body, black back, long slender red bill with a downcurved black tip, yellowish-red legs",
+    "subject": "Common Merganser (Mergus merganser), adult male in winter, as seen on Korean rivers from November to March: head and upper neck black with a green gloss, the head smooth and rounded with a slight bulge at the nape but no crest; lower neck, breast, flanks and belly white, often with a faint salmon-pink tinge; mantle black; rump and tail grey. Long, slender, serrated red bill with a black hooked tip; dark eye; orange-red legs.",
     "pose": "swimming low on a river with the head half submerged, searching for fish",
     "scene": "wide Korean river in winter with open flowing water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: green-tinged black head, white body, black back, long red bill with a black hooked tip",
-      "adult female, side view swimming: brown head with backswept crest, white chin, white neck band, grey body, long red bill"
-    ]
+      "adult male, side view standing on a riverside rock: green-glossed black head with no crest, long red bill with a hooked black tip, white body tinged pink, black back, grey tail, orange-red legs",
+      "adult female, side view swimming: chestnut-brown head with a shaggy crest at the back, white chin, brown neck sharply cut off from the white lower foreneck, grey body, long red bill"
+    ],
+    "build": "Large, long-bodied diving duck, about 65cm, larger and longer than a Mallard, swimming low with a long, flat back. Head large, neck thick. Bill red, long and narrow, about as long as the head, straight with a hooked tip and serrated edges for gripping fish. Legs short, orange-red, set far back. In flight straight, fast and low, with the long body, neck and bill held in a line; the male shows a large white inner wing.",
+    "avoid": [
+      "Do not give the male a spiky crest or a streaked brown breast band — that is Red-breasted Merganser (Mergus serrator).",
+      "Do not paint a broad, flat duck bill; it is a narrow red saw-bill with a hooked tip.",
+      "Do not blend the female's brown neck gradually into the body; the border with the white foreneck is sharp.",
+      "Do not paint the male's body grey; it is white with a black back."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

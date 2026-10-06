@@ -70,14 +70,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Brown-eared Bulbul (sexes alike), a slender, long-tailed songbird about 28 cm long. Head, nape and back ash-grey with a faint bluish tinge; crown feathers pointed, giving a slightly ragged, spiky crown. A distinct chestnut-brown patch on the ear-coverts behind the eye, reaching toward the side of the neck. Wings and long tail grey-brown. Throat and upper breast grey with paler feather edges, becoming increasingly spotted and scaled with white toward the belly and vent. Slender, slightly decurved black bill; dark reddish-brown eye; dark reddish-brown legs.",
+    "subject": "Brown-eared Bulbul (Hypsipetes amaurotis), adult (sexes alike, plumage the same all year): crown and nape ash-grey with a faint blue tinge, the crown feathers pointed and often raised into a slightly ragged crest; a chestnut-brown patch on the ear-coverts and side of the neck; back and rump grey to brownish grey; wings and tail grey-brown; throat and breast grey with paler feather edges, the belly and flanks increasingly spotted and scaled white; undertail coverts dark grey scaled white; slender black bill; dark reddish-brown eye; dark brown legs.",
     "pose": "perched upright on a branch of a fruiting tree, head turned slightly, long tail hanging below the perch",
     "scene": "edge of a deciduous woodland in Korea in late autumn, nearly bare twigs with a few ripe orange persimmons and red berries, soft hazy sky; no people, buildings or text",
     "views": [
-      "adult, perched, side view",
-      "adult, in undulating flight, side view",
-      "adult, head close-up showing the chestnut ear patch and spiky grey crown"
-    ]
+      "adult, perched upright on a branch, side view: blue-tinged grey head with spiky crown, chestnut ear patch, grey body spotted white on the belly and vent, grey-brown wings, long dark tail hanging below",
+      "adult in flight seen from below, head, body and tail in line: grey body with white-spotted belly and white-scaled undertail, broad rounded grey-brown wings, long square-ended tail",
+      "adult head, close side profile: spiky blue-grey crown, chestnut-brown ear patch, slender slightly decurved black bill, dark reddish-brown eye"
+    ],
+    "build": "Slender, long-tailed songbird, about 28cm: much longer than a sparrow and slimmer than a feral pigeon, with nearly half its length in the tail. Fairly small head with a loose, spiky crown. Bill black, slender, slightly decurved, shorter than the head. Legs short, dark. At rest the wingtips reach only the base of the tail. Tail long and square-ended, grey-brown. Perches upright in treetops; flight strongly undulating, with bursts of wingbeats and closed-wing swoops.",
+    "avoid": [
+      "Do not paint an orange bill and legs or a white face; that is White-cheeked Starling.",
+      "Do not paint a neat tall crest like a waxwing or a red vent patch like tropical bulbuls.",
+      "Do not paint a black head with white behind the eye; that is Light-vented Bulbul.",
+      "Do not paint the ear patch black or the body brown; the body is grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

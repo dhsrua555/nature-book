@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Paddyfield Warbler (Acrocephalus agricola), adult (sexes alike) in autumn: upperparts warm sandy-brown with a rufous tinge, brightest on the rump; a prominent whitish supercilium, broadest and most striking behind the eye, bordered above by a diffuse dark brown line along the side of the crown; dark brown eye-stripe; throat white; breast and belly whitish with warm buff flanks; wings and tail plain brown; short bill with dark upper mandible and pale pinkish lower mandible with a clear dark tip; dark eye; pinkish-brown legs.",
+    "pose": "clinging to a reed stem with tail slightly cocked, side view",
+    "scene": "reed and sedge marsh edge in Korea during autumn migration in September, reeds still green with buff seed heads; no people, buildings or text",
+    "views": [],
+    "build": "A small reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler; compact, with a rounded head and a rather long, rounded tail that it often cocks. Bill short and fine for a reed warbler, shorter than the head. Legs medium, pinkish-brown. Wings short with a short primary projection; at rest the wingtips reach only a short way past the tail base. Tail longish, rounded, plain, often held raised.",
+    "avoid": [
+      "Do not paint a bold black stripe above the supercilium; that is Black-browed Reed Warbler (Acrocephalus bistrigiceps). Here the upper border is diffuse brown.",
+      "Do not streak the back (Sedge Warbler).",
+      "Do not paint a long, heavy bill or a large body (Oriental Reed Warbler).",
+      "Do not omit the dark tip to the pale lower mandible."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -42,13 +42,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Scoter (Melanitta americana), adult male: entirely black plumage, black bill with a broad yellow knob at the base",
+    "subject": "Black Scoter (Melanitta americana), adult male in winter, as seen off Korean coasts from November to March: entire plumage glossy black, from the rounded head to the tail, with no white anywhere on the head or wings; underwing coverts black, flight feathers slightly paler grey below. Bill black, with a large, rounded, bright yellow-orange swelling (knob) covering the base of the upper mandible and rising above the line of the culmen; iris dark brown; legs and feet blackish.",
     "pose": "riding the swell on the open sea as part of a loose flock",
     "scene": "Korean winter East Sea coastline with open grey sea; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: all-black plumage, black bill with a broad yellow knob at the base",
-      "adult female, side view swimming: blackish-brown body, grey-brown face, chin and neck sides"
-    ]
+      "adult male, side view swimming: all-black plumage, black bill with a broad bright yellow-orange knob at the base",
+      "adult female, side view swimming: blackish-brown body and dark cap reaching to the eye, sharply contrasting pale grey-brown cheeks, chin and neck sides, dark bill without a knob"
+    ],
+    "build": "Stocky, heavy-bodied sea duck, about 48cm, a little smaller than a Mallard. Rounded head with a fairly steep forehead; bill shorter than the head, broad, swollen at the base by the knob. Floats low in loose flocks on the sea and dives for shellfish; moves low over the water. Legs short, dark, set far back. At rest the wingtips reach the base of the tail. Tail rather long and pointed, often raised above the water. In flight all dark above; from below the flight feathers look paler silvery-grey than the black coverts.",
+    "avoid": [
+      "Do not add white on the head or wings; a white eye crescent and white wing patches belong to Stejneger's Scoter.",
+      "Do not paint an orange-red bill tip or a black knob; on this species the knob is yellow and the rest of the bill black.",
+      "Do not paint the female's pale face as two separate spots; it is one large pale grey-brown cheek-and-throat area."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

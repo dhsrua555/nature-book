@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Bohemian Waxwing (Bombycilla garrulus), adult male, winter plumage: apricot-tinged chestnut forehead and forecrown, pinkish grey-brown crown to lower back, soft long crest from crown to nape, tail tipped yellow or red, black bill with white near the gape, dark brown iris, black legs",
+    "subject": "Bohemian Waxwing (Bombycilla garrulus), adult male in winter, as seen in flocks in Korean woodland and parks from November to March: plumage soft pinkish grey-brown, greyer on the rump; forehead and forecrown warm apricot-chestnut; a long soft crest swept back from the crown; a narrow black mask from the bill base through the eye and a neat black chin and throat bib with a sharp lower edge; undertail coverts chestnut; wings blackish with white tips to the primary coverts, a white-and-yellow edge along the tips of the primaries and small red waxy tips on the secondaries; tail grey shading to black with a broad yellow tip; short stout black bill with a little white at the gape; dark eye; black legs.",
     "pose": "perched in a treetop with a flock, side view",
     "scene": "Korean winter conifer and deciduous broadleaf woodland with bare branches; no people, buildings or text",
     "views": [
-      "adult male, side view perched: chestnut forehead, soft long crest, pinkish grey-brown body, tail tipped yellow, black bill and legs",
-      "adult, head detail: apricot-chestnut forehead, long crest, black bill with white near the gape"
-    ]
+      "adult male, side view perched on a berry-laden twig: pinkish grey-brown body, chestnut forehead, long swept-back crest, black mask and bib, wing with white and yellow tips and red waxy tips, broad yellow tail tip, chestnut undertail, black legs",
+      "adult, head detail in side view: apricot-chestnut forehead and forecrown, long soft crest from crown to nape, narrow black mask and black throat, short black bill with white only at the gape",
+      "adult female, side view perched: like the male but the black throat patch smaller with a diffuse lower edge, narrower yellow tail band and less yellow on the wingtips"
+    ],
+    "build": "Plump, starling-shaped songbird, 18-20cm, about the size of a Common Starling but softer-looking, with a short neck, a big swept-back crest and a short square tail. Bill short, stout and slightly hooked, much shorter than the head. Legs short and black. Wings long and pointed; in flight the triangular wings and short tail look starling-like. Sits upright in tight flocks at the top of trees and gorges on berries.",
+    "avoid": [
+      "Do not paint a red tail tip, or a wing without red waxy tips and with a red-tinged bar - those are Japanese Waxwing (Bombycilla japonica).",
+      "Do not paint grey undertail coverts; they are chestnut.",
+      "Do not shorten or omit the crest; it is long and swept back.",
+      "Do not give it a thin warbler-like bill or a long tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

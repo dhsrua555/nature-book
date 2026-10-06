@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crested Ibis (Nipponia nippon), adult white morph, winter: pinkish-white plumage, long slender pinkish-white crest on the nape and hindneck, bare red skin from bill base to around the eye, black bill with a red tip, brownish-red legs",
+    "subject": "Crested Ibis (Nipponia nippon), adult in non-breeding plumage (about July to December): white all over, washed with a delicate salmon-pink that is strongest on the flight feathers, wings and tail; a long, shaggy crest of narrow pointed feathers hangs from the nape and hindneck, also pinkish white. Bare skin of the face bright red, from the base of the bill to well around the eye. Bill black with a red tip; legs and feet dull red.",
     "pose": "perched on a pine branch, side view",
     "scene": "Korean pine forest with a dense undergrowth of shrubs and bamboo; no people, buildings or text",
     "views": [
-      "adult white morph, side view standing: pinkish-white body, long nape crest, bare red facial skin, red-tipped black bill, brownish-red legs",
-      "adult grey morph, side view standing: grey crest, neck, back and scapulars, otherwise like the white morph"
-    ]
+      "adult non-breeding, side view standing: white body washed salmon-pink, long shaggy nape crest, bare red face, long evenly decurved black bill with a red tip, red legs",
+      "adult in breeding plumage (about January to June), side view standing: head, crest, neck, back and scapulars grey, coloured by a dark skin secretion the bird rubs on, wings, belly and tail still pinkish white, same red face, bill and legs"
+    ],
+    "build": "Medium-large ibis, about 75cm, smaller and much stockier than a Grey Heron, with a fairly short neck for an ibis. Bill long and slender, evenly decurved along its whole length, clearly longer than the head. Small head with the bare red face; shaggy crest on the nape. Legs relatively short, red. Wings broad; at rest the folded wings cover the short tail. Flies with the neck outstretched and slow wingbeats, showing salmon-pink flight feathers and underwing.",
+    "avoid": [
+      "Do not paint a black bare head and neck (Black-headed Ibis) or a spoon-shaped bill (spoonbills).",
+      "Do not make it pure white with a yellow bill and black legs like an egret.",
+      "Do not paint black wingtips; the flight feathers are salmon-pink.",
+      "Do not straighten the bill; it curves down evenly from base to tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

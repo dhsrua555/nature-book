@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red Crossbill (Loxia curvirostra), adult male winter: brown nasal bristles, dark red forehead to hindneck, brownish dark-red back, pale brown lores, eye-stripe and upper ear coverts, dull red underparts, white belly centre and undertail coverts with dark brown shaft streaks, dark brown tail with yellowish edges, dark brown wings with reddish-brown lesser coverts, dark brown bill with paler sides to the lower mandible, brown iris, dark brown legs",
+    "subject": "Red Crossbill (Loxia curvirostra), adult male in winter: head, body and rump dull brick-red, darkest on the crown and back; nasal bristles brown; lores, eye-stripe and upper ear coverts pale brownish, duller than the red crown; wings plain dark brown without wing bars, the lesser coverts tinged reddish-brown; tail dark brown, notched, with narrow yellowish edges; centre of the belly and undertail coverts whitish, the undertail coverts with dark brown shaft marks; heavy dark brown bill with crossed tips, the sides of the lower mandible paler; brown iris; dark brown legs.",
     "pose": "clinging to a pine branch, taking seeds from a cone",
     "scene": "Korean winter pine-forest edge; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: dark red head and back, dull red underparts, white belly centre and undertail coverts, dark brown wings and tail",
-      "head detail: dark red crown, pale brown eye-stripe and upper ear coverts, dark brown bill with paler sides to lower mandible"
-    ]
+      "adult male winter, side view clinging to a pine cone: dull red head, body and rump, plain dark brown wings with reddish-brown lesser coverts, notched dark tail, whitish belly centre and vent, crossed bill tips clearly visible",
+      "adult male, head close-up in profile: dark red crown, pale brownish eye-stripe and upper ear coverts, heavy dark brown bill with crossed tips and paler sides to the lower mandible",
+      "adult female, side view perched: greyish olive-green with a brighter yellow-green rump, plain dark wings, the same crossed bill"
+    ],
+    "build": "Stocky, big-headed finch, a little larger than a sparrow, with a thick neck and a short, notched tail. Bill heavy and deep at the base, slightly shorter than the head; the upper mandible tip curves down and the lower mandible tip curves up, so the two tips cross over each other sideways. Legs short, strong, dark brown. Clambers parrot-like over pine branches and cones, often hanging upside down. Wings fairly long and pointed; flight bounding.",
+    "avoid": [
+      "Do not draw a normal finch bill with closed, meeting tips; the mandible tips must visibly cross.",
+      "Do not paint white wing bars — that is Two-barred Crossbill (Loxia leucoptera).",
+      "Do not paint the male bright crimson like a rosefinch; it is a duller brick- to orange-red.",
+      "Do not paint a long tail; the tail is short and notched."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

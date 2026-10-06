@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-crested Pochard (Netta rufina), adult male in winter, as seen in Korea from November to March: large bushy head bright rusty-orange, paler golden-orange on the raised crown; neck, breast and a broad band at the front of the body black; back and folded wings grey-brown; flanks clean white; a white patch at the bend of the wing showing at the front of the back; rump, vent and undertail coverts black; bill bright coral-red with a pale nail; red iris; legs orange-red.",
+    "pose": "swimming on calm open water, side view, head held high",
+    "scene": "Korean reservoir in winter with calm open water and dry reeds along the shore; no people, buildings or text",
+    "views": [],
+    "build": "Large, bulky diving duck, about the size of a Mallard, with a big rounded head that looks puffed up on the crown and a thick neck. Bill straight, fairly narrow, a little shorter than the head. Legs short, set well back. At rest the wingtips reach about the tail base. Tail short, dark. Floats high for a diving duck. In flight a broad white wing-bar along almost the whole length of the flight feathers and whitish underwings; males show white shoulder patches.",
+    "avoid": [
+      "Do not paint a grey body, a dark bill and a dull chestnut head; that is Common Pochard (Aythya ferina).",
+      "Do not paint a flat, sleek crown; the male's head is large and fluffy.",
+      "Do not give the male pale cheeks; pale grey-white cheeks under a dark brown cap belong to the brown female.",
+      "Do not paint a dark or yellow bill on the male; it is bright red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

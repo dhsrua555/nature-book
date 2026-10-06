@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Thick-billed Murre (Uria lomvia), adult in winter plumage, as seen off the Korean east coast from December to March: crown, hindneck and upperparts blackish, the dark cap extending down over the face to well below the eye; chin, throat and foreneck white; breast and belly white; narrow white tips to the secondaries form a thin white line on the closed wing. Bill black, stout and fairly short, with a thin whitish line along the base of the upper mandible's cutting edge; dark eye.",
+    "pose": "swimming low on the sea, about to dive",
+    "scene": "Korean East Sea off the northeast coast in winter, grey choppy water and a dark rocky headland in the distance; no people, buildings or text",
+    "views": [],
+    "build": "Large, heavy-bodied auk, clearly smaller than a Mallard, a little larger and stockier than a Common Murre, with a thick neck. Bill straight, black, shorter and deeper than a Common Murre's, with a gently curved ridge. Swims low on the water with the tail barely visible; stands upright on rocks. Wings short and narrow; flight fast and direct with whirring wingbeats.",
+    "avoid": [
+      "Do not paint white cheeks with a thin dark line behind the eye; that is Common Murre (Uria aalge) in winter.",
+      "Do not paint a long, slender, sharply pointed bill (Common Murre).",
+      "Do not omit the thin whitish line along the base of the upper mandible.",
+      "Do not paint brown tones on the upperparts; they are blackish.",
+      "Do not paint a colourful bill or orange feet (puffins)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

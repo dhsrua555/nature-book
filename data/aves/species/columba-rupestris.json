@@ -38,10 +38,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Hill Pigeon (Columba rupestris), adult (sexes alike), as seen in Korea: head bluish-grey; neck glossed metallic green and purple; mantle and wing coverts pale grey crossed by two narrow black wing-bars; lower back and rump white; tail dark grey with a broad white band across it before a black tip; breast with a purplish-green sheen fading to pale grey; belly pale grey to whitish. Bill black; legs and feet coral red.",
     "pose": "perched, side view",
-    "scene": "TODO",
-    "views": []
+    "scene": "Korean rocky river valley in autumn with cliffs and nearby harvested fields; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized pigeon, the same size and shape as a feral pigeon: plump body, small rounded head, short neck, short legs. Bill short and slender. Legs short, red. Tail medium-length and square-ended. In flight pointed wings, a pale underwing, a white patch on the lower back and a broad white band across the tail that is obvious when the tail is spread.",
+    "avoid": [
+      "Do not paint a plain grey tail with only a dark terminal band (feral pigeon); the tail has a broad white band before the black tip.",
+      "Do not paint a grey rump; the lower back and rump are white.",
+      "Do not paint chequered, brown or pied feral-pigeon patterns.",
+      "Do not paint the brown scaly wings of an Oriental Turtle Dove."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

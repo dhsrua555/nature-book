@@ -45,14 +45,23 @@
   "young": "어린새는 머리꼭대기와 뒷목 등이 갈색을 띤다.",
   "similar": [],
   "art": {
-    "subject": "Black-winged Stilt (Himantopus himantopus), adult male: long, thin black bill, black or grey-brown markings from the crown down the hindneck, black wings, upperparts with a green gloss, white underparts, long pink legs",
+    "subject": "Black-winged Stilt (Himantopus himantopus), adult male in spring, as seen on Korean west-coast reclaimed land from April to June: head and neck white, with variable black or grey-brown on the crown and hindneck (some birds almost white-headed); mantle, scapulars and wings black with a green gloss; underparts, lower back and rump white; tail pale grey-white. Bill very long, needle-thin and straight, black; iris red; legs extremely long, bright pink to reddish-pink.",
     "pose": "wading in shallow water on its long legs",
     "scene": "Korean west-coast reclaimed land with shallow pools and wet fields in spring; no people, buildings or text",
     "views": [
-      "adult male, side view wading: black or grey-brown cap to hindneck, green-glossed upperparts, black wings, white underparts, long black bill, long pink legs",
-      "adult female, side view: brown upperparts, white underparts, long pink legs",
-      "juvenile, side view: brownish crown and hindneck"
-    ]
+      "adult male, side view wading: variable black or grey-brown cap and hindneck, white head and underparts, green-glossed black back and wings, needle-thin straight black bill, very long pink legs",
+      "adult female, side view standing: dark brownish mantle and back contrasting with black wings, white head with little or no dark on the crown, white underparts, long pink legs",
+      "juvenile, side view standing: grey-brown crown and hindneck, brownish upperparts with pale fringes, duller pinkish-grey legs"
+    ],
+    "build": "Slender, elegant wader, about 37cm, with extraordinarily long legs: the bare pink legs make up more than half its standing height. Small rounded head and thin neck. Bill black, straight and needle-fine, clearly longer than the head. At rest the black wingtips extend beyond the tail tip. Tail short. Walks deliberately through shallow water, picking food from the surface. In flight the wings are all black and pointed, and the long pink legs trail far beyond the tail.",
+    "avoid": [
+      "Do not curve the bill upward; that is Pied Avocet, and the stilt's bill is straight.",
+      "Do not shorten the legs; they are extraordinarily long and bright pink.",
+      "Do not paint a pink, orange or thick bill.",
+      "Do not add white patches on the black wings or black on the underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

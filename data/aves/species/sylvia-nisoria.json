@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Barred Warbler (Sylvia nisoria), adult male in spring: upperparts grey with a faint brownish tinge; crown and face grey; bright yellow iris; two narrow whitish wing-bars on the median and greater coverts and white-fringed tertials; underparts whitish with dense dark grey crescent-shaped bars across the breast, flanks and undertail coverts, giving a scaly look; tail grey with white tips to the outer feathers; bill dark grey with a paler base to the lower mandible; grey legs.",
+    "pose": "perched in a thorny shrub, side view, tail slightly raised",
+    "scene": "thorny scrub and shrubs on a Korean offshore island in May, bright daylight; no people, buildings or text",
+    "views": [],
+    "build": "A large, heavy warbler, clearly bigger and longer than a sparrow, with a long tail and a rather shrike-like look. Head fairly flat; bill stout and straight, shorter than the head. Legs sturdy, grey. Tail long, slightly rounded, often raised or spread to show the white corners. Moves heavily and deliberately through thorny bushes.",
+    "avoid": [
+      "Do not paint a dark iris on the adult; it is bright yellow (dark only in first-year birds).",
+      "Do not paint the markings as streaks; they are crescent-shaped bars across the underparts.",
+      "Do not give it a black mask or a hooked bill (shrikes).",
+      "Do not omit the whitish wing-bars and white-fringed tertials."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,14 +45,24 @@
     }
   ],
   "art": {
-    "subject": "Far Eastern Curlew (Numenius madagascariensis), adult: very long decurved bill about three times the head length, brown back and rump, underwing densely marked with dark brown bars",
+    "subject": "Far Eastern Curlew (Numenius madagascariensis), adult, as seen on Korean south-west coast mudflats in April–May and August–September: whole bird warm buff-brown; head plain and finely streaked, without crown stripes; neck, breast and flanks buff, densely streaked dark brown, the streaking continuing onto a buff (not white) belly. Upperparts brown, feathers dark-centred with rufous-buff edges and notches. Back and rump brown like the mantle; tail brown with dark bars. Underwing coverts and axillaries densely barred dark brown. Bill extremely long, blackish with a pinkish base to the lower mandible. Eye dark. Legs bluish-grey.",
     "pose": "walking on a tidal mudflat with a crab in its bill",
     "scene": "Korean south-west coast tidal mudflat at a river mouth during spring migration; no people, buildings or text",
     "views": [
-      "adult, side view walking: very long decurved bill",
-      "adult in flight, from below: underwing densely barred dark brown, brown back and rump",
-      "head detail, female and male: female bill longer than the male's"
-    ]
+      "adult, side view walking on mud: extremely long, evenly decurved bill, plain streaked buff-brown head, warm buff-brown body streaked dark brown down to the belly, long bluish-grey legs",
+      "adult, in flight seen from above: uniform brown upperparts, brown back and rump with no white wedge, barred brown tail",
+      "adult, in flight seen from below: underwing coverts and axillaries densely barred dark brown, buff-brown streaked body",
+      "adult female and male, head detail side by side in side view: the female's bill clearly longer than the male's, both evenly decurved, blackish with a pinkish base below"
+    ],
+    "build": "Very large shorebird, 58.5–61.5cm, the largest curlew, a little bigger and longer-billed than Eurasian Curlew. Small head, long neck, long legs. Bill extremely long, about three times the head length, decurved smoothly along its whole length; the female's bill is clearly longer than the male's. Legs long, bluish-grey. At rest the wingtips reach about the tail tip. In flight uniformly brown above with no white on the back or rump, and with densely brown-barred underwings that look dark below.",
+    "avoid": [
+      "Do not paint a white rump or a white wedge up the back — that is Eurasian Curlew.",
+      "Do not paint white, unmarked underwing coverts or a white belly (Eurasian Curlew).",
+      "Do not paint crown stripes (Whimbrel) or a bill kinked only near the tip.",
+      "Do not paint cold grey tones; this species is warm buff-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

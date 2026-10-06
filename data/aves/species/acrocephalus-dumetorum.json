@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Blyth's Reed Warbler (Acrocephalus dumetorum), adult (sexes alike) in autumn: upperparts plain cold olive-brown to greyish-brown with no rufous on the rump; a short whitish supercilium, most obvious in front of the eye and fading just behind it; dark lores; throat white; underparts off-white with a faint buffish-grey wash on the breast sides and flanks; wings plain, the tertials uniform with little contrast; tail plain brown; bill dark with a pale pinkish lower mandible; dark eye; greyish-brown legs.",
+    "pose": "perched in a leafy shrub, side view",
+    "scene": "shrubby woodland edge on a Korean offshore island during autumn migration in September, soft light; no people, buildings or text",
+    "views": [],
+    "build": "A small, plain reed warbler, about sparrow length but slimmer, much smaller than an Oriental Reed Warbler; round-headed with a fairly steep forehead. Bill fairly long and thin, slightly shorter than the head. Legs medium, greyish. Wings short and rounded: the primary projection is short, clearly shorter than the tertials. Tail medium, rounded, plain, without white. Often found in bushes and woodland edges rather than reeds.",
+    "avoid": [
+      "Do not paint a long supercilium running well behind the eye or a dark line above it (Black-browed Reed or Paddyfield Warbler).",
+      "Do not paint a rufous rump or warm tawny upperparts; the upperparts are cold olive-brown.",
+      "Do not paint streaks on the back or breast.",
+      "Do not make it large and heavy-billed like Oriental Reed Warbler."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

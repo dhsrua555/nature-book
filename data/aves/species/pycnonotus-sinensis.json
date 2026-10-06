@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Light-vented Bulbul (Pycnonotus sinensis), adult: black from forehead to crown, white from crown to nape, black and blackish-brown markings on the hindneck, blackish-brown ear-coverts with a small white spot, dark greenish-grey upperparts, greenish-yellow on parts of the wings and tail, grey-brown upper breast, dull white belly",
+    "subject": "Light-vented Bulbul (Pycnonotus sinensis), adult (sexes alike): forehead and forecrown black; a broad white patch covers the rear crown and nape; black and blackish-brown marks on the hindneck; face blackish, with a small white spot in the blackish-brown ear-coverts; throat white; upperparts dark greenish-grey; flight feathers and tail feathers edged greenish-yellow; a grey-brown band across the upper breast; belly dull white; undertail coverts white; short black bill; dark eye; black legs.",
     "pose": "perched on an orchard branch, calling",
     "scene": "lowland woodland edge and orchard on a southwestern Korean island; no people, buildings or text",
     "views": [
-      "adult, side view perched: black forecrown, white hind crown, blackish-brown ear-coverts with white spot, greenish-grey upperparts, dull white belly",
-      "adult, head detail: black forecrown, white hind crown and nape, small white spot in the ear-coverts"
-    ]
+      "adult, side view perched on a branch top: black forecrown, white rear crown and nape, blackish face with a small white ear spot, white throat, greenish-grey back with yellow-green wing and tail edges, grey-brown breast band, dull white belly and white vent",
+      "adult, head in profile: black forehead and forecrown, broad white rear crown and nape, blackish-brown ear-coverts with a small white spot, white throat, short black bill"
+    ],
+    "build": "Medium-small, slim bulbul: noticeably larger and longer-tailed than a sparrow, clearly smaller and shorter-tailed than a Brown-eared Bulbul. Rounded head with slightly raised crown feathers but no crest. Bill short and black, slightly curved along the culmen, shorter than the head. Legs short and black. Wings short and rounded; at rest the wingtips reach just past the base of the tail. Tail fairly long and square-ended. Perches conspicuously on branch tops, calling; flight undulating.",
+    "avoid": [
+      "Do not paint the grey streaked body, long tail and chestnut ear patch of Brown-eared Bulbul (Hypsipetes amaurotis).",
+      "Do not paint a red or yellow vent; the undertail coverts are white.",
+      "Do not give it a pointed crest or a red whisker patch (Red-whiskered Bulbul).",
+      "Do not carry the white head patch forward to the forehead; the front of the crown is black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

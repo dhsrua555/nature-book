@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Isabelline Shrike (Lanius isabellinus), adult male in autumn: crown and upperparts pale sandy grey-buff; a black mask from the lores through the eye to the ear-coverts, with a faint pale supercilium above it; wings brownish-black with pale fringes and a small white patch at the base of the primaries; rump and tail rufous-orange, contrasting with the pale back; underparts creamy white with a pinkish-buff wash on the breast and flanks. Bill dark and hooked; dark eye; legs dark grey.",
+    "pose": "perched upright on top of a low bush, side view",
+    "scene": "Dry scrubby field edge on the Korean coast in October, autumn migration, warm low light; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim shrike, about the size of Brown Shrike, with a longish, slightly graduated tail; perches upright on bush tops. Bill short, strong and hooked. Legs short, dark. Females are duller, with a browner mask, a smaller or no white wing patch and faint dark crescents on the breast sides; first-winter birds resemble females.",
+    "avoid": [
+      "Do not paint warm rufous-brown upperparts or a bold white supercilium; those mark Brown Shrike (Lanius cristatus).",
+      "Do not paint a rufous crown; that marks Red-tailed Shrike (Lanius phoenicuroides).",
+      "Do not paint a grey crown with a chestnut back (Red-backed Shrike).",
+      "Do not make the tail the same colour as the back; the rufous tail contrasts with the pale sandy body."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

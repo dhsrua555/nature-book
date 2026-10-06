@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Temminck's Stint (Calidris temminckii), adult male breeding: grey-brown crown, nape, mantle and scapulars with black spots and rusty feather edges, rusty-cream throat, neck and breast streaked dark brown, white chin, black bill, pale brown legs",
+    "subject": "Temminck's Stint (Calidris temminckii), adult in breeding plumage, as seen on Korean riversides and wet fields in late April and May: crown and nape grey-brown with fine dark streaks; face plain grey-brown with an indistinct pale supercilium; mantle and scapulars mostly plain grey-brown with a scattering of feathers showing black centres and rusty-buff fringes; neck and breast grey-brown washed buff and finely streaked darker, forming a breast band cleanly cut off from the white belly; chin and throat white; undertail white. Bill short, fine and blackish; dark eye; legs dull yellowish-green to yellowish-brown.",
     "pose": "foraging in a small group along a muddy riverbank",
     "scene": "Korean riverside during spring migration: muddy bank and wet grassy margin of a wide river; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: grey-brown upperparts with black spots and rusty edges, streaked rusty-cream breast, white chin, black bill, pale brown legs",
-      "adult male breeding, head detail: white chin, streaked rusty-cream throat"
-    ]
+      "adult breeding plumage (late April–May), side view standing: grey-brown upperparts with scattered black-centred, rusty-fringed scapulars, buff-washed streaked grey-brown breast band, white chin and belly, short fine blackish bill, yellowish legs, tail tip projecting beyond the wingtips",
+      "adult non-breeding plumage (autumn), side view standing: plain grey-brown upperparts and a full grey-brown breast band, white throat and belly, like a tiny Common Sandpiper; same bill and yellowish legs",
+      "in flight, seen from above: grey-brown upperparts, narrow white wing-bar, dark centre to the rump and tail with pure white outer tail feathers"
+    ],
+    "build": "Tiny, rather elongated stint, about 14cm, about the length of a tree sparrow; low, horizontal stance, often crouching and creeping slowly on wet mud, short neck. Bill short (about head length or a little less), fine, nearly straight, sometimes very slightly drooping at the tip. Legs short, yellowish-green to yellowish-brown, never black. At rest the tail projects slightly beyond the folded wingtips, giving a long-rear-ended look. In flight a narrow white wing-bar and pure white outer tail feathers on each side of a dark tail centre.",
+    "avoid": [
+      "Do not paint black legs; that is Red-necked Stint (Calidris ruficollis). Temminck's has yellowish legs.",
+      "Do not give it a brick-red face and throat (breeding Red-necked Stint); the breast is grey-brown with only a buff wash.",
+      "Do not paint long toes, a long neck, a bold white supercilium and bright rufous-edged upperparts; that is Long-toed Stint (Calidris subminuta).",
+      "Do not show the wingtips reaching beyond the tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -63,14 +63,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pale Thrush (Turdus pallidus), adult male in winter: olive-tinged slate-grey crown, dark grey lores and eye surround, white chin, grey cheeks, ear coverts and throat, olive grey-brown upper breast, pale pinkish-brown flanks, olive grey-brown belly sides with a white centre to the belly, square-ended tail, brown upper mandible and lower mandible tip with a yellow base to the lower mandible, brown iris, yellow legs",
+    "subject": "Pale Thrush (Turdus pallidus), adult male (no spring moult, so the plumage is the same on spring and autumn passage): crown and nape slate-grey with an olive tinge; lores and eye surround dark grey; chin white; cheeks, ear-coverts and throat grey; mantle, back and wings plain olive-brown; upper breast and breast sides olive grey-brown; flanks pale pinkish-brown; centre of the belly and the undertail coverts white; tail dark grey-brown, the outer feathers with broad white tips; upper mandible and tip of the lower mandible brown, base of the lower mandible yellow; brown eye; pale yellowish legs.",
     "pose": "perched on a low branch near the ground, side view",
     "scene": "Korean woodland during spring or autumn passage, low branches above the forest floor; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: slate-grey crown, grey face and throat, white chin, pinkish-brown flanks, white belly centre, yellow legs",
-      "adult female winter, side view perched: uniform olive-brown from crown to uppertail coverts, no contrast between head and back",
-      "adult, head detail: brown upper mandible, lower mandible yellow at the base with a brown tip"
-    ]
+      "adult male, side view perched on a low branch: slate-grey crown, grey face and throat, white chin, olive-brown back and wings, olive grey-brown breast, pale pinkish-brown flanks, white belly centre, white tail corners, yellow legs",
+      "adult female, side view perched: olive-brown head and back with no contrast between them, whitish throat with dark streaks at the sides, pale brown breast and flanks, white belly centre, white tail corners",
+      "adult, head detail in side profile: brown upper mandible, lower mandible yellow at the base with a brown tip, white chin against the grey throat, dark grey lores"
+    ],
+    "build": "Medium-sized thrush, about 23cm: a little shorter than a Brown-eared Bulbul, plumper and shorter-tailed. Rounded head; stands upright on the ground and often flicks its tail. Bill straight, slightly shorter than the head. Legs medium length, pale. At rest the wingtips reach about the base of the tail. Tail medium length, square-ended, dark with conspicuous white corners that flash when the bird flies or fans its tail. Shy; feeds among leaf litter and flies up to low branches when disturbed.",
+    "avoid": [
+      "Do not paint a white supercilium; that is Eyebrowed Thrush.",
+      "Do not paint bright orange flanks; that is Grey-backed or Brown-headed Thrush. The flanks are only pale pinkish-brown.",
+      "Do not paint a spotted breast.",
+      "Do not leave out the white tips on the outer tail feathers."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

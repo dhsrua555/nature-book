@@ -47,13 +47,22 @@
     }
   ],
   "art": {
-    "subject": "American Wigeon (Mareca americana), adult male: white forehead and central crown, broad dark green band from behind each eye meeting on the nape, brownish-white face with small black speckles, dark back and scapulars",
+    "subject": "American Wigeon (Mareca americana), adult male in winter, as seen in Korea from November to March: forehead and central crown creamy white; a broad glossy dark green band from the eye sweeping back to the nape, where the two bands meet; rest of the head and upper neck pale greyish-buff, densely speckled black; breast and flanks pinkish-brown; back and scapulars pinkish-brown, finely vermiculated, darker than in Eurasian Wigeon; a white patch at the rear of the flanks before the black undertail coverts; tertials black with white edges; bill pale blue-grey with a black tip and a thin black line at the base; dark eye; legs grey.",
     "pose": "swimming slowly at the edge of a marsh, side view",
     "scene": "Korean winter: a coastal lagoon-like lake with reedy marsh and rice paddies nearby; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: white forehead and crown stripe, dark green band behind the eye to the nape, speckled brownish-white face, dark back and scapulars",
-      "adult male, head detail: white central crown and dark green eye-bands joining on the nape"
-    ]
+      "adult male, side view swimming: creamy-white forehead and crown stripe, broad dark green band from eye to nape, black-speckled greyish-buff face and neck, pinkish-brown breast, flanks and back, white rear-flank patch, black stern, blue-grey bill with black tip",
+      "adult male, head detail in profile: white central crown, dark green band from behind the eye meeting its pair on the nape, speckled pale face, small pale blue-grey bill with a black tip and black base line"
+    ],
+    "build": "Medium-sized dabbling duck, about 48cm, a little smaller than a Mallard, with a rounded head, steep forehead, short neck and a small, short bill much shorter than the head. Legs short, grey. At rest the wingtips reach close to the tail tip; tail pointed, often slightly raised. In flight adult males show a large white patch on the upperwing coverts, a green speculum, a white belly and white axillaries under the wing.",
+    "avoid": [
+      "Do not paint a chestnut head and grey back; that is Eurasian Wigeon (Mareca penelope). This male has a speckled grey-buff head and a pinkish-brown back.",
+      "Do not paint a thin pale eye-line instead of the broad dark green band.",
+      "Do not paint a long bill or a yellow or orange bill; it is short and pale blue-grey with a black tip.",
+      "Do not add a crest or long tail plumes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

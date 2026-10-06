@@ -69,14 +69,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Oriental Magpie (Pica serica anderssoni, Korean population), about 46 cm long with a long graduated tail. Head, neck, breast, mantle and back black; wings black with a blue-green gloss on the secondaries and tertials; a large pure white scapular patch on each shoulder; white belly and flanks sharply demarcated from the black breast; primaries with extensive white inner webs and black tips, forming a white panel when the wing opens; rump mostly black with a narrow greyish-white band; long black tail glossed green and reddish purple; black bill and black legs; dark brown iris. Sexes alike.",
+    "subject": "Oriental Magpie (Pica serica), adult (sexes alike) in late winter: head, neck, breast, mantle and back black with a faint blue-green gloss; a large pure white patch on each shoulder (the scapulars); belly and flanks white, sharply divided from the black breast; wings black with a strong blue-green gloss on the secondaries and tertials; primaries black with extensive white inner webs, showing as a white panel when the wing opens; vent and undertail black; very long graduated tail, black glossed green with a purple and bronze sheen; black bill; dark brown eye; black legs.",
     "pose": "perched upright on a bare branch near the top of a tall tree, tail angled down, head in side profile",
     "scene": "Korean rural lowland in late winter (February): bare deciduous trees such as zelkova and poplar with a large nest high in the branches, harvested rice paddies and a frosty field edge in the background; no people, buildings, utility poles or text",
     "views": [
-      "adult, perched, side view",
-      "adult in flight from above, showing white scapulars and white primary panels",
-      "adult in flight from below"
-    ]
+      "adult, perched on a branch, side view: black head, breast and back, white shoulder patch, clean white belly and flanks, glossy black wings, very long graduated glossy tail angled down",
+      "adult in flight seen from above, head, body and tail in line: black back with a white scapular patch along each side, rounded black wings with large white panels on the primaries edged and tipped black, long graduated tail",
+      "adult in flight seen from below, head, body and tail in line: black head and breast, white belly, black vent, white primaries with black tips and outer edges, long black tail"
+    ],
+    "build": "Large black-and-white member of the crow family, 46cm, of which about half is tail; the body is about the size of a feral pigeon. Rounded head, short neck. Bill black, stout and slightly arched, a little shorter than the head. Legs fairly long, black; walks and hops on the ground. Wings short and rounded; at rest they reach only the base of the tail. Tail very long and strongly graduated, the central feathers longest, often raised and flicked. Flies with quick fluttering beats of rounded wings, showing white panels in the primaries.",
+    "avoid": [
+      "Do not paint blue wings and tail, a black cap and a grey body; that is Azure-winged Magpie.",
+      "Do not paint a short tail; the tail is about half the bird's length.",
+      "Do not paint a white back; the back is black and the white is on the shoulders and belly only.",
+      "Do not paint the tail matt black; it shows green and purple gloss."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

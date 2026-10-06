@@ -111,13 +111,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Pheasant (Phasianus colchicus), adult male: bare red skin around the eye, metallic dark green head and neck above a bold white neck ring, brown and buff body below the ring scattered with dark brown and black spots, long pointed tail, sharp spur on the back of the leg",
+    "subject": "Common Pheasant (Phasianus colchicus), adult male (plumage the same all year): head and neck glossy dark green with a purple-blue sheen and two short erectile ear-tufts; bare scarlet wattle skin around the eye; a bold white ring around the lower neck; below the ring the breast is coppery chestnut with black crescent-shaped feather tips; flanks golden-buff spotted black; belly dark brown; mantle and scapulars buff and rufous with black and white markings; upperwing coverts pale greyish; rump pale greenish-grey; very long pointed tail, olive-buff crossed by narrow dark bars; pale horn bill; grey legs with a short spur at the back of each leg.",
     "pose": "walking along the edge of a thicket, long tail held level",
     "scene": "Korean woodland edge with low thickets on a wooded hillside; no people, buildings or text",
     "views": [
-      "adult male, side view walking: red facial skin, glossy dark green head and neck, white neck ring, spotted brown-and-buff body, long pointed tail",
-      "adult female, side view walking: plain buff-brown plumage mottled black, long pointed tail"
-    ]
+      "adult male, side view walking: red facial wattle, glossy dark green head and neck with ear-tufts, white neck ring, coppery breast with black crescents, golden-buff flanks spotted black, pale grey wing coverts, very long barred pointed tail held level",
+      "adult female, side view walking: smaller, plain buff-brown body with black-centred and black-barred feathers giving a mottled look, no neck ring, no green and no red face, shorter but still long, pointed, barred tail"
+    ],
+    "build": "Large game bird, male 80cm and female 60cm, nearly half of it tail; the body is about the size of a small domestic hen. Small head, medium neck, deep rounded body. Bill short, stout and slightly decurved, much shorter than the head, pale horn. Legs medium length and sturdy, grey; males carry a short spur. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail very long, narrow and strongly graduated to a sharp point, usually held level or slightly raised. Takes off with whirring wingbeats, then glides on bowed wings with the long tail trailing.",
+    "avoid": [
+      "Do not give the male a fleshy comb on top of the head like a domestic chicken; the red is bare skin around the eye.",
+      "Do not paint a short arched chicken tail or a fanned tail; the tail is long, narrow and pointed.",
+      "Do not give the female a neck ring, a green head or a red face; she is plain mottled buff-brown.",
+      "Do not paint a dark green breast as in the Green Pheasant of Japan; Korean males have a coppery breast and a white neck ring."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

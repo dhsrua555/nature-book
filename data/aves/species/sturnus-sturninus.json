@@ -51,13 +51,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Daurian Starling (Sturnus sturninus), adult: grey from forehead to hindneck with a large blackish-purple patch on the hindcrown, grey ear coverts, brownish-grey chin and upper throat, long hair-like feathers from crown to hindneck, rather short black bill, greyish-brown legs",
+    "subject": "Daurian Starling (Sturnus sturninus), adult male in breeding plumage (May–July in Korea): forehead, crown, face and hindneck pale ash-grey with a large glossy blackish-purple patch on the hindcrown and nape; ear coverts grey; chin and upper throat brownish-grey; breast and flanks pale grey, belly whitish; mantle and back glossy purple-black; wings glossy greenish-black with a bold white stripe along the scapulars; tail black with a green gloss; short, straight, pointed black bill; dark eye; dark grey-brown legs.",
     "pose": "perched in a mulberry tree, picking berries",
     "scene": "Korean early-summer park with large old trees and open woodland; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey head with large blackish-purple patch on the hindcrown, brownish-grey throat, short black bill, greyish-brown legs",
-      "adult, head detail: hair-like elongated feathers from crown to hindneck"
-    ]
+      "adult male breeding, side view perched on a branch: pale grey head and underparts, large glossy blackish-purple patch on the hindcrown, glossy purple-black back, green-black wings with a bold white scapular stripe, short black bill, dark grey-brown legs",
+      "adult male, head close-up in profile: smooth rounded pale grey head with the dark purple nape patch, grey ear coverts, brownish-grey chin and upper throat, short straight black bill, dark eye",
+      "adult female, side view perched: grey-brown head and back without gloss and without the purple nape patch, dark brown wings with a whitish scapular stripe, pale grey-white underparts"
+    ],
+    "build": "Small, compact starling, 18cm, clearly smaller and slimmer than White-cheeked Starling (Spodiopsar cineraceus), between a sparrow and a Brown-eared Bulbul in size. Typical starling shape: short square tail, pointed wings, short neck; perches upright in tree crowns. Head smooth and rounded, without a crest. Bill black, straight and pointed, shorter than the head and short for a starling. Legs medium length, dark grey-brown. In flight the triangular wings show the white scapular stripe against the dark back.",
+    "avoid": [
+      "Do not give it a crest or spiky nape plumes; the head is smooth and rounded, marked only by the dark purple nape patch.",
+      "Do not paint a black head with white cheeks or an orange bill — that is White-cheeked Starling (Spodiopsar cineraceus).",
+      "Do not paint a creamy head with chestnut cheeks — that is Chestnut-cheeked Starling (Agropsar philippensis).",
+      "Do not make the bill yellow or long; it is short, straight and black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

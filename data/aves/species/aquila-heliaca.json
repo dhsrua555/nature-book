@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Eastern Imperial Eagle (Aquila heliaca), adult in winter: body and wing coverts very dark blackish-brown; crown, nape and hindneck pale golden-buff to straw-coloured, contrasting with the dark face and body; a few white feathers on the scapulars forming small white 'braces' on each side of the back; undertail coverts pale buff; flight feathers blackish; tail grey with fine dark barring and a broad black terminal band; thighs feathered dark; bill dark grey with a blackish tip and a yellow cere; dark brown eye; feet yellow.",
     "pose": "perched, side view",
     "scene": "Korean winter estuary with reclaimed land and a reservoir nearby; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Very large, heavy eagle, a little smaller than a Golden Eagle and much smaller than a Steller's Sea Eagle, with a large head, a heavy hooked bill shorter than the head and long feathered legs. Perches upright on a tree or a mound in open country. At rest the wingtips reach about the tail tip. Tail fairly long and square-ended. In flight long, broad, parallel-edged wings held flat, with fingered tips; the head projects well forward.",
+    "avoid": [
+      "Do not omit the small white scapular braces, and do not enlarge them into big wing patches.",
+      "Do not paint a golden-tawny nape with no white on the back; that is Golden Eagle (Aquila chrysaetos).",
+      "Do not paint a white tail or a massive yellow bill (sea eagles).",
+      "Do not paint the pale sandy, streaked plumage of the juvenile on this adult."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -37,13 +37,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Flesh-footed Shearwater (Ardenna carneipes), adult: black plumage overall, pale buff bill with a black tip, flesh-pink feet",
+    "subject": "Flesh-footed Shearwater (Ardenna carneipes), adult as seen on spring passage off the Korean East Sea coast (plumage the same all year): entirely dark chocolate-brown to blackish-brown, head, upperparts, underparts and underwing coverts all dark with no white anywhere; from below the bases of the primaries can catch the light as a paler silvery sheen; worn birds look browner above. Bill stout, pale pinkish-buff to straw-coloured with a sharply contrasting black tip; dark eye; legs and webbed feet pale flesh-pink.",
     "pose": "flying low over the sea on outstretched wings, side view",
     "scene": "Korean spring sea off the East Sea coast: open water with a distant rocky shoreline; no people, buildings or text",
     "views": [
-      "adult, side view in flight: black plumage overall, pale buff bill with a black tip, flesh-pink feet",
-      "adult, head detail: pale buff bill base and black bill tip"
-    ]
+      "adult in flight seen from below, banking low over the sea: wholly dark body and underwing coverts, paler silvery sheen at the primary bases, short rounded tail with flesh-pink feet held beneath it, pale bill with a black tip",
+      "adult, side view in flight just above the waves: uniform chocolate-black plumage, long straight wings, pale buff bill with a black tip, flesh-pink feet tucked under the tail",
+      "adult, head detail: stout pale pinkish-buff bill with tube nostrils and a sharply black hooked tip, dark eye in an all-dark head"
+    ],
+    "build": "Large, heavy-bodied shearwater, a little smaller than Streaked Shearwater (the common shearwater of Korean seas) but similarly bulky; much longer and narrower wings than a gull. Thick neck, rounded head. Bill about as long as the head, thick, with tube nostrils on top of the base and a hooked tip. Tail short and rounded; the pink feet are tucked under the tail in flight and do not project beyond it. Flies low over the waves with slow, deliberate wingbeats and long stiff-winged glides on straight wings, banking from side to side.",
+    "avoid": [
+      "Do not paint a dark bill or silvery-white underwing coverts — those belong to Sooty and Short-tailed Shearwaters; this species has a pale black-tipped bill and dark underwing coverts.",
+      "Do not give it any white on the face, belly or underwing as in Streaked Shearwater (Calonectris leucomelas).",
+      "Do not paint a long wedge-shaped tail (Wedge-tailed Shearwater) or toes projecting beyond the tail tip.",
+      "Do not paint dark or grey feet; the legs and feet are pale flesh-pink."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

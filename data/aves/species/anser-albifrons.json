@@ -85,13 +85,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater White-fronted Goose (Anser albifrons), adult: dark brown head with white between the eye and the bill, brown ear coverts, neck, chin and throat, grey-brown upperparts with white feather edges, grey-brown to whitish breast and belly with black blotches, pinkish bill and legs",
+    "subject": "Greater White-fronted Goose (Anser albifrons), adult in winter (October to March in Korea): a white blaze around the base of the upper mandible running onto the forehead, edged by a dark brown border; rest of the head and neck plain dark grey-brown; mantle and wing coverts grey-brown with pale buff fringes giving a neatly barred look; breast pale grey-brown; belly paler with irregular broad black bars and blotches; flanks dark grey-brown topped by a white line; vent and undertail white; narrow white uppertail band above a dark tail tipped white; pink bill with a whitish nail; dark brown eye with no coloured eye-ring; orange legs and feet.",
     "pose": "grazing in a flock on harvested farmland, one bird alert with head raised",
     "scene": "open Korean farmland beside a reservoir in winter, rice stubble after the harvest; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark brown head, white patch at the bill base, grey-brown upperparts edged white, black blotches on the belly, pinkish bill and legs",
-      "adult resting: head tucked into the back feathers, standing on one leg"
-    ]
+      "adult, side view standing: white blaze at the bill base and forehead, dark grey-brown head and neck, upperparts barred by pale fringes, irregular black bars across the belly, white vent, pink bill with white nail, orange legs",
+      "adult resting, side view: standing on one leg with the neck drawn down into the shoulders and the head facing forward, bill tilted down onto the breast, white forehead blaze and black belly bars still visible"
+    ],
+    "build": "Medium-large grey goose, about 75cm: noticeably smaller and shorter-necked than the bean geese it often flocks with, well larger than a Mallard. Rounded head, medium neck, compact body. Bill shorter than the head, fairly deep at the base and evenly tapered, pink with a white nail. Legs medium length, orange. At rest the wingtips reach about the tail tip. Tail short, dark with a white tip. In flight shows a grey-brown upperwing, a white uppertail band and, from below, the black-barred belly.",
+    "avoid": [
+      "Do not let the white blaze reach up between the eyes onto the crown, and do not add a yellow eye-ring; those mark Lesser White-fronted Goose.",
+      "Do not paint a black bill with an orange band; that is a bean goose. The bill is pink.",
+      "Do not paint pink legs; the legs and feet are orange.",
+      "Do not leave the adult belly plain; it carries irregular black bars, which only juveniles lack."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

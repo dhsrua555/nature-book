@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-breasted Merganser (Mergus serrator), adult male: green-tinged black head with a ragged crest of thin straight plumes, white collar, breast scattered with blackish-brown spots, black back, white and grey sides, black patch with several white spots where breast meets belly",
+    "subject": "Red-breasted Merganser (Mergus serrator), adult male in breeding plumage, as seen on Korean coasts from November to March: head black glossed green, with a ragged double crest of thin straight plumes on the hindcrown; a broad white collar; breast pale rufous-buff densely spotted and streaked blackish-brown; a black patch with several white spots on the breast side in front of the wing; black back; flanks grey, finely vermiculated; tail grey. Long, thin red bill with a hooked tip; red eye; orange-red legs.",
     "pose": "swimming low on the sea close to shore, about to dive",
     "scene": "Korean winter coastline near an estuary mouth with calm inshore water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: green-tinged black head with spiky crest, white collar, spotted breast, black back, grey and white sides",
-      "adult female, side view swimming: brown head with spiky crest, grey-brown body"
-    ]
+      "adult male, side view swimming: green-black head with a spiky ragged crest, white collar, rufous-buff breast spotted blackish-brown, black patch with white spots on the breast side, black back, grey vermiculated flanks, long thin red bill",
+      "adult female, side view swimming: rufous-brown head with a spiky ragged crest, the brown merging softly into the paler throat and foreneck, grey-brown body, long thin red bill"
+    ],
+    "build": "Slim, long-bodied diving duck, about 55cm, about the length of a Mallard but slimmer and lower in the water, with a thin neck and a spiky, ragged crest. Bill long, very thin and red, about as long as the head, with serrated edges and a hooked tip. Legs orange-red, set far back. Flight fast and straight, with the head, neck and body held in one long line; a large white patch on the inner wing.",
+    "avoid": [
+      "Do not paint a smooth rounded head or a creamy-white breast; that is the male Common Merganser (Mergus merganser).",
+      "Do not give the female a sharp line between brown neck and white breast; that marks the female Common Merganser.",
+      "Do not paint a broad flat duck bill; it is long, thin and hooked.",
+      "Do not paint a dark bill; it is red in both sexes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

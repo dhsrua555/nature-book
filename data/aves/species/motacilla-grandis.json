@@ -58,13 +58,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Wagtail (Motacilla grandis), adult: black upperparts, breast and tail, white forehead joined to a white supercilium, white chin, white lower breast, belly and undertail coverts",
+    "subject": "Japanese Wagtail (Motacilla grandis), adult in winter: head, nape, back and rump black; a white forehead joined to a broad white supercilium; small white chin; throat and breast black, forming a solid bib; lower breast, belly and undertail coverts white; wings black with a very large white panel across the coverts and inner flight feathers; tail long and black with white outer feathers; bill black; dark eye; black legs.",
     "pose": "walking along the water's edge, picking at insects",
     "scene": "Korean winter riverside in the south with a low stone wall and grassy bank; no people, buildings or text",
     "views": [
-      "adult, side view walking: black upperparts and tail, white forehead and supercilium, black breast, white belly",
-      "adult, front view: white chin, black breast, white lower breast and belly"
-    ]
+      "adult, side view walking on stones at the water's edge: black head and back, white forehead and supercilium, black breast, white belly, large white wing panel, long black tail with white outer feathers, black legs",
+      "adult, front view: white forehead and supercilium, small white chin, solid black throat and breast, white lower breast and belly"
+    ],
+    "build": "Large, robust wagtail, 21cm including the long tail — slightly larger and heavier than a White Wagtail. Rounded head and a slender black bill shorter than the head. Legs black and fairly long. At rest the large white wing panel shows on the folded wing. Tail long and narrow, black with white edges, constantly wagged up and down. Walks briskly along stony stream and river banks; flies in deep undulations, showing broad white wing panels.",
+    "avoid": [
+      "Do not paint a white face with only a black eye-line like the White Wagtail; this species' head is black except the forehead, supercilium and chin.",
+      "Do not paint a grey back on the adult; it is black.",
+      "Do not leave out the large white wing panel or the white outer tail feathers.",
+      "Do not paint yellow underparts (Grey Wagtail)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

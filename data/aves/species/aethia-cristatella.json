@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Crested Auklet (Aethia cristatella), adult in winter, as on the East Sea: entirely dark slate-grey, blackish on the crown and back and slightly paler grey-brown on the underparts; a tuft of black feathers rising from the forehead and curling forward over the bill; a thin white plume running back from behind the eye; white iris. Bill short, deep and stubby, orange, smaller and duller in winter than in summer; legs grey.",
+    "pose": "floating low on the water, side view, crest curled forward over the bill",
+    "scene": "Grey winter sea off Korea's east coast, low swell under a cold overcast sky; no people, buildings or text",
+    "views": [],
+    "build": "Small, chunky auk with a big head, no visible neck and a short, stubby bill; about the size of an Ancient Murrelet and much smaller than a pigeon. Floats low and buoyantly on the sea and dives often; legs short and set far back. Wings short and narrow, whirring fast in low flight over the waves; wings uniformly dark without white markings. Tail very short.",
+    "avoid": [
+      "Do not paint white underparts; unlike the Ancient Murrelet and most other auks, the Crested Auklet is dark grey all over.",
+      "Do not paint three white facial plumes (Whiskered Auklet, Aethia pygmaea); the Crested Auklet has one thin white plume behind the eye.",
+      "Do not make the crest sweep backward; it curls forward over the bill.",
+      "Do not paint a large puffin-like bill or a dark iris."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

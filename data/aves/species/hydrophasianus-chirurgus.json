@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pheasant-tailed Jacana (Hydrophasianus chirurgus), adult: long neck, long tail, very long toes and slender elongated primaries; pale yellow hindneck; white face, throat, foreneck and upper breast; white upper part of the folded wing; black lower breast, back and rest of the body",
+    "subject": "Pheasant-tailed Jacana (Hydrophasianus chirurgus), adult in breeding plumage, as seen on Korean reservoirs from June to September: face, chin, throat and foreneck white; a black patch on the hindcrown and a black line running from it down the side of the neck, separating the white foreneck from the glossy golden-yellow hindneck; body, back, lower breast and belly chocolate-blackish; folded wings almost wholly white, with black tips to the outer primaries; very long, decurved black tail plumes. Slender bluish-grey bill; dark eye; long grey-green legs with extremely long toes and claws.",
     "pose": "standing on floating leaves, side view",
     "scene": "Korean reservoir thickly covered with floating prickly water-lily leaves; no people, buildings or text",
     "views": [
-      "adult, side view standing: pale yellow hindneck, white face, throat and foreneck, black lower breast and body, long tail, very long toes",
-      "wing detail: slender elongated primaries and white upper part of the folded wing"
-    ]
+      "adult breeding, side view standing on floating water-lily leaves: white face, throat and foreneck, black hindcrown and neck-side line, golden-yellow hindneck, chocolate-black body, white folded wings, very long drooping black tail, very long toes spread over the leaf",
+      "adult, wing detail: mostly white folded wing above the dark flank, outer primaries black-tipped and drawn out into slender elongated points"
+    ],
+    "build": "Slender, elegant waterbird; the body is smaller than a Common Moorhen's, but in breeding plumage the very long, drooping tail more than doubles its length. Small head on a long thin neck. Bill short, slender and straight, shorter than the head. Legs long, with extraordinarily long toes and straight claws that spread its weight over floating leaves. The outer primaries end in thin, drawn-out pointed tips. In flight mostly white wings with black tips, dark body and long trailing tail.",
+    "avoid": [
+      "Do not paint short toes or webbed feet; the toes are extremely long and thin.",
+      "Do not paint a short tail on a breeding bird; the tail plumes are very long.",
+      "Do not paint a red frontal shield like a moorhen or a long wading bill.",
+      "Do not paint dark wings; the folded wings and most of the open wing are white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

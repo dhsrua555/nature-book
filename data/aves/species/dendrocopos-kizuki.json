@@ -66,13 +66,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Pygmy Woodpecker (Dendrocopos kizuki), adult male: grey-brown forehead, crown, nape and hindneck with red feathers at each side of the nape, smoky-brown lores and ear-coverts, white supercilium behind the eye not joining the buff-white neck sides, black tail with the outer two pairs brownish-white near the tip and crossed by three black bars, black nasal bristles tipped white, lead-grey horn-coloured bill, red iris, lead-grey legs",
+    "subject": "Japanese Pygmy Woodpecker (Dendrocopos kizuki), adult male: crown, nape and hindneck grey-brown; a tiny red streak at each side of the rear crown, often hidden; lores and ear-coverts smoky brown; a white stripe behind the eye above the ear-coverts and a white band below them; mantle, back and wings dark brown crossed by many narrow white bars; underparts dull buffy white with fine brown streaks on the breast and flanks; tail blackish, the outer feathers barred white; short lead-grey bill; reddish-brown iris; lead-grey legs.",
     "pose": "clinging to a tree trunk, chiselling a nest hole",
     "scene": "Korean broadleaf and scrub woodland; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: grey-brown crown with red nape patches, smoky-brown ear-coverts, white supercilium, black tail with barred outer feathers",
-      "adult female, head detail: no red at the sides of the nape"
-    ]
+      "adult male, side view clinging upright to a trunk, braced on its tail: grey-brown crown and hindneck with a small red streak at the side of the nape, smoky-brown ear patch between white stripes, white-barred dark brown back, streaked buffy underparts, white-barred outer tail feathers, reddish eye, grey legs",
+      "adult female, head detail in side profile: grey-brown crown and nape with no red at all, smoky-brown ear patch, white stripe behind the eye, short grey bill"
+    ],
+    "build": "Tiny woodpecker, about the size of a House Sparrow, one of the smallest woodpeckers in Korea. Rounded head, compact body. Bill short, straight and chisel-tipped, shorter than the head, lead-grey. Legs short, grey, with two toes forward and two back for clinging. Wings rounded, covering most of the back at rest. Tail short, stiff and pointed, used as a prop against the trunk. Creeps along thin branches and trunks, often with mixed flocks of tits; flight bounding.",
+    "avoid": [
+      "Do not paint the pied black-and-white plumage, large white shoulder patches or red undertail of Great Spotted Woodpecker.",
+      "Do not paint a red crown or a large red nape patch; the male's red is a tiny streak, often hidden.",
+      "Do not paint a long bill; the bill is short and stubby.",
+      "Do not paint a black crown or a black back; the crown is grey-brown and the back dark brown barred white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

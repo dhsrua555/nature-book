@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Hawk-Cuckoo (Hierococcyx hyperythrus), adult: dark bluish-grey head, chin and neck sides, white lores, white undertail coverts, brownish-grey tail with a reddish-grey tip, a broad black band and 3–4 narrow black bars",
+    "subject": "Northern Hawk-Cuckoo (Hierococcyx hyperythrus), adult as seen in Korean mountain forests from May to August: head, chin and neck sides dark bluish slate-grey, with whitish lores edged slate; upperparts and wings dark slate-grey to grey-brown; lower throat and breast washed rufous-orange, paling to white on the belly; undertail coverts white; tail brownish-grey crossed by three or four narrow black bars, a broad black subterminal band and a reddish-grey tip. Bill dark with a yellowish base; yellow eye-ring; legs yellow.",
     "pose": "perched on a branch inside the forest, side view",
     "scene": "Korean mountain forest in summer; no people, buildings or text",
     "views": [
-      "adult, side view perched: dark bluish-grey head and neck sides, white lores, brownish-grey banded tail, white undertail coverts",
-      "adult, tail detail from below: reddish-grey tip, broad black band, 3–4 narrow black bars"
-    ]
+      "adult, side view perched: dark bluish slate-grey head, chin and neck sides, whitish lores, slate-grey back, rufous-orange breast fading to a white belly, white undertail coverts, banded brownish-grey tail, yellow eye-ring and legs",
+      "adult, tail seen from below: brownish-grey tail with three or four narrow black bars, a broad black subterminal band and a reddish-grey tip, white undertail coverts"
+    ],
+    "build": "Medium-sized, long-tailed cuckoo, about the size of a Common Cuckoo but stockier and broader-winged, strongly resembling a small accipiter hawk in shape; perches upright to horizontal inside the forest. Bill short and slightly decurved, not hooked like a raptor's. Legs short, yellow, with two toes forward and two back. The long, broad, banded tail extends well beyond the wingtips at rest.",
+    "avoid": [
+      "Do not paint a hooked raptor bill or strong talons; it is a cuckoo with a slender bill and weak zygodactyl feet.",
+      "Do not paint the adult's underparts barred black like a Common Cuckoo's; the breast is washed rufous-orange.",
+      "Do not paint a plain grey tail; it is boldly banded with a reddish-grey tip.",
+      "Do not paint the head brown; it is dark bluish slate-grey."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Indian Cuckoo (Cuculus micropterus), adult male: dark grey head and neck, grey-brown back and rump, grey lores, chin, throat and upper breast, white lower breast and belly with sparse black bars, white vent and undertail coverts, grey-brown tail with a bold black subterminal band and white tip, yellow legs",
+    "subject": "Indian Cuckoo (Cuculus micropterus), adult male as seen in Korean woods from May to August: head and neck dark grey; back, rump and wings grey-brown, browner than the head; lores, chin, throat and upper breast grey; lower breast and belly white crossed by broad, widely spaced black bars; vent and undertail coverts white; tail grey-brown with a broad black subterminal band and a white tip. Bill dark with a yellowish base; dark brown iris with a yellow eye-ring; legs yellow.",
     "pose": "perched alone on a branch, calling",
     "scene": "Korean deciduous woodland with larch stands and mixed forest; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark grey head and neck, grey-brown back, grey throat and upper breast, white belly with sparse black bars, yellow legs",
-      "adult male, tail detail from below: grey-brown tail with a bold black subterminal band and white tip"
-    ]
+      "adult male, side view perched: dark grey head and neck, browner grey-brown back, grey throat and upper breast, white belly with broad, widely spaced black bars, dark eye with a yellow eye-ring, yellow legs",
+      "adult male, tail seen from below: graduated grey-brown tail with a broad black subterminal band and a white tip, white undertail coverts"
+    ],
+    "build": "Medium-sized, slim, long-tailed cuckoo, about the size of a Common Cuckoo, with long, pointed, falcon-like wings and a long, graduated tail; perches rather horizontally with the wings drooped below the tail base. Bill short and slightly decurved. Legs short, yellow, with two toes forward and two back. The long tail extends well beyond the wingtips at rest. Flight fast and direct, hawk-like.",
+    "avoid": [
+      "Do not paint a yellow iris; Indian Cuckoo has a dark eye with a yellow eye-ring (Common and Oriental Cuckoos have yellow eyes).",
+      "Do not paint narrow, dense barring on the underparts; the black bars are broad and widely spaced.",
+      "Do not omit the broad black subterminal tail band; Common Cuckoo lacks it.",
+      "Do not paint the back the same blue-grey as the head; it is browner."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

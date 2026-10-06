@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Saker Falcon (Falco cherrug), adult: white crown and upper head marked with brown, blackish-brown back, white belly streaked dark brown, dark brown tail with pale bands",
+    "subject": "Saker Falcon (Falco cherrug), adult in winter: crown and nape whitish-buff with fine brown streaks, a pale supercilium, a thin dark line behind the eye and a narrow, often faint dark moustache on a whitish cheek; mantle, scapulars and wing coverts dark earth-brown with rufous-buff fringes; flight feathers darker brown; underparts white to creamy with dark brown teardrop streaks and spots, heaviest on the flanks and thighs; tail brown with pale buff oval spots forming bars; bill bluish-grey with a dark tip; bare yellow cere and eye-ring; dark brown eye; legs yellow.",
     "pose": "perched on a low mound in open country, side view",
     "scene": "Korean winter plain: open flat farmland beside a wetland; no people, buildings or text",
     "views": [
-      "adult, side view perched: whitish crown marked with brown, blackish-brown back, white belly with dark brown streaks",
-      "adult, flight from below: white underparts streaked dark brown, dark brown tail with pale bands"
-    ]
+      "adult, side view perched upright on a low mound: whitish-buff crown with fine brown streaks, faint thin moustache, dark brown back and wings with rufous-buff fringes, white underparts with dark brown teardrop streaks, long tail beyond the wingtips, yellow legs",
+      "adult, in flight seen from below: whitish body with dark brown streaks, dark underwing coverts and armpits contrasting with paler barred flight feathers, long brown tail with pale bands"
+    ],
+    "build": "Large, powerful falcon, 46cm, much larger than a Common Kestrel and larger than a Peregrine Falcon. Head fairly large and flat-crowned; bill short, strongly hooked, much shorter than the head. Legs yellow, fairly short, with strong toes. At rest the wingtips fall clearly short of the tail tip, reaching about three-quarters of the way down it. Tail rather long. In flight broad-based pointed wings, the dark underwing coverts contrasting with paler flight feathers.",
+    "avoid": [
+      "Do not paint a black hood, a broad black moustache or a blue-grey back; those are Peregrine Falcon (Falco peregrinus).",
+      "Do not paint barred underparts; the Saker's underparts are streaked and spotted.",
+      "Do not make the wingtips reach the tail tip at rest; the tail clearly projects beyond them.",
+      "Do not paint a dark crown; the crown is pale."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -68,13 +68,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Goshawk (Accipiter gentilis), adult: bold white supercilium, thick black eye-stripe, yellow iris, dark blue-grey head, back, upperwings and tail, white breast and belly finely barred blackish-brown",
+    "subject": "Eurasian Goshawk (Accipiter gentilis), adult, as seen in Korean woodland and river valleys from November to March: crown and broad ear-coverts blackish, forming a dark cap and mask that contrasts with a long, bold white supercilium; back, upperwings and tail dark blue-grey, the tail with three or four indistinct darker bands. Underparts white, densely covered with fine, wavy blackish-brown bars from the breast to the thighs; throat finely streaked; undertail coverts pure white and fluffy, often spread around the tail base. Iris yellow to orange; cere yellowish; bill dark and strongly hooked; legs and feet yellow, thick and powerful.",
     "pose": "perched on a stout branch, side view",
     "scene": "Korean winter riverside: woodland bordering open fields along a stream; no people, buildings or text",
     "views": [
-      "adult, side view perched: white supercilium, black eye-stripe, yellow iris, blue-grey upperparts, finely barred white underparts",
-      "adult, flight from below: short broad wings, long tail, finely barred underparts"
-    ]
+      "adult, side view perched: bold white supercilium, blackish crown and thick black eye-stripe across the ear-coverts, yellow-orange iris, blue-grey upperparts, white underparts finely barred blackish-brown, fluffy white undertail coverts",
+      "adult, in flight seen from below: short, broad wings with bulging secondaries, long broad tail with rounded corners, densely fine-barred underparts and underwing, white undertail coverts, dark cap and mask"
+    ],
+    "build": "Large, powerful hawk, 50–56cm; the female about the size of a Large-billed Crow but much bulkier, the male noticeably smaller. Deep-chested, heavy body with a broad head. Wings relatively short and broad with rounded tips and bulging secondaries; at rest the wingtips fall well short of the tail tip. Tail long and broad, with rounded corners. Legs thick, feet strong. In flight looks heavy, with powerful wingbeats and conspicuous white undertail coverts.",
+    "avoid": [
+      "Do not paint the adult with streaked buff-brown underparts; that is juvenile plumage.",
+      "Do not paint rufous barring or rufous cheeks (male Eurasian Sparrowhawk).",
+      "Do not paint a small, slim hawk with pencil-thin legs; this is a heavy, broad-chested bird.",
+      "Do not paint long pointed falcon wings or a falcon's moustache stripe."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

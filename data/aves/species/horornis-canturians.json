@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Manchurian Bush Warbler (Horornis canturians), adult: brown upperparts, slightly paler brown forehead and crown, greyish-white supercilium, dark brown eye-stripe, cheeks and ear-coverts mottled buff and dark brown, whitish underparts washed yellow or pale buff",
+    "subject": "Manchurian Bush Warbler (Horornis canturians), adult in summer (sexes alike, the female smaller): upperparts plain warm brown; forehead and crown a slightly brighter, more rufous brown; a long greyish-white supercilium; a dark brown eye-stripe; cheeks and ear-coverts mottled buff and dark brown; wings and tail plain brown with warmer edges; underparts whitish with a faint yellowish or pale buff wash, the breast sides and flanks buff-brown; bill fairly long and stout for a warbler, dark brown above and pinkish below; dark eye; pinkish-brown legs.",
     "pose": "perched low in a dense thicket, side view",
     "scene": "Korean summer: shrubby edge of a lowland forest valley with a bamboo thicket by a stream; no people, buildings or text",
     "views": [
-      "adult, side view perched: brown upperparts, greyish-white supercilium, dark brown eye-stripe, whitish underparts washed buff",
-      "adult, head detail: paler brown forehead and crown, ear-coverts mixed buff and dark brown"
-    ]
+      "adult, side view perched low in a thicket: plain warm brown upperparts with a brighter rufous-brown crown, long greyish-white supercilium, dark brown eye-stripe, whitish underparts washed buff, buff-brown flanks, long rounded tail, pinkish legs",
+      "adult, head in profile: rufous-tinged forehead and crown, greyish-white supercilium, dark brown eye-stripe, cheeks and ear-coverts mottled buff and dark brown, strong bill dark above and pinkish below"
+    ],
+    "build": "Large, robust bush warbler, 14–17cm: the male is about sparrow length and markedly larger than the female. Rounded head and a fairly long, strong, pointed bill shorter than the head. Legs long and strong, pinkish-brown. Wings short and rounded; at rest the wingtips reach just past the base of the tail. Tail fairly long, broad and rounded, often cocked. Skulks in dense thickets and bamboo, singing from cover or from a bush top.",
+    "avoid": [
+      "Do not add wing-bars, streaks or green and yellow tones; it is plain brown above and whitish below.",
+      "Do not give it a short tail; the tail is long, broad and rounded, often cocked.",
+      "Do not paint dark legs.",
+      "Do not add a black stripe above the supercilium (Black-browed Reed Warbler)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

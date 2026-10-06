@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chestnut-winged Cuckoo (Clamator coromandus), adult: black crest, rufous throat and foreneck, black back and wing coverts, short dark rufous wings, white belly and partial white hind-collar, long black tail, black bill",
+    "subject": "Chestnut-winged Cuckoo (Clamator coromandus), adult: long, erect, glossy black crest; crown and face glossy black; a white half-collar across the hindneck; mantle, back and wing coverts glossy blue-black; flight feathers chestnut-rufous; throat and upper breast orange-rufous; lower breast and belly white; tail very long, graduated, glossy black with narrow white tips; bill black, slightly curved; legs grey.",
     "pose": "perched on a branch with crest raised, side view",
     "scene": "forest on Jeju Island; no people, buildings or text",
     "views": [
-      "adult, side view perched: black crest, rufous throat, black back, white belly, long black tail, black bill",
-      "adult, in flight from above: short dark rufous wings, black back and long black tail"
-    ]
+      "adult, side view perched: erect black crest, rufous throat and foreneck, white half-collar on the hindneck, black back and wing coverts, chestnut flight feathers, white belly, very long graduated black tail, black bill",
+      "adult, in flight seen from above, head, body and tail in line: short rounded chestnut wings, glossy black back, long graduated black tail"
+    ],
+    "build": "Large, slender, long-tailed cuckoo, about 45cm, much of it tail, clearly longer than Common Cuckoo, with a prominent pointed crest usually held erect. Bill black, shorter than the head, slightly downcurved. Legs short, grey, with two toes forward and two back. Wings short and rounded, the chestnut flight feathers obvious in flight. Tail very long and strongly graduated, the outer feathers much shorter than the central ones.",
+    "avoid": [
+      "Do not paint white wing patches; that is Pied Cuckoo (Clamator jacobinus).",
+      "Do not paint barred underparts like Common Cuckoo or hawk-cuckoos; the belly is plain white.",
+      "Do not flatten or omit the crest.",
+      "Do not give it a forked or square tail; it is long and graduated."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

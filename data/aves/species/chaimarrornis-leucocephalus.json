@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "White-capped Redstart (Chaimarrornis leucocephalus), adult (sexes alike, plumage similar year-round): a pure white crown cap from the forehead to the nape; face, throat, upper breast, back, scapulars and wings glossy black; lower breast, belly, vent, rump and uppertail coverts deep chestnut-red; tail chestnut-red with a broad black terminal band; black bill; dark eye; black legs.",
+    "pose": "standing on a wet boulder in a stream, side view, tail fanned",
+    "scene": "rocky mountain stream with boulders and splashing water in Korea in early spring, cold clear light; no people, buildings or text",
+    "views": [],
+    "build": "A robust, upright chat, larger and bulkier than a Daurian Redstart, with a rounded head and short neck. Bill short, straight and black, much shorter than the head. Legs fairly long, black. Tail medium and square, constantly fanned and wagged up and down. Perches on boulders in fast-flowing streams.",
+    "avoid": [
+      "Do not paint a grey or black crown; the cap is pure white.",
+      "Do not paint white wing patches (Daurian Redstart); the wings are all black.",
+      "Do not paint an all-chestnut tail; it has a broad black tip.",
+      "Do not paint a slaty blue-grey body (Plumbeous Water Redstart)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

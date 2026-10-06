@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Shrike (Lanius borealis), adult male: pure grey crown, nape and back with white at the very front of the forehead, black eye mask from lores to ear coverts, white supercilium, white chin, throat and cheeks, whitish outer scapulars, grey rump, black wings, black bill, dark brown iris, black legs",
+    "subject": "Northern Shrike (Lanius borealis), adult male in winter, as seen in Korean open country: crown, nape and back pale grey, with a narrow white edge at the very front of the forehead; black mask from the lores through the eye to the ear coverts, with a thin white supercilium above it; chin, throat and cheeks white; outer scapulars whitish, forming a pale line along the edge of the back; rump paler grey; wings black with a small white patch at the base of the primaries; tail black with white outer feathers; underparts white with faint fine grey barring; bill black and hooked; iris dark brown; legs black.",
     "pose": "perched upright on top of a bare shrub, scanning for prey",
     "scene": "Korean winter open country with scattered trees and shrubs; no people, buildings or text",
     "views": [
-      "adult male, side view perched: grey upperparts, black mask with white supercilium, white throat and cheeks, black wings",
-      "adult female, head detail: grey-brown crown and nape, brown eye-stripe"
-    ]
+      "adult male, side view perched upright: pale grey crown and back, white forehead edge, black mask with a thin white supercilium above, white chin, throat and cheeks, whitish outer scapulars, black wings with a small white primary patch, black tail with white edges, black hooked bill, black legs",
+      "adult female, head detail: grey-brown crown and nape, brown rather than black eye mask, white throat, faint grey barring on the white breast"
+    ],
+    "build": "Large shrike, about 24.5cm, clearly larger than Bull-headed Shrike and smaller than Chinese Grey Shrike, with a big head, strong hooked bill and long, slightly graduated tail. Bill shorter than the head, deep, with a strongly hooked tip. Legs short and black. Perches upright and conspicuously on treetops and bush tops, often swinging its tail. In flight the black wings show a single white patch at the base of the primaries and the black tail shows white outer edges.",
+    "avoid": [
+      "Do not paint a very long tail and a large white wing panel spreading onto the secondaries; those belong to Chinese Grey Shrike (Lanius sphenocercus).",
+      "Do not paint a black band across the forehead joining the masks; that is Lesser Grey Shrike (Lanius minor).",
+      "Do not paint rufous or brown upperparts; those suit Brown or Bull-headed Shrike.",
+      "Do not paint a pink or orange breast."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-tailed Shrike (Lanius phoenicuroides), adult male in spring, as a rare migrant on a Korean offshore island in May: crown and nape warm rufous-brown, contrasting with the dull grey-brown mantle and back; a clean white supercilium above a black mask that runs from the bill base through the eye to the ear-coverts; cheeks below the mask and throat white; wings dark brown with buff-fringed coverts and tertials and a small white patch at the base of the primaries; underparts white, with only a faint warm buff wash on the breast sides and flanks; rump, uppertail coverts and tail bright rufous-orange; bill black, hooked; iris dark; legs dark grey.",
+    "pose": "perched upright on the top twig of a low bush, side view, scanning the ground with the rufous tail slightly fanned",
+    "scene": "scrubby field edge on a Korean offshore island during spring migration in May, low bushes and grassy fallow ground in clear daylight; no people, buildings or text",
+    "views": [],
+    "build": "A medium-sized shrike, about the size of a Brown Shrike: clearly longer than a sparrow, with a large head, thick neck and long tail. Bill strong and black, shorter than the head, the upper mandible ending in a small hook. Legs fairly short, dark grey, with strong feet. Wings rather short; at rest the wingtips reach only just past the base of the tail. Tail long, narrow and rounded at the tip, often swung from side to side or slightly fanned. Perches upright and conspicuously on bush tops, wires and posts, dropping to the ground for insects; flight low and undulating, swooping up to a new perch.",
+    "avoid": [
+      "Do not paint a uniformly rufous-brown back and tail; that is Brown Shrike (Lanius cristatus). Here a grey-brown mantle contrasts with the rufous crown and bright rufous tail.",
+      "Do not paint the crown the same sandy grey as the back; that is Isabelline Shrike (Lanius isabellinus).",
+      "Do not give it a grey crown and back with black-and-white wings and tail, as in the grey shrikes.",
+      "Do not paint scaly bars on the breast; the adult male is clean white below. Barring is shown only by females and young."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

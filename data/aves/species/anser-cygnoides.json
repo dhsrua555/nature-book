@@ -51,13 +51,22 @@
   "young": "어린새는 부리 기부의 흰 띠가 없다.",
   "similar": [],
   "art": {
-    "subject": "Swan Goose (Anser cygnoides), adult: chestnut from the forehead down the hindneck, pale brown cheeks and foreneck with a sharp border, black bill, brown breast and belly, dark brown back and upperwing, white undertail coverts, orange legs",
+    "subject": "Swan Goose (Anser cygnoides), adult (sexes alike), as seen in Korea from October to March: dark chestnut-brown crown and a broad dark stripe down the whole hindneck, sharply divided from the very pale buff-brown cheeks, throat and foreneck, palest on the throat; a thin white line bordering the base of the bill; mantle and wings grey-brown with pale fringes forming neat bars; breast pale pinkish-buff, flanks brown barred paler, belly pale; vent and undertail coverts white; tail dark with a white tip, uppertail coverts white. Long, all-black bill; dark eye; orange legs.",
     "pose": "grazing on the ground at the edge of a wetland",
     "scene": "Korean winter river mouth: mudflats and marshy wetland along the lower Han River; no people, buildings or text",
     "views": [
-      "adult, side view standing: chestnut crown and hindneck, pale brown cheeks and foreneck with a sharp border, black bill, brown body, white undertail coverts, orange legs",
-      "adult, head detail: sharp line between chestnut hindneck and pale brown foreneck, black bill"
-    ]
+      "adult, side view standing: chestnut-brown crown and hindneck sharply divided from pale buff cheeks and foreneck, long black bill with a thin white line at its base, grey-brown barred back, pale breast, white undertail coverts, orange legs",
+      "adult, head detail in side view: long black bill in a straight swan-like profile, thin white line at the bill base, sharp border between the dark hindneck stripe and the pale foreneck"
+    ],
+    "build": "Large, long-necked goose, about 87cm, far larger than a Mallard and about the size of a Bean Goose but with a slimmer, longer neck. Head and bill form a long, straight, swan-like profile with no knob. Bill long and heavy, about as long as the head, black throughout. Legs orange, medium length. Neck held erect when alert. In flight long-necked, with plain grey-brown wings.",
+    "avoid": [
+      "Do not add a knob at the bill base; that is the domestic Chinese goose descended from this species.",
+      "Do not paint orange or pink on the bill; it is entirely black, unlike the orange-banded bill of Bean Goose.",
+      "Do not paint a white forehead blaze or black belly bars; those belong to Greater White-fronted Goose (Anser albifrons).",
+      "Do not show the white line at the bill base on juveniles; they lack it."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

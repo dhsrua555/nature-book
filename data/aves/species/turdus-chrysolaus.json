@@ -42,13 +42,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Brown-headed Thrush (Turdus chrysolaus), adult male: dark grey-brown head, neck and upperparts, rufous breast and flanks, white belly",
+    "subject": "Brown-headed Thrush (Turdus chrysolaus), adult male on spring or autumn passage: head, neck and throat dark grey-brown, darkest on the face, with no supercilium; mantle, back, wings and tail olive-brown; breast and flanks warm rufous-orange, unspotted; centre of the belly and the undertail coverts white; bill yellow with a dark culmen and tip; dark eye; pale yellowish-brown legs.",
     "pose": "perched on a branch inside dense forest, side view",
     "scene": "Korean dense forest interior during spring or autumn passage; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark grey-brown head and upperparts, rufous breast and flanks, white belly",
-      "adult female, side view perched: paler underparts, a few white streaks on the throat"
-    ]
+      "adult male, side view perched: dark grey-brown head and throat with no eyebrow, olive-brown back and wings, plain rufous-orange breast and flanks, white belly, yellow bill with a dark tip",
+      "adult female, side view perched: paler brown head, pale throat with fine whitish and dark streaks, paler orange breast and flanks, white belly"
+    ],
+    "build": "Medium-sized thrush, 24cm, about the size of Pale Thrush (Turdus pallidus), clearly larger than a sparrow and smaller than a pigeon. Typical Turdus shape: rounded head, straight bill about two-thirds of the head length, fairly long legs, medium-length square tail. Stands upright on branches and on the ground, the tail held level.",
+    "avoid": [
+      "Do not paint a white supercilium or a grey head — that is Eyebrowed Thrush (Turdus obscurus).",
+      "Do not paint grey upperparts — that is Grey-backed Thrush (Turdus hortulorum).",
+      "Do not paint spots on the orange breast; it is plain.",
+      "Do not paint white tail corners — that is Pale Thrush (Turdus pallidus)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

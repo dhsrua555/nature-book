@@ -45,13 +45,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey Bush Chat (Saxicola ferreus), adult male: grey forehead and back heavily streaked black, white supercilium, black cheeks, white underparts, white stripe on the wing",
+    "subject": "Grey Bush Chat (Saxicola ferreus), adult male in spring: crown, nape and mantle grey with heavy blackish streaks; long white supercilium; broad black mask from the lores through the cheeks and ear-coverts; throat white; breast and flanks pale grey, belly and undertail coverts whitish; wings blackish with a white patch on the inner wing-coverts that shows as a white stripe on the folded wing; rump grey; tail blackish. Bill black; dark eye; legs black.",
     "pose": "perched, side view",
     "scene": "Korean coastal farmland with grassy field margins; no people, buildings or text",
     "views": [
-      "adult male, side view perched: grey forehead and back streaked black, white supercilium, black cheeks, white underparts, white wing stripe",
-      "adult female, side view perched: brown all over except the throat and belly"
-    ]
+      "adult male, side view perched: grey forehead, crown and mantle heavily streaked black, long white supercilium, black cheeks forming a mask, white throat, whitish underparts with a pale grey breast wash, white stripe on the folded blackish wing",
+      "adult female, side view perched: warm brown upperparts lightly streaked, buff supercilium, darker brown cheeks, whitish throat and belly, buffy-brown breast and flanks, rufous-brown rump and outer tail feathers"
+    ],
+    "build": "Slim chat, a little larger than a sparrow and longer-tailed than Amur Stonechat. Upright stance on bush tops, wires and tall stems, flicking its wings and tail. Bill short, thin, straight and black. Legs medium length, black. Wings short, the wingtips reaching only the base of the tail. Tail fairly long and square-ended, often flicked and spread.",
+    "avoid": [
+      "Do not give the male a black head or orange breast; that is Amur Stonechat (Saxicola stejnegeri).",
+      "Do not leave out the long white supercilium or make the cheeks grey.",
+      "Do not paint a plain, unstreaked back on the male."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

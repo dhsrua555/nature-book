@@ -40,14 +40,23 @@
     }
   ],
   "art": {
-    "subject": "Tundra Swan (Cygnus columbianus), adult: all-white plumage, bill with a narrow, rounded yellow patch",
+    "subject": "Tundra Swan (Cygnus columbianus), adult in winter (the Bewick's Swan of East Asia): entire plumage white, the head and neck sometimes stained rusty; bill black with a yellow patch at the base that is small, rounded or squarish at its front edge and does not extend forward past the nostril; black lores bordering the yellow; dark eye; black legs and feet.",
     "pose": "swimming with the head and neck plunged under water, feeding on water plants",
     "scene": "coastal lagoon on the Korean east coast in winter, shallow open water with marshy edges; no people, buildings or text",
     "views": [
-      "adult, side view swimming: all-white plumage, narrow rounded yellow patch on the bill",
-      "adult, head detail: narrow rounded yellow bill patch",
-      "juvenile, side view swimming: grey-brown plumage"
-    ]
+      "adult, side view swimming: all-white plumage, straight upright neck, rounded head, black bill with a small rounded yellow patch at the base",
+      "adult, head close-up in profile: black bill with a narrow, rounded yellow patch at the base not reaching beyond the nostril, black lores",
+      "first-winter juvenile, side view swimming: grey-brown head, neck and body, bill pinkish-white at the base with a dark tip"
+    ],
+    "build": "Large swan, 120cm, clearly smaller than Whooper Swan (Cygnus cygnus) and Mute Swan (Cygnus olor), with a shorter, thicker-looking neck held straight and upright, a rounded head and a shorter bill. Sits on the water with the tail level and the wings folded flat. Legs black. Feeds by plunging the head and neck under water. In flight the neck is outstretched.",
+    "avoid": [
+      "Do not paint the yellow as a long wedge reaching past the nostril to a point — that is Whooper Swan (Cygnus cygnus).",
+      "Do not paint an orange bill or a black knob (Mute Swan).",
+      "Do not curve the neck in an S; the Tundra Swan holds it straight.",
+      "Do not paint the juvenile white; it is grey-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

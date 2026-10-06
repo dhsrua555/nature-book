@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-headed Bunting (Emberiza bruniceps), adult male: reddish-chestnut head and breast, greenish back, yellow belly",
+    "subject": "Red-headed Bunting (Emberiza bruniceps), adult male in breeding plumage, a spring vagrant in Korea: whole head, throat and upper breast chestnut-red, forming a hood; mantle and scapulars yellowish-green with fine dark streaks; rump yellowish; wings dark brown with pale greyish fringes; underparts from the lower breast to the undertail bright yellow; tail plain dark brown without white outer feathers. Bill large, conical, grey; eye dark; legs pinkish-brown.",
     "pose": "perched on top of a shrub, side view",
     "scene": "shrubland bordering farmland; no people, buildings or text",
     "views": [
-      "adult male, side view perched: chestnut head and breast, greenish back, yellow belly",
-      "adult female, side view perched: paler than the male, brown head, grey-brown back"
-    ]
+      "adult male breeding plumage (spring–summer), side view perched: chestnut-red hood over head, throat and upper breast, yellowish-green back with fine dark streaks, bright yellow belly and undertail, plain dark tail without white, heavy grey bill",
+      "adult female, side view perched: much paler and plainer than the male, brown head and grey-brown back with fine dark streaks on the crown and mantle, pale buffy-yellow underparts with yellow undertail coverts, no white in the tail"
+    ],
+    "build": "A large, robust bunting, 17cm, clearly bigger than a sparrow, with a big head, heavy body and fairly long tail; perches upright on bush tops. Bill large and conical for a bunting, deep at the base, grey, shorter than the head. Legs pinkish-brown, medium length. Long wings, the primaries projecting well beyond the tertials. Tail medium-long and slightly notched, plain dark brown with no white sides.",
+    "avoid": [
+      "Do not paint a black cap or chestnut back — that is Black-headed Bunting; Red-headed has a chestnut hood and a green back.",
+      "Do not paint chestnut upperparts and rump (male Chestnut Bunting, a small common migrant in Korea).",
+      "Do not paint white outer tail feathers; the tail is plain.",
+      "Do not extend the chestnut onto the belly; it stops at the upper breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

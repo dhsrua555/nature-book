@@ -26,10 +26,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "perched, side view",
-    "scene": "TODO",
-    "views": []
+    "subject": "Yellow-breasted Bunting (Emberiza aureola), adult male in breeding plumage (May passage): forehead, face, chin and throat black; crown, nape, mantle and back deep chestnut, the mantle faintly streaked dark; a large white patch on the shoulder (lesser and median coverts) and a narrow white bar below it on the folded wing; rump chestnut; underparts bright yellow, crossed by a narrow chestnut band on the upper breast; flanks streaked chestnut-brown; undertail coverts pale yellowish-white; tail dark brown with white outer feathers; bill pinkish-grey with a darker culmen; dark eye; pinkish-brown legs.",
+    "pose": "perched upright on a tall grass stem at a field edge, side view",
+    "scene": "Korean island farmland edge with tall grasses, reeds and shrubs during spring migration in May, bright morning light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized bunting, slightly larger than a sparrow, compact, with a rounded head without a crest and a medium-length tail with white outer feathers. Bill conical and pointed, shorter than the head. Legs pinkish-brown. Perches upright on reed stems, tall grasses and shrubs and feeds on the ground among weeds; in flight the white shoulder patch flashes.",
+    "avoid": [
+      "Do not paint a yellow throat, yellow supercilium or black crest — that is Yellow-throated Bunting (Emberiza elegans).",
+      "Do not paint a black breast band; the narrow band across the yellow breast is chestnut.",
+      "Do not omit the large white shoulder patch, which shows even on the folded wing.",
+      "Do not paint a grey or green head; the crown and nape are chestnut and the face is black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -49,14 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Goldeneye (Bucephala clangula), adult male: white body, blue-green head, yellow eye with a white spot on the cheek below it, black back and bill",
+    "subject": "Common Goldeneye (Bucephala clangula), adult male in breeding plumage, as seen on Korean estuaries and lakes from November to March: large, peaked, triangular head glossy black with a green sheen; bright golden-yellow eye; a round white spot on the cheek between the eye and the bill base; neck, breast, flanks and belly white; back black; white scapulars with fine black stripes along the side of the back; tail blackish-grey. Short black bill; orange legs.",
     "pose": "swimming on open water in a small flock, about to dive",
     "scene": "Korean winter estuary with calm open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: blue-green head, yellow eye, white cheek spot below the eye, white body, black back and bill",
-      "adult female, side view swimming: dark brown head, white collar, grey body, black bill with a yellow spot at the tip",
-      "adult in flight, upperside: white inner wing"
-    ]
+      "adult male, side view swimming: peaked black-green head, yellow eye, round white cheek spot in front of and below the eye, white body, black back with black-striped white scapulars, black bill",
+      "adult female, side view swimming: dark chocolate-brown head, yellow eye, white collar, grey body, white belly, black bill with a yellow spot at the tip",
+      "adult male in flight, seen from above: black back, white inner wing (secondaries and coverts) contrasting with the black outer wing, dark head; head, body and tail held in one line"
+    ],
+    "build": "Stocky, compact diving duck, about 45cm, a little smaller than a Mallard, with a big head that rises to a peak on the crown and a short neck. Bill short, deep at the base and tapering, shorter than the head. Legs short, set far back, orange. Floats buoyantly and dives often. Flight fast with whistling wingbeats; the male shows a large white panel on the inner wing, the female a smaller white patch crossed by dark bars.",
+    "avoid": [
+      "Do not paint a crescent-shaped cheek patch or a purple gloss with heavily black-marked scapulars; that is Barrow's Goldeneye (Bucephala islandica).",
+      "Do not give it a smooth round head; the crown rises to a distinct peak.",
+      "Do not paint a red or dark eye; both sexes have yellow eyes.",
+      "Do not place the white cheek spot behind the eye; it lies between the eye and the bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

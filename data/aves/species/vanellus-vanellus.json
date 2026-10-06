@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Lapwing (Vanellus vanellus), adult in breeding plumage: black forehead, crown and nape glossed green, with nape feathers raised into an upswept crest; white supercilium from the bill base over the eye; broad black breast band glossed blue; black scapulars, back and rump glossed green with a purple sheen in some light; white lower breast, belly and flanks; deep rusty-red uppertail coverts; brownish apricot legs",
+    "subject": "Northern Lapwing (Vanellus vanellus), adult in winter (non-breeding) plumage, as seen on Korean fields from November to February: black crown with a long, thin, upswept crest of wispy feathers; face whitish washed buff, with a white supercilium from the bill base over the eye and a black patch below the eye; chin and throat white; a broad black breast band glossed blue; mantle, scapulars and wing coverts dark green with purple and bronze gloss, narrowly fringed buff; lower breast, belly and flanks white; uppertail and undertail coverts rusty-orange; tail white with a broad black band near the tip. Bill short and black; iris dark brown; legs dull pinkish-flesh.",
     "pose": "standing in a field, picking insects and worms from the ground",
     "scene": "Korean winter rice paddies and wet fields near a river; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: green-glossed black crown with upswept crest, white supercilium, broad black breast band, glossy black back, white belly, brownish apricot legs",
-      "adult, rear view: deep rusty-red uppertail coverts"
-    ]
+      "adult winter, side view standing: long upswept black crest, buff-washed face with white supercilium and black patch below the eye, white throat, broad black breast band, buff-fringed glossy green upperparts, white belly, rusty-orange undertail coverts, dull pinkish legs",
+      "adult male breeding (late winter to spring), side view standing: black crown and long crest, white face with a black stripe below the eye, black throat joining the breast band, glossy green back without buff fringes",
+      "adult, rear view standing: glossy green back, rusty-red uppertail coverts above a white tail with a broad black band"
+    ],
+    "build": "Medium-sized, round-winged plover, 30cm, about the size of a pigeon, with a stocky body, round head and a long thin crest curving up from the hindcrown. Bill short, straight and black, shorter than the head. Legs medium length, dull pinkish-flesh. Stands horizontally and feeds plover-fashion: runs, stops, tilts and picks. At rest the wingtips reach about the tail tip. Tail short, white with a black band near the tip. In flight the wings are very broad and rounded at the tip, black above with whitish tips to the outer primaries, and white below with black flight feathers; the wingbeats are slow and floppy.",
+    "avoid": [
+      "Do not paint a short crest or no crest; the crest is long, thin and upswept.",
+      "Do not paint the back plain black; it is dark green with a purple and bronze gloss.",
+      "Do not draw pointed wader wings in flight; the wings are broad and rounded.",
+      "Do not paint yellow or red legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

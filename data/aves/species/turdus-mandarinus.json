@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Blackbird (Turdus mandarinus), adult male: entirely black plumage, yellow bill and yellow eyering",
+    "subject": "Chinese Blackbird (Turdus mandarinus), adult male, the same plumage all year: entire bird uniform matt sooty black from forehead and crown over the back, wings and rump to the tail, and equally black on the throat, breast, belly and undertail coverts, with no pale fringes, spots or streaks anywhere; bill bright orange-yellow from base to tip; a narrow yellow eye-ring around the dark brown eye; legs and feet dark brown to blackish.",
     "pose": "standing on the ground beneath trees, side view",
     "scene": "Korean woodland park with broadleaf trees and open lawn; no people, buildings or text",
     "views": [
-      "adult male, side view standing: all black with yellow bill and eyering",
-      "adult female, side view standing: brownish-black, slightly paler below, blackish-brown streaks on throat and breast, duller yellow bill and eyering"
-    ]
+      "adult male, side view standing on the ground: entirely matt sooty-black body, wings and long square tail, bright orange-yellow bill, narrow yellow eye-ring around the dark eye, dark legs",
+      "adult female, side view standing: dark brown to brownish-black above, slightly paler and browner below, throat and upper breast with diffuse blackish-brown streaks, bill and eye-ring dull yellowish, much less bright than the male's"
+    ],
+    "build": "Large thrush, clearly bigger than a Dusky Thrush and about the length of a Brown-eared Bulbul but heavier-bodied, with a long tail; rounded head and an upright stance on the ground, moving in short hops with pauses. Bill straight, fairly stout, a little shorter than the head. Legs medium length, dark. Short primary projection: at rest the wingtips reach only the base of the tail. Tail long, square-ended, all black with no white; often raised and slowly lowered after landing.",
+    "avoid": [
+      "Do not paint a white belly with black spots; that is the male Japanese Thrush (Turdus cardis), which also has a yellow bill.",
+      "Do not add glossy blue or purple iridescence as on crows or starlings; the plumage is matt black.",
+      "Do not paint any white in the wings or tail, or pale scaling on the underparts.",
+      "Do not paint a dark bill or leave out the yellow eye-ring on the male."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

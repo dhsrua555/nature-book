@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Common Myna (Acridotheres tristis), adult (sexes alike): head, neck and upper breast glossy black, sharply set off from the warm chocolate-brown body; a bare, bright yellow patch of skin behind and below the eye; back and wings brown, with a white patch at the base of the primaries showing as a small white mark on the closed wing; tail black with white tips to the outer feathers; lower belly, vent and undertail coverts white. Bright yellow bill; dark eye; bright yellow legs.",
+    "pose": "walking on short grass, side view, head up",
+    "scene": "Korean farmland edge with short grass and bare soil in spring; no people, buildings or text",
+    "views": [],
+    "build": "Stocky starling, a little larger and stouter than the White-cheeked Starling, with an upright stance; slightly flat crown, no crest. Bill yellow, fairly stout and slightly decurved, shorter than the head. Legs long and strong, yellow; walks with a swagger rather than hopping. Tail of medium length, rounded. In flight large white patches at the base of the primaries flash on rounded dark wings, the underwing coverts are white and the tail corners white.",
+    "avoid": [
+      "Do not paint it all black with a forehead tuft and a pale bill; that is the Crested Myna (Acridotheres cristatellus).",
+      "Do not omit the bare yellow skin around the eye.",
+      "Do not paint pale spots or streaks like a starling.",
+      "Do not extend the black onto the belly or back; only the head, neck and upper breast are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

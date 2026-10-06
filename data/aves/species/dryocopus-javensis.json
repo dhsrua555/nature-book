@@ -58,14 +58,23 @@
     }
   ],
   "art": {
-    "subject": "White-bellied Woodpecker (Dryocopus javensis), adult male: deep red forehead, crown and nape, dark red malar stripe, white lower back, rump, uppertail coverts, breast and upper belly, otherwise black plumage, black bill, blackish-grey legs",
+    "subject": "White-bellied Woodpecker (Dryocopus javensis richardsi, the Korean race), adult male: deep red forehead, crown and pointed nape crest; a dark red malar stripe from the base of the bill; the rest of the head, the neck, throat and upper breast black; back, wings and tail black; lower back, rump and uppertail coverts white; lower breast and belly white, sharply divided from the black upper breast. Long, chisel-tipped black bill; blackish-grey legs.",
     "pose": "spiralling up a large trunk, prising off bark to dig out beetle larvae",
     "scene": "Korean mixed forest of firs, Korean pines, pines, oaks and chestnut trees at dawn; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: deep red forehead to nape, dark red malar stripe, white breast and upper belly, black upperparts, black bill",
-      "adult female, head detail: black forehead to nape with no red, dark red malar stripe",
-      "adult, back view: white lower back and rump contrasting with black wings and tail"
-    ]
+      "adult male, side view clinging upright to a trunk: deep red forehead, crown and crest, dark red malar stripe, black head sides, neck and upper breast, white lower breast and belly, black wings and tail, long black bill, blackish-grey legs",
+      "adult female, head detail: forehead, crown and crest all black without red, and the malar area black with no red stripe",
+      "adult, back view on a trunk: white lower back, rump and uppertail coverts contrasting with the black mantle, wings and stiff black tail"
+    ],
+    "build": "Very large woodpecker, 46cm, about the size of a crow and slightly larger than the Black Woodpecker; long-necked and slim-bodied, with a pointed crest at the back of the head. Bill long, straight and chisel-tipped, about as long as the head. Legs short, blackish grey, with strong toes, two forward and two back, gripping the trunk. Tail black, stiff and wedge-shaped, pressed against the trunk as a prop. In flight the white rump and white belly contrast with the black upperparts.",
+    "avoid": [
+      "Do not paint it all black like the Black Woodpecker (Dryocopus martius); the white rump and white belly are essential.",
+      "Do not paint white on the throat, face or upper breast; the white begins below the black upper breast.",
+      "Do not add barring or spotting to the black parts of the plumage.",
+      "Do not give the female any red on the head."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

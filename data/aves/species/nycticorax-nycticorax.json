@@ -61,13 +61,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-crowned Night Heron (Nycticorax nycticorax), adult: black crown and hindneck, greenish-black back, two or three long white plumes trailing from the back of the head, red eye, black bill, short thick neck, yellow legs",
+    "subject": "Black-crowned Night Heron (Nycticorax nycticorax), adult in breeding plumage, as seen at Korean heronries from April to August: forehead and a narrow line over the eye white; crown and nape glossy blue-black, with two or three long, narrow white plumes trailing from the nape down over the back; cheeks, throat and foreneck white to very pale grey. Mantle and scapulars glossy greenish-black; wings, rump and tail plain ash-grey. Underparts white to pale grey. Bill black, stout and dagger-shaped. Iris deep red. Legs and feet yellow.",
     "pose": "perched with its short thick neck drawn in, side view",
     "scene": "Korean summer heronry: a mixed breeding colony shared with egrets; no people, buildings or text",
     "views": [
-      "adult, side view perched: black crown and back, long white head plumes, red eye, black bill, yellow legs",
-      "adult, head detail: red eye, black bill, 2–3 long white plumes"
-    ]
+      "adult breeding, side view perched on a branch with the neck drawn in: black crown, nape and back, two or three long white nape plumes, white forehead and face, grey wings and tail, pale grey underparts, red eye, black bill, short thick neck, yellow legs",
+      "adult, head detail in side view: white forehead and line over the eye, glossy black crown, large deep-red iris, heavy black dagger bill, 2–3 long white plumes from the nape"
+    ],
+    "build": "Medium-sized, stocky heron, about 57cm, roughly the length of a Large-billed Crow but much bulkier, and clearly smaller than a Grey Heron. Big rounded head; thick, short neck usually drawn in so the head sits on the shoulders, giving a hunched posture. Bill black, heavy and pointed, about as long as the head, the upper edge slightly curved. Legs yellow and relatively short, with little bare tibia. At rest the wingtips reach about the tail tip; tail short and square. In flight compact, with broad rounded grey wings, the neck retracted and the toes projecting only slightly beyond the tail.",
+    "avoid": [
+      "Do not paint a long, slender, extended neck like an egret; the neck is short and thick and usually hidden.",
+      "Do not paint the wings or underparts black; only the crown, nape and back are black, the wings are grey and the underparts whitish.",
+      "Do not paint a yellow or orange iris on the adult; that is the juvenile eye. The adult eye is deep red.",
+      "Do not mix in juvenile plumage: brown with white spots on the wings and streaked underparts belongs to young birds only.",
+      "Do not give it a short spiky dark crest like Striated Heron; the head plumes are long, narrow and white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

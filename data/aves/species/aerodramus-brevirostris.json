@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Himalayan Swiftlet (Aerodramus brevirostris), adult, as seen in flight over Korean coasts on passage: upperparts plain dark grey-brown, with a slightly paler grey-brown band across the rump; underparts a little paler, dusky grey-brown, palest on the throat; wings blackish-brown; tail short and slightly notched; tiny black bill; dark eye.",
+    "pose": "flying with wings outstretched, seen from below at a slight angle",
+    "scene": "sky above a forested coastal headland in Korea in late spring (May), soft overcast light; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim swift, much smaller than Pacific Swift and about the size of House Swift, with long, narrow, curved wings and a short, slightly notched tail. Bill tiny with a wide gape. Flight fluttering and erratic with frequent glides, often in loose groups over ridges and coasts. Never perches on wires or branches.",
+    "avoid": [
+      "Do not paint a clean white rump band or a white throat; those suit House Swift (Apus nipalensis) or Pacific Swift (Apus pacificus).",
+      "Do not paint a deeply forked tail like Pacific Swift or a swallow.",
+      "Do not paint white underparts or a reddish throat; that would be a swallow.",
+      "Do not show it perched."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -59,13 +59,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Osprey (Pandion haliaetus), adult: blackish-brown upperparts, white underparts with a brown band across the upper breast, black eye-stripe and neck band, short tail",
+    "subject": "Osprey (Pandion haliaetus), adult, as seen on Korean south-coast estuaries in winter and on passage: head white with fine dark streaks on the crown and a short shaggy nape crest; a broad blackish-brown stripe from the eye down the side of the neck to the mantle; upperparts dark brown; underparts white with a band of brown streaks across the upper breast; underwing with white coverts, a blackish carpal patch at the wrist and finely barred flight feathers; tail brown and barred. Bill black and strongly hooked, with a blue-grey cere; iris bright yellow; legs and feet pale blue-grey, with long curved black talons.",
     "pose": "hovering above the water, about to drop onto a fish",
     "scene": "Korean winter river mouth opening to the sea on the south coast; no people, buildings or text",
     "views": [
-      "adult, side view perched: black eye-stripe and neck band, blackish-brown upperparts, white breast with a brown upper-breast band",
-      "adult, flight from below: narrow wings bent in a W shape, white underparts, short tail"
-    ]
+      "adult, side view perched: white head with a black eye-stripe running down the neck, short nape crest, dark brown upperparts, white breast with a brown upper-breast band, yellow eye, pale grey legs, wingtips reaching the tail tip",
+      "adult, flight from below: long narrow wings bent at the wrist in a W shape, white body and underwing coverts, black carpal patches, barred flight feathers, short barred tail"
+    ],
+    "build": "Large raptor, 54–64cm, with a small head, short shaggy crest and long wings. Bill short and deeply hooked. Legs unfeathered below the thigh, pale grey, with strong feet for gripping fish. At rest the long wingtips reach or pass the tail tip. Tail rather short and square. In flight the wings are long and narrow, angled at the wrist into a shallow M or W like a large gull. Hovers over water and plunges feet-first for fish.",
+    "avoid": [
+      "Do not paint a white tail or a pure white head on a dark body; that is an eagle pattern.",
+      "Do not paint yellow legs; they are pale blue-grey.",
+      "Do not draw broad rectangular eagle wings; the wings are long, narrow and kinked.",
+      "Do not omit the black carpal patches on the underwing."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

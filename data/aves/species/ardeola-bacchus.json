@@ -48,14 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Pond Heron (Ardeola bacchus), adult breeding: rufous head, hindneck and breast, rufous crest on the hindneck, blue-grey back, white wings and tail, yellow bill with a black tip, yellowish-green legs",
+    "subject": "Chinese Pond Heron (Ardeola bacchus), adult in breeding plumage, as seen in Korean rice paddies from May to August: head, neck and breast deep maroon-chestnut, with long chestnut plumes hanging from the hindneck and over the breast; mantle and back slate blue-grey, covered by long hair-like plumes; wings, rump, tail and belly pure white; at rest the white wings are largely covered by the dark back plumes and show only along the lower edge of the folded wing. Bill yellow with a black tip; lores greenish-yellow; iris yellow; legs yellowish-green.",
     "pose": "standing hunched at the edge of a rice paddy, watching the water",
-    "scene": "Korean rice paddies beside a small pond; no people, buildings or text",
+    "scene": "Korean flooded rice paddies with young green rice beside a small pond in early summer, May to July; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: rufous head, neck and breast, blue-grey back, black-tipped yellow bill, yellowish-green legs",
-      "adult breeding, in flight: white wings and tail contrasting with the dark back",
-      "adult non-breeding, side view standing: brown back, brown streaks on head, neck and breast"
-    ]
+      "adult breeding, side view standing: maroon-chestnut head, neck and breast with a rufous nape crest, slate blue-grey back, white showing along the folded wing, black-tipped yellow bill, yellowish-green legs",
+      "adult breeding, flight side view from above: pure white wings and tail contrasting with the dark slate back and chestnut head and neck",
+      "adult non-breeding, side view standing: brown back, head, neck and breast heavily streaked brown and buff, white wings mostly hidden, yellow bill with a dark tip, yellowish-green legs"
+    ],
+    "build": "Small, stocky heron, about 45cm, a little larger than a pigeon, with a thick neck usually drawn in so that it looks hunched. Bill straight and pointed, about as long as the head. Legs fairly short for a heron, yellowish-green. Stands motionless at the water's edge or creeps slowly through paddies. At rest the wingtips reach about the tail tip. Tail short and square, white. In flight the all-white wings and tail flash against the dark back.",
+    "avoid": [
+      "Do not paint a white bird with orange-buff only on the crown, breast and back; that is breeding Cattle Egret.",
+      "Do not draw a long-necked, upright egret posture; it stands hunched with the neck drawn in.",
+      "Do not paint the folded wings fully white on a standing bird; the dark back plumes cover most of them.",
+      "Do not paint black legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

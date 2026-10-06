@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "House Crow (Corvus splendens), adult (sexes alike): forehead, crown, face and throat glossy black, forming a black cap and bib; a broad grey collar, pale grey to dusky grey, covering the nape, the sides of the neck, the upper mantle and the breast; the rest of the back, wings, tail and belly black with a slight purple-green gloss. Black, fairly stout bill with an arched upper ridge; dark brown eye; black legs and feet.",
+    "pose": "perched on a shoreline rock, side view, alert",
+    "scene": "Korean rocky seashore in spring with seaweed-covered rocks and a calm sea; no people, buildings or text",
+    "views": [],
+    "build": "Slim, medium-sized crow, noticeably smaller and lankier than the Carrion and Large-billed Crows and larger than the Daurian Jackdaw; fairly high-crowned head. Bill black, fairly large and stout, arched along the top. Legs black, fairly long. Tail medium, slightly rounded. In flight the wings are rather narrow with fingered tips. Bold and noisy, walking and hopping on the ground.",
+    "avoid": [
+      "Do not paint a white collar and white belly; that pied pattern belongs to the Daurian Jackdaw (Coloeus dauuricus).",
+      "Do not give it a pale iris; the eye is dark.",
+      "Do not let the grey reach the forehead, crown or throat; these are black.",
+      "Do not make it all black like a Carrion Crow or as bulky as a Large-billed Crow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

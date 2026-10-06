@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Woodpecker (Dryocopus martius), adult male: all-black plumage, glossy dark red forehead, crown and nape, greyish-white bill with black culmen and tip, sturdy grey legs",
+    "subject": "Black Woodpecker (Dryocopus martius), adult male as seen in Korean old-growth forests: whole plumage black with a slight gloss and no white anywhere; forehead, crown and nape glossy crimson-red, forming a complete red cap. Bill long, strong and chisel-tipped, pale ivory-grey with a black culmen and tip; pale yellowish-white iris; legs and feet sturdy and grey.",
     "pose": "clinging upright to a trunk, hammering out a hole with its bill",
     "scene": "old-growth Korean forest with ancient oaks and pines in spring; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: all black with glossy dark red forehead to nape, greyish-white bill with black tip, grey legs",
-      "adult female, head detail: black forehead and crown, red only on the hindcrown"
-    ]
+      "adult male, side view clinging to a trunk: all-black plumage, glossy crimson-red cap from forehead to nape, pale ivory bill with a black tip, pale eye, sturdy grey legs, tail pressed against the bark",
+      "adult female, head close-up in side view: black forehead and crown, red patch only on the hindcrown, pale ivory bill with a black tip"
+    ],
+    "build": "Very large woodpecker, 45–57cm, about the size of a Large-billed Crow but slimmer, with a slender neck, angular head and long stiff tail used as a prop against the trunk. Bill straight and chisel-tipped, about as long as the head. Legs short and strong, grey, with two toes forward and two back. Flight direct and rather irregular, not deeply undulating, on broad rounded wings.",
+    "avoid": [
+      "Do not paint white on the belly, rump or wings — White-bellied Woodpecker has those; this species is entirely black.",
+      "Do not paint a dark bill; it is pale ivory-grey with a black culmen and tip.",
+      "Do not paint red on the female's forehead and crown; she has red only on the hindcrown.",
+      "Do not give it white face stripes or a pointed crest like a Pileated Woodpecker."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

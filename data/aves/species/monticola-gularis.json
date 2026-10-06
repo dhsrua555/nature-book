@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-throated Rock Thrush (Monticola gularis), adult male: blue crown, nape and lesser wing coverts, black back, wings and tail with a white wing patch, white throat, chestnut cheeks, belly and rump, brownish-black bill, brownish flesh-coloured legs",
+    "subject": "White-throated Rock Thrush (Monticola gularis), adult male on spring passage (May): crown and nape bright cobalt-blue; black lores and ear coverts forming a dark mask; mantle and back black; wings black with a bright blue patch on the lesser coverts and a clear white patch on the wing; rump, breast, belly and flanks rich chestnut-orange; a sharply defined white patch on the chin and centre of the throat, framed by chestnut on the lower cheeks and neck sides; tail dark blackish-blue; bill brownish-black; dark eye; brownish flesh-coloured legs.",
     "pose": "perched on a branch inside the forest, side view",
     "scene": "Korean forest interior during spring migration; no people, buildings or text",
     "views": [
-      "adult male, side view perched: blue crown and nape, white throat, chestnut cheeks, belly and rump, black back, wings and tail, white wing patch",
-      "adult female, side view perched: grey-brown head, back and tail, white throat, breast and belly, brown bill with a pale base"
-    ]
+      "adult male, side view perched upright: cobalt-blue crown and nape, black mask through the eye, white throat patch, chestnut lower cheeks, breast, belly and rump, black back and tail, wings with a blue shoulder and a white patch, brownish-flesh legs",
+      "adult female, side view perched: grey-brown upperparts scaled with dark crescents, white throat bordered by a dark malar stripe, buffy-white breast and belly densely scaled with dark crescents, brown bill with a paler base"
+    ],
+    "build": "Small rock thrush, noticeably larger than a sparrow and a little smaller than Blue Rock Thrush (Monticola solitarius); compact, with a rounded head and short square tail. Sits quietly upright on shaded branches inside the forest, often motionless for long spells. Bill straight and slender, about two-thirds of the head length. Legs fairly short, brownish flesh. In flight the white wing patch flashes on the dark wing.",
+    "avoid": [
+      "Do not paint a blue throat and breast — that is Blue Rock Thrush (Monticola solitarius); here the throat is white and the breast chestnut.",
+      "Do not paint the whole face chestnut; the lores and ear coverts form a black mask.",
+      "Do not give the male a blue back; only the crown, nape and shoulder are blue.",
+      "Do not paint the female plain and unmarked; her upperparts and underparts are densely scaled."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

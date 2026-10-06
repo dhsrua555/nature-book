@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Grey-headed Canary-flycatcher (Culicicapa ceylonensis), adult (sexes alike), a vagrant in Korean woodland in spring: head, neck, throat and upper breast ash-grey, the crown feathers forming a slight crest; mantle, back and rump olive-green to yellowish-green; wings and tail dusky brown with olive-green edges; lower breast, belly and undertail coverts bright yellow, sharply separated from the grey breast. Bill short, broad, flat and dark; eye dark.",
+    "pose": "perched upright on a thin twig in the mid-canopy with the slightly crested head raised, side view",
+    "scene": "shady broadleaf woodland on a southern Korean island in spring (May), dappled light; no people, buildings or text",
+    "views": [],
+    "build": "A tiny, active flycatcher, clearly smaller than a sparrow, about the size of a leaf warbler but with a big rounded, slightly crested grey head and upright stance; constantly sallies out after insects and fans its tail. Bill short, very broad and flat at the base, with rictal bristles, much shorter than the head. Legs short and thin. Wings short; tail medium length, square, without white.",
+    "avoid": [
+      "Do not paint wing bars, a white eye-ring or white in the tail; the bird is plain grey, olive and yellow.",
+      "Do not paint a black head or a yellow throat (Yellow-rumped or Narcissus Flycatcher); the whole head and throat are grey.",
+      "Do not carry the grey onto the belly; the belly and undertail are bright yellow.",
+      "Do not paint a long, thin warbler bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

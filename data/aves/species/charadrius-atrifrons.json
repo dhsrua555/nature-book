@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Tibetan Sand Plover (Charadrius atrifrons), adult male in breeding plumage, as on spring passage in May: forehead, lores and a broad mask through the eye to the ear-coverts solid black, with no white on the forehead; crown and nape grey-brown washed rufous-orange; upperparts plain grey-brown; chin and throat white, meeting the breast band in a clean edge with no black line between them; a broad, bright rufous-orange band across the breast, reaching onto the sides of the neck; rest of the underparts white. Bill short, stout and black; dark eye; legs dark grey.",
+    "pose": "standing upright on wet sand between short runs, side view",
+    "scene": "Korean west-coast tidal flat and sandy beach in May during spring migration, bright clear morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small, plump, short-necked plover, clearly larger than Kentish Plover and much smaller than a pigeon; large rounded head and upright stance, running in short bursts and stopping abruptly. Bill black, shorter than the head, straight and blunt-tipped. Legs dark grey, medium length. No white collar around the hindneck. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar, white sides to the rump and tail, and a darker grey-brown centre to the tail.",
+    "avoid": [
+      "Do not paint a white forehead split by a black vertical line, or a thin black line above the breast band; those mark Siberian Sand Plover (Charadrius mongolus), the regular sand plover in Korea.",
+      "Do not give it a long, heavy bill or pale yellowish-grey legs; those mark Greater Sand Plover (Charadrius leschenaultii).",
+      "Do not paint a white collar around the hindneck or a black breast band, as on Kentish or Little Ringed Plover."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Crow-billed Drongo (Dicrurus annectans), adult: plumage entirely black with a blue-green gloss on the upperparts and breast; tail black, moderately forked, the outer feathers flaring outward at the tips. Bill black, very heavy, broad and deep at the base, with long rictal bristles; legs black.",
+    "pose": "perched upright on an exposed branch in the forest mid-storey, side view",
+    "scene": "Broadleaf woodland edge on a Korean offshore island in May, during spring migration, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized drongo, about the size of Black Drongo but with a much heavier, crow-like bill and a proportionally shorter tail with a shallower fork, whose outer feathers curl slightly outward. Bill about as long as the head, deep and broad-based, slightly hooked. Legs short, black. Perches upright on exposed branches in the forest mid-storey and sallies out after insects.",
+    "avoid": [
+      "Do not paint a long, deeply forked tail or a slim bill (Black Drongo, Dicrurus macrocercus).",
+      "Do not paint a hair crest or strongly upcurled tail tips (Hair-crested Drongo, Dicrurus hottentottus).",
+      "Do not paint grey plumage (Ashy Drongo, Dicrurus leucophaeus)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

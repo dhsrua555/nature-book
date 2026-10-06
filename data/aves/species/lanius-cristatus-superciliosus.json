@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Brown Shrike of the race superciliosus (Lanius cristatus superciliosus), adult male in spring: a broad white band across the forehead continuing back as a long, broad white supercilium; crown, nape, mantle and rump bright chestnut-rufous; a black mask from the bill through the eye to the ear-coverts; wings dark brown with rufous fringes; throat white; underparts white with a warm buff-orange wash on the breast sides and flanks; tail rufous-brown. Bill blackish; dark eye; legs dark grey.",
+    "pose": "perched upright on a bare twig at the top of a shrub, side view",
+    "scene": "Shrubby field edge on a Korean offshore island in May, during spring migration, clear light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-small, slim shrike, about the size of Bull-headed Shrike, with a longish, graduated tail. Bill shorter than the head, strong and hooked at the tip. Legs short, dark. No white patch on the wing. Perches upright on exposed twigs, swinging the tail. Females are duller, with a browner mask and fine dark barring on the flanks.",
+    "avoid": [
+      "Do not paint a grey crown; that marks Lanius cristatus lucionensis, the Brown Shrike race that breeds in Korea.",
+      "Do not paint a duller brown crown, a narrow supercilium and little white on the forehead (nominate cristatus); superciliosus is the brightest rufous, with the widest white forehead.",
+      "Do not paint a white wing patch (Bull-headed Shrike) or a grey crown with a black tail (Red-backed Shrike)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

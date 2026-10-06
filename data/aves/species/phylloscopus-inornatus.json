@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-browed Warbler (Phylloscopus inornatus), adult male (winter plumage): greyish olive-green upperparts, yellow supercilium, two white wing bars, yellowish rump and axillaries, white belly, thin olive or greyish-brown legs",
+    "subject": "Yellow-browed Warbler (Phylloscopus inornatus), adult (sexes alike) on spring or autumn passage: upperparts greyish olive-green, the rump the same colour as the back; a long, broad, pale yellowish supercilium from the bill to the rear of the head; a dark olive eye-stripe; two whitish-yellow wing bars, the one on the greater coverts long and bold, the upper one short; dark tertials with clean whitish edges; underparts whitish with a faint yellowish wash on the breast sides; thin dark bill with a pale yellowish base to the lower mandible; dark eye; thin pale brownish legs.",
     "pose": "perched on a low shrub branch, side view",
     "scene": "Korean mountain forest with a shrubby understorey in spring or autumn; no people, buildings or text",
     "views": [
-      "adult male in winter plumage, side view perched: yellow supercilium, greyish olive-green upperparts, two white wing bars, white belly",
-      "adult, rear view: yellowish rump"
-    ]
+      "adult, side view perched on a twig: long yellowish supercilium, dark eye-stripe, greyish olive-green upperparts, bold whitish greater-covert wing bar and a shorter upper bar, pale-edged tertials, whitish underparts, pale legs",
+      "adult, side view perched, seen slightly from above, head facing forward: olive-green crown with no pale central stripe, both wing bars and the pale tertial edges clearly visible, rump olive like the back"
+    ],
+    "build": "Tiny, slim leaf warbler, about 10cm: much smaller than a sparrow, about the size of a Coal Tit but slimmer. Small rounded head, no crest. Bill very thin and short, straight and pointed, much shorter than the head. Legs thin and weak, pale brownish. At rest the wingtips reach the base of the tail. Tail short to medium, square-ended. Restless, flicking its wings while picking insects from leaves.",
+    "avoid": [
+      "Do not paint a pale central crown stripe or a lemon-yellow rump patch; those mark Pallas's Leaf Warbler.",
+      "Do not paint bright yellow underparts; the underparts are whitish.",
+      "Do not paint only one faint wing bar; that suggests Arctic or Greenish Warbler.",
+      "Do not paint a thick bill or dark heavy legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

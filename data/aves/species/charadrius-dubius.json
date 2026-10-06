@@ -47,14 +47,23 @@
     }
   ],
   "art": {
-    "subject": "Little Ringed Plover (Charadrius dubius), adult male: conspicuous yellow eye-ring, short bill with a narrow orange base to the lower mandible, black lores, crown markings and ear-coverts, black breast band",
+    "subject": "Little Ringed Plover (Charadrius dubius), adult male in breeding plumage, as seen on Korean riverbeds from March to August: forehead white; a black bar across the forecrown, bordered behind by a thin white line before the brown crown; black lores and ear-coverts forming a mask; white throat and white collar around the hindneck; complete black breast band; rest of the underparts white. Upperparts plain grey-brown. Bill short and black, with a narrow orange area at the base of the lower mandible. Conspicuous bright yellow eye-ring around a dark eye. Legs dull pinkish to yellowish.",
     "pose": "running in short bursts across gravel, then stopping abruptly to pick up an insect",
     "scene": "Korean summer riverbed: open gravel and sand bar with sparse vegetation; no people, buildings or text",
     "views": [
-      "adult male, side view standing: yellow eye-ring, black lores and ear-coverts, black breast band, short bill with orange base below",
-      "adult female, head detail: blackish-brown lores and ear-coverts",
-      "juvenile, side view: scaly upperparts, head nearly same colour as back, white forehead washed pale buff, supercilium barely visible"
-    ]
+      "adult male breeding, side view standing on gravel: bright yellow eye-ring, black forecrown bar with a white line behind it, black lores and ear-coverts, complete black breast band, white collar, short black bill with orange base below, pinkish legs",
+      "adult female, head detail in side view: blackish-brown lores and ear-coverts, slightly narrower yellow eye-ring, blackish-brown forecrown bar, white forehead",
+      "juvenile (July–September), side view standing: scaly grey-brown upperparts with pale fringes, head nearly the same colour as the back, white forehead washed pale buff, supercilium barely visible, brownish breast band, yellow eye-ring"
+    ],
+    "build": "Small, slim plover, 16cm, a little larger than a sparrow and slimmer than other ringed plovers. Rounded head, short neck, rather elongated body. Bill short and fine, shorter than the head. Legs fairly long and thin, dull pinkish-yellow. In flight the upperwing is plain brown without a clear white wing bar; tail brown with white sides. Runs in quick bursts and stops abruptly to pick up insects, with a slight bob of the head.",
+    "avoid": [
+      "Do not paint an orange bill with a black tip or orange legs — that is Common Ringed Plover (Charadrius hiaticula).",
+      "Do not paint a white wing bar in flight.",
+      "Do not leave out the yellow eye-ring.",
+      "Do not paint a long slender bill or a long tail (Long-billed Plover)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

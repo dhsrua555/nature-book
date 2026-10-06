@@ -53,13 +53,23 @@
     }
   ],
   "art": {
-    "subject": "Red Phalarope (Phalaropus fulicarius), adult winter: plain pale grey upperparts without streaks, white underparts, thick black patch around the eye, short thick dark bill",
+    "subject": "Red Phalarope (Phalaropus fulicarius), adult in winter (non-breeding) plumage, as seen at sea off Korea outside the breeding season: head white with a dark grey patch on the rear crown and a thick black patch through and behind the eye; hindneck grey; back and scapulars plain, unstreaked pale blue-grey; wings darker grey; underparts white; bill short and thick, black with a little yellowish at the base; dark eye; short grey legs with lobed toes, hidden while swimming.",
     "pose": "swimming on the sea surface, side view",
     "scene": "Korean winter sea off a rocky coast, grey choppy water; no people, buildings or text",
     "views": [
-      "adult winter, side view swimming: pale grey unstreaked upperparts, white underparts, thick black eye patch, short thick dark bill",
-      "adult summer, side view swimming: red underparts, black-and-white striped head, mostly yellow bill"
-    ]
+      "adult winter, side view swimming: unstreaked pale grey back, white head with a black eye patch and grey rear crown, white underparts, short thick black bill with a yellowish base",
+      "adult female breeding, side view swimming: brick-red neck and underparts, black crown and forehead, large white cheek patch, blackish back with buff fringes, yellow bill with a black tip",
+      "adult winter, in flight seen from above: plain pale grey back, darker grey wings with a bold white wing-bar, dark-centred rump"
+    ],
+    "build": "Small, plump, short-necked wader that swims buoyantly high on the water like a tiny gull, about Dunlin-sized and slightly bulkier than Red-necked Phalarope. Bill short, straight, noticeably thick and broad, shorter than the head, with a blunt tip. Legs short, with lobed toes. Wings long and pointed; at rest the wingtips reach about the tail tip. In flight a bold white wing-bar on grey upperwings and a dark-centred rump and tail. Often spins on the water to stir up food.",
+    "avoid": [
+      "Do not draw a needle-thin bill or a dark back with white stripes; those belong to Red-necked Phalarope (Phalaropus lobatus).",
+      "Do not show red underparts on a winter bird; red is breeding plumage only.",
+      "Do not paint the breeding head as black-and-white stripes; it is a black crown and face with a large white cheek patch.",
+      "Do not stand it on long legs; it floats high on the water."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

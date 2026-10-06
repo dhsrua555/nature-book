@@ -49,14 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Shoveler (Spatula clypeata), adult male: glossy metallic bluish-green head, black back, white breast, reddish belly, long broad black spatulate bill, orange legs",
+    "subject": "Northern Shoveler (Spatula clypeata), adult male in breeding plumage, as seen on Korean reservoirs from November to April: head glossy dark bottle-green with a metallic blue-green sheen; bright golden-yellow eye; lower neck and breast white; flanks and belly rich chestnut; a white patch in front of the black undertail and rump; back black, the long scapulars striped black and white; tail dark with white sides. Very long, broad, spoon-shaped black bill; orange legs.",
     "pose": "swimming low with the broad bill held in the water to filter food",
     "scene": "Korean winter: open reservoir edge with marshy shallows and dry grass; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: glossy bluish-green head, black back, white breast, reddish belly, broad black bill",
-      "adult female, side view: plain brown, brown eye, blackish-brown broad bill",
-      "eclipse male, head detail: bright yellow eye, bill coloured like the female's"
-    ]
+      "adult male, side view standing at the water's edge: glossy green head, yellow eye, white breast, chestnut flanks and belly, black back, long broad black spatulate bill, orange legs",
+      "adult female, side view swimming: mottled brown plumage, brown eye, very broad brownish bill with dull orange along the edges",
+      "eclipse male, side view swimming: female-like brown plumage but a bright yellow eye, pale blue forewing coverts showing, broad bill coloured like the female's"
+    ],
+    "build": "Medium-sized dabbling duck, about 50cm, close to a Mallard in size but front-heavy, with a short neck and an enormous bill that makes the head look small. Bill longer than the head, widening towards the tip into a spoon, with fine comb-like plates along its edges. Legs short and orange. Swims low with the bill held level or swept through the surface water to filter food. In flight a pale blue forewing, a white bar and a green speculum, with the wings set far back.",
+    "avoid": [
+      "Do not paint a normal-sized yellow bill or a white neck ring; that is Mallard (Anas platyrhynchos).",
+      "Do not make the breast chestnut and the flanks white; the breast is white and the flanks chestnut.",
+      "Do not paint a red or dark eye on the male; it is bright yellow.",
+      "Do not narrow the bill towards the tip; it widens into a broad spoon."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -98,14 +98,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Taiga Bean Goose (Anser fabalis), adult: dark brown head, flanks and upperparts, pale grey-brown underparts, thick short slightly pointed black bill with an orange band near the tip, dark brown wingtips and tail, tail feathers edged white, white upper- and undertail coverts, orange legs",
+    "subject": "Bean Goose (Anser fabalis), the tundra type that commonly winters in Korea (Tundra Bean Goose, Anser serrirostris), adult in winter (October to March): head and neck dark chocolate-brown, clearly darker than the body; mantle, back and wing coverts grey-brown with pale buff fringes forming neat transverse bars; breast and belly pale grey-brown; flanks darker grey-brown barred by whitish feather tips and topped by a narrow white line; vent and undertail coverts white; a narrow white band of uppertail coverts above a dark brown tail with a white tip and white sides; short, deep-based black bill with an orange band near the tip and a black nail; dark brown eye; orange legs and feet.",
     "pose": "grazing in a flock in a wide rice paddy",
     "scene": "broad Korean rice paddies in winter with a lake in the distance; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark brown head and upperparts, pale grey-brown underparts, black bill with orange band, orange legs",
-      "adult, head detail: thick short black bill with an orange band near the tip",
-      "adult, rear view: white uppertail coverts and dark tail edged white"
-    ]
+      "adult, side view standing: dark brown rounded head and short thick neck, darker than the grey-brown body, upperparts barred with pale fringes, pale grey-brown breast, barred flanks, white vent, short deep-based black bill with an orange band near the tip, orange legs",
+      "adult, head detail in side profile: short, thick, deep-based black bill, slightly pointed at the tip, with an orange band just behind the black nail; rounded dark brown head with no white at the bill base",
+      "adult, rear three-quarter view standing, head pointing away: narrow white band of uppertail coverts above the dark brown tail with white tip and sides, white undertail coverts"
+    ],
+    "build": "Large, heavy grey goose, about 85cm: a little bigger and darker-headed than a Greater White-fronted Goose and much bigger than a Mallard. Rounded head with a fairly steep forehead, short thick neck, bulky body. Bill short and stout, clearly shorter than the head, very deep at the base, with a slightly concave culmen and a visible dark gap between the mandibles; black with an orange band near the tip. Legs medium length, stout, orange, with webbed feet. At rest the wingtips reach about the tail tip. Tail short, dark brown, tipped white. In flight the bird looks uniformly dark brown, with a narrow white crescent at the base of the tail and no pale grey forewing.",
+    "avoid": [
+      "Do not paint a long, slender bill on a long thin neck; that is the taiga type, Middendorff's Bean Goose, a separate entry in this book.",
+      "Do not paint a white forehead blaze or black belly bars; those belong to Greater White-fronted Goose.",
+      "Do not paint a pink bill or pink legs; the bill is black with an orange band and the legs are orange.",
+      "Do not paint a pale grey forewing in flight like a Greylag Goose; the upperwing is dark brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

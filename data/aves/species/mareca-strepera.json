@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Gadwall (Mareca strepera), adult male: overall grey with scattered dark grey speckling, breast feathers edged black giving a scaly look, black bill, black undertail coverts, white secondaries showing as a small white patch",
+    "subject": "Gadwall (Mareca strepera), adult male in winter, as seen on Korean reservoirs from October to March: head grey-brown, finely speckled, darker on the crown; breast densely marked with black crescents, giving a scaly look; back and flanks grey with fine dark vermiculations, appearing plain grey at a distance; long grey scapulars; upper and undertail coverts black, giving a black rear end; a small white speculum patch showing at the rear of the closed wing. Bill dark grey-black; dark eye; orange-yellow legs.",
     "pose": "upending in shallow water to reach submerged plants",
     "scene": "Korean winter: a calm reservoir with aquatic plants near flooded rice fields; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: grey body with dark speckles, scaly breast, black bill and undertail coverts, small white wing patch",
-      "adult female, side view: brown overall, bill black above with orange edges, small white wing patch",
-      "in flight: white secondaries clearly visible"
-    ]
+      "adult male, side view swimming: plain-looking grey body with fine dark speckling, black-scaled breast, grey-brown head, black bill, black rear end, small white wing patch",
+      "adult female, side view swimming: mottled brown like a female Mallard but with a steeper forehead, a bill dark on top with orange sides, and a small white wing patch",
+      "adult in flight seen from above: square white patch on the inner secondaries, grey-brown wings and body, head, body and tail in a straight line"
+    ],
+    "build": "Medium-large dabbling duck, about 51cm, slightly smaller and slimmer than a Mallard, with a squarer head, steeper forehead and thinner bill. Bill straight, a little shorter than the head. Legs short, orange-yellow. Tail short. In flight the white secondaries form a square white patch at the rear of the inner wing, unique among Korean dabbling ducks; belly white.",
+    "avoid": [
+      "Do not paint a blue or purple speculum (Mallard); the Gadwall's speculum is white.",
+      "Do not paint a green head or curled tail feathers on the male.",
+      "Do not paint the female's bill all orange; it is dark on top with orange sides.",
+      "Do not paint bright colours on the male; it is subtle grey with a black rear end."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

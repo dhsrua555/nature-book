@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Pomarine Jaeger (Stercorarius pomarinus), adult pale morph in breeding plumage, as seen off Korean coasts during spring passage in April-May: blackish-brown cap extending down below the gape over the face; cheeks and neck sides washed yellow; throat and belly white; a broad dark brown breast band, often mottled, and dark barring on the flanks; vent and undertail coverts dark brown; upperparts and wings uniform dark brown, with white shafts on the outer primaries forming a small white flash at the base of the primaries above and a larger white patch below; central tail feathers elongated into broad, blunt, twisted spoons; bill heavy, pale pinkish-grey on the basal two-thirds with a dark hooked tip; dark eye; black legs and feet.",
+    "pose": "flying low over the sea in steady, gull-like flight, side view with the spoon-shaped tail projections visible",
+    "scene": "open sea off the Korean coast in May, grey-blue waves under bright spring light; no people, buildings or text",
+    "views": [],
+    "build": "Large, heavy-bodied skua, about the size of a Black-tailed Gull but deeper-chested and pot-bellied, with broad-based pointed wings and a steady, gull-like flight. Bill stout, shorter than the head, with a strongly hooked tip. Legs short and black, with webbed feet. Tail wedge-shaped, with the central pair extended as broad, rounded, twisted plates that look like a thick club when seen from the side.",
+    "avoid": [
+      "Do not paint long thin pointed tail streamers (Long-tailed Jaeger) or short pointed projections (Parasitic Jaeger); this species has broad, blunt, twisted spoons.",
+      "Do not paint a grey back and white body like a gull; the upperparts are uniformly dark brown.",
+      "Do not paint an all-black or yellow bill; it is pale with a dark hooked tip.",
+      "Do not paint a slender, tern-like body."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

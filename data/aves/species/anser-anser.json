@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greylag Goose (Anser anser), adult: grey-brown head, brown mantle and scapulars with greyish-white feather tips, dark brown flanks with pale brown fringes, white uppertail coverts, pale pink to reddish-orange bill with a white tip, flesh-pink legs",
+    "subject": "Greylag Goose (Anser anser), adult of the eastern form, sexes alike, as seen in winter in Korea: head and neck plain grey-brown with fine dark furrows on the neck, no white at the bill base and no dark contrast between head and body; mantle and scapulars grey-brown with broad greyish-white feather tips forming neat pale bars; flanks darker brown with pale brown fringes; breast and belly paler grey-brown, older birds with scattered black or dark grey spots on the belly; uppertail coverts, vent and undertail coverts white; tail grey-brown edged white; bill pale pink with a whitish nail; dark eye with a narrow pinkish eye-ring; legs flesh-pink.",
     "pose": "grazing in a flock on open dry rice paddies",
     "scene": "open dry rice paddies beside a marsh on Jeju Island; no people, buildings or text",
     "views": [
-      "adult, side view standing: grey-brown head, brown scapulars tipped greyish white, dark brown flanks, white uppertail coverts, pinkish bill with white tip, flesh-pink legs",
-      "older adult, front view: breast and belly with black or grey blotches"
-    ]
+      "adult, side view standing on a dry paddy: plain grey-brown head and neck, grey-brown scapulars tipped greyish white, dark brown flanks with pale fringes, white uppertail and undertail coverts, large pink bill with a whitish nail, flesh-pink legs",
+      "older adult, front view standing: pale grey-brown breast and belly with scattered black or dark grey blotches, thick neck, heavy pink bill, flesh-pink legs"
+    ],
+    "build": "Large, heavy grey goose, 76–84cm, far bigger than a Mallard and about the size of a Bean Goose, with a big square head, thick neck and bulky body. Bill large, deep at the base and long, nearly as long as the head, evenly pink without a dark band. Legs fairly long and thick, flesh-pink. At rest the wingtips reach about the tail tip. Tail short. In flight the forewing and rump are pale blue-grey, contrasting with darker flight feathers, and the underwing coverts are pale grey.",
+    "avoid": [
+      "Do not paint a broad white blaze at the bill base or bold black bars across the belly; those are Greater White-fronted Goose (Anser albifrons).",
+      "Do not paint a dark brown head and neck or a black bill with an orange band (Bean Goose).",
+      "Do not paint an orange bill; birds of the eastern form reaching Korea have a pink bill.",
+      "Do not paint a white back or white rump; only the tail coverts and vent are white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

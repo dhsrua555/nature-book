@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Brown-cheeked Rail (Rallus indicus), adult as seen in Korean winter wetlands (November–March): crown and upperparts olive-brown boldly streaked black; a grey supercilium above a broad brown stripe through the eye across the cheek; chin whitish; throat, foreneck and breast grey washed brownish; flanks and belly sides boldly barred black and white; undertail coverts whitish-buff barred dark. Long bill red at the base and on the lower mandible, the upper ridge and tip dark; red iris; legs and long toes dull pinkish-brown.",
+    "pose": "walking slowly at the edge of reeds with tail cocked, half-hidden among dry stems, side view",
+    "scene": "Korean winter wetland: a narrow ditch and stream edge with dense dry reeds and sedges, thin ice at the margins, low winter light; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim, laterally compressed rail, much smaller and slimmer than Common Moorhen, with a body about the size of a thrush. Small head, short neck. Bill long (clearly longer than the head), slender and very slightly decurved. Legs medium length with long toes. Short, pointed tail often cocked and flicked, showing the barred undertail. Wings short and rounded; rarely flies, preferring to run into cover.",
+    "avoid": [
+      "Do not paint a short, stubby crake bill; the bill is long, slender and red-based.",
+      "Do not paint a plain grey face without the brown cheek stripe — that is Water Rail (Rallus aquaticus).",
+      "Do not paint a red frontal shield or a white flank line — that is Common Moorhen.",
+      "Do not paint a rufous breast; the breast is grey with a brownish wash."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

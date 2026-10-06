@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Daurian Jackdaw (Corvus dauuricus), adult, winter plumage: black crown and nape glossed purple, greyish-white tips to the feathers behind the eye and above the ear coverts, black chin and throat glossed blue, broad greyish-white collar continuing into greyish-white underparts, slate-black underwing and undertail coverts, glossy black back and tail, grey-brown iris, black legs",
+    "subject": "Daurian Jackdaw (Corvus dauuricus), pied adult in winter (October–March): forehead, crown, face and nape black with a purple gloss; silvery greyish-white streaks on the feathers behind the eye and over the rear ear-coverts; chin and throat black glossed blue; a broad creamy greyish-white collar wraps round the neck and joins the greyish-white breast and belly; back, wings and tail glossy black; underwing coverts, axillaries and undertail coverts slate-black; short stubby black bill; dark grey-brown iris; black legs and feet.",
     "pose": "perched in a bare tree among a large flock",
     "scene": "Korean winter lowland fields and forest edge with bare trees; no people, buildings or text",
     "views": [
-      "adult, winter plumage, side view perched: purple-glossed black crown, greyish-white collar and underparts, glossy black back and tail, black legs",
-      "adult, summer plumage, side view perched: less glossy, the black parts tinged brown"
-    ]
+      "adult, side view perched: purple-glossed black crown and face, silvery-grey streaks behind the eye, glossy black throat, broad greyish-white collar running into greyish-white underparts, glossy black back, wings and tail, black legs",
+      "adult, in flight seen from below: greyish-white collar, breast and belly contrasting with the black head, throat, underwings and undertail coverts; square black tail; head, body and tail in line",
+      "first-winter, side view perched: almost entirely sooty black with little gloss, silvery-grey streaks on the rear ear-coverts, dark eye, short stubby black bill"
+    ],
+    "build": "Small, compact crow, 33cm — about the length of a feral pigeon and far smaller than a Carrion Crow, with a round head, steep forehead and short neck. Bill black, short and stubby, about half the length of the head, straight with a gently curved culmen. Legs black, medium length; walks briskly over fields. At rest the wingtips reach close to the tail tip. Tail medium-length and square-ended. Flies with quick, pigeon-like wingbeats, often in flocks mixed with Rooks; from below in flight the pale collar and belly contrast with the black head, underwings and vent.",
+    "avoid": [
+      "Do not paint a pale whitish iris — that is Western Jackdaw (Corvus monedula); the Daurian Jackdaw has a dark eye.",
+      "Do not make the adult's underparts dark grey; the collar, breast and belly are a clean, contrasting greyish-white.",
+      "Do not paint a long, heavy crow bill or a crow-sized body; the bill is short and stubby and the bird pigeon-sized.",
+      "Do not paint a bare whitish face at the bill base (adult Rook, Corvus frugilegus)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

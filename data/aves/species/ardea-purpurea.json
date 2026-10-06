@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Purple Heron (Ardea purpurea), adult: dark grey upperparts and wings, long brown plumes between the shoulders, rufous neck with black stripes, rufous-brown underparts, crest plumes on the back of the head",
+    "subject": "Purple Heron (Ardea purpurea), adult in breeding plumage, as seen on Korean wetlands on spring passage (April–May): crown and two long slender nape plumes black; face, neck sides and hindneck rufous-chestnut, with a black stripe running from the gape down the whole side of the neck and black streaks down the buff-white front of the neck; back and wings dark slate-grey with long, loose chestnut-buff plumes on the scapulars; breast with long chestnut plumes; belly and flanks deep chestnut-maroon to blackish; thighs chestnut. Long, slender yellow bill with a darker upper ridge; yellow iris; long yellowish-brown legs with very long toes.",
     "pose": "standing motionless in a wet meadow, neck extended, watching for prey",
     "scene": "Korean marsh with wet grassland, ponds and rice paddies; no people, buildings or text",
     "views": [
-      "adult, side view standing: rufous striped neck, dark grey back and wings, brown shoulder plumes, rufous-brown underparts",
-      "adult, head and neck detail: crest plumes on the hindhead, rufous neck with black stripes"
-    ]
+      "adult breeding, side view standing in a wet meadow: black crown and nape plumes, rufous neck with a black stripe down its side, dark slate-grey back with long chestnut-buff scapular plumes, chestnut-maroon belly and flanks, long yellow bill, long yellowish legs",
+      "adult, head and neck detail: black crown with two long black nape plumes, rufous face and neck, black line from the gape down the neck side, black-streaked buff foreneck, slender yellow bill, yellow eye"
+    ],
+    "build": "Large, slender heron, 79cm long, a little smaller and much thinner than Grey Heron. Long, very thin, snake-like neck held in a sharp S-kink at rest and stretched out when stalking; small narrow head. Bill very long (much longer than the head), slender, straight and dagger-pointed. Legs long; toes notably long. Wingtips reach about the tail tip at rest; tail short. In flight neck retracted into a deep angular bulge below the body, long toes trailing and splayed; dark grey upperwing with blacker flight feathers, chestnut-maroon underwing coverts.",
+    "avoid": [
+      "Do not paint a white or pale grey neck or a white crown — that is Grey Heron (Ardea cinerea).",
+      "Do not paint a thick neck or a short stout bill; the neck is thin and snake-like and the bill long and slender.",
+      "Do not paint white underparts; the belly and flanks are dark chestnut and black.",
+      "Do not paint a violet-purple body; despite the name the colours are rufous, slate-grey and chestnut."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

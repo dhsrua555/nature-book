@@ -32,13 +32,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Yellowlegs (Tringa melanoleuca), adult: bill about 1.5 times as long as the head, yellow legs",
+    "subject": "Greater Yellowlegs (Tringa melanoleuca), adult in breeding plumage, as seen in spring: head and neck heavily streaked black on white; back and wing coverts dark grey-brown, spangled with black centres and neat white spots and notches; breast and flanks boldly marked with black spots and chevron bars; belly white. Square white rump; white tail finely barred grey. Long blackish bill; dark eye; long bright yellow legs.",
     "pose": "wading at the water's edge, picking insects from the surface",
-    "scene": "Korean lowland wetland edge with shallow pools; no people, buildings or text",
+    "scene": "Korean lowland wetland edge with shallow pools and fresh green sedges in May; no people, buildings or text",
     "views": [
-      "adult, side view standing: long bill about 1.5 times the head length, yellow legs",
-      "adult, head detail: bill length compared with the head"
-    ]
+      "adult breeding, side view standing: long, slightly upturned blackish bill about 1.5 times the head length, black-spangled grey-brown back, black-barred breast and flanks, white belly, long bright yellow legs",
+      "adult, head detail: bill about 1.5 times the head length, stout at the base and slightly upturned, head and neck finely streaked black"
+    ],
+    "build": "Tall, slender wader about the size of a Common Greenshank, with a long neck and small head. Bill about one and a half times the head length, rather stout at the base, straight or very slightly upturned. Legs very long, bright yellow to orange-yellow, with much bare tibia showing. At rest the wingtips reach about the tail tip. In flight a plain dark upperwing without a wing bar, a square white rump patch that does not extend up the back, and the feet projecting beyond the tail.",
+    "avoid": [
+      "Do not paint grey-green legs or a white wedge running up the back; those mark the Common Greenshank (Tringa nebularia).",
+      "Do not make the bill short and fine, only about head length; that is the Lesser Yellowlegs (Tringa flavipes).",
+      "Do not curve the bill downwards.",
+      "Do not add a white wing bar."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

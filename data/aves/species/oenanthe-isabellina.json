@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Isabelline Wheatear (Oenanthe isabellina), adult (sexes nearly alike) as a spring migrant on a Korean offshore island: whole upperparts plain pale sandy grey-brown, crown and back the same tone; a short, broad creamy-white supercilium, brightest in front of the eye; lores blackish in the male, brownish in the female; wings pale sandy-brown with buff-fringed coverts and tertials, the small black alula standing out as a dark spot at the bend of the wing; throat whitish, breast warm buff, belly and undertail coverts creamy white; rump and uppertail coverts white; tail white at the base with a broad black terminal band and only a short black centre. Bill black, fairly long and strong for a wheatear; eye dark; legs long and black.",
+    "pose": "standing very upright on a low rock with the tail slightly lowered, side view",
+    "scene": "short-grazed turf and bare sandy ground near the shore of a Korean offshore island during spring migration (April–May), bright clear light; no people, buildings or text",
+    "views": [],
+    "build": "A large, pale wheatear, clearly bigger than a sparrow and slightly larger, bigger-headed and longer-legged than Northern Wheatear; stands very upright, often bobs and runs fast over bare ground. Bill black, straight and strong, shorter than the head. Legs long and black with much of the tarsus visible. At rest the wingtips fall well short of the tail tip, so the tail looks rather short. In flight the wings look pale with whitish underwing coverts, the white rump contrasts with the broad black tail band. Tail square-ended.",
+    "avoid": [
+      "Do not paint a black throat or black face — that is male Desert Wheatear; Isabelline has only dark lores on a pale face.",
+      "Do not paint a blue-grey back, black wings or a black eye mask; those belong to breeding male Northern Wheatear.",
+      "Do not make the wings dark brown or black; Isabelline wings are pale sandy, with only the small alula black.",
+      "Do not paint a nearly all-black tail (Desert Wheatear); Isabelline shows a white tail base and a broad black terminal band."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

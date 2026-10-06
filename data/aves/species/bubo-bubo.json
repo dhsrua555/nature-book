@@ -60,13 +60,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Eagle-Owl (Bubo bubo), adult: very large owl with long ear tufts, orange-yellow eyes, crown, hindneck, back and wing coverts tawny with black and dark brown streaks, breast and belly streaks becoming narrower lower down, legs and toes feathered pale brown",
+    "subject": "Eurasian Eagle-Owl (Bubo bubo), adult as seen in Korea year-round: long, broad ear tufts angled outwards; facial disc tawny-buff, finely barred, with a dark rim; whitish throat patch; crown, hindneck, back and wing coverts tawny-buff with heavy black and dark brown streaks and mottling; breast tawny-buff with broad black streaks that become narrower down the belly, crossed by fine dark wavy bars; legs and toes thickly feathered pale brown. Bill black and hooked; large orange-yellow eyes; claws black.",
     "pose": "perched on a rock ledge of a cliff, ear tufts raised",
     "scene": "Korean rocky cliff above a river with open fields nearby; no people, buildings or text",
     "views": [
-      "adult, side view perched: long ear tufts, tawny upperparts streaked black and dark brown, legs feathered pale brown",
-      "adult, front view perched: orange-yellow eyes, breast and belly streaks narrowing downward"
-    ]
+      "adult, side view perched on rock: long ear tufts, tawny upperparts heavily streaked black and dark brown, thick pale brown feathered legs, huge bulky body",
+      "adult, front view perched: orange-yellow eyes, tawny facial disc with a dark rim, white throat patch, broad black breast streaks narrowing on the belly, feathered toes"
+    ],
+    "build": "Huge, powerful owl, about 70cm, much bigger than a Large-billed Crow, with a massive barrel-shaped body, broad head and long ear tufts. Bill short, strongly hooked, mostly hidden in feathers. Legs and toes thickly feathered, with huge black talons. Wings very broad and rounded; at rest they cover most of the short tail. Flight with slow, stiff wingbeats and long glides.",
+    "avoid": [
+      "Do not paint it small or slim with an orange facial disc — that is Long-eared Owl.",
+      "Do not paint a round head without ear tufts (Ural or Tawny Owl).",
+      "Do not paint pale yellow or dark eyes; the eyes are deep orange-yellow.",
+      "Do not paint bare toes or a yellow bill; the toes are feathered and the bill black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

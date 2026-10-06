@@ -44,13 +44,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-billed Loon (Gavia adamsii), adult in breeding plumage: black head and neck with a purple-green gloss, broken white stripes on the neck, rows of white spots on the flanks, back and scapulars, white belly, bright yellow bill with a straight upper mandible and upturned lower mandible",
+    "subject": "Yellow-billed Loon (Gavia adamsii), adult in winter (non-breeding) plumage, as seen off Korean coasts from November to March: crown and hindneck pale greyish-brown; face pale around the eye with a darker smudge on the ear coverts; throat, foreneck and underparts white, merging diffusely into the brown hindneck; upperparts plain dark grey-brown with faint paler feather edges; bill large, pale ivory-yellow, the straight upper edge staying pale to the tip and the lower mandible angled upward, so the bill looks upturned; dark eye; legs hidden under water.",
     "pose": "swimming low on calm water",
-    "scene": "sheltered coastal bay with calm water; no people, buildings or text",
+    "scene": "sheltered bay on the Korean east coast in winter, calm grey-blue water under low winter light; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: glossy black head and neck, broken white neck stripes, rows of white spots on the back and flanks, yellow bill",
-      "head detail: yellow bill with straight upper mandible and upturned lower mandible"
-    ]
+      "adult winter, side view swimming low: pale greyish-brown head and hindneck, white throat and foreneck, dark grey-brown back, large pale ivory-yellow bill that looks upturned",
+      "adult breeding (summer, rarely seen in Korea), side view swimming: black head and neck glossed purple-green, broken white stripes on the neck, rows of white spots on the back, scapulars and flanks, bright yellow bill",
+      "adult, head close-up in profile: straight pale upper mandible and angled lower mandible giving an upturned look, pale to the tip",
+      "adult winter in flight, seen from below: white belly and underparts, pale bill, large feet projecting beyond the tail; head, neck, body and feet in a straight line"
+    ],
+    "build": "Very large, heavy diver, about 84–97cm, goose-sized and the largest loon, bulkier than Black-throated Loon (Gavia arctica). Swims low in the water with a thick neck and a big, angular head with a steep forehead and a bump on the crown. Bill long, heavy and dagger-shaped, about as long as the head, held tilted slightly upward. Legs set far back, used only for swimming. In flight hunch-backed, with large feet projecting beyond the tail.",
+    "avoid": [
+      "Do not paint a dark culmen or a blackish bill — that is Common Loon (Gavia immer); the Yellow-billed Loon's bill is pale to the tip.",
+      "Do not paint a small, slender bill or a small head (Black-throated or Pacific Loon).",
+      "Do not show breeding plumage on a winter sea scene; in winter the head and neck are pale brown and white.",
+      "Do not show the bird standing on land or with legs under the body."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

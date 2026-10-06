@@ -40,13 +40,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Brant Goose (Branta bernicla), adult: black upperparts, short thick neck with a white neck collar",
+    "subject": "Brant Goose (Branta bernicla nigricans, the dark Pacific form 'Black Brant'), adult, sexes alike, in winter: head, neck and breast black; a broad white collar of fine white bars on the upper neck, widest at the sides and usually joined across the front of the throat; mantle, back and wings dark sooty blackish-brown; belly and flanks dark sooty-brown, with a contrasting whitish patch of pale bars along the upper flanks at the waterline; vent and uppertail coverts white, almost covering the short black tail; bill small and black; dark eye; legs black.",
     "pose": "swimming close to the shore, feeding on seaweed",
     "scene": "sheltered bay on the Korean east coast in winter, calm sea water along a rocky shore with seaweed; no people, buildings or text",
     "views": [
-      "adult, side view swimming: black upperparts, short thick neck with a white collar",
-      "adult, head and neck detail: white collar on the short thick neck"
-    ]
+      "adult, side view swimming: black head, neck and breast, white collar on the upper neck, sooty blackish-brown back and flanks with a pale barred patch along the upper flanks, white stern",
+      "adult, head and neck detail in profile: small black head and short black bill, short thick black neck with a broad white collar of fine bars on the upper neck"
+    ],
+    "build": "Small, compact sea goose, about 61cm, only a little bigger than a Mallard; short thick neck, small rounded head and small bill, much shorter than the head. Floats high and buoyant on the sea, upending to feed on eelgrass and seaweed. Legs short, black. At rest the wingtips reach about the tail tip. Tail short and black, nearly hidden by the white tail coverts. In flight all dark with a white rear end; flies low over the sea in loose lines.",
+    "avoid": [
+      "Do not paint white cheeks or a white chinstrap; that is Cackling or Canada Goose.",
+      "Do not paint a long neck or long bill; the neck is short and thick.",
+      "Do not paint a pale grey-brown belly; in this Pacific form the belly is dark sooty, only the flank patch and stern are pale.",
+      "Do not paint a white face or a barred grey back (Barnacle Goose)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

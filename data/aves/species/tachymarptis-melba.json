@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Alpine Swift (Tachymarptis melba), adult in flight seen from below: upperparts uniform dull grey-brown; a white throat patch; a broad brown band across the breast; belly white; vent, undertail coverts and undertail dark brown; underwing dark brown; dark eye; tiny black bill.",
+    "pose": "in flight seen from below, wings outstretched in a scythe shape, head, body and tail in one line",
+    "scene": "Sea cliffs on a Korean offshore island in spring, swifts sweeping across a clear blue sky; no people, buildings or text",
+    "views": [],
+    "build": "Very large swift, much larger than Pacific Swift (Apus pacificus) and far bulkier than a Barn Swallow; cigar-shaped body, long, narrow, scythe-shaped wings and a short tail with a shallow fork. Tiny bill with a wide gape; tiny feathered feet, almost never seen. Flight powerful and fast, with slower, deeper wingbeats than smaller swifts and long glides; it never perches on wires or branches and only clings to cliffs.",
+    "avoid": [
+      "Do not paint a white rump; that marks Pacific Swift and House Swift.",
+      "Do not join the white throat to the white belly; a brown breast band separates them.",
+      "Do not paint a deeply forked tail or long swallow-like tail streamers.",
+      "Do not show it perched on a wire or twig."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

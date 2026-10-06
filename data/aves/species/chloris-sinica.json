@@ -69,14 +69,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Greenfinch (Chloris sinica), adult male: dark olive-brown head and back, dark buffish-brown breast and belly, greenish tinge overall, bright pink bill, black flight feathers with a bold yellow wing band, black tail with yellow at the edges",
+    "subject": "Oriental Greenfinch (Chloris sinica), adult male, as seen year-round in the Korean countryside: crown and nape grey; forehead, face and ear-coverts olive-green, darkest around the eye; mantle and back warm chestnut-brown; breast, belly and flanks warm olive-brown with a yellowish wash; undertail coverts yellow; wings black with a broad, bright yellow patch across the base of the flight feathers; tail black, forked, with yellow bases to the outer feathers. Thick conical bill pale pink; dark eye; pinkish-brown legs.",
     "pose": "perched on a weed stalk, picking seeds",
     "scene": "Korean countryside: low hills and farm fields at the foot of a wooded hill; no people, buildings or text",
     "views": [
-      "adult male, side view perched: olive-brown head and back, pink bill, yellow wing band, black tail with yellow edges",
-      "adult female, side view perched: like the male but paler",
-      "adult male, in flight: bold yellow band across black wings"
-    ]
+      "adult male, side view perched on a weed stalk: grey crown and nape, olive-green face, warm brown back, olive-brown underparts, yellow undertail, black wings with a bold yellow patch, pale pink bill, forked black tail with yellow at the base",
+      "adult female, side view perched: like the male but duller and paler, with a brownish head showing little grey, paler olive-brown underparts and a smaller yellow wing patch",
+      "adult male in flight seen from above: bold yellow band across black wings, brown back, forked black tail with yellow bases to the outer feathers, head, body and tail in a straight line"
+    ],
+    "build": "Small, stocky finch, 14cm, about sparrow-sized but bigger-headed and thicker-billed, perching on weed stalks, treetops and wires. Bill thick, conical and pointed, much shorter than the head, pale pink. Legs short, pinkish-brown. At rest the long black wingtips extend onto the tail, and the yellow wing patch shows as a yellow line along the closed wing. Tail fairly short and clearly forked. In flight the broad yellow band across the black wings and the yellow tail sides are striking.",
+    "avoid": [
+      "Do not paint a uniformly bright green body like the European Greenfinch; this species has a brown back and olive-brown underparts.",
+      "Do not paint a dark or grey bill; it is pale pink.",
+      "Do not omit the yellow wing patch or replace it with white wing bars.",
+      "Do not streak the underparts like a siskin."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

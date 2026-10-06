@@ -41,13 +41,22 @@
     }
   ],
   "art": {
-    "subject": "House Swift (Apus nipalensis), adult: black overall with white rump and uppertail coverts, short notched tail",
+    "subject": "House Swift (Apus nipalensis), adult, as seen over the southern Jeju coast in summer: plumage sooty black overall, slightly glossed above; a broad, square-cut white band across the rump that wraps slightly onto the rear flanks; a contrasting whitish throat patch; wings blackish; tail short and black, square-ended or very slightly notched; tiny black bill; dark eye.",
     "pose": "flying fast along a sea cliff",
     "scene": "Korean southern coast of Jeju near Seogwipo in summer: sea cliffs, caves and rocky islets; no people, buildings or text",
     "views": [
-      "adult, flight view from above: black with white rump and uppertail coverts, short notched tail",
-      "adult, flight view from below: black overall, short tail"
-    ]
+      "adult, in flight seen from above, head, body and tail in line: sooty black back and wings, broad white rump band, short square-ended tail with only a slight notch",
+      "adult, in flight seen from below: blackish body and underwings, contrasting whitish throat, short square tail"
+    ],
+    "build": "Small, stocky swift, about 13cm, roughly sparrow length, with long, scythe-shaped wings that are shorter and broader than Pacific Swift's and a short, square or barely notched tail. Head broad and rounded, bill tiny with a wide gape, feet tiny and never used for perching on wires. Flight fast with rapid flickering wingbeats and glides, often in groups around cliffs.",
+    "avoid": [
+      "Do not paint a long, deeply forked tail, a narrow white rump band or pale scaling on the underparts; those belong to Pacific Swift (Apus pacificus).",
+      "Do not paint a white back; only the rump band is white.",
+      "Do not paint a red throat, white belly or long tail streamers; that is Barn Swallow.",
+      "Do not show it perched on a wire or branch."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

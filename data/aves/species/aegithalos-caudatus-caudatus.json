@@ -36,10 +36,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Long-tailed Tit (Aegithalos caudatus caudatus), adult of the white-headed northern subspecies, as seen in Korea in winter: entire head, face, chin and throat pure white with no dark stripes; a black stripe down the centre of the back; scapulars dusky pink; wings blackish with broad white edges to the tertials and secondaries forming a white panel; underparts white with a pinkish wash on the flanks, belly and vent; very long black tail with white outer feathers; tiny stubby black bill; dark eye; blackish legs.",
+    "pose": "hanging from a thin willow twig in a small flock, side view, long tail hanging down",
+    "scene": "Korean riverside woodland in winter with bare willows and birches under a pale sky; no people, buildings or text",
+    "views": [],
+    "build": "Tiny round-bodied songbird with a very long tail; the body is smaller than a sparrow's, a fluffy ball with almost no visible neck, and the tail is longer than the head and body together. Bill tiny, stubby and conical, far shorter than the head. Legs short and blackish. Wings short and rounded, the wingtips reaching only the base of the tail. Tail long, narrow and graduated, black with white outer feathers. Moves in restless flocks, often hanging upside down from thin twigs.",
+    "avoid": [
+      "Do not paint broad black stripes over the eyes - that is the resident Korean Long-tailed Tit; this subspecies has an all-white head.",
+      "Do not shorten the tail; it is longer than the body.",
+      "Do not paint a thick bill, a crest or yellow underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

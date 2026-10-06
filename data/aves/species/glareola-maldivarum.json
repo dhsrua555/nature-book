@@ -49,13 +49,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Pratincole (Glareola maldivarum), adult: long narrow wings projecting beyond the tail, dark grey-brown upperparts, black wings, pale creamy-yellow throat bordered with a black line, cream breast and belly, white lower belly, black bill with red base",
+    "subject": "Oriental Pratincole (Glareola maldivarum), adult in breeding plumage, as seen in Korea on spring passage: crown, upperparts and wing coverts plain olive grey-brown; flight feathers blackish; lores black; throat pale creamy buff, sharply outlined by a thin black line that runs from the eye down and around the lower throat; upper breast olive-brown merging into a warm orange-buff lower breast and upper belly; lower belly and undertail white. Bill short and arched, black with a bright red base; large dark eye; legs short and blackish.",
     "pose": "hawking insects in swift, buoyant flight low over a field",
     "scene": "Korean coastal grassland beside farmland during spring migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: black bill with red base, black-bordered pale throat, cream breast, wings projecting past the tail",
-      "adult in flight: rufous underwing coverts, white rump"
-    ]
+      "adult breeding, side view standing: horizontal stance, short arched black bill with red base, creamy throat outlined by a thin black necklace, olive-brown upperparts and upper breast, orange-buff belly, white lower belly, blackish wingtips projecting well past the tail, short dark legs",
+      "adult in flight, seen from below: long pointed wings with chestnut underwing coverts and dark flight feathers, creamy throat with black border, white vent, shallowly forked black tail with a white base",
+      "adult in flight, seen from above: plain olive-brown back and wing coverts, blackish flight feathers without a white trailing edge, white rump, shallowly forked black tail"
+    ],
+    "build": "Tern-like wader, 26.5cm, a little smaller than a feral pigeon and much slimmer, with a large head, very short neck and horizontal stance; runs like a plover on the ground. Bill much shorter than the head, arched, with a wide gape like a swallow's. Legs short. Very long, narrow, pointed wings: at rest the wingtips extend well beyond the tail. Tail short, black with a white base, shallowly forked. Flies like a large swallow: dark upperwing without a white trailing edge, chestnut underwing coverts, white rump and uppertail coverts.",
+    "avoid": [
+      "Do not paint long legs or a long bill; pratincoles have short legs and a short, arched, swallow-like bill.",
+      "Do not give it a long, deeply forked tail with streamers; the tail is short and the folded wings extend well beyond it.",
+      "Do not paint a white trailing edge on the secondaries (Collared Pratincole).",
+      "Do not paint red on the bill tip; only the base is red.",
+      "Do not paint a pure white throat; it is creamy buff."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

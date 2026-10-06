@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Bulwer's Petrel (Bulweria bulwerii), adult: entire plumage dark sooty brown-black, slightly paler and browner on the chin and throat; a pale grey-brown diagonal bar across the upperwing coverts from the wrist towards the body, contrasting with the blackish flight feathers; underwing uniformly dark; long tail blackish-brown, usually closed to a point. Bill short, stout and black; iris dark.",
+    "pose": "flying low over the sea with wings bowed and tail closed to a point, side view",
+    "scene": "open subtropical sea in summer far off southern Korea, bright sky over blue water; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim, all-dark petrel, much smaller than Streaked Shearwater but clearly larger than a storm petrel. Small round head and short neck. Bill short, black, thick, with tube nostrils and a hooked tip. Wings long and narrow, held slightly forward and bowed, with a distinct bend at the wrist. Tail long and wedge-shaped, usually held closed into a long point, giving a long-rear look. Flight buoyant and erratic, low over the waves, twisting with short glides.",
+    "avoid": [
+      "Do not make the tail short or square; it is long and wedge-shaped, usually closed into a point.",
+      "Do not paint it like Swinhoe's Storm Petrel, which is much smaller with a forked tail.",
+      "Do not show white underparts, a white rump or a white face; it is entirely dark.",
+      "Do not paint a long thin shearwater bill; it is short and thick."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

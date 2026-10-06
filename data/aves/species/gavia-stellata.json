@@ -48,13 +48,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-throated Loon (Gavia stellata), adult in winter plumage: slender, slightly upturned bill, brown back spotted with white, white throat, foreneck and belly",
+    "subject": "Red-throated Loon (Gavia stellata), adult in winter (non-breeding) plumage, as seen off Korean coasts from November to March: crown and hindneck pale grey; extensive white face with the eye set in white; chin, throat, foreneck and sides of the neck white; back and wings grey-brown densely sprinkled with small white spots; underparts white. Slender, pale grey bill that looks slightly upturned and is usually held tilted up; dark red eye; legs black.",
     "pose": "floating low on the sea, about to dive",
     "scene": "Korean winter coastal waters off Jeju with a gentle swell; no people, buildings or text",
     "views": [
-      "adult winter, side view swimming: slender slightly upturned bill, brown back with white spots, white throat, foreneck and belly",
-      "adult breeding, side view swimming: grey head, reddish-brown neck, brown back, slender upturned bill"
-    ]
+      "adult winter, side view swimming: pale grey crown and hindneck, white face with the eye in white, white throat and foreneck, grey-brown back densely spotted white, white underparts, slender slightly upturned pale grey bill tilted up",
+      "adult breeding, side view swimming: plain grey head and neck sides, fine black-and-white streaks on the hindneck, dark reddish-brown throat patch on the foreneck, plain dark brown back without spots, slender upturned black bill"
+    ],
+    "build": "The smallest loon, 61–67cm, larger than a Mallard but with a slender, low-lying body, small head and thin neck. Bill thin and shorter than the head, its upper edge nearly straight and the lower edge angled up so that it looks slightly upturned, typically carried tilted upward. Legs set far back near the tail. Floats low and dives for fish. In flight the neck sags slightly and the feet project beyond the short tail.",
+    "avoid": [
+      "Do not paint a thick, straight, dagger-like bill; that belongs to Black-throated Loon (Gavia arctica) and Pacific Loon (Gavia pacifica).",
+      "Do not paint a dark cap reaching below the eye in winter; the face is extensively white.",
+      "Do not paint a white flank patch or bold black-and-white checkering on the back."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

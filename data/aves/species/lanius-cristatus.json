@@ -52,13 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Brown Shrike (Lanius cristatus), adult male, winter plumage: grey-brown upperparts, black eye-stripe continuing from the bristles at the bill base, greyish-white supercilium, white cheeks, chin and throat, pale buff flanks and underparts, black bill, black eye, black legs",
+    "subject": "Brown Shrike (Lanius cristatus), adult male of the grey-crowned form lucionensis that breeds in Korea, in breeding-season plumage (May–August): pale grey forehead and crown merging into a grey-brown nape, mantle and back; a narrow greyish-white supercilium above a bold black mask that starts at the bristles at the bill base and runs through the eye over the ear-coverts; white lower cheeks, chin and throat; plain brown wings with pale fringes and no white patch; warmer brown rump and a long rufous-brown tail; underparts washed pale buff, warmest on the breast sides and flanks; stout black hooked bill; dark eye; blackish-grey legs.",
     "pose": "perched on top of a shrub, watching for insects",
     "scene": "Korean lowland scrub at the edge of farmland and low hills in summer; no people, buildings or text",
     "views": [
-      "adult male, side view perched: grey-brown upperparts, black eye-stripe, greyish-white supercilium, white throat, pale buff underparts, black bill and legs",
-      "adult male, head detail: black eye-stripe joining the bill-base bristles, greyish-white supercilium, white cheeks and throat"
-    ]
+      "adult male (lucionensis), side view perched upright on a twig: grey crown fading to grey-brown back, black mask from the bill base through the eye, greyish-white supercilium, white cheeks, chin and throat, pale buff flanks and underparts, rufous-brown tail, black hooked bill, blackish legs",
+      "adult male, head in profile: black mask joining the bristles at the bill base and covering the ear-coverts, greyish-white supercilium and pale grey forehead, white cheeks and throat, stout hooked black bill",
+      "adult female, side view perched: like the male but duller, the mask dark brown rather than black, fine dark crescent barring on the buff breast sides and flanks"
+    ],
+    "build": "Medium-small shrike, 20cm: clearly larger and longer-tailed than a sparrow, a little smaller than a Brown-eared Bulbul; sits upright on an exposed twig or wire with the tail hanging down. Large rounded head on a short thick neck, no crest. Bill black, stout and deep, shorter than the head, the upper mandible ending in a strong hook. Legs fairly short, blackish-grey, with strong toes. Wings short and rounded: at rest the wingtips reach only just past the base of the tail. Tail long, narrow and graduated, often swung slowly from side to side. In flight the wings are plain brown without white patches.",
+    "avoid": [
+      "Do not add a white patch at the base of the primaries — that belongs to the male Bull-headed Shrike (Lanius bucephalus); the Brown Shrike's wings are plain brown.",
+      "Do not paint a bright rufous-orange crown; Korean breeding birds have a pale grey crown (rufous-crowned Brown Shrikes are other races seen only on passage).",
+      "Do not paint a chestnut back with black scalloping — that is Tiger Shrike (Lanius tigrinus); the adult Brown Shrike's back is plain grey-brown.",
+      "Do not paint pale or pinkish legs or a straight bill without a hook."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

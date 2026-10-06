@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Pochard (Aythya ferina), adult male: reddish-brown head and neck, black breast, grey body, black bill with a broad grey band across the middle",
+    "subject": "Common Pochard (Aythya ferina), adult male in winter, as seen on Korean reservoirs from November to March: head and neck rich chestnut-red; breast black; back and flanks very pale grey with fine vermiculations, looking almost whitish-grey at a distance; tail and undertail coverts black. Bill black at the base and tip with a broad pale blue-grey band across the middle; red eye; grey legs.",
     "pose": "swimming on open water among a loose flock of diving ducks",
     "scene": "Korean winter reservoir with calm open water and dry reeds along the margin; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: reddish-brown head and neck, black breast, grey body, black bill with a broad grey central band",
-      "adult female, side view swimming: brown head and breast, grey-brown body, rounded buff cheek line through the eye, faint whitish stripe behind the eye"
-    ]
+      "adult male, side view swimming: chestnut-red head and neck with a sloping wedge profile, red eye, black breast, pale grey body, black tail end, black bill with a broad pale grey band",
+      "adult female, side view swimming: brown head and breast, grey-brown body, rounded buff cheek line through the eye, faint whitish line behind the eye, dark eye, dark bill with a pale band"
+    ],
+    "build": "Medium-sized diving duck, about 45cm, clearly smaller and shorter-bodied than a Mallard, sitting low and compact on the water with a short tail. Head with a peaked crown and a long, sloping forehead running straight into the long bill, giving a wedge-shaped profile. Bill about as long as the head, broad. Legs short, grey, set far back. Dives often. In flight grey wings with a pale grey (not white) stripe along the flight feathers.",
+    "avoid": [
+      "Do not paint a green or purple-glossed head; the male's head is chestnut-red.",
+      "Do not paint an all-black or all-grey bill; it has a pale band across the middle.",
+      "Do not paint a white wing-bar in flight; the wing stripe is pale grey.",
+      "Do not give it a crest or a rounded, Mallard-like head profile."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

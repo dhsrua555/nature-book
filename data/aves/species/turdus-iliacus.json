@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Redwing (Turdus iliacus), adult in winter (sexes alike): upperparts plain warm olive-brown; a long creamy-white supercilium; dark brown ear-coverts bordered below by a whitish submoustachial stripe and a dark malar stripe; underparts whitish with dense dark brown streaks arranged in lines on the throat sides, breast and flanks; a deep rusty-red patch on the flanks extending onto the underwing coverts; undertail coverts white; bill dark with a yellow base to the lower mandible; dark eye; pinkish-brown legs.",
+    "pose": "feeding on red berries in a bare shrub, side view",
+    "scene": "berry-laden shrubs at a farmland edge in Korea in winter, frost on dry grass and low sun; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact thrush, smaller than a Dusky Thrush and slightly smaller than a White-cheeked Starling, with a rounded head and a fairly short tail. Bill straight, slightly shorter than the head. Legs medium, pinkish-brown. Tail medium, square, plain brown. In flight shows rusty-red underwing coverts.",
+    "avoid": [
+      "Do not paint the red on the breast; it is confined to the flanks and underwing.",
+      "Do not paint chestnut wing panels or black-spotted breast bands (Dusky Thrush, Turdus eunomus).",
+      "Do not omit the strong creamy supercilium; the face is boldly striped.",
+      "Do not paint round spots; the markings are streaks in lines."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

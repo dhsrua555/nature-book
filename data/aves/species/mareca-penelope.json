@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Wigeon (Mareca penelope), adult male: rufous-brown head with yellow forehead, pinkish-brown breast, mostly grey body, white wing coverts showing as a white horizontal bar at rest, black undertail coverts, blue-grey bill with a black tip",
+    "subject": "Eurasian Wigeon (Mareca penelope), adult male in winter, as seen on Korean lakes and coasts from October to March: head and neck chestnut-red with a creamy-yellow forehead and crown stripe; breast pinkish-grey; back and flanks finely vermiculated grey; a white band along the side formed by the white wing coverts; a white patch on the rear flank in front of the black undertail coverts; tail dark grey, pointed. Short bill blue-grey with a black tip; dark eye; grey legs.",
     "pose": "swimming on open water, picking seeds and plant stems from the surface",
     "scene": "Korean winter lake near a river mouth with open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: rufous-brown head, yellow forehead, pinkish-brown breast, grey body, white bar along the wing, black undertail coverts",
-      "adult female, side view swimming: dark brown with a reddish tone, blue-grey bill with black tip"
-    ]
+      "adult male, side view swimming: chestnut head with a creamy-yellow forehead stripe, pinkish-grey breast, grey body, white band along the side, white rear flank patch, black undertail coverts, small blue-grey bill with a black tip",
+      "adult female, side view swimming: plain rufous-brown head and breast with a reddish tone, darker mottled brown body, round head, small blue-grey bill with a black tip"
+    ],
+    "build": "Medium dabbling duck, about 49cm, smaller than a Mallard, with a round head, steep forehead, short neck and a short, pointed tail. Bill small and short, much shorter than the head. Legs short, grey. Grazes on land and picks from the water surface in tight flocks. In flight fairly pointed wings; the male shows a large white forewing patch, a green speculum and a white belly.",
+    "avoid": [
+      "Do not paint a green stripe behind the eye — that is American Wigeon (Mareca americana) or teal.",
+      "Do not paint a long, broad Mallard-like bill; the wigeon's bill is small and short.",
+      "Do not paint the forehead stripe pure white; it is creamy-yellow.",
+      "Do not give the female an orange bill; both sexes have a blue-grey bill with a black tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

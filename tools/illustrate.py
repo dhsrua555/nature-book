@@ -82,20 +82,28 @@ def has_todo(v) -> bool:
 def build_prompt(cfg: dict, sp: dict, kind: str) -> str:
     art = sp.get("art", {})
     views = art.get("views", [])
+    build = "" if has_todo(art.get("build")) else (art.get("build") or "").strip()
+    avoid = [a.strip().rstrip(".") for a in art.get("avoid") or []]
     fields = {
         "style": cfg["style"].strip(),
         "ko": sp["ko"], "en": sp["en"], "sci": sp["sci"],
         "subject": art.get("subject", "").rstrip(". "), "pose": art.get("pose", "").rstrip(". "), "scene": art.get("scene", "").rstrip(". "),
         "views": "; ".join(f"({i}) {v}" for i, v in enumerate(views, 1)),
         "points": "; ".join(p["en"] for p in sp.get("points", []) if p.get("en")),
+        # 종마다 다른 크기·체형·부리·다리 비율과, 이 종에서 흔히 틀리는 점(tools/ART_RULES.md)
+        "build": f"Size, shape and proportions of this species (follow exactly): {build}" if build else "",
+        "avoid": ("Mistakes to avoid for this species: " + " ".join(f"{a}." for a in avoid)) if avoid else "",
     }
-    return cfg[kind]["prompt"].format(**fields).strip()
+    text = cfg[kind]["prompt"].format(**fields).strip()
+    return "\n".join(line for line in text.splitlines() if line.strip())
 
 
 def prompt_problems(sp: dict, kind: str) -> list[str]:
     art = sp.get("art", {})
-    need = ["subject", "pose", "scene"] if kind == "scene" else ["views"]
+    need = ["subject", "pose", "scene", "build"] if kind == "scene" else ["views", "build"]
     bad = [f"art.{k}" for k in need if not art.get(k) or has_todo(art.get(k))]
+    if kind == "plate" and not sp.get("points"):
+        bad.append("points")  # 동정 포인트가 없는 종은 책에 도해 쪽이 없다
     if has_todo(sp.get("en")):
         bad.append("en")
     if kind == "plate" and any(has_todo(p.get("en")) for p in sp.get("points", [])):

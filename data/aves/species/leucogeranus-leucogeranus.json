@@ -47,14 +47,23 @@
   "young": "어린새는 온몸에 황갈색 깃과 흰 깃이 섞여 있고, 특히 머리와 날개덮깃, 셋째날개깃에 황갈색이 짙다.",
   "similar": [],
   "art": {
-    "subject": "Siberian Crane (Leucogeranus leucogeranus), adult: all-white plumage at rest, black primaries hidden under long white tertials, bare red skin around the eye, long bill",
+    "subject": "Siberian Crane (Leucogeranus leucogeranus), adult, sexes alike, in winter: entire plumage pure white at rest, including the neck and the long, drooping tertials, which cover the black primaries; the black primaries and primary coverts show only in flight or when the wings are opened; bare brick-red skin on the forehead and face, reaching back past the eye; bill long, dull pinkish-red; iris pale yellow; legs and feet pinkish-red.",
     "pose": "walking in a wet rice field, probing the ground with its long bill for fallen seeds",
     "scene": "Korean winter wetland beside harvested rice paddies; no people, buildings or text",
     "views": [
-      "adult, side view standing: all-white plumage, long white tertials covering the black primaries, bare red skin around the eye",
-      "adult, in flight: black primaries contrasting with white wings and body",
-      "juvenile, side view standing: white mixed with tawny, tawny strongest on head, wing coverts and tertials"
-    ]
+      "adult, side view standing in a wet paddy: all-white plumage with long white tertials covering the black primaries, bare brick-red face reaching past the pale yellow eye, long pinkish-red bill, pinkish-red legs",
+      "adult, in flight seen from below: white body and wings with black primaries forming black outer wingtips, neck stretched forward and legs trailing, red face",
+      "juvenile, side view standing: white mixed with cinnamon-tawny feathers, tawny strongest on the head, neck, wing coverts and tertials, face feathered without red skin"
+    ],
+    "build": "Very large, tall white crane, about 135cm, taller than a Grey Heron and a little smaller than a Red-crowned Crane, with a long neck and long legs. Bill long, straight and fairly slender, clearly longer than the head. Legs very long, pinkish-red. At rest the long white tertials fall over the short tail as a white bustle. In flight neck and legs fully stretched out; white wings with black primaries forming black outer wingtips, the secondaries white.",
+    "avoid": [
+      "Do not paint a black neck or black secondaries and tertials; that is Red-crowned Crane (Grus japonensis). This species shows black only on the primaries.",
+      "Do not paint a black bill or black along the whole trailing edge of the wing (Oriental Stork).",
+      "Do not paint a small red crown patch on a white head; the bare red skin covers the forehead and the face around the eye.",
+      "Do not paint grey body plumage or dark legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

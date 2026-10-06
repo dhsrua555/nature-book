@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Quail (Coturnix japonica), adult male: black forehead, crown and nape with broad rufous feather edges, white supercilium running to the nape, rusty neck, mantle, rump and uppertail coverts with black triangular feather tips, buff-brown back streaked white and black, belly paler than the back, grey-brown bill black near the tip, pale flesh-coloured legs",
+    "subject": "Japanese Quail (Coturnix japonica), adult male in winter, as seen in open Korean fields from October to March: forehead, crown and nape blackish with broad rufous-brown feather edges and a narrow pale central crown stripe; long white supercilium running from the bill base to the nape; face and throat pale buff to rusty; neck, mantle, rump and uppertail coverts rusty with small black triangular feather tips; back and scapulars buff-brown heavily streaked with long creamy-white shaft streaks and black bars; breast warm rufous-buff; flanks rufous with long pale streaks; belly buffy-white, paler than the back. Bill short, grey-brown, blackish near the tip; iris brown; legs pale flesh.",
     "pose": "crouching on the ground among dry grass, side view",
     "scene": "open Korean field in winter with dry grass; no people, buildings or text",
     "views": [
-      "adult male, side view standing: black crown with rufous fringes, white supercilium to the nape, rusty neck with black triangular spots, streaked buff-brown back, pale belly, pale flesh legs",
-      "adult, head detail: grey-brown bill black near the tip, white supercilium"
-    ]
+      "adult male winter, side view standing in grass: blackish crown with rufous fringes and a pale central stripe, long white supercilium to the nape, rusty neck with small black triangular spots, buff-brown back streaked white and black, rufous-buff breast and streaked flanks, pale belly, pale flesh legs",
+      "adult, head detail in side view: short grey-brown bill blackish near the tip, white supercilium reaching the nape, striped crown"
+    ],
+    "build": "Small, rotund ground bird, 20cm, clearly bigger than a sparrow but far smaller than a pheasant; shaped like a plump egg with a small head, no crest and almost no visible tail. Bill short and stout, chicken-like with a curved culmen, much shorter than the head. Legs short, pale flesh. Crouches and runs in grass rather than flying. At rest the short rounded wings cover the flanks and the tiny tail is hidden among the rump feathers. When flushed it flies low and straight on rapidly whirring short wings for a short distance, then drops back into cover.",
+    "avoid": [
+      "Do not draw a crest, head plume or visible tail.",
+      "Do not paint a bold black-and-white throat pattern or a plain grey face; the head is buff and rufous with a white supercilium.",
+      "Do not make it partridge- or pheasant-sized; it is a tiny, round quail.",
+      "Do not paint grey or dark legs; they are pale flesh."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

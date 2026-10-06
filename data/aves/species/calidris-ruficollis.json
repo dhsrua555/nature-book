@@ -49,14 +49,23 @@
   "young": "어린새는 등이 어두운 갈색이고 깃 가장자리가 적갈색이다.",
   "similar": [],
   "art": {
-    "subject": "Red-necked Stint (Calidris ruficollis), adult breeding: plump, horizontally elongated body, rufous head, neck and upper breast, white around the bill base, rufous mantle and scapulars, black legs",
+    "subject": "Red-necked Stint (Calidris ruficollis), adult in breeding plumage as seen on Korean west-coast salt pans and paddies in May: face, throat, neck and upper breast plain, unstreaked rufous-orange to brick-red, with a small whitish patch at the base of the bill and a whitish chin; crown rufous streaked black; mantle and scapulars rufous with black centres; wing coverts and tertials contrasting greyish with dark centres; a band of small dark spots below the rufous on the breast sides; rest of the underparts clean white. Bill short and black; dark eye; legs black.",
     "pose": "feeding in a small flock on wet mud, picking quickly at the surface",
     "scene": "Korean west-coast salt pans and nearby paddies during spring migration, shallow pools and wet mud; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: rufous head, neck and upper breast, white around the bill, rufous back, black legs",
-      "adult winter, side view standing: grey-brown upperparts with thin dark shaft streaks",
-      "juvenile, side view standing: dark brown back with rufous feather edges"
-    ]
+      "adult breeding plumage (May), side view standing: unstreaked rufous face, throat, neck and upper breast, whitish around the bill base, rufous back with black-centred feathers, greyish wing coverts, white belly, short black bill and black legs",
+      "adult winter plumage, side view standing: pale grey upperparts with thin dark shaft streaks, whitish supercilium, grey patches on the breast sides, all-white underparts, long wings extending beyond the tail",
+      "juvenile (August–September), side view standing: dark-brown-centred back and scapulars with rufous fringes, whitish lines on the mantle, greyish wing coverts with pale fringes, faint buff breast sides"
+    ],
+    "build": "Tiny, plump stint, 15cm, about the length of a sparrow, with a horizontally elongated, tapering rear because the long wings extend clearly beyond the tail at rest. Short neck, rounded head. Bill black, short, straight and rather stubby with a slightly blunt tip, a little shorter than the head. Legs short and black. Feeds with rapid running and pecking. In flight a narrow white wing-bar and a black centre to the rump and tail with white sides.",
+    "avoid": [
+      "Do not paint greenish or yellowish legs — those belong to Long-toed and Temminck's Stints; Red-necked Stint has black legs.",
+      "Do not give it a long or drooping bill (Dunlin) or a long neck.",
+      "Do not streak the rufous throat and neck; in breeding plumage they are plain rufous.",
+      "Do not show any rufous on winter birds; they are pale grey and white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

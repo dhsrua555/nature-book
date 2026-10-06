@@ -57,13 +57,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Naumann's Thrush (Turdus naumanni), adult: brownish-grey crown, greyish-brown ear coverts, hindneck and back with rufous-apricot feathers mostly hidden under pale grey-brown fringes, white belly, white undertail coverts with rusty bases, brown iris, pale brown legs",
+    "subject": "Naumann's Thrush (Turdus naumanni), adult, as seen in Korea from October to April: crown and upperparts plain brownish-grey, the rufous-apricot feather bases on the hindneck and back hidden by grey-brown fringes; orange-rufous supercilium; ear coverts greyish-brown; throat orange-rufous (whiter in females); breast and flanks heavily scaled and spotted orange-rufous with pale fringes; belly white; undertail coverts white with rusty bases; outer tail feathers rufous-orange, central ones darker brown. Bill dark with a yellow base to the lower mandible. Dark brown eye. Pale brown legs.",
     "pose": "perched in a fruiting tree, picking berries",
     "scene": "Korean winter farmland edge with bare trees and a wooded hill; no people, buildings or text",
     "views": [
-      "adult, side view perched: brownish-grey crown, greyish-brown ear coverts, grey-brown fringed back, white belly, pale brown legs",
-      "adult, undertail detail: white undertail coverts with rusty bases"
-    ]
+      "adult, side view perched: brownish-grey crown and back, orange-rufous supercilium, greyish-brown ear coverts, orange-rufous scaling on the breast and flanks, white belly, rufous outer tail feathers, pale brown legs",
+      "adult, undertail detail from below: white undertail coverts with rusty bases, rufous-orange outer tail feathers"
+    ],
+    "build": "Medium-sized thrush, 23cm, a little shorter than a Brown-eared Bulbul, plump, with an upright stance on the ground. Bill straight, slightly shorter than the head. Legs medium length, pale brown. Wings fairly long. Tail medium length, rufous-orange at the sides, flashing in flight; underwing rufous-orange. Hops and runs on fields and lawns, pausing upright; also eats berries in trees.",
+    "avoid": [
+      "Do not paint a black breast band and black-scaled flanks with a white supercilium — that is Dusky Thrush (Turdus eunomus).",
+      "Do not paint a plain, unmarked orange breast like a robin.",
+      "Do not paint an all-dark tail without rufous sides.",
+      "Do not paint an all-yellow bill like a blackbird."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

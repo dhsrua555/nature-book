@@ -44,14 +44,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Stork (Ciconia boyciana), adult: white plumage with black wings, very large black bill, pale yellow iris, red skin around the eye, red legs",
+    "subject": "Oriental Stork (Ciconia boyciana), adult as seen in Korean winter farmland (plumage the same all year): head, neck, body, tail and wing coverts pure white, with long loose white feathers forming a shaggy ruff on the lower foreneck; primaries and secondaries black, so the folded wing shows a black rear half to the body. Massive, straight, dagger-shaped black bill; pale whitish-yellow iris set in a ring of bare red skin that runs forward to the lores; long red legs.",
     "pose": "walking slowly through a harvested paddy, hunting for fish and frogs",
     "scene": "Korean winter farmland: harvested rice paddies and a shallow stream near a broad estuary; no people, buildings or text",
     "views": [
-      "adult, side view standing: white body, black wings, very large black bill, red legs",
-      "adult, head detail: pale yellow iris, red skin around the eye, massive black bill",
-      "adult, in flight: white body and black wings"
-    ]
+      "adult, side view standing upright in a field: white body and neck with a shaggy white ruff on the foreneck, black flight feathers forming the rear of the folded wing, massive straight black bill, long red legs",
+      "adult, head detail: pale whitish-yellow iris in a ring of bare red skin extending to the lores, massive dagger-shaped black bill, smooth white head without crest",
+      "adult in flight seen from below: neck stretched forward and red legs trailing, white body, wing coverts and tail, all primaries and secondaries black forming a broad black rear half to each wing"
+    ],
+    "build": "Huge white stork, about 112cm long, taller and much bulkier than a Grey Heron. Long neck held straight, not kinked; rounded head without any crest. Bill very long (much longer than the head), deep at the base, straight and sharply pointed, entirely black. Legs very long and red. The folded black flight feathers cover the rear of the body and reach about the tail tip; tail short, square and white. In flight neck stretched straight forward and legs trailing beyond the tail; long, broad wings with deeply fingered black tips.",
+    "avoid": [
+      "Do not paint a red or orange bill and a dark eye — that is White Stork (Ciconia ciconia); this species has a black bill and a pale eye.",
+      "Do not fold the neck back into an S-curve in flight like a heron.",
+      "Do not paint black wing coverts or a black back; only the flight feathers are black.",
+      "Do not paint pink or grey legs, or any crest or plumes on the head."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

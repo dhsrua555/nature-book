@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pectoral Sandpiper (Calidris melanotos), adult breeding: blackish-brown crown and nape fringed rufous, white supercilium, rusty-white lores and ear coverts finely barred dark brown, black central tail feathers with grey-brown outer tail, blackish-brown bill, brownish greenish-yellow legs",
+    "subject": "Pectoral Sandpiper (Calidris melanotos), adult in breeding plumage, as seen on Korean reclaimed land on spring passage in May: crown blackish-brown streaked and fringed rufous, forming a dark cap; a whitish supercilium; lores and ear coverts pale rusty-white with fine dark streaks; neck and breast densely streaked dark brown on a buff-grey ground, the streaked bib ending in a sharp, straight line against the white belly; mantle and scapulars blackish with rufous and buff fringes; flanks and belly clean white; central tail feathers black; bill blackish-brown with a paler olive-yellow base, slightly drooping; legs dull greenish-yellow.",
     "pose": "foraging on damp ground of reclaimed land, side view",
-    "scene": "Korean reclaimed land during migration, damp ground with shallow pools and short grass; no people, buildings or text",
+    "scene": "Korean reclaimed land on spring migration in May, damp ground with shallow pools and short green grass; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: dark crown, white supercilium, finely barred face, blackish-brown bill, greenish-yellow legs",
-      "adult breeding, tail from above: black central pair, grey-brown outer tail feathers"
-    ]
+      "adult breeding, side view standing: dark rufous-fringed cap, whitish supercilium, finely streaked pale face, dense dark streaks on neck and breast ending in a sharp line against the white belly, dark-centred rufous-fringed back, slightly drooping blackish-brown bill, greenish-yellow legs",
+      "juvenile (autumn), side view standing: brighter rufous cap, neat white lines along the mantle edges, buff breast finely streaked and sharply cut off from the white belly",
+      "adult, in flight seen from above, head, body and tail in line: black central tail feathers forming a dark centre to rump and tail, white sides to the rump, grey-brown outer tail, faint wing-bar"
+    ],
+    "build": "Medium-sized sandpiper, about 22cm, a little larger than Dunlin, with a small head on a rather long neck; males noticeably bigger than females. Bill about as long as the head, slightly drooping towards the tip. Legs medium length, dull greenish-yellow. At rest the wingtips reach about the tail tip. In flight a faint narrow wing-bar and a black centre to the rump and tail with white sides to the rump. Walks steadily through short grass and wet ground, often upright and alert.",
+    "avoid": [
+      "Do not let the breast streaks spread down the flanks as chevrons or fade out gradually; that is Sharp-tailed Sandpiper (Calidris acuminata).",
+      "Do not give it a bold white eye-ring and bright orange cap; those also suit Sharp-tailed Sandpiper.",
+      "Do not paint black legs or an all-black bill; the legs are greenish-yellow and the bill base pale.",
+      "Do not draw a long, strongly curved bill or a black belly patch (Dunlin)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

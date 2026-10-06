@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Great Tit (Parus major), adult male of the yellow-bellied form, in winter: glossy blue-black cap; large white cheek patches; a small white nape spot; black bib continuing as a broad black stripe down the centre of the breast and belly, widening between the legs; the rest of the underparts bright yellow; mantle olive-green; rump grey; wings blue-grey with one white wing-bar and white edges to the tertials; tail blue-grey with white outer feathers. Bill black, short and pointed; dark eye; legs blue-grey.",
     "pose": "perched, side view",
-    "scene": "TODO",
-    "views": []
+    "scene": "Mixed deciduous and pine woodland edge in Korea in winter, bare branches and low sun; no people, buildings or text",
+    "views": [],
+    "build": "Small, active tit, about sparrow-sized but slimmer and longer-tailed; rounded head without a crest. Bill short, strong and pointed. Legs short, blue-grey. Wings short and rounded. Tail medium-long, square. Females have a narrower black belly stripe that does not widen between the legs, and a slightly duller cap.",
+    "avoid": [
+      "Do not paint whitish-grey underparts or a grey back with green only on the upper mantle; those mark Japanese Tit (Parus minor), the common tit in Korea.",
+      "Do not paint two white wing-bars; the Great Tit has one.",
+      "Do not break up the male's black belly stripe or narrow it to a thin line.",
+      "Do not give it a crest."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

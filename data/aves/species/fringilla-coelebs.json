@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eurasian Chaffinch (Fringilla coelebs), adult male in winter, a vagrant in Korean woodland edge usually among Bramblings: a narrow black band on the forehead; crown and nape blue-grey, partly veiled by brownish fringes; face, throat and breast rusty pink, fading to whitish on the lower belly; mantle chestnut-brown; rump olive-green; wings black with a large white shoulder patch, a white bar across the greater coverts and yellowish edges to the flight feathers; tail blackish with white outer feathers. Bill pale greyish-horn in winter; eye dark; legs pinkish-brown.",
+    "pose": "foraging on the ground among fallen seeds, side view",
+    "scene": "woodland edge with leaf litter and bare deciduous trees in Korea in winter (January), pale winter light; no people, buildings or text",
+    "views": [],
+    "build": "A sparrow-sized finch, slightly slimmer and longer-tailed than a sparrow, with a rounded head and short neck; walks and shuffles on the ground picking up seeds. Bill conical and sharply pointed, shorter than the head, not thick. Legs short, pinkish-brown. Tail fairly long and slightly notched. In flight it shows the bold white shoulder patch, the white wing bar, white outer tail feathers and a greenish rump.",
+    "avoid": [
+      "Do not paint a white rump or orange shoulders and breast — that is Brambling; the Chaffinch's rump is olive-green.",
+      "Do not paint a black head or black mantle (male Brambling in spring).",
+      "Do not omit the double white wing marks: the large white shoulder patch and the white greater-covert bar.",
+      "Do not paint a thick grosbeak bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

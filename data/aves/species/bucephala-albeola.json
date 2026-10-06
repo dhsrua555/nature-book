@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Bufflehead (Bucephala albeola), adult male in winter plumage, as worn from November to April: head black with a green and purple gloss, crossed by a large white patch that runs from just behind the eye over the back of the head; neck, breast, flanks and underparts white; back black; tail grey. Bill short, blue-grey; iris dark; legs and feet pink.",
+    "pose": "swimming buoyantly in a sheltered bay between dives, side view",
+    "scene": "sheltered Korean bay or estuary in winter, calm grey-blue water; no people, buildings or text",
+    "views": [],
+    "build": "Very small diving duck, about the size of a Eurasian Teal and much smaller than Common Goldeneye; compact and round-bodied, floating high and buoyant. Head large and rounded for the body, puffy at the back, on a short neck. Bill short and stubby, much shorter than the head. Legs short, set far back. In flight the male shows a large white patch over the inner upperwing, the female a small white patch on the secondaries. Tail short, often resting on the water.",
+    "avoid": [
+      "Do not paint the round white spot at the bill base of Common Goldeneye (Bucephala clangula); the Bufflehead's white is a large patch behind the eye.",
+      "Do not make it goldeneye-sized; it is tiny, about the size of a teal.",
+      "Do not paint a yellow iris; the eye is dark.",
+      "Do not give it the black eye mask, white crest or narrow saw-bill of Smew (Mergellus albellus)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-footed Booby (Sula sula), adult white morph: plumage white, sometimes with a faint golden-yellow wash on the head and neck; primaries and secondaries black, forming a black rear half of the wing; a black patch on the underwing at the base of the primaries; tail white. Bill pale blue-grey with a pink base; bare facial skin pink and blue around the bill base and eye; legs and feet bright red.",
+    "pose": "perched upright on a rocky islet, gripping with bright red feet, side view",
+    "scene": "rocky islet in the open sea off Jeju in late summer, blue water and broken cloud; no people, buildings or text",
+    "views": [],
+    "build": "Smallest booby, clearly smaller and slimmer than Masked Booby, about the size of a large gull, with long pointed wings. Head rounded, neck short. Bill shorter than the head, conical and sharply pointed. Legs short, feet large, webbed and bright red in adults; it perches on branches and rocks. In flight long, narrow, pointed wings and a long wedge-shaped tail.",
+    "avoid": [
+      "Do not paint a black tail or black face mask — those are Masked Booby; the white-morph Red-footed Booby has a white tail and no black mask.",
+      "Do not paint yellow, grey or blue feet; adult feet are bright red.",
+      "Do not paint the dark brown head and breast of Brown Booby (Sula leucogaster).",
+      "Do not paint a yellow bill; it is pale blue-grey with a pink base."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

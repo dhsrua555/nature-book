@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-rumped Flycatcher (Ficedula zanthopygia), adult male: black upperparts, white supercilium, bright yellow underparts, white undertail coverts, black bill, dark brown legs",
+    "subject": "Yellow-rumped Flycatcher (Ficedula zanthopygia), adult male in breeding plumage, as seen in Korean woodland from May to August: crown, nape, mantle and scapulars black; a white supercilium above and behind the eye; lores black; wings black with a long white patch on the inner wing coverts; rump bright yellow, contrasting with the black back and black tail; chin, throat, breast and belly bright yellow, richest on the throat and breast; undertail coverts white. Short black bill; dark eye; dark brown legs.",
     "pose": "perched on a broadleaf branch, side view",
     "scene": "Korean summer woodland of broadleaf and mixed trees on low hills; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black upperparts, white supercilium, bright yellow underparts, white undertail coverts, black bill",
-      "adult female, side view perched: greenish-grey upperparts, whitish pale yellow underparts, short faint supercilium"
-    ]
+      "adult male, side view perched: black crown, back, wings and tail, white supercilium behind the eye, long white wing patch, bright yellow rump, bright yellow throat, breast and belly, white undertail coverts, black bill, dark brown legs",
+      "adult female, side view perched: greenish-grey upperparts, yellow rump, small whitish patch on the wing coverts, dark brown tail, whitish pale-yellow underparts, only a short faint supercilium"
+    ],
+    "build": "Small, neat flycatcher, 13cm, about the length of a tree sparrow but slimmer; rounded head and short neck. Perches upright in the mid-canopy of broadleaf trees and sallies out after insects. Bill short, flat and black, much shorter than the head. Legs short and dark. Tail medium length and square-ended, all black in the male and dark brown in the female. In flight the male flashes the white wing patch and the yellow rump between the black back and tail.",
+    "avoid": [
+      "Do not make the supercilium yellow; a yellow supercilium with an orange throat is Narcissus Flycatcher (Ficedula narcissina).",
+      "Do not leave out the yellow rump or the white wing patch; the male has both, and the female also has a yellow rump.",
+      "Do not paint an orange breast with only a short white mark behind the eye; that is Mugimaki Flycatcher (Ficedula mugimaki).",
+      "Do not paint the male's back grey, olive or blue; it is solid black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

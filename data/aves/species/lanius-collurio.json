@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-backed Shrike (Lanius collurio), adult male in spring: crown, nape and rump blue-grey; a black mask from the base of the bill through the eye to the ear-coverts; mantle, scapulars and wing coverts plain chestnut-rufous, without bars; flight feathers dark brown; throat white; breast and flanks washed pale pink; belly white; tail black with white bases to the outer feathers. Bill black and hooked; dark eye; legs black.",
+    "pose": "perched upright on top of a thorny bush, side view",
+    "scene": "Thorny scrub on a Korean offshore island in May, during spring migration, bright light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact shrike, a little smaller than Bull-headed Shrike, with a fairly big head and a longish tail. Bill short, stout and hooked at the tip. Legs short, dark. Perches upright on bush tops, swinging and fanning the tail. Females are brown above with a brown mask and fine dark crescents on whitish underparts.",
+    "avoid": [
+      "Do not paint black bars on the chestnut back, a thick bill or plain white underparts; those mark Tiger Shrike (Lanius tigrinus).",
+      "Do not paint a rufous-brown crown or a rufous tail (Brown Shrike, Lanius cristatus).",
+      "Do not paint a rufous crown with a white wing patch (Bull-headed Shrike, Lanius bucephalus).",
+      "Do not paint the male's tail brown; it is black with white at the base of the sides."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

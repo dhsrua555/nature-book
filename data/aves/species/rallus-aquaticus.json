@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Water Rail (Rallus aquaticus), adult: black forehead, crown and nape with pale brown feather edges, broad slate-grey supercilium, dark brown eye-stripe from the lores to the ear-coverts, slate-grey cheeks, white chin and throat, pale grey breast and belly, black tail with very broad pale brown edges, blackish-brown bill, apricot-brown legs",
+    "subject": "Water Rail (Rallus aquaticus), adult of the East Asian form (Rallus aquaticus indicus, Brown-cheeked Rail): crown and upperparts olive-brown with broad black feather centres, giving a streaked back; a broad slate-grey supercilium; a dark brown stripe from the lores through the eye to the ear-coverts; cheeks slate-grey; chin and throat white; breast and belly pale grey washed brownish; flanks boldly barred black and white; undertail coverts white. Bill long, red on the lower mandible and the base of the upper mandible, with a dark culmen and tip; iris red; legs and feet apricot-brown.",
     "pose": "walking at the edge of a reed bed, picking food from the shallows",
     "scene": "Korean estuary or marsh edge with dense reeds and wild rice; no people, buildings or text",
     "views": [
-      "adult, side view walking: black crown with pale brown edges, slate-grey supercilium and cheeks, dark brown eye-stripe, white throat, pale grey underparts, apricot-brown legs",
-      "adult, head detail: broad slate-grey supercilium, dark brown eye-stripe, white chin and throat, blackish-brown bill"
-    ]
+      "adult, side view walking: olive-brown back with black streaks, slate-grey supercilium and cheeks, dark brown stripe through the eye, white throat, pale grey underparts with black-and-white barred flanks, long red-based bill, apricot-brown legs",
+      "adult, head detail: broad slate-grey supercilium, dark brown stripe from the lores through the eye to the ear-coverts, white chin and throat, red eye, long bill red at the base with a dark culmen"
+    ],
+    "build": "Slim, laterally compressed rail, about 29cm, slightly smaller and much slimmer than a Common Moorhen. Bill long, longer than the head, slender and very slightly decurved. Legs medium length, with long toes. Wings short and rounded, hidden on the flanks at rest. Tail short, often flicked up to show the white undertail. Moves stealthily with the body held low and horizontal.",
+    "avoid": [
+      "Do not paint the bill all black or blackish-brown on this adult; it is red at the base with a dark culmen.",
+      "Do not paint a short, stubby crake bill; the bill is long and slender.",
+      "Do not paint the plain grey face of the western Water Rail; the East Asian form has a dark brown eye-stripe.",
+      "Do not paint unbarred flanks; they are boldly barred black and white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

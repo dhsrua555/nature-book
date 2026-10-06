@@ -46,14 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tristram's Bunting (Emberiza tristrami), adult male breeding: black crown with a clear white median crown stripe, dirty-white supercilium and malar stripe, olive-brown hindcrown and back with blackish-brown shaft streaks, buff breast, dark buff axillaries with indistinct dark streaks, brown iris, flesh-coloured legs",
+    "subject": "Tristram's Bunting (Emberiza tristrami), adult male in breeding plumage, as seen on Korean woodland floors during spring migration in late April and May: black crown with a clear white median crown stripe; dirty-white supercilium; black ear coverts; dirty-white submoustachial (malar) stripe; black chin and throat; mantle and back olive-brown to warm brown with blackish-brown shaft streaks; rump unstreaked rufous-chestnut; wings brown with buff-edged coverts and tertials; breast and flanks washed buff with diffuse brownish streaks; belly white; tail dark brown. Bill small and conical, upper mandible dark grey, lower mandible pinkish; iris brown; legs flesh-pink.",
     "pose": "foraging on the forest floor, side view",
     "scene": "Korean spring migration: shady woodland floor with leaf litter; no people, buildings or text",
     "views": [
-      "adult male breeding, side view on ground: black crown with white median stripe, dirty-white supercilium and malar stripe, olive-brown back, buff breast",
-      "adult male winter, head detail: buff median crown stripe, buff-brown fringes on head sides, chin and throat",
-      "adult female, side view on ground: blackish-brown crown with buff median stripe, pale buff chin and throat"
-    ]
+      "adult male breeding, side view on the ground: black crown with a clear white median stripe, dirty-white supercilium and malar stripe, black ear coverts and black throat, brown back with blackish streaks, chestnut rump, buff breast, white belly, flesh-pink legs",
+      "adult male breeding, head detail in side view: boldly striped black-and-white head with black throat, small conical bill dark grey above and pinkish below, brown eye",
+      "adult female, side view on the ground: blackish-brown crown sides with a buff median stripe, brown ear coverts, buffish-white supercilium and malar stripe, pale buff chin and throat, streaked brown back, chestnut rump, flesh-pink legs"
+    ],
+    "build": "Small, slim woodland bunting, 13–14cm, about the size of a sparrow but slimmer and longer-tailed. Rounded head without a crest, short neck. Bill small and conical, shorter than the head. Legs short, flesh-pink. Feeds quietly on the shaded forest floor among leaf litter and flies up to low branches when disturbed. At rest the wingtips reach only the base of the tail. Tail medium-long, slightly notched, dark brown.",
+    "avoid": [
+      "Do not add any yellow to the supercilium or throat; that is Yellow-browed or Yellow-throated Bunting.",
+      "Do not give it a crest; the crown is rounded with a flat white central stripe.",
+      "Do not paint the breeding male's throat white; the chin and throat are black, framed by the pale malar stripe.",
+      "Do not paint dark legs; they are flesh-pink."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

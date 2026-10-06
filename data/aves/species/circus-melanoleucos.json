@@ -26,10 +26,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Pied Harrier (Circus melanoleucos), adult male, as seen over Korean river-mouth reedbeds on spring and autumn passage: head, throat, upper breast, mantle and back solid black; on the folded wing a black band across the median coverts bordered by white lesser coverts and pale silvery-grey greater coverts and secondaries; primaries black; lower breast, belly, thighs and undertail white, sharply divided from the black breast; rump white; tail silvery-grey. Short hooked black bill with a yellow cere; yellow iris; long slender yellow legs.",
     "pose": "flying slowly and low over a reed bed, hunting",
     "scene": "Korean migration-season wetland: reed beds along the lower reaches of a river; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Slim, medium-sized harrier, a little smaller and lighter than Eastern Marsh Harrier, with long narrow wings, a long tail and a small head with a slight facial disc. Bill short and strongly hooked. Legs long, thin and yellow. At rest the wingtips fall short of the tail tip. Hunts by slow, buoyant quartering low over reeds and grass, wings held in a shallow V when gliding; from above the male's wing shows a bold pattern of black, white and silvery-grey.",
+    "avoid": [
+      "Do not streak the male's black head and breast with white — that is Eastern Marsh Harrier (Circus spilonotus).",
+      "Do not paint a pale grey head and breast — that is Hen Harrier.",
+      "Do not paint a black belly; the black ends sharply on the upper breast and everything below is white.",
+      "Do not paint broad buzzard wings or a forked kite tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

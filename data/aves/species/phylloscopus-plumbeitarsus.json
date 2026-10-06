@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Two-barred Warbler (Phylloscopus plumbeitarsus), adult: brownish olive-green upperparts with a slightly darker greyish crown, browner uppertail coverts, ear coverts mixed pale yellow and dark brown, yellow-washed throat and breast, dark olive neck sides and flanks, pale dark-brown tail with faint cross-bars and olive-green outer edges, dark brown upper mandible, yellowish-brown lower mandible, dark brown iris",
+    "subject": "Two-barred Warbler (Phylloscopus plumbeitarsus), adult, as seen in Korean woods during passage in May and August-September: upperparts dark olive-green, the crown slightly darker and greyer, without a crown stripe; a long yellowish-white supercilium and a dark olive eye-stripe; ear coverts mottled pale yellow and dark brown; two whitish wing-bars - a broad, long one on the greater coverts and a shorter, thinner one on the median coverts; underparts whitish with a faint yellowish wash on the throat and breast and dusky olive neck sides and flanks; bill dark brown above with a pale yellowish-brown lower mandible; dark brown eye; dark lead-grey legs.",
     "pose": "gleaning insects among conifer twigs, side view",
     "scene": "Korean mountain conifer woods near a riverside thicket during spring or autumn passage; no people, buildings or text",
     "views": [
-      "adult, side view perched: greyish crown, brownish olive-green upperparts, yellow-washed throat and breast, dark olive flanks",
-      "adult, head detail: pale-yellow-and-dark-brown ear coverts, dark brown upper and yellowish-brown lower mandible"
-    ]
+      "adult, side view perched among conifer twigs: dark olive-green upperparts, greyish crown, long yellowish-white supercilium, two whitish wing-bars (the lower one broad), whitish underparts with a faint yellow wash on throat and breast, olive flanks, dark grey legs",
+      "adult, head detail in side view: ear coverts mottled pale yellow and dark brown, dark eye-stripe below a long pale supercilium, dark brown upper mandible and yellowish-brown lower mandible"
+    ],
+    "build": "Small leaf warbler, about 11cm, smaller than a sparrow, slim and active, with a rounded head and short tail. Bill fine and pointed, shorter than the head. Legs slender, dark lead-grey. The tail extends beyond the wingtips. Moves quickly through foliage, gleaning insects from twigs.",
+    "avoid": [
+      "Do not paint pale pinkish or yellow legs; the legs are dark lead-grey.",
+      "Do not paint a single faint wing-bar; there are two, the lower one broad and obvious.",
+      "Do not paint a pale central crown stripe (Eastern Crowned Warbler) or a yellow rump (Pallas's Leaf Warbler).",
+      "Do not paint strongly yellow underparts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

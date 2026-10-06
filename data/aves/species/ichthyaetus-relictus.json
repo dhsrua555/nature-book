@@ -38,13 +38,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Relict Gull (Ichthyaetus relictus), adult: angular head, dark red bill and legs",
+    "subject": "Relict Gull (Ichthyaetus relictus), adult in winter plumage, as seen on Korean west-coast tidal flats in winter: head white with dusky grey streaking on the rear crown and nape and a dark smudge on the ear coverts; white crescents above and below the dark eye; neck, underparts and tail white; mantle and upperwings pale grey; outer primaries black with white tips and white mirrors; bill short and thick, dark red; legs dark red.",
     "pose": "standing, side view",
-    "scene": "TODO",
+    "scene": "Korean west-coast tidal flat in winter (December–February), low tide with wet mud and cold light; no people, buildings or text",
     "views": [
-      "adult, side view standing: angular head, dark red bill and legs",
-      "adult, head detail: angular head profile, dark red bill"
-    ]
+      "adult winter, side view standing on mud: angular head with dusky streaks on the rear crown, white eye crescents, pale grey back, black wingtips with white spots, short thick dark red bill, dark red legs",
+      "adult winter, head detail in profile: angular head shape, white crescents around the dark eye, dusky ear smudge, short deep dark red bill",
+      "adult breeding (spring), side view standing: blackish hood with bold white crescents above and below the eye, white neck, pale grey back, dark red bill and legs"
+    ],
+    "build": "Medium-sized, stocky hooded gull, clearly larger and heavier than Black-headed Gull, with an angular head. Bill short, thick and deep for its length, with a blunt tip, dark red. Legs dark red. At rest the black wingtips project well beyond the tail. In flight pale grey wings end in a black wingtip marked with white mirrors.",
+    "avoid": [
+      "Do not paint a slim bill and a white leading edge to the outer wing; that is Black-headed Gull (Chroicocephalus ridibundus).",
+      "Do not paint a short black bill on a small gull; that is Saunders's Gull (Saundersilarus saundersi).",
+      "Do not paint a yellow or orange bill or legs; both are dark red.",
+      "Do not show a full black hood in the midwinter scene."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

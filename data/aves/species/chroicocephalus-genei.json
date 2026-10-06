@@ -41,13 +41,22 @@
     }
   ],
   "art": {
-    "subject": "Slender-billed Gull (Chroicocephalus genei), adult: slender red bill, long neck, breast and belly washed pale pink",
+    "subject": "Slender-billed Gull (Chroicocephalus genei), adult in breeding plumage, as in spring: head entirely white, with no dark hood; mantle and upperwing pale grey; folded wingtip black; underparts white with a variable delicate pink flush on the breast and belly; rump and tail white. Bill long, slender and dark red, looking almost blackish-red at a distance; iris pale whitish-yellow; legs dark red.",
     "pose": "standing on the shore with the neck extended, side view",
-    "scene": "Korean coastal saline lagoon with shallow brackish water; no people, buildings or text",
+    "scene": "Korean coastal saline lagoon in spring with shallow brackish water, clear light; no people, buildings or text",
     "views": [
-      "adult, side view standing: long neck, slender red bill, pale pink breast and belly",
-      "adult, head detail: thin red bill on a long-necked profile"
-    ]
+      "adult breeding plumage (spring), side view standing with the neck extended: all-white head without a hood, long neck, long slender dark red bill, pale iris, pale grey back and wings, pale pink flush on breast and belly, dark red legs",
+      "adult, head detail in side view: long sloping forehead flowing into the long, thin red bill, pale iris, all-white head on a long neck"
+    ],
+    "build": "Medium-sized gull, 42–44cm, a little larger than Black-headed Gull, with a long neck often held extended when alert and a long sloping forehead that flows into the bill, giving a long-headed profile. Bill longer and slimmer than Black-headed Gull's. Legs fairly long, dark red. At rest the black wingtips extend beyond the tail. In flight the wing pattern resembles Black-headed Gull's: a white wedge along the leading edge of the outer wing and black tips to the primaries, with the head and neck projecting far forward.",
+    "avoid": [
+      "Do not paint a dark brown hood or a dark iris (Black-headed Gull, Chroicocephalus ridibundus).",
+      "Do not paint a short, round head or a stubby bill; the forehead slopes long into a long, slim bill.",
+      "Do not paint a bright orange bill or bright pink legs.",
+      "Do not paint a dark ear-spot on this breeding adult."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

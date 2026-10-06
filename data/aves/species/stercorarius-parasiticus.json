@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Parasitic Jaeger (Stercorarius parasiticus), adult: black head, brown back, white to slightly dusky belly, thick short bill, straight pointed central tail feathers projecting beyond the tail, black legs",
+    "subject": "Parasitic Jaeger (Stercorarius parasiticus), adult pale morph in breeding plumage, as seen at sea off Korea on spring and autumn passage: dark grey-brown cap reaching just below the eye; cheeks and neck sides white washed pale yellow; upperparts and wings uniform dark grey-brown; often a diffuse grey-brown breast band; belly white, vent grey-brown; tail dark with two straight, pointed central feathers projecting beyond it. Bill dark grey-black, rather slender, with a hooked tip; dark eye; legs and feet black.",
     "pose": "flying low over the sea, side view",
     "scene": "open sea off the Korean east coast; no people, buildings or text",
     "views": [
-      "adult, side view standing: black head, brown back, pale belly, thick short bill, black legs",
-      "adult, in flight from above: brown back, straight pointed central tail feathers projecting beyond the tail"
-    ]
+      "adult pale morph breeding, side view standing: dark grey-brown cap, yellowish-white cheeks and neck, uniform dark brown back and wings, white belly with a faint breast band, slender hooked dark bill, black legs",
+      "adult pale morph, in flight seen from above: uniform dark brown back and wings with white primary shafts, two short pointed central tail feathers projecting straight beyond the tail",
+      "adult dark morph, in flight seen from below: entirely dark brown body and underwing except a pale flash at the base of the primaries, pointed central tail feathers"
+    ],
+    "build": "Medium-sized, slim skua, about 46cm including the tail projection, roughly the length of a Black-tailed Gull but slimmer and falcon-like. Bill shorter than the head, fairly slender, with a hooked tip. Wings long, narrow and sharply pointed; tail wedge-shaped, with two straight, pointed central feathers extending a short way beyond the rest. Legs short and black. In flight a white flash on the outer primaries (white shafts above, a larger pale patch below); fast, agile pursuit of terns and gulls.",
+    "avoid": [
+      "Do not paint the whole head black like a hooded gull; only the cap is dark, the cheeks and neck are pale yellowish-white.",
+      "Do not paint broad, twisted, spoon-tipped tail feathers (Pomarine Jaeger) or very long thin streamers (Long-tailed Jaeger).",
+      "Do not paint a thick, heavy, pale-based bill (Pomarine Jaeger).",
+      "Do not paint grey gull-like upperparts or a yellow bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

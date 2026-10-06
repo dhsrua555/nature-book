@@ -54,13 +54,22 @@
     }
   ],
   "art": {
-    "subject": "Grey-backed Thrush (Turdus hortulorum), adult male: grey head, back, throat and upper breast, white lower breast and belly, orange flanks, dark grey wings and tail",
+    "subject": "Grey-backed Thrush (Turdus hortulorum), adult male in breeding plumage (late spring in Korea): head, nape, back, rump, throat and upper breast plain blue-grey; wings and tail darker slate-grey; flanks and sides of the lower breast bright orange-rufous; centre of the lower breast and belly white; undertail coverts white; bill yellow to orange-yellow; dark brown eye; pale pinkish-brown legs.",
     "pose": "perched on an oak branch, side view",
     "scene": "Korean deciduous forest with oaks in late spring; no people, buildings or text",
     "views": [
-      "adult male, side view perched: grey head, back and upper breast, orange flanks, white belly, dark grey wings and tail",
-      "adult female, side view perched: brown back, white belly, orange flanks, black spots on breast and flanks"
-    ]
+      "adult male, side view perched on an oak branch: plain blue-grey head, back and upper breast, darker slate wings and tail, orange-rufous flanks, white belly, yellow bill",
+      "adult female, side view perched: olive-brown upperparts, whitish throat with dark streaks at the sides, greyish-buff breast spotted black, orange flanks with dark spots, white belly"
+    ],
+    "build": "Medium-sized thrush, about 23cm: a little shorter than a Brown-eared Bulbul, plumper and shorter-tailed. Rounded head; perches upright on branches and stands more horizontally on the ground. Bill straight, slightly shorter than the head. Legs medium length, pale. At rest the wingtips reach about the base of the tail. Tail medium length, square-ended. Feeds on the forest floor by hopping and pausing; sings from the canopy.",
+    "avoid": [
+      "Do not paint a white supercilium; that is Eyebrowed Thrush.",
+      "Do not paint orange right across the breast; the male's breast is grey and the orange is only on the flanks.",
+      "Do not paint a black head and breast; that is the male Japanese Thrush.",
+      "Do not paint spots on the male's breast; only the female is spotted."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eurasian Crag Martin (Ptyonoprogne rupestris), adult (sexes alike, plumage similar year-round), as seen on spring passage in Korea: upperparts plain dull grey-brown from crown to rump, with no gloss and no white rump, the wings and tail slightly darker brown; chin and throat pale buffy-white finely speckled with dark grey-brown; breast and belly dull pale buff-brown, darkening to smoky brown on the flanks, vent and undertail coverts; no breast band; short, almost square dark brown tail with a row of small oval white spots on the inner webs of most tail feathers, visible only when the tail is spread; tiny black bill; dark brown eye; very short dull brownish legs.",
+    "pose": "perched on a rock ledge of a sea cliff, side view, wings folded",
+    "scene": "rocky sea cliff on a Korean offshore island in spring, grey rock with sparse grass and the sea below in clear daylight; no people, buildings or text",
+    "views": [],
+    "build": "A stocky, broad-winged martin, about sparrow length but bulkier than a Barn Swallow and without tail streamers. Large rounded head merging into the body with almost no neck; tiny flat bill with a wide gape. Wings long and fairly broad, reaching about the tail tip or slightly beyond at rest. Tail short and nearly square, only very slightly notched. Legs very short, so it sits low on rock ledges. Flight rather slow, with long glides close to cliff faces; from below, the dark brown underwing coverts contrast with paler grey-brown flight feathers, and the spread tail shows a band of white spots.",
+    "avoid": [
+      "Do not paint a dark breast band across white underparts; that is Sand Martin (Riparia riparia). Crag Martin is dusky buff-brown below with no band.",
+      "Do not give it a white rump or glossy blue-black upperparts (Asian House Martin).",
+      "Do not add tail streamers or a deep fork (Barn Swallow); the tail is short and nearly square.",
+      "Do not make the underparts clean white; they are buff-brown, darkest on the vent and undertail coverts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

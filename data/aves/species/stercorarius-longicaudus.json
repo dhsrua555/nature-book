@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Long-tailed Jaeger (Stercorarius longicaudus), adult in breeding plumage, as seen at sea off Korea on spring passage (May): neat black cap; cheeks and neck white with a faint yellowish wash on the neck sides; breast white, shading into grey-brown on the belly and vent, with no breast band; upperparts cold grey-brown, contrasting with blackish flight feathers; only the outer two primary shafts white, giving a tiny white flash on the upperwing; underwing dark without a white patch; central tail feathers forming very long, thin, pointed streamers; bill short, black and hooked; dark eye; legs blue-grey with black feet.",
+    "pose": "flying low and buoyantly over the sea, side view, the long tail streamers trailing",
+    "scene": "open sea off the Korean east coast in May, calm blue-grey water under a pale sky; no people, buildings or text",
+    "views": [],
+    "build": "Slender, tern-like jaeger, the smallest and most delicate jaeger, with a body smaller than a Black-headed Gull's, a small rounded head and slim chest. Bill short and fine, much shorter than the head, with a hooked tip. Legs short, blue-grey. Long, narrow wings and a buoyant, tern-like flight. Tail wedge-shaped, the two central feathers extending into very long, flexible streamers that may equal the body length.",
+    "avoid": [
+      "Do not paint a dark breast band or a large white flash at the base of the primaries; those suit Parasitic or Pomarine Jaeger.",
+      "Do not paint broad, twisted, spoon-shaped central tail feathers; that is Pomarine Jaeger (Stercorarius pomarinus).",
+      "Do not paint the upperwing uniformly dark; grey-brown coverts contrast with blackish flight feathers.",
+      "Do not give it a large, heavy gull-like bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

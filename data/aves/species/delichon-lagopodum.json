@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Siberian House Martin (Delichon lagopodum), adult (sexes alike), as seen in Korea on spring passage in May: crown, nape, mantle and scapulars glossy blue-black; wings and tail black; a large, pure white rump patch extending onto the uppertail coverts; chin, throat, underparts and undertail coverts pure white, cleanly divided from the dark head below the eye; tail clearly forked without streamers. Bill tiny and black; dark eye; legs and toes covered in white feathers.",
+    "pose": "hawking insects in flight over a headland with other swallows",
+    "scene": "rocky headland on a Korean offshore island in May, open sky and sea behind; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact martin, a little smaller and much shorter-tailed than a Barn Swallow, with broad-based triangular wings. Bill tiny and black. Legs short and feathered white to the toes. Tail black, clearly forked but without streamers. In flight the extensive white rump and snow-white underparts contrast strongly with the glossy blue-black upperparts.",
+    "avoid": [
+      "Do not paint dingy greyish underparts and a small rump with a shallow notch; that is Asian House Martin (Delichon dasypus).",
+      "Do not paint tail streamers or a red throat (Barn Swallow).",
+      "Do not paint brown upperparts and a breast band (Sand Martin, Riparia riparia).",
+      "Do not paint bare dark toes; the feet are feathered white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

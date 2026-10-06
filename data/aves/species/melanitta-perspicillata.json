@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Surf Scoter (Melanitta perspicillata), adult male in winter, as seen from November to April: plumage entirely black, with a white patch on the forehead and a larger white patch on the nape; no white anywhere in the wing. Bill large and swollen, boldly patterned: a white panel on each side at the base enclosing a round black spot, the rest of the bill orange to orange-red; iris white; legs and feet orange-red.",
+    "pose": "swimming in the surf near a rocky shore, side view",
+    "scene": "Korean east coast in winter, breaking surf and dark rocks under a cold sky; no people, buildings or text",
+    "views": [],
+    "build": "Medium-large, thickset sea duck, a little smaller than Velvet Scoter and bulkier than a Tufted Duck. Head large with a flat, sloping forehead running into a heavy, very deep-based bill, giving a triangular head-and-bill profile. Bill about as long as the head, swollen at the base in the male. Short legs set far back. In flight the wings are all dark with no white patch. Tail short and pointed, often held flat on the water.",
+    "avoid": [
+      "Do not add a white wing patch; that belongs to Velvet and Stejneger's Scoters.",
+      "Do not forget the white forehead and nape patches, which no other scoter has.",
+      "Do not paint a slim plain dark bill on the male; it is massive and boldly patterned, with a black spot on a white panel.",
+      "Do not paint a rounded head with a steep forehead; the forehead slopes into the bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

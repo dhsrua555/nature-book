@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "European Robin (Erithacus rubecula), adult (sexes alike, plumage similar year-round): forehead, face, throat and breast orange-red, bordered on the sides of the neck and breast by a band of blue-grey; crown, nape, back, wings and tail plain olive-brown; belly whitish; flanks buffish-brown; thin dark bill; large dark eye; slender brownish-pink legs.",
+    "pose": "perched upright on a low branch, side view",
+    "scene": "Korean woodland edge in winter with bare shrubs and leaf litter, soft low light; no people, buildings or text",
+    "views": [],
+    "build": "A small, plump, round-bodied chat, about sparrow size but rounder, with a large head, almost no visible neck and an upright stance on fairly long, slender legs. Bill thin, straight and short, much shorter than the head. Wings short, the tips reaching about the base of the tail. Tail medium, square, plain olive-brown, often flicked. Hops on the ground and bobs its body.",
+    "avoid": [
+      "Do not paint a rufous tail; the tail is olive-brown (Japanese Robin, Larvivora akahige, has a rufous tail).",
+      "Do not extend the orange-red onto the belly; the belly is whitish.",
+      "Do not omit the blue-grey border around the orange breast.",
+      "Do not paint a red throat with a white supercilium (Siberian Rubythroat)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

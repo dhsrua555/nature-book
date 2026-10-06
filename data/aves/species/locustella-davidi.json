@@ -24,10 +24,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Baikal Bush Warbler (Locustella davidi), adult in spring (May): upperparts uniform dark olive-brown without any streaks; narrow greyish-white supercilium; grey-brown ear-coverts; throat whitish with a variable band of small dark spots across the lower throat and upper breast; breast and flanks washed grey-brown, centre of the belly whitish; long undertail coverts brown with broad whitish tips that look scaly; tail plain dark brown. Bill fine and dark; dark eye; legs pinkish.",
     "pose": "perched low in shrubs at a forest edge, side view",
     "scene": "Korean forest edge with dense low shrubs; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Tiny, skulking bush warbler, 108–113 mm long, smaller than a sparrow. Round-bodied with a short neck, rounded head and short, rounded wings; at rest the wingtips barely pass the base of the tail. Bill thin, pointed and straight, shorter than the head. Legs fairly long and pinkish, with strong feet for gripping stems. Tail medium length, broad and rounded at the tip, with long undertail coverts reaching far along its underside. Creeps low in dense shrubs and rarely flies far.",
+    "avoid": [
+      "Do not streak the back or crown; the upperparts are plain, unlike Lanceolated Warbler (Locustella lanceolata).",
+      "Do not add wing-bars, a bold white supercilium or yellow tones; the bird is dull brown and grey.",
+      "Do not paint a long notched tail; the tail is broad and rounded.",
+      "Do not paint dark legs; they are pinkish."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

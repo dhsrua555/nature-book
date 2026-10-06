@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Upland Buzzard (Buteo hemilasius), adult pale morph, as seen over Korean farmland in winter: head whitish-buff with fine dark streaks; upperparts and upperwing coverts pale sandy-brown with darker feather centres; a large whitish patch at the base of the primaries on the upperwing; breast whitish-buff lightly streaked; belly and thighs dark brown, forming a dark lower belly and dark 'trousers'; underwing whitish with large blackish carpal patches and black wingtips; tail pale greyish-white, finely barred grey. Short hooked dark bill with a yellow cere; legs feathered on the front for more than half their length; bare toes yellow.",
     "pose": "flying low over open fields with supple wingbeats, searching for prey",
     "scene": "Korean winter open farmland and flat reclaimed land under a wide sky; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "The largest buzzard in Korea, clearly bigger and longer-winged than Eastern Buzzard, approaching a small eagle in bulk. Heavy body, rounded head, short hooked bill. Long, broad wings with well-fingered tips. Tail medium length, fan-shaped when spread. Soars and glides on wings raised in a shallow V, often hovers over fields, and flies with slow, supple, elastic wingbeats.",
+    "avoid": [
+      "Do not paint a white tail with a broad dark terminal band — that is Rough-legged Buzzard (Buteo lagopus).",
+      "Do not paint a dark brown head and an evenly barred brown tail like Eastern Buzzard (Buteo japonicus).",
+      "Do not paint fully bare legs; the front of the tarsus is feathered.",
+      "Do not paint an eagle with a long heavy bill or a long wedge-shaped tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

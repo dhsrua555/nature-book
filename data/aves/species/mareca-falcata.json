@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Falcated Duck (Mareca falcata), adult male: long glossy green crest on the head, small white spot on the forehead, white throat with a black collar, breast feathers edged black giving a scaly look, long drooping curved tertials covering the tail, yellow rear patch bordered with black",
+    "subject": "Falcated Duck (Mareca falcata), adult male in breeding plumage, as seen on Korean rivers from November to March: crown dark chestnut-bronze; sides of the head and a long, full mane of nape feathers glossy bottle-green; a small white spot on the forehead just above the bill; white chin and throat bordered below by a narrow black collar; breast grey with dense black crescent fringes giving a scaly look; flanks pale grey finely vermiculated; long, drooping, sickle-shaped black-and-grey tertials curving down over the tail; a creamy-yellow triangle on each side of the rear, bordered with black; undertail black. Black bill; dark eye; dark grey legs.",
     "pose": "swimming in a small flock, side view",
     "scene": "Korean winter: a broad river with farmland beyond the bank; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: glossy green crest, white forehead spot, white throat with black collar, scaly breast, drooping tertials, yellow rear patch edged black",
-      "adult female, side view: uniform brown with dark brown markings, black bill"
-    ]
+      "adult male, side view swimming: chestnut crown, long glossy green mane, small white forehead spot, white throat with a black collar, scaly grey breast, long drooping sickle tertials over the tail, black-bordered creamy-yellow rear patch, black bill",
+      "adult female, side view swimming: uniform brown with dark brown markings, plain greyish-brown head with a short mane, black bill"
+    ],
+    "build": "Medium-sized dabbling duck, about 48cm, a little smaller than a Mallard, with a large-looking maned head and a short neck. Bill black, slim, about as long as the head. Legs dark grey. The male's long, curved tertials hang down like sickles over the tail and rear flanks. Swims and up-ends in small flocks. In flight the male shows a pale grey forewing and a dark green speculum.",
+    "avoid": [
+      "Do not paint a rufous head with a cream forehead stripe; that is Eurasian Wigeon (Mareca penelope).",
+      "Do not put a white neck ring on a green head with a yellow bill; that is Mallard (Anas platyrhynchos).",
+      "Do not paint the tertials short or straight; they are long, curved and drooping over the tail.",
+      "Do not paint a chestnut breast; the breast is grey and scaly."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

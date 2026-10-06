@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Taiga Flycatcher (Ficedula albicilla), adult male on spring passage (May): crown, nape and back plain grey-brown; face and sides of the neck grey; a narrow whitish eye-ring; a small, sharply defined orange-red patch on the chin and throat, bordered below by a grey breast band; rest of the underparts off-white with a buffy-grey wash on the flanks; wings plain brown; uppertail coverts black; tail black with large white patches at the sides of its base; bill entirely black; dark eye; blackish legs.",
+    "pose": "perched on a low bare twig with its tail cocked up, showing the white tail sides, about to sally after an insect",
+    "scene": "Korean woodland edge with shrubs and fresh young leaves during spring migration in May, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small flycatcher, slightly smaller than a sparrow, with a rounded head, short neck, plump body and fairly long tail. Bill short, thin and entirely black, much shorter than the head. Legs short, blackish. Wings fairly short and plain, without wing bars. Habitually cocks the tail up and flicks it, often with the wings drooped, flashing the white bases of the outer tail feathers against the black tail and uppertail coverts.",
+    "avoid": [
+      "Do not spread the orange onto the breast like a robin — that is Red-breasted Flycatcher (Ficedula parva); here the orange is confined to the throat.",
+      "Do not paint brown uppertail coverts or a pale base to the lower mandible; in this species they are black.",
+      "Do not omit the white sides at the base of the black tail.",
+      "Do not add wing bars or a supercilium."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

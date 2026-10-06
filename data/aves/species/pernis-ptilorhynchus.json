@@ -26,10 +26,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Crested Honey Buzzard (Pernis ptilorhynchus), adult male of a common intermediate (rufous-brown) morph, as seen on autumn migration in Korea: face grey, crown and nape brown with at most a short tuft at the rear of the crown; throat pale buff with a dark central (mesial) stripe; upperparts and wings dark brown. Breast and belly rufous-brown with indistinct paler barring. Tail grey-brown and blackish: a broad black band near the tip and another broad dark band near the base, separated by a wide pale grey band. Iris dark red-brown; bill slender, dark, only slightly hooked, with a dark grey cere; lores covered with small, dense, scale-like feathers. Legs and feet yellow.",
     "pose": "perched on a branch at the forest edge, side view",
     "scene": "Korean autumn migration: a forest edge bordering open grassland; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Large, long-winged raptor, about the size of an Eastern Buzzard but slimmer, with a noticeably small, slender, pigeon-like head on a longish neck, a longer tail and a weak-looking bill. Perches upright and rather sleek. Legs short and stout, yellow, with strong feet used for digging out wasp nests. Tail long, slightly rounded at the corners. In flight the head projects far forward; wings long and broad with six fingered primaries, held flat or slightly bowed when soaring; the male shows a broad black trailing edge to the underwing and black wingtips.",
+    "avoid": [
+      "Do not paint a large, deep, eagle-like hooked bill or a big head; the head is small and pigeon-like and the bill slender.",
+      "Do not paint a long showy crest; birds passing through Korea show at most a short tuft at the rear of the crown.",
+      "Do not give the adult male a yellow iris (female trait); paint it dark red-brown.",
+      "Do not paint the tail with many narrow, even bars like Eastern Buzzard; the male has two broad dark bands widely separated."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

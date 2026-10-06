@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Great White Pelican (Pelecanus onocrotalus), adult outside the breeding season, on a Korean coastal lagoon: body and wing coverts white, sometimes faintly tinged pink; a short shaggy crest on the nape; at rest the black primaries and blackish secondaries show as a dark edge along the folded wing; bare facial skin around the eye pinkish-yellow, the feathered forehead ending in a point at the bill base; bill very long, bluish-grey with pinkish edges and a reddish hooked nail at the tip; pouch yellow; legs and feet pink.",
+    "pose": "swimming on open water with the neck upright, side view",
+    "scene": "large coastal lagoon with reed-fringed edges in Korea in late autumn (November), calm water and soft light; no people, buildings or text",
+    "views": [],
+    "build": "A huge waterbird, swan-sized or larger, with a heavy body, short legs and a long neck held in an S-curve when resting; swims high on the water. Bill straight and enormous, far longer than the head, with a small hooked nail at the tip and a large expandable pouch below. Legs short and stout, pink, all four toes fully webbed. In flight the head is drawn back and the bill rests on the neck; wings very long and broad, and from below the black primaries and secondaries contrast strongly with the white underwing coverts. Tail short and rounded.",
+    "avoid": [
+      "Do not paint grey legs or a silvery-grey bird with curly nape feathers — that is Dalmatian Pelican.",
+      "Do not paint white secondaries in flight; from below the whole rear half of the wing is black.",
+      "Do not paint a short, curved or raptor-like bill; the bill is very long and straight with only a small hooked nail and a big pouch.",
+      "Do not paint black on the body or tail; only the flight feathers are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -43,13 +43,22 @@
   "young": "어린새는 부리와 눈 주위가 녹색 띤 회색이고 다리는 녹색 띤 노란색이다. 몸 윗면에 녹색 광택이 거의 없고, 목에 작은 흰 점이 흩어져 있다.",
   "similar": [],
   "art": {
-    "subject": "Black Stork (Ciconia nigra), adult: black plumage with a green gloss, white breast and belly, red bill, red skin around the eye, red legs",
+    "subject": "Black Stork (Ciconia nigra), adult, sexes alike, in winter: head, neck, upper breast, back, wings and tail glossy black with green and purple sheen; lower breast, belly, thighs and undertail coverts pure white, sharply divided from the black upper breast, so that a standing bird shows a clean white belly under a black front; bill long, straight and bright red; bare red skin around the eye; dark eye; legs long and red.",
     "pose": "standing in shallow water at the edge of a paddy, searching for prey",
     "scene": "Korean winter wetland: a reservoir edge with shallow water and dry reeds beside fallow rice fields; no people, buildings or text",
     "views": [
-      "adult, side view standing: green-glossed black plumage, white breast and belly, red bill, red eye skin, red legs",
-      "juvenile, side view standing: greenish-grey bill and eye skin, greenish-yellow legs, small white spots on the neck, upperparts with little gloss"
-    ]
+      "adult, side view standing in shallow water: glossy green-and-purple black head, neck, breast, back and wings, sharply demarcated white lower breast and belly, long straight red bill, red skin around the eye, long red legs",
+      "juvenile, side view standing: dull brownish-black with little gloss, small white spots on the neck, white belly, greenish-grey bill and eye skin, greenish-yellow legs"
+    ],
+    "build": "Large, slender stork, about 95cm, roughly the height of a Grey Heron but more heavily built and shorter-necked. Bill long, straight, dagger-shaped and thick at the base, clearly longer than the head. Legs very long, red. At rest the long wings reach about the tail tip. Tail short and black. In flight the neck is stretched forward and the legs trail; wings long and broad with fingered tips, black above, black below with white triangular patches at the armpits joining the white belly.",
+    "avoid": [
+      "Do not paint a white neck, back or wing coverts; that is Oriental Stork (Ciconia boyciana).",
+      "Do not paint a curved bill; it is straight and dagger-like.",
+      "Do not draw it flying with the neck folded back like a heron; storks fly with the neck stretched out.",
+      "Do not paint black on the belly; the lower breast and belly are white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

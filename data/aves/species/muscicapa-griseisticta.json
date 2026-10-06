@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-streaked Flycatcher (Muscicapa griseisticta), adult: dark brownish-grey forehead and crown with dark shaft streaks, pale grey lores, ear coverts and cheeks mixed pale grey and brownish grey, dark brownish-grey upperparts, dark brown wings and tail, blackish-brown bill with a pale base to the lower mandible, brown iris, small blackish-brown legs with large claws",
+    "subject": "Grey-streaked Flycatcher (Muscicapa griseisticta), adult on passage (sexes alike): forehead and crown dark brownish-grey with fine dark shaft streaks; lores pale grey; a narrow whitish eye-ring; ear-coverts and cheeks mixed pale grey and brownish-grey; a thin dark malar line; upperparts dark brownish-grey; wings dark brown with a narrow whitish wing-bar and pale-edged tertials; tail dark brown; throat white; breast and flanks white with crisp, dark grey-brown streaks; belly and undertail coverts clean white; bill blackish-brown with a pale base to the lower mandible; brown eye; short blackish-brown legs.",
     "pose": "perched bolt upright on a bare dead branch near the treetop",
     "scene": "Korean woodland during spring or autumn migration, sparse-leaved branches at the top of a tree; no people, buildings or text",
     "views": [
-      "adult, side view perched upright: dark brownish-grey crown with dark shaft streaks, pale grey lores, dark brownish-grey upperparts, dark brown wings and tail, blackish-brown legs",
-      "adult, head from above: bill forming an isosceles triangle"
-    ]
+      "adult, side view perched upright on a bare twig: dark brownish-grey upperparts and streaked crown, pale grey lores, white underparts with crisp dark grey-brown streaks on breast and flanks, long wings reaching near the tail tip, dark brown tail, blackish-brown legs",
+      "adult, head seen from above: broad flat bill forming an isosceles triangle, dark brownish-grey crown with fine dark shaft streaks, pale grey lores"
+    ],
+    "build": "Small, upright flycatcher, about 13cm — about sparrow length but slimmer and longer-winged. Big rounded head and short neck. Bill short and flat, very broad at the base so that it forms an isosceles triangle seen from above. Legs short, blackish-brown, with relatively large claws. Wings very long: at rest the primary tips reach close to the tail tip. Tail medium-length and square. Sits bolt upright on bare dead twigs at the tops of trees and sallies out after flying insects, returning to the same perch.",
+    "avoid": [
+      "Do not leave the underparts plain; crisp dark streaks on the white breast and flanks separate it from Asian Brown Flycatcher (Muscicapa dauurica).",
+      "Do not paint a smudgy brown breast wash and pale half-collar — that is Dark-sided Flycatcher (Muscicapa sibirica).",
+      "Do not paint short wings; the primaries reach close to the tail tip.",
+      "Do not paint pale or pinkish legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

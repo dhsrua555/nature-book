@@ -41,13 +41,21 @@
     }
   ],
   "art": {
-    "subject": "American Black Duck (Anas rubripes), adult: blackish-brown plumage overall, white lower edge to the secondaries, olive or greenish bill",
+    "subject": "American Black Duck (Anas rubripes), adult male: body very dark blackish brown with fine paler buff fringes; head and neck paler greyish buff, finely streaked dark, with a darker crown and a dark line through the eye, contrasting with the dark body; speculum glossy violet-blue, bordered black, with at most a thin white line along its rear edge and no white bar in front; white underwing coverts, conspicuous in flight. Unmarked yellow to greenish-yellow bill; dark eye; orange-red legs and feet.",
     "pose": "swimming at the edge of a pond, side view",
     "scene": "Korean coastal wetland: a pond and grassy waterside near an estuary; no people, buildings or text",
     "views": [
-      "adult, side view swimming: blackish-brown body, olive-green bill",
-      "adult, wing detail: secondaries with a white lower edge"
-    ]
+      "adult male, side view swimming: blackish-brown body, paler greyish-buff streaked head and neck with a dark crown and eye-stripe, unmarked greenish-yellow bill, no white on the tertials",
+      "adult, wing detail spread from above: violet-blue speculum bordered black, only a thin white line along the rear edge of the secondaries, no white bar in front of the speculum"
+    ],
+    "build": "Large dabbling duck, 48–56cm, the size and shape of a Mallard; heavy body, rounded head and medium neck. Bill flat and broad, about as long as the head. Legs orange-red, set midway under the body. In flight the very dark body and upperwing contrast sharply with the bright white underwing. Female like the male, but the bill dull olive-green with dark mottling and the legs duller orange-brown.",
+    "avoid": [
+      "Do not give it a black bill with a yellow tip, a dark cheek stripe or white tertials; those mark the Eastern Spot-billed Duck (Anas zonorhyncha).",
+      "Do not paint white bars on both sides of the speculum or a pale mottled brown body (female Mallard).",
+      "Do not paint a green head; males have no bright breeding colours like a Mallard drake."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

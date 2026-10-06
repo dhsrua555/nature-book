@@ -46,13 +46,23 @@
     }
   ],
   "art": {
-    "subject": "Wood Sandpiper (Tringa glareola), adult: bold white supercilium, grey-brown upperparts scattered with large white and black spots, yellow legs",
+    "subject": "Wood Sandpiper (Tringa glareola), adult in breeding plumage as seen in flooded Korean rice fields in late April and May: crown dark brown, finely streaked; a long, bold white supercilium running from the bill to well behind the eye, above a dark loral and eye stripe; upperparts dark brown densely spangled with large whitish and blackish spots and notches; neck and breast whitish, finely streaked grey-brown, the flanks lightly barred; belly and undertail white; white rump; tail white with fine dark bars. Bill dark, slightly paler olive at the base; dark eye; legs yellow to greenish-yellow.",
     "pose": "wading in shallow water, picking insects from the surface",
     "scene": "Korean spring wetland: flooded rice paddies with shallow standing water beside a stream; no people, buildings or text",
     "views": [
-      "adult, side view standing: white supercilium, grey-brown upperparts spotted white and black, yellow legs",
-      "adult in flight from below: whitish underwing"
-    ]
+      "adult breeding plumage (late April–May), side view standing in shallow water: long white supercilium extending behind the eye, dark brown upperparts densely spotted white and black, finely streaked whitish breast, white belly, yellow legs",
+      "in flight seen from below: pale greyish-white underwing, white belly, finely barred tail, yellow toes projecting well beyond the tail",
+      "in flight seen from above: plain brown wings without a wing-bar, square white rump, white tail with fine dark bars"
+    ],
+    "build": "Slim, elegant small Tringa, about 22cm, about the length of a Common Starling but slimmer, longer-necked and much longer-legged than Common Sandpiper; stands fairly upright. Bill straight, fine and fairly short, about as long as the head or slightly longer. Legs long, yellowish, with bare tibia; in flight the toes project clearly beyond the tail. At rest the wingtips reach about the tail tip. In flight the wings are brown with no wing-bar, the underwing is pale greyish-white, the white rump is square and the tail finely barred.",
+    "avoid": [
+      "Do not paint a blackish underwing or a blackish back with a supercilium stopping at the eye — those are Green Sandpiper features.",
+      "Do not paint grey, black or red legs; the legs are yellowish.",
+      "Do not add a white wing-bar or a white wedge in front of the folded wing (Common Sandpiper).",
+      "Do not make it large and heavy-billed like a Greenshank, or give it a long needle bill like Marsh Sandpiper."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

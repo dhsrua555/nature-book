@@ -62,14 +62,24 @@
   "young": "어린새는 온몸이 갈색이고 다리가 분홍색이며, 부리는 분홍색에 끝이 검다.",
   "similar": [],
   "art": {
-    "subject": "Black-tailed Gull (Larus crassirostris), adult: white body, dark grey back and wing coverts, yellow bill with red tip, yellow eye with red eye-ring, yellow feet, black band at the tail tip",
+    "subject": "Black-tailed Gull (Larus crassirostris), adult in breeding plumage (spring and summer at Korean island colonies): head, neck, underparts and rump pure white; mantle and upperwing dark slate-grey; folded primaries black with tiny white tips or none; a narrow white trailing edge to the inner wing; tail white with a broad black band near the end and a thin white tip; bill yellow with a black band near the tip and a red tip beyond it; pale yellow iris with a red orbital ring; yellow legs and feet.",
     "pose": "standing on a rocky islet among a breeding colony, side view",
     "scene": "Korean uninhabited islet off the west coast in spring, rocky slopes with patches of grass; no people, buildings or text",
     "views": [
-      "adult, side view standing: white body, dark grey back, yellow bill with red tip, yellow eye with red eye-ring, yellow feet",
-      "adult in flight: black band across the tail tip",
-      "juvenile, side view standing: all-brown plumage, pink legs, pink bill with black tip"
-    ]
+      "adult breeding plumage, side view standing: white head and body, dark slate-grey back and wings, black wingtips projecting beyond the tail, yellow bill with a black band and a red tip, yellow eye with red orbital ring, yellow legs",
+      "adult winter plumage (October to February), side view standing: as in breeding plumage, but the hindcrown and nape streaked grey-brown",
+      "adult in flight seen from above, head, body and tail in line: dark grey upperwing with black outer primaries and a white trailing edge, white rump, white tail with a broad black band near the tip",
+      "juvenile, side view standing: dark chocolate-brown all over with paler fringes on the back and wings, paler around the bill base, pink bill with a black tip, pink legs"
+    ],
+    "build": "Medium-sized gull, clearly larger than a feral pigeon and smaller than the big white-headed gulls such as Vega Gull; slim, long-winged and elegant, with a gently rounded head. Bill fairly long and parallel-sided, about as long as the head, with a slight angle on the lower mandible. Legs medium length, yellow. At rest the long black wingtips project well beyond the tail. Tail square, white with a broad black band. In flight long narrow wings, dark grey above with black outer primaries and a white trailing edge.",
+    "avoid": [
+      "Do not paint a yellow bill with just a red spot near the tip, as in Vega or Slaty-backed Gull; this species has a black band and a red tip.",
+      "Do not paint an all-white tail; the adult has a broad black tail band.",
+      "Do not paint pale grey upperparts like Common or Vega Gull; the back is dark slate-grey.",
+      "Do not give adults pink legs or a dark eye; legs are yellow and the eye pale yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -39,13 +39,22 @@
     }
   ],
   "art": {
-    "subject": "Lesser Cuckoo (Cuculus poliocephalus), adult: a small cuckoo with bold, well-defined black markings on the belly",
+    "subject": "Lesser Cuckoo (Cuculus poliocephalus), adult male as seen in Korean forests and forest edges from May to August: head, neck, throat and upper breast grey; upperparts dark slate-grey; wings dark grey-brown; lower breast and belly white, often with a faint buff tinge, crossed by bold, broad, widely spaced black bars; vent and undertail coverts buffish with few or no bars; tail long, dark grey-black, tipped white. Bill dark with a yellow base; dark brown iris with a yellow eye-ring; legs yellow.",
     "pose": "perched on a branch at a forest edge",
     "scene": "Korean forest edge opening onto open country; no people, buildings or text",
     "views": [
-      "adult, side view perched: small cuckoo with bold black belly markings",
-      "adult, underparts detail: black belly markings thicker and more distinct than in Common Cuckoo"
-    ]
+      "adult male, side view perched: small slim cuckoo, grey head and upper breast, dark slate-grey upperparts, white belly with bold, broad, widely spaced black bars, dark eye with a yellow eye-ring, yellow legs",
+      "adult, underparts close-up from the front: grey upper breast sharply cut off from the white lower breast and belly, which carry bold black bars thicker and more widely spaced than in Common Cuckoo, buffish vent with few bars"
+    ],
+    "build": "Small, slim cuckoo, 28cm, about the length of a Brown-eared Bulbul and clearly smaller and slighter than a Common Cuckoo; long pointed wings and a long, graduated tail; perches horizontally with drooped wings. Bill short and slightly decurved. Legs short, yellow, with two toes forward and two back. The long tail extends well beyond the wingtips. Flight fast and direct, like a small falcon.",
+    "avoid": [
+      "Do not paint a yellow or red iris; Lesser Cuckoo has a dark eye with a yellow eye-ring (Common Cuckoo's eye is yellow).",
+      "Do not paint fine, dense, narrow barring like a Common Cuckoo's; the bars are bold and widely spaced.",
+      "Do not make it large or bulky; it is clearly smaller than a Common Cuckoo.",
+      "Do not paint a broad black subterminal tail band (Indian Cuckoo)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -36,13 +36,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Whiskered Tern (Chlidonias hybrida), adult: black forehead, crown and nape, narrow white stripe running below the eye from the lores to the ear coverts",
+    "subject": "Whiskered Tern (Chlidonias hybrida), adult in breeding plumage, as seen on Korean marshes in May: black cap from the forehead and lores to the nape, sharply bordered below by a white stripe (the whiskers) running from the gape under the eye back to the sides of the nape; chin and throat whitish shading into grey; upperparts, wings and tail medium grey; breast grey darkening to sooty grey on the belly; undertail coverts white; short dark red bill; dark eye; short dark red legs.",
     "pose": "perched on floating vegetation, side view",
-    "scene": "marshy wetland and a slow river covered with floating plants; no people, buildings or text",
+    "scene": "Korean freshwater marsh and slow river with floating water plants in May, during spring passage; no people, buildings or text",
     "views": [
-      "adult, side view perched: black cap from forehead to nape, narrow white stripe below the eye",
-      "adult, head detail: narrow white streak from the lores to the ear coverts"
-    ]
+      "adult breeding, side view perched on floating vegetation: black cap from forehead to nape, white cheek stripe below it, grey upperparts, dark sooty-grey belly, white undertail, dark red bill and legs, wingtips beyond the short tail",
+      "adult breeding, head detail in side view: black forehead, crown and nape, narrow white stripe from the gape and lores below the eye back to the ear coverts and nape side, dark red bill",
+      "adult breeding in flight, seen from below, head, body and tail in line: pale underwing contrasting with the dark grey belly, white undertail coverts, short shallowly forked tail"
+    ],
+    "build": "Small, compact marsh tern, 23-25cm, with a body about the size of a Common Starling's and long pointed wings; smaller and stockier than Common Tern. Bill dagger-shaped, fairly stout for a marsh tern, a little shorter than the head. Legs very short, dark red. At rest the wingtips project beyond the tail. Tail short and grey, only shallowly forked, without streamers. Flight buoyant, dipping to pick food from the water surface; the pale underwing contrasts with the dark belly.",
+    "avoid": [
+      "Do not paint a jet-black head and body with a white forewing - that is White-winged Tern (Chlidonias leucopterus).",
+      "Do not give it long tail streamers or a deep fork (Common Tern).",
+      "Do not paint white underparts on the breeding bird; the belly is sooty grey.",
+      "Do not paint an orange or yellow bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

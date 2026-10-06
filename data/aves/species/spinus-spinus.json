@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Siskin (Spinus spinus), adult male winter: black forehead and crown, black chin and centre of throat, yellow-green nape, back, scapulars, rump and breast, greyish-green flanks with blackish-brown streaks, white belly, undertail coverts yellow at the base and white at the tips with faint dark marks, brown bill and legs",
+    "subject": "Eurasian Siskin (Spinus spinus), adult male in winter, as seen in Korean conifer and alder woods from October to March: forehead and crown black, forming a neat cap; a small black chin patch; yellow supercilium and yellow around the olive-green ear-coverts; nape, mantle and scapulars yellow-green with fine dark streaks; rump bright yellow; throat sides and breast yellow-green; belly white; flanks greyish-green streaked blackish-brown; undertail coverts yellow at the base with white tips and faint dark marks; wings black with broad yellow wing bars and yellow bases to the flight feathers; tail black, notched, with yellow sides at the base. Slender pointed bill pale horn-brown with a darker tip; dark eye; dark brown legs.",
     "pose": "clinging to an alder twig, picking at seeds",
     "scene": "Korean winter conifer woodland and alder grove; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: black crown and chin, yellow-green upperparts and breast, streaked greyish-green flanks, white belly",
-      "adult male winter, underside detail: undertail coverts yellow at the base and white at the tips"
-    ]
+      "adult male, winter, side view perched: black cap and small black chin, yellow supercilium, yellow-green upperparts and breast, streaked greyish-green flanks, white belly, black wings with broad yellow bars, notched black tail with yellow sides, slender brown bill and legs",
+      "adult male, winter, underside seen from below while hanging on an alder cone, head and body in line: white belly, streaked flanks, undertail coverts yellow at the base and white at the tips with faint dark marks",
+      "adult female, winter, side view perched: no black cap or chin, grey-green upperparts streaked dark, whitish underparts heavily streaked, yellow wing bars"
+    ],
+    "build": "Very small finch, 12.5cm, clearly smaller and slimmer than a sparrow; acrobatic, often hanging upside down from alder cones and conifer twigs in flocks. Bill fine, sharply pointed and conical, shorter than the head and much slimmer than most finches'. Legs short, dark brown. At rest the wingtips reach onto the tail. Tail short and deeply notched. In flight the yellow wing bars, yellow rump and yellow tail sides flash.",
+    "avoid": [
+      "Do not let the black spread over the face, nape or throat; it is limited to the forehead, crown and a small chin patch.",
+      "Do not give it a thick, deep finch bill; the bill is fine and pointed.",
+      "Do not paint the female with a black cap.",
+      "Do not paint any red on the head (redpoll or goldfinch)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pied Wheatear (Oenanthe pleschanka), adult male in summer: white crown and nape, black face and throat joining the black mantle and wings, white rump and tail with a black T-shaped pattern on the tail",
+    "subject": "Pied Wheatear (Oenanthe pleschanka), adult male in summer plumage, as seen in Korea on spring migration (May): crown and nape white to greyish-white; black face, chin and throat that join the black of the mantle, scapulars and wings down the neck sides; underparts white with a warm buff wash on the breast; rump and uppertail coverts white; tail white with black central feathers and a narrow, uneven black terminal band, forming an inverted T. Bill black; dark eye; legs black.",
     "pose": "perched on a low shrub branch, ready to dart down to the ground after insects",
     "scene": "open sandy ground and farmland near the Korean coast; no people, buildings or text",
     "views": [
-      "adult male in summer, side view perched: white crown and nape, black face and throat, black mantle and wings",
-      "adult, tail spread from above: white rump and tail with a black T-shaped pattern"
-    ]
+      "adult male in summer, side view perched on a shrub: white crown and nape, black face and throat joining the black mantle and wings, white underparts with a buff breast",
+      "adult, tail spread from above: white rump and tail with black central feathers and a narrow, uneven black terminal band forming a T"
+    ],
+    "build": "Slim wheatear, 14.5 cm, about sparrow-sized but longer-legged and more upright. Bill thin, straight and black, shorter than the head. Legs long and black. Wings long and pointed. Tail fairly short. Perches on top of low shrubs and stones, bobbing, then drops to the ground for insects. In flight the black wings and mantle contrast with the white rump and tail.",
+    "avoid": [
+      "Do not paint a grey mantle; that is Northern Wheatear (Oenanthe oenanthe).",
+      "Do not paint a sandy mantle or an almost all-black tail; that is Desert Wheatear (Oenanthe deserti).",
+      "Do not give the male a black crown; the crown and nape are white.",
+      "Do not separate the black throat from the black wings with a white neck patch."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

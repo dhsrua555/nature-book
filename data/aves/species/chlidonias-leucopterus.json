@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-winged Tern (Chlidonias leucopterus), adult breeding: black head, neck, mantle and belly, grey lower back and rump, white uppertail coverts and tail, red bill",
+    "subject": "White-winged Tern (Chlidonias leucopterus), adult in breeding plumage, as seen on Korean coastal wetlands in May: head, neck, breast and belly jet black; mantle and back blackish-grey; lesser and median wing coverts white, forming a white forewing that contrasts with the black body; flight feathers pale grey; rump and uppertail coverts white; tail very pale grey to white; underwing coverts black; undertail white; short dark red bill that can look blackish; dark eye; short bright red legs.",
     "pose": "flying low over shallow water, side view",
-    "scene": "Korean coastal wetland near a river mouth, shallow water with aquatic plants; no people, buildings or text",
+    "scene": "Korean coastal wetland near a river mouth in May, shallow water with aquatic plants; no people, buildings or text",
     "views": [
-      "adult breeding, side view perched: black head, neck, mantle and belly, grey lower back and rump, white tail, red bill",
-      "adult winter, side view perched: white head with black marks on crown and upper neck, white belly, black bill"
-    ]
+      "adult breeding, side view perched: jet-black head, neck, breast and belly, blackish-grey back, white forewing, white rump and tail, short dark red bill, red legs",
+      "adult non-breeding (late summer and autumn), side view perched: white forehead and face, black ear spot joined to a dark rear crown and upper neck, grey back, pale rump and white tail, white underparts, black bill",
+      "adult breeding in flight, seen from below, head, body and tail in line: black underwing coverts and black body contrasting with pale grey flight feathers and white tail"
+    ],
+    "build": "Small, compact marsh tern, about 25cm, slightly smaller and shorter-billed than Whiskered Tern; body about starling-sized with long, broad-based pointed wings. Bill short and fairly fine, clearly shorter than the head. Legs very short, red. At rest the wingtips project beyond the tail. Tail short and almost square, only slightly notched. Flight light and buoyant, dipping to the water surface.",
+    "avoid": [
+      "Do not paint white cheeks under a black cap - that is Whiskered Tern; the breeding White-winged Tern's whole head is black.",
+      "Do not paint black or grey upperwing coverts; the forewing is white.",
+      "Do not paint a forked tail with streamers; the tail is short and nearly square.",
+      "Do not paint a dark smudge on the breast sides of the non-breeding bird - that marks Black Tern (Chlidonias niger)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

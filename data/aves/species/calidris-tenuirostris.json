@@ -51,14 +51,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Great Knot (Calidris tenuirostris), adult breeding: bill longer than the head, blackish-brown upperparts with rufous scapular markings, small black spots on neck, chin and throat, black spots on breast and flanks",
+    "subject": "Great Knot (Calidris tenuirostris), adult in breeding plumage, as seen on Korean west-coast tidal flats in April–May: head and hindneck whitish, densely streaked blackish; chin, throat and foreneck with small black spots; mantle blackish with whitish fringes; scapulars blackish with bright chestnut-rufous markings forming a contrasting rufous patch on each shoulder; wing coverts greyer; breast densely covered with large black spots merging into a dark breast band, with black chevron spots continuing along the flanks; belly and undertail white. Bill black. Dark eye. Legs dull dark grey-green.",
     "pose": "feeding in a dense flock on wet mudflat, probing for worms and shellfish",
     "scene": "Korean west-coast tidal flat during spring migration, wide wet mud with shallow channels; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: long bill, blackish-brown upperparts with rufous scapulars, black spots on breast and flanks",
-      "adult winter, side view standing: grey upperparts",
-      "adult in flight: conspicuous white rump"
-    ]
+      "adult breeding (April–May), side view standing: long black bill, black-streaked whitish head, black-spotted throat, dense black spotting forming a breast band and chevrons on the flanks, blackish upperparts with chestnut scapular patches, white belly",
+      "adult winter (non-breeding), side view standing: plain grey upperparts with fine dark shaft streaks, whitish face, grey breast with fine dark spots, white belly, same long bill",
+      "adult in flight seen from above, head, body and tail in one line: grey-brown upperwing with a faint thin white wing-bar, conspicuous white rump contrasting with the darker tail"
+    ],
+    "build": "Large, heavy-bodied sandpiper, 28cm, much bigger than a Dunlin and slightly larger and longer-winged than Red Knot; small head, deep chest, rather short legs, horizontal stance. Bill black, longer than the head, fairly thick at the base, straight with a slight droop towards the tip. Legs dark grey-green, short to medium. Long wings: at rest the wingtips project slightly beyond the tail tip, giving a long-rear look. In flight a faint narrow white wing-bar and a white rump contrasting with the grey-brown tail. Usually in dense, tightly packed flocks.",
+    "avoid": [
+      "Do not paint a brick-red face and breast — that is Red Knot (Calidris canutus); the Great Knot's breast is black-spotted on white.",
+      "Do not paint the whole back rufous; the rufous is limited to the scapulars.",
+      "Do not paint a short bill; it is clearly longer than the head, unlike Red Knot's.",
+      "Do not paint yellow or orange legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

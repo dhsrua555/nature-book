@@ -40,13 +40,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Masked Booby (Sula dactylatra), adult: stocky seabird with black tail and wingtips, stout pink or orange bill",
+    "subject": "Masked Booby (Sula dactylatra), adult: head, neck, body and wing coverts white; all flight feathers and the tertials blackish-brown, forming a black trailing half to the wing; tail black; bare skin around the bill base, face and throat black, forming a dark mask. Bill stout and yellow (bright yellow in males, duller greenish-yellow in females); iris yellow; legs and feet dark olive-grey.",
     "pose": "standing on a rocky island ledge, side view",
     "scene": "tropical sea around a small rocky island; no people, buildings or text",
     "views": [
-      "adult, side view standing: stocky body, black tail and wingtips, stout pink or orange bill",
-      "adult breeding, head detail: bluish bill"
-    ]
+      "adult, side view standing: white body, black mask of bare skin around the face, stout yellow bill, yellow eye, black flight feathers and tertials folded along the side, black wedge-shaped tail, dark olive-grey feet",
+      "adult, flight seen from below: white body and underwing coverts, black trailing edge running the full length of the wing and black wingtips, black pointed tail, yellow bill and black face mask"
+    ],
+    "build": "Largest booby, about 81cm, a large, heavy, cigar-shaped seabird bigger than a Black-tailed Gull, with a thick neck and conical head. Bill about as long as the head, stout and conical, tapering to a sharp point, with no visible nostrils. Legs short, feet large and webbed. In flight long, pointed wings, white with a broad black trailing edge along their whole length and black tips; tail pointed, wedge-shaped and black. Plunge-dives from the air for fish.",
+    "avoid": [
+      "Do not paint a pink, orange or blue bill; the adult bill is yellow (an orange-pink bill belongs to Nazca Booby, Sula granti).",
+      "Do not paint red or blue feet; the feet are dark olive-grey.",
+      "Do not give it a white tail; the tail is black (white-morph Red-footed Booby has a white tail).",
+      "Do not restrict the black to the wingtips; all the flight feathers are black, forming a black trailing half to the wing."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

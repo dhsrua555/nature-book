@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ferruginous Duck (Aythya nyroca), adult male: reddish-brown overall, black back, black bill, white lower belly and undertail, white eye",
+    "subject": "Ferruginous Duck (Aythya nyroca), adult male in winter, as seen in Korea from October to February: head, neck, breast and flanks rich dark chestnut (mahogany), glossy and uniform; back and wings blackish-brown; a sharply defined pure white patch on the undertail coverts; lower belly white, mostly hidden on the water; iris white; bill dark slate-grey to blackish with a black nail and a paler grey band near the tip; legs grey.",
     "pose": "swimming low on open water just before a dive",
     "scene": "Korean winter river mouth with wide open water and a clear view; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: reddish-brown overall, black back, black bill, white eye, white lower belly and undertail",
-      "adult female, side view swimming: darker reddish-brown overall, dark brown eye"
-    ]
+      "adult male, side view swimming: uniform rich chestnut head, breast and flanks, blackish-brown back, white iris, dark grey bill with black nail, bright white undertail coverts",
+      "adult female, side view swimming: duller, darker chestnut-brown overall, dark brown iris, blackish-brown back, white undertail coverts"
+    ],
+    "build": "Small, compact diving duck, about the size of a Tufted Duck, with a tall, rounded head peaked on the crown and no tuft. Bill broad, dark, a little shorter than the head. Legs short, grey, set far back. At rest the wingtips reach about the tail base. Tail short, often held slightly raised so that the white undertail shows. In flight a broad bright white wing-bar across almost all the flight feathers and a white belly patch.",
+    "avoid": [
+      "Do not paint a green-glossed blackish head (Baer's Pochard) or a red eye with a grey back (Common Pochard).",
+      "Do not paint white or grey flanks; the flanks are chestnut like the breast.",
+      "Do not give it a tuft or crest (Tufted Duck).",
+      "Do not paint a white iris on the female; hers is dark brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

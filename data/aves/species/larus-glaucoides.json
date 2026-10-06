@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Iceland Gull (Larus glaucoides): rounded crown, dark brown iris, short bill with a weak gonys angle and a black tip fading gradually into an apricot base, primaries projecting well beyond the tail, short legs",
+    "subject": "Iceland Gull (Larus glaucoides), first-winter, as seen on Korean coasts in winter (December–March): whole bird very pale, creamy-white to pale buff-grey, finely and evenly mottled pale brown on the back and wing coverts; head and underparts almost plain pale buffy-white; primaries whitish, as pale as or paler than the rest of the wing; tail pale with faint brown mottling; bill short, black on the outer part blending gradually into a pinkish-apricot base; iris dark brown; legs pink.",
     "pose": "standing with wings folded, side view",
-    "scene": "TODO",
+    "scene": "Korean east-coast sandy shore in winter (January), grey sea and wet sand under an overcast sky; no people, buildings or text",
     "views": [
-      "side view standing: rounded head, short bill with black tip blending into an apricot base, dark iris, long primary projection beyond the tail, short legs",
-      "head detail: rounded crown, short bill with gradual black-to-apricot tip, dark brown iris"
-    ]
+      "first-winter, side view standing: rounded head, very pale creamy plumage finely mottled pale brown, whitish primaries projecting well beyond the tail, short bill with a black outer part blending into an apricot base, dark brown iris, short pink legs",
+      "first-winter, head detail in profile: domed rounded crown, short bill with a weak gonys angle, black tip fading gradually into an apricot-pink base, dark brown iris"
+    ],
+    "build": "Medium-large white-winged gull, clearly smaller and slimmer than Glaucous Gull and a little smaller than Vega Gull, with a gentle expression. Head small and rounded with a domed crown. Bill short and fairly slender, with only a weak gonys angle. Legs short, so the bird sits low. Wings long: at rest the folded primaries project well beyond the tail tip. In flight the wings look all pale with no dark tips.",
+    "avoid": [
+      "Do not paint a large pink bill with a sharply cut-off black tip; that is Glaucous Gull (Larus hyperboreus), which also has a flat crown and short primary projection.",
+      "Do not paint black or dark grey wingtips; the primaries are whitish.",
+      "Do not paint long legs or a large, angular head.",
+      "Do not give it an adult yellow bill with a red spot or a pale iris; the bird shown is first-winter."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

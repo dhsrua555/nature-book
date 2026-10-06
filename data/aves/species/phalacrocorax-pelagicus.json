@@ -58,13 +58,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pelagic Cormorant (Phalacrocorax pelagicus), adult breeding: black with a green gloss overall, slender head and thin bill, tufts on crown and hindcrown, extensive red bare skin around the eye, white thigh patch",
+    "subject": "Pelagic Cormorant (Phalacrocorax pelagicus), adult in breeding plumage, as seen on Korean island sea cliffs from February to May: plumage entirely black with a strong metallic gloss, greenish on the body and purplish on the slender neck; two short, ragged tufts, one on the forecrown and one on the hindcrown; a small patch of dull red bare skin on the face around the base of the bill and on the chin; a conspicuous white oval patch on each flank just above the thigh. Back and wings glossy black without brown scaling. Bill very thin and dark. Legs and webbed feet black.",
     "pose": "standing on a ledge of a sea cliff",
     "scene": "Korean west-coast island: steep sea cliffs with rock ledges streaked white with droppings; no people, buildings or text",
     "views": [
-      "adult breeding, side view perched: tufts on crown and hindcrown, red bare skin around the eye, white thigh patch, green-glossed black body",
-      "adult non-breeding, side view perched: no crests or white thigh patch, red skin around the eye very small so the face looks all dark"
-    ]
+      "adult breeding (February–May), side view perched upright: forecrown and hindcrown tufts, dull red facial skin at the bill base, white flank patch above the thigh, green-glossed black body, thin bill",
+      "adult non-breeding, side view perched: no crests and no white flank patch, red facial skin reduced so the face looks all dark, thin bill, slender neck"
+    ],
+    "build": "Medium-sized, slender cormorant, about 73cm, obviously smaller and slimmer than Temminck's and Great Cormorants. Small head and thin, snake-like neck; bill notably thin and straight with a small hook at the tip, about as long as the head. Legs short and black, set far back, the feet fully webbed. Perches upright on rock ledges, often holding the wings out to dry. Tail fairly long and rounded, projecting well beyond the wingtips at rest. In flight the neck is held straight and thin, the head looks tiny and the wingbeats are rapid.",
+    "avoid": [
+      "Do not paint a yellow chin pouch or white cheeks — those mark Temminck's and Great Cormorants.",
+      "Do not paint brown, black-edged scaly wing coverts (Great and Temminck's Cormorants); this species looks uniformly glossy black.",
+      "Do not paint a thick, heavy bill or a bulky head.",
+      "Do not paint a large bright red face reaching over the forehead (Red-faced Cormorant)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

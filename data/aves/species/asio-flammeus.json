@@ -43,13 +43,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Short-eared Owl (Asio flammeus), adult: tawny-buff overall with many bold brown streaks, very short ear tufts barely visible, yellow eyes, black tips to the underwing",
+    "subject": "Short-eared Owl (Asio flammeus), adult (sexes similar), as seen over Korean grasslands and marshes in winter: overall tawny-buff; pale buff-white facial disc with black patches surrounding the eyes; upperparts buff heavily blotched and streaked dark brown; breast boldly streaked dark brown, the streaks becoming fine and sparse on the paler, whitish-buff belly, with no cross-bars. Bill blackish; eyes yellow; legs and feet feathered buff.",
     "pose": "perched low on a grassy tussock in open marsh",
     "scene": "Korean winter wetland and grassland with dry grasses and reeds; no people, buildings or text",
     "views": [
-      "adult, side view perched: tawny-buff with bold brown streaks, tiny ear tufts, yellow eyes",
-      "adult, flight view from below: black tips to the underwing, streaked tawny-buff body"
-    ]
+      "adult, side view perched on a low tussock: tawny-buff body with bold brown streaks, rounded head with tiny ear tufts barely showing, yellow eyes set in black patches",
+      "adult in flight, seen from below: pale underwing with black carpal crescent and black wingtips, streaked breast, whitish lower belly, barred tail"
+    ],
+    "build": "Medium-sized owl, 33–43cm, about the size of a feral pigeon or a little larger, with a rounded head and tiny ear tufts that are usually invisible. Bill short and hooked. Long, rather narrow wings: from below the underwing is whitish with a black carpal crescent and black wingtips; from above a buff patch at the base of the primaries, a dark carpal patch and a white trailing edge; tail barred. Flies low over open ground with floppy wingbeats and glides on wings held in a shallow V. Perches low on the ground or on posts.",
+    "avoid": [
+      "Do not paint long ear tufts or orange eyes; those belong to Long-eared Owl (Asio otus).",
+      "Do not paint fine cross-bars on the belly streaks (Long-eared Owl).",
+      "Do not perch it high in dense forest; it hunts and rests in open grassland and marsh.",
+      "Do not paint dark eyes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

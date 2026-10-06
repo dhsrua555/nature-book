@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Mistle Thrush (Turdus viscivorus), adult (sexes alike) in winter: upperparts plain pale greyish-brown; face pale with dark marks around the ear-coverts; underparts whitish with a slight buff wash on the breast, densely covered with bold round to wedge-shaped black spots on the breast, flanks and belly; wings with whitish fringes to the coverts and tertials; tail greyish-brown with white tips to the outer feathers; bill dark with a yellowish base to the lower mandible; dark eye; pale pinkish-yellow legs.",
+    "pose": "standing upright on short grass, side view",
+    "scene": "open grassland with scattered trees in Korea in winter, low winter sun; no people, buildings or text",
+    "views": [],
+    "build": "A large, long-tailed thrush, larger than a Dusky Thrush, with a long body, a relatively small head and a bold, upright stance on the ground. Bill straight, shorter than the head. Legs medium, pale. Wings long; tail long and square. In flight shows white underwing coverts and white tail corners; flight strong, with short glides on closed wings.",
+    "avoid": [
+      "Do not paint warm brown upperparts with small neat spots (Song Thrush); this species is greyer and larger with bolder spots.",
+      "Do not paint streaks; the markings are round spots.",
+      "Do not omit the white tail corners and white underwing.",
+      "Do not paint a grey head and chestnut back (Fieldfare)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

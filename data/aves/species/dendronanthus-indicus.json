@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Forest Wagtail (Dendronanthus indicus), adult: pale greenish-brown upperparts, white underparts with a black T-shaped band on the breast, wings with two alternating white and black bands, dark brown upper mandible, flesh-pink lower mandible, pale brown legs",
+    "subject": "Forest Wagtail (Dendronanthus indicus), adult (sexes alike) in summer: crown, nape, back and rump plain olive-brown with a greenish tinge; a narrow whitish supercilium; wings blackish crossed by two broad yellowish-white wing bars, with pale edges to the tertials, giving a boldly banded look; underparts white with a black band across the upper breast joined by a short central black bar to a second, broken black band below it, forming a T-like pattern; tail olive-brown in the centre with white outer feathers; upper mandible dark brown, lower mandible flesh-pink; dark eye; pale brown legs.",
     "pose": "standing on the forest floor, side view",
     "scene": "Korean summer deciduous broadleaf forest in a mountain valley; no people, buildings or text",
     "views": [
-      "adult, side view standing: pale greenish-brown upperparts, white and black wing bands, white underparts, pale brown legs",
-      "adult, front view: black T-shaped band across the white breast"
-    ]
+      "adult, side view walking on the forest floor: pale greenish-brown upperparts, blackish wings with two broad yellowish-white bars, white underparts, black breast band, dark upper and flesh-pink lower mandible, pale brown legs",
+      "adult, front view standing: white breast crossed by an upper black band joined by a central black bar to a lower broken band, forming a T-like pattern; narrow white supercilia"
+    ],
+    "build": "Slim wagtail, 16cm, a little longer than a sparrow but much slimmer, with a medium-long tail. Horizontal posture; walks on the shaded forest floor and also perches on branches. Bill thin, straight and pointed, shorter than the head. Legs medium length, pale brown. Unique habit: sways the tail and rear body from side to side, not up and down like other wagtails.",
+    "avoid": [
+      "Do not paint grey or black-and-white upperparts like White Wagtail (Motacilla alba); the back is plain olive-brown.",
+      "Do not paint yellow underparts or a very long tail like Grey Wagtail (Motacilla cinerea).",
+      "Do not paint a single plain breast band; an upper band is linked to a broken lower band.",
+      "Do not show it pumping its tail up and down; it sways the tail sideways."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

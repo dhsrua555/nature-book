@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Grey Shrike (Lanius sphenocercus), adult: grey crown and upperparts, white supercilium, broad black eye-stripe, white throat, breast, underparts and rump, black bill and legs",
+    "subject": "Chinese Grey Shrike (Lanius sphenocercus), adult (sexes similar), as seen in open Korean farmland in winter: crown, nape, mantle and scapulars pale ash-grey; pale forehead and a white supercilium; broad black mask from the bill base through the eye to the ear coverts; rump paler, whitish-grey; wings black with a large white patch at the base of the primaries and white tips to the secondaries and tertials; tail long, the centre black and the outer feathers broadly white; throat and underparts white. Bill black, heavy and hooked; dark eye; legs black.",
     "pose": "perched upright on a treetop, scanning the ground for prey",
-    "scene": "TODO",
+    "scene": "open Korean farmland in winter with scattered bare trees, reed-lined ditches and dry stubble fields; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey crown and upperparts, white supercilium, broad black eye-stripe, white underparts, black bill and legs",
-      "adult, head detail: white supercilium above a broad black eye-stripe, black bill"
-    ]
+      "adult, side view perched upright: pale grey crown and back, white supercilium, broad black mask, white throat and underparts, black wings with a broad white bar at the primary bases, long black tail with white outer feathers, black bill and legs",
+      "adult in flight, seen from above: grey back, whitish rump, black wings with large white primary patches and white-tipped secondaries, long wedge-shaped tail with white sides",
+      "adult, head detail in side view: white supercilium above the broad black mask, heavy black hooked bill"
+    ],
+    "build": "The largest shrike in Korea, 31cm, approaching the length of an Azure-winged Magpie, bulky with a large head. Bill black, deep and strongly hooked. Legs black, fairly short. Tail very long and graduated (wedge-shaped). Perches upright on treetops and wires, scanning the ground. In flight broad white wing patches flash on black wings and the long tail shows white sides.",
+    "avoid": [
+      "Do not paint a short tail; it is very long and wedge-shaped.",
+      "Do not omit the large white wing patch; on the perched bird it shows as a broad white bar across the black wing.",
+      "Do not paint brown or rufous tones (Brown Shrike, Long-tailed Shrike).",
+      "Do not paint a pink or pale bill; it is black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

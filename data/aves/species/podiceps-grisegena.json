@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-necked Grebe (Podiceps grisegena), adult in winter plumage: black cap reaching below the eye, grey throat and cheeks, neck without chestnut, dark grey back and flanks, white underparts",
+    "subject": "Red-necked Grebe (Podiceps grisegena), adult in winter (non-breeding) plumage, as seen on Korean coasts and lagoons from November to March: dark grey-brown cap reaching down to eye level; cheeks and throat pale greyish-white, the pale cheek curving up behind the ear coverts; foreneck and hindneck dusky grey, sometimes with a faint rufous tinge; back dark grey-brown; flanks grey-brown; underparts white. Bill long and dagger-shaped, blackish with a yellow base; iris dark brown; legs and lobed toes dark greenish-grey.",
     "pose": "swimming on calm water, about to dive",
     "scene": "Korean winter coastal lagoon on the East Sea with calm water; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: black cap to below the eye, grey throat and cheeks, deep chestnut neck, dark grey back and flanks, white underparts",
-      "adult winter, side view swimming: as breeding but the neck lacks chestnut"
-    ]
+      "adult breeding, side view swimming: black cap down to eye level, pale grey cheeks and throat, deep chestnut neck, dark grey back and flanks, white underparts, yellow-based black bill",
+      "adult winter, side view swimming: dusky grey-brown cap and neck without chestnut, pale grey-white cheek and throat curving up behind the ear, dark grey back and flanks, yellow base to the dark bill"
+    ],
+    "build": "Large, thick-necked grebe, about 47cm, close to a Mallard in length but slimmer and lower in the water. Head rounded with a flattish crown and no plumes. Neck thick and fairly long, often held upright. Bill strong, straight and pointed, about as long as the head. Legs set at the very rear of the body with lobed toes; rarely seen on land. Floats low and dives frequently. At rest the body looks tailless. In flight shows white secondaries and a white patch on the leading edge of the inner wing.",
+    "avoid": [
+      "Do not show the chestnut neck on the winter scene bird; it is lost in winter.",
+      "Do not paint a pinkish bill, a white supercilium or head plumes; those mark Great Crested Grebe.",
+      "Do not paint a red iris; the iris is dark.",
+      "Do not make the neck thin and swan-like; it is short and thick."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

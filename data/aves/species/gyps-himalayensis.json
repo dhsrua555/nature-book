@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Himalayan Vulture (Gyps himalayensis), juvenile in its first winter, the age that wanders east in winter: body, back and wing coverts dark brown, boldly streaked buff-white on the underparts and with pale streaks on the upperwing coverts; a ruff of long, pointed brown feathers at the base of the neck; head and neck covered with whitish-grey down; flight feathers and tail blackish. Bill blackish; legs and feet grey.",
+    "pose": "soaring on broad, deeply fingered wings held in a shallow V, seen from below",
+    "scene": "Korean mountain ridges in winter with bare forest and patches of snow; no people, buildings or text",
+    "views": [],
+    "build": "Huge vulture, the largest griffon, comparable in size to a Cinereous Vulture, with a heavy body, long downy neck and small head. Bill large, deep and hooked, about as long as the head. Legs strong. Perched birds look hunched, with the neck tucked into the ruff. In flight very long, broad, parallel-edged wings with deeply fingered primaries, held in a shallow V when soaring; tail short, dark and slightly wedge-shaped.",
+    "avoid": [
+      "Do not paint the uniform blackish-brown plumage and flat-winged soaring of Cinereous Vulture (Aegypius monachus); this griffon is streaked and soars with wings in a shallow V.",
+      "Do not paint a fully feathered head; the head and neck carry only short whitish down.",
+      "Do not give this juvenile the pale creamy body of the adult.",
+      "Do not leave out the ruff of long pointed feathers at the base of the neck."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

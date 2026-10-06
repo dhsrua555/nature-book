@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-browed Reed Warbler (Acrocephalus bistrigiceps), adult male winter: olive-tinged rusty-brown from forehead over crown and nape to back, blackish-brown stripes on the sides of the crown above the supercilium, buffy-white chin, centre of throat and centre of belly, buff sides of throat, breast, flanks and undertail coverts, pale rusty-brown rump and uppertail coverts, rounded tail, pale brown eye, leaden-grey legs with a reddish or bluish tinge",
+    "subject": "Black-browed Reed Warbler (Acrocephalus bistrigiceps), adult in spring (sexes alike): forehead, crown, nape and back plain olive-tinged rusty-brown, unstreaked; a broad buffy-white supercilium bordered above by a bold blackish-brown stripe along each side of the crown; a dark brown eye-stripe below it; chin, centre of the throat and centre of the belly buffy-white; sides of the throat, breast, flanks and undertail coverts buff, deepest on the flanks; rump and uppertail coverts paler rusty-brown; wings and rounded tail plain brown; bill dark above, pale pinkish below; brown eye; greyish legs with a pinkish tinge.",
     "pose": "clinging to a reed stem, side view",
     "scene": "Korean reedbed beside water during spring migration; no people, buildings or text",
     "views": [
-      "adult male winter, side view clinging to a reed: rusty-brown upperparts, buff breast and flanks, rounded tail",
-      "adult, head detail: blackish-brown crown-side stripes above the supercilium"
-    ]
+      "adult, side view clinging upright to a reed stem: plain rusty-brown upperparts, buffy-white supercilium with a blackish crown-side stripe above it, buffy-white throat, buff breast and flanks, rounded tail, greyish-pink legs",
+      "adult, head in profile: bold blackish-brown stripe along the side of the crown above the buffy-white supercilium, dark eye-stripe, buffy-white chin and throat"
+    ],
+    "build": "Small reed warbler, about 14cm — about sparrow length but slimmer, and much smaller than an Oriental Reed Warbler. Flat crown and a straight, pointed bill shorter than the head. Legs greyish with a pinkish tinge, strong for clinging to vertical stems. Wings fairly short; at rest the wingtips reach only a little past the base of the tail. Tail medium-length and rounded. Clings upright to reed stems, often straddling two, and sings from a reed top.",
+    "avoid": [
+      "Do not omit the blackish stripe above the pale supercilium; it is the species' key mark.",
+      "Do not paint streaks on the back (Locustella warblers).",
+      "Do not make it large and heavy-billed like Oriental Reed Warbler (Acrocephalus orientalis).",
+      "Do not paint yellow underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

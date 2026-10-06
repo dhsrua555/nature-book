@@ -50,13 +50,22 @@
     }
   ],
   "art": {
-    "subject": "Greater Scaup (Aythya marila), adult male: green-glossed black head, neck and breast, white upperparts finely vermiculated with black, no tuft on the head",
+    "subject": "Greater Scaup (Aythya marila), adult male in winter, as seen in Korean bays and estuaries from November to March: head and neck black with a green gloss, the head smoothly rounded with no tuft; breast black; back pale grey, finely vermiculated with black wavy lines; flanks white; tail end black. Bill pale blue-grey with a small black nail at the tip; bright yellow eye; grey legs.",
     "pose": "swimming in a flock on open water, about to dive",
     "scene": "Korean winter coastal lagoon with calm open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: green-glossed black head, neck and breast, white upperparts with fine black wavy lines, rounded head without a tuft",
-      "adult female, side view swimming: brownish overall, bold white patch at the base of the bill, no tuft"
-    ]
+      "adult male, side view swimming: rounded green-glossed black head with no tuft, black breast, pale grey finely vermiculated back, white flanks, black tail end, blue-grey bill with a small black tip, yellow eye",
+      "adult female, side view swimming: dark brown head, broad white patch around the base of the bill, brown breast, grey-brown body, blue-grey bill, yellow eye, no tuft"
+    ],
+    "build": "Bulky diving duck, about 45cm, smaller than a Mallard but heavy-bodied and broad-backed, sitting low on the water. Large, smoothly rounded head with no crest. Bill broad and flattened, a little shorter than the head. Legs short, grey, set far back. Dives for shellfish in flocks. In flight a broad white wing-bar runs along the secondaries and inner primaries.",
+    "avoid": [
+      "Do not add a drooping tuft at the back of the head — that is Tufted Duck (Aythya fuligula).",
+      "Do not paint a black back; the scaup's back is pale grey with fine black vermiculations.",
+      "Do not paint a broad black bill tip; only the small nail is black.",
+      "Do not paint a dark eye; adults have bright yellow eyes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

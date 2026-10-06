@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rufous-tailed Robin (Larvivora sibilans), adult: rusty-buff sides of the forehead, rusty-brown cheeks, ear-coverts and neck sides, off-white underparts with a faint rusty wash, throat and breast scaled with narrow olive-brown fringes, olive-grey flanks, brown flight feathers edged olive-brown, chestnut tail, thin pointed bill, dark brown eye",
+    "subject": "Rufous-tailed Robin (Larvivora sibilans), adult on spring passage (sexes alike): upperparts plain olive-brown; sides of the forehead in front of the eye rusty-buff; cheeks, ear-coverts and neck sides warm rusty-brown; wings brown with olive-brown outer edges; uppertail coverts and tail chestnut-rufous; underparts off-white with a slight rusty wash; throat and breast feathers narrowly fringed olive-brown, giving a fine scaly pattern; flanks olive-grey; thin, pointed dark bill; dark brown eye; pale pinkish legs.",
     "pose": "walking along a fallen log on the dim forest floor",
     "scene": "Korean conifer forest interior in May with dense undergrowth and fallen trees; no people, buildings or text",
     "views": [
-      "adult, side view on a log: rusty-brown face, scaled breast, olive-grey flanks, chestnut tail",
-      "adult, front view: throat and breast scaled olive-brown on off-white"
-    ]
+      "adult, side view standing on a mossy log: olive-brown upperparts, rusty-brown face and neck sides, scaly olive-brown fringes on the off-white throat and breast, olive-grey flanks, chestnut tail, pink legs",
+      "adult, front view: off-white throat and breast neatly scaled with olive-brown fringes, rusty-buff sides of the forehead, rusty-brown cheeks"
+    ],
+    "build": "Small, round-bodied chat, 14cm — about sparrow length but plumper and longer-legged, with a rounded head and short neck. Bill thin and pointed, shorter than the head. Legs fairly long, slender and pale pink. Wings short and rounded. Tail medium-short and square, constantly shivered. Walks and hops on the dim forest floor and along fallen logs, the body held horizontal.",
+    "avoid": [
+      "Do not paint an orange face and breast (Japanese Robin) or blue upperparts (Siberian Blue Robin, Larvivora cyane).",
+      "Do not leave the breast plain; the fine olive-brown scaling is its mark.",
+      "Do not extend the rufous onto the back or wings; only the uppertail coverts and tail are chestnut.",
+      "Do not paint dark legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

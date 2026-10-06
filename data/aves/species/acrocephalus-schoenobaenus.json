@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Sedge Warbler (Acrocephalus schoenobaenus), adult (sexes alike) in autumn: crown dark brown with fine darker streaks, looking dark-capped, with no pale central crown stripe; a long, broad, creamy-white supercilium; dark brown eye-stripe; mantle and scapulars buff-brown with diffuse dark streaks; rump and uppertail coverts unstreaked warm tawny-brown; wings brown with darker-centred coverts and tertials; throat white; underparts whitish with a buff wash on the breast sides and flanks; tail plain dark brown; bill dark with a pale yellowish base to the lower mandible; dark eye; greyish-brown legs.",
+    "pose": "perched on a reed stem, side view",
+    "scene": "reed and sedge marsh in Korea during autumn migration in September, reeds turning buff; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler, with a flat forehead and a rounded tail. Bill fairly short and straight, shorter than the head. Legs medium. Moderate primary projection; the folded wingtips reach a short way down the tail. Tail medium, rounded, plain, without white tips. Often climbs reed stems and perches in the open on top of vegetation.",
+    "avoid": [
+      "Do not paint a pale buff stripe down the centre of the crown; that is Aquatic Warbler (Acrocephalus paludicola).",
+      "Do not give it white tail tips or a rufous, streaked rump (Pallas's Grasshopper Warbler).",
+      "Do not paint plain unstreaked upperparts (Black-browed Reed Warbler).",
+      "Do not paint a black line above the supercilium; the dark crown itself frames it."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

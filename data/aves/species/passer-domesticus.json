@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "House Sparrow (Passer domesticus), adult male in breeding plumage, a spring vagrant on a Korean offshore island: crown and centre of the nape grey; a broad chestnut band from behind the eye to the sides of the nape; lores and a small area around the eye black; cheeks and neck sides greyish-white; chin, throat and upper breast black, the bib widening onto the breast; mantle and scapulars chestnut-brown streaked black; rump grey-brown; wings brown with one bold white bar on the median coverts; underparts plain pale grey. Bill black in the breeding season; eye dark; legs pinkish-brown.",
+    "pose": "hopping on bare ground among short weeds, side view",
+    "scene": "weedy field edge and bare ground on a Korean offshore island during spring migration (May), bright light; no people, buildings or text",
+    "views": [],
+    "build": "Small, stocky, big-headed sparrow, slightly larger and heavier than the Eurasian Tree Sparrow common in Korea; short neck and rounded body, hops on the ground. Bill stout and conical, shorter than the head, black in breeding males, horn-coloured in females and winter males. Legs short, pinkish-brown. Tail medium length, slightly notched, plain brown without white. In flight the white wing bar shows.",
+    "avoid": [
+      "Do not paint a chestnut crown or a black cheek spot — those mark the Eurasian Tree Sparrow; the male House Sparrow has a grey crown and plain pale cheeks.",
+      "Do not shrink the black to a small chin spot; the breeding male's bib spreads onto the breast.",
+      "Do not paint a pale or yellow bill on a breeding male; it is black.",
+      "Do not streak the plain grey underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

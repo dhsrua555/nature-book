@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey Bunting (Emberiza variabilis), adult male in winter plumage: slate-grey upperparts from head to uppertail coverts with faint olive feather tips, slightly paler slate-grey sides of the head and underparts, back with distinct black shaft streaks and olive-buff fringes, blackish-brown flight feathers and wing coverts",
+    "subject": "Grey Bunting (Emberiza variabilis), adult male in winter, as seen on southern Korean islands: almost uniform dark slate-grey, the head and upperparts with faint olive-brown feather tips in fresh plumage; mantle and scapulars slate-grey with bold black shaft streaks and olive-buff edges; sides of the head and underparts slightly paler slate-grey, palest on the lower belly, without any yellow, streaking or white; wing coverts and flight feathers blackish-brown with greyish edges; rump plain grey; tail dark grey-brown with no white in the outer feathers; bill dark grey above, pinkish below; dark eye; pinkish legs.",
     "pose": "perched low in dense dwarf bamboo, side view",
     "scene": "southern Korean island: dense dwarf bamboo undergrowth on a wooded slope; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: slate-grey plumage, paler below, black-streaked back with olive-buff fringes, blackish-brown wings",
-      "adult male winter, back view: slate-grey mantle with black shaft streaks and olive-buff fringes"
-    ]
+      "adult male winter, side view perched low in dwarf bamboo: slate-grey head and body, slightly paler grey below, black-streaked back with olive-buff fringes, blackish-brown wings, dark tail without white",
+      "adult male winter, back view perched: slate-grey mantle with bold black shaft streaks and olive-buff feather edges, blackish-brown wing coverts and flight feathers, plain grey rump, dark tail without white"
+    ],
+    "build": "Fairly large, long-tailed bunting, noticeably bigger and longer than a sparrow, with a rounded head and no crest. Bill conical, stout-based and pointed, about half the length of the head. Legs medium length, pinkish. At rest the wingtips reach only the base of the tail. Tail fairly long, slightly notched, uniformly dark with no white outer feathers, a key difference from most buntings. Skulks low in dense dwarf bamboo and on the ground beneath it.",
+    "avoid": [
+      "Do not paint white outer tail feathers; the Grey Bunting's tail has no white.",
+      "Do not paint a yellowish belly, olive head or black face; those mark the male Black-faced Bunting (Emberiza spodocephala).",
+      "Do not paint a crest; the head is round.",
+      "Do not paint a white crown stripe or streaked underparts on the male."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

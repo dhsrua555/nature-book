@@ -49,14 +49,23 @@
   "young": "어린새는 첫째날개깃 밑동이 희고, 흰 꼬리 끝에 폭넓은 검은 띠가 있다.",
   "similar": [],
   "art": {
-    "subject": "Golden Eagle (Aquila chrysaetos), adult: overall dark brown, golden-brown nape and hindneck, dark underparts, long wings, legs feathered down to the toes",
+    "subject": "Golden Eagle (Aquila chrysaetos), adult as seen in Korean winter (December–February): plumage dark brown overall, the underparts dark; crown, nape and hindneck golden-buff to tawny; a paler tawny-brown band across the upperwing coverts on the folded wing; tail greyish-brown with indistinct dark bars and a broad dark tip; flight feathers dark. Heavy hooked bill dark grey with a paler base, yellow cere and gape; brown eye; legs fully feathered with brown 'trousers' down to the toes; bare toes yellow with black talons.",
     "pose": "soaring with wings slightly raised in a shallow V",
     "scene": "Korean winter river plain with mountains on the horizon; no people, buildings or text",
     "views": [
-      "adult, side view perched: dark brown body, golden-brown nape and hindneck, legs feathered to the toes",
-      "adult, flight view: long dark brown wings held in a shallow V",
-      "juvenile, flight view from below: white bases to the primaries, white tail with a broad black terminal band"
-    ]
+      "adult, side view perched on a rock: dark brown body, golden-buff crown, nape and hindneck, legs feathered down to the yellow toes, long tail",
+      "adult soaring, seen from below and slightly in front: long dark brown wings held in a shallow V, trailing edge curving in near the body, long rounded greyish tail with a dark tip",
+      "juvenile in flight seen from below: dark brown body and wings with large white patches at the bases of the inner primaries and outer secondaries, white tail with a broad black terminal band"
+    ],
+    "build": "Very large, powerful eagle, 75–90cm long, female larger than male; much bigger than any buzzard. Head fairly small and protruding in flight; bill strong and deep but much smaller than a sea eagle's. At rest the wingtips reach close to the tail tip. Tail long and rounded. In flight long, broad wings with the trailing edge curving in towards the body (narrower at the base), deep fingers, held in a shallow V when soaring and gliding.",
+    "avoid": [
+      "Do not paint a massive yellow bill or a white tail on the adult — those are sea eagles.",
+      "Do not paint a bare head or very broad plank-like wings — that is Cinereous Vulture (Aegypius monachus).",
+      "Do not paint bare yellow legs; the legs are feathered to the toes.",
+      "Do not give the adult the juvenile's white wing patches or white tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

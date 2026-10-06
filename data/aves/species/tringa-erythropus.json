@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Spotted Redshank (Tringa erythropus), adult in breeding plumage: dark grey head, neck and underparts, white chin and white tips to the hindneck feathers, slightly glossy upperparts scattered with white spots, white rump, black uppertail coverts barred white, black tail with grey bars or white markings, white streaks on the axillaries and undertail coverts",
+    "subject": "Spotted Redshank (Tringa erythropus), adult in breeding plumage, as seen on Korean tidal flats in late April and May: head, neck and underparts sooty black, with a small white chin and a thin broken white eye-ring; some white fringes on the vent and undertail; back, scapulars and wing coverts blackish with a slight gloss, finely spotted and notched white; a narrow white oval on the lower back and rump, mostly hidden at rest; tail barred black and white. Long, slender black bill with a dark red base to the lower mandible; dark eye; legs dark red, almost blackish-red.",
     "pose": "wading in shallow water on a tidal flat, side view",
-    "scene": "Korean coastal tidal flat during spring or autumn migration; no people, buildings or text",
+    "scene": "Korean coastal tidal flat with shallow pools during spring migration in late April–May, soft morning light; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: dark grey head, neck and underparts, white chin, upperparts spotted white",
-      "adult winter, side view standing: plain grey-brown head and upperparts, pale grey streaks on the neck sides",
-      "in flight, from above: white rump, black uppertail coverts barred white"
-    ]
+      "adult breeding (late April–May), side view wading: sooty black head, neck and underparts, small white chin, blackish upperparts finely spotted white, thin white eye-ring, long needle-thin bill with a red base to the lower mandible, dark red legs",
+      "adult winter, side view standing: plain pale ash-grey head and upperparts with fine white fringes, bold white supercilium in front of the eye above a dark loral stripe, pale grey streaks on the neck sides, white underparts, long bill with a red base below, bright orange-red legs",
+      "adult in flight seen from above: plain dark upperwing without white patches, narrow white oval on the lower back and rump, black uppertail coverts barred white, finely barred tail, legs projecting beyond the tail tip"
+    ],
+    "build": "Elegant, slim wader, 32.5cm long, a little larger and longer-legged than Common Redshank; long neck and small head. Bill long — clearly longer than the head — very thin and straight, with a slight droop at the very tip. Legs long, the tibia well exposed. At rest the wingtips reach about the tail tip. In flight plain dark upperwing with no white trailing edge, a narrow white oval up the back, barred tail and feet projecting beyond the tail tip. Often wades belly-deep and even swims.",
+    "avoid": [
+      "Do not paint a broad white trailing edge on the wing — that is Common Redshank (Tringa totanus).",
+      "Do not paint brown streaked plumage with bright orange legs on the breeding bird; breeding adults are sooty black with dark red legs.",
+      "Do not paint a thick or upturned bill; it is long, needle-thin and straight with a slight droop at the tip.",
+      "Do not paint green or yellow legs — that is Common Greenshank."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

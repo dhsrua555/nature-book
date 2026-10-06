@@ -55,13 +55,22 @@
     }
   ],
   "art": {
-    "subject": "Two-barred Crossbill (Loxia leucoptera), adult male winter: pale rosy-red body plumage, two white wing bars formed by 5–15 mm white tips to the greater and median coverts, thin white edges to the outer tail feathers and tips of the flight feathers, dark brown bill with paler sides to the lower mandible, dark brown iris and legs",
+    "subject": "Two-barred Crossbill (Loxia leucoptera), adult male in winter: head, back, rump and underparts rosy pink to raspberry red, paler and pinker than the Red Crossbill; blackish wings with two broad, clean white wing bars on the median and greater coverts, the lower bar the wider, and white tips to the tertials and other flight feathers; tail black and notched, the outer feathers with fine pale edges. Dark brown bill with crossed mandible tips, the sides of the lower mandible paler; dark brown eye; dark brown legs.",
     "pose": "perched on a pine branch, side view",
     "scene": "Korean winter pine forest; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: pale rosy-red body, two white wing bars, thin white tips to flight feathers, white-edged outer tail feathers",
-      "adult female, side view perched: two white wing bars, pale ground colour, distinct streaks on back and underparts"
-    ]
+      "adult male winter, side view perched on a pine twig: rosy-pink body, black wings with two broad white wing bars, white-tipped tertials, fine pale edges to the black outer tail feathers, crossed dark brown bill with paler lower mandible sides",
+      "adult female, side view perched: greyish olive-green body with distinct dark streaks on the back and underparts, yellowish-green rump, the same black wings with two broad white bars, crossed bill, dark brown legs"
+    ],
+    "build": "Finch of about 15cm, a little larger than a sparrow and slightly smaller than the Red Crossbill; large-headed and stocky with a short, notched tail. Bill deep at the base, shorter than the head, with the tips of the upper and lower mandible crossing; slimmer than the Red Crossbill's bill. Legs short, dark brown, feet strong for clinging to cones. Clambers parrot-like among cones, often hanging upside down. In flight the white wing bars flash on black wings.",
+    "avoid": [
+      "Do not leave the wings plain; both sexes have two broad white wing bars (plain wings mean Red Crossbill, Loxia curvirostra).",
+      "Do not draw a normal straight conical finch bill; the tips of the mandibles must visibly cross.",
+      "Do not make the male deep crimson with brown wings; the body is rosy pink and the wings black.",
+      "Do not paint the wing bars thin or buff; they are broad and pure white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

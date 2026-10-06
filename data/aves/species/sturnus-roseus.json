@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Rosy Starling (Sturnus roseus), adult male in breeding plumage, as seen in Korea in late spring: head, shaggy crest, neck, throat and upper breast glossy black with a purple sheen; mantle, back, rump, lower breast, belly and flanks pale rose-pink; wings and tail black glossed green and purple; undertail coverts black. Bill pink, darker at the base of the lower mandible; dark eye; legs pinkish-orange.",
+    "pose": "perched on a bush top among other starlings, side view",
+    "scene": "Korean coastal farmland and grassy field edges in late spring, short green crops; no people, buildings or text",
+    "views": [],
+    "build": "Stocky starling, about the size of a White-cheeked Starling but plumper, smaller than a Brown-eared Bulbul. Short, square tail and long, pointed wings. The adult male has a long, shaggy crest of loose feathers on the rear crown and nape, often raised. Bill straight, rather stout and pointed, shorter than the head. Legs medium length, pinkish. Walks briskly on the ground like other starlings; in flight triangular-winged, the pink back contrasting with the black wings.",
+    "avoid": [
+      "Do not paint it all pink; the head, upper breast, wings and tail are glossy black.",
+      "Do not paint a yellow bill with a dark tip or white cheeks; that is White-cheeked Starling (Spodiopsar cineraceus).",
+      "Do not leave out the shaggy crest on the adult male.",
+      "Do not make the pink areas bright magenta; they are pale rose-pink."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

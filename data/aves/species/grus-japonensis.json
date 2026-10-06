@@ -52,13 +52,22 @@
   "young": "어린새는 몸이 희고 머리와 목은 연한 갈색이다.",
   "similar": [],
   "art": {
-    "subject": "Red-crowned Crane (Grus japonensis), adult: white body, red crown, black lores, throat and neck, long drooping black tertials, yellowish-green bill, black legs",
+    "subject": "Red-crowned Crane (Grus japonensis), adult, as seen in Korean winter fields from November to March: body and wings white; a patch of bare red skin on the crown; forehead, lores, cheeks, throat and the front and sides of the upper neck black; a broad white band runs from behind the eye across the nape and down the back of the neck; lower neck white. Secondaries and long, drooping tertials black, forming a black bustle over the white tail when the wings are folded; primaries white. Bill long, pale greenish-horn to yellowish-green. Legs and feet black.",
     "pose": "walking slowly through a harvested rice field",
     "scene": "Korean winter rice and corn fields in a remote border area, with a frozen reservoir and river sandbars; no people, buildings or text",
     "views": [
-      "adult, side view standing: white body, red crown, black lores, throat and neck, drooping black tertials, yellowish-green bill, black legs",
-      "juvenile, side view standing: white body, light brown head and neck"
-    ]
+      "adult, side view standing: white body, red crown, black lores, cheeks, throat and foreneck, white band from behind the eye down the hindneck, drooping black tertials over the white tail, yellowish-green bill, black legs",
+      "juvenile (first winter), side view standing: white body mottled grey-brown, head and neck pale cinnamon-brown, no red crown, blackish tertials, dark legs"
+    ],
+    "build": "Very large crane, about 140cm, the largest crane in Korea and much taller than a Grey Heron. Long, slender neck held upright; small head; bill straight, about as long as the head or a little longer. Legs very long and black. At rest the black secondaries and drooping tertials hang over the short white tail and look like a black tail. In flight the neck is stretched forward and the legs trail; the wings are white with black secondaries forming a black rear edge to the inner wing, the primaries white.",
+    "avoid": [
+      "Do not paint black primaries or a black tail; the black on the folded wing is the drooping tertials and secondaries only.",
+      "Do not paint red skin around the eye or pink legs (White-naped Crane).",
+      "Do not paint a white throat or white foreneck; the throat and upper foreneck are black.",
+      "Do not paint a grey body (White-naped or Common Crane)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

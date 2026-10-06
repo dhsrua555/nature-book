@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Asian Brown Flycatcher (Muscicapa dauurica), adult: greyish-white lores, conspicuous white eye-ring, brownish-grey cheeks, ear coverts, neck sides, breast sides and flanks, dark grey-brown tail with pale outer edges, flat broad bill with a blackish-brown tip and a mostly pale grey or yellowish-brown lower mandible, brown iris, blackish-brown legs",
+    "subject": "Asian Brown Flycatcher (Muscicapa dauurica), adult (sexes alike), as seen on spring and autumn migration in Korea: plain grey-brown crown, nape and back without streaks; large dark eye set in a conspicuous white eye-ring; greyish-white lores; brownish-grey ear-coverts and neck sides; wings dark grey-brown with narrow pale fringes to the tertials and greater coverts; throat whitish, breast and flanks washed pale brownish-grey, belly and undertail coverts off-white, with no streaks anywhere below; tail dark grey-brown with paler outer edges. Bill broad and flat at the base, blackish-brown on the upper mandible and at the tip, the lower mandible mostly pale grey or yellowish-brown; brown iris; short blackish-brown legs.",
     "pose": "perched on a branch, about to sally out after a flying insect",
     "scene": "Korean pine and cedar woodland with a lone tree at its edge, during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view perched: white eye-ring, greyish-white lores, brownish-grey cheeks and flanks, dark grey-brown tail, blackish-brown legs",
-      "adult, head detail: conspicuous white eye-ring and broad flat bill with pale lower mandible and dark tip"
-    ]
+      "adult, side view perched upright on a bare twig: plain grey-brown upperparts, white eye-ring, greyish-white lores, brownish-grey cheeks, neck sides and flanks, whitish unstreaked underparts, dark grey-brown tail with pale outer edges, blackish-brown legs",
+      "adult, head detail in side view: conspicuous white eye-ring around the large dark eye, greyish-white lores, broad flat bill with a dark upper mandible and tip and a mostly pale grey or yellowish-brown lower mandible"
+    ],
+    "build": "Small, compact flycatcher, about 13cm, slightly smaller and slimmer than a tree sparrow; large-headed with a big dark eye and a short neck. Sits upright on an exposed twig and sallies out after flying insects, often returning to the same perch. Bill shorter than the head but broad, flat and triangular when seen from above, with a faint hook at the tip. Legs short and thin, blackish-brown. At rest the long wings reach about halfway down the tail. Tail medium length, square-ended, plain grey-brown with no white or rufous.",
+    "avoid": [
+      "Do not streak the breast or flanks; crisp dark streaks belong to Grey-streaked Flycatcher (Muscicapa griseisticta), and this species is plain below.",
+      "Do not paint dark smudgy breast sides forming a half-collar or an all-dark bill; those mark Dark-sided Flycatcher (Muscicapa sibirica).",
+      "Do not add bold white wing-bars, a supercilium or any rufous in the tail or rump.",
+      "Do not paint pale or pinkish legs; they are blackish-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

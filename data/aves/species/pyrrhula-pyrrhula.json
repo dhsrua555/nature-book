@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula), adult: black head, red cheeks, throat and upper breast, grey back, pale grey belly washed rosy, black wingtips and tail",
+    "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula), adult male of the grey-bellied form usual in Korea in winter, November to March: glossy blue-black cap from the forehead to the nape, with black also around the base of the bill and on the chin; cheeks, ear coverts, throat and upper breast rose-red; nape, mantle and back clean ash-grey; wings glossy black with a broad pale grey band across the greater coverts; rump pure white; lower breast, belly and flanks pale grey washed rosy-pink; undertail coverts white; tail glossy blue-black. Bill very short, deep and rounded, black; iris dark brown; legs dark brown.",
     "pose": "perched on a tree branch, eating seeds",
     "scene": "Korean winter trees and shrubs with bare branches; no people, buildings or text",
     "views": [
-      "adult, side view perched: black head, red cheeks, throat and upper breast, grey back, pale grey belly washed rosy, black wingtips and tail",
-      "adult, back view perched: black head, grey back, black wingtips and tail"
-    ]
+      "adult male winter, side view perched: glossy black cap and chin, rose-red cheeks, throat and upper breast, grey back, pale grey belly washed rosy, black wings with a pale grey bar, black wingtips and tail",
+      "adult male winter, back view perched: black cap, clean grey back, pale grey wing-bar, white rump, glossy black wings and tail",
+      "adult female, side view perched: same black cap, black wings with grey bar and black tail, but cheeks and underparts warm greyish-brown and back brownish-grey, white rump"
+    ],
+    "build": "Plump, bull-necked finch, 15cm, a little bigger than a sparrow and much rounder. Large rounded head with no crest and almost no visible neck. Bill very short, deep and stubby with a strongly rounded culmen, much shorter than the head. Legs short, dark brown. Sits quietly in trees and shrubs, often leaning or hanging from twigs to take buds and seeds. At rest the wingtips reach only the base of the tail. Tail medium length, square-ended or slightly notched, all black. In flight the white rump stands out between the grey back and the black tail.",
+    "avoid": [
+      "Do not paint the whole underparts orange-red down to the vent; on Korean birds the red stops at the upper breast and the belly is pale grey washed pink.",
+      "Do not extend the black over the cheeks; black covers only the cap, the bill base and the chin, and the male's cheeks are red.",
+      "Do not give it a pointed or long bill; it is short, stubby and swollen.",
+      "Do not leave out the white rump, and do not add white in the tail or extra wing-bars."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -72,13 +72,22 @@
     }
   ],
   "art": {
-    "subject": "Long-billed Plover (Charadrius placidus), adult: long slender bill with a pale base to the lower mandible, thin faint yellow eye-ring, dusky lores, black on the crown and ear-coverts, black breast band narrowing at the centre, long legs",
+    "subject": "Long-billed Plover (Charadrius placidus), adult in breeding plumage, as seen on Korean gravel riverbeds from March to July: forehead white; a black bar across the forecrown between the eyes; crown and nape grey-brown; narrow whitish supercilium behind the eye; lores and ear-coverts dusky dark brown, not a solid black mask; white throat continuing into a white collar around the hindneck; below it a narrow black breast band, narrowest at the centre of the breast; rest of the underparts white. Upperparts plain grey-brown. Bill long and slender, black with a small pale area at the base of the lower mandible. Thin, faint yellow eye-ring. Legs dull yellowish.",
     "pose": "standing on river shingle, side view",
     "scene": "Korean riverbed of gravel and sand beside a shallow flowing stream; no people, buildings or text",
     "views": [
-      "adult, side view standing: long slender bill, thin yellow eye-ring, black crown and ear-coverts, breast band narrowing in the middle, long legs",
-      "adult, head detail: pale base to the lower mandible, faint eye-ring, dusky lores"
-    ]
+      "adult, side view standing on gravel: long slender black bill, thin faint yellow eye-ring, black forecrown bar, dusky brown ear-coverts, white collar, narrow black breast band narrowing at the centre, long dull yellowish legs, tail projecting beyond the wingtips",
+      "adult, head detail in side view: pale base to the lower mandible, thin faint yellow eye-ring, dusky lores, white forehead below the black forecrown bar"
+    ],
+    "build": "Medium-sized ringed plover, 20.5cm, clearly larger, longer-legged and longer-tailed than Little Ringed Plover. Rounded head, slim body with a long rear end. Bill black and slender, noticeably longer and finer than in Little Ringed Plover. Legs fairly long, dull yellowish. At rest the tail projects well beyond the wingtips. In flight only a faint, narrow white wing bar; tail long, with white sides and a dark subterminal band. Runs and pauses among pebbles at the river's edge.",
+    "avoid": [
+      "Do not paint a solid black mask through the eye and a thick bright yellow eye-ring — that is Little Ringed Plover.",
+      "Do not paint a short stubby bill or an orange bill base like Common Ringed Plover.",
+      "Do not paint orange legs or a bold white wing bar.",
+      "Do not break the breast band into side patches (Kentish Plover); the black band is complete, only narrower at the centre."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

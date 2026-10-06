@@ -43,13 +43,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-eared Owl (Asio otus), adult: long ear tufts, orange eyes, upperparts mottled tawny-buff and dark brown, lower belly with bold dark streaks crossed by bars",
+    "subject": "Long-eared Owl (Asio otus), adult (sexes similar), as seen roosting in Korean pine groves in winter: long dark ear tufts edged buff, rising from the top of the head; facial disc orange-buff with a dark rim, dark vertical marks through the eyes and whitish eyebrows meeting between them; upperparts tawny-buff mottled and vermiculated dark brown and grey; underparts buff, the breast with bold dark streaks and the lower breast and belly with streaks crossed by fine bars. Bill blackish; eyes deep orange; legs and toes feathered buff.",
     "pose": "roosting upright in a pine, ear tufts raised",
     "scene": "Korean pine grove in winter; no people, buildings or text",
     "views": [
-      "adult, front view perched: long ear tufts, orange eyes, bold streaks crossed by bars on the lower belly",
-      "adult, side view perched: upperparts mottled tawny and dark brown"
-    ]
+      "adult, front view perched: long ear tufts, orange-buff facial disc with dark marks through the deep-orange eyes, lower belly with bold streaks crossed by fine bars",
+      "adult, side view perched upright: slim body, raised ear tufts, tawny-buff upperparts mottled dark brown"
+    ],
+    "build": "Medium-sized, slender owl, about 38cm, a little larger than a feral pigeon, with a narrow body and long ear tufts. At roost it often stands very upright and thin, tufts raised, close to the trunk. Bill short and hooked. Wings long; in flight orange-buff patches at the base of the primaries, a dark carpal patch and finely barred wingtips.",
+    "avoid": [
+      "Do not paint yellow eyes in black surrounds; that is Short-eared Owl (Asio flammeus). Long-eared Owl has deep orange eyes.",
+      "Do not paint short or absent ear tufts.",
+      "Do not paint it huge and heavy like Eurasian Eagle-Owl (Bubo bubo); it is slim and pigeon-sized.",
+      "Do not paint plain unbarred streaks on the belly; the streaks are crossed by fine bars."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

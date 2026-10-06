@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Grey-sided Thrush (Turdus feae), adult male in spring: upperparts warm olive-brown from crown to tail; a white supercilium and a white crescent below the eye; dark lores; chin and throat white; breast and flanks plain grey; centre of the belly and undertail coverts white; wings and tail olive-brown; bill dark with a yellow base to the lower mandible; dark eye; pale yellowish-brown legs.",
+    "pose": "standing on the forest floor among leaf litter, side view",
+    "scene": "deciduous woodland floor on a Korean offshore island in May, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "A medium-sized thrush, smaller and slimmer than a Dusky Thrush and very like an Eyebrowed Thrush in size and shape, with a rounded head. Bill straight, slightly shorter than the head. Legs medium, pale. Tail medium, square, plain. Shy, feeding on the ground in forest.",
+    "avoid": [
+      "Do not paint orange flanks; that is Eyebrowed Thrush (Turdus obscurus). This species has a grey breast and flanks.",
+      "Do not paint a grey head; the crown and face are olive-brown with a white supercilium.",
+      "Do not spot or streak the underparts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

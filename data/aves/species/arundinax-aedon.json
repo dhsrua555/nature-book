@@ -54,13 +54,22 @@
     }
   ],
   "art": {
-    "subject": "Thick-billed Warbler (Arundinax aedon), adult male summer: slightly rusty olive-brown crown, back and scapulars, yellowish-white lores and eyering, ear coverts paler than the back with faint pale shaft streaks, buffy-white chin, throat and lower breast, olive-buff upper breast and flanks, dark horn-brown upper mandible, pale brown lower mandible yellowish at tip and base, brown iris, lead-grey to dark horn-brown legs",
+    "subject": "Thick-billed Warbler (Arundinax aedon), adult (sexes alike) in autumn: crown, back and scapulars plain, slightly rusty olive-brown; rump and uppertail coverts warmer rufous-brown; face strikingly plain: yellowish-white lores and a narrow pale eye-ring, with no supercilium and no eye-stripe; ear coverts paler than the back with faint pale shaft streaks; chin, throat and lower breast buffy-white; upper breast and flanks olive-buff; wings plain brown with rufous-brown edges; tail long, graduated, plain rufous-brown; short, deep bill with a dark horn-brown upper mandible and pale brown lower mandible tinged yellow at tip and base; brown iris; lead-grey legs.",
     "pose": "skulking low in reeds near water, partly hidden",
     "scene": "Korean autumn riverside reed bed with scattered shrubs; no people, buildings or text",
     "views": [
-      "adult, side view perched: rusty olive-brown upperparts, pale lores and eyering, buffy-white throat, olive-buff flanks",
-      "adult, head and bill detail: dark upper mandible, pale brown lower mandible with yellowish tip and base"
-    ]
+      "adult, side view perched in reeds: plain rusty olive-brown upperparts, plain face with yellowish-white lores and eye-ring and no supercilium, ear coverts paler than the back, buffy-white throat and lower breast, olive-buff upper breast and flanks, long graduated tail",
+      "adult, head and bill close-up in profile: short, deep bill with a dark horn upper mandible and pale brown lower mandible tinged yellow, pale lores, plain face with a beady dark eye"
+    ],
+    "build": "Large warbler, about 18cm, about the length of Oriental Reed Warbler (Acrocephalus orientalis) and much longer than a sparrow, with a heavy body, rounded head and long, rounded (graduated) tail. Bill short for so large a warbler, deep-based and stout with a curved culmen, clearly shorter than the head. Legs strong, grey. Short, rounded wings: at rest the primaries project only a little beyond the tertials. Skulks low in dense reeds and shrubs.",
+    "avoid": [
+      "Do not paint a pale supercilium or dark eye-stripe — that is Oriental Reed Warbler (Acrocephalus orientalis); the Thick-billed Warbler has a plain face.",
+      "Do not paint a long, thin bill; it is short and deep.",
+      "Do not paint streaks on the back or breast.",
+      "Do not paint a short square tail; it is long and graduated."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

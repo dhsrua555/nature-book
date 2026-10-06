@@ -68,14 +68,23 @@
   "young": "어린새는 등과 날개덮깃이 갈색 도는 검은색에 황갈색 깃 가장자리가 있고, 부리와 다리의 붉은색이 어른새보다 흐리다.",
   "similar": [],
   "art": {
-    "subject": "Eurasian Oystercatcher (Haematopus ostralegus), adult in breeding plumage: black head, neck, upper breast, upper back and wings; white lower back, rump, uppertail coverts, lower breast and belly; long, pointed red bill; red legs; bold white bar across the upperwing in flight",
+    "subject": "Eurasian Oystercatcher (Haematopus ostralegus), adult in breeding plumage, as seen on Korean south-west coast islands and mudflats from April to July: head, neck, upper breast, mantle, scapulars and folded wings glossy black, the black ending in a clean straight line across the breast; lower breast, belly, flanks and undertail white; lower back and rump white (visible in flight); tail white with a broad black terminal band. Bill long, straight and stout, bright orange-red, laterally flattened, slightly paler towards the tip. Iris red with an orange-red eye-ring. Legs stout, pink to pinkish-red.",
     "pose": "probing deep into a mudflat with its long bill",
     "scene": "Korean southwestern coast: tidal mudflat beside a rocky reef and a small uninhabited island; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black head, neck and upperparts, white lower breast and belly, long red bill, red legs",
-      "adult, flight view from above: bold white wing bar, white lower back and rump",
-      "juvenile, side view: brownish-black back and wing coverts with buff fringes, duller red bill and legs"
-    ]
+      "adult breeding, side view standing: black head, neck, upper breast and upperparts with a sharp border to the white lower breast and belly, long straight orange-red bill, red eye with orange-red eye-ring, pink legs",
+      "adult, in flight seen from above: black upperwing with a broad white wing bar, white rump and wedge up the lower back, white tail with a broad black terminal band",
+      "juvenile, side view standing: brownish-black back and wing coverts with buff fringes, duller orange bill with a dark tip, dark eye, greyish-pink legs"
+    ],
+    "build": "Large, heavy-bodied shorebird, 45cm, clearly bigger and heavier than a Feral Pigeon and a Grey Plover. Thick neck, rounded head. Bill much longer than the head, straight and blade-like, deep at the base. Legs medium length, thick and pink, toes unwebbed. At rest the wingtips reach about the tail tip. In flight shows a broad white bar across the upperwing, a white wedge from the rump up the lower back and a black tail band; flies fast and low on stiff wings.",
+    "avoid": [
+      "Do not paint a white throat collar on a breeding adult; the head and neck are solid black.",
+      "Do not paint the bill curved, yellow or black; it is straight and orange-red.",
+      "Do not paint black, yellow or bright scarlet legs; they are pink to pinkish-red.",
+      "Do not leave out the white wing bar and white back wedge in flight views."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

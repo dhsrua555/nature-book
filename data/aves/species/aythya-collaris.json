@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Ring-necked Duck (Aythya collaris), adult male in winter plumage, as worn from October to April: head, neck, breast, back and rear all black, the head with a purple gloss in good light; the dark chestnut collar at the base of the neck is faint and usually invisible; flanks pale grey, bordered in front by a vertical white spur that rises towards the shoulder; belly white. Bill slate-grey with a thin white line around the base and a broad white ring just behind the black tip; iris bright yellow; legs and feet grey.",
+    "pose": "swimming on calm open water, head raised showing the peaked crown, side view",
+    "scene": "Korean freshwater reservoir in winter, calm grey water edged with dry reeds; no people, buildings or text",
+    "views": [],
+    "build": "Medium-small diving duck, about the size of a Tufted Duck, compact and short-bodied, floating fairly high. Head distinctly angular, with a high peak at the rear of the crown and no crest or tuft. Bill shorter than the head, broad and flat, typical of the diving ducks. Short grey legs set far back. Wings hidden under the flanks at rest; in flight black upperparts and a grey, not white, bar along the secondaries. Tail short and dark, held low on the water.",
+    "avoid": [
+      "Do not add a drooping crest or white flanks — that is Tufted Duck (Aythya fuligula); this species has no tuft and grey flanks with a white spur in front.",
+      "Do not paint the head rounded; it is peaked at the rear of the crown.",
+      "Do not leave out the white ring behind the black bill tip or the white line at the bill base.",
+      "Do not paint a white wing-bar; the wing-bar is grey.",
+      "Do not paint a bold chestnut neck ring; the collar is barely visible."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -54,13 +54,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Little Curlew (Numenius minutus), adult in breeding plumage: blackish-brown forehead, crown and hindcrown with a reddish-grey central crown stripe, pale yellow supercilium, blackish-brown stripe below the eye, pale yellow ear coverts, cheeks, hindneck and neck sides with fine blackish-brown shaft streaks, yellow chin and throat, blackish-brown scapulars and back with reddish-grey fringes, pale yellow undertail coverts barred brown, brown tail barred blackish-brown",
+    "subject": "Little Curlew (Numenius minutus), adult as seen in Korea on spring passage (April–May; plumage similar all year): crown blackish-brown with a narrow buff central stripe; broad pale buff supercilium; pale lores and a thin dark brown stripe behind the eye; cheeks, neck sides and hindneck pale buff with fine dark streaks; chin and throat pale buff; upperparts blackish-brown with buff notches and fringes; breast buff finely streaked dark, belly whitish-buff with little marking; rump and tail brown, the tail barred blackish-brown; undertail coverts pale buff barred brown. Short, slightly decurved dark bill with a pinkish base to the lower mandible; dark eye; legs bluish-grey.",
     "pose": "walking on open ground near water, side view",
     "scene": "Korean coastal mudflat and open ground by an estuary during spring migration; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: blackish-brown crown with reddish-grey central stripe, pale yellow supercilium, yellow throat, blackish-brown back with reddish-grey fringes",
-      "tail detail: brown tail with blackish-brown bars, pale yellow undertail coverts barred brown"
-    ]
+      "adult, side view standing on short grass: blackish-brown crown with a buff central stripe, broad pale buff supercilium, thin dark eye-stripe, pale buff neck finely streaked, blackish-brown back with buff fringes, short gently decurved bill, bluish-grey legs",
+      "adult in flight seen from above: uniform brown upperwing and back with no white on the rump, brown tail barred blackish-brown, short gently decurved bill"
+    ],
+    "build": "Small curlew, about 33cm long, about the size of a feral pigeon and much smaller than Whimbrel; slim and long-legged, with a small rounded head and a gentle, plover-like expression. Bill short for a curlew — only a little longer than the head — fairly thin, nearly straight for most of its length and gently decurved towards the tip. Legs medium-long, bluish-grey. At rest the wingtips reach about the tail tip. In flight uniform brown upperparts with no white on the rump or back, and buffish, barred underwings.",
+    "avoid": [
+      "Do not paint a long, strongly curved bill — that is Whimbrel or Eurasian Curlew; this bill is short and only gently decurved.",
+      "Do not paint a white rump or a white wedge up the back (Whimbrel).",
+      "Do not paint a dark loral stripe joining the eye to the bill; the lores are pale.",
+      "Do not paint golden-spangled upperparts (Pacific Golden Plover)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

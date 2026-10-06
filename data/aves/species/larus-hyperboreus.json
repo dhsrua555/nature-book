@@ -40,13 +40,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Glaucous Gull (Larus hyperboreus), adult: large gull with pale grey back, white primaries, yellow bill with a red spot, pink legs",
+    "subject": "Glaucous Gull (Larus hyperboreus), adult in winter plumage, as seen on Korean estuaries such as the Nakdong from November to March: head and neck white with light brown streaking and smudges; mantle and wing coverts very pale grey, paler than any other large gull in Korea; primaries entirely white with no black at all, the white wingtips extending only a little beyond the tail; underparts and tail white; heavy yellow bill with a red spot near the tip of the lower mandible; pale yellow iris and yellow eye-ring; pink legs.",
     "pose": "standing on a sandbar, side view",
     "scene": "Korean river mouth like the Nakdong estuary, sandbars and shallow water; no people, buildings or text",
     "views": [
-      "adult, side view standing: pale grey back, white primaries, yellow bill with red spot, pink legs",
-      "adult in flight: pale grey back and all-white primaries"
-    ]
+      "adult winter, side view standing on a sandbar: very pale grey back and wings, pure white wingtips projecting a little beyond the tail, light brown streaking on head and neck, heavy yellow bill with a red spot, pale eye, pink legs",
+      "adult in flight, seen from above, head, body and tail in line: very pale grey upperwing with completely white primaries and white trailing edge, white tail, no black anywhere on the wing",
+      "first-winter, side view standing: uniformly pale creamy-buff plumage with fine brown vermiculations, whitish primaries, pink bill with a sharply defined black tip, dark eye, pink legs"
+    ],
+    "build": "Very large, bulky gull, about 70cm, larger and heavier than Vega Gull, among the biggest gulls on the Korean coast; deep chest, flat crown and a fierce expression. Bill long, heavy and deep, about as long as the head, with a marked angle on the lower mandible. Legs fairly long, thick and pink. At rest the white primaries project only a short distance beyond the tail tip, giving a heavy, short-winged rear end. In flight broad wings, pale grey above with all-white primaries and a white trailing edge; no dark wingtips.",
+    "avoid": [
+      "Do not paint black or dark grey wingtips - Vega Gull (Larus vegae) and Slaty-backed Gull have them; this species has pure white primaries.",
+      "Do not give it a small rounded head, slim bill and long wingtips far beyond the tail - that is Iceland Gull (Larus glaucoides).",
+      "Do not paint yellow legs or a red eye-ring.",
+      "Do not darken the back; it is very pale grey, almost white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

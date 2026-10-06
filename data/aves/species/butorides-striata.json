@@ -56,13 +56,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Striated Heron (Butorides striata), adult: blue-black crown and hindneck with a black crest projecting from the back of the head, grey body, darker grey upperwing with white-edged coverts, black-and-white streaks on the centre of the breast, long black bill, short greenish-yellow legs",
+    "subject": "Striated Heron (Butorides striata), adult, as seen in Korea from April to September: crown and long nape feathers glossy blue-black, forming a short, shaggy black crest that projects from the back of the head; sides of the head and neck grey; chin and throat white, continuing as a narrow white-and-dark streaked line down the centre of the foreneck onto the breast. Back and scapulars grey with a greenish sheen and long, narrow plumes; upperwing darker greenish-grey, each covert and tertial neatly fringed whitish, giving a scaly, netted pattern. Underparts plain grey, paler on the belly. Bill blackish, long and pointed. Iris yellow; bare lores yellowish-green. Legs short, greenish-yellow.",
     "pose": "perched on a low branch in woodland, side view",
     "scene": "Korean summer forest with a tree holding a saucer-shaped nest; no people, buildings or text",
     "views": [
-      "adult, side view perched: blue-black crown with crest, grey body, white-edged wing coverts, streaked breast centre, short greenish-yellow legs",
-      "adult, head detail: blue-black crown and projecting black crest, long black bill"
-    ]
+      "adult, side view perched low on a branch over water with the body horizontal: blue-black crown with projecting black crest, grey body, dark greenish-grey upperwing with white-edged coverts, black-and-white streaks down the centre of the breast, short greenish-yellow legs",
+      "adult, head detail in side view: blue-black crown and shaggy crest pointing backward, yellow iris, yellowish-green lores, long pointed blackish bill, white throat"
+    ],
+    "build": "Small, compact heron (about 52cm in the book's measure), clearly smaller and slimmer than a Black-crowned Night Heron. Flat-crowned head with a pointed rear crest; neck usually retracted into the shoulders but shot out surprisingly long when striking. Bill straight and dagger-like, about as long as the head or a little longer. Legs short, greenish-yellow, with little bare tibia. Crouches low and horizontal on branches and rocks just above the water. At rest the wingtips reach about the tip of the short, square tail. In flight looks dark, with rounded wings, neck drawn in and feet just beyond the tail.",
+    "avoid": [
+      "Do not paint long white nape plumes or a red eye — those belong to Black-crowned Night Heron.",
+      "Do not paint the adult brown with buff spots and streaked underparts; that is juvenile plumage.",
+      "Do not give it long legs or an upright, egret-like stance; it is short-legged and crouching.",
+      "Do not paint a rufous or chestnut neck; Korean birds are grey-necked."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

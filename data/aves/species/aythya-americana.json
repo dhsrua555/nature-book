@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Redhead (Aythya americana), adult male in winter: rounded head and upper neck bright chestnut-red; lower neck and breast black; back and flanks medium grey, finely vermiculated; rear end and undertail black; belly white. Bill pale bluish grey with a narrow whitish band near the tip and a black tip; bright yellow eye; grey legs.",
+    "pose": "swimming on open water, side view, head held up",
+    "scene": "Korean winter reservoir with calm open water and dry reed edges; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, compact diving duck, a little larger than the Common Pochard, sitting low on the water. Head rounded with a steep forehead, not a long sloping wedge. Bill medium length, a little shorter than the head, broad and fairly straight along the top. Legs short, set far back. Tail short, held flat on the water. In flight a grey upperwing with a paler grey stripe along the flight feathers. Female plain warm brown with a paler face, a pale eye-ring, dark eye and a grey bill with a pale band and dark tip.",
+    "avoid": [
+      "Do not paint a sloping forehead, a long black bill with a grey band or a red eye; those mark the Common Pochard (Aythya ferina).",
+      "Do not make the back and flanks whitish with a long wedge-shaped head and black bill (Canvasback).",
+      "Do not paint a white wing stripe like the Tufted Duck; the wing stripe is pale grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

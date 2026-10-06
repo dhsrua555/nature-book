@@ -46,13 +46,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-necked Phalarope (Phalaropus lobatus), adult female breeding: dark slate upperparts with sandy-buff stripes on the mantle, blackish-slate lower back, rump and uppertail coverts with white fringes",
+    "subject": "Red-necked Phalarope (Phalaropus lobatus), adult female in breeding plumage as seen on Korean coastal waters in May: head and hindneck dark slate-grey with a small white spot above the eye; chin and throat white; a bright chestnut-orange band runs from behind the eye down the side of the neck and across the foreneck; breast-sides and flanks slate-grey, rest of the underparts white; mantle and scapulars dark slate with bold sandy-buff stripes along their edges; lower back, rump and uppertail coverts blackish-slate fringed white. Bill black, needle-thin; dark eye; legs dark grey with lobed toes.",
     "pose": "swimming on calm water, side view",
-    "scene": "Korean estuary during autumn migration, calm open water near the shore; no people, buildings or text",
+    "scene": "Korean estuary during spring migration in May, calm open water near the shore; no people, buildings or text",
     "views": [
-      "adult female breeding, side view swimming: dark slate upperparts with sandy-buff mantle stripes",
-      "adult winter, side view swimming: pale grey upperparts, white forehead and underparts"
-    ]
+      "adult female breeding plumage (May), side view swimming: dark slate head with a small white spot above the eye, white throat, chestnut-orange neck band, slate breast-sides, dark slate back with sandy-buff stripes, needle-thin black bill",
+      "adult male breeding plumage (May), side view swimming: same pattern but duller and browner, the neck band paler orange-buff and less extensive, more white above the eye",
+      "adult winter plumage (autumn and winter), side view swimming: white forehead and underparts, dark rear crown, black patch through and behind the eye, pale grey upperparts with white feather edges forming pale stripes on the back",
+      "in flight seen from above: dark wings with a clear white wing-bar, sandy-buff back stripes, blackish-slate rump fringed white, white sides to the rump and tail base"
+    ],
+    "build": "Small, dainty wader, about 18cm, a little larger than a sparrow, that usually swims, floating high and buoyantly like a tiny gull and often spinning on the spot to stir up food. Small round head, slender neck. Bill black, straight and needle-thin, about as long as the head. Legs short, dark grey, with lobed toes. At rest the wingtips reach about the tail tip or a little beyond. In flight a clear white wing-bar on dark wings and a dark centre to the rump and tail with white sides.",
+    "avoid": [
+      "Do not paint a thick bill or a yellow bill base — Red Phalarope has a thicker, yellow-based bill; this one is black and needle-thin.",
+      "Do not paint the male brighter than the female; in phalaropes the female is the more colourful sex.",
+      "Do not show the chestnut neck on winter birds; they are grey and white with a black eye-patch.",
+      "Do not paint it wading on long legs; it usually swims, sitting high on the water."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

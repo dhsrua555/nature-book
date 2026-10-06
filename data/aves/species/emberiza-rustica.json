@@ -46,14 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rustic Bunting (Emberiza rustica), adult male in breeding plumage: black head, white supercilium and throat, rufous-brown upperparts with black streaks, brown band across the breast, greyish-white underparts with sparse brown streaks",
+    "subject": "Rustic Bunting (Emberiza rustica), adult male in winter plumage, as seen on Korean field margins from November to March: crown brown with fine dark streaks, often raised into a short peak; broad whitish-buff supercilium; brown ear-coverts with a pale spot at the rear corner; whitish throat bordered by a dark malar stripe; nape rufous; mantle rufous-brown streaked black; rump rufous; underparts white with a band of rufous-chestnut spots across the breast and bold rufous streaks along the flanks; wings brown with two narrow whitish wing bars; tail dark brown with white outer feathers. Conical bill pink with a darker culmen; dark eye; pink legs.",
     "pose": "foraging on the ground, picking up grass seeds",
     "scene": "Korean winter: field margins and low hills at the edge of open mixed woodland; no people, buildings or text",
     "views": [
-      "adult male breeding, side view perched: black head, white supercilium and throat, brown breast band, black-streaked rufous-brown upperparts, greyish-white underparts",
-      "adult winter, side view on the ground: brown head and paler colours overall, white supercilium and throat, brown breast band",
-      "adult female, head detail: duller crown and cheeks, fainter streaks on the underparts"
-    ]
+      "adult male, breeding plumage (seen on spring passage, March–April), side view perched: black crown and ear-coverts, white supercilium and throat, rufous nape, rufous-chestnut breast band, rufous-streaked flanks, black-streaked rufous-brown upperparts, white belly",
+      "adult in winter plumage, side view on the ground: brown streaked crown with a short peak, whitish supercilium and throat, rufous-chestnut spotted breast band, rufous flank streaks on greyish-white underparts, white outer tail feathers",
+      "adult female, head detail in side view: brown crown and ear-coverts (never black), buffish-white supercilium and throat, dark malar stripe, pale spot at the rear of the ear-coverts"
+    ],
+    "build": "Small bunting, 15cm, sparrow-sized but slimmer and longer-tailed, often crouching while feeding on the ground in small flocks. The crown feathers are frequently raised into a short crest, giving a peaked head. Bill conical and pointed, much shorter than the head. Legs short, pink. At rest the wingtips reach just past the base of the tail. Tail medium length, notched, with white outer feathers that flash in flight.",
+    "avoid": [
+      "Do not paint the breast band grey or black; it is rufous-chestnut.",
+      "Do not paint yellow on the face or throat — that is Yellow-throated Bunting.",
+      "Do not paint a black head on winter birds; it is brown outside the breeding season.",
+      "Do not streak the whole breast dark; the markings are rufous, in a breast band and along the flanks."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Siberian Rubythroat (Calliope calliope), adult male winter: dark brown forehead to nape, long white supercilium and short white moustachial stripe, both slightly blurred by dark feather tips, dark brown bill with a paler base to the lower mandible, brown iris, brown legs",
+    "subject": "Siberian Rubythroat (Calliope calliope), adult male on autumn passage (September–October): forehead to nape dark olive-brown; a long white supercilium and a short white moustachial stripe ending below the cheek, both slightly blurred by dark feather tips; lores and a thin malar line black; chin and throat glossy ruby-red, narrowly framed black; upperparts, wings and tail plain olive-brown; breast greyish-buff; belly whitish; flanks buff-brown; bill dark brown with a paler base to the lower mandible; brown eye; brown legs.",
     "pose": "skulking low in dense grass at the edge of a thicket, side view",
     "scene": "Korean autumn valley thicket with tall grass beside a stream; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: dark brown crown, white supercilium and short white moustachial stripe, brown legs",
-      "adult female winter, side view perched: back, wings and tail often slightly paler than the male"
-    ]
+      "adult male, side view perched low: dark olive-brown crown and upperparts, long white supercilium, short white moustachial stripe, black lores and malar line, glossy ruby-red throat, greyish-buff breast, whitish belly, brown legs",
+      "adult female, side view perched: plain olive-brown upperparts, whitish supercilium and moustachial stripe fainter than the male's, white throat (sometimes with a faint pink tinge), no black on the face, buff-brown breast and flanks"
+    ],
+    "build": "Robust, chat-like bird, about 15.5cm — a little larger and plumper than a sparrow, with a large rounded head. Bill thin, straight and pointed, shorter than the head. Legs fairly long and strong, brown. Wings short and rounded. Tail medium-length, often cocked and flicked. Skulks in dense grass and low scrub, hopping on the ground, and sometimes perches on a low open twig.",
+    "avoid": [
+      "Do not omit the male's ruby-red throat — the mark in both its Korean and English names.",
+      "Do not spread the red onto the breast or belly; it is confined to the chin and throat.",
+      "Do not paint a blue throat band (Bluethroat) or an orange breast (robin).",
+      "Do not paint the female with a red throat or black face marks."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

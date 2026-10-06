@@ -67,7 +67,10 @@
       "adult, flight view from below: pale brown underparts, dark brown belly and flanks, dark brown underwing patches and wingtips",
       "adult, side view perched: uniform dark brown upperparts, dark brown eye",
       "juvenile, head detail: yellowish-brown eye"
-    ]
+    ],
+    "build": "TODO",
+    "confidence": "low",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

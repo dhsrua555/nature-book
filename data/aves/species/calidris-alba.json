@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sanderling (Calidris alba), adult winter: pale grey upperparts, white underparts, black bill and legs",
+    "subject": "Sanderling (Calidris alba), adult in winter (non-breeding) plumage, as seen on Korean sandy shores and river mouths from October to March: very pale silvery-grey upperparts with fine dark shaft streaks and whitish feather edges; a blackish patch at the bend of the wing (lesser coverts) often shows as a dark shoulder; forehead, face and supercilium white with a faint grey eye-stripe; underparts pure white without breast streaks; straight black bill; dark eye; black legs.",
     "pose": "foraging on wet sand at the water's edge",
     "scene": "Korean sandy coast near a river mouth in winter, wet sand and shallow water; no people, buildings or text",
     "views": [
-      "adult winter, side view standing: pale grey upperparts, white underparts, black bill and legs",
-      "adult breeding, side view standing: rufous upperparts with black markings, white underparts"
-    ]
+      "adult winter, side view running on wet sand: palest of the small waders, silvery-grey back, dark shoulder patch at the bend of the wing, white face and pure white underparts, straight black bill and black legs",
+      "adult breeding (May), side view standing: head, neck, breast and upperparts rufous-chestnut with black spots and whitish feather fringes, clean white belly sharply set off, black bill and legs"
+    ],
+    "build": "Small, plump, compact sandpiper, 20cm, about the size of a Dunlin but chunkier, larger than a sparrow; short neck and round head. Bill black, straight, about as long as the head, fairly thick at the base with a blunt tip. Legs black, short to medium; only three forward toes and no hind toe. At rest the wingtips reach about the tail tip. In flight a broad, bold white wing-bar across dark flight feathers and coverts, a dark leading edge to the wing, and a rump and tail with a dark centre and white sides. Runs very fast after retreating waves like a clockwork toy.",
+    "avoid": [
+      "Do not droop the bill tip (Dunlin); the Sanderling's bill is straight.",
+      "Do not paint a grey-brown streaked breast on the winter bird; it is pure white below.",
+      "Do not paint yellow or greenish legs, or a hind toe.",
+      "Do not paint rufous breeding colours on the bird in the winter scene."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

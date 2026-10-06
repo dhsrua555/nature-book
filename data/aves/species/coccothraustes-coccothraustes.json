@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Hawfinch (Coccothraustes coccothraustes), adult winter: thick bluish-white bill with a little black at the base, thick neck, grey nape, pinkish-brown body plumage, blue-black wings, black tail with a white tip",
+    "subject": "Hawfinch (Coccothraustes coccothraustes), adult male in winter, as seen in Korean woodland from November to March: crown and cheeks warm tawny-orange brown; black lores and a narrow black line around the bill base joining a small black bib on the chin; broad grey collar across the nape and neck sides; mantle and back dark chestnut-brown; wings glossy blue-black with a broad whitish-buff patch on the greater coverts; underparts pinkish-brown, paler on the belly, undertail coverts white; short tail chestnut-brown in the centre with a broad white tip. Massive conical bill, pale bluish-white in winter; pinkish-brown legs.",
     "pose": "perched on a deciduous branch, cracking a seed",
     "scene": "Korean winter woodland of bare broadleaf trees; no people, buildings or text",
     "views": [
-      "adult winter, side view perched: thick bluish-white bill, grey nape, pinkish-brown body, blue-black wings, black tail with white tip",
-      "head detail in spring: metallic blue bill with a little black at the base"
-    ]
+      "adult male winter, side view perched: massive pale bluish-white conical bill, tawny-orange head, black lores and chin bib, grey nape collar, pinkish-brown body, blue-black wings with a pale covert patch, short tail with a white tip",
+      "adult, head detail in spring: the same massive bill now metallic steel-blue, black lores and a black line around the bill base, thick neck with grey nape",
+      "adult in flight, seen from above: blue-black wings with a broad white band across the primaries, pale covert panel, chestnut back, short tail with a broad white tip"
+    ],
+    "build": "Large, heavy-set finch, about 18cm, bigger and much stouter than a sparrow; huge head, thick neck and short tail give a top-heavy, bull-necked shape. Bill massive, deep-based and conical with a straight culmen, nearly as long as the head. Legs short, pinkish-brown. Flight fast and bounding, showing a broad white band across the primaries, a pale panel on the wing coverts and a broad white tail tip. Feeds in trees and on the ground under them, cracking hard seeds.",
+    "avoid": [
+      "Do not paint a yellow bill or a black head; those belong to Japanese Grosbeak (Eophona personata) and Chinese Grosbeak (Eophona migratoria).",
+      "Do not give it a long tail or a slim finch shape; the tail is short and the head huge.",
+      "Do not paint the bill small or dark in the winter bird; it is huge and pale.",
+      "Do not paint the whole tail black; it is chestnut in the centre with a broad white tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

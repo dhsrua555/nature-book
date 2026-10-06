@@ -44,13 +44,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Beijing Babbler (Rhopophilus pekinensis), adult: greyish-brown upperparts with dark brown streaks except on the uppertail coverts, black stripe on the cheek, white underparts, rufous-brown streaks on the flanks, tail longer than the wing with greyish-brown central feathers, blackish-brown outer feathers and a greyish-white tip",
+    "subject": "Beijing Babbler (Rhopophilus pekinensis), adult in winter: crown, nape and upperparts greyish brown, streaked dark brown everywhere except the plain rump and uppertail coverts; pale greyish supercilium; a bold black moustachial stripe down the side of the throat; white throat and underparts, with neat rufous-chestnut streaks along the flanks. Very long, graduated tail: central feathers greyish brown like the back, outer feathers blackish brown with greyish-white tips. Short, fairly stout pointed bill; dark eye.",
     "pose": "perched on a shrub stem in tall grass, long tail hanging, side view",
     "scene": "Korean winter hillside with tall dry grass and scattered shrubs; no people, buildings or text",
     "views": [
-      "adult, side view perched: streaked greyish-brown upperparts, black cheek stripe, white underparts with rufous-brown flank streaks, long tail",
-      "adult, tail from above: greyish-brown central feathers, blackish-brown outer feathers, greyish-white tip"
-    ]
+      "adult, side view perched on a grass stem: greyish-brown upperparts streaked dark brown, black moustachial stripe, white underparts with rufous-brown flank streaks, very long graduated tail hanging down",
+      "adult, tail from above with feathers spread: greyish-brown central feathers, blackish-brown outer feathers with greyish-white tips, unstreaked rump and uppertail coverts"
+    ],
+    "build": "Small, slim, long-tailed bird with a sparrow-sized body; the tail alone is longer than the wing and makes up about half the total length. Rounded head, short neck. Bill short, fairly stout and pointed, shorter than the head. Legs sturdy, of medium length. Wings short and rounded, reaching only the base of the tail. Tail strongly graduated, often hanging down or slightly cocked. Moves low through tall grass and bushes, in small flocks in winter.",
+    "avoid": [
+      "Do not make the upperparts plain; crown, back and wing coverts are clearly streaked dark brown.",
+      "Do not paint it like a Long-tailed Tit (round body, tiny bill, pink-and-black plumage) or a parrotbill (stubby deep bill).",
+      "Do not add wing bars, a rufous crown or streaks across the centre of the breast; the rufous streaks are on the flanks only."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

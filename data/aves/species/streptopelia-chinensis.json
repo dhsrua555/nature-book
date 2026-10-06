@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Spotted Dove (Streptopelia chinensis), adult: forehead and crown grey, the face tinged pinkish-grey; a broad black half-collar on the hindneck and neck sides, densely spotted with white; mantle, back and wing coverts warm grey-brown and fairly plain; flight feathers dark brown; breast and belly vinous-pink, paling to whitish on the vent; tail long and graduated, the central feathers brown, the outer feathers blackish with broad white tips. Bill blackish; legs red.",
+    "pose": "walking on bare ground beneath shrubs, side view",
+    "scene": "Farmland edge with scattered trees on a Korean offshore island in May, during spring migration, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, slim dove, a little smaller than Oriental Turtle Dove, with a smaller head and a noticeably longer, graduated tail. Bill short, thin and dark. Legs short, red. At rest the long tail extends far beyond the wingtips. When landing or taking off the fanned tail shows broad white corners. Walks on the ground with a nodding head.",
+    "avoid": [
+      "Do not paint the neck patch as black-and-grey stripes or the upperparts with rufous scaling; those mark Oriental Turtle Dove (Streptopelia orientalis).",
+      "Do not paint a narrow plain black collar (Eurasian Collared Dove); the Spotted Dove's collar is broad and full of white spots.",
+      "Do not paint a short, square tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Desert Wheatear (Oenanthe deserti), adult male in spring, a vagrant on a Korean coastal dune: crown, nape and back pale sandy-buff; a whitish supercilium; face, chin and throat solid black, the black running down the sides of the neck to join the black wings; scapulars and wing coverts black; breast and belly creamy buff-white; rump and uppertail coverts white; tail almost entirely black, with white only at the base. Bill black; eye dark; legs black.",
+    "pose": "perched upright on a low sandy hummock, side view",
+    "scene": "sandy coastal dune with sparse dry grass behind a Korean beach in early spring (March–April), soft clear light; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact wheatear about the size of a sparrow, slightly smaller and shorter-legged than Isabelline Wheatear, with a rounded head and upright stance; perches on low hummocks and drops to the ground for insects. Bill black, slender, shorter than the head. Legs black, moderately long. Tail square, looking all black above a white rump. In flight the black wings contrast with the sandy back and the white rump with the black tail.",
+    "avoid": [
+      "Do not paint a white tail with a black inverted T (Northern and Isabelline Wheatears); in Desert Wheatear the tail is almost entirely black.",
+      "Do not separate the black throat from the black wings with a pale band; in the male they join along the neck side.",
+      "Do not paint a grey or blue-grey back; the male's crown and back are sandy-buff.",
+      "Do not paint a black crown or cap."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

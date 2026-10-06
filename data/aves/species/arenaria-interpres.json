@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ruddy Turnstone (Arenaria interpres), adult breeding: stocky build, black head with white brow, lores, forehead, chin and throat, broad black band across neck and breast, rufous back blotched with black, white underparts, black tail, short orange legs",
+    "subject": "Ruddy Turnstone (Arenaria interpres), adult male in breeding plumage, as seen on Korean rocky shores in May: head white with fine black streaks on the crown; a bold black harness on the face - black from the bill base passing below the eye and curving down the cheek to the breast, and a second black line up the neck side - enclosing white patches on the face; forehead, chin and throat white; a broad black bib across the foreneck and breast extends up the neck sides, with a white patch on each side of the breast; mantle, scapulars and tertials bright chestnut-orange with large black patches; belly and undertail white; tail black with a white base; short black wedge-shaped bill; dark eye; short bright orange legs.",
     "pose": "foraging among rocks at the tide line, side view",
     "scene": "Korean rocky coast during spring migration: wave-washed reef beside a sandy and gravelly shore; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black-and-white head, broad black breast band, rufous back with black blotches, white underparts, short orange legs",
-      "adult, head and breast detail: black head with white brow, lores, forehead, chin and throat, broad black breast band"
-    ]
+      "adult male breeding, side view standing on a rock: black-and-white harlequin head and breast, chestnut-orange back with black patches, white belly, black tail, short black wedge bill, short orange legs",
+      "adult, head and breast detail, front three-quarter view: white forehead, brow, face patches, chin and throat, black lines crossing the face, broad black breast bib reaching up the neck sides",
+      "adult in flight, seen from above, head, body and tail in line: white wing-bar, white inner-wing patch, white back stripe, black band across the white rump, broad black band across the white tail"
+    ],
+    "build": "Small, stocky, short-legged shorebird, 22cm, about the size of a Common Starling but bulkier and lower; chunky body, short neck, horizontal stance. Bill black, short (shorter than the head), stout, wedge-shaped and pointed, looking slightly upturned. Legs short, bright orange. At rest the wingtips reach about the tail tip. In flight a striking pied pattern: white wing-bar, white patch on the inner wing coverts, white stripe down the centre of the back, white rump crossed by a black band, and a white tail with a broad black band near the tip. Flips stones and seaweed with the bill.",
+    "avoid": [
+      "Do not give it long legs or a long thin bill; it is short-legged with a short, stout, wedge-shaped bill.",
+      "Do not paint yellow, pink or black legs; they are bright orange.",
+      "Do not reduce the black breast to a thin neck ring like the small plovers; it is a broad black bib.",
+      "Do not paint a plain grey-brown back in this spring scene; breeding birds are chestnut and black above."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

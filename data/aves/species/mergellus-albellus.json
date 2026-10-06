@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Smew (Mergellus albellus), adult male: mostly white, black patch around the eye, black lines on the back and breast, short crest on the crown",
+    "subject": "Smew (Mergellus albellus), adult male in breeding plumage, as seen on Korean lakes and rivers from November to March: mostly white plumage; a black patch around the eye extending forward to the bill base; a short white crest with a black V-shaped line at its rear on the nape; two thin black lines curving across the side of the breast; black back; scapulars white marked with black lines; flanks pale grey finely vermiculated; tail grey. Short dark grey bill with a slight hook; dark eye; grey legs.",
     "pose": "swimming on a quiet lake, about to dive",
     "scene": "Korean winter lake with calm open water and dry reeds along the shore; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: mostly white, black eye patch, black lines on the back and breast, short crest",
-      "adult female, side view swimming: brown head, white cheeks and foreneck, grey body"
-    ]
+      "adult male, side view swimming: mostly white, black patch around the eye, short white crest with a black nape line, black back, two thin black lines on the breast side, short dark grey bill",
+      "adult female, side view swimming: chestnut-brown crown and nape, sharply white cheeks, chin and foreneck, dark lores, grey body, short dark grey bill"
+    ],
+    "build": "Small, compact diving duck, about 42cm, smaller than a Mallard, with a large head, short crest and short neck. Bill short and narrow, dark grey, much shorter than the head, with a small hook at the tip; far shorter than the bills of other mergansers. Legs grey, set far back. Floats buoyantly and dives often. In flight looks black and white, with a white oval patch on the inner forewing.",
+    "avoid": [
+      "Do not paint a long red bill; that belongs to Red-breasted Merganser (Mergus serrator) and Common Merganser (Mergus merganser).",
+      "Do not leave out the male's black eye patch or the black lines on its breast.",
+      "Do not paint the female's head grey or dark brown all over; she has a chestnut cap with sharply white cheeks and throat.",
+      "Do not give a long shaggy crest; the male's crest is short and neat."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

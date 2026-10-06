@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-throated Thrush (Turdus ruficollis), adult male in spring, as seen on Korean islands in April and May: plain ash-grey-brown crown, nape, back, wings and rump with no rufous tones, spots or scaling; a brick-red supercilium, and brick-red chin, throat, foreneck and upper breast forming a solid unmarked bib that ends cleanly on the breast; lores dusky grey; rest of the underparts whitish with a light grey wash on the breast sides and flanks; tail grey-brown in the centre with rufous outer feathers; bill dark grey with a yellow base to the lower mandible; dark brown eye; pale brown legs.",
+    "pose": "standing upright on short grass at a woodland edge, side view, breast pushed forward between short runs",
+    "scene": "Korean offshore island during spring migration in April: short grass and leaf litter at the edge of budding broadleaf woodland; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized thrush, about the size of a Dusky Thrush and a little smaller and plumper than a Brown-eared Bulbul, with a shorter tail; rounded head and an upright stance on the ground with the breast pushed forward. Bill straight, a little shorter than the head. Legs medium length, pale brown. At rest the wingtips cover only the base of the tail; no wing-bars and no rufous wing panel. Tail medium length, square-ended, with rufous sides that show when it is spread on take-off. Underwing coverts orange-rufous in flight.",
+    "avoid": [
+      "Do not paint rufous scaling or spots along the breast sides and flanks or a rufous wing panel; those are Naumann's Thrush (Turdus naumanni). This species has a solid red bib and plain wings.",
+      "Do not paint the bib black; a black throat and breast is Black-throated Thrush (Turdus atrogularis).",
+      "Do not paint dark spots or streaks on the adult male's red bib or on the whitish belly.",
+      "Do not paint a white supercilium or white throat on the male; both are brick-red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

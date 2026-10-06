@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "King Eider (Somateria spectabilis), adult male in winter plumage, as worn from November to April: crown and nape pale powder-blue, cheeks pale green; a large, swollen orange frontal shield above the bill, edged in black; a black V on the chin; neck and breast white, the breast tinged salmon-pink; back, flanks and rear black, with a white patch at the rear of the flank and two small raised black triangular sails on the back. Bill bright red with a pale tip; iris dark; legs and feet dull orange-yellow.",
+    "pose": "swimming among gentle waves off a rocky shore, side view",
+    "scene": "cold winter sea off Korea's northeast coast, dark rocks and grey waves; no people, buildings or text",
+    "views": [],
+    "build": "Large, stocky sea duck, bulkier than a Mallard and a little smaller than Common Eider, with a heavy rounded body sitting low in the water. Head rounded on a short thick neck; in the male the big orange shield rises steeply above the bill. Bill short, clearly shorter than the head and shorter than in Common Eider. Short legs set far back. In flight the male shows a black back and black wings with large white patches on the forewing. Tail short and dark, often held flat on the water.",
+    "avoid": [
+      "Do not paint a white back or the long, wedge-shaped head and greenish bill of Common Eider (Somateria mollissima); the King Eider male has a black back and a red bill with an orange shield.",
+      "Do not make the frontal shield small or yellow-green; it is large, swollen and orange.",
+      "Do not forget the two small black sails on the back.",
+      "Do not add a crest."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Ryukyu Flycatcher (Ficedula owstoni), adult male, a spring vagrant in Korean island woodland: crown, nape and back olive-green; a broad yellow supercilium running from the bill to behind the eye; rump yellow; wings blackish with a white patch on the inner greater coverts; tail blackish; throat yellow with an orange tinge, breast yellow, fading to whitish on the lower belly and undertail coverts. Bill short and dark; eye dark; legs dark grey.",
+    "pose": "perched on a mossy branch in the shaded mid-storey, side view",
+    "scene": "evergreen broadleaf forest on a southern Korean island in spring (April–May), dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact flycatcher, smaller than a sparrow, with the shape of Narcissus Flycatcher: rounded head, short neck, upright posture in the shaded mid-storey. Bill short, flat and dark, much shorter than the head. Legs short and dark grey. Tail medium length and square, without white sides.",
+    "avoid": [
+      "Do not paint a black back, crown and tail like male Narcissus Flycatcher; the upperparts are olive-green.",
+      "Do not paint a white supercilium (Yellow-rumped Flycatcher).",
+      "Do not end the yellow at the eye as in Green-backed Flycatcher; the yellow supercilium continues behind the eye.",
+      "Do not add wing bars or white tail sides beyond the single white wing patch."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

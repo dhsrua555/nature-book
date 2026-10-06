@@ -79,14 +79,23 @@
     }
   ],
   "art": {
-    "subject": "Peregrine Falcon of the East Asian resident race (Falco peregrinus japonensis), adult: slate-black crown and nape forming a dark hood, with a large, bold black moustachial patch below the eye; white throat and pale cheeks contrasting sharply with the black head; dark blue-grey back, wings and tail with faint darker barring, black wingtips; tail with thin dark bars, a black tip and a narrow white terminal band; underparts white to pale buff, densely crossed with fine black bars on the breast, belly, flanks and thighs; dark eye with a yellow eye-ring, yellow cere, black hooked bill, strong yellow feet with black talons. Powerful, broad-chested build.",
+    "subject": "Peregrine Falcon (Falco peregrinus), adult, as seen on Korean island cliffs and coasts: crown, nape and face slate-black forming a hood, with a broad, wedge-shaped black moustachial patch below the eye; throat and lower cheeks white, sharply set off from the black. Back, scapulars and upperwing dark blue-grey with faint darker barring, paler blue-grey on the rump; wingtips blackish. Tail blue-grey with narrow dark bars and a thin whitish tip. Upper breast white or pale buff with few small spots; lower breast, belly, flanks and thighs white to pale buff, densely crossed with fine black bars. Eye dark brown with a yellow eye-ring; cere yellow; bill bluish-grey with a black tip; feet bright yellow with black talons.",
     "pose": "perched upright on a rocky sea-cliff ledge, body erect, head turned scanning the sea",
     "scene": "a rugged rocky sea cliff on an uninhabited island off Korea's southwest coast in early spring, waves breaking white below, a few seabirds over the water, sparse pines and grass on the cliff top; no people, buildings or text",
     "views": [
-      "adult, from above in flight: dark blue-grey back and upperwing, blackish head, black wingtips, long pointed wings, barred tail with pale tip",
-      "adult, from below in flight: black hood and broad moustache against white throat, densely barred pale underparts, long pointed wings",
-      "adult, side view in flight (stoop): wings half-folded close to the body, compact powerful shape, black moustache, yellow feet tucked"
-    ]
+      "adult, in flight seen from above: dark blue-grey back and upperwing with paler blue-grey rump, blackish head, black wingtips, barred tail with pale tip, long pointed broad-based wings",
+      "adult, in flight seen from below: black hood and broad moustache against a white throat, densely fine-barred pale underparts and underwing, long pointed wings, yellow feet tucked under the tail",
+      "adult stooping, seen from the side and slightly above: wings half-folded close to the body, compact teardrop shape, black hood and moustache, yellow feet tucked"
+    ],
+    "build": "Large, powerful falcon, 34–50cm; the female is much larger than the male, nearly crow-sized and far bulkier than a Common Kestrel. Broad chest, large head, strong hooked bill. Wings long, pointed and broad-based; at rest the wingtips nearly reach the tail tip. Tail fairly short, slightly tapered. In flight a compact anchor shape with stiff, shallow wingbeats; stoops at great speed with the wings folded close to the body. Perches upright on cliff ledges and high snags.",
+    "avoid": [
+      "Do not streak the underparts lengthwise (Hobby, or juvenile Peregrine); the adult is finely barred across.",
+      "Do not paint rufous thighs or vent (Hobby) or a rufous back (Kestrel).",
+      "Do not paint a thin pencil-line moustache; the Peregrine's is broad and wedge-shaped.",
+      "Do not paint a long tail; the tail is fairly short and the wingtips nearly reach its tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

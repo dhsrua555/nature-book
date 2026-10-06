@@ -38,13 +38,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Siberian Long-tailed Rosefinch (Uragus sibiricus), adult male: red plumage overall with white or greyish-white feather edges, blackish-brown wings",
+    "subject": "Siberian Long-tailed Rosefinch (Uragus sibiricus), adult male in winter (November–March): plumage rose-pink to pinkish-red, softened by white or greyish-white feather edges; forehead, crown and throat frosted silvery-white; back pink with dark feather centres; rump rosy-red; wings blackish-brown with two broad white wing-bars and white-edged tertials; long tail blackish with white outer feathers; belly pinkish, paler towards the vent; short, stubby, pale horn-coloured bill; dark eye; brownish legs.",
     "pose": "perched in a riverside willow, side view",
     "scene": "Korean winter riverside: willow thicket along a river with lowland grassland beyond; no people, buildings or text",
     "views": [
-      "adult male, side view perched: red overall with white or greyish-white feather edges, blackish-brown wings",
-      "adult female, side view perched: brown overall with black streaks"
-    ]
+      "adult male winter, side view perched on a willow twig: rose-pink body with whitish feather edges, frosted silvery-white crown and throat, blackish-brown wings with two broad white wing-bars, long blackish tail with white outer feathers, stubby pale bill",
+      "adult female, side view perched: brown plumage with black streaks above and below, two white wing-bars, long tail with white outer feathers, stubby pale bill"
+    ],
+    "build": "Small finch with a disproportionately long tail, 15cm: body about sparrow-sized, the tail nearly as long as the body. Rounded head and a short, deep, stubby conical bill, bullfinch-like and much shorter than the head. Legs short and brownish. Wings short; at rest the wingtips reach only the base of the tail. Tail long and graduated, blackish with broad white outer feathers. Feeds on seeds of weeds and willows, clinging to stems; flight bouncing, showing the white tail sides.",
+    "avoid": [
+      "Do not give it a short tail like Common or Pallas's Rosefinch; the tail is long with white outer feathers.",
+      "Do not omit the two broad white wing-bars.",
+      "Do not paint a large, dark or pointed bill; it is short, stubby and pale.",
+      "Do not paint the female pink; she is brown with black streaks."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Woodcock (Scolopax rusticola), adult: long straight bill, short legs, upperparts covered in fine, intricate black, brown and grey markings, white chin, pale brown underparts with dark brown wavy bars",
+    "subject": "Eurasian Woodcock (Scolopax rusticola), adult (sexes alike, same plumage all year), as seen in Korean deciduous scrub in winter: forehead and forecrown greyish-buff, the rear crown and nape crossed by three or four broad blackish transverse bars; a dark line from the bill base to the eye and a dark bar across the lower cheek; chin whitish; upperparts a dead-leaf mix of rufous, chestnut, black, grey and buff with fine intricate vermiculations, and pale greyish-buff lines along the edges of the mantle and scapulars; underparts pale buff-brown, evenly and finely barred dark brown from throat to undertail; short blackish tail tipped grey; bill pinkish-brown at the base darkening to blackish towards the tip; large dark brown eye set high and far back on the head; short greyish-pink legs.",
     "pose": "crouched on leaf litter near the base of a tree, side view",
     "scene": "Korean deciduous scrub woodland in winter, leaf litter around tree roots; no people, buildings or text",
     "views": [
-      "adult, side view standing: long straight bill, intricate black, brown and grey upperparts, pale brown underparts with dark wavy bars, short legs",
-      "adult, head detail: long straight bill and white chin"
-    ]
+      "adult, side view crouched on leaf litter: very long straight bill angled slightly downward, transverse black bars across the rear crown and nape, intricate rufous, black, grey and buff upperparts with pale back lines, buff underparts finely barred dark brown, short greyish-pink legs",
+      "adult, head detail in side view: long straight bill pinkish-brown at the base and dark at the tip, whitish chin, dark loral line and cheek bar, large dark eye set far back, black bars across the rear crown"
+    ],
+    "build": "Bulky, round-bodied, short-necked woodland wader, about 34cm, about as long as a feral pigeon but stockier and front-heavy. Large angular head with a steep forehead and the big eye set far back. Bill straight and very long (roughly twice the head length), thick at the base, not curved. Legs short and greyish-pink, partly hidden by the belly feathers; walks low and crouched. Tail short. In flight broad rounded wings, heavy flight with the bill angled down; no white wing-bar or white rump.",
+    "avoid": [
+      "Do not paint lengthwise head stripes, a streaked breast and a clean white belly - that is Common Snipe; the woodcock's head is barred crosswise and its underparts are barred all over.",
+      "Do not paint long wader legs or an upright stance on open mud; it is short-legged and crouches on forest-floor leaf litter.",
+      "Do not curve the bill or make it shorter than about twice the head length.",
+      "Do not place the eye in the middle of the head; it is large and set high and far back."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

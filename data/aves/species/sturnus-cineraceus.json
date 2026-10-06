@@ -64,13 +64,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-cheeked Starling (Sturnus cineraceus), adult male in winter: black head and hindneck with a slight green gloss, willow-leaf-shaped feathers on the head and throat, forehead and sides of the head streaked black and white, brown iris, yellow legs",
+    "subject": "White-cheeked Starling (Sturnus cineraceus), adult male, as seen in Korea in spring: head and throat blackish with a slight green gloss and long, narrow willow-leaf-shaped feathers; forehead and sides of the head mixed white and black, forming a variable white patch on the cheeks and ear coverts; upperparts dull grey-brown; breast dark grey-brown, belly paler grey; vent and undertail coverts whitish; a pale whitish band across the rump; wings dark brown with narrow pale edges to the secondaries; tail dark brown with white tips to the outer feathers. Bill orange with a dark tip. Brown iris. Orange legs.",
     "pose": "perched at the entrance of a tree-hole nest",
     "scene": "Korean spring countryside: an old tree with a hollow beside a stone wall; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: glossy black head, black-and-white streaked forehead and sides of head, brown iris, yellow legs",
-      "adult summer, side view: worn plumage, paler overall and without the bronze gloss"
-    ]
+      "adult male, side view perched: blackish head with a slight green gloss, black-and-white streaked forehead and cheeks forming a white face patch, grey-brown body, orange bill with a dark tip, brown iris, orange legs",
+      "adult in worn summer plumage (June–August), side view: paler and browner overall, head blackish without gloss, white cheek patch still present"
+    ],
+    "build": "Medium-sized, stocky starling, about 24cm, a little shorter than a Brown-eared Bulbul but heavier, with a short square tail. Bill straight, pointed, about as long as the head, orange with a dark tip. Legs medium length, orange. Wings long and pointed; at rest the wingtips reach near the tail tip. In flight triangular wings, a white band across the rump and white corners to the dark tail. Walks briskly on lawns and fields, often in noisy flocks.",
+    "avoid": [
+      "Do not paint iridescent purple-green plumage with white spots — that is Common Starling (Sturnus vulgaris).",
+      "Do not paint a pale grey head with a red bill (Red-billed Starling).",
+      "Do not paint a black or yellow bill; it is orange with a dark tip.",
+      "Do not paint a long tail; it is short and square."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

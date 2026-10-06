@@ -63,13 +63,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-backed Woodpecker (Dendrocopos leucotos), adult male: buff-white forehead, red crown and nape, thin black line along the side of the head, buff-white lores, eye surround and ear coverts, whitish chin, throat and neck sides washed yellowish-rusty, lead-grey bill with buff-white, black-tipped nasal bristles, reddish-brown iris, dark lead-grey legs",
+    "subject": "White-backed Woodpecker (Dendrocopos leucotos), adult male, as seen in Korean deciduous forest in spring: crown and nape entirely bright red; narrow forehead buffy white; face and ear coverts buffy white, bordered below by a black moustachial stripe from the bill base that continues into black streaks on the breast sides; chin and throat whitish with a faint rusty-yellow wash; mantle black; lower back white; wings black with bold white bars across coverts and flight feathers, no white shoulder patch; underparts buffy white with black streaks on the breast sides and flanks, turning pinkish-red on the lower belly and undertail coverts. Bill lead-grey. Red-brown iris. Dark lead-grey legs.",
     "pose": "clinging to a tree trunk, chiselling out a nest hole with its bill",
     "scene": "Korean deciduous broadleaf forest grading into subalpine mixed conifer-broadleaf woods in spring; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: red crown and nape, buff-white face, thin black line on the side of the head, whitish throat, lead-grey bill, dark lead-grey legs",
-      "adult female, head detail: black crown and nape instead of red"
-    ]
+      "adult male, side view clinging upright to a trunk: all-red crown and nape, buff-white face with black moustachial stripe, black back, white-barred black wings, black-streaked flanks, pinkish-red vent, long lead-grey bill, dark grey legs",
+      "adult female, head detail in profile: black crown and nape with no red, buff-white forehead and face, black moustachial line, whitish throat washed rusty-yellow"
+    ],
+    "build": "Large pied woodpecker, 25–28cm, clearly bigger and longer-billed than Great Spotted Woodpecker, about the length of a Brown-eared Bulbul but much stockier. Bill long, straight and chisel-tipped, lead-grey, about as long as the head. Legs short, dark grey, two toes forward and two back; clings upright to trunks propped on its stiff, pointed black tail. Wings black, barred white in rows; no white oval shoulder patch. In flight undulating, showing the white lower back.",
+    "avoid": [
+      "Do not paint a large white oval shoulder patch or clean unstreaked underparts — that is Great Spotted Woodpecker (Dendrocopos major).",
+      "Do not restrict the male's red to a small nape spot; the whole crown is red.",
+      "Do not paint a sharply defined scarlet vent; the red is pinkish and blends into the streaked flanks.",
+      "Do not give the female any red on the head."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

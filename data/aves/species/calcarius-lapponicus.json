@@ -41,13 +41,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lapland Longspur (Calcarius lapponicus), adult: black crown, cheeks and chin, buffy-white underparts from the breast down with bold black streaks on the flanks, blackish-brown back, rump and uppertail coverts",
+    "subject": "Lapland Longspur (Calcarius lapponicus), adult male in winter (non-breeding) plumage, as seen on Korean fields and grassy hills from November to March: crown streaked brown and black with a paler central stripe; broad buff supercilium and buff face; ear coverts framed by a blackish border with a dark spot at the rear corner; chestnut nape partly veiled by buff tips; throat whitish; a mottled black patch across the upper breast; mantle and back brown streaked black and buff; greater coverts edged rufous, forming a chestnut panel between two thin white wing-bars; underparts buffy-white with bold black streaks on the flanks; tail dark brown with white outer feathers. Bill short and conical, yellowish-pink with a dark tip; iris dark brown; legs dark brown.",
     "pose": "walking on short grass, picking up seeds",
     "scene": "Korean winter: short-grass field on low rolling hills with scattered shrubs; no people, buildings or text",
     "views": [
-      "adult, side view on the ground: black crown, cheeks and chin, buffy-white underparts with bold black flank streaks, blackish-brown back",
-      "adult, faded plumage: the black areas paler or pale brown"
-    ]
+      "adult male winter, side view walking on the ground: streaked brown crown, buff face with dark-bordered ear coverts, partly veiled chestnut nape, mottled black upper-breast patch, rufous panel between two white wing-bars, buffy-white underparts with bold black flank streaks, brown back streaked black",
+      "adult male breeding (worn only from late spring, rarely seen in Korea), side view standing: solid black crown, face, chin, throat and upper breast, buff-white stripe from behind the eye down the neck side, bright chestnut nape, yellow bill",
+      "adult female winter, side view on the ground: like the winter male but without the black breast patch, only fine dark streaks on the breast, duller chestnut nape and rufous wing panel"
+    ],
+    "build": "Stocky, ground-dwelling bunting-like bird, 15cm, slightly larger than a sparrow, with a flattish crown and short neck. Bill short and conical, shorter than the head. Legs short and dark; the hind claw is very long and straight. Walks and shuffles on the ground rather than hopping, often crouched low in short grass. Wings long, with the primaries projecting well beyond the tertials at rest. Tail fairly short, notched, dark with white outer feathers. Flies in flocks with an undulating flight.",
+    "avoid": [
+      "Do not paint the solid black face and bib on the winter scene bird; that is breeding plumage, worn from late spring to summer.",
+      "Do not show it hopping; it walks and shuffles on the ground.",
+      "Do not give it large white wing patches like Snow Bunting, or any yellow on the throat.",
+      "Do not omit the rufous wing panel and the chestnut nape."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

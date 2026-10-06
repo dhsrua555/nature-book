@@ -67,14 +67,24 @@
     }
   ],
   "art": {
-    "subject": "Japanese Cormorant (Phalacrocorax capillatus), adult: glossy metallic greenish-black upperparts, narrow yellow patch at the base of the bill, broad white patch behind the eye with an angular border, short tail",
+    "subject": "Japanese Cormorant (Phalacrocorax capillatus), adult outside the breeding season, as seen on Korean island coasts in autumn and winter: head, neck and underparts black with a green gloss; mantle, scapulars and wing coverts dark bronzy-green with neat black feather edges giving a scaly look; a small, narrow patch of bare yellow skin at the bill base, pointed behind the gape; a broad white cheek and throat patch below and behind the eye, its border angular and extending up behind the yellow skin; tail black. Bill long, grey-black with a hooked tip; iris emerald green; legs and webbed feet black.",
     "pose": "standing on a sea rock with wings spread to dry in the sun",
-    "scene": "Korean offshore island: steep layered rock cliffs and reefs above the sea; no people, buildings or text",
+    "scene": "Korean offshore island in autumn or winter: steep layered rock cliffs and dark reefs above a grey sea; no people, buildings or text",
     "views": [
-      "adult, side view perched: narrow yellow bill base, broad angular white patch behind the eye, glossy greenish-black upperparts, short tail",
-      "adult, standing with wings spread to dry",
-      "adult, flight side view: wings set slightly behind the middle of the body, short tail"
-    ]
+      "adult non-breeding, side view perched on a rock: narrow yellow bill-base skin, broad white cheek patch with an angular border, green-glossed black body, scaly bronzy-green back and wing coverts, short tail",
+      "adult, front view standing on a rock with wings spread to dry: black wings held open, green-glossed black body, white cheek and throat",
+      "adult, flight side view: long neck outstretched, wings set slightly behind the middle of the body, short tail, straight body line",
+      "adult breeding (late winter to spring), side view perched: fine white plumes on the head and neck and a white patch on the thigh"
+    ],
+    "build": "Large, heavy seabird, about 84cm, with a long body, long thick neck and flat-crowned head. Bill straight, about as long as the head, ending in a sharp hook. Legs short, black, set far back, with fully webbed feet; stands upright on rocks. At rest the wings reach the base of the tail. Tail short and stiff. Swims low with the bill tilted up and dives for fish; perches with wings spread to dry. In flight neck outstretched, with the wings set slightly behind the middle of the body.",
+    "avoid": [
+      "Do not paint a large yellow face patch with a rounded border reaching the eye; that is Great Cormorant (Phalacrocorax carbo).",
+      "Do not paint bronze-brown upperparts; the back and wing coverts are distinctly greenish.",
+      "Do not give it a long tail or a duck-like bill; the bill is hooked and the tail short.",
+      "Do not show the white thigh patch or white head plumes on autumn and winter birds."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

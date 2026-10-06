@@ -24,10 +24,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Dusky Warbler (Phylloscopus fuscatus), adult in spring (sexes alike), singing: upperparts plain dark earthy brown with no green or yellow tones and no wing-bars; a sharp whitish supercilium, brightest and most clear-cut in front of the eye and becoming buffier behind it; a dark brown eye-stripe from the bill to the nape; ear-coverts brown; throat whitish; breast and belly dirty off-white, with a buff-brown wash on the breast sides, flanks and undertail coverts; fine thin bill, dark with a yellowish base to the lower mandible; dark eye; slender brownish legs.",
     "pose": "perched at the top of a small fir, singing",
     "scene": "Korean birch and willow woodland with low firs in late spring; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Small, compact leaf warbler, smaller than a sparrow, with a rounded head and short neck. Bill fine and thin, much shorter than the head. Legs slender, mid-brown. Wings short and rounded; at rest the primary tips project only a little beyond the tertials. Tail medium-length, square or slightly rounded, often flicked. Usually keeps low in thick scrub, calling a hard 'tack'; in spring the male sings from the top of a small tree.",
+    "avoid": [
+      "Do not add wing-bars, green upperparts or yellow underparts; the Dusky Warbler is plain brown above and off-white below.",
+      "Do not paint a thick bill, stout legs and a supercilium that is diffuse in front of the eye — that is Radde's Warbler (Phylloscopus schwarzi).",
+      "Do not add a pale crown stripe."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

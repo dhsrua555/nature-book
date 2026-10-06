@@ -51,13 +51,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Western Cattle Egret (Bubulcus ibis), adult breeding: rounded head, short bill and neck, orange plumes on the head, neck and back, deep orange iris and bill in early courtship, black or dark green feet",
+    "subject": "Eastern Cattle Egret (Bubulcus ibis coromandus, the form breeding in Korea), adult in breeding plumage, May to August: whole head, neck and upper breast washed rich golden orange-buff, the colour extending well down the neck; loose orange-buff plumes on the crown, lower foreneck and back, the back plumes lying over the folded wings; rest of the body, wings and tail pure white. Bill short and stout, yellow to orange-yellow (deep orange only briefly in early courtship), with the feathering reaching far forward under the lower mandible. Iris yellow; lores yellowish. Legs and feet dark greyish-black with a greenish tinge.",
     "pose": "walking through a paddy field in a loose flock, catching grasshoppers",
     "scene": "Korean summer farmland: green rice paddies with grassy levees and irrigation ditches; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: orange plumes on head, neck and back, short neck, deep orange bill",
-      "adult non-breeding, side view standing: all-white plumage, dull yellow bill, black or dark green feet"
-    ]
+      "adult breeding (May–August), side view standing: golden orange-buff head, neck and breast, orange-buff back plumes, rounded head with jowl, short thick neck, deep orange-yellow bill, dark legs",
+      "adult non-breeding (from September), side view standing: all-white plumage, dull yellow short bill, rounded head and jowl, short neck, black or dark green legs and feet"
+    ],
+    "build": "Small, stocky white egret, about 50cm, clearly smaller and thicker-set than a Little Egret. Round head with a heavy 'jowl' of feathers under the bill; short, thick neck usually held in a hunched curve. Bill short and thick, about as long as the head or shorter. Legs fairly short and dark, with short bare tibia. At rest the wingtips reach about the tail tip; tail short and white. Walks briskly in loose flocks through grass and paddies, snapping up insects and frogs, often beside grazing cattle. In flight neck retracted, wings all white, with quicker beats than larger egrets.",
+    "avoid": [
+      "Do not paint a long slender neck or a long black bill — that is Little Egret.",
+      "Do not colour the wings or tail orange; the orange-buff is limited to head, neck, breast and back plumes.",
+      "Do not paint yellow feet on black legs (Little Egret) or a bill longer than the head.",
+      "Do not restrict the orange to a small crown patch; in Korean birds it covers the whole head and neck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

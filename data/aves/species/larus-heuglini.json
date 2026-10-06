@@ -54,13 +54,22 @@
     }
   ],
   "art": {
-    "subject": "Lesser Black-backed Gull, heuglini form (Larus heuglini), adult: dark back, darker than that of Vega Gull and even Black-tailed Gull, large red spot on the lower mandible, yellow legs and feet",
+    "subject": "Lesser Black-backed Gull of the heuglini form (Larus heuglini), adult in winter as seen on Korean west-coast tidal flats: head white with only fine, sparse grey-brown streaks on the crown and hindneck; mantle and folded wings dark slate-grey, much darker than a Vega Gull's; a broad white crescent on the tertials; long black primaries with small white tips and a small white mirror near the tip of the outermost feather; underparts and tail white. Bill yellow with a large red spot on the lower mandible; pale yellow iris with a red orbital ring; legs yellow.",
     "pose": "standing on wet mud at low tide, side view",
     "scene": "Korean west coast in winter: a broad tidal mudflat at low tide under a pale sky; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark back, large red gonys spot, yellow legs",
-      "adult, head detail: small eye, sleek head shape, large red spot on the lower mandible"
-    ]
+      "adult winter, side view standing: dark slate-grey back and wings, white head with fine streaks on the hindneck, long black wingtips projecting well beyond the tail, yellow bill with a large red gonys spot, yellow legs",
+      "adult, head close-up in side view: sleek, rather small head, small pale yellow eye with a red orbital ring, slim yellow bill with a large red spot on the lower mandible"
+    ],
+    "build": "Large but slim, long-winged gull, slightly smaller and more slender than the Vega Gull and clearly larger than the Black-tailed Gull, with a sleek head; many smaller birds show a small-looking eye. Bill yellow, fairly slim and parallel-sided. At rest the long black primaries project far beyond the tail, giving an attenuated rear end. Legs medium length, yellow, palest in winter and brightest towards spring. In flight dark grey upperwing with a white trailing edge and black outer primaries with very little white.",
+    "avoid": [
+      "Do not paint pink legs — Vega and Slaty-backed Gulls have pink legs; this gull's legs are yellow.",
+      "Do not paint a pale silvery-grey back like a Vega Gull's.",
+      "Do not paint a black tail band or a black-and-red ring near the bill tip (Black-tailed Gull).",
+      "Do not paint heavy brown streaking hooding the whole head; winter streaking is fine and limited."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

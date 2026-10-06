@@ -41,13 +41,22 @@
     }
   ],
   "art": {
-    "subject": "Red-billed Chough (Pyrrhocorax pyrrhocorax), adult: all-black plumage, red bill, red legs",
+    "subject": "Red-billed Chough (Pyrrhocorax pyrrhocorax), adult (sexes alike): entire plumage black with a blue-violet gloss, glossiest on the back and wings, smooth and silky with no grey on the nape and no pale fringes anywhere; long, slender, evenly down-curved bright coral-red bill tapering to a fine point; dark brown eye; bright red legs and feet.",
     "pose": "perched on a rock ledge beside a crevice, side view",
     "scene": "steep rocky cliffs with caves and crevices in Korea; no people, buildings or text",
     "views": [
-      "adult, side view perched: all-black plumage, red bill, red legs",
-      "adults in flight: a flock of all-black birds with red bills"
-    ]
+      "adult, side view perched on a rock ledge: glossy black plumage throughout, long thin decurved red bill, red legs, wingtips reaching the tail tip",
+      "adult in flight, seen from below: broad rectangular wings with deeply fingered primaries, short square tail, red bill and red legs against black plumage"
+    ],
+    "build": "Slim crow, 39–40cm, a little larger than a jackdaw and much smaller than a Large-billed Crow; small rounded head and slender body. Bill longer than the head, thin and evenly decurved like a small curlew's. Legs fairly long, red. At rest the wingtips reach about the tip of the square-ended tail. In flight the wings are broad and rectangular with six deeply separated, upturned primary fingers, and the tail is short and square; flies buoyantly with soaring and steep dives around cliffs, often in flocks.",
+    "avoid": [
+      "Do not paint a short yellow bill; that is the Alpine Chough (Pyrrhocorax graculus).",
+      "Do not paint a straight, thick black crow bill or black legs.",
+      "Do not add a grey nape or a pale eye; those belong to jackdaws.",
+      "Do not show the tail projecting far beyond the folded wings."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -52,13 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-faced Buzzard (Butastur indicus), adult: brown from forehead to uppertail coverts, white in the hindcrown and hindneck feathers, rusty-brown upper breast, broad brown-and-white bars on lower breast, belly and flanks, bill yellow at the base with a black tip, dull yellow legs",
+    "subject": "Grey-faced Buzzard (Butastur indicus), adult, as seen on spring passage in Korea in April–May: crown and upperparts brown, with white feather bases showing on the hindcrown and nape; face and ear-coverts grey; throat white with a single dark stripe down the centre; upper breast plain rusty-brown; lower breast, belly and flanks broadly barred brown and white; undertail coverts white; tail grey-brown with three or four narrow dark bands. Small hooked bill black at the tip, yellow at the base, with a yellow cere; yellow eye; dull yellow legs.",
     "pose": "perched on a branch at a forest edge overlooking farmland",
     "scene": "Korean spring migration: woodland edge beside open farmland; no people, buildings or text",
     "views": [
-      "adult, side view perched: brown upperparts, rusty-brown upper breast, yellow-based black-tipped bill, dull yellow legs",
-      "adult, front view perched: broad brown-and-white barring on lower breast, belly and flanks"
-    ]
+      "adult, side view perched: brown upperparts with white on the nape, grey face, white throat with a dark central stripe, rusty-brown upper breast, barred belly, yellow-based black-tipped bill, yellow eye, dull yellow legs",
+      "adult, front view perched: white throat with one dark central stripe, plain rusty-brown upper breast, broad brown-and-white bars on the lower breast, belly and flanks, grey face",
+      "adult in flight seen from below: long, fairly narrow wings with pale, finely barred underwing, rusty-brown breast, barred belly, tail with narrow dark bands, head, body and tail in a straight line"
+    ],
+    "build": "Medium-sized, slim raptor, a little smaller than a crow, built like a long-winged buzzard with a slimmer body and longer tail. Head rounded, neck short. Bill small and hooked, much shorter than the head. Legs medium length, dull yellow, the tarsi unfeathered. At rest the long wingtips reach well down the tail, short of the tip. In flight long, fairly narrow wings and a medium-long, square-ended tail; often glides on flat wings and migrates in flocks.",
+    "avoid": [
+      "Do not paint a chunky, broad-winged Common Buzzard with a pale breast band; this species is slimmer and longer-winged.",
+      "Do not omit the grey face or the dark central stripe on the white throat.",
+      "Do not paint feathered legs or an unbanded tail.",
+      "Do not give it a large, deep eagle bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

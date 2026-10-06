@@ -54,13 +54,23 @@
     }
   ],
   "art": {
-    "subject": "White Wagtail (Motacilla alba ocularis), adult male in winter plumage: black crown, grey back, throat and neck entirely black apart from a small white patch on the chin, white underparts, outer webs of the secondaries mostly dark brown to black with no white",
+    "subject": "White Wagtail of the subspecies Motacilla alba ocularis (East Siberian Wagtail), adult male in breeding plumage, as seen on spring migration in Korea in April and May: white forehead and face crossed by a black eye-stripe from the lores through the eye to the ear-coverts; black crown and nape; plain grey mantle, back and rump; a small white patch on the chin, the rest of the throat, foreneck and upper breast black, forming a large bib; belly and undertail white, flanks washed grey; wing coverts blackish with white edges forming two wing-bars, flight feathers dark without a large white panel; long black tail with white outer tail feathers. Thin black bill; dark eye; black legs.",
     "pose": "walking along the shoreline, side view",
     "scene": "Korean spring migration: sandy river mouth opening onto the sea; no people, buildings or text",
     "views": [
-      "adult male winter, side view standing: black crown, grey back, black throat with a small white chin patch, white underparts",
-      "adult male winter, wing detail: secondaries with dark brown to black outer webs and no white"
-    ]
+      "adult male breeding (spring), side view standing on sand: white face with black eye-stripe, black crown and nape, grey back, small white chin patch, black throat, foreneck and upper breast, white belly, dark wing with two white wing-bars, black legs",
+      "adult winter (autumn and winter), side view standing: white face with black eye-stripe, white chin and throat, black crescent-shaped band across the breast, grey back, white underparts, dark wing with white wing-bars",
+      "adult male, folded wing detail in side view: blackish wing coverts with white tips forming two wing-bars, secondaries dark brown to black on the outer webs with no white panel"
+    ],
+    "build": "Slim, long-tailed wagtail, longer than a sparrow, with a small rounded head, short neck and horizontal stance; walks briskly on sand and mud, pumping its tail up and down. Bill thin, straight and black, a little shorter than the head. Legs fairly long and black. Tail long, narrow and square-ended, black with white outer feathers. Flight deeply undulating; from above the wing shows two white wing-bars on a dark wing rather than a large white panel.",
+    "avoid": [
+      "Do not omit the black eye-stripe; a plain white face without it is Amur Wagtail (Motacilla alba leucopsis).",
+      "Do not paint a black back or a largely white wing; those mark Black-backed Wagtail (Motacilla alba lugens).",
+      "Do not paint any yellow in the plumage, or pink legs.",
+      "Do not give winter birds a fully black throat; in winter the throat is white and only a black breast band remains."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

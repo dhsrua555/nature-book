@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eurasian Dotterel (Eudromias morinellus), adult female in breeding plumage, as on spring passage in May: crown blackish-brown; broad white supercilia running from above the eye to meet in a V on the nape; face and throat white; neck and upper breast blue-grey; a narrow white band across the breast, edged above by a thin black line; lower breast and flanks rich chestnut-orange; centre of the belly black; vent and undertail coverts white; upperparts grey-brown with buff-rufous fringes to the scapulars and tertials. Bill short, slender and black; dark eye; legs dull yellow.",
+    "pose": "standing upright on short turf, side view, head slightly raised",
+    "scene": "Dry short-grass field near the Korean coast in May during spring migration, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "Plump, round-headed plover, smaller than Pacific Golden Plover and much smaller than a pigeon, with a short neck and a level, rather tame stance. Bill black, short and fine, much shorter than the head. Legs dull yellow to greenish-yellow, medium length. At rest the wingtips reach about the tail tip. In flight the upperwing is plain grey-brown with no wing-bar, only a white shaft to the outermost primary. Females are brighter than males; males are duller, with a streakier crown and less chestnut and black below.",
+    "avoid": [
+      "Do not paint a white wing-bar; the Dotterel's upperwing is plain.",
+      "Do not stop the white supercilium at the eye; it is long and broad and meets its partner in a V on the nape.",
+      "Do not paint a black face and throat (Grey or Pacific Golden Plover in breeding plumage); the Dotterel's face and throat are white.",
+      "Do not paint black or pink legs, or a long bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

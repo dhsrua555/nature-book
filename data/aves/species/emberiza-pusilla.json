@@ -54,13 +54,22 @@
     }
   ],
   "art": {
-    "subject": "Little Bunting (Emberiza pusilla), adult male in winter plumage: black crown with a broad chestnut median stripe, crown feathers edged buff, rufous-chestnut lores, supercilium and ear-coverts, black spots below and behind the ear-coverts, buffy-white chin and throat with an incomplete black lateral throat stripe, buff breast and flanks with many short black streaks, white belly and undertail coverts, dark brown iris, brown legs",
+    "subject": "Little Bunting (Emberiza pusilla), adult in non-breeding plumage (sexes nearly alike), as seen in Korea from October to April: black lateral crown stripes bordering a broad chestnut median crown stripe; lores, supercilium and ear-coverts rufous-chestnut, the ear-coverts framed behind and below by a thin black border with black spots; a narrow pale eye-ring; buffy-white throat with a thin black lateral throat stripe that does not reach the bill; mantle grey-brown streaked dark; two pale wing-bars; breast and flanks buff with many short, fine black streaks; belly and undertail coverts white; tail dark with white outer feathers. Small conical bill with a straight culmen, grey with a darker tip; dark brown eye; pinkish-brown legs.",
     "pose": "feeding on the ground among weeds, picking up seeds",
     "scene": "Korean autumn: weedy open ground beside willow scrub at the edge of a wetland; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: chestnut-striped black crown, rufous-chestnut face, incomplete black throat stripe, buff breast and flanks with short black streaks, white belly, brown legs",
-      "adult male winter, head detail: broad chestnut median crown stripe, rufous-chestnut lores, supercilium and ear-coverts with black spots below and behind them"
-    ]
+      "adult non-breeding, side view perched on a weed stem: chestnut median crown stripe between black lateral stripes, rufous-chestnut face with black rear border, thin pale eye-ring, incomplete black throat stripe, buff breast and flanks with short black streaks, white belly",
+      "adult, head detail in side view: broad chestnut median crown stripe, rufous-chestnut lores, supercilium and ear-coverts, black spots below and behind the ear-coverts, pale eye-ring, small straight-edged grey bill"
+    ],
+    "build": "Very small bunting, smaller than a sparrow, compact, with a rather short tail for a bunting; neat rounded head with no crest, sometimes slightly peaked when alert. Bill small, conical and sharply pointed with a straight culmen, shorter than the head. Legs short, pinkish-brown. Tail medium length and notched, dark with white outer feathers. Feeds quietly on the ground among weeds and flies up into low bushes.",
+    "avoid": [
+      "Do not paint a crest, rufous-streaked flanks or a rufous nape; that is Rustic Bunting (Emberiza rustica).",
+      "Do not paint dark ear-coverts or a dark eye-stripe across the face; the whole face is rufous-chestnut with only a black rear border.",
+      "Do not paint a large or swollen bill; it is small with a straight culmen.",
+      "Do not streak the breast in brown or rufous; the streaks are fine and black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

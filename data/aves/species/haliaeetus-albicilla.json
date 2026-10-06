@@ -52,14 +52,23 @@
   "young": "어린새는 부리와 다리가 흑갈색이다. 머리가 가장 어두운 암갈색이고 몸은 전체적으로 적갈색을 띠며, 꼬리깃에 흰색과 검은색이 섞여 있다.",
   "similar": [],
   "art": {
-    "subject": "White-tailed Eagle (Haliaeetus albicilla), adult: brown overall with black flight feathers, pale tawny head, white rounded wedge-shaped tail, yellow bill and legs",
+    "subject": "White-tailed Eagle (Haliaeetus albicilla), adult, as seen on Korean estuaries, lakes and coasts from November to March: body and wing coverts brown with paler fringes; head and neck noticeably paler, buff-brown to creamy; flight feathers blackish; tail short, wedge-shaped and pure white; thighs feathered brown. Bill very large, deep and hooked, bright yellow, with a yellow cere; iris pale yellow; bare lower legs and feet bright yellow with black talons.",
     "pose": "perched on a bare branch near the water's edge",
     "scene": "Korean winter estuary: wide open water and marsh beside a river mouth; no people, buildings or text",
     "views": [
-      "adult, side view perched: pale tawny head, yellow bill, brown body, white wedge-shaped tail, yellow legs",
-      "adult, flight from below: rectangular parallel-edged wings with black flight feathers, short white tail",
-      "juvenile, side view perched: dark brown head, rufous-tinged body, blackish-brown bill and legs, tail mixed white and black"
-    ]
+      "adult, side view perched: pale buff-brown head, massive yellow bill, brown body, blackish flight feathers, short white wedge-shaped tail, yellow bare legs",
+      "adult, flight from below: long broad rectangular wings with blackish flight feathers and fingered tips, head projecting forward, short white wedge-shaped tail",
+      "juvenile, side view perched: very dark brown head, dark brown body mottled paler buff, dark grey-brown bill, yellow legs, tail feathers whitish in the centre with dark edges and tips"
+    ],
+    "build": "Huge eagle, about 84–94cm, far larger than a Black Kite, with a heavy body, large head, thick neck and a massive deep bill. Legs feathered only on the upper part; the lower tarsus bare and yellow. At rest the long broad wings reach about the tail tip, the short tail barely showing beyond them. In flight the wings are very long and broad with parallel edges, like a plank, with deeply fingered tips; the head projects well forward and the short white tail is wedge-shaped.",
+    "avoid": [
+      "Do not paint white shoulders, white thighs or a huge orange bill; that is Steller's Sea Eagle.",
+      "Do not give the adult a dark tail or a long square tail like Golden Eagle; the tail is short, wedge-shaped and white.",
+      "Do not feather the legs down to the toes; the lower legs are bare and yellow.",
+      "Do not paint a pure white head as in Bald Eagle; the adult head is only paler buff-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -50,14 +50,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-tailed Godwit (Limosa limosa), adult male breeding: long straight bill, pink except at the tip, rufous head, neck and upper breast, upperparts spotted black and rufous, white flanks barred black, long legs",
+    "subject": "Black-tailed Godwit (Limosa limosa), adult male in breeding plumage as seen in flooded Korean rice fields in April and May: head, neck and upper breast rich rufous-chestnut, the crown finely streaked dark and a paler supercilium in front of the eye; mantle and scapulars spotted and barred black and rufous, mixed with some plain grey feathers; wing coverts mostly plain grey-brown; lower breast and flanks white crossed by black bars; belly and vent white. Bill very long and straight, pinkish-orange on the basal half and black towards the tip; dark eye; legs long and blackish.",
     "pose": "wading in a shallow flooded rice field, probing with its long bill",
     "scene": "Korean flooded rice paddies in spring with shallow standing water; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: long straight pink-based bill, rufous head and breast, black-and-rufous spotted upperparts, barred white flanks",
-      "adult female breeding, side view: larger, longer bill, paler red on head and breast",
-      "adult non-breeding in flight: grey-brown upperparts, white underparts, broad black tail tip and white tail base"
-    ]
+      "adult male breeding plumage (April–May), side view standing: rufous-chestnut head, neck and upper breast, black-and-rufous spotted back, black-barred white flanks, white vent, very long straight bill pink-orange at the base with a black tip, long blackish legs",
+      "adult female breeding plumage, side view standing: larger, with a longer bill, paler and more washed-out rufous on head and breast, fewer bright feathers on the back",
+      "adult non-breeding plumage, side view standing: plain grey-brown upperparts and breast, white belly, short whitish supercilium, pink-based bill",
+      "in flight seen from above: bold white wing-bar along the whole wing, white rump and tail base, broad black band across the end of the tail, feet projecting beyond the tail"
+    ],
+    "build": "Large, tall, elegant wader, 36.5–38.5cm including the long bill, standing much taller than a pigeon on very long legs, with a long neck. Bill very long, about twice the head length, straight or barely upturned near the tip. Legs long, blackish, with much bare tibia. At rest the wingtips reach about the tail tip. In flight a bold white wing-bar along the whole wing, a white rump and tail base, a broad black terminal tail band, and the feet projecting well beyond the tail. Females are larger, longer-billed and paler.",
+    "avoid": [
+      "Do not paint a barred tail, no wing-bar or an upturned bill — those mark Bar-tailed Godwit.",
+      "Do not paint a downcurved bill like a curlew or Whimbrel; the bill is straight.",
+      "Do not paint rufous over the whole belly and vent; the lower underparts are white with black bars on the flanks.",
+      "Do not paint yellow, green or red legs; they are blackish."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

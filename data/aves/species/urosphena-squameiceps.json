@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Asian Stubtail (Urosphena squameiceps), adult male (winter plumage): dark brown crown with darker feather edges, prominent brownish-cream supercilium, cream-buff cheeks and ear-coverts with dark feather edges, pale buff chin and throat, brownish-tinged breast, glossy white belly centre, olive-brown flanks with rich buff belly sides, pale dark-brown tail, brown or horn-coloured upper mandible, lower mandible with a dark apricot or pale buff base, dark brown iris, peach-tinged whitish legs",
+    "subject": "Asian Stubtail (Urosphena squameiceps), adult (sexes alike), as seen on the floor of Korean deciduous forest from May to August: crown dark brown with darker scaly feather edges; long, prominent creamy-buff supercilium from the bill to the nape; broad dark brown eye-stripe below it; cheeks and ear coverts cream-buff, faintly scaled darker; upperparts warm brown; tiny tail plain brown; chin and throat pale buff, breast tinged brownish, belly centre clean glossy white, flanks olive-brown with buff belly sides. Bill thin: upper mandible brown, lower mandible pale apricot-buff at the base. Dark brown eye. Long pale pinkish-white legs.",
     "pose": "standing on the forest floor beneath shrubs, side view",
     "scene": "Korean summer deciduous broadleaf forest with shrubby undergrowth; no people, buildings or text",
     "views": [
-      "adult male in winter plumage, side view standing: brownish-cream supercilium, dark brown crown, cream-buff face, glossy white belly, olive-brown flanks, whitish legs",
-      "adult, head detail: prominent pale supercilium, brown upper mandible and pale base to the lower mandible"
-    ]
+      "adult, side view standing on leaf litter: long creamy-buff supercilium, broad dark eye-stripe, scaly dark brown crown, cream-buff face, brown back, almost no tail, white belly centre, olive-brown flanks, long pale pinkish legs",
+      "adult, head detail in profile: prominent pale supercilium above a dark eye-stripe, scaly crown, brown upper mandible and pale apricot-based lower mandible"
+    ],
+    "build": "Tiny, round-bodied, almost tail-less warbler, about 9cm, much smaller than a sparrow; large head with a long pale supercilium. Bill short, fine and pointed. Legs long for its size, pale pinkish-white, giving a perky stance. Tail extremely short, barely projecting beyond the wingtips and undertail coverts. Wings short and rounded. Creeps and hops on the forest floor and in low tangles like a mouse, often flicking its tiny tail.",
+    "avoid": [
+      "Do not paint a normal-length or cocked tail; the tail is a tiny stub (Eurasian Wren cocks a longer, barred tail).",
+      "Do not paint barring on the wings, tail or flanks (Eurasian Wren).",
+      "Do not paint dark or short legs; they are long and pale pinkish.",
+      "Do not paint yellow or green tones; the plumage is brown, buff and white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

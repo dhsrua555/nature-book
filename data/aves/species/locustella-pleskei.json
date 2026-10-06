@@ -43,13 +43,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Styan's Grasshopper Warbler (Locustella pleskei), adult: olive-brown upperparts, buff rump and uppertail coverts, greyish-white band at the tips of the outer tail feathers, white underparts",
+    "subject": "Styan's Grasshopper Warbler (Locustella pleskei), adult in the breeding season (May–August), sexes alike: upperparts plain, unstreaked olive-brown with a greyish tone; rump and uppertail coverts slightly warmer buff-brown; a long pale greyish-white supercilium and a darker brownish eye-stripe; wings plain olive-brown; tail olive-brown and rounded, the outer feathers with greyish-white tips; underparts white, washed greyish-brown on the breast sides and flanks; long, strong bill, dark above and pinkish below; dark eye; pinkish legs.",
     "pose": "perched between bamboo stems, side view",
     "scene": "bamboo thicket and scrub on a Korean coastal island in early summer; no people, buildings or text",
     "views": [
-      "adult, side view perched: olive-brown upperparts, buff rump, white underparts",
-      "adult, tail from below: greyish-white tips to the outer tail feathers"
-    ]
+      "adult, side view perched among bamboo stems: plain unstreaked olive-brown upperparts, pale greyish-white supercilium, warmer buff-brown rump, white underparts with greyish flanks, long strong bill, pinkish legs",
+      "adult, perched and seen from below and behind: rounded olive-brown tail with greyish-white tips to the outer feathers, buff-brown rump and uppertail coverts, white belly"
+    ],
+    "build": "Rather stout Locustella warbler, about 14cm — about sparrow length but slimmer and longer-tailed. Flat forehead and a long, strong bill for its size, shorter than the head. Legs pinkish and strong. Wings short; at rest the wingtips reach only a short way past the base of the tail. Tail fairly long, broad and graduated. Skulks in dense bamboo and scrub on coastal islands, but the male sings from the top of a bush.",
+    "avoid": [
+      "Do not streak the upperparts; unlike Pallas's and Lanceolated Grasshopper Warblers this species is plain olive-brown above.",
+      "Do not make it as large and long-billed as Oriental Reed Warbler (Acrocephalus orientalis) or give it a peaked crown.",
+      "Do not paint yellow underparts; they are white with greyish flanks.",
+      "Do not omit the greyish-white tips to the outer tail feathers."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -46,14 +46,23 @@
   "young": "암컷과 비슷하지만 가슴과 배가 희고 검은 세로줄무늬가 있다.",
   "similar": [],
   "art": {
-    "subject": "Black-naped Oriole (Oriolus chinensis), adult male: bright yellow body, broad black eye-stripe, black tail with yellow outer tail feathers, red bill",
+    "subject": "Black-naped Oriole (Oriolus chinensis), adult male, as seen in Korea from May to August: entire head and body brilliant golden yellow; a broad black band from the lores through the eye that joins in a wide black band across the nape; wings black with yellow edges to the coverts and tertials and a yellow patch on the primary coverts; tail black with broad yellow tips to all but the central feathers, the outermost largely yellow; undertail coverts yellow. Bill stout, pinkish-red. Dark red iris. Dark grey legs.",
     "pose": "perched among leafy branches, singing",
     "scene": "tall leafy broadleaf trees in Korean early summer woodland; no people, buildings or text",
     "views": [
-      "adult male, side view perched: bright yellow body, broad black eye-stripe, red bill, black tail with yellow outer feathers",
-      "adult female, side view perched: dull yellow back, narrow black eye-stripe, red bill",
-      "juvenile, side view perched: female-like but white breast and belly with black streaks"
-    ]
+      "adult male, side view perched: brilliant yellow body, broad black band through the eye joining across the nape, black wings with yellow edges, black tail with yellow tips, pinkish-red bill",
+      "adult female, side view perched: greener yellow back and wings, narrower black eye-band and nape band, yellow underparts, pinkish-red bill",
+      "juvenile, side view perched: olive-yellow upperparts, whitish breast and belly with fine black streaks, only a dark eye-stripe without a black nape band, dark bill"
+    ],
+    "build": "Thrush-sized, stocky songbird, 26cm, about the length of a Brown-eared Bulbul but heavier-bodied; rounded head, short neck. Bill strong, about as long as the head, slightly decurved and pointed, pinkish-red. Legs short, dark grey. Wings fairly long and pointed. Tail medium length, square. Usually high in leafy canopy; flight strong and undulating with the yellow body flashing.",
+    "avoid": [
+      "Do not paint a fully black head or hood; the black is only a band through the eye to the nape.",
+      "Do not paint a black, yellow or orange bill on adults; it is pinkish-red.",
+      "Do not make it a small finch- or canary-like bird; it is a large, thrush-sized songbird.",
+      "Do not paint black on the throat or breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

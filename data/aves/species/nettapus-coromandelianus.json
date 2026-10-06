@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Cotton Pygmy Goose (Nettapus coromandelianus), adult male in breeding plumage, as on a lowland pond in early summer: forehead and crown blackish; face, head and neck white; a black, green-glossed collar around the base of the neck; back, scapulars and wings dark glossy green; breast and underparts white, the flanks finely vermiculated pale grey; tail blackish. Bill very short, stubby and black; legs and feet dark grey.",
+    "pose": "swimming among floating water-lily leaves, side view",
+    "scene": "small lowland pond in southern Korea in early summer, covered with floating leaves; no people, buildings or text",
+    "views": [],
+    "build": "Tiny duck, one of the smallest waterfowl, clearly smaller than a Eurasian Teal; compact, with a small rounded head and short neck. Bill very short, much shorter than the head, deep at the base and goose-like. Legs short. In flight the male shows dark green wings crossed by a broad white band across the primaries and a white trailing edge to the secondaries; the female shows only the white trailing edge. Tail short, rounded and dark.",
+    "avoid": [
+      "Do not paint it teal-sized or larger, or with a long, flat duck bill; it is tiny with a short goose-like bill.",
+      "Do not leave out the black breast collar of the breeding male.",
+      "Do not paint a dark or green head; the head is white with only a dark cap.",
+      "Do not paint chestnut or rufous flanks; the flanks are pale grey and white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

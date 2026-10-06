@@ -49,14 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eastern Red-rumped Swallow (Cecropis daurica), adult: glossy purplish blue-black crown, hindneck, back and scapulars, rusty-red rump, blue-black uppertail coverts, buff to pale rufous underparts from chin to belly, short undertail coverts buff and long ones blue-glossed blackish-brown, deeply forked tail with the outer pair about 2.5 times as long as the central pair, black bill, dark brown iris and legs",
+    "subject": "Eastern Red-rumped Swallow (Cecropis daurica), adult (sexes alike), as seen in Korean villages from April to September: crown, mantle, scapulars and back glossy purplish blue-black; a rufous-orange patch behind the eye extending onto the sides of the nape; rump broadly rufous-orange with fine dark streaks; uppertail coverts blue-black; underparts from chin to belly pale buff to pale rufous with fine dark streaks; long undertail coverts blue-glossed black, so the tail looks dipped in ink from below; tail deeply forked and blackish, the outer streamers very long and without white spots. Bill tiny, black. Dark brown eye. Dark brown legs.",
     "pose": "in flight, banking to show the rusty-red rump and long outer tail feathers",
     "scene": "Korean summer countryside: open fields and a stream near a rural village; no people, buildings or text",
     "views": [
-      "adult, side view perched: glossy blue-black upperparts, rusty-red rump, buff underparts, long forked tail",
-      "adult, in flight from above: rusty-red rump contrasting with blue-black back and tail",
-      "adult, from below: buff underparts and blackish long undertail coverts"
-    ]
+      "adult, side view perched on a wire: glossy blue-black crown and back, rufous-orange nape sides and rump, finely streaked pale buff underparts, black undertail coverts, long forked tail",
+      "adult in flight seen from above, head, body and tail in one line: rufous-orange rump band contrasting with blue-black back, wings and forked tail",
+      "adult in flight seen from below: finely streaked buff underparts, square-cut black undertail coverts, long outer tail streamers without white spots"
+    ],
+    "build": "Swallow slightly larger and stockier than Barn Swallow, with broader-based wings. Bill tiny with a wide gape. Legs very short, dark. Tail deeply forked, the outer streamers about two and a half times the length of the central feathers and slightly curving inward. Flight slower and more gliding than Barn Swallow's, often sailing on flat wings. Perches on wires and builds a bottle-shaped mud nest with a long entrance tunnel under eaves and bridges.",
+    "avoid": [
+      "Do not paint a dark red throat and blue-black breast band — that is Barn Swallow (Hirundo rustica).",
+      "Do not paint white spots in the tail (Barn Swallow).",
+      "Do not paint a white rump (Asian House Martin) or unstreaked white underparts.",
+      "Do not paint a short, shallow-forked tail; the outer streamers are very long."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -62,13 +62,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Treecreeper (Certhia familiaris), adult: forehead, crown, nape, hindneck and back mixed blackish-brown and buff with white spots at the feather tips, buff rump and uppertail coverts, white supercilium, white chin, throat, breast and belly, pointed decurved bill",
+    "subject": "Eurasian Treecreeper (Certhia familiaris), adult (sexes alike), in winter: forehead, crown, nape and back mixed blackish-brown and buff, every feather tipped with a small white spot so the upperparts look finely speckled like bark; a clean white supercilium from the bill base to behind the eye, above a brown eye-stripe; wings brown with a broad buff band crossing the flight feathers and pale spots on the tertials; rump and uppertail coverts warm buff; tail brown; chin, throat, breast and belly clean silky white; thin decurved bill dark brown above and pale pinkish below; dark brown eye; pale pinkish-brown legs with long, curved claws.",
     "pose": "spiralling up a tree trunk, side view",
     "scene": "Korean winter conifer forest with old trunks; no people, buildings or text",
     "views": [
-      "adult, side view climbing a trunk: white supercilium, blackish-brown and buff upperparts with white spots, buff rump, white underparts, decurved bill",
-      "adult, head detail: pointed decurved bill and white supercilium"
-    ]
+      "adult, side view climbing up a vertical trunk with the stiff tail pressed to the bark: white supercilium, thin decurved bill, blackish-brown and buff upperparts with white feather-tip spots, buff band across the folded wing, warm buff rump, clean white throat and underparts",
+      "adult, head close-up in profile: thin, finely decurved bill about as long as the head, dark above and pale below, white supercilium over a brown eye-stripe, white throat",
+      "adult, seen from behind clinging to bark, head up: white-speckled back, buff rump and uppertail coverts, stiff brown tail with spiky pointed tips"
+    ],
+    "build": "Tiny, slim tree-climber, about 13cm, roughly the length of a sparrow but much slimmer and flatter, like a small brown mouse on the bark. Body pressed close to the trunk, head held up. Bill thin and fine, about as long as the head, evenly decurved along its whole length like a curved needle. Legs short, with long curved claws for gripping bark. Tail fairly long and stiff, brown, with pointed, spiky feather tips, pressed against the trunk as a prop. In flight a pale buff band runs across the dark wing. Climbs upward in jerky spirals, then drops to the base of the next trunk.",
+    "avoid": [
+      "Do not draw it climbing head-down or with a short square tail and straight bill — that is Eurasian Nuthatch (Sitta europaea).",
+      "Do not give it a straight or thick bill; the bill is thin and evenly decurved.",
+      "Do not paint streaked or buff-washed underparts; the throat, breast and belly are clean white.",
+      "Do not make the tail soft or rounded; the tail feathers are stiff with spiky pointed tips."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

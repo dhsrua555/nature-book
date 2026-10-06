@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Swinhoe's Minivet (Pericrocotus cantonensis), adult male: forehead and forecrown white, the white reaching back to just over the eye; lores and a stripe through the eye black; rear crown, nape, mantle and back brownish-grey; rump and uppertail coverts paler buffy-brown; wings blackish with a pale buffy-white patch at the base of the flight feathers visible on the folded wing; underparts whitish, with a buff-grey wash on the breast sides and flanks; tail long, black in the centre with white outer feathers. Bill and legs black.",
+    "pose": "perched upright on an outer twig in a treetop, side view",
+    "scene": "Canopy of a broadleaf tree on a Korean offshore island in May, during spring migration, clear light; no people, buildings or text",
+    "views": [],
+    "build": "Slim, long-tailed songbird, about the size of Ashy Minivet: a little larger than a sparrow in body but with a much longer tail; small, flat-topped head and upright posture in treetops. Bill short, black, slightly hooked. Legs short, black. Tail long and graduated. In flight a pale bar runs across the flight feathers. Moves restlessly through the canopy in small flocks. Females are duller, with a greyer, less white forehead.",
+    "avoid": [
+      "Do not paint a black crown and nape, a pure grey back and rump and clean white underparts; those mark Ashy Minivet (Pericrocotus divaricatus).",
+      "Do not paint any red, orange or yellow; this is a grey, brown and white minivet.",
+      "Do not paint a grey rump; it is brownish."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

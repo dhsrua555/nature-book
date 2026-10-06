@@ -50,13 +50,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-breasted Flycatcher (Ficedula parva), adult male in winter plumage: uniform grey-brown forehead, crown, back and rump, grey-brown ear coverts and neck sides, orange-buff chin and throat, grey lores, cheeks, breast sides and flanks, dull white eye-ring, dark brown wings with narrow pale fringes, blackish-brown bill, dark brown iris, slender dark brown legs",
+    "subject": "Red-breasted Flycatcher (Ficedula parva), adult male, as seen on spring or autumn migration: forehead, crown, nape, back and rump uniform grey-brown; uppertail coverts dark brown; lores, cheeks, ear-coverts and neck sides ash-grey; a narrow dull white eye-ring; chin, throat and upper breast orange-red, bordered by grey on the breast sides and flanks; lower breast and belly creamy white; wings dark brown with narrow pale fringes; tail blackish with large white patches at the base of the outer feathers. Bill dark brown with a pale pinkish base to the lower mandible; dark brown iris; slender dark legs.",
     "pose": "perched on a low branch in the forest, side view",
     "scene": "forest in central or northern Korea during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult male in winter, side view perched: uniform grey-brown upperparts, orange-buff throat, grey breast sides and flanks, dull white eye-ring, slender dark brown legs",
-      "adult female in winter, side view perched: upperparts as male but slightly browner"
-    ]
+      "adult male, side view perched: uniform grey-brown crown and back, ash-grey face, breast sides and flanks, dull white eye-ring, orange-red chin, throat and upper breast, creamy belly, dark brown wings with narrow pale fringes, slender dark legs",
+      "adult female, side view perched: grey-brown upperparts slightly browner than the male's, plain buff-white throat and breast without orange, dull white eye-ring, blackish tail with white basal patches"
+    ],
+    "build": "Tiny flycatcher, about 11 cm, smaller than a sparrow, round-headed with a rather large dark eye. Bill short, flat and broad-based, triangular when seen from above, much shorter than the head. Legs short, thin, dark. Wings short, the wingtips reaching just past the base of the tail. Tail fairly long, often cocked and flicked open to flash the white patches. Perches low in forest shade and drops to catch insects.",
+    "avoid": [
+      "Do not paint jet-black uppertail coverts, an all-black bill and orange only on the chin and throat; those mark Taiga Flycatcher (Ficedula albicilla).",
+      "Do not paint the whole underparts orange like a robin; the orange is limited to the throat and upper breast.",
+      "Do not leave out the white patches at the base of the outer tail feathers."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Swinhoe's Rail (Coturnicops exquisitus), adult: olive-brown back with many black spots and fine white bars that look like spots, yellowish-brown breast, white belly, dark brown bill, pale brown legs",
+    "subject": "Swinhoe's Rail (Coturnicops exquisitus), adult, as seen on migration: upperparts olive-brown with many black spots and narrow white cross-bars on the back and wing coverts; crown dark brown; face buffy-brown; chin and throat white; breast warm yellowish-brown; belly white; flanks barred dark brown and white. Bill short, dark brown; legs and feet pale brown.",
     "pose": "walking stealthily through wet grass",
     "scene": "Korean marsh and rice-paddy edge with dense wet grass during migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: olive-brown back with black spots and fine white bars, yellowish-brown breast, white belly, dark brown bill, pale brown legs",
-      "adult, top view: olive-brown back spotted black and finely barred white"
-    ]
+      "adult, side view standing: olive-brown upperparts with black spots and fine white bars, yellowish-brown breast, white belly, barred flanks, short dark brown bill, pale brown legs",
+      "adult, top view: olive-brown back densely marked with black spots and narrow white cross-bars",
+      "adult, flight seen from above with legs dangling: white patch on the secondaries contrasting with the dark olive-brown wing"
+    ],
+    "build": "Tiny, very secretive rail, about 15cm, about the size of a sparrow but plumper and shorter-tailed. Round body, small head and short neck. Bill short, much shorter than the head, stubby and slightly conical. Legs short to medium, pale brown, with long toes. Wings fold over the back at rest; the tail is tiny. Flies weakly and briefly with legs dangling, showing a clean white patch on the secondaries, its key mark.",
+    "avoid": [
+      "Do not paint a long bill like Water Rail; the bill is short and stubby.",
+      "Do not paint a grey face and breast like Baillon's Crake (Zapornia pusilla); the breast is yellowish-brown.",
+      "Do not make it larger than a sparrow.",
+      "Do not paint plain, unmarked upperparts; the back is spotted black and barred white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

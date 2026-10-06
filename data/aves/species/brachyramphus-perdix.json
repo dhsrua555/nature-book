@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-billed Murrelet (Brachyramphus perdix), adult non-breeding: blackish upperparts, white scapulars, white underparts",
+    "subject": "Long-billed Murrelet (Brachyramphus perdix), adult in winter plumage, as seen far off the Korean east coast in winter: crown, nape and upperparts dark slate-grey to blackish, the dark cap reaching just below the eye; thin white crescents above and below the eye; a white stripe along the scapulars on each side of the back; throat, foreneck and underparts white. Bill black, long and slender; dark eye.",
     "pose": "swimming alone on the open sea, side view",
     "scene": "open sea far off the Korean east coast in winter, grey swell; no people, buildings or text",
     "views": [
-      "adult non-breeding, side view swimming: blackish upperparts, white scapulars, white underparts",
-      "adult breeding, side view swimming: dark brown upperparts, underparts mottled brown and white"
-    ]
+      "adult non-breeding (winter), side view swimming: blackish crown and back, white eye-crescents, conspicuous white scapular stripe, white throat and underparts, long slender black bill",
+      "adult breeding (spring and summer), side view swimming: dark brown upperparts finely speckled buff, pale throat, underparts heavily mottled dark brown and white, long black bill"
+    ],
+    "build": "Small, compact, short-tailed auk, 25cm, about the size of a Little Grebe, with a rounded head and short neck. Bill black, slender and pointed, about as long as the head, longer than in other small murrelets. Swims low and buoyantly and dives frequently. Wings narrow and pointed; flight fast and low with whirring wingbeats, showing dark underwings.",
+    "avoid": [
+      "Do not paint the white face stripes, black throat and grey back of Ancient Murrelet (Synthliboramphus antiquus).",
+      "Do not paint a short stubby bill; the bill is long and slender for a murrelet.",
+      "Do not make it murre-sized; it is a small, compact seabird.",
+      "Do not omit the white scapular stripe on winter birds."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

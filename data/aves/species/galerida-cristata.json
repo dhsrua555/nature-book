@@ -43,13 +43,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crested Lark (Galerida cristata), adult: pointed crest raised on the crown",
+    "subject": "Crested Lark (Galerida cristata), adult (sexes alike, plumage similar all year), as seen on dry open ground in Korea: a long, spiky, pointed crest of dark-streaked feathers on the rear crown, visible even when partly lowered; face pale buff with a weak pale supercilium and brownish ear-coverts; upperparts sandy grey-brown with diffuse darker streaks; wings plain grey-brown; breast buff-white with neat fine dark streaks; belly and flanks unstreaked whitish-buff; tail dark brown with cinnamon-buff outer feathers. Bill long and strong, dark grey-horn above and pinkish below; dark eye; legs pale pinkish-brown.",
     "pose": "standing on gravelly ground with crest raised, side view",
     "scene": "Korean dry open ground strewn with gravel; no people, buildings or text",
     "views": [
-      "adult, side view standing: pointed crest raised on the crown",
-      "adult, head detail: pointed crest"
-    ]
+      "adult, side view standing on gravel: pointed spiky crest raised on the rear crown, sandy grey-brown streaked upperparts, buff breast with fine dark streaks, long strong slightly curved bill, pinkish legs, short tail",
+      "adult, head detail in profile: long narrow pointed crest rising from the rear crown, plain buff face, long heavy bill dark above and pinkish below",
+      "adult in flight seen from below: broad rounded wings with rusty-buff underwing, short tail with buff outer feathers, no white trailing edge to the wing"
+    ],
+    "build": "Stocky, short-tailed lark, a little bigger and bulkier than Eurasian Skylark and clearly larger than a sparrow. Rounded body, short neck, upright stance when alert, crouching when walking. The crest is a few long feathers forming a narrow, pointed spike that sticks up and back from the rear crown. Bill noticeably longer and heavier than a skylark's, with a gently curved culmen. Legs medium length, pinkish. Tail short. In flight broad, rounded wings with rusty-buff underwings, no white trailing edge, and buff (not white) outer tail feathers.",
+    "avoid": [
+      "Do not give it white outer tail feathers or a white trailing edge to the wing; those mark Eurasian Skylark (Alauda arvensis).",
+      "Do not draw a short, rounded, bushy crest like a skylark's; the crest is a long, narrow, pointed spike.",
+      "Do not paint a short fine bill; the bill is long, heavy and slightly curved.",
+      "Do not paint bold dark streaks on the belly and flanks; only the breast is streaked."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

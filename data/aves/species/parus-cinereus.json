@@ -73,14 +73,23 @@
     }
   ],
   "art": {
-    "subject": "Adult male Cinereous Tit of the Korean mainland population (Parus cinereus minor, formerly called Japanese Tit), about 14 cm. Glossy black head and throat with a large clean white cheek patch and a small whitish patch on the hind neck; a broad black stripe runs from the black throat down the centre of the white to pale greyish-white underparts and spreads into an extensive black patch between the legs; upper mantle washed yellowish green, rest of the back and rump grey; wings grey with a bluish tinge to the median coverts and to the edges of the flight feathers, and a bold white wing bar formed by the white tips of the greater coverts; tail grey with bluish edges; short, stout, pointed bill.",
+    "subject": "Cinereous Tit (Parus cinereus), adult male in April (Korean mainland form, often called Japanese Tit): glossy blue-black head and throat; a large clean white cheek patch; a small white spot on the nape; upper mantle washed yellowish green, rest of the back and rump blue-grey; wings blue-grey with a bold white wing bar on the greater coverts and pale edges to the tertials; underparts white to pale greyish white with no yellow, a broad black stripe down the centre from the throat widening between the legs; tail blue-grey with white outer feathers; short black bill; dark eye; grey legs.",
     "pose": "perched on a thin twig, body turned three-quarters toward the viewer, head turned to show the white cheek and the black breast stripe",
     "scene": "edge of a Korean hillside deciduous woodland in April: oak and cherry twigs with swelling buds and fresh young leaves, pines softly blurred behind; no people, buildings, nest boxes or text",
     "views": [
-      "adult male, perched, front three-quarter view, broad ventral stripe widening between the legs",
-      "adult female, perched, front three-quarter view, narrower ventral stripe",
-      "adult, perched, side view showing the greenish upper mantle and white wing bar"
-    ]
+      "adult male, perched, front three-quarter view: black head, white cheek, black stripe from the throat down the white belly, broadening into a wide black patch between the legs",
+      "adult female, perched, front three-quarter view: the same pattern, but the black belly stripe narrower and not widening between the legs, black of the head slightly duller",
+      "adult, perched, side view: yellowish-green upper mantle, blue-grey back, bold white wing bar, white outer tail feathers, small white nape spot"
+    ],
+    "build": "Small, sturdy songbird, 14cm: about the length of a House Sparrow but slimmer. Large rounded head without a crest, short neck. Bill short, stout, straight and pointed, much shorter than the head, black. Legs fairly short, blue-grey, strong for clinging. At rest the wingtips reach the base of the tail. Tail medium length, square-ended, with white outer feathers. Active and acrobatic, often hanging upside down from twigs.",
+    "avoid": [
+      "Do not paint yellow underparts; Korean birds are white below (yellow underparts belong to the Great Tit of Europe).",
+      "Do not paint a crest or a large white nape patch; that is Coal Tit, which also lacks the belly stripe.",
+      "Do not leave out the white wing bar or break the black belly stripe.",
+      "Do not paint a brownish back with only a small bib; that is Marsh Tit."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -54,13 +54,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Dollarbird (Eurystomus orientalis), adult male: blackish-brown crown and sides of head, slightly paler blackish-brown chin and throat with a purplish centre, bluish-brown mantle shading to dull blue-green on the scapulars, back, rump and uppertail coverts, breast and flanks like the back, bright blue-green belly, undertail coverts, underwing coverts and axillaries, tail blue-green at the base and black beyond, short stout bill, small legs with red toes and black claws",
+    "subject": "Oriental Dollarbird (Eurystomus orientalis), adult male, as seen in Korea from May to August: head blackish-brown, darkest on the crown and face; throat with a patch of glossy violet-blue streaks; mantle dark bluish-brown shading to dull blue-green on the scapulars, back, rump and wing coverts; breast and flanks like the back; belly and undertail coverts brighter blue-green; flight feathers blackish with deep blue outer webs and a round pale silvery-blue patch at the base of the primaries; tail blackish with a blue-green base. Bill bright orange-red, broad and flattened, with a small dark tip. Dark brown eye. Short red legs and toes.",
     "pose": "perched upright on a high bare branch of an old tree",
     "scene": "Korean summer broadleaf woodland with scattered large old trees beside farmland; no people, buildings or text",
     "views": [
-      "adult male, side view perched: blackish-brown head, bluish-brown to blue-green upperparts, bright blue-green belly, short stout bill, red toes",
-      "adult female, side view perched: like the male but paler overall"
-    ]
+      "adult male, side view perched upright on a bare branch: blackish-brown head, violet-blue throat streaks, bluish-brown back shading to blue-green, bright blue-green belly, short broad orange-red bill, red toes",
+      "adult female, side view perched: like the male but duller and paler, with a less glossy throat patch",
+      "adult in flight seen from below, head, body and tail in one line: dark blue-green body, blackish wings with a round pale silvery-blue patch at the base of the primaries, square dark tail"
+    ],
+    "build": "Stocky, big-headed, short-necked bird, about 29.5cm, a little longer than a Brown-eared Bulbul and much bulkier; perches upright and motionless on high dead branches. Bill short, very broad and flattened at the base, slightly hooked at the tip. Legs very short and weak-looking, red. Wings long and broad; in flight a conspicuous round pale blue patch near the base of the primaries on each wing. Tail medium length, square-ended. Flight buoyant and erratic, with deep wingbeats and sudden twists while hawking insects.",
+    "avoid": [
+      "Do not paint a long dagger bill like a kingfisher; the bill is short, broad and flat.",
+      "Do not paint a black or yellow bill on the adult; it is orange-red (dark only in juveniles).",
+      "Do not paint a turquoise head with a rufous back — that is European Roller, not this species.",
+      "Do not omit the pale blue wing patch in flight."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

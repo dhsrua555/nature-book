@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult male: pure white forehead, supercilium, chin, throat, neck sides, breast and belly; dark slate-black crown, nape, mantle, scapulars, rump and flanks; a black line running from the rear of the ear-coverts along the body side, dividing the dark upperparts from the white underparts; chestnut undertail coverts and pale chestnut lower belly; green bill; pale yellow legs",
+    "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult as seen on Korean west-coast wetlands on spring and autumn passage (sexes alike): forehead, face, chin, throat, foreneck, breast and centre of the belly pure white, cleanly and sharply divided from the dark parts; crown, hindneck, back, wings and tail dark slate-grey with an olive tinge; flanks dark slate; lower belly, vent and undertail coverts rufous-chestnut. Bill yellowish-green with a red patch at the base of the upper mandible; long legs and toes yellow.",
     "pose": "walking along the edge of a reed bed beside a ditch",
     "scene": "Korean west-coast rice paddies and reedy ditches during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult male, side view walking: white forehead, face and underparts, dark slate-black crown, nape and flanks, black dividing line, chestnut undertail coverts, green bill, pale yellow legs",
-      "adult male, rear three-quarter view: chestnut undertail coverts and pale chestnut lower belly"
-    ]
+      "adult, side view walking along a ditch edge: pure white forehead, face, throat, breast and belly, dark slate-grey crown, hindneck, back and flanks with a sharp border, chestnut undertail, yellowish-green bill with a red base, long pale yellow legs",
+      "adult, rear three-quarter view with tail raised: rufous-chestnut lower belly, vent and undertail coverts below the dark slate tail and back"
+    ],
+    "build": "Medium-sized rail, about 32.5cm long, about the size of a Common Moorhen but slimmer and longer-legged. Upright stance, small head, short neck. Bill stout, a little shorter than the head, straight and pointed, without a large frontal shield. Legs long and yellow with very long toes. Short tail, frequently jerked up to flash the chestnut undertail. Walks in the open at reed edges and runs quickly to cover.",
+    "avoid": [
+      "Do not paint a red frontal shield and a white flank line — that is Common Moorhen (Gallinula chloropus).",
+      "Do not wash the white face and breast with grey or buff; it is clean white.",
+      "Do not paint a long, slender rail bill; the bill is short and stout.",
+      "Do not paint the female differently; the sexes look alike."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

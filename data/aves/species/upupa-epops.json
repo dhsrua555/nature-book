@@ -53,13 +53,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Hoopoe (Upupa epops), adult male winter: pale pinkish-brown forehead, crown and hindneck with a large erectile crest of long feathers tipped black, the rear crest feathers with a white band before the black tip, pinkish-brown sides of head, vinaceous-pink chin and breast, chin and upper throat edged white, pinkish-brown to greyish-brown mantle, lower back and upper rump banded creamy white and blackish brown, black uppertail coverts, black bill, brown iris, grey legs",
+    "subject": "Common Hoopoe (Upupa epops), adult as seen in Korean farmland from April to September: head, neck and breast soft pinkish-buff, the chin and upper throat edged whitish; a large fan-shaped erectile crest of long pinkish-buff feathers, each tipped black, the rear feathers with a white band before the black tip; mantle pinkish- to greyish-brown; wings black boldly barred with broad creamy-white bands; lower back and upper rump banded creamy white and blackish-brown; uppertail coverts black; tail black with a broad white band across the middle; belly whitish, the flanks lightly streaked dark. Bill long, slender, gently decurved and black; brown iris; legs grey.",
     "pose": "walking on the ground with the crest raised",
     "scene": "Korean countryside in summer: farmland and low hills with a large old tree; no people, buildings or text",
     "views": [
-      "adult, side view on the ground: crest raised, pinkish-brown head, vinaceous-pink breast, banded lower back, black bill, grey legs",
-      "adult, head detail: crest fanned, black tips and white band on the rear feathers"
-    ]
+      "adult, side view on the ground: crest raised and fanned, pinkish-buff head and breast, black wings boldly barred white, banded lower back, long decurved black bill, grey legs",
+      "adult, head close-up in side view with the crest fanned: long pinkish-buff crest feathers tipped black, the rear ones with a white band before the black tip",
+      "adult in flight seen from above: broad rounded black wings crossed by bold white bars, black-and-white banded lower back, black tail with a broad white band across the middle"
+    ],
+    "build": "Medium-sized, slim ground bird, about 28cm, about the length of a Brown-eared Bulbul, with a long, slender, gently decurved bill clearly longer than the head and a large fan crest that is usually folded back into a point but raised on landing or when alarmed. Legs short, grey; walks and probes on bare ground and short grass. Wings broad and rounded; flight slow and undulating like a giant butterfly, flashing the black-and-white wings. Tail medium length, square-ended.",
+    "avoid": [
+      "Do not paint a short or straight bill; it is long, slender and gently decurved.",
+      "Do not paint plain brown wings; they are black with broad white bars.",
+      "Do not paint crest feathers without black tips, or the body bright orange.",
+      "Do not paint a long tail; it is of medium length and square-ended."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

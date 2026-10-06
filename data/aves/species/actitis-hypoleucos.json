@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Sandpiper (Actitis hypoleucos), adult: straight bill about as long as the head, greenish-brown upperparts with blackish-brown edging on back and wing coverts, brown-streaked breast, white underparts wedging up in front of the folded wing",
+    "subject": "Common Sandpiper (Actitis hypoleucos), adult as seen on Korean riversides from April to September: crown, hindneck and upperparts greenish olive-brown, the back, scapulars and wing coverts finely marked with dark brown bars and edges; a short whitish supercilium and white eye-ring above a dark brown eye-stripe; sides of the breast grey-brown with fine streaks, forming two patches almost meeting in the centre; underparts clean white, the white reaching up as a sharp wedge between the breast patch and the bend of the folded wing; tail olive-brown with white-barred outer edges. Bill dark brown, paler at the base; dark eye; legs dull greyish-green to yellowish-olive.",
     "pose": "flying low over the water on down-held wings with rapid, flickering wingbeats",
     "scene": "Korean riverside in spring: pebbly bank beside shallow flowing water; no people, buildings or text",
     "views": [
-      "adult, side view standing: straight bill, greenish-brown upperparts, brown-streaked breast, white wedge in front of the wing",
-      "adult in flight: bold white wingbar, rump same colour as the back, wings held below the body"
-    ]
+      "adult, side view standing: straight bill about head length, olive-brown upperparts with fine dark edging, short pale supercilium and white eye-ring, streaked brown breast-side patch, white wedge rising in front of the folded wing, tail projecting beyond the wingtips",
+      "adult in flight seen from above: wings bowed downwards below the body, long bold white wing-bar, rump and central tail the same olive-brown as the back, white sides to the tail"
+    ],
+    "build": "Small, short-legged, horizontal sandpiper, 20cm, noticeably larger than a sparrow; short neck, crouched stance, and a long tail that projects clearly beyond the wingtips at rest. Constantly bobs its rear and tail up and down. Bill straight, about as long as the head. Legs short, greyish-green. In flight it skims low over the water with stiff, shallow, flickering wingbeats on down-bowed wings, interspersed with short glides; a bold white wing-bar runs along the whole wing; rump and centre of the tail brown like the back, tail sides white.",
+    "avoid": [
+      "Do not paint a white rump; the rump is as brown as the back (Green and Wood Sandpipers have white rumps).",
+      "Do not let the wingtips reach the tail tip; the tail clearly extends beyond the folded wings.",
+      "Do not paint bold white spots on the upperparts (Wood Sandpiper) or long yellow legs.",
+      "Do not paint a uniform streaked band across the whole breast; the brown sits on the breast sides, with white pushing up in front of the wing."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

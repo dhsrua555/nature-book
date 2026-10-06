@@ -39,13 +39,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Crane (Grus grus), adult: mostly grey body, black head and front of the neck",
+    "subject": "Common Crane (Grus grus), adult as seen in Korean winter wetlands and farmland (plumage the same all year): head, foreneck and hindneck black, with a broad white band from behind the eye curving down the side of the neck to the upper back; a small patch of bare red skin on the crown; body and wing coverts mid-grey; primaries and secondaries black; long drooping tertials form a bushy grey bustle with black tips over the tail. Straight bill greyish-horn, paler at the tip; red eye; long black legs.",
     "pose": "foraging in a field alongside other cranes",
     "scene": "Korean winter wetland and farmland beside a lake; no people, buildings or text",
     "views": [
-      "adult, side view standing: mostly grey body, black head and foreneck",
-      "adult, head and neck detail: black head and front of the neck"
-    ]
+      "adult, side view standing: mostly grey body, black head and foreneck with a broad white band down the side of the neck, small red crown patch, black-tipped grey bustle over the tail, long black legs",
+      "adult, head and neck detail: black forehead, face and foreneck, small bare red patch on the crown, white band from behind the eye down the neck side, straight greyish bill, red eye"
+    ],
+    "build": "Large, tall crane, larger than Hooded Crane and smaller than Red-crowned Crane; long neck and very long legs, upright stance. Bill straight, sharply pointed, about as long as the head. A bushy bustle of drooping tertials covers the short tail. In flight neck stretched straight forward and legs trailing; grey wing coverts contrast with black flight feathers.",
+    "avoid": [
+      "Do not paint a white head and upper neck with a dark grey body — that is Hooded Crane (Grus monacha).",
+      "Do not paint a red face patch with a grey-and-white striped neck — that is White-naped Crane (Antigone vipio).",
+      "Do not paint a white body — that is Red-crowned Crane (Grus japonensis).",
+      "Do not extend the white neck band onto the throat; the foreneck is black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

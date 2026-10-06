@@ -130,10 +130,19 @@
     "pose": "perched on a thin willow twig over the water, body upright, holding a small silvery fish crosswise in its bill",
     "scene": "a slow, clear Korean lowland stream in early summer, overhanging willow branches, reeds along the edge and an exposed earthen bank above the water, pebbles visible in the shallows; no people, buildings or text",
     "views": [
-      "adult male, perched, side view: all-black bill",
-      "adult female, perched, side view: black upper mandible and orange-red lower mandible with a dark tip",
-      "adult, flying low over water, from above: brilliant azure back and rump stripe against darker green-blue wings"
-    ]
+      "adult male, perched, side view: all-black bill, green-blue crown and wings spotted pale blue, orange patches before and behind the eye, white throat and neck patch, orange underparts, small red legs",
+      "adult female, perched, side view: same plumage as the male, but the bill has a black upper mandible and an orange-red lower mandible with a dark tip",
+      "adult, flying low over water, seen from above: brilliant azure back and rump stripe contrasting with darker green-blue wings and tail, head, body and tail in a straight line"
+    ],
+    "build": "Small, compact kingfisher, 17cm, a little longer than a sparrow but much stockier, with a big head, almost no neck and a short, stubby tail. Bill long, straight and dagger-shaped, clearly longer than the head. Legs tiny, bright orange-red. Wings short and rounded. Sits upright on a twig over water; flies fast and straight low over the water, flashing the azure back stripe, and sometimes hovers before plunge-diving.",
+    "avoid": [
+      "Do not make it large or give it a heavy red bill and white wing patches — that is Black-capped Kingfisher (Halcyon pileata).",
+      "Do not paint a crest or a long tail; the head is smooth and the tail very short.",
+      "Do not paint orange-red on the male's lower mandible; males have an all-black bill.",
+      "Do not paint grey or black legs on adults; they are small and bright orange-red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

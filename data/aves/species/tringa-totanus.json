@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Redshank (Tringa totanus), adult: brown upperparts mottled black and grey, white underparts densely streaked and blotched brown, red bill with a black tip, red legs, broad white rear part of the wing visible in flight",
+    "subject": "Common Redshank (Tringa totanus), adult in breeding plumage, as seen on Korean salt pans and tidal flats in April-May: head and neck pale grey-brown, densely streaked dark, with a short whitish supercilium in front of the eye and a whitish eye-ring; upperparts warm grey-brown with black spots, bars and streaks on the mantle, scapulars and tertials; underparts white, heavily streaked dark brown on the breast and blotched and barred dark on the flanks, cleaner white on the belly and vent; bill orange-red on the basal half and black on the outer half; dark eye; bright orange-red legs.",
     "pose": "wading in a flooded rice field, side view",
     "scene": "Korean coastal salt pans and tidal flats in spring, small groups of waders; no people, buildings or text",
     "views": [
-      "adult, side view standing: brown upperparts mottled black and grey, densely streaked white underparts, red bill with black tip, red legs",
-      "adult in flight, from above: broad white rear part of the wing"
-    ]
+      "adult breeding, side view standing on mud: grey-brown upperparts spotted and barred black, white underparts densely streaked and blotched dark brown, straight bill red on the basal half and black at the tip, bright orange-red legs",
+      "adult in flight, seen from above, head, body and tail in line: broad white trailing edge to the inner wing, dark outer primaries, white wedge up the back, finely barred tail, red feet projecting slightly beyond the tail"
+    ],
+    "build": "Medium-sized, rather stocky Tringa sandpiper, 27.5cm, a little smaller than a feral pigeon; medium-length neck, alert, often bobs the head and body. Bill straight, a little longer than the head, fairly stout at the base. Legs medium-long, bright orange-red, with bare tibia. At rest the wingtips reach about the tail tip. In flight the most distinctive feature is the broad white trailing edge across the secondaries and inner primaries, contrasting with dark outer primaries; a white wedge runs from the rump up the back; the tail is finely barred and the toes project slightly beyond it.",
+    "avoid": [
+      "Do not paint an all-red or all-black bill; only the basal half is red.",
+      "Do not give it a long needle-fine bill, very long legs or sooty-black plumage - that is Spotted Redshank (Tringa erythropus), which also lacks the white wing panel.",
+      "Do not paint a narrow white wing-bar across the coverts instead of the broad white trailing edge.",
+      "Do not paint yellow or greenish legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

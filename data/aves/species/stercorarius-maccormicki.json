@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "South Polar Skua (Stercorarius maccormicki), adult of the intermediate morph, as seen over the open sea off Korea in summer: head, neck and underparts plain cold greyish-brown, a little paler than the back and wings, with fine pale straw-coloured streaks on the hindneck; mantle and wings dark blackish-brown, unmarked; a conspicuous white flash at the base of the primaries on both the upper and lower wing; no rufous tones anywhere. Bill black, stout and hooked; dark eye; legs and webbed feet black.",
+    "pose": "flying low and steadily over the swell on broad wings, white primary flashes showing",
+    "scene": "open sea far off the Korean East Sea coast in summer, long blue-grey swell under a hazy sky; no people, buildings or text",
+    "views": [],
+    "build": "Large, heavy-bodied skua, about as long as a Black-tailed Gull but much bulkier and broader-chested, looking like a dark, powerful gull. Bill stout and deep, black, with a strongly hooked tip. Wings broad-based and rather blunt; tail short and slightly wedge-shaped, the central feathers projecting only a little. Flight steady with shallow wingbeats, turning to fast, agile chases of other seabirds. Legs short and black.",
+    "avoid": [
+      "Do not paint long pointed or twisted central tail streamers (jaegers); the tail is short with only a slight central projection.",
+      "Do not paint a black cap, a breast band or barred flanks (Pomarine Jaeger).",
+      "Do not paint warm rufous or cinnamon streaking on the body (Great Skua of the Atlantic).",
+      "Do not omit the white flash at the base of the primaries.",
+      "Do not paint a gull-like white body or a yellow bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Wryneck (Jynx torquilla), adult: grey upperparts patterned brown, black streaks on the upperparts, down the centre of the back and over the eye, white underparts, yellowish-grey tail with brown markings and 5–6 black bars, pale brown legs",
+    "subject": "Eurasian Wryneck (Jynx torquilla), adult (sexes alike, same plumage all year), as seen in Korean village shrubbery in April-May: upperparts silvery grey-brown, finely vermiculated like tree bark, with a dark brown stripe from the crown down the nape to the centre of the back and dark stripes along the scapulars forming a dark V; a dark brown stripe through the eye down the side of the neck; throat and breast buff-yellowish, finely barred dark; rest of the underparts whitish to buff with small dark arrowhead spots; long grey tail finely vermiculated, crossed by several narrow dark bars; short pointed grey-horn bill; brown eye; pale brownish legs.",
     "pose": "on the ground beside an ant nest, picking up ants",
     "scene": "Korean village outskirts with shrubs and scattered trees in late spring; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey upperparts patterned brown with black streaks, white underparts, pale brown legs",
-      "adult, tail detail: yellowish-grey tail with brown markings and 5–6 black bars"
-    ]
+      "adult, side view perched across a branch: bark-like grey-brown upperparts with a dark crown-to-back stripe and dark scapular V, dark eye-stripe, buff finely barred throat and breast, whitish spotted belly, short pointed bill, pale brown legs",
+      "adult, tail detail from above, slightly spread: long rounded grey tail finely vermiculated brown and crossed by several narrow black bars"
+    ],
+    "build": "Small, slim, cryptic relative of the woodpeckers, a little larger and longer-tailed than a sparrow; looks like a cross between a large warbler and a nightjar. Smallish head on a flexible neck that it twists snake-like when disturbed. Bill short, straight and pointed, shorter than the head, not chisel-like. Legs short, pale brownish, with two toes forward and two back. Perches across branches like a songbird and feeds on the ground on ants; does not climb trunks with the tail braced. Wings short and rounded; the long, soft, rounded tail extends well beyond the wingtips.",
+    "avoid": [
+      "Do not paint it clinging upright on a trunk propped on a stiff tail like a woodpecker; it perches across branches or hops on the ground.",
+      "Do not paint black-and-white or red woodpecker colours, or a chisel bill.",
+      "Do not paint a crest or a plain unpatterned back.",
+      "Do not paint a pure white unmarked underside; the throat and breast are buff and barred."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

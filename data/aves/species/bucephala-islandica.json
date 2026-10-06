@@ -50,14 +50,22 @@
     }
   ],
   "art": {
-    "subject": "Barrow's Goldeneye (Bucephala islandica), adult male: black upperparts, white underparts, white spot in front of the eye",
+    "subject": "Barrow's Goldeneye (Bucephala islandica), adult male in winter: head black with a purple gloss, steep forehead and a puffy, flat-topped hindcrown; a large white crescent between the bill and the eye; upperparts black, with a row of separate white spots along the scapulars; white breast, belly and flanks, with a black spur reaching down the side of the breast in front of the wing; black rear end and tail. Short black bill; bright golden-yellow eye; orange legs and feet.",
     "pose": "swimming on calm inshore water",
     "scene": "Korean winter coast with calm inshore sea; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: black upperparts, white underparts, white spot in front of the eye",
-      "adult female, side view swimming: brown head, white neck, grey body",
-      "adult in flight, upperside: small white patch on the inner wing"
-    ]
+      "adult male, side view swimming: purple-glossed black head with steep forehead and a white crescent before the eye, black back with a row of white spots, black spur at the breast side, white flanks, yellow eye",
+      "adult female, side view swimming: chocolate-brown head with steep forehead, whitish collar on the neck, grey body, white belly, mostly orange-yellow bill, pale yellow eye",
+      "adult male in flight, seen from above: black upperwing with a white patch on the secondaries and a smaller white panel on the inner coverts, separated by a black bar"
+    ],
+    "build": "Compact diving duck, 42–51cm, about the size of the Common Goldeneye, with a large head and short neck. Head shape distinctive: very steep, high forehead, flat crown and a long, puffy nape. Bill short and stubby, deep at the base and much shorter than the head. Legs short, set well back. Sits buoyantly and dives often. In flight the black upperwing shows a white patch on the secondaries separated by a black bar from a smaller white panel on the coverts, less white than the Common Goldeneye.",
+    "avoid": [
+      "Do not paint a round white spot before the eye or a green-glossed head with mostly white scapulars; those mark the Common Goldeneye (Bucephala clangula).",
+      "Do not paint the scapulars mostly white; they are black with a row of white spots.",
+      "Do not give it a crest or a long bill; the head is puffy but crestless and the bill short."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Least Auklet (Aethia pusilla), adult in summer: dark brown to blackish back and wings, white spots on breast and underparts, white plumes behind the eye, dark red bill, yellow eye, very short tail, grey-brown webbed feet",
-    "pose": "standing on a rock ledge, side view",
-    "scene": "rocky sea cliff above a boulder shore; no people, buildings or text",
+    "subject": "Least Auklet (Aethia pusilla), adult in winter (non-breeding) plumage, as seen on the sea off the Korean east coast in winter: crown, nape, back and wings blackish; a white line along the scapulars; throat, foreneck and underparts white, with a little dusky smudging on the sides; no facial plumes; tiny stubby blackish bill; whitish iris; grey webbed feet hidden under the water.",
+    "pose": "swimming on the sea surface, side view",
+    "scene": "winter sea off the Korean east coast, grey-blue choppy water near a rocky shore; no people, buildings or text",
     "views": [
-      "adult summer, side view standing: dark upperparts, white-spotted underparts, white plumes behind the eye, dark red bill, yellow eye",
-      "adult, foot detail: grey-brown webbed feet"
-    ]
+      "adult breeding (summer), side view standing upright on a rock: blackish upperparts, white throat, white underparts mottled with dark spots, fine white plumes behind the eye, tiny dark red bill with a pale tip, whitish eye, grey webbed feet, very short tail",
+      "adult winter, side view swimming: blackish crown and back with a white scapular line, clean white throat and underparts, tiny blackish bill, whitish eye"
+    ],
+    "build": "Tiny, rotund auk, about 15cm, sparrow-sized and the smallest auk, with a round head, no visible neck and a very short tail. Bill tiny and stubby, much shorter than the head. Legs set far back, with grey webbed feet. Wings short and narrow, beaten in a fast whirring flight low over the sea. Swims buoyantly and dives often.",
+    "avoid": [
+      "Do not paint a large or brightly coloured bill or a curled forehead crest; those suit Crested or Rhinoceros Auklet.",
+      "Do not paint a black throat and grey back; that is Ancient Murrelet (Synthliboramphus antiquus), common off Korea in winter.",
+      "Do not show the red bill and white facial plumes on the winter bird; they are breeding features.",
+      "Do not paint a yellow iris."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

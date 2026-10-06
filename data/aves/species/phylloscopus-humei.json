@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Hume's Leaf Warbler (Phylloscopus humei), adult in fresh autumn plumage (sexes alike), as seen on Korean islands on passage: crown dull greyish-olive with at most a faint paler central stripe; long buffy-white supercilium and a dark eye-stripe; upperparts greyish-olive, less green than in Yellow-browed Warbler; wings dark with one clear whitish-buff wing-bar on the greater coverts, a shorter and fainter second bar on the median coverts, and whitish tertial edges; underparts dull off-white. Bill fine, mostly dark with only a little pale at the base of the lower mandible; dark eye; legs dark brown.",
+    "pose": "flitting through the outer twigs of a small tree, flicking its wings while gleaning insects",
+    "scene": "coastal woodland edge on a Korean offshore island in late October, yellowing leaves and soft autumn light; no people, buildings or text",
+    "views": [],
+    "build": "Tiny, active leaf warbler, much smaller than a tree sparrow, with a rounded head, slim body and short tail. Bill very fine and pointed, shorter than the head. Legs thin, dark brown. Constantly flicks its wings while gleaning insects from the outer twigs of trees.",
+    "avoid": [
+      "Do not paint bright green upperparts and two bold whitish-yellow wing-bars; that is Yellow-browed Warbler (Phylloscopus inornatus).",
+      "Do not paint a yellow crown stripe or a pale yellow rump (Pallas's Leaf Warbler).",
+      "Do not paint pale pinkish legs or a mostly pale lower mandible.",
+      "Do not paint yellow underparts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

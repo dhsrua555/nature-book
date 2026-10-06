@@ -41,14 +41,23 @@
   "young": "어른새보다 부리가 짧고 덜 굽었다.",
   "similar": [],
   "art": {
-    "subject": "Eurasian Whimbrel (Numenius phaeopus), adult: long decurved bill about twice the length of the head, white central crown stripe with dark brown lateral crown stripes, pale brown underparts streaked dark brown, white wedge from the tail base up to the middle of the back (visible in flight)",
+    "subject": "Eurasian Whimbrel (Numenius phaeopus), adult, as seen on Korean tidal flats on migration in April–May and August–September: crown dark brown with a narrow pale buff central crown stripe; pale buff supercilium above a dark brown eye-stripe; neck and breast buff-white, densely streaked dark brown; flanks with dark chevrons; belly white. Upperparts grey-brown, each feather dark-centred with pale buff notches and edges. Lower back and rump whitish but variably barred brown, so the pale wedge looks mottled rather than clean white. Bill blackish with a pinkish base to the lower mandible. Eye dark. Legs bluish-grey.",
     "pose": "walking on a tidal mudflat, reaching for a crab with its decurved bill",
     "scene": "Korean tidal mudflat at a river mouth during spring migration, a small flock in the background; no people, buildings or text",
     "views": [
-      "adult, side view standing: long decurved bill, white central crown stripe and dark lateral crown stripes, pale brown underparts with dark streaks",
-      "adult in flight, from above: white extending from the tail base up to the mid-back",
-      "juvenile, head detail: shorter, less decurved bill"
-    ]
+      "adult, side view standing: long bill curving down mainly in the outer half, dark lateral crown stripes with a pale central stripe, pale supercilium and dark eye-stripe, buff breast streaked dark brown, bluish-grey legs",
+      "adult, in flight seen from above: dark grey-brown upperwing, whitish wedge from the tail base to the mid-back, variably barred brown, barred tail",
+      "juvenile, head detail in side view: crown stripes as in the adult, bill shorter and less decurved than the adult's"
+    ],
+    "build": "Medium-large curlew, 42cm, clearly smaller than Eurasian and Far Eastern Curlews and larger than a Grey Plover. Rounded head, medium neck, rather long legs. Bill long, about twice the head length, fairly straight in the basal half and curving down more strongly in the outer half. Legs bluish-grey, with bare tibia visible. At rest the wingtips reach about the tail tip. Tail short and barred. Walks steadily on mudflats, picking crabs from the surface.",
+    "avoid": [
+      "Do not paint a plain crown; the crown stripes are the Whimbrel's mark (curlews have plain streaked crowns).",
+      "Do not paint a bill as long as a curlew's (about three times the head length).",
+      "Do not paint yellow or greenish legs; they are bluish-grey.",
+      "Do not paint a clean, bright white back and rump as in western Whimbrels; East Asian birds show it barred brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Mongolian Finch (Bucanetes mongolicus), adult male in spring, a vagrant on a dry rocky hillside in Korea: crown, nape and mantle sandy grey-brown with fine dark streaks; face around the eye and the supercilium washed pink; throat and breast sandy-buff washed rose-pink, the pink extending onto the flanks; belly whitish; wings brown with a pale pinkish-white panel formed by the pale-edged greater coverts and secondaries; tail dark brown with pale feather edges. Bill stout, conical, pale yellowish-horn; eye dark; legs pinkish-brown.",
+    "pose": "feeding on the ground among stones, side view",
+    "scene": "dry, stony coastal hillside with sparse grass in Korea in spring (April), bright light; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact desert finch about the size of a sparrow, with a large rounded head, short neck and fairly short tail; feeds quietly on the ground among stones. Bill short, deep and conical, pale yellowish-horn, shorter than the head. Legs short, pinkish-brown. Tail fairly short and notched. In flight the pale wing panel and the pinkish wash show; there are no bold wing bars.",
+    "avoid": [
+      "Do not paint a red or scarlet bird like a male Common Rosefinch; the pink is a soft wash on a sandy-brown bird.",
+      "Do not paint a dark or blackish bill; it is pale yellowish-horn.",
+      "Do not paint bold white wing bars; the pale area is a panel on the greater coverts and secondaries.",
+      "Do not paint a long tail (Long-tailed Rosefinch)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

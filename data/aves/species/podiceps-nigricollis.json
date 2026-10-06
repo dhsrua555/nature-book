@@ -36,13 +36,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-necked Grebe (Podiceps nigricollis), adult: peaked crown, red eye, black upturned bill",
+    "subject": "Black-necked Grebe (Podiceps nigricollis), adult in winter (non-breeding) plumage, as seen on Korean estuaries from November to March: black cap reaching down below the eye onto the ear-coverts, the dark grading into the cheek rather than cut sharply; white throat and a white crescent curving up behind the ear-coverts; foreneck washed dusky grey; hindneck and back blackish-grey; flanks grey; underparts white. Thin black bill with an upturned lower edge, appearing slightly tilted up; bright red eye; dark grey legs.",
     "pose": "swimming in a loose flock on open water, one bird diving",
     "scene": "Korean winter river mouth with a wide, calm channel near the coast; no people, buildings or text",
     "views": [
-      "adult, side view swimming: peaked crown, red eye, black upturned bill",
-      "adult, head detail: peaked crown, red eye and upturned black bill"
-    ]
+      "adult winter, side view swimming: peaked crown, black cap extending below the red eye, white throat and crescent behind the ear-coverts, dusky foreneck, dark back, grey flanks, thin upturned black bill",
+      "adult winter, head detail in side view: steep forehead and peaked crown, bright red eye, thin black bill with an upturned lower edge",
+      "adult breeding (spring), side view swimming: black head and neck, golden fan of plumes behind the eye, chestnut flanks, red eye, upturned black bill"
+    ],
+    "build": "Small grebe, about 31cm, a little larger than Little Grebe and smaller than a Mallard; neat, with a thin neck, steep forehead and a peaked crown highest above the eye. Bill black and thin, shorter than the head, with a straight upper edge and an upturned lower edge giving a slightly upturned look. Legs set at the rear of the body. Rides fairly high with a fluffed rear; often in flocks that dive one after another.",
+    "avoid": [
+      "Do not paint a flat crown, a straight bill with a pale tip or white cheeks sharply cut from the black cap; that is Horned Grebe (Podiceps auritus).",
+      "Do not show golden ear plumes or chestnut flanks in the winter scene; they are breeding plumage.",
+      "Do not paint a yellow eye (Little Grebe) or a long pink bill (Great Crested Grebe)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

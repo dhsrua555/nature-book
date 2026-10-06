@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Blue Rock Thrush (Monticola solitarius), adult male: deep blue head, throat, upper breast and back, blue-black lower breast, wings and tail, chestnut belly, blackish bill, brown iris, dark brown legs",
+    "subject": "Blue Rock Thrush (Monticola solitarius philippensis), adult male, as seen on Korean rocky coasts: head, throat, upper breast, mantle and back deep cobalt blue; breast blue darkening to blue-black where it meets the chestnut on the lower breast; wings and tail blackish-blue; belly, flanks and undertail coverts deep chestnut. Bill slender, blackish. Brown eye. Dark brown legs.",
     "pose": "perched on a rock ledge, side view",
     "scene": "Korean rocky sea cliff with cracks and crevices above the shore; no people, buildings or text",
     "views": [
-      "adult male, side view perched: deep blue head, throat, upper breast and back, blue-black wings and tail, chestnut belly, blackish bill, dark brown legs",
-      "adult female, side view perched: grey-brown back, blackish-brown tail, dark buff-brown belly, brownish bill"
-    ]
+      "adult male, side view perched on a rock: deep blue head, throat, upper breast and back, blue-black lower breast, wings and tail, chestnut belly, slender blackish bill, dark brown legs",
+      "adult female, side view perched: grey-brown upperparts with a faint blue tinge, blackish-brown tail, buff-brown underparts densely scaled with dark crescents, brownish bill"
+    ],
+    "build": "Medium-sized, slim, long-billed thrush, about 25cm, a little shorter than a Brown-eared Bulbul; upright stance on rocks and roofs, often bobbing and flicking the tail. Bill straight and slender, about as long as the head. Legs medium length, dark brown. Wings fairly long. Tail medium length, square. Flight low and direct between rocks; sings from cliff ledges and rooftops.",
+    "avoid": [
+      "Do not paint the whole underparts blue; East Asian males have a chestnut belly.",
+      "Do not paint chestnut on the throat or face; the chestnut starts on the lower breast.",
+      "Do not paint a short, stubby or yellow bill.",
+      "Do not paint white wing patches or white in the tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

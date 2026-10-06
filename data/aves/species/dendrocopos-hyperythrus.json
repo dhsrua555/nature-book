@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rufous-bellied Woodpecker (Dendrocopos hyperythrus), adult male: red crown, white face and cheeks, tawny nape, neck, chin, breast and belly, black back and upperwings barred with white, black uppertail coverts, bill black above and tawny below",
+    "subject": "Rufous-bellied Woodpecker (Dendrocopos hyperythrus), adult male, as seen in Korean conifer forest in spring: crown and nape crimson-red; forehead, lores, cheeks and ear coverts whitish; throat, sides of neck, breast and belly rich rufous-cinnamon, unmarked; undertail coverts red; back and wings black with neat white bars, the flight feathers spotted white; uppertail coverts black; tail black, the outer feathers barred white; bill black above, pale yellowish-tawny below; dark eye; legs grey.",
     "pose": "clinging upright to a conifer trunk beside a nest hole",
     "scene": "Dense coniferous forest in the Korean highlands of Baekdusan in spring; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: red crown, white face, tawny underparts, black back barred white, black uppertail coverts",
-      "adult female, head detail: black crown, white face and cheeks, bill black above and tawny below"
-    ]
+      "adult male, side view clinging upright to a conifer trunk: red crown and nape, whitish face, rufous throat, breast and belly, red undertail coverts, black back and wings barred white, black uppertail coverts, bill black above and pale below",
+      "adult female, head and upper body detail: black crown finely spotted white, whitish face and cheeks, rufous neck and breast, bill black above and pale below"
+    ],
+    "build": "Medium-sized pied woodpecker, about 24cm, about the size of Great Spotted Woodpecker, with a rounded head (no crest), stout neck and stiff, pointed tail used as a prop. Bill straight and chisel-tipped, about as long as the head. Legs short, grey, two toes forward and two back. Climbs upright on trunks in short hops; flight deeply undulating.",
+    "avoid": [
+      "Do not paint white underparts, black moustache stripes or large white shoulder patches; those belong to Great Spotted Woodpecker (Dendrocopos major).",
+      "Do not paint a crest.",
+      "Do not bar or streak the rufous underparts; they are plain.",
+      "Do not give the female a red crown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

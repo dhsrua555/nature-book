@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Ryukyu Minivet (Pericrocotus tegimae), adult male: a narrow white band on the forehead; crown, nape, lores and ear-coverts black; mantle, back and rump dark slate-grey; wings blackish; chin and throat white; a dark grey wash on the sides of the breast forming a partial breast band; rest of the underparts white, the flanks washed grey; tail long, blackish with white on the outer feathers. Bill and legs black.",
+    "pose": "perched on an outer branch in the canopy, side view",
+    "scene": "Evergreen broadleaf forest canopy on Jeju Island in early summer, soft light; no people, buildings or text",
+    "views": [],
+    "build": "Slim, long-tailed minivet, about the size of Ashy Minivet but darker overall: a little larger than a sparrow in body with a much longer tail; flat-topped head and upright posture in the canopy. Bill short, black, slightly hooked. Legs short, black. Tail long and graduated. Moves through evergreen broadleaf forest canopy in pairs or small groups. Females are duller and greyer on the head, with less contrast.",
+    "avoid": [
+      "Do not paint a broad white forehead, a pale grey back and a clean white breast; those mark Ashy Minivet (Pericrocotus divaricatus).",
+      "Do not paint any red, orange or yellow.",
+      "Do not omit the dark grey patches on the sides of the breast."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

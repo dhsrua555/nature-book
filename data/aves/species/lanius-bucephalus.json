@@ -68,14 +68,23 @@
     }
   ],
   "art": {
-    "subject": "Bull-headed Shrike (Lanius bucephalus), adult male: brown head, black eye-stripe, grey back, black flight feathers with a white wing patch, tail becoming blacker towards the tip, white throat, breast and belly, pale rufous flanks",
+    "subject": "Bull-headed Shrike (Lanius bucephalus), adult male, as seen in central and southern Korea in spring: crown and nape bright rufous-chestnut; narrow whitish supercilium; broad black mask from the lores through the eye to the ear coverts; mantle, back and rump blue-grey; wings black with a white patch at the base of the primaries; tail long and graduated, dark grey-brown becoming blacker towards the tip, with narrow pale tips; throat white; breast and flanks washed orange-rufous, belly whitish. Bill strong, hooked, black. Dark eye. Dark grey legs.",
     "pose": "perched on a branch, side view",
     "scene": "leafy tree branches in central or southern Korea in spring, a twig nest nearby; no people, buildings or text",
     "views": [
-      "adult male, side view perched: brown head, black eye-stripe, grey back, white wing patch on black wings, white underparts with pale rufous flanks",
-      "adult female, side view perched: brown head, dark brown eye-stripe and back, pale rufous breast and belly densely scaled, no white wing patch",
-      "adult male, summer plumage: grey head and back, narrower rufous area on the breast"
-    ]
+      "adult male, side view perched upright: rufous-chestnut crown, narrow white supercilium, black mask, blue-grey back, black wings with a white primary patch, white throat, orange-rufous flanks, long dark tail, hooked black bill",
+      "adult female, side view perched: rufous-brown crown and brown back, dark brown mask narrower than the male's, buff supercilium, buff-rufous breast and flanks densely marked with fine dark scaly bars, no white wing patch",
+      "adult male in flight seen from above, body level: black wings with a conspicuous white primary patch, grey back, long dark tail"
+    ],
+    "build": "Medium-small, large-headed shrike, about 20cm, a little smaller than a Brown-eared Bulbul; big rounded head, stout body, long graduated tail often swung or flicked. Bill short, thick, with a sharp hook at the tip. Legs medium length, dark grey. Short primary projection: at rest the wingtips reach only the base of the tail. Perches upright on exposed tops of bushes and branches. In flight the white primary patch of males shows clearly on the black wing.",
+    "avoid": [
+      "Do not paint a grey crown with a chestnut, black-barred back — that is Tiger Shrike (Lanius tigrinus).",
+      "Do not paint plain brown upperparts without a wing patch on the male (Brown Shrike, Lanius cristatus).",
+      "Do not paint a long, slender, unhooked bill.",
+      "Do not give the female the male's black mask or white wing patch."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

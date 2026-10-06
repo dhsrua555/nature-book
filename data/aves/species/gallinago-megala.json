@@ -49,13 +49,22 @@
     }
   ],
   "art": {
-    "subject": "Swinhoe's Snipe (Gallinago megala), adult: 20 tail feathers, the outer 5–7 pin-like but not very narrow and with two bars near the tip, the central 5–6 broad with a wide rufous-brown band at the tip",
+    "subject": "Swinhoe's Snipe (Gallinago megala), adult (sexes alike, same plumage in spring and autumn), as seen at Korean paddy and marsh edges in April-May and August-October: crown blackish-brown with a buff central stripe; broad buff supercilium which, in front of the eye, is wider than the dark eye-stripe; dark cheek bar; upperparts blackish-brown with buff and rufous bars and pale buff mantle lines, the scapulars with narrower, more even buff fringes so the back looks less boldly striped than a Common Snipe's; neck and breast buffy-brown mottled and barred dark; flanks densely barred dark brown; belly white; bill long and straight, greyish-brown at the base with a dark tip; dark eye; legs dull olive-yellow to greenish-yellow.",
     "pose": "standing in reeds at the edge of a marsh, side view",
     "scene": "Korean rice fields beside a reedy lake marsh in April or October; no people, buildings or text",
     "views": [
-      "tail detail, spread: 20 feathers, outer 5–7 pin-like with two bars near the tip, broad central feathers with a wide rufous-brown tip band",
-      "adult, side view standing in grass with the tail slightly fanned to show the rufous-brown tip band"
-    ]
+      "tail detail from above, fully spread: about 20 feathers; broad central feathers black at the base with a wide rufous-brown band near the tip; the outer five to seven pairs progressively narrower towards the outside but not needle-thin, whitish-buff crossed by dark bars near the tip",
+      "adult, side view standing in grass with the tail slightly fanned: heavy body, long straight bill, buff supercilium wider than the eye-stripe in front of the eye, blackish-brown upperparts edged buff, barred flanks, white belly, rufous-brown band near the tail tip, greenish-yellow legs"
+    ],
+    "build": "Heavy-bodied snipe, a little larger and bulkier than Common Snipe and smaller than a feral pigeon, with a larger, squarer head, thicker neck and stout legs; crouching, horizontal stance. Bill straight and long (about twice the head length), thick at the base. Legs fairly short, dull greenish-yellow, thicker than in Common Snipe. Tail of about 20 feathers: the central ones broad, black at the base with a wide rufous-brown band near the tip; the outer five to seven pairs become narrower towards the outside but stay vane-like, not pin-thin, and are pale with dark bars. In flight no white trailing edge to the wing and a dark, densely barred underwing.",
+    "avoid": [
+      "Do not paint the outer tail feathers as needle-thin pins - that is Pin-tailed Snipe (Gallinago stenura); here they are narrow but still vane-like.",
+      "Do not paint a bold white trailing edge to the wing or white bars on the underwing - those are Common Snipe features.",
+      "Do not curve the bill or shorten it below about twice the head length.",
+      "Do not paint long or bright yellow-orange legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

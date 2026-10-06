@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Gull-billed Tern (Gelochelidon nilotica), adult in breeding plumage: black crown and nape, mostly white body becoming pale grey on the upperparts, large thick black bill, deeply notched tail, black legs and toes",
-    "pose": "standing on sand near its nest, side view",
-    "scene": "sandy, gravelly beach with patches of coastal grass in summer; no people, buildings or text",
+    "subject": "Gull-billed Tern (Gelochelidon nilotica), adult in breeding plumage, as seen on Korean coasts on spring passage (April–May): neat black cap from the bill base to the nape, without a crest; face, neck and underparts white; mantle, upperwings, rump and tail pale grey; outer primaries slightly darker grey at the tips; bill short, deep and stout, entirely black; dark eye; legs black, fairly long for a tern.",
+    "pose": "standing at the edge of a mudflat, side view",
+    "scene": "Korean west-coast tidal flat and saltmarsh edge in May, low tide; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black crown and nape, white underparts, pale grey upperparts, thick black bill, black legs",
-      "adult winter, side view standing: grey crown, head, back, wings and tail, thick black bill, black legs"
-    ]
+      "adult breeding, side view standing on mud: black cap and nape, white face and underparts, pale grey upperparts, short thick all-black bill, long black legs",
+      "adult winter, side view standing: white head with a black patch through and behind the eye and faint grey streaks on the rear crown, pale grey back, same thick black bill and black legs",
+      "adult breeding, in flight seen from below, head, body and tail in line: white body, pale wings with dark tips to the outer primaries, short pale tail with a shallow notch"
+    ],
+    "build": "Medium-sized, rather heavy-bodied tern, 36cm, a little larger and bulkier than Common Tern, with a broad-winged, gull-like look. Head rounded with no crest. Bill black, about head length or slightly shorter, thick and deep with a blunt, gull-like tip. Legs black and relatively long. At rest the wingtips extend well beyond the tail tip. Tail pale grey, short, with a shallow fork. In flight long, broad wings with dark tips to the outer primaries below; hawks for insects over marsh and fields and picks crabs from mud rather than plunge-diving.",
+    "avoid": [
+      "Do not paint a slender red or orange bill; this bill is short, thick and black.",
+      "Do not give it long tail streamers or a deeply forked tail; the tail is short with a shallow notch.",
+      "Do not add a crest or a yellow bill tip (Sandwich Tern).",
+      "Do not paint the winter head grey; winter adults have a white head with a black eye patch."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

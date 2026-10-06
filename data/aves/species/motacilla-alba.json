@@ -53,13 +53,23 @@
     }
   ],
   "art": {
-    "subject": "White Wagtail (Motacilla alba), adult male in winter plumage: white forehead, sides of head and neck, chin and foreneck, black from the crown to the uppertail coverts, black lower foreneck and breast with white feather fringes, brownish-black flight feathers, slender bill",
+    "subject": "White Wagtail (Motacilla alba), adult male of the breeding subspecies leucopsis (Amur Wagtail) in breeding plumage, as seen at Korean riversides from March: forehead, face, ear-coverts, sides of the neck, chin and throat white, with no dark eye-stripe; crown, nape, mantle, back and rump black; a neat black breast patch below the white throat; belly and undertail coverts white; wing coverts largely white, forming a big white panel on the closed wing; flight feathers brownish-black edged white; tail black with white outer feathers. Thin black bill; dark eye; black legs.",
     "pose": "walking on riverside gravel, side view",
     "scene": "Korean riverside in early spring with farmland and low hills beyond; no people, buildings or text",
     "views": [
-      "adult male in winter, side view walking: white face and throat, black crown and upperparts, black breast with white fringes, brownish-black flight feathers",
-      "adult male, front view: white forehead and face, black breast with white feather fringes"
-    ]
+      "adult male, breeding plumage (March–July), side view walking: white forehead and face with no eye-stripe, black from crown to rump, black breast patch below the white throat, large white wing panel, brownish-black flight feathers, long black tail with white edges, thin bill, black legs",
+      "adult male in fresh autumn plumage (September–October), front view standing: white forehead, face and throat, black breast with white feather fringes, black crown, thin black bill"
+    ],
+    "build": "Slender, long-tailed wagtail, about 21cm including the long tail, longer and much slimmer than a sparrow; walks briskly (does not hop) and pumps its tail up and down constantly. Rounded head, short neck, horizontal stance. Bill thin, straight, black, shorter than the head and noticeably fine. Legs fairly long and slender, black. Long tertials cover most of the closed primaries, and the tail extends far beyond the wingtips. Tail long, narrow and square-ended, black with white outer feathers. Flight deeply undulating.",
+    "avoid": [
+      "Do not paint a black line through the eye; that belongs to other subspecies such as lugens and ocularis. The leucopsis male has a clean white face.",
+      "Do not paint a grey back on the adult male; it is black from crown to rump.",
+      "Do not paint a black chin or throat; the black starts below a white throat.",
+      "Do not paint any yellow on the underparts (Grey or Eastern Yellow Wagtail).",
+      "Do not shorten the tail or show the bird hopping."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

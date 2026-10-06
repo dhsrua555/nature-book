@@ -33,13 +33,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pallas's Grasshopper Warbler (Locustella certhiola), adult: yellowish-brown upperparts with many black streaks, greyish-white underparts",
+    "subject": "Pallas's Grasshopper Warbler (Locustella certhiola), adult on passage (sexes alike): crown and mantle yellowish- to rufous-brown, heavily streaked black; a long, fairly prominent greyish-white supercilium and a dark brown eye-stripe; rump and uppertail coverts warmer rufous-brown with fewer streaks; wings brown, the tertials blackish-centred with whitish tips; tail dark brown becoming blackish towards the end, all but the central feathers tipped greyish-white; underparts greyish-white, washed buff-brown on the breast sides, flanks and long undertail coverts; bill dark with a pale base to the lower mandible; dark eye; pinkish legs.",
     "pose": "skulking low in tall grass, side view",
     "scene": "Korean riverside grassland with tall grass and scattered shrubs during migration; no people, buildings or text",
     "views": [
-      "adult, side view perched low: heavily black-streaked yellowish-brown upperparts, greyish-white underparts",
-      "adult, view from above: black-streaked yellowish-brown back"
-    ]
+      "adult, side view perched low on a grass stem: heavily black-streaked yellowish-brown upperparts, long greyish-white supercilium, dark eye-stripe, greyish-white underparts with buff flanks, dark tail with whitish tips, pink legs",
+      "adult, seen from above on the ground: black-streaked yellowish-brown crown and back, warmer rufous-brown rump, white-tipped tertials, blackish tail with greyish-white feather tips"
+    ],
+    "build": "Small but robust grasshopper warbler, about 13cm — about sparrow length but slimmer, larger and heavier than Lanceolated Warbler. Flat crown and a slender, pointed bill shorter than the head. Legs pinkish and strong. Wings short; at rest the wingtips reach only a short way past the base of the tail. Tail broad, rounded and fairly long, with long undertail coverts. Skulks low in tall grass and shrubs, creeping and running; when flushed it drops quickly back into cover, showing the rufous rump and dark, white-tipped tail.",
+    "avoid": [
+      "Do not paint the tail plain brown; it darkens towards the end and the outer feathers have greyish-white tips.",
+      "Do not streak the breast heavily; that is Lanceolated Warbler (Locustella lanceolata).",
+      "Do not paint a plain, unstreaked back like a reed warbler or Styan's Grasshopper Warbler."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

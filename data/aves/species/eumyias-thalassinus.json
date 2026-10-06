@@ -36,13 +36,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Verditer Flycatcher (Eumyias thalassinus), adult male: blue all over, underparts distinctly paler than upperparts, bold, very broad black markings on the undertail coverts",
+    "subject": "Verditer Flycatcher (Eumyias thalassinus), adult male: entire plumage bright verditer blue, a turquoise blue-green, brightest on the forehead, crown and breast; black lores forming a small black mask in front of the eye; wings and tail blackish with broad blue-green edges; underparts clearly paler and greyer turquoise than the upperparts; undertail coverts dark grey-blue with broad white fringes that create a bold scaly pattern. Bill black; dark eye; legs black.",
     "pose": "perched on an open branch between trees, ready to dart after flying insects",
     "scene": "forest on a Korean offshore island; no people, buildings or text",
     "views": [
-      "adult male, side view perched: blue all over with paler underparts",
-      "adult male, view from below: broad black markings on the undertail coverts"
-    ]
+      "adult male, side view perched on an open branch: verditer blue all over, black lores, blackish wings and tail edged blue-green, underparts clearly paler and greyer than the upperparts",
+      "adult male, view from below while perched: pale blue-grey belly, undertail coverts dark grey-blue with broad white fringes forming a bold scaly pattern"
+    ],
+    "build": "Medium-sized flycatcher, about 17 cm, larger than a sparrow, with a rather flat crown and an upright, alert posture on exposed perches. Bill black, broad and flat at the base, shorter than the head. Legs short, black. Wings fairly long; tail medium length, square-ended. Sallies after flying insects from open perches high in the trees.",
+    "avoid": [
+      "Do not paint deep ultramarine blue or a white belly; that is Blue-and-white Flycatcher (Cyanoptila cyanomelana).",
+      "Do not leave out the black lores.",
+      "Do not paint a rufous or orange breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

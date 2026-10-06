@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rhinoceros Auklet (Cerorhinca monocerata), adult: blackish-brown upperparts, two white plume lines on the side of the face, brownish dark grey chin, throat, upper breast and axillaries, white belly lightly marked dark grey",
+    "subject": "Rhinoceros Auklet (Cerorhinca monocerata), adult in non-breeding plumage as seen off the Korean east coast in winter: head, back, wings and tail dark sooty grey-brown; face and neck sides slightly paler grey-brown, the white facial plumes absent or only faintly indicated; throat, breast and flanks dusky grey-brown, blending into the white belly; no horn on the bill. Bill thick and deep, dull yellowish-orange to brownish-yellow; pale yellow iris.",
     "pose": "swimming on the sea, about to dive",
-    "scene": "sea around an offshore island off the Korean east coast; no people, buildings or text",
+    "scene": "sea around an offshore island off the Korean east coast in winter, cold blue-grey water with a low swell; no people, buildings or text",
     "views": [
-      "adult, side view swimming: blackish-brown back, two white facial plume lines, brownish dark grey throat and upper breast",
-      "adult non-breeding, side view swimming: plain white breast and belly"
-    ]
+      "adult breeding plumage (spring), side view swimming: orange-yellow bill with an upright pale horn at the base, one white plume line from behind the eye and another from the gape, blackish-brown back, brownish dark grey throat and upper breast, white belly",
+      "adult non-breeding plumage (winter), side view swimming: no horn, duller yellowish bill, facial plumes absent or faint, dark grey-brown head, throat and breast, white belly"
+    ],
+    "build": "Medium-sized, thickset auk, about the size of a feral pigeon but much bulkier, with a large head, thick neck and a heavy, deep, laterally compressed bill shorter than the head. Swims low on the sea and dives often and for long periods. Wings short and narrow; fast, direct, whirring flight low over the water, the bird looking uniformly dark with a white belly. In the breeding season an upright pale horn grows from the base of the upper mandible and two white plume lines adorn each side of the face.",
+    "avoid": [
+      "Do not paint a massive triangular puffin bill or a white face (Tufted and Horned Puffins).",
+      "Do not paint the throat and breast white; they are dusky grey-brown in all plumages and only the belly is white.",
+      "Do not paint the horn or bright white plumes on winter birds.",
+      "Do not paint crisp black-and-white plumage like a guillemot or murrelet; the upperparts are sooty grey-brown."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Citrine Wagtail (Motacilla citreola), adult male: entire head bright yellow, black from the neck to the shoulders, grey back and rump, two bold white wing bars, bright yellow underparts",
+    "subject": "Citrine Wagtail (Motacilla citreola), adult male in breeding plumage, as seen on passage in Korea in April and May: whole head and neck bright lemon-yellow; a broad black half-collar across the hindneck reaching down to the shoulders at the sides of the breast; mantle, back and rump plain mid-grey; wings blackish with two broad white wing-bars and white-edged tertials; throat, breast and belly bright yellow, fading to white on the vent and undertail coverts; tail black with white outer feathers; bill black; dark eye; legs black.",
     "pose": "walking on grassy ground, picking up insects",
-    "scene": "grassy margins beside fish ponds in Korea; no people, buildings or text",
+    "scene": "grassy margins and wet mud beside fish ponds in Korea during spring migration in late April; no people, buildings or text",
     "views": [
-      "adult male, side view walking: bright yellow head and underparts, black neck-to-shoulder band, grey back, two white wing bars",
-      "non-breeding male, side view: yellow only on forehead and supercilium, grey-brown rear crown and cheeks, black band mostly gone"
-    ]
+      "adult male breeding, side view walking: bright yellow head and underparts, black half-collar from the hindneck to the shoulders, grey back and rump, two broad white wing-bars, white undertail coverts, black legs",
+      "adult male non-breeding, side view walking: grey crown and ear coverts, yellow forehead and broad yellow supercilium curving round the rear of the ear coverts, underparts much paler with only a pale yellow wash on the throat and breast, black collar mostly gone, grey back, two white wing-bars"
+    ],
+    "build": "Slender wagtail, 16.5cm, longer than a sparrow mostly because of the long tail; walks briskly on the ground with a horizontal body and wags the tail up and down. Bill thin, straight, black, shorter than the head. Legs fairly long, slim, black. At rest the long tertials almost cover the primaries and the wingtips reach the base of the tail. Tail long, about as long as the body, narrow, black with white edges. Flight undulating, showing the white wing-bars and white tail sides.",
+    "avoid": [
+      "Do not paint an olive-green back or a dark crown with a yellow throat; that is Eastern Yellow Wagtail (Motacilla tschutschensis). This species has a grey back and, in breeding males, a yellow head.",
+      "Do not paint a black back; the black is only a half-collar on the hindneck, the mantle is grey.",
+      "Do not paint yellow undertail coverts; the vent is white.",
+      "Do not paint pale or pinkish legs; they are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

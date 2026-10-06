@@ -41,13 +41,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Redstart (Phoenicurus ochruros), adult male: black head, neck, back and breast, grey forehead and area around the eye, rufous-brown belly, rump and tail coverts",
+    "subject": "Black Redstart (Phoenicurus ochruros), adult male of the eastern race rufiventris, as seen in Korea in early spring: crown and nape dark ash-grey; forehead, face, throat, breast and mantle black (with faint grey fringes in fresh plumage); wings blackish-brown with no white patch; lower breast, belly, flanks and undertail coverts deep orange-rufous; rump, uppertail coverts and outer tail feathers bright orange-rufous, central tail feathers dark brown. Bill thin and black; dark eye; legs black.",
     "pose": "perched, side view",
-    "scene": "TODO",
+    "scene": "rocky open ground with low stone walls and bare shrubs on a Korean island in early spring; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black head, neck, back and breast, grey forehead and eye area, rufous-brown belly, rump and tail coverts",
-      "adult female, side view perched: mostly brown, grey neck and lower belly"
-    ]
+      "adult male, side view perched: dark ash-grey crown and nape, black forehead, face, throat, breast and mantle, no white wing patch, orange-rufous belly, rump, tail coverts and outer tail feathers",
+      "adult female, side view perched: dull grey-brown head and body, faint pale eye-ring, orange-buff wash on the lower belly and undertail coverts, rufous rump and tail sides, plain wings without a white patch"
+    ],
+    "build": "Small, slim chat, about the size of a Daurian Redstart or a sparrow. Upright stance on rocks, walls and low perches, constantly shivering the tail and bobbing. Round head; bill short, thin, straight and black. Legs fairly long and slender, black. Wings plain, without a white patch. Tail medium-long, square-ended, rufous at the sides with a dark centre, quivered almost continuously.",
+    "avoid": [
+      "Do not add a white wing patch or a silvery-white crown; those mark the common Daurian Redstart (Phoenicurus auroreus).",
+      "Do not paint the male's breast orange; the black reaches down to the lower breast.",
+      "Do not give it a white forehead (Common Redstart, Phoenicurus phoenicurus)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

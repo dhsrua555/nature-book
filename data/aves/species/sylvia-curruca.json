@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lesser Whitethroat (Sylvia curruca), adult: grey head, pure white throat, brown back, white belly, brown tail with white outer tail feathers",
+    "subject": "Lesser Whitethroat (Sylvia curruca), adult (sexes alike), a wintering bird as recorded in Korea: crown and nape grey; lores and ear-coverts darker blackish-grey, forming a dark mask that contrasts with the paler grey crown; chin and throat pure white; back, scapulars and wings greyish-brown, without a rufous wing panel; breast and belly white with a faint buff wash on the breast sides and flanks; tail dark greyish-brown with white outer feathers; short, fine dark grey bill; dark grey legs.",
     "pose": "perched in a bush, side view",
     "scene": "Korean winter thicket and scrub at the edge of farmland; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey head, white throat, brown back, white belly",
-      "adult, rear view in flight: brown tail with white outer tail feathers"
-    ]
+      "adult, side view perched on a twig: grey crown with a darker grey mask through the eye, pure white throat, greyish-brown back and wings with no rufous panel, white belly, short dark bill, dark grey legs",
+      "adult, flight view seen squarely from above, head, body and tail in a line: greyish-brown back and wings, dark greyish-brown tail with white outer feathers"
+    ],
+    "build": "A small, neat warbler, 13cm, about sparrow length but slimmer, with a rounded head and a medium-length tail. Bill short, fine and pointed, clearly shorter than the head, dark grey. Legs medium, dark grey to blackish. Wings plain, with no wing-bars. Tail medium, square to slightly rounded, dark with white outer feathers that show when it flies or flicks the tail. Moves actively but keeps hidden in dense bushes.",
+    "avoid": [
+      "Do not paint a rufous wing panel or pale legs; that is Common Whitethroat.",
+      "Do not paint a black cap ending at eye level (Blackcap); the crown is grey and the dark area is on the ear-coverts.",
+      "Do not paint the throat buff or streaked; it is pure white.",
+      "Do not paint a long or thick bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -46,13 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Asian House Martin (Delichon dasypus), adult male: blue-glossed black forehead, crown, hindneck, back and scapulars, white feather bases on the hindneck, blackish-brown lores, cheeks and ear-coverts, chin mixed dark brown and dull white, white underparts, notched black tail with a bluish tinge",
-    "pose": "clinging to a rock face beside a bowl-shaped mud nest",
+    "subject": "Asian House Martin (Delichon dasypus), adult (sexes similar), as seen in Korea in summer: crown, nape, mantle and scapulars glossy blue-black; lores, cheeks and ear coverts blackish-brown, the dark extending to below the eye; chin mixed dusky and dull white; rump white but a relatively small patch; wings blackish; underparts dingy greyish-white; tail black with a bluish tinge, short and shallowly notched. Bill tiny and black; dark eye; legs and toes covered in white feathers.",
+    "pose": "clinging to a closed mud-pellet nest under a rock overhang, the nest with a small entrance hole near the top",
     "scene": "Korean mountain cliff beside a waterfall in summer; no people, buildings or text",
     "views": [
-      "adult male, side view perched: glossy blue-black upperparts, blackish-brown face, white underparts, notched black tail",
-      "adult female, side view perched: duller gloss on the back and less pure white underparts"
-    ]
+      "adult, side view perched: glossy blue-black crown and back with white feather bases sometimes showing on the hindneck, blackish-brown lores, cheeks and ear coverts, chin mixed dusky and dull white, greyish-white underparts, notched blue-black tail, white feathered feet",
+      "adult in flight, seen from above: blue-black upperparts and wings, small white rump patch, short shallowly notched black tail"
+    ],
+    "build": "Small, compact martin, about 14.5cm, stockier and much shorter-tailed than a Barn Swallow, with a short neck and broad-based triangular wings. Bill tiny, black, with a wide gape. Legs very short; legs and toes covered with white feathers. Tail short, black, only shallowly notched, without streamers. In flight the white rump patch contrasts with the blue-black back and black tail; underwing coverts dark. Fluttering flight with glides, often in flocks.",
+    "avoid": [
+      "Do not paint long tail streamers or a deep fork (Barn Swallow); the tail is short and only shallowly notched.",
+      "Do not paint a red throat or forehead (Barn Swallow, Red-rumped Swallow).",
+      "Do not paint snow-white underparts, a large white rump and a deeply forked tail; that is Siberian House Martin (Delichon lagopodum).",
+      "Do not paint bare dark toes; the legs and toes are feathered white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

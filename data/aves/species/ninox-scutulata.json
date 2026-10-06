@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Brown Boobook (Ninox scutulata), adult of the population breeding in Korea (often treated as Northern Boobook, Ninox japonica), as seen from May to September: head, nape, back and wings plain dark chocolate-brown; no ear tufts and no facial disc, the face dark brown with a small whitish patch between the eyes above the bill; underparts white, heavily marked with broad dark rufous-brown streaks and blotches from the breast to the belly; undertail coverts white; tail long, grey-brown with broad dark bars. Bill dark grey; large round bright yellow eyes; toes bare and yellow.",
     "pose": "perched on a branch by day, resting",
     "scene": "Korean summer woodland edge and city park with tall trees; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Medium-sized, hawk-like owl, about the size of a feral pigeon but with a longer tail; round, smooth head without ear tufts and a slim body. Bill short and hooked. Wings long and pointed, tail long and banded, giving a hawk-like outline. Toes yellow and bare. Hunts at dusk, hawking flying insects around canopy edges and streetlights with fast, agile flight; by day it sits still on a shaded branch.",
+    "avoid": [
+      "Do not paint ear tufts or a pale facial disc; the head is round, smooth and dark brown.",
+      "Do not paint orange or dark eyes; the eyes are large and bright yellow.",
+      "Do not paint a barred breast; the white underparts carry broad brown streaks and blotches.",
+      "Do not make the tail short; the long banded tail gives it a hawk-like outline."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -38,13 +38,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Paradise Flycatcher (Terpsiphone atrocaudata), adult: short crest, blue bill and eye-ring, white belly",
+    "subject": "Black Paradise Flycatcher (Terpsiphone atrocaudata), adult male in breeding plumage (May–August): head, short bushy crest and throat glossy blue-black with a purple sheen; a broad bare cobalt-blue eye-ring; back, scapulars and wing coverts dark purplish-maroon; flight feathers blackish; black tail with the two central feathers extended into very long, narrow black streamers; the black throat shades through dark slate-grey on the breast into a clean white belly and white undertail coverts; broad, flat, bright cobalt-blue bill; dark eye; short dark legs.",
     "pose": "perched on a branch of a large tree near a cup-shaped nest",
     "scene": "Korean broadleaf forest with large trees in summer, such as on Jeju; no people, buildings or text",
     "views": [
-      "adult, side view perched: short crest, blue bill and eye-ring, white belly",
-      "adult, head detail: blue bill and eye-ring, short crest"
-    ]
+      "adult male, side view perched on a thin branch: glossy purple-black head with short crest, broad cobalt-blue eye-ring and bill, dark purplish-maroon back and wings, slate-grey breast fading to white belly, long black tail streamers hanging well below the perch",
+      "adult male, head in profile: short bushy crest on the rear crown, wide bare cobalt-blue eye-ring around a dark eye, broad flat cobalt-blue bill, glossy blue-black throat",
+      "adult female, side view perched: duller sooty-black head with short crest, narrower blue eye-ring, blue bill, chestnut-brown back, wings and medium-length tail without streamers, grey breast, white belly"
+    ],
+    "build": "Slim, long-tailed forest flycatcher. The body is a little larger than a sparrow's, but the adult male's central tail streamers are longer than its head and body together; females and young males have a medium-length tail without streamers. Head looks large and angular, with a short tuft of crest at the rear of the crown. Bill broad and flat at the base, shorter than the head, cobalt blue. Legs very short and slender. Wings short and rounded. Perches upright on thin branches in the mid-canopy of tall broadleaf trees and sallies after flying insects, the streamers trailing and rippling behind.",
+    "avoid": [
+      "Do not paint a bright rufous-orange back and tail or an all-white male — those are Amur Paradise Flycatcher (Terpsiphone incei); this male is dark maroon with a black tail.",
+      "Do not give it a long, pointed or swept-back crest; the crest is a short bushy tuft.",
+      "Do not paint a yellow, black or orange bill; bill and eye-ring are bright cobalt blue.",
+      "Do not show tail streamers on the female."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

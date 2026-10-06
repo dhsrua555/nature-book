@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Great Bustard (Otis tarda), adult: yellowish-brown overall with a rufous band across the breast, long neck and legs, plump and heavy body",
+    "subject": "Great Bustard (Otis tarda), adult male of the eastern population (Otis tarda dybowskii) in winter, as on Korean farmland from November to February: head and upper neck grey; a rufous-chestnut band across the lower neck and upper breast; upperparts golden-buff to cinnamon, densely barred black; white wing coverts showing along the lower edge of the folded wing; underparts white. Bill short, stout, greyish horn; iris dark; legs grey-brown.",
     "pose": "walking slowly across an open field",
     "scene": "Korean winter farmland and rolling grassy plain; no people, buildings or text",
     "views": [
-      "adult, side view standing: yellowish-brown body, rufous breast band, long neck and legs",
-      "adult, front view: rufous band across the breast"
-    ]
+      "adult male winter, side view standing: grey head and neck, rufous-chestnut band across the lower neck and breast, golden-buff back densely barred black, white along the folded wing and on the belly, heavy plump body on long sturdy legs",
+      "adult male, front view standing: broad rufous-chestnut band across the breast below the thick grey neck, white belly, short stout bill",
+      "adult male, flight seen from above: long broad wings with a large white panel, black primaries and a dark trailing edge, contrasting with the barred golden-buff back"
+    ],
+    "build": "Very large, heavy ground bird; the male is larger than a goose and far heavier, the female much smaller and slimmer. Thick neck held upright, broad deep chest and heavy body carried horizontally. Head rounded. Bill short and stout, shorter than the head, chicken-like. Legs long and thick, with three short forward toes and no hind toe. Wings folded on the back at rest; in flight long, broad wings with a large white panel, black primaries and a dark trailing edge, beaten in slow, powerful strokes. Tail short.",
+    "avoid": [
+      "Do not give this winter bird the long white whisker plumes or the puffed-out display neck of spring males.",
+      "Do not paint a slender, crane-like bird; it is heavy and broad-chested, with the body held horizontal.",
+      "Do not paint a long bill; the bill is short and chicken-like.",
+      "Do not paint a hind toe; bustards have only three forward toes."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

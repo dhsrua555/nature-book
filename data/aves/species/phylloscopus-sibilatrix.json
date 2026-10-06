@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Wood Warbler (Phylloscopus sibilatrix), adult in spring: bright moss-green upperparts from crown to tail; a long, bright lemon-yellow supercilium and a dark green eye-stripe; cheeks, chin, throat and upper breast bright lemon-yellow, cut off sharply from the pure white lower breast, belly and undertail coverts; wing and tail feathers dark with bright yellow-green edges, the tertials blackish with neat pale yellowish-green fringes; bill brownish with a pale pinkish-yellow base to the lower mandible; dark eye; pale yellowish-brown legs.",
+    "pose": "perched on a branch in the lower canopy, side view, wings slightly drooped",
+    "scene": "deciduous broadleaf woodland on a Korean offshore island in May, fresh green leaves and dappled sunlight; no people, buildings or text",
+    "views": [],
+    "build": "A fairly large leaf warbler, smaller than a sparrow but noticeably larger and longer-winged than a Yellow-browed Warbler; slim and elongated, with a short tail. Bill fine and straight, shorter than the head. Legs slender, pale yellowish-brown. Very long wings: at rest the primary projection is about as long as the tertials, and the wingtips reach well down the short tail. Tail short, plain, slightly notched. Often droops and quivers its wings while singing.",
+    "avoid": [
+      "Do not paint yellow on the belly; the yellow stops on the upper breast and the belly is pure white.",
+      "Do not add wing-bars (Arctic Warbler, Two-barred Warbler).",
+      "Do not paint dull brownish-grey upperparts; they are bright moss-green.",
+      "Do not give it a long tail; the wings are long and the tail short."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -41,13 +41,22 @@
   "young": "어린새는 암컷처럼 수컷보다 훨씬 회색빛이 돌고, 머리와 허리, 아랫면이 엷은 황갈색을 띤다.",
   "similar": [],
   "art": {
-    "subject": "Pine Grosbeak (Pinicola enucleator), adult male: plump body, long tail, rosy-red plumage",
+    "subject": "Pine Grosbeak (Pinicola enucleator), adult male in winter, a vagrant in Korean conifer forest: head, breast, rump and much of the back rosy red, the mantle feathers with darker grey centres giving a mottled look; flanks and lower belly grey; wings blackish with two bold white wing bars and white edges to the tertials, so three white lines show on the folded wing; tail blackish, long and notched. Bill short, stubby and deep, blackish-grey, with a curved culmen and a small hooked tip; eye dark; legs blackish.",
     "pose": "perched quietly on a pine branch, nibbling buds",
     "scene": "Korean pine forest with dense conifer branches; no people, buildings or text",
     "views": [
-      "adult male, side view perched: plump body, long tail, rosy-red plumage",
-      "adult female, side view perched: much greyer than the male, pale buff head, rump and underparts"
-    ]
+      "adult male, side view perched: plump body and long notched tail, rosy-red head, breast, rump and mottled back, grey flanks and belly, blackish wings with two white wing bars and white-edged tertials forming three white lines, stubby hooked dark bill",
+      "adult female, side view perched: grey body with olive-yellow to ochre head and rump, grey underparts with a faint ochre wash on the breast, the same blackish wings with two white wing bars and white tertial edges, same stubby dark bill"
+    ],
+    "build": "A large, plump, long-tailed finch, much bigger than a sparrow and about starling-sized but bulkier and longer-tailed; round head, short thick neck, upright and slow-moving, often very tame. Bill short, stubby and deep with a strongly curved culmen ending in a small hook, shorter than the head. Legs short, blackish. Tail long for a finch and notched at the tip. In flight undulating, the white wing bars obvious.",
+    "avoid": [
+      "Do not paint a huge conical bill like a Hawfinch or crossed mandibles like a crossbill; the bill is short, stubby and slightly hooked.",
+      "Do not paint the male red all over including the belly; the flanks and belly are grey.",
+      "Do not make it a small, compact finch; it is large and long-tailed, unlike the much smaller rosefinches.",
+      "Do not paint thin or missing wing bars; the two white bars and white tertial edges are bold."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

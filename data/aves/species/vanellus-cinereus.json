@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-headed Lapwing (Vanellus cinereus), adult: grey head, neck and breast, yellow bill with a black tip, brown back and upper tail, a black line dividing the brown upperparts from the white underparts, white underparts, dull yellow legs",
+    "subject": "Grey-headed Lapwing (Vanellus cinereus), adult in breeding plumage, as seen in Korean rice fields in spring (March–April): head, neck and upper breast plain ash-grey; a broad blackish band across the lower breast; back, scapulars and wing coverts plain light brown; primaries black; belly, flanks and undertail white; rump white; tail white with a broad black subterminal band; bill yellow with a black tip; a small yellow wattle in front of the eye; iris red; legs long, yellow.",
     "pose": "standing in a rice field, scanning the ground",
-    "scene": "Korean rice paddies and grassy stream banks during migration; no people, buildings or text",
+    "scene": "Korean rice paddies and grassy stream banks in spring (March–April), stubble and shallow water in flat light; no people, buildings or text",
     "views": [
-      "adult, side view standing: grey head, neck and breast, brown back, black dividing line, white underparts, black-tipped yellow bill, dull yellow legs",
-      "adult, head detail: yellow bill with a black tip"
-    ]
+      "adult breeding, side view standing in a rice field: ash-grey head, neck and breast, blackish band separating the grey breast from the white belly, plain brown back and wings, black-tipped yellow bill, small yellow loral wattle, red eye, long dull yellow legs",
+      "adult, in flight seen from above, head, body and tail in line: brown back and coverts, broad white panel across the secondaries, black primaries, white rump and white tail with a black band near the tip",
+      "adult, head detail in profile: grey head without a crest, yellow bill with a black tip, small yellow wattle in front of the red eye"
+    ],
+    "build": "Large, long-legged lapwing, 36cm, a little longer than a feral pigeon and noticeably larger than Northern Lapwing; upright, with a rather long neck. Rounded head with no crest. Bill straight, plover-like, shorter than the head. Legs long, yellow, with much bare tibia; the feet project beyond the tail in flight. At rest the wingtips reach about the tail tip. In flight the broad, rounded wings show three blocks: brown inner coverts, an all-white panel across the secondaries and greater coverts, and black primaries; white rump and white tail with a black subterminal band.",
+    "avoid": [
+      "Do not add a crest or an iridescent green back; those belong to Northern Lapwing (Vanellus vanellus).",
+      "Do not paint the tail brown; it is white with a broad black band near the tip.",
+      "Do not paint a red bill or a large red facial wattle (Red-wattled Lapwing); the bill is yellow with a black tip and the wattle small and yellow.",
+      "Do not run the black line along the flanks; it is a band across the lower breast below the grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -46,14 +46,24 @@
     }
   ],
   "art": {
-    "subject": "Slaty-backed Gull (Larus schistisagus), adult: dark slate-grey mantle, black flight feathers with white tips to the outer primaries, grey-brown band across the wing",
+    "subject": "Slaty-backed Gull (Larus schistisagus), adult in winter as seen on Korean coasts from November to March: head and neck white, heavily streaked and smudged grey-brown, densest around the eye and on the hindneck; mantle and folded wings dark slate-grey; a broad white band of tertial and secondary tips (a white 'skirt') along the folded wing; primaries black with white tips; underparts and tail white. Bill heavy, yellow, with a red spot on the lower mandible; pale yellow iris with a pinkish-red orbital ring; legs deep bright pink.",
     "pose": "standing among a loose flock on the shore, side view",
     "scene": "Korean seashore in winter: rocky reef and sandy beach beside a grey open sea; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark slate-grey mantle, black wingtip with white spots on the outer primaries",
-      "adult, in flight from above: black flight feathers, white tips to the outer primaries, grey-brown wing band",
-      "juvenile, side view standing: pale brown upperparts with dark streaks, grey underparts, white chin, brown tail with a white tip and dark brown marbling at the base"
-    ]
+      "adult winter, side view standing: dark slate-grey back and wings, broad white skirt along the folded wing, black wingtips with white tips, grey-brown smudged and streaked head, heavy yellow bill with a red spot, bright pink legs",
+      "adult in flight seen from above: dark slate-grey wings with a very broad white trailing edge, black outer primaries crossed by a row of white spots and tipped white",
+      "adult in flight seen from below: white body and underwing coverts contrasting with a dark grey band formed by the undersides of the flight feathers",
+      "juvenile, side view standing: pale brown upperparts streaked and mottled darker, greyer underparts, whitish chin, plain brown primaries, brown tail with a pale tip and dark marbling at the base, all-dark bill, pink legs"
+    ],
+    "build": "Large, bulky gull, 61–66cm, about the size of a Vega Gull but more barrel-chested, with a heavy bill, thick neck and relatively short wings: at rest the black wingtips project only moderately beyond the tail. Legs fairly short, deep pink. In flight broad wings, dark slate above, with a very broad white trailing edge and a row of white spots between the slate inner part and the black tips of the outer primaries; from below, white underwing coverts contrast with dark grey flight feathers.",
+    "avoid": [
+      "Do not paint yellow legs; the legs are deep pink (dark-backed gulls with yellow legs are Lesser Black-backed types).",
+      "Do not paint a pale silver-grey back like a Vega Gull's, or a black tail band like a Black-tailed Gull's.",
+      "Do not omit the broad white trailing edge and the row of white spots across the outer primaries in flight.",
+      "Do not paint a dark eye on the adult; its iris is pale yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -72,14 +72,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Great Egret of the eastern subspecies modesta in breeding plumage: entirely white plumage; long, straight, lacy aigrette plumes on the back reaching beyond the tail; long black bill; bare lores bright blue-green; dark gape line running from the bill corner to behind the eye; yellow eye; long, thin neck with a distinct kink; long black legs and black feet.",
+    "subject": "Great Egret (Ardea alba), adult of the eastern subspecies modesta in breeding plumage, as seen on Korean rice paddies from May to July: plumage entirely white; long, straight, lacy aigrette plumes on the back extending beyond the tail; no plumes on the head. Long, straight black bill; bare lores bright blue-green; a dark gape line running from the corner of the bill to behind the eye; yellow eye; long black legs and black feet.",
     "pose": "Wading slowly in shallow water with the neck in a kinked S-curve and the bill angled down toward the water, side view.",
     "scene": "Flooded rice paddies beside a slow stream in Korea in early summer (June): bright green rows of rice, a grassy earthen levee, willows along the stream, and a low hill with pine and bamboo groves in the distance. No people, buildings or text.",
     "views": [
-      "adult, breeding plumage, standing, side view (black bill, blue-green lores, back plumes)",
-      "adult, non-breeding plumage, standing, side view (yellow bill, no plumes)",
-      "adult in flight, side view, neck retracted and legs trailing"
-    ]
+      "adult, breeding plumage (May–July), standing, side view: all-white, black bill, blue-green lores, gape line reaching behind the eye, lacy back plumes beyond the tail, long kinked neck, black legs and feet",
+      "adult, non-breeding plumage (August–April), standing, side view: all-white without plumes, yellow bill, yellowish lores, gape line behind the eye, black legs and feet",
+      "adult in flight seen from below: all-white broad wings, neck retracted in an S-curve, long black legs and feet trailing well beyond the tail, head, body and legs in a straight line"
+    ],
+    "build": "Very large, slender white egret, about 90cm, almost the size of a Grey Heron but slimmer, with a very long, thin neck that shows a distinct kink in the middle. Bill long, straight and dagger-shaped, clearly longer than the head. Legs very long, black, with black feet and a long bare tibia. At rest the folded wings cover the short tail. Walks slowly in shallow water. In flight the neck is drawn into an S-curve and the legs trail well beyond the tail; slow, deep wingbeats.",
+    "avoid": [
+      "Do not paint yellow feet or head plumes — that is Little Egret (Egretta garzetta).",
+      "Do not end the gape line below the eye or shorten the bill — that is Intermediate Egret (Ardea intermedia).",
+      "Do not paint a yellow bill on the breeding bird; in breeding plumage the bill is black.",
+      "Do not paint grey or cream tones in the plumage."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

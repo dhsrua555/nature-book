@@ -41,14 +41,23 @@
   "young": "어린새는 등이 회갈색이고 아랫면이 회색이다.",
   "similar": [],
   "art": {
-    "subject": "Snow Goose (Anser caerulescens), adult: all-white plumage, black primaries, pink bill and legs",
+    "subject": "Snow Goose (Anser caerulescens), adult white morph in winter: entire head, neck, body, tail and wing coverts pure white, the face sometimes stained rusty-orange from feeding in mud; primaries black, showing as a black wingtip below the white tertials at rest; primary coverts grey; bill pink with a whitish nail and a black 'grinning patch' along the cutting edges of both mandibles; dark eye; legs and feet deep pink.",
     "pose": "grazing in a rice paddy, side view",
     "scene": "flat Korean reclaimed farmland in winter: rice paddies near an estuary; no people, buildings or text",
     "views": [
-      "adult, side view standing: all-white plumage, black primaries, pink bill and legs",
-      "adult, in flight: white wings with black primaries",
-      "juvenile, side view standing: grey-brown back, grey underparts"
-    ]
+      "adult white morph, side view standing in a paddy: all-white plumage, black primary tips showing at the rear, pink bill with a black grinning patch, pink legs",
+      "adult white morph, in flight seen from below: white body and wings with only the primaries black, short neck stretched forward, pink bill and feet",
+      "juvenile white morph, side view standing: dusky grey-brown crown, hindneck, back and wing coverts, whitish-grey face and underparts with a grey wash, dark grey bill and legs"
+    ],
+    "build": "Medium-sized goose, 67cm, much bigger than a Mallard but clearly smaller than a Bean Goose, with a rather short, thick neck and a rounded head. Bill stout, shorter than the head, deep at the base, with the black cutting edges visible as a dark oval 'grin'. Legs medium length, pink. At rest the wingtips reach about the tail tip. Tail short, white. In flight white with sharply black primaries forming black outer wingtips, and grey primary coverts.",
+    "avoid": [
+      "Do not paint black secondaries or a black trailing edge along the whole wing; only the primaries are black.",
+      "Do not paint a long neck, long legs or a red bare face; that is Siberian Crane (Leucogeranus leucogeranus). This is a short-necked goose.",
+      "Do not paint a black or yellow bill as on swans; the bill is pink.",
+      "Do not paint grey or brown on the adult's back; that is juvenile plumage."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

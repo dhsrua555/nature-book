@@ -41,13 +41,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Curlew Sandpiper (Calidris ferruginea), adult male breeding: rufous forehead, crown and hindneck, chestnut face and throat, white chin, black mantle and scapulars fringed chestnut, chestnut neck, breast and belly with white feather fringes",
+    "subject": "Curlew Sandpiper (Calidris ferruginea), adult male in breeding plumage, as seen on Korean coastal mudflats in late April and May: face, neck and entire underparts deep brick-red to chestnut, with narrow whitish fringes on the belly in fresh plumage; crown rufous streaked black; a small whitish area around the bill base and a white chin; mantle and scapulars black with chestnut and pale grey-white fringes; undertail coverts white. Bill black, long and smoothly decurved; dark eye; black legs.",
     "pose": "feeding in a small flock on wet mud, side view",
     "scene": "Korean coastal mudflat during spring migration, wet mud along the shore; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: rufous crown, chestnut face and underparts with white fringes, black back fringed chestnut",
-      "adult male breeding, head detail: chestnut face and throat, white chin"
-    ]
+      "adult male breeding (late April–May), side view standing: brick-red to chestnut face, neck and underparts with fine white fringes, rufous black-streaked crown, black scapulars fringed chestnut, white chin, long evenly decurved black bill, black legs",
+      "adult male breeding, head detail in side view: chestnut face and throat, small white chin and whitish feathering at the bill base, long black bill curving down evenly from base to tip",
+      "in flight, seen from above: dark upperparts, narrow white wing-bar, square white rump patch above a grey tail"
+    ],
+    "build": "Slim, elegant sandpiper, about 22cm, a little larger than a Dunlin with a longer neck, longer legs and a more upright stance. Bill black, clearly longer than the head and evenly curved downward along its whole length, finest at the tip. Legs black and fairly long, the tibia well exposed. Long wings: the folded wingtips reach slightly beyond the tail tip. In flight a clear white wing-bar and a square, unmarked white rump contrasting with the darker back and grey tail.",
+    "avoid": [
+      "Do not paint a bill that droops only near the tip; that is Dunlin (Calidris alpina). The Curlew Sandpiper's bill curves evenly along its whole length.",
+      "Do not paint a black belly patch (breeding Dunlin).",
+      "Do not paint a dark-centred rump in flight; the rump is pure white.",
+      "Do not paint a short straight bill on a stocky body; that is Red Knot (Calidris canutus), which also has red underparts.",
+      "Do not paint yellow or greenish legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

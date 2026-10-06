@@ -49,14 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ruddy Shelduck (Tadorna ferruginea), adult male in winter: bright orange plumage, narrow faint black neck collar, black bill, tail and legs, strongly contrasting white and black wings",
+    "subject": "Ruddy Shelduck (Tadorna ferruginea), adult male in winter, as seen on Korean farmland from November to March: head and upper neck pale buff-orange, clearly paler than the body; a narrow, faint black collar around the lower neck; body plumage bright rusty orange; wing coverts white and flight feathers black, with a glossy green speculum, the white mostly hidden at rest; tail black. Bill black; dark eye; black legs.",
     "pose": "foraging in a small flock in a harvested rice field",
     "scene": "Korean farmland in winter: harvested rice paddies and dry fields beside a wetland; no people, buildings or text",
     "views": [
-      "adult male, side view standing: bright orange body, black neck collar, black bill, tail and legs",
-      "adult female, head detail: face more whitish than the male's",
-      "adult, in flight: strongly contrasting white and black wings"
-    ]
+      "adult male winter, side view standing in a harvested field: bright orange body, paler buff-orange head, narrow black neck collar, black bill, tail and legs",
+      "adult female, head detail in side view: pale buff-orange head with a whitish face, no black collar, black bill",
+      "adult in flight, seen from above: orange body, large white forewing patches contrasting with black flight feathers, green speculum, black tail"
+    ],
+    "build": "Large, goose-like duck, 64cm, larger than a Mallard, with a rounded head, fairly short neck and longish legs giving an upright, goose-like stance when walking on fields. Bill black, short and broad, shorter than the head. Legs black. In flight broad-winged, showing striking white forewings (upper and under wing coverts) against black flight feathers, and a black tail.",
+    "avoid": [
+      "Do not paint a red bill or a white body with a dark green head; that is Common Shelduck (Tadorna tadorna).",
+      "Do not give the head the same deep orange as the body; it is clearly paler.",
+      "Do not paint orange or pink legs; they are black.",
+      "Do not show a broad bold collar on the winter male; it is narrow and faint then."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

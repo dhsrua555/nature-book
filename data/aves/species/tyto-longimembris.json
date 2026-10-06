@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eastern Grass Owl (Tyto longimembris), adult: heart-shaped facial disc whitish to pale buff, framed by a thin dark rim; small black eyes; crown, nape, back and wing coverts dark brown, finely spotted pale, with golden-buff showing through in patches; flight feathers barred dark; underparts pale buff to whitish with sparse small dark spots; long legs with pale feathered tarsi. Bill pale.",
+    "pose": "standing upright on a flattened tussock in tall grass, front-side view with the facial disc turned towards the viewer",
+    "scene": "Tall dry grassland and reedbed on a Korean river floodplain at dusk in autumn; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized owl with a large rounded head without ear tufts, its body about the size of a pigeon's; long legs; long wings that at rest extend clearly beyond the short tail. In flight the long legs and feet project beyond the tail tip; the upperwing is dark brown with golden-buff bases to the primaries, and the pale underwing has a dark patch at the carpal joint and dark-barred wingtips. Hunts by quartering low over tall grass at dusk; roosts and nests on the ground.",
+    "avoid": [
+      "Do not paint yellow or orange eyes or short ear tufts (Short-eared Owl, Asio flammeus).",
+      "Do not paint the pale golden-grey upperparts and white underparts of Barn Owl (Tyto alba); the Grass Owl's upperparts are dark brown.",
+      "Do not paint a round face; the facial disc is heart-shaped.",
+      "Do not put it in a tree; it lives on the ground in tall grass."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

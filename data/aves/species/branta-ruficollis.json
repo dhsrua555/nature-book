@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Red-breasted Goose (Branta ruficollis), adult: crown, face, hindneck and upperparts black; a white oval patch between the bill and the eye; a large brick-red patch on the cheek bordered with white; foreneck and breast brick-red, bordered by a narrow white line; a white stripe along the flanks below the wing; belly and flanks black; vent and undertail coverts white; wings black with two narrow white bars on the coverts. Bill tiny and black; dark eye; legs black.",
+    "pose": "grazing on a harvested rice field among Greater White-fronted Geese, side view",
+    "scene": "Korean winter farmland: harvested rice fields with stubble and a flock of grey geese; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact, short-necked goose, about the length of a Mallard but much stockier, the smallest goose likely to be seen in Korea. Bill tiny and stubby, much shorter than the head. Legs short, black. At rest the wings reach the tail tip. Grazes busily in fields with other geese; in flight looks dark with a white vent and white uppertail coverts.",
+    "avoid": [
+      "Do not paint grey-brown body plumage; the body is black with white stripes.",
+      "Do not paint a long bill; it is very small and stubby.",
+      "Do not make the breast orange or pale pink; it is deep brick-red.",
+      "Do not omit the white borders around the red patches."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

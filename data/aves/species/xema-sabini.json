@@ -49,14 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sabine's Gull (Xema sabini), adult breeding: grey hood bordered by a black collar against the white lower neck, black bill with a yellow tip, black primaries, broad white triangle on the secondaries, black leading edge to the wing, forked tail, grey legs",
+    "subject": "Sabine's Gull (Xema sabini), adult in breeding plumage: dark slate-grey hood edged below by a narrow black collar, against a white neck and body; mantle and inner wing coverts medium grey; outer primaries and their coverts black with small white tips, forming a black triangle along the outer leading edge of the wing; inner primaries and secondaries white, forming a broad white triangle; tail white and clearly forked. Black bill with a yellow tip; dark eye with a red eye-ring; dark grey legs.",
     "pose": "flying low over the sea, showing the black-and-white wing pattern",
     "scene": "open sea off the Korean coast under a wide sky; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: grey hood, black collar, black bill with yellow tip, grey legs",
-      "adult non-breeding, head detail: white forehead, dusky rest of head, band across the upper neck",
-      "adult, in flight from above: black primaries and black leading edge, broad white triangle on the secondaries, forked tail"
-    ]
+      "adult breeding, side view standing: slate-grey hood with a narrow black collar, black bill with a yellow tip, grey back, long black wingtips with white spots, dark grey legs",
+      "adult non-breeding, head detail: white forehead and face, dusky grey half-hood on the nape and hindneck, black bill with a yellow tip",
+      "adult in flight, seen from above: grey mantle and coverts, black outer primaries forming a black triangle on the outer wing, broad white triangle on the inner primaries and secondaries, forked white tail"
+    ],
+    "build": "Small, elegant gull, 33–36cm, smaller than the Black-headed Gull; rounded head and short neck. Bill short and fine, shorter than the head. Legs short, dark grey. At rest the long black wingtips with white spots project well beyond the tail. In flight the long, pointed wings show a bold three-triangle pattern of grey coverts, black outer wedge and white inner triangle, and a forked tail; flight buoyant and tern-like.",
+    "avoid": [
+      "Do not paint a brown hood with white eye crescents, a red bill and red legs; those mark the Black-headed Gull (Chroicocephalus ridibundus).",
+      "Do not paint a white leading edge to the outer wing; the outer leading edge is black.",
+      "Do not make the tail square; it is forked."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

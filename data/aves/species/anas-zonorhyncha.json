@@ -63,14 +63,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eastern Spot-billed Duck (Anas zonorhyncha), adult: uniform dark brown body, buff cheeks, black bill with a yellow tip, blue secondaries and white tertials, orange legs",
+    "subject": "Eastern Spot-billed Duck (Anas zonorhyncha), adult, as seen in Korea all year: crown dark brown; face, cheeks and foreneck pale buff, crossed by a dark eye-stripe and a second dark stripe across the lower cheek; neck and body dark brown, the breast and flank feathers with slightly paler fringes, so the body looks uniformly dark against the pale face; tertials with white outer webs, showing as a white patch at the rear of the folded wing; blue speculum; tail and undertail coverts blackish-brown. Bill black with a broad yellow tip; dark eye; orange legs and feet.",
     "pose": "swimming on calm water, side view",
     "scene": "Korean coastal grassland at the foot of a low wooded hill, a calm pool along the shore; no people, buildings or text",
     "views": [
-      "adult, side view swimming: dark brown body, buff cheeks, yellow-tipped black bill, white tertials",
-      "adult in flight: blue secondaries and white tertials visible at a distance, orange legs",
-      "adult male, rear detail: blackish-brown upper and undertail coverts darker than the female's, paler cheeks"
-    ]
+      "adult, side view standing on a bank: dark brown body, pale buff face with a dark eye-stripe and cheek stripe, black bill with a yellow tip, white tertial patch at the rear of the folded wing, orange legs",
+      "adult in flight seen from above: dark brown body and wings, blue speculum, white tertials, pale buff face, black yellow-tipped bill, head, body and tail in a straight line",
+      "adult male, rear detail in side view: blackish-brown upper and undertail coverts, darker than the female's, and paler cheeks"
+    ],
+    "build": "Large dabbling duck, about 61cm, the size of a Mallard and similar in shape: heavy body, rounded head, medium neck, sitting high on the water. Bill long and broad, about as long as the head, straight. Legs short, orange. Tail short and slightly pointed. In flight the blue speculum and white tertials show at long range, and the white underwing contrasts with the dark body.",
+    "avoid": [
+      "Do not paint a red spot at the base of the bill — that is Indian Spot-billed Duck; the Korean bird has an all-black bill with a yellow tip.",
+      "Do not paint a green head, white neck ring or curled tail feathers (Mallard drake).",
+      "Do not paint the bill all yellow or orange.",
+      "Do not paint a pale, scaly brown body like a female Mallard; it is dark brown against a pale face."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

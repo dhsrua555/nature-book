@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crested Kingfisher (Megaceryle lugubris), adult: shaggy black crest, black forehead, crown and nape, broad black eye-stripe with white above and below it, black upperparts from back to tail barred white, white underparts, black bill",
+    "subject": "Crested Kingfisher (Megaceryle lugubris), adult male: large shaggy crest and crown blackish, densely spotted white; a broad dark band through the eye, a small white spot in front of the eye and a broad white stripe from the gape below the eye to the side of the neck; a dark, white-speckled moustachial stripe; white throat. Upperparts, wings and tail slaty black, finely and evenly barred and spotted white. Underparts white, with a broad breast band of dark grey spots mixed with rufous-orange, and grey bars on the flanks. Long, heavy, dagger-shaped black bill; dark eye; tiny short legs.",
     "pose": "perched on a branch over a mountain stream, watching the water for fish",
     "scene": "Korean mountain stream with clear pools and overhanging branches; no people, buildings or text",
     "views": [
-      "adult, side view perched: shaggy black crest, black upperparts barred white, white underparts, black bill",
-      "adult, head detail: broad black eye-stripe bordered white above and below"
-    ]
+      "adult male, side view perched upright on a branch: shaggy white-spotted black crest, slaty black upperparts finely barred white, white underparts with a spotted grey-and-rufous breast band, long black dagger bill",
+      "adult, head detail: white-spotted black crest and crown, broad black band through the eye with a white spot in front and a broad white stripe below, dark speckled moustachial stripe, white throat, black bill"
+    ],
+    "build": "Very large kingfisher, 37.5cm, about the size of a feral pigeon and many times bulkier than the Common Kingfisher; big-headed, with a heavy, untidy crest sticking up and back from the crown. Bill long, straight and dagger-pointed, thick at the base, roughly as long as the head. Legs extremely short, feet tiny. Body stout; tail fairly long, square-ended, barred black and white. Sits upright on a branch or rock above the water. In flight the wings look broad and barred black and white above; males show white underwing coverts, females orange-buff ones.",
+    "avoid": [
+      "Do not use any blue, green or orange-chestnut kingfisher colours; the plumage is black, slate and white with only a little rufous on the male's breast.",
+      "Do not paint a smooth, neat crest or a plain unspotted black cap; the crest is large, ragged and spotted white.",
+      "Do not copy the Pied Kingfisher (Ceryle rudis), which is much smaller with a white supercilium and clean black breast bands.",
+      "Do not paint a red or yellow bill; it is black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

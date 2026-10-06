@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-flanked Bluetail (Tarsiger cyanurus), adult male: deep blue head, back and tail, white supercilium extending to the forehead, white belly, buff flanks",
+    "subject": "Red-flanked Bluetail (Tarsiger cyanurus), adult male in fresh plumage, as seen in Korean forest on autumn migration (October): crown, nape, ear-coverts, back, wings and tail rich cobalt blue, with brighter blue on the shoulder; a short, narrow white supercilium from the forehead to above the eye; chin and throat white, bordered by the blue sides of the neck and breast; centre of the breast greyish-white; flanks bright orange; belly and undertail coverts white. Thin black bill; large dark eye; dark grey legs.",
     "pose": "perched low on a mossy log in the forest, side view",
     "scene": "Korean autumn forest understorey with mossy fallen logs; no people, buildings or text",
     "views": [
-      "adult male, side view perched: deep blue head, back and tail, white supercilium, white belly, buff flanks",
-      "adult female, side view perched: pale buff-brown back, blue rump and tail, white belly, orange flanks"
-    ]
+      "adult male, side view perched on a low branch: cobalt-blue head, back and tail, short white supercilium reaching the forehead, white throat bordered blue, white belly, bright orange flanks",
+      "adult female (first-year males look the same), side view perched: olive-brown upperparts, blue rump and tail, narrow whitish eye-ring, white throat bordered by olive-brown breast sides, white belly, orange flanks"
+    ],
+    "build": "Small, robin-like chat, 14cm, about the size of a sparrow but rounder-headed and larger-eyed, with an upright stance on low perches and the forest floor. Bill thin, short and straight, much shorter than the head. Legs slender, medium length, dark grey. At rest the wingtips reach just past the base of the tail. Tail medium length, square-ended, frequently flicked downward and slightly spread.",
+    "avoid": [
+      "Do not paint orange on the breast or throat; the orange is confined to the flanks.",
+      "Do not paint a blue back on the female; only her rump and tail are blue.",
+      "Do not give it white wing bars or white in the tail.",
+      "Do not paint pinkish legs or white underparts without orange flanks — that is Siberian Blue Robin (Larvivora cyane)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

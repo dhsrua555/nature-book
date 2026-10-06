@@ -63,13 +63,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White's Thrush (Zoothera aurea), adult: buff-brown upperparts, white throat, breast and belly, black and dark brown mottling over the whole body, tail edged black and tipped white",
+    "subject": "White's Thrush (Zoothera aurea), adult (sexes alike), as seen in Korean forest from April to September: upperparts golden olive-brown, every feather tipped with a black crescent, giving a boldly scaled look; face pale buff-white with a dark crescent on the rear ear coverts; throat white; breast and flanks white to buffy-white, densely marked with black crescentic scales; belly centre and undertail coverts white; tail olive-brown with dark outer feathers tipped white. Bill dark brown with a paler base to the lower mandible. Large dark eye. Pinkish legs.",
     "pose": "perched on a branch at dawn, singing",
     "scene": "Korean deciduous broadleaf forest at dawn in early summer; no people, buildings or text",
     "views": [
-      "adult, side view perched: buff-brown upperparts, white underparts, black and dark brown mottling all over, black-edged tail with white tip",
-      "adult in flight, from below: black and white bands across the underwing"
-    ]
+      "adult, side view perched on a branch: golden olive-brown upperparts boldly scaled with black crescents, white throat, white breast and belly densely scaled black, dark crescent on the cheek, dark-edged tail with white tips, pinkish legs",
+      "adult in flight seen from below, head, body and tail in one line: broad black-and-white bands across the underwing, scaled white underparts, white tail corners"
+    ],
+    "build": "Large, bulky thrush, about 29.5cm, a little longer than a Brown-eared Bulbul and much heavier; large rounded head, big dark eye, plump body. Bill fairly long and strong, slightly shorter than the head. Legs long and sturdy, pinkish-flesh. Tail medium length, square. In flight a striking underwing with broad black and white bands. Shy; feeds on the forest floor with slow, rocking steps.",
+    "avoid": [
+      "Do not paint round spots like a Song Thrush; the markings are black crescents (scales).",
+      "Do not paint orange or rufous on the breast or flanks.",
+      "Do not paint a plain, unmarked back; every upperpart feather is black-tipped.",
+      "Do not paint a yellow bill or dark legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

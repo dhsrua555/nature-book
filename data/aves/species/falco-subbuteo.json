@@ -65,14 +65,23 @@
     }
   ],
   "art": {
-    "subject": "Eurasian Hobby (Falco subbuteo subbuteo), adult: dark slate-grey upperparts with a blackish crown and nape; a narrow, tapered black moustachial stripe dropping below the eye, contrasting sharply with white cheeks, an unstreaked white throat and a white half-collar on the neck sides; whitish underparts boldly streaked black on the breast and belly; unstreaked rufous-red thighs ('trousers'), vent and undertail coverts; dark eye with a yellow eye-ring, black bill with a yellow base, yellow cere, yellow legs and feet. Long, narrow, sharply pointed sickle-shaped wings and a relatively short, square-ended tail (shorter than a kestrel's).",
+    "subject": "Eurasian Hobby (Falco subbuteo), adult, as seen in Korea from May to September: crown and nape blackish; a narrow, tapering black moustachial stripe hangs below the eye, contrasting with white cheeks, an unmarked white throat and a white half-collar reaching up behind the ear-coverts; back, upperwing and uppertail uniform dark slate-grey. Breast and belly creamy white, boldly streaked black; thighs ('trousers'), vent and undertail coverts plain rufous-red. Underwing densely barred dark, looking greyish. Eye dark brown with a yellow eye-ring; cere yellow; bill short, bluish-grey with a black tip; legs and feet yellow.",
     "pose": "in fast agile flight, banking with long sickle-shaped wings swept back, reaching forward with its feet to snatch a dragonfly",
     "scene": "Korean summer: the edge of a broadleaf forest beside green rice paddies, a tall tree holding an old magpie stick nest, warm hazy light, dragonflies over the fields; no people, buildings or text",
     "views": [
-      "adult, from above in flight: uniform dark slate-grey back and upperwing, blackish head, long narrow pointed wings, relatively short square tail",
-      "adult, from below in flight: white throat and cheeks with black moustache, heavily black-streaked whitish breast and belly, rufous thighs and undertail coverts, long pointed wings",
-      "adult, side view in flight: swift-like sickle silhouette, black moustache on white cheek, rufous 'trousers' and vent"
-    ]
+      "adult, in flight seen from above: uniform dark slate-grey back and upperwing, blackish head, long narrow pointed wings, relatively short square tail",
+      "adult, in flight seen from below: white throat and cheeks with narrow black moustache, heavily black-streaked whitish breast and belly, rufous thighs and undertail coverts, densely barred underwing, long pointed wings",
+      "adult, side view perched: blackish crown, narrow black moustache on a white cheek, white half-collar, dark slate-grey back, streaked breast, rufous trousers and vent, wingtips reaching the tail tip"
+    ],
+    "build": "Small, compact falcon, 29–36cm, about the size of a Feral Pigeon but with much longer wings. Rounded head, slim body. Wings very long, narrow and sharply pointed, swept back in a sickle shape in flight like a giant swift; at rest the wingtips reach or slightly pass the tail tip. Tail relatively short and square-ended, plain grey above and finely barred below. Flight fast and agile; catches dragonflies and swallows in the air and eats insects from its feet on the wing. Perches on high dead branches at forest edges.",
+    "avoid": [
+      "Do not bar the underparts across; that is the Peregrine's pattern. The Hobby is streaked lengthwise.",
+      "Do not paint a rufous back or a long tail (Common Kestrel).",
+      "Do not paint a broad, heavy black moustache patch; the Hobby's is narrow and tapering.",
+      "Do not paint orange-red legs, cere and eye-ring with white underwing coverts — that is Amur Falcon (Falco amurensis)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

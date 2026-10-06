@@ -46,13 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Garganey (Spatula querquedula), adult male: blackish-brown head, hindneck, back and breast, bold white supercilium running from above the eye to the upper neck, greyish-white underparts",
+    "subject": "Garganey (Spatula querquedula), adult male in breeding plumage, as seen in Korea on spring passage in March and April: head and neck rich chocolate-brown, finely streaked white on the cheeks and neck; a bold, broad white supercilium curving from above the eye down to the upper hindneck; crown dark blackish-brown; breast warm brown with dense dark scalloping; flanks pale grey finely vermiculated, cleanly cut off from the brown breast; long drooping black-and-white striped scapulars hanging over the flanks; belly greyish-white; rear end mottled brown. Bill dark grey to blackish; iris dark brown; legs grey.",
     "pose": "dabbling at the edge of a marshy pond, side view",
-    "scene": "Korean winter: a reed-fringed pond and marsh; no people, buildings or text",
+    "scene": "Korean spring migration in March and April: a reed-fringed freshwater pond and marsh with the first green growth; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: blackish-brown head, back and breast, bold white supercilium to the upper neck, greyish-white underparts",
-      "adult female, side view: mottled brown body, pale mark at the base of the bill"
-    ]
+      "adult male breeding, side view swimming: chocolate-brown head with a broad white supercilium curving to the upper neck, scaly brown breast, pale grey flanks, drooping black-and-white scapulars, dark grey bill",
+      "adult female, side view swimming: mottled brown body, dark eye-stripe and pale supercilium, whitish loral spot at the base of the bill, dark line across the cheek, whitish throat, plain grey bill",
+      "adult male, flight from above: pale blue-grey forewing, green speculum with white borders, brown head and breast"
+    ],
+    "build": "Small dabbling duck, about 38cm, clearly smaller than a Mallard and close to a Eurasian Teal in size. Head rather long with a flat crown; bill straight, dark, about as long as the head, of ordinary duck shape. Legs short, grey. Swims and dabbles at the edges of pools and marshes, often in pairs or small groups on migration. At rest the wingtips reach the base of the tail. Tail short and pointed. In flight the male shows a pale blue-grey forewing and a green speculum bordered white in front and behind.",
+    "avoid": [
+      "Do not give the male a chestnut head with a green eye patch or a white vertical stripe at the breast side; that is Eurasian Teal.",
+      "Do not paint a broad spoon-shaped bill (Northern Shoveler) or a yellow or orange bill.",
+      "Do not shorten the white supercilium to a small eyebrow; it is broad and runs down to the hindneck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

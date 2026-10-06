@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Jack Snipe (Lymnocryptes minimus), adult: dark brown overall, black central crown stripe, white chin and throat, white neck sides with blackish-brown blotches, glossy dark reddish mottling down the centre of the back, white breast, belly and undertail coverts, wedge-shaped tail",
+    "subject": "Jack Snipe (Lymnocryptes minimus), adult, sexes alike, in autumn as on passage through Korea: crown blackish from the forehead to the nape with no pale central stripe; a split pale buff supercilium, its two pale lines separated by a thin dark line above the eye; a dark eye-stripe and a dark crescent across the lower cheek; chin and throat white; neck sides and breast pale buff, densely streaked and blotched blackish-brown; mantle and scapulars blackish with a purple and green gloss, with two broad straw-buff stripes running down each side of the back; wing coverts dark brown fringed buff; flanks streaked brown; belly and undertail coverts white; tail dark brown, pointed and wedge-shaped, with no orange band. Bill pale yellowish-brown at the base, darker towards the tip; dark eye; legs dull greenish-yellow.",
     "pose": "crouched alone in wet grass, side view",
     "scene": "Korean grassy marsh edge beside rice fields during autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark brown overall, black crown stripe, white throat, glossy dark reddish mottling on the back, white belly",
-      "tail detail: wedge-shaped tail of 12 feathers"
-    ]
+      "adult, side view standing in wet grass: blackish crown band without a pale centre stripe, split buff supercilium, white chin and throat, pale neck sides blotched blackish-brown, glossy purple-green back with two straw-buff stripes, streaked buff breast, white belly and undertail coverts, short straight bill, greenish-yellow legs",
+      "adult, head seen obliquely from above: broad blackish central crown band flanked on each side by two pale buff lines, short straight bill",
+      "adult, tail spread seen from above: pointed, wedge-shaped tail of 12 dark brown feathers, the central pair longest, with no orange band"
+    ],
+    "build": "Small, compact snipe, clearly smaller than Common Snipe and about the size of a Dunlin; plump body, short neck and large head with the eye set high and well back. Bill straight, about one and a half times the length of the head, proportionally much shorter than any other snipe's. Legs short, greenish-yellow. The long tertials cover the folded primaries; tail short and pointed. Feeds with a constant rhythmic bobbing of the whole body; flushes silently at very close range and drops back into cover after a short, low flight.",
+    "avoid": [
+      "Do not paint a pale central crown stripe; Common, Pintail and Swinhoe's Snipe have one, but the Jack Snipe's crown centre is all dark.",
+      "Do not give it a bill twice the head length (Common Snipe); the Jack Snipe's bill is short for a snipe.",
+      "Do not show a rufous-orange band or white corners in the tail; the tail is plain dark and pointed.",
+      "Do not paint the back plain brown; it has an iridescent purple-green sheen and bold straw-buff stripes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

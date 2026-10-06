@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Velvet Scoter (Melanitta fusca), adult male in winter, as seen from November to March: entire plumage velvety black; a small white crescent below and just behind the eye; white secondaries forming a white patch on the rear of the folded wing, often visible as a white line along the side. Bill mainly yellow-orange on the sides, with black along the base and a small, low black knob where it meets the forehead; iris whitish; legs and feet red.",
+    "pose": "swimming among swells, wing slightly drooped so the white patch shows, side view",
+    "scene": "open winter sea off Korea's east coast with grey swells; no people, buildings or text",
+    "views": [],
+    "build": "Large, heavy sea duck, bigger and bulkier than a Black Scoter, with a long body sitting low in the water. Head fairly large with a sloping forehead running into a long, broad-based bill; feathering projects forward onto the sides of the bill. Bill about as long as the head. Short red legs set far back. In flight the white secondaries show as a clean white rectangle on the rear inner wing, striking against the otherwise all-black wing. Tail short and pointed, often held flat on the water.",
+    "avoid": [
+      "Do not paint a large, hooked black knob with pinkish-red bill sides — that is Stejneger's Scoter (Melanitta stejnegeri), the scoter usually seen in Korea.",
+      "Do not leave out the white wing patch; Black Scoter (Melanitta americana) and Surf Scoter have no white in the wing.",
+      "Do not add white patches on the forehead or nape (Surf Scoter).",
+      "Do not paint the legs black or grey; they are red."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

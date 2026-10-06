@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Yellowhammer (Emberiza citrinella), adult male in winter, a vagrant in Korean farmland usually among Pine Buntings: head yellow, partly veiled by olive-green fringes, with olive streaks bordering the crown and an olive surround to the ear coverts; throat yellow; a band of chestnut and olive mottling across the breast; rest of the underparts yellow, the flanks streaked chestnut; mantle and scapulars rufous-brown with blackish streaks; rump bright rufous-chestnut and unstreaked; wings brown with rufous fringes and two pale wing bars; tail long, dark, with white outer feathers. Bill grey with a darker upper mandible; eye dark; legs pinkish.",
+    "pose": "perched on a bare hedgerow twig, side view",
+    "scene": "winter stubble fields and bare hedgerows in Korean farmland (January), low sun and a light frost; no people, buildings or text",
+    "views": [],
+    "build": "A large, long-tailed bunting, clearly larger and slimmer than a sparrow, with a rather small head; perches upright on bushes and feeds on the ground. Bill conical, small for the bird's size, grey, shorter than the head. Legs pinkish, medium-short. The long, slightly forked tail projects far beyond the wingtips and is flicked open to show the white outer feathers. The unstreaked chestnut rump is obvious in flight.",
+    "avoid": [
+      "Do not paint white where the Yellowhammer is yellow; a white-headed, white-bellied bird is Pine Bunting, the related winter visitor in Korea.",
+      "Do not paint a streaked grey-brown rump; the rump is plain rufous-chestnut.",
+      "Do not paint black head stripes or a black face (Yellow-throated or Black-faced Bunting).",
+      "Do not paint a pink or yellow bill; it is grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

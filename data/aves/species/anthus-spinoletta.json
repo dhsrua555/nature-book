@@ -54,13 +54,21 @@
     }
   ],
   "art": {
-    "subject": "Water Pipit (Anthus spinoletta), adult winter: brownish-green upperparts, faint supercilium, distinct malar stripe and breast streaks, white breast and belly",
+    "subject": "Water Pipit (Anthus spinoletta), adult in winter plumage of the East Asian race blakistoni, as seen in Korea from November to March: crown and upperparts grey-brown with an olive tinge and only faint, diffuse darker streaks on the mantle; pale supercilium; dark malar stripe; two pale wing-bars; underparts whitish with fine but distinct dark streaks on the breast and flanks; outer tail feathers white. Bill dark with a paler base to the lower mandible; dark eye; legs dark brown to blackish.",
     "pose": "walking along the edge of a mudflat, foraging",
     "scene": "Korean winter estuary: harvested rice paddies beside a tidal mudflat and river mouth; no people, buildings or text",
     "views": [
-      "adult winter, side view on ground: brownish-green upperparts, faint supercilium, distinct malar stripe and breast streaks, white breast and belly",
-      "adult summer, side view on ground: grey-brown upperparts, weak black malar and breast streaks, flesh-coloured breast and belly with a few black streaks on the sides of the upper breast"
-    ]
+      "adult winter, side view walking on mud: olive-tinged grey-brown upperparts with faint mantle streaks, pale supercilium, distinct dark malar stripe, whitish breast and belly with fine dark streaks on breast and flanks, dark legs",
+      "adult summer, side view on the ground: plain grey-brown upperparts with a greyer head, pale supercilium, pinkish-buff (flesh-coloured) breast and belly with a few dark streaks only at the sides of the upper breast, weak malar stripe"
+    ],
+    "build": "Slim, long-tailed pipit, about 16 cm, a little larger than a sparrow and similar to Buff-bellied Pipit in size and shape. Bill fine and straight, shorter than the head. Legs medium length, dark, with a long hind claw. Wingtips at rest fall well short of the tail tip; tail medium-long with white outer feathers, pumped while walking. Walks over wet mud, stubble and shorelines.",
+    "avoid": [
+      "Do not paint pale pinkish legs or heavy blotchy breast streaks; those mark Buff-bellied Pipit (Anthus rubescens).",
+      "Do not paint bold black streaks and white braces on the back; that is Red-throated Pipit (Anthus cervinus).",
+      "Do not give the winter bird a pink-buff breast; that wash is summer only."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

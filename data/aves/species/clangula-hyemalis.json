@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-tailed Duck (Clangula hyemalis), adult in winter plumage: white head, neck and underparts, dark brown patch below the eye, blackish-brown breast, back and wings, black bill with a pink band near the tip, long central tail feathers",
+    "subject": "Long-tailed Duck (Clangula hyemalis), adult male in winter, as seen off Korean coasts from November to March: head and neck white, with a pale grey-buff face around the eye and a large blackish-brown patch on the side of the neck below and behind the cheek; breast black, forming a broad band; back black; long pale grey-white scapulars draped over the sides of the back; wings blackish-brown; flanks and belly white; two very long, thin black central tail feathers; bill short, black with a broad pink band across the outer half and a black nail; dark eye; legs grey.",
     "pose": "swimming on choppy sea water, about to dive",
     "scene": "Korean winter coastal sea off a river mouth; no people, buildings or text",
     "views": [
-      "adult winter, side view swimming: white head, neck and underparts, dark brown patch below the eye, blackish-brown breast and back, long central tail feathers",
-      "head detail: dark brown patch below the eye, black bill with a pink band near the tip"
-    ]
+      "adult male winter, side view swimming: white head and neck with a grey-buff face, large blackish-brown neck patch, black breast band and back, long pale grey scapulars, white flanks, very long thin black central tail feathers raised",
+      "adult male winter, head detail in profile: white head, grey-buff face around the dark eye, blackish-brown patch below and behind the cheek, short black bill with a broad pink band"
+    ],
+    "build": "Small, compact sea duck: the male about 57cm including the long tail streamers, its body smaller than a Mallard's; the female lacks the streamers and looks much smaller. Rounded head with a steep forehead, short neck, small stubby bill much shorter than the head. Legs short, grey, set far back. Swims buoyantly in rough sea and dives often. At rest the wingtips reach the tail base. In flight the wings are uniformly dark without any white patch, contrasting with the white belly.",
+    "avoid": [
+      "Do not paint any white patch or bar on the wings; the wings are all dark.",
+      "Do not paint the long, slender neck and long bill of Northern Pintail (Anas acuta); this species is short-necked and stubby-billed.",
+      "Do not paint summer plumage (dark head and breast with a white face patch) on wintering birds in Korea.",
+      "Do not give the female long tail streamers."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

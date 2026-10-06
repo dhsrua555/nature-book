@@ -46,14 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eyebrowed Thrush (Turdus obscurus), adult male in winter: greyish dark olive-brown crown with darker feather centres, olive upperparts, yellowish rusty-brown breast and flanks, square-ended tail, brown iris, yellowish grey-brown legs",
+    "subject": "Eyebrowed Thrush (Turdus obscurus), adult male on spring passage (late April–May): head, neck and throat grey, the crown greyish with an olive-brown tinge and darker feather centres; a bold white supercilium; dark lores; a white crescent below the eye; back, wings and tail plain olive-brown; breast and flanks rich yellowish rusty-orange; centre of the belly and undertail coverts white; bill with a dark upper mandible and a yellow lower mandible with a dark tip; brown eye; yellowish grey-brown legs.",
     "pose": "perched on a pine branch, side view",
-    "scene": "Korean pine and larch woods during spring or autumn passage; no people, buildings or text",
+    "scene": "Korean pine and larch woods in early May, the larches in fresh pale-green needles, soft morning light; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: greyish olive-brown crown, olive back, rusty-brown breast and flanks, square tail",
-      "adult female winter, side view perched: olive-brown crown and hindneck matching the back, slightly paler rusty-brown breast and flanks",
-      "adult male summer, side view perched: back greyer and less olive"
-    ]
+      "adult male, side view perched: grey head and throat, bold white supercilium, white crescent below the eye, olive-brown back, wings and square tail, rusty-orange breast and flanks, white belly, yellowish legs",
+      "adult female, side view perched: crown and nape olive-brown like the back, white supercilium, whitish throat with dark streaks at the sides, paler rusty-orange breast and flanks, white belly"
+    ],
+    "build": "Medium-sized thrush, about 22cm — much larger than a sparrow, a little shorter than a Brown-eared Bulbul but plumper. Rounded head and a straight, medium-length bill shorter than the head. Legs medium length, yellowish grey-brown. Wings fairly long and pointed. Tail medium-length and square-ended, plain, without white corners. Feeds on the ground and in fruiting trees; perches upright in the canopy, often in small flocks on passage.",
+    "avoid": [
+      "Do not omit the bold white supercilium; it is the mark in both its Korean and English names.",
+      "Do not paint orange over the whole underside; the belly and vent are white.",
+      "Do not spot or streak the breast like Dusky or Naumann's Thrush.",
+      "Do not add white tail corners (Pale Thrush, Turdus pallidus)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

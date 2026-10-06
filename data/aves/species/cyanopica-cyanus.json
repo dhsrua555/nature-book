@@ -71,14 +71,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Azure-winged Magpie (Cyanopica cyanus, Korean mainland population), a slim long-tailed corvid about 37 cm long with the tail roughly half the total length. Glossy black cap covering forehead, crown, nape and the eye; clean white chin, throat and cheeks directly below the cap; mantle and back soft grey-fawn (brownish grey); underparts pale grey to off-white; wings and long graduated tail pale azure blue (flight feathers blackish on the hidden inner webs, pale blue on the outer webs, primaries white along the outer web from the middle to the tip); a distinct white tip about 2 cm long on the two central tail feathers; black bill and black legs; dark brown iris. Sexes alike.",
+    "subject": "Azure-winged Magpie (Cyanopica cyanus), adult (sexes alike), as seen in Korea year-round: glossy black cap covering the forehead, crown, nape and eye, sharply cut off from the white chin, throat and cheeks; mantle and back pale grey-fawn; underparts pale grey to off-white; wings pale azure blue, the outer primaries edged white towards the tips; long graduated tail pale azure blue, the two central feathers tipped white. Bill black. Dark brown eye. Legs black.",
     "pose": "perched on a slender branch, body angled three-quarters, long blue tail hanging down and slightly fanned, head turned to show the black cap and white throat",
     "scene": "edge of a deciduous woodland beside rural farmland in Korea in late spring (May): fresh green Japanese larch and mulberry foliage, a bamboo thicket in the soft background, gentle overcast light; no people, buildings or text",
     "views": [
-      "adult, perched, side view",
-      "adult in flight from above, showing azure wings, white-edged primaries and white-tipped central tail feathers",
-      "juvenile, perched, side view, with short central tail feathers and narrow white tips to the tail feathers"
-    ]
+      "adult, side view perched on a branch: glossy black cap down to the eye, white throat and cheeks, grey-fawn back, pale grey underparts, azure-blue wings and long graduated tail with white central tips, black bill and legs",
+      "adult in flight seen from above, head, body and tail in one line: grey-fawn back between azure-blue wings, white edges to the outer primaries, long blue tail with white-tipped central feathers",
+      "juvenile, side view perched: duller black cap, shorter central tail feathers, narrow white tips a few millimetres wide to the tail feathers, whitish tips to the greater coverts"
+    ],
+    "build": "Slim, long-tailed corvid, 37cm, of which the tail is roughly half; body about the size of a Brown-eared Bulbul and far smaller than the Oriental Magpie. Bill short, straight, black, shorter than the head. Legs medium length, black. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail long and strongly graduated (wedge-shaped). Moves in noisy flocks, flying one after another with fast wingbeats and glides.",
+    "avoid": [
+      "Do not paint a black-and-white body with a black tail — that is Oriental Magpie (Pica serica).",
+      "Do not paint a crest or a black mask under a pale crown; the smooth black cap covers the whole top of the head and the eye.",
+      "Do not paint deep royal-blue wings; the blue is pale azure.",
+      "Do not paint the cap dark blue or the throat grey; the cap is black and the throat clean white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

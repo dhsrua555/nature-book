@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Demoiselle Crane (Grus virgo), adult: slate-black forehead mixed with grey, pale ash-grey crown and nape, black lores joined to a black stripe about 10 mm wide above the eye, olive bill with a reddish-orange tip, black legs",
+    "subject": "Demoiselle Crane (Grus virgo), adult: forehead slate-black mixed with grey; crown and nape pale ash-grey; lores, face, throat and front of the neck black, the black continuing as a band above the eye; long white plumes springing from behind the eye and trailing back as a tuft towards the nape; long black plumes on the lower foreneck hanging over the breast; body and wing coverts blue-grey; long, pointed grey tertials drooping over the tail; primaries blackish. Bill short, olive with a reddish-orange tip; iris red; legs and feet black.",
     "pose": "walking slowly through a wetland, stepping alternately and searching the ground for food",
     "scene": "Korean grassy wetland beside a river, open meadow and shallow marsh; no people, buildings or text",
     "views": [
-      "adult, side view walking: grey-washed black forehead, pale grey crown and nape, black lores and broad black stripe above the eye, olive bill tipped reddish-orange, black legs",
-      "adult, head detail: forehead, crown, black supercilium and bill pattern"
-    ]
+      "adult, side view walking: blue-grey body, black face and neck with long black breast plumes hanging over the chest, white ear-tuft from behind the eye to the nape, pale grey crown, short olive bill tipped reddish-orange, long black legs",
+      "adult, head detail, side view: slate-black forehead flecked grey, pale ash-grey crown and nape, black lores joining the black band above the eye, red eye, white plume tuft behind the eye, short olive bill with a reddish-orange tip"
+    ],
+    "build": "Smallest crane, about 98cm, slimmer and more delicate than a Common Crane, about the size of a Grey Heron. Small rounded head on a long slender neck. Bill short, shorter than the head, straight and slender. Legs long and black, with bare tibia. At rest the long pointed tertials hang over the tail, less bushy than in other cranes. In flight neck and legs outstretched, grey wings with dark flight feathers, the black foreneck visible from below.",
+    "avoid": [
+      "Do not paint a red crown patch or a white stripe down the neck — those are Common Crane (Grus grus); this species has a white ear-tuft and black breast plumes.",
+      "Do not paint a long dagger-like bill; the bill is short.",
+      "Do not paint a bushy, curled tertial bustle; the tertials are long, straight and pointed.",
+      "Do not paint grey or pink legs; they are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

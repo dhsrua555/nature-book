@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Bonelli's Eagle (Aquila fasciata), adult: upperparts dark brown, usually with a whitish patch on the mantle; head brown with a paler face; underparts white with fine dark streaks; underwing coverts dark, forming a broad blackish band along the underwing between the white body and the paler, finely barred greyish flight feathers; tail pale grey with fine bars and a broad black band at the tip. Bill dark grey with a yellow cere; legs feathered white to the toes, feet yellow.",
+    "pose": "soaring over a rocky ridge on flat wings, seen from below",
+    "scene": "rocky coastal hills with scattered pines in Korea in autumn; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, slender eagle, larger than an Eastern Buzzard but clearly smaller than a Golden Eagle, with a small head protruding well forward, a long tail and fairly long legs. Bill strong and hooked, shorter than the head. Legs feathered to the toes. In flight long, fairly broad wings with nearly straight edges, held flat or slightly bowed; tail long and square-ended.",
+    "avoid": [
+      "Do not paint the dark brown underparts of Golden Eagle (Aquila chrysaetos); the adult Bonelli's Eagle has white underparts.",
+      "Do not paint white underwing coverts; they form a dark band contrasting with the white body.",
+      "Do not paint a barred tail without the broad black band at the tip.",
+      "Do not paint bare yellow legs; the legs are feathered to the toes."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

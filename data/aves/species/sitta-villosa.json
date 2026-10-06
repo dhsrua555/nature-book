@@ -61,13 +61,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Nuthatch (Sitta villosa), adult male in winter: glossy black crown, faint white supercilium, long black eye-stripe from lores to neck sides, cream chin, throat and ear coverts (chin and throat almost white in the centre), pale cream-buff breast, belly and undertail coverts, uniform dark grey-blue hindneck, back, rump and uppertail coverts, central tail feathers like the back, outermost tail feathers black on the basal two-thirds, dark grey-brown flight feathers with narrow blue-grey edges, dark grey-blue tertials and wing coverts",
+    "subject": "Chinese Nuthatch (Sitta villosa), adult male in winter: glossy black crown and nape; a narrow white supercilium from the forehead to the side of the nape; a long, narrow blackish eye-stripe from the lores through the eye to the neck sides; cheeks, ear-coverts and throat creamy, the chin and centre of the throat almost white; hindneck, back, rump, wing-coverts, tertials and central tail feathers uniform dark blue-grey; flight feathers dark grey-brown with narrow blue-grey edges; breast, belly and undertail coverts pale cream-buff without any chestnut; outermost tail feathers black on the basal two-thirds. Bill slender, dark grey with a paler base below; dark eye; legs grey.",
     "pose": "clinging to a dead tree trunk beside a self-excavated nest hole",
     "scene": "mountain conifer forest in the Mt. Baekdu region in winter, with dead standing trunks; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: glossy black crown, faint white supercilium, long black eye-stripe, cream throat, cream-buff underparts, dark grey-blue upperparts",
-      "adult male, tail spread from above: grey-blue central feathers, outermost feathers black on the basal two-thirds"
-    ]
+      "adult male winter, side view clinging to a trunk: glossy black crown, narrow white supercilium, long blackish eye-stripe from lores to neck side, creamy throat almost white in the centre, dark grey-blue upperparts, pale cream-buff breast and belly",
+      "adult male, tail spread from above: dark grey-blue central tail feathers, outermost feathers black on the basal two-thirds"
+    ],
+    "build": "Small, compact nuthatch, about 12 cm, a little smaller than a Great Tit and clearly smaller than Eurasian Nuthatch. Big head, no visible neck, short tail; clambers up and head-down along trunks and branches. Bill straight, slender and pointed, a little shorter than the head. Legs short with strong toes and long claws. Wings short, the wingtips reaching about the base of the short, square tail. The female has a dark grey crown instead of black.",
+    "avoid": [
+      "Do not give it chestnut flanks or chestnut, white-spotted undertail coverts; those belong to Eurasian Nuthatch (Sitta europaea).",
+      "Do not make the male's crown blue-grey; it is glossy black.",
+      "Do not paint a broad, bold black mask; the eye-stripe is long but narrow.",
+      "Do not make it as large or long-billed as Eurasian Nuthatch."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

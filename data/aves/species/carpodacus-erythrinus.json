@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Rosefinch (Carpodacus erythrinus), adult male: deep scarlet forehead to hindcrown with narrow brown fringes, brown lores, reddish-brown ear coverts, vivid rose-red cheeks, throat and upper breast, rose underparts fading to dirty white undertail coverts, stout conical greyish-brown bill with paler lower mandible, brown iris and legs",
+    "subject": "Common Rosefinch (Carpodacus erythrinus), adult male on spring passage (May): forehead and crown deep scarlet with narrow brown fringes; lores brown; ear coverts reddish-brown; cheeks, throat and upper breast vivid rose-red; nape and back brown washed red; rump rose-red; wings brown with two faint pinkish-buff wing bars; tail brown, notched; lower breast and flanks rose-pink, fading to dirty white on the belly and undertail coverts; stout, rounded conical bill grey-brown with a paler lower mandible; dark beady eye in a plain face without eye-stripe or supercilium; brown legs.",
     "pose": "perched on a willow branch, side view",
     "scene": "Korean spring migration: shrubby waterside and willow thicket at the edge of a wetland; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: deep scarlet crown, reddish-brown ear coverts, vivid rose-red cheeks, throat and upper breast, rose underparts fading to dirty white, greyish-brown conical bill",
-      "adult male summer (worn), side view perched: dark brown upperparts, underparts with dirty white ground colour"
-    ]
+      "adult male, side view perched on a willow twig: deep scarlet crown, reddish-brown ear coverts, rose-red cheeks, throat and upper breast, rose underparts fading to dirty white undertail coverts, red-washed brown back, stout rounded bill, brown legs",
+      "adult female or first-year male, side view perched: plain olive-brown upperparts, buffish-white underparts finely streaked brown, two pale wing bars, beady dark eye in a plain face, the same stout bill",
+      "adult male, head close-up in profile: scarlet crown, red face with a dark beady eye, stout rounded conical bill, grey-brown with a paler lower mandible"
+    ],
+    "build": "Sparrow-sized finch, about 14cm, with a rounded head and plump body. Bill short, thick and conical, with a noticeably curved, bulbous culmen. The plain face makes the dark eye stand out. Legs short, brown. Tail medium length and notched. Perches upright in willows and shrubs near water.",
+    "avoid": [
+      "Do not paint a silvery-white frosted forehead and throat — that is Pallas's Rosefinch (Carpodacus roseus).",
+      "Do not paint a long tail with white outer feathers or white wing bars — that is Long-tailed Rosefinch (Carpodacus sibiricus).",
+      "Do not paint the red down to the vent; it fades to whitish on the belly.",
+      "Do not paint a supercilium or eye-stripe; the face is plain with a beady eye."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

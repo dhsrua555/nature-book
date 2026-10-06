@@ -39,13 +39,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Cinereous Vulture (Aegypius monachus), adult: black overall, browner in older birds, bare grey-brown skin on the head",
+    "subject": "Cinereous Vulture (Aegypius monachus), adult, as seen in Korean winter fields from November to March: plumage dark chocolate-brown all over, the body and wing coverts slightly browner than the blackish flight feathers; a loose ruff of long dark brown feathers at the base of the neck. Head covered with short pale brownish down on the crown, a blackish mask around the eye and down the cheeks and throat, and bare bluish-grey skin on the hindneck and sides of the neck. Bill massive and deeply hooked, dark horn-black, with a pale bluish-mauve cere. Eye dark brown.",
     "pose": "soaring on a thermal with wings held still",
-    "scene": "TODO",
+    "scene": "Korean winter farmland near the northern border (Cheorwon–Paju area): frozen harvested rice paddies with patches of snow, a loose flock of vultures standing on the ground, bare low hills under a pale winter sky; no people, buildings or text",
     "views": [
-      "adult, side view standing: black plumage, bare grey-brown head",
-      "adult, soaring from below: black overall, wings held still on rising air"
-    ]
+      "adult, side view standing on the ground: dark chocolate-brown body, neck ruff, pale brownish crown with blackish face mask, bare bluish-grey skin on the neck, massive hooked bill with a pale bluish cere",
+      "adult, soaring seen from below: very long, broad, parallel-edged wings held flat with deep fingers, uniformly dark underwing and body, short wedge-shaped tail, small head barely projecting",
+      "juvenile (first winter), side view standing: plumage blacker and more uniform than the adult, head covered with blackish down, pinkish cere and bare skin at the base of the bill"
+    ],
+    "build": "Huge vulture, 100–110cm, by far the largest raptor in Korea and much bigger than any eagle there; on the ground bulky and hunched, often standing with the head sunk into the ruff. Head small relative to the body; bill very deep and heavy, about as long as the head. At rest the long wings reach about the tail tip. Tail short and slightly wedge-shaped. Soars and glides for long periods on very long, broad, parallel-edged wings held flat or with the hand slightly drooped, with seven deeply fingered primaries and the head barely projecting; uniformly dark from below.",
+    "avoid": [
+      "Do not paint a pale downy neck ruff or a sandy-buff body — that is a griffon vulture, not this species.",
+      "Do not paint a red, wrinkled bare head like a New World vulture.",
+      "Do not paint pale or white underwing coverts or a pale tail; the bird is dark all over.",
+      "Do not paint a long tail or narrow, eagle-like wings."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

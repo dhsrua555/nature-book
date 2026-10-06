@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Teal (Anas crecca), adult male: chestnut head with a dark green band from the eye to the nape edged by a thin yellow line, bold white horizontal stripe on the flank, yellow undertail coverts bordered black, glossy green secondaries",
+    "subject": "Eurasian Teal (Anas crecca), adult male in winter, as seen on Korean streams and reservoirs from October to March: head chestnut with a broad, glossy dark green patch running from around the eye back to the nape, outlined by thin buff-yellow lines; breast creamy-buff with small dark spots; body finely vermiculated grey; a long horizontal white stripe, edged black below, along the side of the back above the flank; undertail coverts creamy-yellow framed by black; glossy green speculum. Small dark grey bill; dark eye; grey legs.",
     "pose": "resting on the water in a small flock",
     "scene": "Korean stream and reservoir edge in winter, shallow water beside a grassy marsh; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: chestnut head with a green eye band edged yellow, white flank stripe, yellow undertail bordered black",
-      "adult female, side view swimming: dark brown with black markings, green secondaries"
-    ]
+      "adult male, side view swimming: chestnut head with a green eye-to-nape patch outlined in thin yellow lines, spotted creamy breast, grey body, horizontal white stripe along the side, creamy-yellow undertail framed black",
+      "adult female, side view swimming: mottled dark brown with darker markings, dark eye-stripe on a paler face, small dark bill, glossy green speculum showing at the rear of the closed wing"
+    ],
+    "build": "The smallest dabbling duck in Korea, about 38cm, clearly smaller than a Mallard (about two-thirds its length); compact and short-necked with a rounded head. Bill small, straight and narrow, shorter than the head. Legs short, grey. Tail short. Flight fast and twisting in tight flocks; the speculum is glossy green, bordered in front by a broad pale bar and behind by a narrow white trailing edge.",
+    "avoid": [
+      "Do not paint a vertical white bar on the breast side — that is Green-winged Teal (Anas carolinensis); the Eurasian Teal has a horizontal white stripe.",
+      "Do not let the green cover the whole head; the head is chestnut with a green eye-band.",
+      "Do not paint a white undertail; it is creamy-yellow framed in black.",
+      "Do not draw it as large as a Mallard."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

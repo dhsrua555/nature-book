@@ -66,13 +66,22 @@
     }
   ],
   "art": {
-    "subject": "Redpoll (Acanthis hornemanni), adult: very like Common Redpoll but with a small bill and white lower belly and rump",
+    "subject": "Arctic Redpoll (Acanthis hornemanni), the pale hornemanni form of the Redpoll (the Siberian population exilipes is the one reaching Korea), adult male in winter: small red patch on the forecrown; tiny black chin and lores; head and upperparts frosty pale grey-buff with fine dark streaks on the crown and mantle; rump pure white and unstreaked; wings dark with two whitish wing bars and whitish tertial edges; underparts white, the breast faintly washed pale pink, the flanks with only a few fine streaks; undertail coverts white and unstreaked; tail dark and forked. Bill tiny, conical, yellowish with a dark tip and culmen; eye dark; legs blackish.",
     "pose": "perched on a low shrub, picking at buds",
     "scene": "Korean winter pasture and roadside verge with low shrubs; no people, buildings or text",
     "views": [
-      "adult, side view perched: small bill, white lower belly",
-      "adult, rear view: white rump"
-    ]
+      "adult male winter, side view perched: tiny stubby yellowish bill with dark tip, small red forecrown patch and black chin, frosty pale streaked upperparts, faint pink breast wash, white lower belly and unstreaked white undertail coverts, sparsely streaked flanks",
+      "adult, rear view perched, seen from behind with the head facing away and the wings slightly lowered: pure white unstreaked rump between the dark wings, frosty pale streaked back, two whitish wing bars, dark forked tail"
+    ],
+    "build": "A tiny, fluffy finch, about 11–14cm, smaller than a sparrow, round and big-headed with thick, loose plumage and a short neck; often hangs acrobatically on twigs to pick buds. Bill tiny, conical and stubby, much shorter than the head, looking pushed into the face. Legs short, blackish. Tail fairly long, dark and distinctly forked, without white. In flight the clean white rump stands out.",
+    "avoid": [
+      "Do not streak the rump or undertail coverts heavily — that is Common Redpoll; this form has a clean white rump and white undertail.",
+      "Do not paint a large or long bill; it is tiny and stubby.",
+      "Do not paint a deep red breast or red face; the red is limited to a small forecrown patch and males show only a faint pink breast wash.",
+      "Do not paint warm brown upperparts; the tone is frosty pale grey-buff."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

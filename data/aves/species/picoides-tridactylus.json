@@ -49,13 +49,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Three-toed Woodpecker (Picoides tridactylus), adult male: black head with white facial stripes and a yellow crown, black back with white ladder-like bars, black wings, rump and tail, striped flanks, white belly",
+    "subject": "Eurasian Three-toed Woodpecker (Picoides tridactylus), adult male (plumage the same all year), as resident in Korean conifer forest: a yellow patch on the crown, the rest of the head black and white: black band through the eye and ear-coverts, a narrow white stripe behind the eye, a broad white moustachial stripe from the bill base, a black malar stripe below it running to the breast sides; throat white; nape black; centre of the back white crossed by black bars like a ladder; wings, rump and tail black, the flight feathers with small white spots and the outer tail feathers with some white bars; breast and belly white; flanks barred blackish-grey; undertail coverts white barred black, no red anywhere; bill dark grey; legs grey.",
     "pose": "clinging to a conifer trunk, drilling into the bark for insects",
     "scene": "Korean coniferous forest with broken branches and a few broadleaf trees mixed in; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a trunk: yellow crown, black head with white face stripes, black back barred white, striped flanks, white belly",
-      "adult, back view: black back with white ladder-like bars, black wings, rump and tail"
-    ]
+      "adult male, side view clinging upright to a conifer trunk: yellow crown patch, black head with a white stripe behind the eye and a white moustachial stripe, black malar stripe, white throat and belly, blackish-barred flanks, three-toed foot gripping the bark",
+      "adult female, side view clinging to a trunk: same pattern as the male, but the crown black finely streaked white, with no yellow",
+      "adult, back view clinging to a trunk: black nape, white centre of the back crossed by black bars like a ladder, black wings with small white spots on the flight feathers, black rump and tail"
+    ],
+    "build": "A medium-small woodpecker, 20cm, larger than a sparrow and a little smaller than Great Spotted Woodpecker. Fairly stocky, with a large head and no crest. Bill straight, stout and chisel-tipped, dark grey, slightly shorter than the head. Legs short and grey; each foot has only three toes, two pointing forward and one back. At rest the folded wingtips reach a short way down the tail. Tail black, stiff and pointed, braced against the trunk. Flight deeply bounding. Often works quietly low on dead or dying conifer trunks, flaking off bark and drilling rings of small sap holes.",
+    "avoid": [
+      "Do not add any red on the crown, nape or undertail; this species has none, unlike Great Spotted and White-backed Woodpeckers.",
+      "Do not draw four toes; the foot has three toes, two forward and one back.",
+      "Do not give it large white shoulder patches or broad white wing bars; the wings are black with only small white spots.",
+      "Do not show the yellow crown on the female.",
+      "Do not paint the back plain black or plain white; its white centre is crossed by black bars."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

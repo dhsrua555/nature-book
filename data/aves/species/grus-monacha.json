@@ -47,14 +47,23 @@
   "young": "어린새는 머리와 목이 엷은 황갈색이고 몸은 흑갈색이며, 이마에 검은색이 없다.",
   "similar": [],
   "art": {
-    "subject": "Hooded Crane (Grus monacha), adult: white head and neck, black forehead, bare red skin on the crown, dark grey to blackish body, wings appearing entirely black in flight",
+    "subject": "Hooded Crane (Grus monacha), adult in winter, as seen on Korean reclaimed farmland from October to March: head and upper half of the neck white; forehead and lores black; a small patch of bare red skin on the crown; lower neck, body and wing coverts dark slaty grey; flight feathers blackish; tertials dark grey, slightly drooping over the tail. Pale yellowish bill; blackish legs and feet.",
     "pose": "feeding on grain in a harvested rice field",
     "scene": "Korean winter reclaimed farmland and harvested rice fields beside a bay; no people, buildings or text",
     "views": [
-      "adult, side view standing: white head and neck, black forehead, red crown, dark grey body",
-      "adult, flight view: wings entirely blackish, white head and neck",
-      "juvenile, side view: pale yellowish-brown head and neck, blackish-brown body, no black on the forehead"
-    ]
+      "adult, side view standing: white head and upper neck, black forehead, small red crown patch, dark slaty-grey lower neck and body, drooping dark tertials over the tail, blackish legs",
+      "adult in flight seen from below: neck and legs fully outstretched in a straight line, wings entirely blackish, white head and upper neck",
+      "juvenile (first winter), side view standing: head and upper neck pale buff-tinged white with no black forehead or red crown, body blackish-brown"
+    ],
+    "build": "Small crane, about 100cm, a little taller than a Grey Heron but much bulkier, with a long neck and long legs; walks slowly while feeding in family groups. Head small and rounded. Bill straight and pointed, about as long as the head. Legs long, blackish. At rest the tertials form a dark bustle covering the short tail. In flight the neck and legs are fully outstretched, and the wings look almost entirely blackish.",
+    "avoid": [
+      "Do not paint pink legs, a red face patch or a white stripe down a grey neck — that is White-naped Crane.",
+      "Do not paint a white body; the body is dark slaty grey.",
+      "Do not show it flying with the neck folded; cranes fly with the neck outstretched.",
+      "Do not extend the white down the whole neck; the lower neck is grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

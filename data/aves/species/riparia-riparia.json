@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sand Martin (Riparia riparia), adult: blackish-brown forehead, crown, nape, lores, ear-coverts and cheeks, white chin and foreneck, blackish-brown back, scapulars and uppertail coverts, white belly, flanks and undertail coverts, black bill, dark brown legs",
+    "subject": "Sand Martin (Riparia riparia), adult on migration (May and August–September): forehead, crown, nape, lores, ear-coverts and cheeks plain dark earth-brown; chin and throat white, the white curving up behind the ear-coverts as a half-collar; a clear-cut dark brown band across the breast; belly, flanks and undertail coverts white; back, scapulars, rump and uppertail coverts the same dark earth-brown as the crown, with no pale rump; wings and short tail dark brown; underwing dark grey-brown; tiny black bill; dark eye; dark brown legs.",
     "pose": "in flight low over water, hawking insects",
     "scene": "Korean lake shore with open water and reedbeds during migration; no people, buildings or text",
     "views": [
-      "adult, side view perched: blackish-brown head and upperparts, white chin and foreneck, white belly",
-      "adult, in flight from below: white throat and belly, blackish-brown head"
-    ]
+      "adult, side view perched on a reed stem: dark earth-brown head and upperparts, brown ear-coverts, white throat curving up behind them, clear dark brown breast band, white belly, wingtips reaching beyond the short notched tail, tiny black bill, dark legs",
+      "adult, in flight seen from below: white throat, distinct brown breast band, white belly and undertail coverts, dark grey-brown underwings, short shallowly notched tail, head, body and tail in line"
+    ],
+    "build": "Small, slim swallow, clearly smaller than a Barn Swallow and without tail streamers. Head rounded, with a tiny, short, flat black bill and a wide gape. Legs very short, dark brown, seen only when it perches on wires or reeds. Wings long, narrow and pointed; at rest the wingtips extend beyond the tail tip. Tail short with only a shallow notch. Flight fluttery and erratic, low over water, often in flocks mixed with Barn Swallows; from below the brown breast band separates the white throat from the white belly.",
+    "avoid": [
+      "Do not leave out the brown breast band; it is this species' key mark (Pale Martin, Riparia diluta, has only a faint, diffuse band).",
+      "Do not paint glossy blue upperparts, a red throat or long tail streamers — those are Barn Swallow traits.",
+      "Do not paint a white or rufous rump (Asian House Martin, Red-rumped Swallow); the rump is brown like the back.",
+      "Do not make the tail deeply forked."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

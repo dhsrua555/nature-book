@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-legged Buttonquail (Turnix tanki), adult: rufous head with blackish-brown and white spots, white throat, brown back, yellowish-brown belly, many round blackish-brown spots on the breast sides and flanks, bright yellow legs",
+    "subject": "Yellow-legged Buttonquail (Turnix tanki), adult female, as seen at Korean farmland edges on spring or autumn passage: head warm buff-brown, densely speckled blackish and white; a bright rufous-orange patch across the hindneck; throat white; back and scapulars grey-brown, finely vermiculated and spotted dark with buff feather edges; wing coverts pale buff with bold round black spots; breast warm orange-buff, paling to whitish-buff on the belly; breast sides and flanks with rows of round blackish-brown spots; bill yellow; legs and feet bright yellow.",
     "pose": "walking on the ground among low grass",
     "scene": "Korean farmland edge with grassy open ground and scattered shrubs during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: rufous head spotted blackish-brown and white, white throat, brown back, yellowish-brown belly, round dark spots on the breast sides and flanks, bright yellow legs",
-      "adult, front view: white throat and round blackish-brown spots on the breast sides and flanks"
-    ]
+      "adult female, side view walking through short grass: buff-brown head speckled blackish and white, rufous-orange hindneck patch, white throat, grey-brown back, black-spotted pale buff wing coverts, orange-buff breast, round blackish spots on breast sides and flanks, yellow bill, bright yellow three-toed legs",
+      "adult male, side view standing: like the female but smaller and duller, with little or no rufous on the hindneck; same white throat, spotted breast sides and flanks, yellowish-buff belly and bright yellow legs",
+      "adult, front view: white throat, warm orange-buff breast with round blackish-brown spots at the sides, paler buff belly, yellow bill and legs"
+    ],
+    "build": "Tiny, rotund, quail-like ground bird, 13cm, about sparrow length but much rounder and clearly smaller than Japanese Quail; body carried low, small head, short neck. Bill short and fairly slender, shorter than the head, yellow. Legs medium length, bright yellow, with three forward toes and no hind toe. Wings short and rounded; the tiny tail is hidden at rest. Flushes low on whirring wings, showing pale buff black-spotted wing coverts against darker flight feathers, then drops back into cover. The female is larger and brighter than the male.",
+    "avoid": [
+      "Do not draw a hind toe or a visible tail; buttonquails have three forward toes only and a tiny tail hidden at rest.",
+      "Do not paint pinkish or grey legs or long pale stripes over the head and back; that is Japanese Quail (Coturnix japonica).",
+      "Do not give it a black throat or a finely barred breast; that is Barred Buttonquail (Turnix suscitator).",
+      "Do not paint streaks on the flanks; the flank marks are round spots."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

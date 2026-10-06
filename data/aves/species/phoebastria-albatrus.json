@@ -36,13 +36,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Short-tailed Albatross (Phoebastria albatrus), adult: white overall, black primaries, large pink bill",
+    "subject": "Short-tailed Albatross (Phoebastria albatrus), adult: head, neck and body white, with a golden-yellow wash over the crown, nape and hindneck; back white. Upperwing with black primaries and secondaries and a large white patch on the inner wing coverts joining the white back; tail white with a black tip. Underwing white with narrow black margins. Huge bright pink bill with a pale bluish hooked tip and a thin dark line around its base; dark eye; pale legs and webbed feet.",
     "pose": "gliding low over the sea on long wings",
     "scene": "open sea off the Korean coast; no people, buildings or text",
     "views": [
-      "adult, side view standing: white overall, black primaries, large pink bill",
-      "adult in flight, upperside: white body, black primaries"
-    ]
+      "adult, side view standing: white body and head with a yellow-washed crown and nape, black flight feathers folded along the side, huge pink bill with a pale bluish hooked tip, pale webbed feet",
+      "adult in flight, seen from above: white back joining a large white patch on the inner wing coverts, black primaries and secondaries, white tail with a black tip, pink bill"
+    ],
+    "build": "Very large seabird, 90cm long, far bigger than any gull, with extremely long, narrow, stiff wings; heavy body, thick neck and rounded head. Bill massive, deep and long, about as long as the head, ending in a strong hooked tip, with tubular nostrils along the sides. Legs short and set far back, feet webbed. Tail short. In flight it glides and banks low over the waves on long, straight, almost motionless wings.",
+    "avoid": [
+      "Do not paint a dark brown back and upperwing (Laysan Albatross) or an all-dark body (Black-footed Albatross and young birds).",
+      "Do not give it a small yellow gull bill or short gull wings; the bill is massive and pink with a hooked tip.",
+      "Do not paint the head pure white; adults have a golden-yellow wash on the crown and nape."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

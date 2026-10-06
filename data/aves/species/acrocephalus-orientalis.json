@@ -36,13 +36,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Reed Warbler (Acrocephalus orientalis), adult: uniformly pale brown, white supercilium, paler underparts with a nearly white belly",
+    "subject": "Oriental Reed Warbler (Acrocephalus orientalis), adult in summer (sexes alike): upperparts plain warm olive-brown with no streaks; a prominent whitish-buff supercilium, strongest in front of and just behind the eye; a dark eye-stripe; whitish throat; faint fine greyish streaks on the lower throat and upper breast; breast sides and flanks washed buff; belly whitish; wings and tail plain brown; long, stout bill with a dark upper mandible and a pinkish-yellow lower mandible; orange-red mouth lining when singing; dark eye; grey-brown legs.",
     "pose": "singing loudly from the top of a reed stem, bill open",
     "scene": "Korean summer reedbed at the edge of a marsh; no people, buildings or text",
     "views": [
-      "adult, side view clinging to a reed stem: uniform pale brown, white supercilium, paler underparts",
-      "adult, singing from a reed top: bill wide open, whitish belly"
-    ]
+      "adult, side view clinging to a vertical reed stem: plain olive-brown upperparts, whitish-buff supercilium, dark eye-stripe, buff-washed flanks, whitish belly, long stout bill, long rounded tail",
+      "adult singing from the top of a reed, side view: bill wide open showing the orange-red mouth, puffed whitish throat with faint grey streaks, raised crown feathers, whitish belly"
+    ],
+    "build": "Large reed warbler, much bigger than a sparrow but slim, with a long tail. Head slightly peaked, the crown feathers often raised when singing. Bill long and strong, nearly as long as the head, straight and pointed. Legs strong, grey-brown, gripping vertical reed stems. Wings fairly short; at rest the wingtips reach the base of the tail. Tail long and rounded, often slightly fanned. Sings loudly from reed tops with the bill wide open, throat puffed and head tilted up.",
+    "avoid": [
+      "Do not paint dark streaks on the back or crown; the upperparts are plain.",
+      "Do not paint a black stripe above the white supercilium; that is the much smaller Black-browed Reed Warbler.",
+      "Do not paint yellow or green tones; the bird is brown and buff.",
+      "Do not paint a short, fine bill; the bill is long and strong."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

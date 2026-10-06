@@ -52,13 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tiger Shrike (Lanius tigrinus), adult male, winter plumage: broad black mask from the forehead through lores, eye and ear coverts, grey crown, nape and neck sides, rufous-brown back, scapulars, rump and uppertail coverts each feather with two fine black bars, pale brown tail with pale bars, deep stout iron-black bill, brown iris, sturdy grey legs",
+    "subject": "Tiger Shrike (Lanius tigrinus), adult male as seen in Korean wooded hills from May to September: a broad black mask from the forehead across the lores, around the eye and over the ear-coverts; crown, nape and neck sides clean blue-grey; back, scapulars, rump and uppertail coverts chestnut-brown, each feather crossed by fine black bars, giving a finely barred 'tiger' pattern; wings chestnut-brown with dark bars; underparts clean white, sometimes with a faint buff wash on the flanks; tail pale rufous-brown with faint pale bars. Bill deep, stout, iron-black; brown iris; legs sturdy and grey.",
     "pose": "perched upright on a shrub branch, scanning for insects",
     "scene": "edge of Korean hill woodland with shrubs, broadleaf trees and red pines in summer; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black mask, grey crown and nape, black-barred rufous-brown back, deep iron-black bill, grey legs",
-      "adult male, back view: rufous-brown back and rump barred black, pale brown tail with pale bars"
-    ]
+      "adult male, side view perched: black mask from the forehead through the eye, blue-grey crown and nape, chestnut back finely barred black, clean white underparts, deep iron-black bill, grey legs",
+      "adult male, back view perched: chestnut back, scapulars and rump finely barred black, pale rufous-brown tail with faint pale bars, blue-grey crown and nape",
+      "adult female, side view perched: like the male but duller, the black mask not covering the forehead, and dark scaly bars along the breast sides and flanks"
+    ],
+    "build": "Compact, big-headed shrike, about 18.5cm, a little larger than a sparrow, with a notably thick, deep, strongly hooked bill shorter than the head, short wings and a relatively short, rounded tail for a shrike. Legs sturdy, grey. Perches upright and still, often half-hidden at the edge of the canopy rather than on exposed tops.",
+    "avoid": [
+      "Do not paint a brown crown with a white supercilium and a plain unbarred back — that is Brown Shrike.",
+      "Do not paint a white wing patch or a long tail.",
+      "Do not paint a slim or pale bill; it is thick, deep and black.",
+      "Do not paint barring on the male's underparts; they are clean white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

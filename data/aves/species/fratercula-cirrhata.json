@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Tufted Puffin (Fratercula cirrhata), adult in breeding plumage: body entirely black, slightly browner on the underparts; face white like a mask from the bill base to behind the eye; long straw-yellow plumes springing from behind the eye and curving down the back of the head; huge, deep, laterally compressed bill, orange-red over most of its length with a pale yellowish-olive plate at the base of the upper mandible; pale iris surrounded by a red orbital ring; legs and feet bright orange-red.",
+    "pose": "floating on the sea, side view, yellow plumes lying along the nape",
+    "scene": "Calm East Sea off Korea's rocky northeast coast in late spring, clear light on blue water; no people, buildings or text",
+    "views": [],
+    "build": "Large, stocky auk, bigger than any auk regular in Korea and roughly Feral Pigeon length but much bulkier, with a big head and no visible neck. Bill massive, very deep and triangular in side view, laterally compressed. Legs short and set far back, giving an upright stance on rocks. Wings short and narrow, with fast whirring flight and an all-dark underwing. Tail short and rounded. In winter the face turns dark grey, the plumes are lost and the bill becomes smaller and duller.",
+    "avoid": [
+      "Do not paint white underparts; Horned and Atlantic Puffins have white bellies, the Tufted Puffin is black below.",
+      "Do not paint the blue-grey, yellow and red banded bill of Atlantic Puffin; this bill is orange-red with a yellowish-olive base.",
+      "Do not paint a pale horn on the bill or white whiskers on a grey-brown bird (Rhinoceros Auklet, Cerorhinca monocerata).",
+      "Do not omit the long yellow head plumes of breeding plumage."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

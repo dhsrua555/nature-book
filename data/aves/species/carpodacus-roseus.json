@@ -54,13 +54,24 @@
     }
   ],
   "art": {
-    "subject": "Pallas's Rosefinch (Carpodacus roseus), adult male winter: dark red lores and area around the upper mandible, scaly silvery-grey forehead and crown grading through the hindcrown into a dark red hindneck, red back feathers with narrow black shaft streaks and pale buff fringes, pointed scaly reddish-silver throat feathers, rose-red neck sides and underparts, blackish-brown flight feathers, nearly conical dark brown bill, brownish-chestnut iris, dark brown legs",
+    "subject": "Pallas's Rosefinch (Carpodacus roseus), adult male in winter, as seen in Korean woodland from October to March: lores and the area around the base of the upper mandible dark red; forehead and crown silvery-grey and scaly, the pale frosted feather tips lying over red, grading through the hindcrown into a deep red hindneck; mantle and back red with narrow black shaft streaks and pale buff fringes; rump unstreaked rose-pink; wings blackish-brown with pale pinkish-white tips to the median and greater coverts forming two wing-bars, tertials pale-edged; throat feathers pointed and scaly, silvery with a red tint; neck sides, breast and flanks rose-red, paling to whitish-pink on the lower belly and undertail coverts; tail blackish-brown with narrow pale edges. Bill stout and nearly conical, dark brown; iris brownish-chestnut; legs dark brown.",
     "pose": "hopping on the ground among grass beneath shrubs, foraging",
     "scene": "Korean winter woodland edge: mixed forest beside farmland on low hills, dry grass under shrubs; no people, buildings or text",
     "views": [
-      "adult male winter, side view on ground: silvery-grey scaly crown, red back with black shaft streaks, rose-red underparts, blackish-brown flight feathers",
-      "head detail: dark red lores, scaly silvery-grey forehead and crown, scaly reddish-silver throat, conical dark brown bill"
-    ]
+      "adult male winter, side view on the ground: frosted silvery-grey scaly forehead and crown, red back with black shaft streaks and buff fringes, rose-pink rump, rose-red neck sides and underparts, blackish-brown flight feathers with two pale wing-bars",
+      "adult male winter, head detail in side view: dark red lores and area around the upper mandible, silvery-grey scaly forehead and crown, pointed scaly reddish-silver throat feathers, stout nearly conical dark brown bill, dark eye",
+      "adult female, side view on the ground: grey-brown upperparts and buffish underparts both densely streaked dark brown, faint pinkish-orange wash on the forehead, breast and rump, same stout bill and dark legs"
+    ],
+    "build": "A fairly large, plump rosefinch, about 17.5cm, clearly bigger and longer-tailed than a Eurasian Tree Sparrow. Rounded head without a crest, short thick neck. Bill short (shorter than the head), stout and almost conical, the culmen only slightly curved. Legs short, dark brown; hops on the ground. At rest the wingtips reach only the base of the tail. Tail fairly long, dark, with a shallow notch at the tip and no white outer feathers. Usually in small flocks feeding on seeds on the ground under shrubs or in low bushes.",
+    "avoid": [
+      "Do not paint a plain, evenly red head; the forehead, crown and throat must look frosted with silvery scaly feather tips.",
+      "Do not give it white outer tail feathers or a long graduated tail; those belong to Long-tailed Rosefinch.",
+      "Do not draw a huge swollen grosbeak bill or a fine pointed bill; it is a short, almost conical finch bill.",
+      "Do not paint the back plain unstreaked red; it has narrow black shaft streaks.",
+      "Do not give the female any of the male's rose-red colour on the body."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

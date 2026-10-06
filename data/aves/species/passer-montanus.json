@@ -77,14 +77,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Eurasian Tree Sparrow (sexes alike; East Asian subspecies saturatus, rich dark brown), about 14.5 cm long. Crown and nape rich chestnut; lores, chin and a small throat bib black; cheeks and ear-coverts white with a bold black kidney-shaped spot; a white half-collar separating the nape from the back; mantle and back warm brown boldly streaked black; wings brown with two narrow white wing bars; breast and belly greyish-white, flanks pale buff; stout conical black bill; dark eye; pale pinkish-brown legs.",
+    "subject": "Eurasian Tree Sparrow (Passer montanus), adult (sexes alike) in early autumn (September), as seen at Korean rice paddies: crown and nape rich chestnut; lores, chin and a small, neat throat bib black; cheeks and ear-coverts white with a bold black kidney-shaped spot; a white half-collar from the cheeks round the sides of the neck; mantle and back warm brown boldly streaked black; wings brown with black-centred coverts and two narrow white wing bars; rump plain brown; breast and belly greyish-white, flanks pale buff; tail brown, slightly notched. Stout conical black bill; dark brown eye; pale pinkish-brown legs.",
     "pose": "perched on a drooping, ripening rice stalk, body angled forward, head turned to show the cheek spot",
     "scene": "edge of a Korean rice paddy in early autumn, golden ripening rice and a strip of reeds and grasses along a field ditch, low hills in the soft background; no people, buildings or text",
     "views": [
-      "adult, perched, side view",
-      "adult, front view showing black bib, white cheeks with black spots and white half-collar",
-      "juvenile, perched, side view (fainter cheek spot and bib, yellow base to the bill)"
-    ]
+      "adult, perched, side view: chestnut crown and nape, white cheek with a black spot, small black bib, white half-collar, black-streaked warm brown back, two narrow white wing bars, greyish-white underparts, pale legs",
+      "adult, front view perched with the head facing forward: small black bib, white cheeks each with a black spot, white half-collar round the neck sides, chestnut crown",
+      "juvenile (May–August), perched, side view: duller brown crown, greyish and fainter cheek spot and bib, yellow base and gape to the bill, duller plumage overall"
+    ],
+    "build": "Small, chunky sparrow, 14.5cm; plump body, rounded head and short, thick neck; hops on the ground and perches on stalks and wires. Bill short, thick and conical, much shorter than the head. Legs short, pale pinkish-brown. At rest the wingtips reach a little past the base of the tail. Tail medium length, slightly notched, plain brown. Flight fast and whirring on short, rounded wings.",
+    "avoid": [
+      "Do not paint a grey crown or a large black bib spreading onto the breast — that is the male House Sparrow (Passer domesticus).",
+      "Do not leave out the black cheek spot; Russet Sparrow (Passer cinnamomeus) lacks it.",
+      "Do not paint males and females differently; both sexes look the same.",
+      "Do not paint a thin pointed bill or a streaked breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

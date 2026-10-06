@@ -52,13 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ashy Minivet (Pericrocotus divaricatus), adult male: white forehead and forecrown, black hindcrown and nape, white supercilium above the lores, black eye-stripe from the bill base through the eye, white ear coverts darkening towards the rear, thin white line below the eye, white chin, throat and neck sides, black tail with long white wedge-shaped tips on the outer feathers, black bill, brown iris, black legs",
+    "subject": "Ashy Minivet (Pericrocotus divaricatus), adult male as seen in Korean woods from May to September: forehead and front half of the crown white; rear crown and nape black; a short white supercilium above the lores; a black line from the bill base through the eye; ear-coverts white, greyer towards the rear; a thin white line below the eye; chin, throat, neck sides and all underparts white, the flanks faintly grey; back, rump and wing coverts clean ash-grey; flight feathers black with a white bar across their bases; tail black, the outer feathers with long white wedge-shaped tips. Bill black; brown iris; legs black.",
     "pose": "perched at the very top of a tall tree, side view",
     "scene": "a lone tall tree at the edge of deciduous broadleaf woodland in Korean summer; no people, buildings or text",
     "views": [
-      "adult male, side view perched: white forehead, black hindcrown and nape, white supercilium, black eye-stripe, white throat, black bill and legs",
-      "adult male, tail from below: black tail with long white wedge-shaped tips"
-    ]
+      "adult male, side view perched: white forehead and forecrown, black hindcrown and nape, black eye-stripe, white throat and underparts, ash-grey back, black wings, black bill and legs",
+      "adult male in flight seen from below: white body, black tail with long white wedge-shaped tips on the outer feathers, white bar across the black flight feathers",
+      "adult female, side view perched: grey crown and nape with white restricted to a narrow forehead band, greyish eye-stripe, paler grey back, white underparts"
+    ],
+    "build": "Slim, long-tailed songbird, about 20cm, longer and much slimmer than a sparrow, with a small rounded head, upright stance on treetop perches and a long, graduated tail that extends well beyond the wingtips. Bill short, black, slightly hooked. Legs short, black. Flies high in loose flocks with undulating flight, showing a white wing-bar.",
+    "avoid": [
+      "Do not paint any red, orange or yellow; Ashy Minivet is only grey, black and white, unlike other minivets.",
+      "Do not give the male a grey crown; his forecrown is white and hindcrown black.",
+      "Do not paint a brown back; it is clean ash-grey.",
+      "Do not paint it walking on the ground with a wagging tail like a wagtail; it perches in treetops."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -39,13 +39,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Sparrowhawk (Accipiter soloensis), adult: blue-grey upperparts, pale orange breast, white lower belly",
+    "subject": "Chinese Sparrowhawk (Accipiter soloensis), adult male, as seen in Korean lowland countryside from May to September: crown, nape, back and upperwings blue-grey, the head slightly darker; cheeks pale grey; throat whitish; breast and upper flanks plain pale orange-pink, unbarred or with only faint wavy bars, fading into a white lower belly, thighs and undertail coverts. Tail grey with faint narrow darker bars. Underwing almost unmarked whitish to pale buff, with sharply black tips to the outer primaries. Iris very dark red-brown; cere conspicuously swollen and orange; bill short, grey at the base and black at the tip; legs orange-yellow.",
     "pose": "perched on a branch at a woodland edge, watching for frogs",
     "scene": "Korean summer countryside: a grove of trees beside rice paddies on flat farmland; no people, buildings or text",
     "views": [
-      "adult, side view perched: blue-grey upperparts, pale orange breast, white lower belly",
-      "adult, front view perched: pale orange breast grading to a white lower belly"
-    ]
+      "adult male, side view perched: blue-grey upperparts, pale grey cheek, plain pale orange breast, white lower belly, dark red-brown eye, swollen orange cere, long wingtips reaching well down the grey tail",
+      "adult male, front view perched: pale orange breast grading into a white lower belly and white thighs, whitish throat, orange cere, orange-yellow feet",
+      "adult male, in flight seen from below: almost unmarked whitish underwing with sharply black outer primary tips, pale orange breast, white belly, faintly barred grey tail"
+    ],
+    "build": "Small hawk, a little smaller than a Feral Pigeon; females larger than males. Compact body, rounded head. For an Accipiter the wings are long and pointed; at rest the wingtips reach well down the tail, further than in other small Accipiters. Tail medium-long and square-ended. Legs orange-yellow. Hunts frogs and large insects from a perch at woodland edges beside paddies. In flight glides on pointed wings, looking pale below with dark wingtips.",
+    "avoid": [
+      "Do not paint a yellow iris on the adult male; it is very dark red-brown (a yellow iris marks the female).",
+      "Do not cover the underparts with dense rufous or brown barring (Japanese or Eurasian Sparrowhawk).",
+      "Do not paint a barred underwing or a white supercilium; the underwing is plain pale with black tips.",
+      "Do not paint a small, flat yellow cere; this species has a swollen orange cere."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

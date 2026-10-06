@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pin-tailed Snipe (Gallinago stenura), adult: rufous-brown plumage overall with narrow white lines on the back, long straight bill, about 26 tail feathers, the outer seven pairs stiff, narrow and pin-like",
+    "subject": "Pin-tailed Snipe (Gallinago stenura), adult, as seen in Korean rice fields on migration in April–May and August–October: head with a buff central crown stripe between blackish lateral crown stripes, a broad buff supercilium that is wider than the dark eye-stripe at the base of the bill, and a dark cheek bar; upperparts mottled blackish-brown and rufous-buff, with narrow pale buff lines along the mantle and scapulars; wing coverts closely barred buff and dark, looking paler than the back. Neck and breast buff, spotted and streaked dark brown; flanks barred; belly white. Bill straight, greyish-brown with a darker tip; eye dark, set high on the head; legs greenish-yellow.",
     "pose": "standing in a wet rice field, side view",
     "scene": "Korean rice paddies during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: rufous-brown overall, narrow white lines on the back, long straight bill",
-      "adult in flight: white edge to the secondaries",
-      "tail detail, spread: stiff, narrow pin-like outer tail feathers"
-    ]
+      "adult, side view standing in a wet paddy: buff-and-blackish striped head with broad buff supercilium at the bill base, cryptic blackish and buff upperparts with narrow pale back lines, paler barred wing coverts, long straight bill, very short tail, greenish-yellow legs",
+      "adult, in flight seen from above: dark upperwing with a paler barred covert panel, no clear white trailing edge to the secondaries, toes projecting beyond the short tail",
+      "adult, tail spread seen from above: rufous central tail feathers with a dark subterminal band, and on each side several pairs of very narrow, stiff, pin-like outer feathers"
+    ],
+    "build": "Medium-sized snipe, a little smaller than a Feral Pigeon, stocky and short-necked. Bill straight and long, clearly longer than the head but relatively shorter than a Common Snipe's. Legs short, greenish-yellow. Tail very short, barely projecting beyond the tertials, which cover the primary tips at rest. In flight looks dark-winged, without a clear white trailing edge to the secondaries, and the toes project beyond the tail tip; the spread tail shows several pairs of very narrow, stiff, pin-like outer feathers. Crouches and freezes in wet grass; flushes with a short zig-zag.",
+    "avoid": [
+      "Do not paint a bold white trailing edge to the secondaries in flight — that is Common Snipe (Gallinago gallinago).",
+      "Do not paint a bill twice the head length or longer; it is relatively short for a snipe.",
+      "Do not paint a tail projecting well beyond the folded wings.",
+      "Do not paint long legs or a plain, unpatterned back."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

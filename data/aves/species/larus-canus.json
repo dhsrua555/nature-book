@@ -40,13 +40,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Gull (Larus canus), adult breeding: white head, neck, belly and tail, greenish-grey to yellow-green bill with a yellow tip",
+    "subject": "Common Gull (Larus canus), adult in winter plumage, of the large East Asian subspecies kamtschatschensis (Kamchatka Gull) that winters in Korea from November to March: white head and neck heavily smudged and streaked grey-brown, densest on the hindneck and around the eye; back and upperwings medium grey; outer primaries black with large white mirrors and white tips; white trailing edge and white tertial crescent; underparts and tail pure white. Bill slender, pale greenish-yellow with a yellow tip, often with a narrow dark band near the tip. Legs greenish-yellow to yellow.",
     "pose": "resting on the water at a river mouth, side view",
     "scene": "Korean river estuary in winter, tidal flats and calm water; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: white head, neck, belly and tail, greenish-grey bill with yellow tip",
-      "adult winter, head detail: white head with dark streaks"
-    ]
+      "adult winter (November–March), side view standing: grey-brown smudged and streaked white head, medium-grey back, black wingtips with white spots, white underparts and tail, slim greenish-yellow bill with yellow tip, greenish-yellow legs",
+      "adult breeding (from about March), head detail in profile: clean unstreaked white head, slim yellow-green bill with a yellow tip and no red spot",
+      "adult in flight seen from above, head, body and tail in one line: medium-grey upperwing with a white trailing edge, black wingtip with large white mirrors, white rump and tail"
+    ],
+    "build": "Medium-sized gull, clearly smaller and slimmer than Vega Gull and larger than Black-headed Gull; rounded head, gentle face, slender neck. Bill short and thin for a gull, with only a slight angle on the lower mandible and no red spot. Legs medium length, greenish-yellow. Long wings: at rest the black, white-tipped primaries project well beyond the white tail. In flight medium-grey upperwing with a broad white trailing edge and a black wingtip containing large white mirrors. Tail square and all white.",
+    "avoid": [
+      "Do not paint a red spot on the bill or pink legs — those mark Vega Gull.",
+      "Do not paint a black tail band on the adult — that is Black-tailed Gull (Larus crassirostris).",
+      "Do not paint a heavy, deep bill or a flat-crowned, fierce head; this gull is gentle-faced and slim-billed.",
+      "Do not show a clean white breeding head on birds in a winter scene."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

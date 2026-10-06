@@ -50,13 +50,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Tern (Chlidonias niger), adult: black bill, head and breast, whitish scapulars, grey back and wing coverts, dark grey primaries with white areas, dark red legs",
+    "subject": "Black Tern (Chlidonias niger), adult in breeding plumage, as on spring passage in May: head, neck, breast and belly sooty black, darkest on the head; undertail coverts white; mantle, back, scapulars, rump, tail and upperwing uniform medium grey, the outer primaries a shade darker; underwing pale grey, distinctly paler than the upperwing. Bill black, fine and straight; dark eye; legs short and dark red-brown.",
     "pose": "flying low over the sea with a flock",
-    "scene": "Korean coast in spring or autumn: an estuary opening onto the sea; no people, buildings or text",
+    "scene": "Korean estuary opening onto the sea in May, terns hawking low over calm water under a clear sky; no people, buildings or text",
     "views": [
-      "adult, side view perched: black bill, head and breast, whitish scapulars, grey back and wing coverts, dark red legs",
-      "adult, in flight from above: grey wing coverts, dark grey primaries with white areas"
-    ]
+      "adult breeding plumage (May), side view perched on a post: black head and bill, sooty-black breast and belly, white undertail coverts, uniform grey back, scapulars and wing coverts, wingtips beyond the short grey tail, short dark red legs",
+      "adult breeding plumage, in flight seen from below: black head and body contrasting with pale grey underwing, white undertail coverts, grey tail with a shallow fork",
+      "adult breeding plumage, in flight seen from above: uniform grey upperwing, mantle, rump and tail, the outer primaries slightly darker grey"
+    ],
+    "build": "Small, slim marsh tern, clearly smaller than Black-headed Gull, with a rounded head and a buoyant, dipping flight, picking food from the water surface rather than plunge-diving. Bill black, slender, about as long as the head. Legs very short, dark reddish. At rest the long wingtips project well beyond the tail. Tail short, grey, with a shallow fork. Non-breeding and juvenile birds are white on the forehead and underparts, with a black rear crown and ear patch and a dark grey patch on the side of the breast.",
+    "avoid": [
+      "Do not paint white wing coverts, a white rump and tail, or black underwing coverts; those mark White-winged Tern (Chlidonias leucopterus).",
+      "Do not paint white cheeks on a grey body (Whiskered Tern, Chlidonias hybrida).",
+      "Do not paint the scapulars white; they are the same grey as the back.",
+      "Do not give it a red bill or long legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

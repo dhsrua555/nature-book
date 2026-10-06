@@ -59,13 +59,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Carrion Crow (Corvus corone), adult: all-black plumage with a green gloss, slender black bill, black legs",
+    "subject": "Carrion Crow (Corvus corone), adult (sexes alike) in early spring: entirely black — head, body, wings and tail — with a subdued metallic gloss that shows greenish to violet-blue in good light on the wings, back and tail; head feathers smooth and tight; black nasal bristles cover the base of the upper mandible; bill black, fairly slender for a crow; dark brown eye; black legs and feet.",
     "pose": "perched on top of a tall tree, side view",
     "scene": "tall trees beside Korean farmland and hills in early spring; no people, buildings or text",
     "views": [
-      "adult, winter, side view perched: all black with a green gloss, slender black bill, black legs",
-      "adult, summer, side view perched: all black with a slight brownish tinge"
-    ]
+      "adult in winter or early spring, side view perched on a treetop branch: entirely black with a faint greenish gloss on the wings and back, flat crown running smoothly into a fairly slender straight black bill, black legs, square tail",
+      "adult in worn summer plumage, side view perched: still all black but duller, with a slight brownish tinge on the wings and tail, the same flat crown and slender bill"
+    ],
+    "build": "Large crow, 50cm: bigger and much heavier than a Eurasian Magpie, slightly smaller and slimmer-billed than the Large-billed Crow. Crown rather flat, sloping smoothly into the bill without a steep forehead. Bill black, about as long as the head, fairly straight, the upper mandible curving down gently only near the tip. Legs black and sturdy, medium length; walks with a confident stride. At rest the wingtips reach close to the tail tip. Tail medium-length and square-ended. In flight the wings are broad with fingered tips.",
+    "avoid": [
+      "Do not paint a steep, domed forehead and a very thick, deeply arched bill — that is Large-billed Crow (Corvus macrorhynchos).",
+      "Do not paint a bare whitish-grey face around the bill base — that is an adult Rook (Corvus frugilegus).",
+      "Do not add a grey collar or grey body (Daurian Jackdaw, Hooded Crow) or a pale eye.",
+      "Do not make the tail long or wedge-shaped; it is square-ended and of medium length."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Kamchatka Leaf Warbler (Phylloscopus examinandus), adult, as seen in Korean woodland during passage in late May-June and September: upperparts olive-green, the crown the same colour; a long yellowish-white supercilium that stops short of the forehead; a dark eye-stripe running right to the bill base; one narrow whitish wing-bar on the greater coverts, sometimes a trace of a second; underparts whitish with a faint yellowish wash and greyish-olive flanks; bill fairly long and strong, dark above with a pale orange-yellow lower mandible tipped dark; dark eye; pale straw to pinkish-brown legs.",
+    "pose": "gleaning among leaves in a tree canopy, side view",
+    "scene": "Korean deciduous woodland in late May during spring passage, fresh green foliage; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized leaf warbler, a little smaller than a sparrow but sturdier than most leaf warblers, with a fairly long, strong bill, a flat crown and long wings. Bill straight and pointed, shorter than the head. Legs pale straw to pinkish-brown. At rest the long primaries project well beyond the tertials, and the tail extends a little beyond the wingtips. Active in the canopy, gleaning among leaves. In looks it is practically identical to Arctic Warbler and is told mainly by its call and song.",
+    "avoid": [
+      "Do not paint two bold wing-bars and dark grey legs - that is Two-barred Warbler.",
+      "Do not paint a pale central crown stripe (Eastern Crowned Warbler) or a yellow rump (Pallas's Leaf Warbler).",
+      "Do not paint bright yellow underparts or a short stubby bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

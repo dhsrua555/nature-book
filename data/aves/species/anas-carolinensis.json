@@ -33,12 +33,21 @@
     }
   ],
   "art": {
-    "subject": "Green-winged Teal (Anas carolinensis), adult: small duck similar in shape and colour to Eurasian Teal, with a white stripe at the border between breast and flanks",
+    "subject": "Green-winged Teal (Anas carolinensis), adult male in breeding plumage, as seen in Korea from November to March: head chestnut with a broad, glossy green band from the eye to the nape, edged only faintly with thin buff lines; breast pinkish-buff with small dark spots; a bold vertical white bar on the side of the breast in front of the wing; flanks and back finely vermiculated grey, with no horizontal white stripe along the scapulars; a creamy-yellow triangle edged black on the side of the undertail; green speculum. Bill black; dark eye; legs grey.",
     "pose": "swimming on calm water, side view",
-    "scene": "Korean wetland: shallow pond with grassy margins and reeds; no people, buildings or text",
+    "scene": "Korean wetland in winter: shallow pond with grassy margins and dry reeds; no people, buildings or text",
     "views": [
-      "adult, side view swimming: Eurasian Teal-like shape and colours, white stripe between breast and flanks"
-    ]
+      "adult male, side view swimming: chestnut head with a glossy green eye-to-nape band, vertical white bar on the breast side, grey flanks without a horizontal white scapular stripe, creamy-yellow undertail triangle edged black"
+    ],
+    "build": "Very small dabbling duck, 32–39 cm, much smaller than a Mallard, compact with a short neck and a rather large rounded head. Bill black, short and narrow, shorter than the head. Legs short, grey. At rest the wingtips reach close to the tail tip. Tail short and pointed. Swims buoyantly in shallow water and dabbles at the edges; flies fast in tight flocks.",
+    "avoid": [
+      "Do not paint a horizontal white stripe along the scapulars; that is the male Eurasian Teal (Anas crecca).",
+      "Do not give the green head band bold creamy-white borders; on this species they are faint.",
+      "Do not paint the male in brown eclipse plumage in a winter scene.",
+      "Do not make it as large as a Mallard."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

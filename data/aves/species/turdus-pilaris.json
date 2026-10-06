@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Fieldfare (Turdus pilaris), adult in winter (sexes similar): head and nape blue-grey with a faint whitish supercilium and dark lores; mantle and scapulars rich chestnut-brown; rump pale blue-grey; wings brown; tail blackish; throat and breast washed golden-buff and heavily marked with black arrowhead spots and streaks; flanks white with dense black chevrons; belly white; bill yellow with a dark tip; dark eye; dark brown legs.",
+    "pose": "perched on a bare branch with berries, side view",
+    "scene": "orchard edge and berry shrubs in Korea in winter, light snow on the ground; no people, buildings or text",
+    "views": [],
+    "build": "A large, robust thrush, larger than a Dusky Thrush, with an upright stance and a long tail. Rounded head. Bill straight and stout, slightly shorter than the head. Legs medium, dark brown. Tail long, square, blackish, contrasting with the grey rump in flight. In flight the underwing coverts are white. Usually in flocks feeding on berries or open fields.",
+    "avoid": [
+      "Do not paint a brown head or rump; both are grey, contrasting with the chestnut back.",
+      "Do not paint a bold white supercilium (Redwing); it is faint.",
+      "Do not paint evenly spaced round spots on white (Mistle Thrush); the breast is golden-buff with arrowhead spots.",
+      "Do not give it a brown tail; it is blackish."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

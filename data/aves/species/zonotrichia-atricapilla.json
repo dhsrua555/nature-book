@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Golden-crowned Sparrow (Zonotrichia atricapilla), adult in spring (breeding) plumage, a vagrant in Korea in April: a broad black cap covering the sides of the crown, with a golden-yellow patch on the forecrown that fades to pale grey on the rear crown; face, throat and breast plain grey; belly whitish; flanks warm buff-brown; mantle brown with dark streaks; wings brown with two white wing bars; tail long and plain brown. Bill dusky grey above, paler below; eye dark; legs pinkish.",
+    "pose": "foraging on the ground beside a thicket, side view",
+    "scene": "thicket edge and grassy field margin in Korea in early spring (April), fresh green buds, soft light; no people, buildings or text",
+    "views": [],
+    "build": "A large, long-tailed American sparrow, clearly larger than a House Sparrow, plump with a rounded crown; feeds on the ground near cover with an upright stance. Bill conical, rather small, shorter than the head. Legs pinkish, medium length. The long tail extends well beyond the wingtips; tail plain brown with no white.",
+    "avoid": [
+      "Do not paint white crown stripes or a white supercilium — that is White-crowned Sparrow.",
+      "Do not paint a pink or orange bill; Golden-crowned Sparrow's bill is dusky grey.",
+      "Do not paint yellow on the face or underparts; the yellow is confined to the forecrown.",
+      "Do not streak the grey breast."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

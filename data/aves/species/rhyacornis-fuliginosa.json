@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Plumbeous Water Redstart (Rhyacornis fuliginosa), adult male: entire head and body dark slate-blue (plumbeous), slightly paler on the belly; wings dark brownish-grey; rump, uppertail coverts, undertail coverts and the whole tail deep chestnut-rufous. Bill short and black; dark eye; legs dark brown to blackish. The female, if shown, is blue-grey above, white below with dense grey scaling, with white spots on the wing-coverts and a white base to the tail.",
+    "pose": "standing on a wet boulder in a stream, rufous tail fanned and flicked, side view",
+    "scene": "fast, clear mountain stream with mossy boulders in a Korean valley in spring; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact chat, a little smaller than a sparrow, round-bodied with a short neck. Bill short, thin and straight. Legs fairly long, slender, dark. Short wings; tail short to medium, square-ended, constantly fanned open and wagged up and down or flicked sideways. Perches on wet boulders in rushing water, making short sallies after insects.",
+    "avoid": [
+      "Do not paint a white cap or a black-and-chestnut body; that is White-capped Water Redstart (Phoenicurus leucocephalus).",
+      "Do not paint orange underparts or a white wing patch (Daurian Redstart).",
+      "Do not give the male any white in the tail; the whole tail is chestnut-rufous."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

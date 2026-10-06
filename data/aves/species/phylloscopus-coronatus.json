@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eastern Crowned Warbler (Phylloscopus coronatus), adult: brownish dark olive crown with a brown stripe from forehead to crown, olive upperparts, dull white chin, throat, breast and belly with a yellow belly centre, pale yellow undertail coverts, dark brown upper mandible, pale yellow lower mandible, brown legs",
+    "subject": "Eastern Crowned Warbler (Phylloscopus coronatus), adult (sexes alike), as seen in Korean deciduous forest from May to August: crown dark olive with a pale greyish-white median crown stripe from the forehead to the nape; long yellowish-white supercilium; dark olive eye-stripe; upperparts bright olive-green; wings olive with one faint narrow yellowish wing-bar; underparts silky dull white, at most faintly yellow-tinged on the belly centre, with clearly pale yellow undertail coverts. Bill fairly large for a leaf warbler: upper mandible dark brown, lower mandible entirely pale orange-yellow. Dark eye. Brownish legs.",
     "pose": "foraging alone among the leaves of a deciduous tree, side view",
     "scene": "Korean lowland deciduous broadleaf forest at the foot of a mountain in late spring; no people, buildings or text",
     "views": [
-      "adult, side view perched: brown stripe from forehead to crown, olive upperparts, dull white underparts with yellow belly centre, pale yellow undertail coverts, brown legs",
-      "adult, head detail from above: brown stripe from forehead to crown on a dark olive crown; dark brown upper and pale yellow lower mandible"
-    ]
+      "adult, side view perched on a twig: pale median crown stripe between dark olive crown sides, yellowish-white supercilium, dark eye-stripe, olive-green upperparts with one faint wing-bar, dull white underparts with a faint yellow belly centre, pale yellow undertail coverts, brownish legs",
+      "adult, head detail from above and slightly to the side: pale central crown stripe from forehead to nape bordered by dark olive lateral crown stripes; dark brown upper and pale orange-yellow lower mandible"
+    ],
+    "build": "Small leaf warbler, a little smaller than a sparrow and slimmer, with a relatively large head and long bill for its group; slim and active, usually in the mid-canopy. Bill thin, straight, pointed, a little shorter than the head, with a wholly pale lower mandible. Legs medium length, brownish. Wings fairly long and pointed. Tail medium length, square to slightly notched. Constantly moving, often flicking its wings.",
+    "avoid": [
+      "Do not paint a plain, unstriped crown; the pale central crown stripe is the key mark (Arctic Warbler lacks it).",
+      "Do not paint two bold white wing-bars or a yellow rump (Pallas's Leaf Warbler).",
+      "Do not paint a yellow throat and breast; the clearly yellow part is the undertail coverts.",
+      "Do not paint an all-dark bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

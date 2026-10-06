@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Taiga Bean Goose of the subspecies Anser fabalis middendorffi, adult (sexes alike), as seen in Korea in winter: head and long neck dark chocolate-brown, darker than the body; mantle and wing coverts grey-brown with pale buff fringes forming neat transverse bars; breast and belly pale grey-brown; flanks darker brown with pale bars and a white line along their upper edge; vent, undertail coverts and a narrow band of uppertail coverts white; tail dark grey-brown with a white tip. Long black bill with an orange band near the tip and a black nail; dark brown eye; orange legs.",
+    "pose": "standing on the muddy edge of a reservoir with its long neck held upright, side view, the long bill shown in clear profile",
+    "scene": "Korean winter: the shallow margin of a wide reservoir with dry reeds and harvested rice fields beyond, low soft winter light; no people, buildings or text",
+    "views": [],
+    "build": "The largest form of bean goose: a big, long-necked grey-brown goose, much larger than a Mallard and clearly bigger, longer-necked and longer-billed than Tundra Bean Goose. Head long with a gently sloping forehead, giving a long, wedge-shaped, almost swan-like profile. Bill long and fairly slender, about as long as the head, black with an orange band before the tip. Legs orange, medium length. In flight long-necked, with dark upperwings and a narrow white band across the uppertail coverts above the dark tail.",
+    "avoid": [
+      "Do not paint a short, deep-based bill with a steep forehead; that is Tundra Bean Goose, the common bean goose in Korea.",
+      "Do not paint a white forehead blaze or black belly bars; those belong to Greater White-fronted Goose (Anser albifrons).",
+      "Do not paint pink on the bill or pink legs; the bill band and the legs are orange.",
+      "Do not paint a pale grey head and neck or a pale grey forewing like Greylag Goose; the head and neck are dark brown."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

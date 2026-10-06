@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Great Frigatebird (Fregata minor), adult male: entire plumage black, with a green gloss on the mantle and scapulars and a paler brownish diagonal bar across the upperwing coverts; bare red throat pouch, showing only as a small red patch at the throat when not inflated; no white anywhere on the underparts or underwing. Bill long, grey, with a strongly hooked tip; legs and feet small and dark.",
+    "pose": "soaring high on motionless, angled wings over the sea, seen from below",
+    "scene": "southern Korean sea in late summer after a typhoon, broken clouds over open water; no people, buildings or text",
+    "views": [],
+    "build": "Very large, slender seabird with an enormous wingspan for its light body, wider than a Grey Heron's. Head small, neck short. Bill longer than the head, slender, grey, ending in a sharp hook. Legs tiny, rarely seen in flight. Wings very long, narrow and sharply angled at the wrist, held in a crooked shape; soars for long periods without flapping. Tail very long and deeply forked, often held closed in a single long point.",
+    "avoid": [
+      "Do not paint white spurs extending from the belly onto the armpits — that is Lesser Frigatebird (Fregata ariel); the adult male Great Frigatebird is all black below.",
+      "Do not inflate a huge red balloon; away from breeding colonies the pouch shows only as a small red throat patch.",
+      "Do not draw a short or square tail; it is long and deeply forked.",
+      "Do not paint straight gull-like wings; they are long, narrow and sharply bent at the wrist."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

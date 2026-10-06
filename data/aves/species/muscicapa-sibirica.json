@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Dark-sided Flycatcher (Muscicapa sibirica), adult: dusky grey crown, pale grey lores with buffy-white feathers, dull grey cheeks and ear coverts, broad dull grey streaks on the jaw, breast, flanks and belly sides with the breast almost wholly grey, white chin, centre of throat, lower belly and undertail coverts, dull grey back, rump and uppertail coverts, dark brown tail, blackish-brown bill with a pale base to the lower mandible, brown iris, thin mouse-grey or brown legs",
+    "subject": "Dark-sided Flycatcher (Muscicapa sibirica), adult (sexes alike) on spring or autumn passage: crown, nape, back, rump and uppertail coverts dusky grey-brown, the tail darker brown; lores pale grey with buffy-white feathering and a neat whitish eye-ring; cheeks and ear coverts dull grey-brown with a dark malar stripe; chin and centre of the throat white, the white extending as a pale half-collar onto the neck sides; breast and flanks heavily smudged with broad, diffuse dusky grey-brown streaks, the breast often looking almost wholly dark; lower belly and undertail coverts white; wings dark brown with narrow pale edges to the tertials; small blackish-brown bill with a tiny pale base to the lower mandible; brown iris; thin, short dark grey legs.",
     "pose": "perched on a branch high in a tree, side view",
     "scene": "Korean woodland canopy during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view perched: dusky grey crown and upperparts, dark brown tail, grey-streaked breast and flanks, white undertail coverts, thin legs",
-      "adult, front view: white chin and centre of throat, breast almost wholly dull grey, broad grey streaks on the flanks, white lower belly"
-    ]
+      "adult, side view perched upright on a bare twig: dusky grey-brown upperparts, whitish eye-ring, long wingtips reaching well down the short tail, dark smudged breast and flanks, white undertail coverts, thin dark legs",
+      "adult, front view: white chin and centre of the throat with a pale half-collar, dark malar stripes, breast almost wholly dusky grey-brown, broad diffuse streaks on the flanks, white lower belly"
+    ],
+    "build": "Small, compact flycatcher, slightly smaller than a sparrow, with a large rounded head, short neck and upright stance on an exposed twig. Bill small and short, broad at the base, much shorter than the head and almost all dark. Legs short and thin. Wings long: at rest the primaries extend far beyond the tertials and reach about two-thirds of the way down the short square tail. Sallies out after flying insects and returns to the same perch.",
+    "avoid": [
+      "Do not paint crisp, narrow dark streaks on clean white underparts — that is Grey-streaked Flycatcher (Muscicapa griseisticta).",
+      "Do not paint a larger bill with a broad pale base and plain pale grey underparts — that is Asian Brown Flycatcher (Muscicapa dauurica).",
+      "Do not give it wing bars, a supercilium or any yellow or orange colour.",
+      "Do not paint short wings; the long primaries reach well down the tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

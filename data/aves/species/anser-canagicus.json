@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Emperor Goose (Anser canagicus), adult: white head and hindneck, black chin and throat, short thick neck, plump body, bluish dark grey body plumage with a bold scaly pattern on the back, white tail",
+    "subject": "Emperor Goose (Anser canagicus), adult: head and hindneck white, the face often stained rusty-orange; chin, throat and foreneck black; body bluish slate-grey, each feather of the back, scapulars, breast and flanks with a black subterminal band and a narrow white tip, giving a bold scaly pattern; flight feathers darker grey; tail white. Bill short, pale pink; dark eye; legs and feet bright orange.",
     "pose": "standing, side view",
     "scene": "coastal tundra lagoon shore with a shallow lake; no people, buildings or text",
     "views": [
-      "adult, side view standing: white head and hindneck, black chin and throat, bluish dark grey scaly body, white tail",
-      "adult, head detail: white head, black chin and throat, short thick neck"
-    ]
+      "adult, side view standing: white head and hindneck, black chin, throat and foreneck, short thick neck, bluish dark grey body with bold black-and-white scaling on the back and flanks, white tail, pink bill, orange legs",
+      "adult, head detail: white head often with rusty staining on the face, black chin and throat continuing down the foreneck, short thick neck, short pink bill"
+    ],
+    "build": "Medium-sized, compact goose, about 77 cm in the book, slightly smaller and plumper than Greater White-fronted Goose, with a short, thick neck and a small head. Bill small and short, much shorter than the head, pink. Legs short, orange. At rest the wingtips reach about the tail tip and the white tail shows beneath them. In flight uniformly dark blue-grey wings, white tail and white head.",
+    "avoid": [
+      "Do not paint a white body or black wingtips; that is Snow Goose (Anser caerulescens).",
+      "Do not paint a grey-brown head and neck like other grey geese; the head and hindneck are white.",
+      "Do not give it a long neck; it is short and thick.",
+      "Do not paint black legs; they are orange."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

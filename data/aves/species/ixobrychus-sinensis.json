@@ -55,13 +55,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow Bittern (Ixobrychus sinensis), adult male: mainly brown, black crown from forehead to nape, pale rufous-brown cheeks and ear coverts, white chin and sides of throat, dark brown back, whitish-brown underparts, black tail, pale greenish-yellow legs",
+    "subject": "Yellow Bittern (Ixobrychus sinensis), adult male in summer, as seen in Korean reed beds from May to August: crown black from the forehead to the nape; face, ear coverts and neck sides pale rufous-buff; chin and sides of the throat white; foreneck and underparts buffy-white with faint buff stripes; mantle and back warm brown; wing coverts pale yellowish-buff, contrasting with blackish flight feathers; tail black. Bill long and dagger-shaped, yellow with a dark upper ridge; bare lores yellow-green; iris yellow; legs and feet pale greenish-yellow.",
     "pose": "clinging to reed stems above the water, side view",
     "scene": "Korean summer reedbed along a pond edge, with tall green reeds and wild rice; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to reeds: black crown, pale rufous-brown face, dark brown back, whitish-brown underparts, black tail",
-      "adult female, head detail: rufous-brown crown from forehead to nape"
-    ]
+      "adult male, side view clinging to reeds: black crown, pale rufous-brown cheeks and ear coverts, white chin and throat sides, warm brown back, whitish-buff underparts, black tail, pale greenish-yellow legs",
+      "adult male, flight side view from above: pale buff wing coverts contrasting with blackish flight feathers, black tail, brown back"
+    ],
+    "build": "Very small heron, 37cm, a little longer than a pigeon and much slimmer. Neck long but usually drawn in; stretches it upright with the bill pointing up when alarmed. Bill straight, sharp and dagger-like, longer than the head. Legs medium length, greenish-yellow, with long toes for gripping reeds. Climbs and clings to reed stems, often straddling two stems above the water. At rest the wingtips reach about the tail tip. Tail very short. Flies low over the reeds; the pale buff wing coverts contrast with black flight feathers and tail.",
+    "avoid": [
+      "Do not paint the whole upperparts and wings chestnut; that is Cinnamon Bittern, which lacks black flight feathers.",
+      "Do not paint a black or dark chestnut back; those mark Little Bittern and Schrenck's Bittern males.",
+      "Do not draw long plumes or an upright, long-legged egret posture."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

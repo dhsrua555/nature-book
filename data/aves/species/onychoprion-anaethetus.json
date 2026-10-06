@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Bridled Tern (Onychoprion anaethetus), adult in breeding plumage, as a summer vagrant: black cap from the bill to the nape; a white forehead patch narrowing into a slim white supercilium that extends just behind the eye; a black loral stripe from the bill to the eye; a pale grey-white collar across the hindneck separating the cap from the back; mantle, back and upperwing dark grey-brown; underparts white with a faint grey wash; tail deeply forked, dark grey-brown with white outer feathers. Bill black; dark eye; legs black.",
+    "pose": "perched on a piece of floating driftwood, side view",
+    "scene": "Open sea south of Jeju Island in late summer after a typhoon, bright light on blue water; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, slender ocean tern, smaller than Black-tailed Gull, with long, narrow, pointed wings and a long, deeply forked tail. Bill black, slender, about as long as the head. Legs short, black. In flight the upperwing is dark grey-brown, and the underwing has white coverts and dark grey flight feathers. Flies buoyantly low over the sea, dipping to the surface for food; often rests on floating driftwood.",
+    "avoid": [
+      "Do not paint blackish upperparts without a pale hind-collar, or a broad white forehead that stops at the eye; those mark Sooty Tern (Onychoprion fuscatus).",
+      "Do not paint pale grey upperparts like Common Tern's.",
+      "Do not give it a red bill or red legs.",
+      "Do not omit the slim white supercilium extending behind the eye."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

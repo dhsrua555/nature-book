@@ -67,14 +67,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Indian Scops Owl (Otus bakkamoena), adult: grey-brown overall with irregular black streaks, buff underparts with bold black streaks, large ear tufts, red iris, grey collar on the hindneck, feathered toes",
+    "subject": "Indian Scops Owl (Otus bakkamoena), adult of the Korean resident population: plumage grey-brown, finely vermiculated and marked with irregular black streaks; prominent ear tufts; pale greyish-buff facial disc with a thin dark rim; whitish eyebrows; a pale buff-grey collar across the hindneck, sometimes visible; a row of buff-white spots on the scapulars; underparts buff to greyish-buff with bold black shaft streaks and fine wavy cross-bars; legs and toes feathered. Iris orange-red to red, rarely yellow.",
     "pose": "perched upright beside a tree hollow at night, ear tufts raised",
     "scene": "Korean woodland of large old trees and conifers at night, an old trunk with a nest hollow; no people, buildings or text",
     "views": [
-      "adult, front view perched: large ear tufts, red eyes, buff underparts boldly streaked black, feathered toes",
-      "adult, side view perched: grey-brown with irregular black streaks, grey hindneck collar",
-      "variant, head detail: rare yellow-eyed individual"
-    ]
+      "adult, front view perched: raised ear tufts, orange-red eyes, pale facial disc with a dark rim, buff underparts with bold black shaft streaks and fine cross-bars, feathered toes",
+      "adult, side view perched: grey-brown upperparts with irregular black streaks, buff-white scapular spots, pale buff-grey collar on the hindneck",
+      "rare yellow-eyed individual, head close-up from the front: same face pattern and ear tufts but with yellow irises"
+    ],
+    "build": "Small, stocky owl, 24cm, clearly larger and heavier than the Oriental Scops Owl, about the length of a Brown-eared Bulbul but much bulkier; big rounded head with conspicuous ear tufts that can be raised or flattened. Bill short and hooked, mostly hidden in the facial feathers. Legs and toes feathered greyish-buff. Wings fairly short and rounded. Sits upright, pressed against a trunk with the ear tufts raised when alarmed.",
+    "avoid": [
+      "Do not paint bare toes; legs and toes are feathered (Oriental Scops Owl has bare toes).",
+      "Do not make yellow eyes the normal colour; most birds have orange-red to red eyes.",
+      "Do not paint a long slim body with an orange facial disc — that is Long-eared Owl.",
+      "Do not paint it tiny and slim like the Oriental Scops Owl; it is bulky."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

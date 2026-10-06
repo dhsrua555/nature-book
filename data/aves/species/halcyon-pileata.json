@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-capped Kingfisher (Halcyon pileata), adult male: matt jet-black head, thin white line below the eye, buffy-white chin, throat, breast and collar, the collar black along its lower edge, glossy blue back, scapulars, rump and uppertail coverts, blue tail with black inner webs and undersides to the outer feathers, paler centre of the belly, long pointed bill with a straight culmen",
+    "subject": "Black-capped Kingfisher (Halcyon pileata), adult (sexes similar), as seen along Korean rivers in summer: whole head jet-black down to below the eye; broad white collar around the neck; chin, throat and breast white to buffy white; belly, flanks and undertail rich orange-rufous with a paler centre to the belly; wing coverts black, forming a black shoulder; mantle, back, rump, outer edges of the flight feathers and tail deep glossy violet-blue. Bill very large, straight and dagger-like, bright coral-red; dark eye; legs and feet red.",
     "pose": "perched alone on a branch above a stream",
     "scene": "Korean riverside in summer with an earthen bank and a hillside cliff; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black head, white line below the eye, buffy-white collar and breast, glossy blue back, long pointed bill",
-      "adult female, breast detail: breast feathers edged dusky black"
-    ]
+      "adult, side view perched: jet-black head, white collar and throat, buffy-white breast, orange-rufous belly, black shoulder, glossy violet-blue back, wings and tail, huge coral-red bill, red feet",
+      "adult in flight, seen from above: violet-blue back and tail, black wing coverts, large white patches at the base of the primaries"
+    ],
+    "build": "Large kingfisher, about 28cm, about the length of a Brown-eared Bulbul but much stockier, big-headed and short-tailed; perches upright. Bill massive, longer than the head, straight on the ridge with the lower edge slightly angled, thick at the base and pointed. Legs very short, red. Tail medium-length and square-ended. In flight a large white patch at the base of the primaries shows on each wing, contrasting with the black coverts and blue flight feathers.",
+    "avoid": [
+      "Do not paint a black or dark bill; the bill is bright coral-red.",
+      "Do not paint a chestnut-brown head and belly with a white bib; that is White-throated Kingfisher (Halcyon smyrnensis).",
+      "Do not paint all-rufous plumage (Ruddy Kingfisher, Halcyon coromanda) or the small turquoise Common Kingfisher.",
+      "Do not paint blue wing coverts or a white belly; the coverts are black and the belly orange-rufous."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

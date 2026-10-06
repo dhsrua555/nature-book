@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Tickell's Leaf Warbler (Phylloscopus affinis), adult, as seen in Korea on spring migration: crown and upperparts dark olive-green with a slight brownish tone, no crown stripe; long, bright yellow supercilium from the bill base to the rear of the ear-coverts; dark olive eye-stripe; cheeks yellowish-olive; wings and tail darker olive-brown with green edges and no wing-bars; underparts bright lemon-yellow from chin to undertail, slightly olive on the flanks. Bill fine, dark with a paler base to the lower mandible; dark eye; legs dark brown.",
+    "pose": "foraging low in a leafy shrub, side view",
+    "scene": "shrubs and young trees on a Korean offshore island during spring migration in May; no people, buildings or text",
+    "views": [],
+    "build": "Small leaf warbler, smaller than a sparrow, slim with a rounded head. Bill fine and straight, shorter than the head. Legs slender, dark. At rest the primary projection is short and the wingtips end well short of the tail tip. Tail medium length, square-ended. Forages low in bushes and scrub, often flicking its wings and tail.",
+    "avoid": [
+      "Do not add wing-bars; they mark Yellow-browed and Arctic warblers.",
+      "Do not paint buff or whitish underparts; the underparts are bright yellow throughout.",
+      "Do not give it a pale crown stripe (Eastern Crowned Warbler).",
+      "Do not paint a thick, stubby bill (Radde's Warbler, Phylloscopus schwarzi)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

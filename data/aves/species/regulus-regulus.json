@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Goldcrest (Regulus regulus), adult male: greenish-brown overall with pale yellowish-white underparts, broad yellow crown stripe with a red centre, white eye-ring, two white wing bars",
+    "subject": "Goldcrest (Regulus regulus), adult male, as seen in Korean conifer woods from October to March: crown with a bright yellow stripe whose centre is flame orange-red, bordered on each side by a black lateral crown stripe; plain olive-grey face with a large dark eye set in a whitish eye-ring patch; nape greyish; upperparts olive-green; wings dark with two white wing-bars, a black band behind the lower bar, and white-edged tertials; underparts pale yellowish-white. Bill tiny, thin, black. Dark eye. Brownish legs.",
     "pose": "foraging among pine needles, picking insects from the twigs",
     "scene": "Korean winter conifer woods with pine branches; no people, buildings or text",
     "views": [
-      "adult male, side view perched: yellow crown stripe with red centre, white eye-ring, greenish-brown upperparts, two white wing bars, pale yellowish-white underparts",
-      "adult, head detail from above: broad yellow crown stripe"
-    ]
+      "adult male, side view perched on a pine twig: yellow crown stripe with orange-red centre bordered black, plain face with a large dark eye in a whitish eye-ring patch, olive-green upperparts, two white wing-bars, pale yellowish-white underparts",
+      "adult female, head detail from above: broad pure yellow crown stripe bordered by black lateral crown stripes, no orange"
+    ],
+    "build": "Tiny, rounded warbler, 9cm, the smallest bird in Korea and much smaller than a sparrow; big-headed and short-necked with a ball-like body. Bill very short, needle-fine, black. Legs thin, brownish. Wings short; tail short and slightly notched. Constantly active, hovering briefly at twig tips and flicking its wings while picking insects from conifer needles.",
+    "avoid": [
+      "Do not paint a white supercilium and black eye-stripe; the Goldcrest's face is plain around a large dark eye.",
+      "Do not paint a pale yellow rump band (Pallas's Leaf Warbler, Phylloscopus proregulus).",
+      "Do not spread the yellow or red over the whole head; it is a narrow crown stripe.",
+      "Do not paint it as large as a sparrow or with a long tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

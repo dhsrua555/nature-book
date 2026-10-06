@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pacific Loon (Gavia pacifica), adult in breeding plumage: mouse-grey head and hindneck, green-glossed black throat and foreneck, blue-glossed black back, scapulars and rump with several bold white bars on each side of the back, white breast and belly with black lines on the breast sides, blackish-brown bill, legs black on the outer side and apricot on the inner side",
+    "subject": "Pacific Loon (Gavia pacifica), adult in winter (non-breeding) plumage, as seen off the Korean south coast from November to March: crown and hindneck dark grey, darkest along the border with the white, the dark cap reaching below the eye; chin, throat and foreneck white, sharply divided from the dark hindneck by a straight border, often crossed by a thin dark chin-strap under the throat; back and wings plain blackish-brown; flanks dark down to the waterline with no white patch on the rear flanks; underparts white. Straight, slender dagger bill, grey with a dark ridge; red eye; legs black on the outer side and pale apricot on the inner side.",
     "pose": "swimming on the sea with its streamlined body low in the water",
-    "scene": "Korean south-coast sea near an island shore; no people, buildings or text",
+    "scene": "Korean south-coast sea near an island shore in winter, calm grey-blue water under soft overcast light; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: grey head and hindneck, glossy black throat and foreneck, black back with white bars, black lines on the breast sides",
-      "adult breeding, back detail: bold white bars on each side of the glossy black back"
-    ]
+      "adult breeding, side view swimming: pale mouse-grey crown and hindneck, glossy black throat and foreneck (usually with a purple sheen), black-and-white stripes on the neck and breast sides, blue-glossed black back with rows of bold white bars on each side, white breast and belly",
+      "adult winter, side view swimming: dark grey cap and hindneck with a sharp straight border to the white throat, thin dark chin-strap, plain dark back, flanks dark to the waterline without a white rear patch",
+      "adult, leg and foot detail in side view: tarsus black on the outer side and pale apricot on the inner side, large webbed foot set at the rear of the body"
+    ],
+    "build": "Medium-large loon, about 69cm, a little smaller than Black-throated Loon, with a smoothly rounded head, thick neck and long, low, streamlined body. Bill straight, slender and pointed, shorter than the head, held level. Legs set far back near the tail. Swims low and dives well; when alarmed it sinks the body until only the head and neck show. In flight the feet project beyond the short tail.",
+    "avoid": [
+      "Do not paint a white patch on the rear flanks; that is Black-throated Loon (Gavia arctica).",
+      "Do not paint a slim upturned bill or a white-speckled back; that is Red-throated Loon (Gavia stellata).",
+      "Do not show the grey head and white-barred back of breeding plumage in the winter scene.",
+      "Do not paint a green-glossed throat on breeding birds; in this species the black throat usually shows a purple sheen."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

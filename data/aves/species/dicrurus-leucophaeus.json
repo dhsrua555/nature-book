@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Ashy Drongo (Dicrurus leucophaeus), adult of the pale migratory race leucogenys, as seen on Korean offshore islands during spring and autumn migration: whole body pale ash-grey with a faint bluish tone; a broad white patch covering the lores, the area around the eye and the ear-coverts, contrasting with the grey crown; upperparts and wing-coverts pale grey, flight feathers a little darker grey; underparts pale grey becoming whitish on the lower belly and undertail coverts; long grey tail. Bill black, rather stout, with a slightly hooked tip; iris deep red; legs and feet blackish.",
     "pose": "perched upright on an open branch, side view",
     "scene": "woodland edge and thickets on a Korean offshore island such as Eocheongdo; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Slim, long-tailed drongo, about the length of a Brown-eared Bulbul but slimmer, the tail making up nearly half the total length. Sits very upright on exposed bare twigs and sallies out after flying insects. Rounded head with no crest or hair plumes. Bill black, a little shorter than the head, stout at the base with a slightly hooked tip and bristles at the gape. Legs short, blackish. Wings fairly long and pointed; the long tail extends far beyond the wingtips at rest. Tail long and deeply forked, the outer feathers splaying slightly outward at the tips.",
+    "avoid": [
+      "Do not paint it glossy black like Black Drongo (Dicrurus macrocercus) or Hair-crested Drongo; this bird is pale ash-grey all over.",
+      "Do not leave out the white face patch around the eye.",
+      "Do not add hair-like crest plumes or a metallic green or purple sheen; those belong to Hair-crested Drongo.",
+      "Do not give it a dark eye; the adult iris is red.",
+      "Do not paint a short or square tail; the tail is long and deeply forked."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -50,14 +50,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Little Tern (Sternula albifrons), adult breeding: white forehead, black crown and nape, black eye-line, grey upperparts, white underparts, yellow bill with a black tip, forked tail, short yellowish-orange legs",
+    "subject": "Little Tern (Sternula albifrons), adult in breeding plumage as seen at Korean river mouths and coasts from May to August: white forehead forming a triangle that reaches just above the eye; black crown and nape; a black line from the bill base to the eye joining the cap; pale grey upperparts and wings, the outer two or three primaries blackish, forming a dark leading edge to the wingtip; underparts, rump and forked tail white. Bill yellow with a small black tip; dark eye; legs short, yellowish-orange.",
     "pose": "hovering over water before plunge-diving for fish",
-    "scene": "Korean river mouth with a sandbar and shallow water; no people, buildings or text",
+    "scene": "Korean river mouth in summer (May–August) with a bare sandbar and shallow water; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: white forehead, black crown and nape, grey upperparts, yellow bill with black tip, forked tail, yellowish-orange legs",
-      "adult non-breeding, side view: white forehead to crown, black bill, yellowish-brown legs, shorter notched tail",
-      "adult hovering: grey upperwing, forked tail"
-    ]
+      "adult breeding plumage (May–August), side view standing on sand: white forehead triangle, black crown and nape, black loral line, pale grey back, yellow bill with black tip, white underparts, short yellowish-orange legs",
+      "adult non-breeding plumage (autumn), side view standing: white forehead extending over the forecrown, dark rear crown and nape band, black bill, yellowish-brown legs, shorter notched tail",
+      "adult hovering, seen from above: narrow pointed pale grey wings with blackish outer two or three primaries, white rump and short forked white tail"
+    ],
+    "build": "The smallest tern, about 24cm including the forked tail, much smaller and slighter than Common Tern; slim, narrow-winged, very short-legged. Bill straight, slender and pointed, about as long as the head. At rest the wingtips project a little beyond the tail tip. Tail short and forked, without long streamers. Flight fast with quick, flickering wingbeats; it often hovers on rapidly beating wings before plunge-diving for small fish.",
+    "avoid": [
+      "Do not paint a black forehead; breeding Little Terns have a clear white forehead triangle.",
+      "Do not paint a red bill or long tail streamers (Common Tern).",
+      "Do not paint black or red legs on breeding birds; they are yellowish-orange.",
+      "Do not make it gull-sized or heavy; it is tiny and slender."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -67,13 +67,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Moorhen (Gallinula chloropus), adult: black body, dark brown shoulders, back, rump and wing feathers, belly feathers edged greyish-white or white, undertail coverts black in the centre and white at the sides and tip, bright red frontal shield, bright red bill, yellow-green legs",
+    "subject": "Common Moorhen (Gallinula chloropus), adult, as seen on Korean ponds and reed-fringed reservoirs from April to October: head, neck and underparts dark slate-grey to sooty black; back, wings and rump dark olive-brown; a broken white line of streaks along the flanks below the folded wing; belly feathers with faint pale fringes; undertail coverts black in the centre and white at the sides, flashed as the tail is flicked. Frontal shield bright red, flat and rounded at the top; bill bright red with a yellow tip. Iris red. Legs and long toes yellow-green, with a red ring ('garter') at the top of the bare tibia.",
     "pose": "standing at the water's edge among reeds, side view",
     "scene": "Korean summer pond or reservoir edge with reeds and still water; no people, buildings or text",
     "views": [
-      "adult, side view standing: black body, dark brown back and wings, red frontal shield and bill, yellow-green legs",
-      "adult, rear view: undertail coverts black in the centre with white sides and tip"
-    ]
+      "adult, side view standing at the water's edge: slate-black head and underparts, dark olive-brown back and wings, white flank line, red frontal shield, red bill with a yellow tip, yellow-green legs with a red garter",
+      "adult, rear view swimming with the tail cocked: undertail coverts black in the centre with white sides, short dark tail, dark olive-brown back"
+    ],
+    "build": "Medium-sized rail, about 32cm, roughly the length of a Feral Pigeon but plumper, with a small head, a short tail and fairly long legs. Bill short and conical, shorter than the head, running straight up into the frontal shield on the forehead. Toes very long and slender, without lobes or webs. Swims buoyantly with the head bobbing and the short tail held up and flicked, showing the white undertail sides; walks deliberately over floating vegetation. Flies weakly with the legs dangling.",
+    "avoid": [
+      "Do not paint a white frontal shield and white bill — that is Eurasian Coot (Fulica atra).",
+      "Do not paint the bill all red; the tip is yellow.",
+      "Do not paint lobed or webbed toes.",
+      "Do not omit the white line along the flank."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

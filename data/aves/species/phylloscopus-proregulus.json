@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pallas's Leaf Warbler (Phylloscopus proregulus), adult: dark olive upperparts, single yellow stripe along the centre of the crown, two yellow wing bars, yellowish-white underparts",
+    "subject": "Pallas's Leaf Warbler (Phylloscopus proregulus), adult on passage (sexes alike): a pale yellow central crown stripe between dark olive lateral crown stripes; a long, broad supercilium, bright yellow in front of the eye and paler behind; a dark olive eye-stripe; upperparts dark olive-green; a clear pale lemon-yellow rump patch; wings dark with two yellowish-white wing-bars and pale-edged tertials; tail dark olive; underparts whitish with a faint yellowish wash; tiny, fine dark bill; dark eye.",
     "pose": "perched near the top of a conifer, side view",
     "scene": "Korean mountain forest of conifers and deciduous trees in spring or autumn; no people, buildings or text",
     "views": [
-      "adult, side view perched: dark olive upperparts, yellow crown stripe, two yellow wing bars, yellowish-white underparts",
-      "adult, head from above: yellow central crown stripe"
-    ]
+      "adult, side view perched on a conifer twig: pale yellow crown stripe, long yellow supercilium over a dark eye-stripe, dark olive upperparts, two yellowish wing-bars, pale-edged tertials, yellowish-white underparts",
+      "adult, seen from above while hovering at a twig with wings spread: pale yellow central crown stripe between dark lateral stripes, olive back, lemon-yellow rump patch, double wing-bars, head, body and tail in line"
+    ],
+    "build": "Tiny, round, large-headed leaf warbler, about 9cm — the smallest of the Phylloscopus warblers, Goldcrest-sized and much smaller than a sparrow. Bill very short and fine. Legs thin. Wings short; tail short and slightly notched, so the bird looks compact and ball-shaped. Extremely active in the outer twigs of conifer and broadleaf crowns, often hovering at leaf tips, when the yellow rump flashes.",
+    "avoid": [
+      "Do not omit the pale lemon-yellow rump patch; it is the mark behind the Korean name.",
+      "Do not leave the crown plain — Yellow-browed Warbler (Phylloscopus inornatus) lacks the clear central crown stripe this species has.",
+      "Do not paint the black-bordered orange-yellow crown patch and plain face of Goldcrest (Regulus regulus).",
+      "Do not paint it long-tailed or as large as a sparrow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

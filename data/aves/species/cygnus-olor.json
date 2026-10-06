@@ -43,13 +43,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Mute Swan (Cygnus olor), adult: all-white plumage, orange bill with a black knob at the base, black legs",
+    "subject": "Mute Swan (Cygnus olor), adult in winter (sexes alike, the male with a larger knob): entire plumage pure white, the head sometimes faintly stained rusty from feeding; bill orange-red with a black nail, black base and black lores, and a prominent black knob at the base of the upper mandible over the forehead; dark eye set in the black facial skin; black legs and feet.",
     "pose": "swimming on calm water, reaching down to feed on water plants",
     "scene": "calm Korean reservoir in winter with open water and aquatic plants; no people, buildings or text",
     "views": [
-      "adult, side view swimming: all-white plumage, orange bill with a black basal knob",
-      "adult, head detail: orange bill with a black knob at the base"
-    ]
+      "adult, side view swimming: all-white plumage, neck in an S-curve, orange bill with a black knob and black base, pointed tail raised, wings slightly arched",
+      "adult, head close-up in profile: orange-red bill with a black nail, black lores and base, and a prominent black knob above the bill base",
+      "adult standing on the bank, side view: all-white body held horizontally, short black legs set far back, large black webbed feet, neck gently curved"
+    ],
+    "build": "Very large, heavy swan, 152cm, larger than Whooper Swan (Cygnus cygnus), with a long, thick neck usually held in a graceful S-curve while swimming, the bill pointing downward. Pointed tail often raised. Often swims with the wings arched up over the back. Legs black, short, set far back. In flight the long neck is stretched straight forward.",
+    "avoid": [
+      "Do not paint yellow on the bill — yellow-and-black bills belong to Whooper Swan (Cygnus cygnus) and Tundra Swan (Cygnus columbianus).",
+      "Do not omit the black knob at the bill base.",
+      "Do not hold the neck stiffly straight and upright like Whooper Swan; the Mute Swan usually curves it.",
+      "Do not paint orange or pink legs; they are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

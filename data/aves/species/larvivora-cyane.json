@@ -70,14 +70,23 @@
     }
   ],
   "art": {
-    "subject": "Adult male Siberian Blue Robin (Larvivora cyane), a small, upright, ground-dwelling robin about 15 cm long. Entire upperparts from forehead to uppertail coverts dull dark slate-blue; lores black, the black continuing below the eye and down the side of the neck to the sides of the breast as a narrow dark border; chin, throat, breast, belly and undertail coverts clean white; upper flanks dark, lower flanks blue-grey; tail blackish with blue outer edges, no white in the tail; fine black bill; brown eye; long, thin, very pale pinkish-flesh legs.",
+    "subject": "Siberian Blue Robin (Larvivora cyane), adult male in breeding plumage, as seen in Korean mountain forest from May to August: entire upperparts from forehead to uppertail coverts dull dark slate-blue; lores black, the black continuing below the eye and down the side of the neck to the sides of the breast as a narrow dark band separating the blue from the white; chin, throat, breast, belly and undertail coverts clean white; rear flanks blue-grey; wings slate-blue; tail blackish with blue outer edges and no white. Fine black bill; brown iris; long, thin, very pale pinkish-flesh legs.",
     "pose": "standing on the forest floor in leaf litter, body upright on long legs, tail slightly cocked as if shivering",
     "scene": "shady understory of a mixed broadleaf and conifer mountain forest beside a small stream in Korea in May, ferns, moss-covered roots and a fallen log, dappled light; no people, buildings or text",
     "views": [
-      "adult male, standing on ground, side view",
-      "adult female, standing on ground, side view (olive-brown above with bluish rump and tail, buff scaly breast, pale pink legs)",
-      "first-winter male, standing on ground, side view (grey-brown with patchy blue on rump, tail, wing coverts and scapulars)"
-    ]
+      "adult male, side view standing on the forest floor: dark slate-blue upperparts, black band from the lores under the eye to the breast sides, pure white throat and underparts, blackish tail with no white, long pale pink legs, tail slightly cocked as if shivering",
+      "adult female, side view standing on the ground: olive-brown upperparts with a bluish tinge on the rump, uppertail coverts and tail, buff-white throat, olive-buff breast with dark scaly fringes, whitish belly, pale pink legs",
+      "first-winter male, side view standing on the ground: grey-brown upperparts with patchy blue on the rump, uppertail coverts, tail, wing coverts and scapulars, buff throat and breast with faint scaling, pale pink legs"
+    ],
+    "build": "Small, short-tailed, long-legged ground robin, about 15cm, about the size of a sparrow but plumper; upright stance, rounded head and short neck. Bill black, thin and straight, clearly shorter than the head. Legs long and slender, very pale pinkish-flesh, the tarsus well exposed. Tail short and square, often held slightly cocked and rapidly shivered. Hops and runs on the forest floor under dense cover rather than perching high.",
+    "avoid": [
+      "Do not paint a black face, throat and upper breast; that is Blue-and-white Flycatcher (Cyanoptila cyanomelana). Here the throat is white and the black is only a narrow band.",
+      "Do not add orange flanks or a white supercilium; those belong to Red-flanked Bluetail (Tarsiger cyanurus).",
+      "Do not paint dark or black legs; they are long and pale pink.",
+      "Do not show white in the tail or make the tail long; it is short, dark and plain."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

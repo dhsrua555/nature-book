@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Sand Plover (Charadrius leschenaultii), adult male breeding: white forehead bordered above by a black band, with a black central line on the forehead, rusty-red crown, hindcrown and hindneck with a grey-brown centre to the crown, white cheeks, chin and throat, thin rusty band on the lower neck, grey-brown back and rump, white breast, belly and flanks, grey-brown tail with white edges to the outer feather tips, black bill, olive-brown legs",
+    "subject": "Greater Sand Plover (Charadrius leschenaultii), adult male in breeding plumage, as seen on Korean beaches on spring passage (April–May): forehead white with a black bar above it; a black mask through the lores, eye and ear-coverts; crown sides, hindcrown and hindneck rusty-orange, the centre of the crown grey-brown; cheeks below the mask, chin and throat white; a fairly narrow rusty-orange band across the upper breast, usually without a black upper border; back, wings and tail grey-brown, the outer tail feathers white-edged; belly, flanks and undertail white. Long, heavy black bill; dark eye; legs olive to greenish-grey.",
     "pose": "walking on sand with a bobbing motion, searching for food",
-    "scene": "Korean coastal sandy beach and dunes near a river mouth; no people, buildings or text",
+    "scene": "Korean coastal sandy beach and low dunes near a river mouth in spring (May), bright light; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: white forehead and black band, rusty crown and hindneck, white throat, thin rusty lower-neck band, grey-brown upperparts, white underparts, olive-brown legs",
-      "adult male breeding, head detail: black central forehead line, grey-brown crown centre, black bill"
-    ]
+      "adult male breeding, side view standing on sand: white forehead with a black bar above, black mask through the eye, rusty-orange crown sides and hindneck, white throat, narrow rusty breast band, grey-brown upperparts, white underparts, long heavy black bill, long olive legs",
+      "adult male breeding, head detail: white forehead with a black frontal bar, grey-brown crown centre bordered rusty-orange, black mask through the lores and ear-coverts, white cheeks and throat, heavy black bill"
+    ],
+    "build": "Medium-sized plover, about 21cm long, a little smaller than Pacific Golden Plover and clearly larger than Lesser Sand Plover; large, angular head and long-legged stance. Bill black, heavy and long for a plover, about as long as the head, with a bulging, pointed tip. Legs relatively long with the tibia clearly visible; the toes project beyond the tail tip in flight. At rest the wingtips reach about the tail tip. In flight a clear white wing-bar and grey-brown rump and tail with white sides. Runs, stops and tilts forward to pick prey.",
+    "avoid": [
+      "Do not paint a short, blunt bill and short dark legs — that is Lesser Sand Plover (Charadrius mongolus).",
+      "Do not paint a black breast band or a black collar (Little Ringed Plover, Kentish Plover).",
+      "Do not paint a white face without a black mask and a broad chestnut band edged black below — that is Oriental Plover.",
+      "Do not paint yellow or orange legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

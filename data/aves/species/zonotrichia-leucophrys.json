@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "White-crowned Sparrow (Zonotrichia leucophrys), adult in winter, a vagrant in Korean farmland hedgerows: crown boldly striped black and white — a broad white central stripe between black lateral stripes; a white supercilium; a black stripe behind the eye, the lores pale grey as in the Alaskan form gambelii; face, neck, throat and breast plain grey; belly whitish, flanks buff-brown; mantle brown with dark streaks and greyish edges; wings brown with two white wing bars; tail long and plain brown. Bill pinkish-orange; eye dark; legs pinkish.",
+    "pose": "foraging on the ground beside a hedge, side view",
+    "scene": "hedgerow and weedy field margin in Korean farmland in winter (December–February), soft winter light; no people, buildings or text",
+    "views": [],
+    "build": "A large, long-tailed American sparrow, clearly larger and longer than a House Sparrow, with a slightly peaked crown, upright stance and long tail; feeds on the ground near cover. Bill conical, small for the bird's size, shorter than the head. Legs pinkish, medium length. The long tail extends well beyond the wingtips; tail plain brown, slightly rounded, without white.",
+    "avoid": [
+      "Do not paint a yellow spot in front of the eye or a white throat patch — that is White-throated Sparrow.",
+      "Do not paint a yellow crown patch (Golden-crowned Sparrow).",
+      "Do not paint a dark bill; it is pinkish-orange.",
+      "Do not streak the grey breast.",
+      "Do not paint black lores; in gambelii the black eye-line starts behind the eye."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

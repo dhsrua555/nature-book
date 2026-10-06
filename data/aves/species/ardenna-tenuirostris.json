@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Short-tailed Shearwater (Ardenna tenuirostris), adult: blackish-brown upperparts and tail, grey-brown chin, throat, breast, belly and flanks with paler feather edges, black bill, dark brown iris, pale grey legs",
+    "subject": "Short-tailed Shearwater (Ardenna tenuirostris), adult (sexes alike), as seen off Korean coasts on passage from mid-May to mid-June: entire plumage dark sooty brown; upperparts and tail blackish-brown; chin and throat slightly paler grey-brown; breast, belly and flanks grey-brown with paler feather edges; underwing dark with a variable, dull silvery-grey area on the coverts. Bill short and slender, blackish, with tube nostrils on top and a hooked tip; iris dark brown; legs and feet greyish.",
     "pose": "taking off from the sea surface with flapping wings, splashing the water",
     "scene": "Korean late-spring sea off the East Sea coast: open water with a large flock of shearwaters on and above the waves; no people, buildings or text",
     "views": [
-      "adult, side view in flight: blackish-brown upperparts and tail, grey-brown underparts with paler feather edges",
-      "adult, side view on the water: black bill, dark brown iris, grey-brown chin and throat, blackish-brown back"
-    ]
+      "adult, flight side view from below: all-dark sooty-brown body, long narrow stiff wings with dull silvery-grey underwing coverts, short rounded tail with the feet just projecting",
+      "adult, side view swimming: rounded head, short slender dark bill with tube nostrils, slightly paler grey-brown chin and throat, blackish-brown back"
+    ],
+    "build": "Medium-sized seabird, about 35cm, smaller than a Black-tailed Gull, with a compact body, small rounded head and fairly steep forehead. Bill shorter than the head, thin, with tubular nostrils and a hooked tip. Legs set far back; the webbed feet project slightly beyond the short tail in flight. Wings long, narrow and stiff, held straight. Flies low over the waves with quick stiff wingbeats and long banking glides. Tail short and rounded. Rests in large rafts on the sea and dives well.",
+    "avoid": [
+      "Do not paint white underparts or a pale, white-streaked face; that is Streaked Shearwater (Calonectris leucomelas).",
+      "Do not paint a pale pink bill or pink feet; that is Flesh-footed Shearwater.",
+      "Do not draw broad, bent, gull-like wings or slow flapping flight.",
+      "Do not paint bold white underwing panels; any pale area is dull and greyish."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

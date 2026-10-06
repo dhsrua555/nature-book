@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Penduline Tit (Remiz pendulinus), adult: brownish-black forehead, lores, cheeks and ear-coverts, greyish crown with dark shaft streaks, dull white supercilium, greyish-buff hindneck, back, rump and uppertail coverts, chestnut band across the mantle extending onto the breast, white chin, creamy-buff throat, breast and undertail coverts, dark brown tail with pale buff edges, greyish bill with a darker culmen, dark brown iris, dark blue or mouse-grey legs",
+    "subject": "Eurasian Penduline Tit (Remiz pendulinus), adult male of the eastern form consobrinus that occurs in Korea, in autumn and winter: forehead, lores, cheeks and ear-coverts form a brownish-black mask; crown and nape greyish with fine dark shaft streaks; a dull white supercilium above the mask; a chestnut band across the upper mantle that spreads onto the sides of the breast; rest of the back, rump and uppertail coverts greyish-buff; wings dark brown with buff and rufous fringes; tail dark brown with pale buff edges; chin white; throat, breast and undertail coverts creamy buff; fine, sharply pointed grey bill with a darker culmen; dark brown eye; dark blue-grey legs.",
     "pose": "clinging to a reed stem, part of a small flock",
     "scene": "Korean riverside reedbed in autumn with willows along the bank; no people, buildings or text",
     "views": [
-      "adult, side view clinging to a reed: dark face mask, grey crown, dull white supercilium, chestnut mantle band, creamy-buff underparts",
-      "adult, front view: chestnut band reaching onto the breast, white chin, creamy-buff throat"
-    ]
+      "adult male, side view clinging upright to a reed stem: brownish-black mask from the forehead over the ear-coverts, grey streaked crown, dull white supercilium, chestnut mantle band, greyish-buff back, creamy-buff underparts, needle-fine grey bill, dark blue-grey legs",
+      "adult male, front view clinging to a reedmace head: chestnut extending from the mantle onto the breast sides, white chin, creamy-buff throat and breast, dark mask on both sides of the face"
+    ],
+    "build": "Tiny, compact tit-like bird, clearly smaller than a sparrow, with a rounded body and a fairly short, slightly notched tail. Bill distinctive: short, very fine and sharply pointed, almost needle-like, with a straight culmen, used to pick insects and seeds from reed and reedmace heads. Legs short, dark blue-grey, with strong toes for clinging. Wings short and rounded. Acrobatic: clings sideways or upside-down to reed stems and reedmace heads, usually in small twittering flocks in riverside reedbeds.",
+    "avoid": [
+      "Do not paint a stubby finch-like or tit-like bill; the bill is fine and needle-pointed.",
+      "Do not give it a black cap or black bib like a tit (Parus); the crown is grey and the throat white to buff.",
+      "Do not give it a long tail like Long-tailed Tit or Vinous-throated Parrotbill.",
+      "Do not reduce the mask to a thin eye-line; it is a broad mask covering lores, cheeks and ear-coverts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

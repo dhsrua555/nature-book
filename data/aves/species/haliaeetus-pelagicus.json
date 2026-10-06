@@ -52,14 +52,23 @@
   "young": "어린새는 온몸이 검게 보인다. 꼬리는 흰색이지만 가장자리가 갈색이고, 첫째날개깃과 날개덮깃에 군데군데 흰색이 있다.",
   "similar": [],
   "art": {
-    "subject": "Steller's Sea Eagle (Haliaeetus pelagicus), adult: blackish-brown overall, white forehead, white shoulders, white rump and uppertail coverts, long white wedge-shaped tail, yellow bill",
+    "subject": "Steller's Sea Eagle (Haliaeetus pelagicus), adult in Korean winter (December–March): body, head and neck blackish-brown; forehead and forecrown white; lesser and median upperwing coverts white, forming a large white patch on the shoulder of the folded wing; thighs (feathered 'trousers'), undertail coverts, rump and uppertail coverts white; tail entirely white, long and wedge-shaped; flight feathers blackish-brown. Enormous, deep, strongly arched bill and cere bright orange-yellow; pale yellow iris; feet yellow with black talons.",
     "pose": "perched on a cliff-top tree overlooking the sea",
     "scene": "Korean winter coast: a rocky sea cliff and slope with trees above the shore; no people, buildings or text",
     "views": [
-      "adult, side view perched: white forehead and shoulders, yellow bill, blackish-brown body, long white wedge-shaped tail",
-      "adult, flight from below: rounded trailing edge, wings broadening toward the tips, long white wedge-shaped tail",
-      "juvenile, side view perched: blackish overall, white tail edged brown, white patches on primaries and wing coverts"
-    ]
+      "adult, side view perched upright on a branch: white forehead, huge arched orange-yellow bill, blackish-brown body, large white shoulder patch, white thighs, long white wedge-shaped tail below the folded wings",
+      "adult in flight seen from below: blackish-brown body and wings, wings pinched at the base and bulging along the trailing edge, white thighs and undertail coverts, long white wedge-shaped tail, huge yellow bill",
+      "juvenile, side view perched: blackish-brown overall with no white forehead or shoulders, white tail with brown edges and tips, scattered white patches on the primaries and wing coverts, huge yellowish bill duller than the adult's"
+    ],
+    "build": "Huge, heavy eagle, 88–102cm long, larger and bulkier than White-tailed Eagle and the largest eagle in Korea. Head relatively small for the massive bill; the bill is the most striking feature — very deep and high, about as long as the head, with a strongly hooked tip. At rest the wingtips fall a little short of the tail tip. Tail long and markedly wedge-shaped. In flight broad wings narrower at the base, bulging along the secondaries and broadest towards the hand, with deep fingers; long white wedge tail; heavy, slow wingbeats.",
+    "avoid": [
+      "Do not paint a white head and neck like Bald Eagle; only the forehead is white.",
+      "Do not paint a short wedge tail, no white shoulders and a smaller bill — that is White-tailed Eagle (Haliaeetus albicilla).",
+      "Do not paint a slim or dark bill; the bill is enormous, deep and orange-yellow.",
+      "Do not give the juvenile white shoulders or a white forehead."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

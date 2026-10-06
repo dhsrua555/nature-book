@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Manchurian Reed Warbler (Acrocephalus tangorum), adult (sexes alike) in spring: upperparts warm rufous-brown, brightest on the rump; a long, prominent whitish supercilium extending well behind the eye, bordered above by a thin blackish-brown line along the side of the crown; dark brown eye-stripe; throat white; breast and belly whitish with warm buff flanks; wings and tail plain brown; fairly long bill with dark upper mandible and pale pinkish lower mandible; dark eye; pinkish-brown legs.",
+    "pose": "clinging to a reed stem, side view",
+    "scene": "reedbed edge in a Korean wetland during spring migration in May, fresh green reeds among last year's dry stems; no people, buildings or text",
+    "views": [],
+    "build": "A small reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler, close in shape to a Black-browed Reed Warbler but with a noticeably longer bill and a slightly longer tail. Bill fairly long and slender, a little shorter than the head. Legs medium, pinkish-brown. Wings short with a short primary projection. Tail medium-long, rounded and plain. Keeps low in reeds.",
+    "avoid": [
+      "Do not paint a broad, bold black band above the supercilium; that is Black-browed Reed Warbler (Acrocephalus bistrigiceps). Here the dark line is thin.",
+      "Do not paint a short, stubby bill; it is fairly long and slender.",
+      "Do not streak the back or breast.",
+      "Do not paint a large, heavy reed warbler (Oriental Reed Warbler)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

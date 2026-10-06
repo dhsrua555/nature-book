@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Lesser White-fronted Goose (Anser erythropus), adult in winter: head and neck dark grey-brown; a bright white blaze around the bill base that extends up the forehead to a point on the crown; a conspicuous swollen yellow eye-ring; back and wings grey-brown with pale fringes forming neat bars; breast paler grey-brown, with a few small black patches on the belly; dark flanks topped by a white line along the folded wing; vent and undertail coverts white; small, short, bright pink bill with a whitish nail; orange legs and feet.",
     "pose": "standing among a flock of larger geese, side view",
     "scene": "inland Korean wintering ground in winter, a mixed flock of geese; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Small, compact goose, clearly smaller than Greater White-fronted Goose (Anser albifrons) and bean geese, with a short neck, small rounded head and steep forehead. Bill short and stubby, much shorter than the head. Legs orange. At rest the long wingtips extend clearly beyond the tail tip. Grazes with quick pecking among flocks of larger geese.",
+    "avoid": [
+      "Do not omit the yellow eye-ring; it is the key difference from Greater White-fronted Goose (Anser albifrons).",
+      "Do not paint a long bill or a white blaze stopping at the bill base; the blaze reaches up onto the crown.",
+      "Do not paint an orange or black-and-orange bill (bean goose traits); the bill is pink.",
+      "Do not paint heavy black bars covering the whole belly; the black patches are small."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

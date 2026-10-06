@@ -57,13 +57,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Great Crested Grebe (Podiceps cristatus), adult in breeding plumage: long neck, long black crest plumes on the crown, reddish-brown cheeks with black where the head meets the neck, dusky pink bill",
+    "subject": "Great Crested Grebe (Podiceps cristatus), adult in breeding plumage, as seen on Korean reservoirs in early summer: crown and double crest black; face and throat white; a broad ruff of chestnut-orange plumes on the sides of the head, tipped black at the lower edge, framing the white face; a dark line from the eye to the bill; foreneck and breast white; hindneck and back dark grey-brown; flanks tinged rufous-brown. Long, dagger-shaped bill dusky pink with a darker culmen; red eye; legs set at the very rear and hidden under water.",
     "pose": "swimming with a chick riding on its back",
-    "scene": "Korean reservoir with floating water plants; no people, buildings or text",
+    "scene": "Korean reservoir in early summer (June) with floating water plants and fresh green reeds along the shore; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: long neck, black crest plumes, reddish-brown cheeks bordered black below, dusky pink bill",
-      "adult, head detail: black crest plumes and dusky pink bill"
-    ]
+      "adult breeding plumage, side view swimming: long upright white neck, black double crest, chestnut-orange ruff tipped black framing the white face, dark grey-brown back, dusky pink bill",
+      "adult winter plumage (October–March), side view swimming: black cap not reaching the eye with white above the eye, short dark crest, white face and foreneck, grey-brown hindneck and back, dusky pink bill, no ruff"
+    ],
+    "build": "Large grebe, about 49cm, the largest in Korea, with a body smaller than a Mallard's but a much longer, slender neck held upright like a column. Body sits low and flat on the water with no visible tail. Bill straight, pointed and dagger-like, a little shorter than the head. Legs set at the very rear of the body, with lobed (not webbed) toes. Dives frequently. In flight the neck and legs are stretched out, and white patches show on the forewing and secondaries.",
+    "avoid": [
+      "Do not paint the ruff or long crest on winter birds; in winter only a short dark crest remains.",
+      "Do not paint webbed duck feet; grebes have lobed toes set at the rear of the body.",
+      "Do not paint a yellow bill base or a chestnut foreneck — that is Red-necked Grebe (Podiceps grisegena).",
+      "Do not paint a visible tail or a flat duck bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

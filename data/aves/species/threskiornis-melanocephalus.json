@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Black-headed Ibis (Threskiornis melanocephalus), adult: white body, bluish-grey scapulars and tertials, bare black skin on head and neck, long tassel-like plumes hanging in front of the neck, long decurved black bill, black legs",
+    "subject": "Black-headed Ibis (Threskiornis melanocephalus), adult in breeding plumage, as on a Jeju marsh in late spring: head and upper neck naked, with smooth black skin; the rest of the plumage white, with a tassel of long, loose white plumes hanging from the lower foreneck over the breast, and long, loose bluish-grey plumes on the scapulars and tertials draping over the closed wing and tail. Bill long, thick at the base and curved downward along its whole length, black; legs and feet black.",
     "pose": "wading in shallow marsh water, side view",
-    "scene": "Korean coastal marsh on Jeju with shallow pools and sedges; no people, buildings or text",
+    "scene": "Jeju coastal marsh in late spring with shallow pools and fresh green sedges; no people, buildings or text",
     "views": [
-      "adult, side view standing: white body, bare black head and neck, long decurved black bill, black legs",
-      "adult, head and neck detail: bare black skin, long tassel-like plumes in front of the neck"
-    ]
+      "adult breeding, side view standing: white body, bald black head and upper neck, long black bill curved downward along its whole length, loose white tassel plumes on the lower foreneck, bluish-grey plumes over the scapulars and tertials, black legs",
+      "adult breeding, head and neck detail, side view: smooth bare black skin of the head and neck ending sharply at the white neck feathers, thick-based decurved black bill, long white tassel plumes hanging in front of the neck"
+    ],
+    "build": "Large white ibis, larger than a Little Egret and smaller than a Grey Heron, with a heavy body, a fairly short neck for its size and a bald black head. Bill black, about twice the head length, thick at the base and curving downward evenly from base to tip. Legs black, medium-long. At rest the grey tertial plumes droop over the wingtips and tail. In flight neck and legs outstretched, wings white, with a strip of bare red skin on the underwing.",
+    "avoid": [
+      "Do not paint a red face, red legs or a shaggy crest — that is Crested Ibis (Nipponia nippon); this species has a bald black head and black legs.",
+      "Do not feather the head or neck; the black is bare skin.",
+      "Do not make the bill straight or curved only at the tip; it curves along its whole length.",
+      "Do not flatten the bill tip like a spoonbill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Barn Swallow (Hirundo rustica), adult male: glossy dark blue upperparts, rufous forehead and throat, black band below the throat, white belly washed pale orange, fairly long deeply forked V-shaped tail with long outer tail feathers",
+    "subject": "Barn Swallow (Hirundo rustica), adult male in summer: forehead and throat deep chestnut-red; crown, nape, back, rump and wing coverts glossy dark steel-blue; a narrow blue-black band across the upper breast below the red throat; rest of the underparts white with a faint pale buff to pale orange wash; underwing coverts whitish; flight feathers blackish; tail glossy blue-black and deeply forked, with long thin outer streamers and a row of white spots across the inner webs; tiny black bill with a wide gape; dark eye; short black legs.",
     "pose": "perched on an overhead wire, resting",
     "scene": "Korean summer farmland with rice paddies and a stream, a wire strung across the fields; no people, buildings or text",
     "views": [
-      "adult male, side view perched: rufous forehead and throat, black band below the throat, glossy dark blue upperparts, pale orange-white belly, long outer tail feathers",
-      "adult female, side view perched: shorter outer tail feathers than the male",
-      "adult, in flight from below: deeply forked V-shaped tail"
-    ]
+      "adult male, perched on a wire, side view: chestnut-red forehead and throat, narrow dark breast band, glossy steel-blue upperparts, pale buff-washed white belly, long outer tail streamers reaching well beyond the wingtips",
+      "adult female, perched on a wire, side view: the same colours, but the outer tail streamers noticeably shorter, extending only a little beyond the wingtips",
+      "adult in flight seen from below, head, body and tail in line, tail spread: red throat, dark breast band, whitish belly and underwing coverts, dark flight feathers, deep V-shaped fork with white spots across the tail"
+    ],
+    "build": "Slender swallow, about 18cm including the tail streamers; the body is smaller than a House Sparrow's. Flat head, very short neck, streamlined body. Bill tiny, flat and triangular, black, with a very wide gape. Legs very short, black, used only for perching. Wings long, narrow and pointed; at rest the wingtips fall short of the tail streamers. Tail deeply forked, the outer feathers drawn out into long streamers, longer in the male. Flight fast and swooping, low over fields and water.",
+    "avoid": [
+      "Do not paint a rufous rump or a rufous neck collar with streaked underparts; that is Red-rumped Swallow.",
+      "Do not paint a white rump and a short shallow fork; that is Asian House Martin.",
+      "Do not paint deep chestnut underparts; Korean birds are white below with at most a pale buff wash.",
+      "Do not spread the red onto the breast; the red is confined to the forehead and throat above the dark band."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

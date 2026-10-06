@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Ferruginous Flycatcher (Muscicapa ferruginea), adult (sexes alike), a spring migrant in Korean island woodland: head slate-grey, contrasting with the brown back, with a prominent white eye-ring; throat white; mantle and back warm brown, becoming bright rufous on the rump and uppertail coverts; wings dark brown with rufous fringes to the greater coverts and tertials, forming a rufous wing bar; breast and flanks orange-rufous, centre of the belly whitish, undertail coverts rufous-buff; tail rufous-brown. Bill short and dark; eye large and dark.",
+    "pose": "perched upright on a shaded branch below the canopy, side view",
+    "scene": "shady mixed woodland on a Korean offshore island during spring migration (May), dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small flycatcher, smaller than a sparrow, with a large rounded head, big dark eye and short neck; perches upright and still under the canopy and sallies out after insects. Bill short, flat and broad-based, much shorter than the head. Legs short and thin. Wings long, the primaries projecting well beyond the tertials. Tail medium length, square-ended, rufous, without white.",
+    "avoid": [
+      "Do not paint a brown or grey-brown head; the head is clearly slate-grey, contrasting with the brown back.",
+      "Do not streak the breast like Grey-streaked Flycatcher; the breast is plain orange-rufous.",
+      "Do not paint a white wing patch or white tail sides (Ficedula flycatchers).",
+      "Do not make the rump and tail grey; they are bright rufous."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -51,13 +51,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-faced Bunting (Emberiza spodocephala), adult male in winter plumage: greenish-grey head and hindneck with faintly brown feather tips, sooty-black lores, area below the eye and chin, buff-brown mantle, belly and flanks with dark olive-brown streaks, dark horn upper mandible, pale brown lower mandible with a dark tip, dark brown iris, pale brown legs",
+    "subject": "Black-faced Bunting (Emberiza spodocephala), adult male in spring, as seen on Korean passage in April–May: whole head, nape and breast greenish-grey; lores, the area around the bill base, below the eye and the chin sooty-black, forming a dark face; mantle buff-brown streaked black; lower breast and belly pale yellow, becoming whitish towards the vent; flanks streaked dark olive-brown; wings brown with two pale buff wing bars; tail dark with white outer feathers. Bill with a dark horn upper mandible and a pale pinkish-brown lower mandible tipped dark; dark brown eye; pale pinkish-brown legs.",
     "pose": "foraging on the ground in damp grass, picking up seeds",
     "scene": "Korean spring migration: damp grassy meadow with tall grasses; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: greenish-grey head, sooty-black face and chin, buff-brown mantle, olive-brown streaked belly and flanks, pale brown legs",
-      "adult male winter, head detail: sooty-black lores and chin, dark horn upper mandible, pale brown lower mandible with a dark tip"
-    ]
+      "adult male, spring, side view perched: greenish-grey head and breast, sooty-black lores and chin, buff-brown mantle streaked black, pale yellow belly, olive-brown streaks on the flanks, pale brown legs",
+      "adult female, side view on the ground: brown head with a pale buff supercilium and submoustachial stripe, dark malar stripe, pale yellowish-white underparts with fine dark streaks on the breast and flanks, no grey or black on the face",
+      "adult male, head detail in side view: sooty-black lores, area below the eye and chin against the grey head, bill with a dark upper mandible and a pale brown lower mandible with a dark tip"
+    ],
+    "build": "Small bunting, 16cm, sparrow-sized but slimmer and longer-tailed, keeping low in damp grass and scrub and often flicking the tail open. Rounded head without a crest. Bill conical and pointed, much shorter than the head. Legs short, pale pinkish-brown. At rest the wingtips reach just past the base of the tail. Tail medium length, notched, dark with white outer feathers that show well in flight.",
+    "avoid": [
+      "Do not paint a fully black head; only the face around the bill and the chin are blackish, the rest of the head is grey.",
+      "Do not paint a chestnut breast band or rufous rump (Rustic Bunting).",
+      "Do not let the grey cover the belly; the belly is pale yellow to whitish.",
+      "Do not give it a crest or a yellow throat."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

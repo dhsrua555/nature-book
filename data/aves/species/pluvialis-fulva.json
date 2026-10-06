@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pacific Golden Plover (Pluvialis fulva), adult in breeding plumage: upperparts mottled golden-buff, black and white; white forehead running into a white supercilium and a broad white band down to the breast sides; black lores, ear coverts, cheeks, chin and throat; black breast and belly; blackish-brown tail with several white or greyish-white bars; black bill; dark brown legs",
+    "subject": "Pacific Golden Plover (Pluvialis fulva), adult male in breeding plumage, as seen on Korean paddies in late April and May: crown, nape and upperparts spangled with golden-yellow, black and whitish spots on every feather, the long tertials notched gold; a white forehead joins a white supercilium that runs down the neck sides as a broad white band to the sides of the breast and continues along the flanks as a narrower white stripe broken with black marks; lores, cheeks, ear coverts, chin and throat black; breast and belly solid black; undertail coverts mainly white; blackish-brown tail with narrow greyish-white bars; slim black bill; large dark eye; long dark grey legs.",
     "pose": "standing upright on a wet field, side view",
-    "scene": "Korean rice paddies and reclaimed coastal land next to salt pans with wet grassy margins, during spring or autumn migration; no people, buildings or text",
+    "scene": "Korean flooded rice paddies and reclaimed coastal land next to salt pans with wet grassy margins in May, during spring migration; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: golden-buff, black and white mottled upperparts, white band from forehead over the eye down to the breast sides, black face, breast and belly, black bill, dark brown legs",
-      "tail detail: blackish-brown tail crossed by several white or greyish-white bars"
-    ]
+      "adult breeding plumage (late April-May), side view standing upright: golden-yellow, black and white spangled upperparts, white forehead and supercilium continuing as a broad white band down the neck to the breast sides and along the flanks, black face, throat, breast and belly, mostly white undertail, slender black bill, long dark grey legs",
+      "tail detail from above, slightly spread: blackish-brown tail feathers crossed by several narrow white or greyish-white bars, dark rump without any white patch"
+    ],
+    "build": "Medium-sized, slim, long-legged plover, 24cm, smaller than a feral pigeon and clearly smaller and slimmer than Grey Plover; small rounded head with a large dark eye, short neck, stands upright with a level back. Bill black, straight and slender, shorter than the head, with a slightly swollen tip. Legs long and dark grey, with bare tibia visible. At rest the long tertials cover most of the primaries and the wingtips reach only just beyond the tail tip. In flight long pointed wings with a faint narrow pale wing-bar, plain grey-brown underwing and armpits, and a dark rump and tail with no white patch.",
+    "avoid": [
+      "Do not paint black armpits (axillaries) or a white rump - those belong to Grey Plover (Pluvialis squatarola), which also has silver-grey, not golden, upperparts.",
+      "Do not let the wingtips project far beyond the tail; in this species they reach only just past the tail tip.",
+      "Do not paint a single dark breast-band or neck collar like the small Charadrius plovers; the black covers the whole face, breast and belly.",
+      "Do not paint a thick, long or yellow bill, or yellow or pink legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

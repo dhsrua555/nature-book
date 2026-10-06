@@ -38,13 +38,21 @@
     }
   ],
   "art": {
-    "subject": "Oriental Cuckoo (Cuculus optatus), adult: barred belly, red eye with a yellow eye-ring",
+    "subject": "Oriental Cuckoo (Cuculus optatus), adult male, as seen in Korean forests from May to August: head, upperparts, throat and upper breast slate-grey, slightly darker than in Common Cuckoo; lower breast, belly and flanks white, often tinged buff towards the vent, with broad, widely spaced blackish bars; tail long and graduated, blackish with small white spots and white tips. Bill dark grey with a yellow base. Yellow iris with a yellow eye-ring. Short yellow legs.",
     "pose": "perched on a forest branch, calling",
     "scene": "Korean summer forest with a leafy canopy; no people, buildings or text",
     "views": [
-      "adult, side view perched: barred belly, red eye with yellow eye-ring",
-      "adult, head detail: red iris and yellow eye-ring"
-    ]
+      "adult, side view perched on a forest branch: slate-grey head, upperparts and upper breast, broad blackish bars on the white belly, yellow eye-ring, long graduated tail with white spots",
+      "adult, head detail in profile: yellow iris with a yellow eye-ring, dark grey bill with a yellow base"
+    ],
+    "build": "Slim, long-tailed cuckoo, about 33cm, about the length of a feral pigeon but much slimmer, the same shape as Common Cuckoo: small head, short slightly decurved bill, long pointed wings drooped at rest below the tail base, long graduated tail. Legs very short, yellow, two toes forward and two back. Flight hawk-like with shallow wingbeats. Visually told from Common Cuckoo mainly by the broader, more widely spaced belly bars and slightly darker grey upperparts.",
+    "avoid": [
+      "Do not paint a red iris; the eye is yellow.",
+      "Do not paint thin, fine bars like Common Cuckoo's; the bars are broader and fewer.",
+      "Do not paint a hooked raptor bill or strong talons."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

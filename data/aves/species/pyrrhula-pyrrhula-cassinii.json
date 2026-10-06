@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula cassinii), adult male in winter, as seen in Korea from November to March: glossy black cap covering the forehead, crown and the area around the bill base and chin, the eye at its lower edge; cheeks, ear-coverts, throat, breast and belly rich rosy pink-red; nape and mantle clean grey; wings glossy blue-black with a broad pale grey band across the greater coverts; rump pure white; vent and undertail coverts white; tail glossy blue-black, often with a white wedge on the inner web of the outermost feathers; bill black, short and swollen; eye dark; legs dark brown.",
+    "pose": "perched on a bare twig, plump and slightly hunched, nibbling a bud, side view",
+    "scene": "Korean deciduous woodland edge in winter, bare branches with buds and a little snow, soft daylight; no people, buildings or text",
+    "views": [],
+    "build": "A plump, bull-necked finch, slightly larger than a sparrow and much rounder, with a large rounded head set almost directly on the body and no crest. Bill black, very short, deep and swollen with a curved upper ridge, much shorter than the head. Legs short, dark brown. At rest the wingtips reach about the base of the tail. Tail moderately long, square to slightly notched, black. Sits quietly and rather hunched on twigs, picking buds and seeds; flight slightly undulating, showing the square white rump and the pale grey wing band against black wings and tail.",
+    "avoid": [
+      "Do not paint grey underparts with red only on the cheeks and throat; that is the grey-bellied bullfinch also wintering in Korea. This form is pink-red from the cheeks to the belly.",
+      "Do not let the black cap spread over the cheeks or onto the nape; the cheeks are pink-red and the nape grey.",
+      "Do not paint a pink, yellow or pointed bill; it is short, stubby and black.",
+      "Do not paint the underparts scarlet or orange; they are rosy pink-red.",
+      "Do not paint a grey or brown rump; it is pure white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

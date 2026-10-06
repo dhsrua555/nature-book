@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Malayan Night Heron (Gorsachius melanolophus), adult: crown and short crest black; sides of the head and neck rich rufous-chestnut; back and wing coverts chestnut-brown finely vermiculated with black; throat white with a black stripe down the centre of the foreneck; underparts buffy-rufous with bold black-and-white streaks and spots down the centre; flight feathers black, the primaries tipped white. Bill short, thick and dark; bare lores and skin around the eye vivid blue; iris yellow; legs and feet greenish.",
+    "pose": "standing still on a shaded forest floor with the neck drawn in, side view",
+    "scene": "damp, shaded broadleaf forest floor on a southern Korean island during spring migration, leaf litter and ferns; no people, buildings or text",
+    "views": [],
+    "build": "Small, stocky, short-necked heron, smaller than a Black-crowned Night Heron, thickset with a large rounded head carrying a short black crest. Bill noticeably short for a heron, shorter than the head, thick, with a slightly arched culmen. Legs medium length and sturdy. Wings broad and rounded; in flight black flight feathers with white tips to the primaries show against the chestnut coverts. Tail short. Stands hunched and motionless in shade.",
+    "avoid": [
+      "Do not paint a chestnut crown without a black crest — that is Japanese Night Heron (Gorsachius goisagi); this species has a black crown and crest.",
+      "Do not give it a long dagger-like heron bill or a long neck; both are short.",
+      "Do not paint the grey back and white nape plumes of Black-crowned Night Heron.",
+      "Do not leave out the blue bare skin around the eye."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Cackling Goose (Branta hutchinsii), adult: black head and neck with white on the nape and around the neck, back and upperwing with indistinct blackish-grey bars, blackish-brown primaries, pale brown breast and belly, white upper and undertail coverts, black tail",
+    "subject": "Cackling Goose (Branta hutchinsii), adult, sexes alike, in winter: head and neck black, with a broad white cheek patch running from behind the eye under the chin to the other side like a chinstrap; often a white ring at the base of the black neck; breast and belly pale grey-brown, flanks slightly darker with pale fringes; back and wing coverts brown with indistinct pale and dark barring; primaries blackish-brown; uppertail coverts and undertail coverts white; tail black; bill short and black; dark eye; legs black.",
     "pose": "grazing on short grass, side view",
     "scene": "Korean winter: open wetland and harvested rice paddies beside a river; no people, buildings or text",
     "views": [
-      "adult, side view standing: black head and neck with white nape and neck ring, faintly barred back, pale brown breast and belly, white tail coverts, black tail",
-      "adult, in flight from above: blackish-brown primaries, white uppertail coverts, black tail"
-    ]
+      "adult, side view standing on short grass: black head and neck with a white cheek patch and a white ring at the neck base, faintly barred brown back, pale brown breast and belly, white tail coverts, black tail, black legs",
+      "adult, in flight seen from above: brown upperwing with blackish-brown primaries, black head and neck with white cheek, white U-shaped band on the uppertail coverts above the black tail"
+    ],
+    "build": "Small, compact goose, about 67cm, similar in size to a Greater White-fronted Goose, with a short neck, small rounded head and a short stubby bill, much shorter than the head. Legs medium length, black. At rest the wingtips reach or slightly pass the tail tip. Tail short, black, with white coverts above and below. In flight brown wings, black neck with white cheek, and a white U-shaped band on the uppertail coverts above the black tail.",
+    "avoid": [
+      "Do not omit the white cheek patch; it is the main mark of the species.",
+      "Do not paint a long neck and a long, wedge-shaped bill (Canada Goose, Branta canadensis); this species is short-necked and stubby-billed.",
+      "Do not paint a white collar on the upper neck without the cheek patch, as on Brant Goose.",
+      "Do not paint a white face or a black breast (Barnacle Goose)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

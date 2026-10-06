@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Scaly-breasted Munia (Lonchura punctulata), adult (sexes alike) in Korean grassland in autumn: face, chin and throat rich chocolate-brown; crown, nape, back and wings warm brown with faint pale shaft streaks; rump and tail dull olive-brown; breast and flanks white, each feather edged dark brown, giving a dense pattern of dark scales or crescents; centre of the belly plain white. Bill very deep, conical, dark slate-grey; eye dark; legs grey.",
+    "pose": "clinging to a seeding grass stem, side view",
+    "scene": "grassy embankment with seeding grasses beside harvested rice fields in Korea in autumn (October), warm light; no people, buildings or text",
+    "views": [],
+    "build": "Tiny, plump finch, clearly smaller than a sparrow, with a large rounded head, short neck and short tail; clings to grass stems and feeds on seeds in small flocks. Bill very deep and conical, almost as deep as it is long, much shorter than the head, dark slate-grey. Legs short, grey. Wings short and rounded, the wingtips reaching only the base of the tail. Tail short and slightly graduated, plain, without white.",
+    "avoid": [
+      "Do not paint wing bars, streaks on the underparts or white in the tail; the only bold pattern is the scaly breast and flanks.",
+      "Do not paint a pale, pink or red bill; the bill is dark slate-grey.",
+      "Do not paint a white rump or a black head (White-rumped Munia, Chestnut Munia).",
+      "Do not paint plain buff underparts on an adult; that is the juvenile."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

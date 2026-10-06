@@ -70,14 +70,24 @@
     }
   ],
   "art": {
-    "subject": "Adult male Blue-and-white Flycatcher of the Korean subspecies intermedia, a fairly large flycatcher about 16.5 cm long. Upperparts from forehead to tail glossy deep cobalt blue with a slight purplish sheen, the crown a little paler and brighter blue; lores, cheeks, ear-coverts, chin, throat and upper breast blackish with a dark blue wash (matt, not jet black), sharply cut off from the clean white lower breast, belly and undertail coverts; flanks dusky blue; tail blue-black with white bases to the outer tail feathers; flight feathers black edged cobalt; black bill; dark brown eye; slender dark brown legs.",
+    "subject": "Blue-and-white Flycatcher (Cyanoptila cyanomelana), adult male of the subspecies intermedia in breeding plumage, as seen in Korean mountain valleys from late April to July: upperparts from forehead to tail deep glossy cobalt blue, the crown a little brighter and paler; lores, cheeks, ear-coverts, chin, throat and upper breast blackish with a dark blue tinge (matt, not jet black), sharply cut off from the clean white lower breast, belly and undertail coverts; flanks dusky blue-grey; flight feathers blackish edged blue; tail blue with white bases to the outer feathers. Black bill; dark brown eye; slender blackish legs.",
     "pose": "perched upright on an exposed bare twig at the top of a tree, head raised as if singing",
     "scene": "steep wooded mountain valley in Korea in May, fresh green deciduous broadleaf foliage, a mossy rock cliff and a clear stream below; no people, buildings or text",
     "views": [
-      "adult male, perched, side view",
-      "adult female, perched, side view (grey-brown with pale cream throat patch, rufous-tinged rump and tail)",
-      "first-year male, perched, side view (brown head and body with blue wings, rump and tail)"
-    ]
+      "adult male, perched, side view: glossy cobalt-blue upperparts, blackish face, throat and upper breast with a dark blue tinge, sharp border with the white belly, dusky flanks, white bases to the outer tail feathers on the slightly spread tail, slender dark legs",
+      "adult female, perched, side view: grey-brown upperparts with a slight olive tone, rufous-tinged rump and tail, pale buffy-white throat patch, grey-brown breast, white belly, narrow pale eye-ring, dark legs",
+      "first-winter male (autumn, September), perched, side view: grey-brown head, throat and breast like a female, but wings, rump and tail already blue, the extent varying between birds"
+    ],
+    "build": "Fairly large flycatcher, 16.5cm, a little larger than a sparrow, sitting upright and still on high, exposed perches and sallying out after insects. Rounded head, short neck. Bill black, short, broad-based and flattened, much shorter than the head. Legs short, slender, blackish. Long wings, the tips reaching well onto the tail at rest. Tail medium length, square-ended; the white bases of the outer feathers show mainly in flight or when the tail is spread.",
+    "avoid": [
+      "Do not paint an all-blue throat and breast — that is Zappey's Flycatcher (Cyanoptila cumatilis); the Korean male has a blackish face and bib.",
+      "Do not paint long pink legs or a white throat with only a black side-stripe — that is Siberian Blue Robin (Larvivora cyane).",
+      "Do not give the female a blue rump or tail; hers are rufous-tinged brown.",
+      "Do not paint any orange or rufous on the male's underparts.",
+      "Do not make the male's dark bib glossy jet black; it is matt blackish with a blue tinge."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

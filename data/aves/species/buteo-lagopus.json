@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rough-legged Buzzard (Buteo lagopus), adult of the subspecies that winters in Korea: white head and breast, dark brown wings, white tail with a broad dark brown band at the tip",
+    "subject": "Rough-legged Buzzard (Buteo lagopus), adult female-type plumage as typical of birds wintering in Korea (December–February): head creamy white with fine dark streaks; breast whitish-buff with sparse dark streaks; a broad, solid dark brown band across the belly and flanks; upperparts and upperwing dark brown with paler feather edges and a whitish patch at the base of the primaries; underwing whitish with a large black carpal patch, dark wingtips and a dark trailing edge; tail white on the basal half with a broad dark brown band at the tip. Short hooked dark bill with a yellow cere; legs feathered buff to the toes; bare toes yellow.",
     "pose": "perched on a wooden post in open country, watching the ground for rodents",
     "scene": "Korean winter open plain with scattered rocks and old wooden posts; no people, buildings or text",
     "views": [
-      "adult, side view perched: white head and breast, dark brown wings, white tail with a broad dark brown terminal band",
-      "adult, flight view from above: dark brown wings, white tail with a broad dark brown band at the tip"
-    ]
+      "adult, side view perched on a post: creamy-white head and whitish breast, dark brown belly band, dark brown wings, legs feathered to the toes, white tail with a broad dark brown terminal band",
+      "adult in flight seen from above: dark brown upperwing with a whitish patch at the base of the primaries, white uppertail coverts and tail base, broad dark brown band at the tail tip"
+    ],
+    "build": "Large buzzard, 50–60cm long, slightly bigger and longer-winged than Eastern Buzzard. Rounded head, small hooked bill, and fluffy legs feathered right down to the toes. Long, fairly narrow wings; at rest the wingtips reach about the tail tip. Tail fairly long, white at the base. Often hovers on fast-beating wings over open ground and perches on posts, rocks and fence tops; glides on slightly raised wings.",
+    "avoid": [
+      "Do not paint bare yellow legs; the legs are feathered to the toes.",
+      "Do not paint a brown, evenly barred tail without a white base — that is Eastern Buzzard (Buteo japonicus).",
+      "Do not paint the head dark; it is whitish with fine streaks.",
+      "Do not paint a white belly; the dark belly band is a key mark of this plumage."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Murrelet (Synthliboramphus wumizusume), adult: crest plumes on the head",
+    "subject": "Japanese Murrelet (Synthliboramphus wumizusume), adult in breeding plumage, as seen at sea around Korean breeding islets from about February to May: head black with a loose crest of long black plumes rising from the crown; a broad white stripe starts above each eye and runs back along the sides of the crown to meet the other on the nape, so the black crown is framed by white; face and chin black, but the lower throat white, not black; upperparts dark bluish-grey to blackish; underparts white; short, thick bluish-grey bill with a darker ridge; dark brown eye; yellowish-grey legs and feet.",
     "pose": "swimming on the sea, side view",
-    "scene": "Korean coastal sea around a small rocky island; no people, buildings or text",
+    "scene": "Korean coastal sea around a small rocky breeding islet in March-April; no people, buildings or text",
     "views": [
-      "adult, side view swimming: crest plumes on the head",
-      "adult, head detail: crest plumes"
-    ]
+      "adult breeding, side view swimming on the sea: black head with crest plumes raised on the crown, white stripes from above the eye meeting on the nape, dark bluish-grey back, white underparts at the waterline, short bluish-grey bill",
+      "adult breeding, head detail in side view: loose crest of long black plumes on the crown, broad white crown-side stripe from above the eye to the nape, black face and chin, white lower throat, stubby bluish-grey bill"
+    ],
+    "build": "Small, compact auk, about the size of a Little Grebe, with a thick neck, chunky body and short pointed wings; floats low on the sea and dives often, swimming underwater with its wings. Bill short, stubby and deep, much shorter than the head. Legs short and set far back, rarely visible except in flight or on land. Tail very short. Flies fast and low with whirring wingbeats, the body cigar-shaped, white below and dark above.",
+    "avoid": [
+      "Do not paint an all-black throat and thin white streaks over the eye without a crest - that is Ancient Murrelet (Synthliboramphus antiquus).",
+      "Do not give it a long, pointed or yellow bill.",
+      "Do not paint a long duck- or grebe-like neck; this auk is thick-necked and compact.",
+      "Do not paint the crest as a single stiff horn; it is a tuft of loose black plumes."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

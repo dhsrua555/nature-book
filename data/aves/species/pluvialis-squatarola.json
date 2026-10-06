@@ -45,14 +45,23 @@
   "young": "어른 겨울깃과 비슷하지만 윗면의 검은색과 흰 반점이 더 뚜렷하고, 가슴과 옆구리의 줄무늬도 뚜렷하다.",
   "similar": [],
   "art": {
-    "subject": "Grey Plover (Pluvialis squatarola), adult: black upperparts with rows of white spots, broad white stripe running along the side from head to tail, black underparts, black bill, dark greyish-black legs",
+    "subject": "Grey Plover (Pluvialis squatarola), adult male in breeding plumage, as seen on Korean coasts in late April and May: forehead and crown whitish-grey; a broad white band starts on the forehead, runs over the eye and down the side of the neck and ends in a white patch at the side of the breast; face, throat, breast, belly and flanks solid black; vent and undertail coverts white. Upperparts spangled black and silvery-white, each feather black with white notches and tips, giving rows of white spots. Bill black, short and stout; eye large and dark; legs dark grey to blackish.",
     "pose": "standing on a tidal flat, side view",
     "scene": "Korean coastal reclaimed land with sand dunes and salt-marsh grass beside a delta, during spring migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: black upperparts with rows of white spots, broad white side stripe from head to tail, black underparts, black bill, dark grey-black legs",
-      "adult in flight, from below: large black patch in the armpit",
-      "juvenile, side view standing: crisper black and white spotting on the upperparts, streaked breast and flanks"
-    ]
+      "adult male breeding (late April–May), side view standing: silver-and-black spangled upperparts, broad white band from the forehead over the eye down the neck to the breast side, solid black face and underparts, white vent, short black bill, dark grey legs",
+      "adult, in flight seen from below: black axillary patch in the armpit contrasting with the whitish underwing, white vent, barred whitish tail",
+      "juvenile (September–October), side view standing: dark brown upperparts with crisp pale spots and fringes, finely streaked breast and flanks, pale belly, short black bill"
+    ],
+    "build": "Medium-large, chunky plover, 29.5cm, clearly bigger and heavier than a Pacific Golden Plover and much larger than sand plovers. Big rounded head with a large dark eye, short thick neck, plump body. Bill black, short and stout, shorter than the head, slightly swollen at the tip. Legs medium length, dark grey. At rest the wingtips reach just past the tail tip. In flight shows a white wing bar, a white rump and a barred whitish tail, and a black patch in the 'armpit' (axillaries) on an otherwise whitish underwing. Feeds by run-stop-peck on mudflats.",
+    "avoid": [
+      "Do not continue the white side stripe along the flanks to the tail; that is Pacific Golden Plover (Pluvialis fulva). Here it ends at the breast side.",
+      "Do not paint golden-yellow spangling on the upperparts (Pacific Golden Plover).",
+      "Do not paint black undertail coverts; the vent is white.",
+      "Do not paint pale armpits in flight; the black axillary patch is the key mark."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

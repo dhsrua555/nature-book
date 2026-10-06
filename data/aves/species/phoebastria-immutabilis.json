@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Laysan Albatross (Phoebastria immutabilis), adult: head, neck, rump and underparts white; a dusky grey smudge in front of and around the eye gives a shadowed look; mantle, back and upperwings uniform blackish-brown; tail dark grey; underwing white with broad dark leading and trailing margins and variable dark blotches and streaks across the coverts. Bill pinkish to pale yellowish-pink with a dark grey tip; feet pinkish-flesh.",
+    "pose": "gliding stiff-winged low over the sea, one wingtip close to the water, side view",
+    "scene": "open ocean swell far off the Korean coast under a grey sky; no people, buildings or text",
+    "views": [],
+    "build": "Large albatross with a wingspan far greater than any gull's; heavy body, thick neck and large head. Bill stout, about as long as the head, deep, made of horny plates and hooked at the tip. Legs short with large webbed feet that often project beyond the tail tip in flight. Wings very long and narrow, held stiff and straight in shearing, gliding flight low over the waves with few wingbeats. Tail short and rounded.",
+    "avoid": [
+      "Do not paint a white back, golden-yellow head wash or huge pink bill with a bluish tip — those are Short-tailed Albatross (Phoebastria albatrus).",
+      "Do not paint pale grey gull-like upperparts; the mantle and upperwings are uniform blackish-brown.",
+      "Do not leave the underwing pure white; it has dark margins and dark marks on the coverts.",
+      "Do not draw it flapping like a gull; it glides on stiff, straight wings."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

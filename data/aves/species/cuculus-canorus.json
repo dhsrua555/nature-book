@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Cuckoo (Cuculus canorus), adult: yellow iris and eye-ring, blackish-grey upperparts, dusky wingtips and tail, blackish-grey head, throat and breast, white belly and vent with fine dusky barring",
+    "subject": "Common Cuckoo (Cuculus canorus), adult male, grey type (most adult females look the same), as seen in Korea from May to August: head, upperparts, throat and upper breast plain ash-grey, darker slate on the wings; lower breast, belly and flanks white with thin, evenly spaced dark grey bars; undertail coverts white with sparse bars; tail long and graduated, blackish-grey with small white spots along the shafts and white tips. Bill dark grey with a yellow base and gape. Iris and bare eye-ring yellow. Short yellow legs.",
     "pose": "perched on an exposed branch at a field edge",
     "scene": "Korean lowland hills bordering open fields and farmland; no people, buildings or text",
     "views": [
-      "adult, side view perched: yellow eye and eye-ring, blackish-grey upperparts and breast, dusky wingtips and tail, white belly with fine dusky bars",
-      "adult, front view perched: blackish-grey throat and breast, white belly with fine dusky barring"
-    ]
+      "adult, side view perched horizontally on a branch: yellow iris and eye-ring, ash-grey head, upperparts and upper breast, drooped slate wings, long blackish tail with white spots, white belly with thin dark bars, small yellow feet",
+      "adult, front view perched: ash-grey throat and upper breast cut off sharply from the white, thinly barred belly; yellow eye-ring"
+    ],
+    "build": "Slim, long-tailed, long-winged bird, 32–36cm, about the length of a feral pigeon but much slimmer, with a small head; recalls a small falcon or sparrowhawk in shape. Bill short (shorter than the head), slightly decurved, not hooked. Legs very short, yellow, two toes forward and two back. Perches horizontally with the wings drooped at the sides below the tail base and the long graduated tail often slightly raised or fanned. In flight pointed wings beating mostly below body level, long tail, head held up.",
+    "avoid": [
+      "Do not paint a hooked raptor bill or strong talons; despite its hawk-like shape it has a small, slightly curved bill and tiny yellow feet.",
+      "Do not paint broad, widely spaced black bars; Common Cuckoo's bars are thin (broader bars suggest Oriental Cuckoo).",
+      "Do not paint a dark or red iris; it is yellow.",
+      "Do not extend the grey onto the belly; the grey ends on the upper breast."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Crested Myna (Acridotheres cristatellus), adult (sexes alike, plumage similar year-round): entire plumage black with a slight dull gloss; a short bushy tuft of feathers rising from the forehead above the bill base; a white patch at the base of the primaries, showing as a small white mark on the folded wing; undertail coverts black with narrow white tips; tail black with narrow white tips to the outer feathers; bill ivory to pale yellowish; iris pale orange-yellow; legs dull orange-yellow.",
+    "pose": "walking on short grass, side view, forehead tuft visible",
+    "scene": "open grassy farmland edge with scattered trees on a Korean offshore island in spring, bright daylight; no people, buildings or text",
+    "views": [],
+    "build": "A stocky, starling-like bird, a little larger than a White-cheeked Starling, with a short tail and strong legs. Head with a distinctive erect tuft on the forehead just above the bill. Bill stout and straight, slightly shorter than the head. Legs medium and sturdy, orange-yellow; walks with a strutting gait. Tail short and square. In flight the broad, rounded wings show a large white patch at the base of the primaries, conspicuous from above and below.",
+    "avoid": [
+      "Do not paint bare yellow skin around the eye or a brown body; that is Common Myna (Acridotheres tristis).",
+      "Do not paint white undertail coverts; that is Javan Myna (Acridotheres javanicus).",
+      "Do not paint a long crest on the crown; it is a short tuft on the forehead.",
+      "Do not make the bill orange or black; it is ivory to pale yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

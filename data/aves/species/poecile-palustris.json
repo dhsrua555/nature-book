@@ -74,14 +74,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Marsh Tit (Poecile palustris hellmayri, South Korean population), a small tit about 12.5 cm long. Glossy black cap and nape with a faint blue sheen; a small, neat black bib under the bill; white cheeks and sides of the throat; upperparts plain pale grey-brown with no wing bars; breast, flanks and belly greyish white; tail pale brownish grey; short, stout black bill with a narrow pale cutting edge; dark grey legs. Sexes alike.",
+    "subject": "Marsh Tit (Poecile palustris), adult (sexes alike, plumage the same all year): glossy blue-black cap from the forehead to the nape; a small, neat black bib under the bill; white cheeks and sides of the neck; upperparts plain pale grey-brown; wings and tail grey-brown with no wing bar and no pale panel; breast, flanks and belly greyish white with a faint buff tinge on the flanks; short stout black bill with a small pale mark at the base of the upper mandible's cutting edge; dark eye; dark grey legs.",
     "pose": "perched on a thin twig, body slightly upright, side view, alert",
     "scene": "Korean deciduous broadleaf forest on a low hillside in early spring: bare oak and maple twigs with swelling buds, a mossy trunk with an old woodpecker hole softly blurred behind; no people, buildings or text",
     "views": [
-      "adult, perched, side view",
-      "adult, perched, front three-quarter view showing the small black bib",
-      "adult head, close side profile showing the glossy cap and pale cutting edge of the bill"
-    ]
+      "adult, perched on a twig, side view: glossy black cap, white cheek, plain grey-brown back and wings without bars, greyish-white underparts, small black bib",
+      "adult, perched, front three-quarter view: small neat black bib under the bill, white cheeks, pale underparts with no belly stripe",
+      "adult head, close side profile: glossy black cap, white cheek, short black bill with a small pale mark at the base of the cutting edge"
+    ],
+    "build": "Small tit, about 12.5cm: a little smaller than a Cinereous Tit and smaller than a sparrow. Rounded head with no crest, short neck, neat compact body. Bill short, stout, black, much shorter than the head. Legs short, dark grey. At rest the wingtips reach the base of the tail. Tail medium length, square to slightly notched, plain grey-brown. Active and acrobatic, often hiding seeds in bark crevices.",
+    "avoid": [
+      "Do not paint a white nape patch or wing bars; that is Coal Tit.",
+      "Do not paint a black belly stripe or a white cheek surrounded by black; that is Cinereous Tit.",
+      "Do not paint a pale panel on the folded wing or a dull sooty cap; those suggest Willow Tit.",
+      "Do not paint the bib large and ragged; it is small and neat."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White Wagtail (Motacilla alba lugens), adult: white forehead and crown, black hindcrown and nape, white supercilium, white chin, throat and cheeks, 1 cm-wide black band across the breast, white underparts below it, rest of the plumage grey, long slender tail",
+    "subject": "White Wagtail (Motacilla alba), adult male of the black-backed form lugens in winter (November–March): forehead and front of the crown white; rear crown and nape black; a thin black eye-stripe from the lores through the eye; white supercilium, cheeks, chin and throat; a narrow black crescent band across the upper breast; rest of the underparts white; mantle, back and rump grey; wings black with a very large white panel over the coverts and secondaries; tail long and black with white outer feathers; bill black; dark eye; black legs.",
     "pose": "walking along the water's edge, side view",
     "scene": "Korean winter: farmland beside the lower reaches of a river with a gravelly water's edge; no people, buildings or text",
     "views": [
-      "adult, side view standing: white forehead and crown, black nape, white face and throat, black breast band, white underparts, rest of plumage grey, long tail",
-      "adult, front view: white face and throat above a narrow black breast band"
-    ]
+      "adult male winter, side view walking at the water's edge: white forehead and face, thin black eye-stripe, black rear crown and nape, white throat, black breast band, white belly, grey back, large white wing panel, long black tail edged white",
+      "adult male winter, front view: white forehead, face and throat, thin black line through each eye, narrow black crescent across the breast, white underparts",
+      "adult male, in flight seen from above: grey back, wings largely white with black primary tips, black tail with white outer feathers, head, body and tail in line"
+    ],
+    "build": "Slim, long-tailed wagtail, 21cm including the long tail — clearly longer than a sparrow. Rounded head and a thin, straight black bill shorter than the head. Legs black, slender and fairly long; walks briskly with a nodding head. At rest the large white wing panel shows on the folded wing. Tail long and narrow, black with white outer feathers, constantly wagged up and down. Flight deeply undulating, showing largely white wings with black primary tips.",
+    "avoid": [
+      "Do not omit the thin black eye-stripe; it separates lugens from the white-faced Amur Wagtail (Motacilla alba leucopsis).",
+      "Do not paint an all-black head (Japanese Wagtail, Motacilla grandis).",
+      "Do not make the breast band a full black bib in winter; it is a narrow crescent below a white throat.",
+      "Do not paint yellow underparts or pink legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

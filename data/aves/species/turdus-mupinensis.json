@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Chinese Thrush (Turdus mupinensis), adult (sexes alike), as seen in Korea on spring migration: crown, upperparts and tail plain olive-brown; face whitish-buff with bold black markings: a black bar below and behind the eye, a black crescent at the rear of the ear-coverts and a black malar stripe; two whitish-buff wing-bars on the median and greater coverts; underparts white, washed buff on the breast, boldly marked with large rounded black spots on the breast, flanks and upper belly. Bill dark with a yellowish base to the lower mandible; dark eye; legs pale pinkish-brown.",
+    "pose": "standing upright on leaf litter under trees, side view",
+    "scene": "forest floor with leaf litter and young shrubs on a Korean offshore island during spring migration in May; no people, buildings or text",
+    "views": [],
+    "build": "Medium thrush, about the size of a Pale Thrush and a little smaller than a Dusky Thrush; plump-bodied and upright with a rounded head. Bill straight, shorter than the head. Legs fairly long, pale. Wings marked with two pale bars on the coverts; tail medium length, square-ended and plain. Hops on the forest floor, turning leaves and standing tall between hops.",
+    "avoid": [
+      "Do not paint golden-buff scaly crescents on the upperparts; that is White's Thrush (Zoothera aurea).",
+      "Do not leave the wing plain; it has two clear pale wing-bars.",
+      "Do not paint rufous on the flanks or tail.",
+      "Do not turn the black spots into streaks; they are large and rounded."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

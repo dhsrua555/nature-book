@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "American Pipit (Anthus rubescens), adult winter: small and slim with a long tail and long legs, brown head and upperparts with faint streaks, pale lores, distinct malar stripe, white underparts with black streaks, pinkish base to the lower mandible, reddish flesh-coloured legs",
+    "subject": "American Pipit (Anthus rubescens) of the Asian subspecies japonicus (Buff-bellied Pipit), adult in winter plumage, as seen in Korea from November to March: crown and upperparts grey-brown with only faint dark streaks; a whitish supercilium and pale lores giving an open-faced look; a bold blackish malar stripe broadening into a dark patch on the side of the throat; two whitish wing-bars; underparts white with a faint buff wash, the breast and flanks boldly streaked black; dark brown tail with white outer tail feathers. Thin dark bill with a pinkish base to the lower mandible; dark eye; reddish flesh-coloured legs.",
     "pose": "walking on a paddy bund, picking seeds and insects, a small flock nearby",
     "scene": "Korean winter rice paddies: harvested stubble fields beside a river; no people, buildings or text",
     "views": [
-      "adult winter, side view on ground: faintly streaked brown upperparts, white underparts streaked black, long tail, reddish flesh-coloured legs",
-      "head detail: pale lores, distinct malar stripe, pinkish base to lower mandible"
-    ]
+      "adult winter, side view walking on a paddy bund: faintly streaked grey-brown upperparts, whitish supercilium, two whitish wing-bars, white underparts boldly streaked black on breast and flanks, long dark tail, reddish flesh-coloured legs",
+      "adult winter, head detail in side view: pale lores, whitish supercilium, bold blackish malar stripe, thin dark bill with a pinkish base to the lower mandible"
+    ],
+    "build": "Small, slender pipit, about 16cm, a little longer than a sparrow, with a long tail and fairly long legs; horizontal stance, walks steadily over wet fields and pumps its tail up and down. Bill thin, straight and pointed, shorter than the head. Legs reddish flesh-pink, medium length, with a moderately long hind claw. Tail long and square-ended, dark with white outer feathers that show in flight. Usually in small flocks on paddies, riverbanks and shores.",
+    "avoid": [
+      "Do not paint heavy black-and-white streaks on the back or a streaked rump; that is Red-throated Pipit (Anthus cervinus), which also has a pinkish-red throat in spring.",
+      "Do not paint dark brown or blackish legs; this Asian form has pale reddish-pink legs.",
+      "Do not give it an olive-green back with a white-and-black spot on the ear-coverts; that is Olive-backed Pipit (Anthus hodgsoni).",
+      "Do not make the streaks below fine and brown; they are bold and black on a white ground."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

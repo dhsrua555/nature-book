@@ -51,14 +51,23 @@
   "young": "어린새는 머리꼭대기에서 뒷목까지 황갈색이다.",
   "similar": [],
   "art": {
-    "subject": "White-naped Crane (Grus vipio), adult: bare red skin around the eye, white head and hindneck, grey foreneck, grey body, black primaries and secondaries covered by white tertials when the wings are folded",
+    "subject": "White-naped Crane (Grus vipio), adult, as seen in Korean winter fields and estuaries from November to March: crown, nape and a broad stripe down the back of the neck white; a patch of bare red skin around the eye, reaching forward to the bill base and edged with fine black bristles; throat white; foreneck and sides of the neck dark slate-grey, the grey narrowing to a point on the side of the head. Body dark slate-grey; upperwing coverts paler silvery-grey; tertials long, pale whitish-grey, drooping over the tail like a bustle. Primaries and secondaries black. Bill pale greenish-yellow; legs and feet pinkish-red.",
     "pose": "standing alert with head raised in a harvested rice field",
     "scene": "Korean winter harvested rice paddies near a river estuary and mudflats; no people, buildings or text",
     "views": [
-      "adult, side view standing: red skin around the eye, white head and hindneck, grey foreneck and body, white tertials over the folded wing",
-      "adult, flight view: grey body with black primaries and secondaries",
-      "juvenile, side view: yellowish-brown crown and hindneck"
-    ]
+      "adult, side view standing: red facial skin around the eye, white crown and hindneck stripe, dark grey foreneck and neck sides, slate-grey body, pale whitish tertials drooping over the folded wing, pinkish-red legs",
+      "adult, in flight seen from above: neck stretched forward and legs trailing, slate-grey body, pale silvery-grey upperwing coverts contrasting with black primaries and secondaries",
+      "juvenile (first winter), side view standing: head and upper neck tawny yellowish-brown from crown to hindneck, no red facial skin yet, grey body mottled brownish"
+    ],
+    "build": "Large crane, about 127cm, much taller than a Grey Heron and slightly smaller than a Red-crowned Crane. Long neck, small head; bill straight, about as long as the head or a little longer. Legs very long, pinkish-red, with bare tibia. At rest the folded wings are covered by the long, pale, drooping tertials that hide the short tail. In flight the neck is stretched forward and the legs trail well beyond the tail; the upperwing shows pale silvery-grey coverts contrasting with black flight feathers. In winter moves in family groups of two adults and one or two young.",
+    "avoid": [
+      "Do not paint a black neck or a white body — that is Red-crowned Crane.",
+      "Do not paint black or dark legs; this species has pinkish-red legs.",
+      "Do not paint a black throat with a white stripe behind the eye (Common Crane) or an all-white head and upper neck (Hooded Crane).",
+      "Do not put the red only on the crown; the red bare skin surrounds the eye."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -51,14 +51,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Spoon-billed Sandpiper (Calidris pygmaea), adult breeding: black bill with a spoon-shaped tip, rufous face, breast and back, dark mottling on the breast sides, black legs",
+    "subject": "Spoon-billed Sandpiper (Calidris pygmaea), adult in breeding plumage, as seen on Korean west-coast tidal flats in May: face, throat, neck and upper breast bright rufous-orange; crown rufous with fine dark streaks; mantle and scapulars with black centres and rufous to buff fringes; lower edge of the rufous breast and the breast sides marked with small dark spots; rest of the underparts white. Bill black, narrowing behind the tip and then broadening into a flat, round-ended spatula; dark eye; black legs.",
     "pose": "feeding on a sandy mudflat, probing with its spoon-shaped bill",
-    "scene": "Korean west coast in spring or autumn: sandy tidal flat near a river mouth; no people, buildings or text",
+    "scene": "Korean west-coast sandy tidal flat near a river mouth in May, wet sand and shallow pools at low tide; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: rufous face, breast and back, dark mottling on the breast sides, black spoon-tipped bill, black legs",
-      "adult non-breeding, side view: pale grey head, white supercilium and breast, black legs",
-      "head detail: black bill broadening into a spoon-shaped tip"
-    ]
+      "adult breeding (May), side view standing: rufous-orange face, throat and upper breast, small dark spots along the lower breast border, black-centred rufous-fringed upperparts, white belly, black spatulate bill, black legs",
+      "adult non-breeding (late autumn), side view standing: pale grey-brown upperparts with dark shaft streaks, white forehead and broad white supercilium, white breast with a little grey on the sides, black bill and legs",
+      "head detail, seen from the front and slightly above: black bill narrowing behind the tip and broadening into a flat, rounded spoon at the end"
+    ],
+    "build": "Small, stocky stint, about 15cm, the size of a Red-necked Stint and a little larger than a tree sparrow; large head, short neck, horizontal stance. Bill black, about as long as the head, widening only in its outer third into a flat spoon; from the side the tip looks merely deepened, and the spoon shape is clear from the front or from above. Legs black and short. Feeds with a side-to-side sweeping motion of the bill in wet mud and shallow water. In flight a narrow white wing-bar and white sides to a dark rump.",
+    "avoid": [
+      "Do not paint an oversized spoon like a spoonbill or shoveler; the spatula is small and sits at the very tip of a stint-sized bill.",
+      "Do not paint a fine pointed bill tip; that is Red-necked Stint (Calidris ruficollis), which otherwise looks very similar.",
+      "Do not paint pale or yellowish legs.",
+      "Do not paint the rufous breeding face on the non-breeding bird."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

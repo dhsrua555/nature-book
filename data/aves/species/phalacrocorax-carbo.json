@@ -98,14 +98,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Great Cormorant (Phalacrocorax carbo), adult: glossy black overall, yellow base of the bill, white cheek patch with a rounded border",
+    "subject": "Great Cormorant (Phalacrocorax carbo), adult in non-breeding plumage (Korean winter): black with a blue-green gloss on the head, neck and underparts; mantle, scapulars and wing coverts bronze-brown, each feather edged black, giving a scaly look; a patch of bare yellow skin at the base of the bill and around the gape, bordered behind by a white cheek and throat patch whose rear edge is rounded; no white plumes on the head and no white thigh patch at this season; bill dark grey with a paler lower mandible and a hooked tip; emerald-green eye; black legs and feet.",
     "pose": "swimming low in the water, about to dive for food",
     "scene": "Korean winter estuary: a wide river mouth with open water and a sandy shore; no people, buildings or text",
     "views": [
-      "adult, side view perched: glossy black, yellow bill base, white cheek with a rounded border",
-      "adult breeding, side view perched: white filamentous plumes on hindcrown and hindneck, white thigh patch",
-      "flock in flight: birds flying in a regular formation like geese"
-    ]
+      "adult non-breeding, side view perched upright on a rock: glossy black body with bronze-brown scaly back, yellow bare skin at the bill base, white cheek patch with a rounded rear border, hooked bill, green eye",
+      "adult breeding plumage (late winter to spring), side view perched upright: white hair-like plumes on the hindcrown and hindneck, a white patch on the thigh, glossy blue-black body, yellow bill base, white cheek with a rounded border",
+      "flock in flight seen from below: birds in a regular V or line formation like geese, necks outstretched, long rounded tails, all-dark bodies and broad dark wings"
+    ],
+    "build": "Large, long-bodied waterbird, about 82cm: much larger than a Mallard, nearly goose-sized, with a long thick neck and a flat-crowned head. Bill about as long as the head, straight, slender and sharply hooked at the tip. Legs short, black, set far back, with large feet in which all four toes are joined by webs. Wings broad; at rest they reach about the base of the tail, and are often held half-open to dry. Tail fairly long, stiff and rounded. Swims low with only the back above water and the bill tilted up. Flies with the neck outstretched and slightly kinked; flocks travel in V-shapes or long lines like geese.",
+    "avoid": [
+      "Do not end the yellow facial skin in a sharp point behind the gape; that is Temminck's (Japanese) Cormorant.",
+      "Do not paint white head plumes or a white thigh patch on the non-breeding bird.",
+      "Do not paint orange legs or duck feet with a free hind toe; the feet are black with all four toes webbed.",
+      "Do not give the adult a white belly; whitish underparts belong to young birds."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

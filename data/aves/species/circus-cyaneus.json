@@ -36,13 +36,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Hen Harrier (Circus cyaneus), adult male: pale grey overall",
+    "subject": "Hen Harrier (Circus cyaneus), adult male, as seen over Korean farmland and marshes from November to March: head, upperparts and breast pale blue-grey; owl-like facial disc; belly, flanks and undertail coverts white; outer five primaries black, forming a broad black wingtip; a dark grey trailing edge to the secondaries; uppertail coverts white, forming a white rump patch; tail pale grey with faint bars. Bill small, black and hooked, with a yellow cere; iris yellow; legs long, thin and yellow.",
     "pose": "flying low over a field, searching for prey",
     "scene": "Korean winter farmland: harvested rice fields beside a marsh; no people, buildings or text",
     "views": [
-      "adult male, side view perched: pale grey overall",
-      "adult female, side view perched: brown overall"
-    ]
+      "adult male, side view perched: pale blue-grey head, upperparts and breast, white belly, black wingtips, yellow eye and long yellow legs",
+      "adult male, flight from below: white underwing and belly, black outer five primaries, dark trailing edge to the secondaries, white rump, pale grey tail",
+      "adult female, side view perched: brown upperparts, owl-like face with a pale rim, buff underparts heavily streaked brown, white rump, long tail barred dark brown and buff, yellow eye"
+    ],
+    "build": "Slim, medium-sized raptor, about the length of a crow but much lighter, with long wings and a long tail. Small head with an owl-like facial ruff. Bill small and hooked. Legs long and slender, yellow. At rest the wingtips fall short of the tail tip. Tail long and narrow, rounded at the tip. Quarters low and slowly over fields and reeds, a few wingbeats then a glide on wings raised in a shallow V; the wings are broad-based with a blunt, five-fingered tip.",
+    "avoid": [
+      "Do not paint a black head, black back or black wing bands on the male; those are Pied Harrier features.",
+      "Do not paint only a narrow black wedge of three or four primaries (Pallid Harrier); the male's black tip spans five primaries.",
+      "Do not draw a heavy, short-tailed buzzard shape; harriers are slim and long-tailed.",
+      "Do not omit the white rump on either sex."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

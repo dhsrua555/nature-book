@@ -49,13 +49,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Wilson's Phalarope (Phalaropus tricolor), adult breeding: slim body, long needle-like bill, grey crown, blackish wine-coloured stripe from the bill base down the neck, grey upperparts with a few wine-coloured patches, white underparts, long black legs",
+    "subject": "Wilson's Phalarope (Phalaropus tricolor), adult female in breeding plumage, as seen in spring: crown and hindneck pale silvery grey; a black stripe from the bill base through the eye and down the side of the neck, turning deep wine-chestnut on the lower neck; white throat, with a warm orange-buff wash on the foreneck; back and scapulars grey with two long wine-chestnut stripes; wings grey-brown; underparts white; rump white. Long, needle-thin black bill; dark eye; black legs.",
     "pose": "wading in shallow fresh water, side view",
-    "scene": "Korean shallow freshwater marsh beside an open lake; no people, buildings or text",
+    "scene": "Korean shallow freshwater marsh beside an open lake in May; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: needle-like bill, grey crown, dark wine stripe down the neck, grey upperparts with wine patches, white underparts, black legs",
-      "adult male breeding, side view standing: darker crown, grey-brown upperparts, faintly chestnut upper breast, white underparts"
-    ]
+      "adult female breeding, side view standing in shallow water: needle-thin black bill, pale grey crown, black stripe through the eye turning wine-chestnut down the neck side, grey back with chestnut stripes, white underparts, long black legs",
+      "adult male breeding, side view standing: duller and browner than the female, darker crown, grey-brown upperparts, faint chestnut on the neck and upper breast, white underparts, black legs"
+    ],
+    "build": "Slender, long-necked wader, a little larger than the Red-necked Phalarope and close to the Marsh Sandpiper in size, with a small head. Bill black, straight and needle-thin, slightly longer than the head. Legs long, black in the breeding season and yellow in winter; toes narrowly lobed. Wings plain, with no wing bar; in flight plain grey-brown wings and a white rump. Feeds by walking briskly on mud and spinning on shallow water. Males are duller than females.",
+    "avoid": [
+      "Do not add a white wing bar; Red-necked and Red Phalaropes have one, Wilson's does not.",
+      "Do not paint a red patch on the neck with a dark grey head (female Red-necked Phalarope, Phalaropus lobatus).",
+      "Do not make the bill thick or curved; it is straight and needle-thin."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

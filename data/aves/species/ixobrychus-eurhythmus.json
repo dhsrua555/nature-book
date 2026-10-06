@@ -56,13 +56,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male: dark chestnut from forehead to scapulars, pale chestnut-brown rump, deep reddish-chestnut ear coverts and neck sides, creamy-white chin and throat sides, a single dark brown stripe from chin to breast, buff foreneck, breast and belly, brownish breast sides and flanks",
+    "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male in the breeding season, as seen in Korean reedbeds from May to August: crown and upperparts from the forehead to the back and scapulars dark chestnut-maroon; ear-coverts, neck sides and hindneck deep reddish-chestnut; chin and sides of the throat creamy white; foreneck, breast and belly buff, with a single dark brown stripe running from the chin down the centre to the breast; breast sides and flanks washed brown; folded wing coverts pale greyish-buff contrasting with the dark back, flight feathers blackish; rump paler chestnut-brown. Bill yellowish with a dark ridge; yellow iris; legs yellowish-green.",
     "pose": "standing motionless among reeds at the water's edge, side view",
     "scene": "Korean summer wetland near the southwest coast: reedbed and small pools with dense grass; no people, buildings or text",
     "views": [
-      "adult male, side view standing: dark chestnut upperparts, reddish-chestnut neck, single dark stripe down the buff underparts",
-      "adult female, side view standing: dark chestnut back and scapulars scattered with small round white spots"
-    ]
+      "adult male, side view standing on a reed stem: dark chestnut from forehead to scapulars, deep reddish-chestnut ear-coverts and neck sides, creamy-white chin and throat sides, single dark brown stripe down the buff foreneck to the breast, buff belly",
+      "adult female, side view standing: crown dark chestnut like the male, dark chestnut back and scapulars scattered with small round white spots, white spots also on the wing coverts, buff underparts with dark brown streaks down the foreneck"
+    ],
+    "build": "Small heron, about 38cm long, slightly larger and darker than Yellow Bittern and much smaller than Black-crowned Night Heron; slim, laterally compressed body for slipping through reeds. Neck fairly long, usually drawn in, but stretched upright with the bill skyward when alarmed. Bill straight and sharp, about as long as the head or a little longer. Legs medium length, yellowish-green, with long toes for clasping reed stems. Very short tail. In flight blackish flight feathers contrast with paler buff wing coverts; legs trail beyond the tail.",
+    "avoid": [
+      "Do not give the male a black cap and a pale yellowish-brown back — that is Yellow Bittern (Ixobrychus sinensis).",
+      "Do not paint wholly cinnamon-rufous wings without dark flight feathers — that is Cinnamon Bittern (Ixobrychus cinnamomeus).",
+      "Do not put white spots on the adult male; they belong to the female and young birds.",
+      "Do not paint a long-necked, long-legged egret shape; it is a small, compact reed bittern."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

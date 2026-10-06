@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Snipe (Gallinago gallinago), adult: blackish head, dark brown upperparts with four white stripes along the back, buff breast with many black spots, white belly and undertail coverts, white stripes on the upper and under wing, rufous tail",
+    "subject": "Common Snipe (Gallinago gallinago), adult (sexes alike, same plumage all year), as seen in Korean winter paddies and stream-side marsh: crown blackish-brown with a narrow buff central stripe; buff supercilium; a dark eye-stripe that is broader than the supercilium in front of the eye; dark cheek bar; upperparts dark brown and black with four bold creamy-buff stripes running lengthwise along the mantle and scapulars; neck and breast buff, heavily streaked and spotted blackish; flanks barred dark brown; belly clean white; bill very long and straight, greyish-brown at the base and blackish towards the tip; dark eye set high on the head; short greenish-grey legs.",
     "pose": "standing at the grassy edge of a wet rice field, side view",
     "scene": "Korean winter rice paddies and stream-side marsh in the southern half of the country; no people, buildings or text",
     "views": [
-      "adult, side view standing: blackish head, dark brown back with four white stripes, buff breast spotted black, white belly",
-      "adult in flight, from above: white stripes on the wing and rufous tail"
-    ]
+      "adult, side view standing at the edge of a wet paddy: boldly striped blackish-and-buff head, dark brown back with four bold cream stripes, buff breast heavily spotted black, barred flanks, white belly, very long straight bill, short greenish legs",
+      "adult in flight, seen from above, head, body and tail in line: dark upperwing with a clear white trailing edge to the secondaries, cream back stripes, rufous-orange band across the short tail",
+      "adult in flight, seen from below, head, body and tail in line: white belly, white bars across the dark underwing coverts, long straight bill held level"
+    ],
+    "build": "Medium-small wader, 26cm, smaller than a feral pigeon, plump with a short neck and a crouched, horizontal posture; often only the head and back show above the grass. Bill straight and very long, about twice the length of the head. Legs short, greenish-grey to yellowish-green. At rest the long tertials cover the primaries and the tail projects a little beyond the wing. Tail short and rounded, black at the base with a rufous-orange band near the tip and a pale tip. In flight pointed wings with a clear white trailing edge to the secondaries and white bars across the underwing coverts; rises with a fast zigzag flight.",
+    "avoid": [
+      "Do not bar the crown crosswise or bar the whole underside - that is Eurasian Woodcock; the snipe's crown is striped lengthwise and its belly is plain white.",
+      "Do not curve the bill or make it shorter than about twice the head length.",
+      "Do not paint long legs or an upright, godwit-like stance.",
+      "Do not paint a solid black head; the head is boldly striped blackish and buff."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

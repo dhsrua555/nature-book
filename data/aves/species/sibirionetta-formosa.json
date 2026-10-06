@@ -97,13 +97,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Baikal Teal (Sibirionetta formosa), adult male: distinctive yellow, green and black face pattern, black from the bill base to the crown, buff breast, vertical white stripe on the breast side, long drooping scapulars, blue-grey flanks, black undertail coverts",
+    "subject": "Baikal Teal (Sibirionetta formosa), adult male in breeding plumage (worn through the Korean winter): crown and forehead black; face creamy yellow, split by a black stripe that drops from the eye to the black chin; a broad glossy green crescent from behind the eye to the nape, edged by a thin white line; breast pinkish-buff with small dark spots, ended by a vertical white bar at the side of the breast; flanks finely vermiculated blue-grey with a second vertical white bar at the rear; long drooping scapulars striped black, rufous and cream; black undertail coverts; dark grey bill; dark eye; grey legs.",
     "pose": "resting on open water within a large, tight flock, side view",
     "scene": "Korean winter: a large reservoir beside harvested rice fields, a vast flock on the water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: yellow, green and black face pattern, buff breast with a white vertical stripe, blue-grey flanks, drooping scapulars, black undertail coverts",
-      "adult female, head detail: brown head with a round white spot at the bill base, whiter throat and neck"
-    ]
+      "adult male, side view swimming: black crown, creamy yellow face divided by a black line from the eye to the chin, glossy green crescent edged white, spotted pinkish-buff breast with a vertical white bar, blue-grey flanks, drooping striped scapulars, white bar before the black undertail coverts",
+      "adult female, head detail in side profile: brown head with a darker crown, a sharply defined round white spot at the base of the bill, whitish throat and neck"
+    ],
+    "build": "Small dabbling duck, about 40cm: slightly larger than a Eurasian Teal, roughly two-thirds the length of a Mallard. Compact body, rather rounded head, short neck. Bill dark grey, slightly shorter than the head, narrow and straight. Legs short, grey. At rest the long drooping scapulars lie over the folded wing and the upper flanks. Tail short and pointed, held low on the water. Flies fast in dense flocks that form huge swirling clouds over reservoirs at dusk.",
+    "avoid": [
+      "Do not paint a chestnut head with a green eye patch; that is Eurasian Teal.",
+      "Do not paint a crest or long tail feathers; the male's long feathers are the drooping scapulars on the back.",
+      "Do not paint an orange or yellow bill; the bill is dark grey.",
+      "Do not leave out the black line from the eye to the chin that splits the yellow face."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

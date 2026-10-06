@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pechora Pipit (Anthus gustavi), adult: indistinct supercilium, brown ear coverts with dark streaks, buffy-white underparts with small blackish-brown spots along the malar, brownish-black streaks on the breast and long streaks on the flanks, brown upperparts with broad, bold blackish-brown streaks, brown wing feathers edged olive-brown, brown bill with a pale brown base to the lower mandible",
+    "subject": "Pechora Pipit (Anthus gustavi), adult on spring passage (sexes alike): crown brown with dark streaks; indistinct pale supercilium; brown ear-coverts with dark streaks; upperparts warm brown with broad, bold blackish-brown streaks and two whitish stripes ('braces') down the sides of the mantle; two whitish wing-bars on the median and greater coverts; underparts buffy-white, the breast buff with bold blackish-brown streaks and the flanks with long dark streaks; small blackish-brown spots along the malar; belly white; bill brown with a pale brownish-pink base to the lower mandible; dark eye; pinkish legs.",
     "pose": "walking on the ground, picking insects from the grass",
     "scene": "Korean spring migration stopover: damp grassy ground beside a wetland with scattered willows; no people, buildings or text",
     "views": [
-      "adult, side view on ground: boldly streaked brown upperparts, buffy-white underparts with dark breast streaks and long flank streaks",
-      "head detail: indistinct supercilium, streaked brown ear coverts, small blackish-brown malar spots, brown bill with pale base to lower mandible"
-    ]
+      "adult, side view walking in grass: bold black-streaked brown upperparts, whitish mantle braces, two whitish wing-bars, buffy-white underparts with dark breast streaks and long flank streaks, pink legs",
+      "adult, seen from above on the ground: two whitish braces on the boldly black-streaked mantle, streaked crown and rump, two whitish wing-bars",
+      "adult, head in profile: indistinct supercilium, streaked brown ear-coverts, small blackish-brown malar spots, brown bill with a pale base to the lower mandible"
+    ],
+    "build": "Small, slim pipit, about 14cm — about sparrow length but slimmer and longer-legged, with a horizontal posture. Bill slender, pointed, shorter than the head. Legs pinkish, with a long hind claw. At rest the primary tips project slightly beyond the tertials. Tail medium-length and notched, with pale outer feathers. Skulking: creeps in damp grass, walks rather than hops, and rarely flies far.",
+    "avoid": [
+      "Do not omit the two whitish 'braces' on the black-streaked mantle — the mark behind its Korean name.",
+      "Do not paint a plain olive back with a white-and-black ear spot (Olive-backed Pipit, Anthus hodgsoni).",
+      "Do not give it a bold, long supercilium; the face is rather plain.",
+      "Do not paint a rusty-red throat (Red-throated Pipit) or dark legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

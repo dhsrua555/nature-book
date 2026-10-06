@@ -49,14 +49,22 @@
     }
   ],
   "art": {
-    "subject": "Whooper Swan (Cygnus cygnus), adult: pure white plumage, black bill tip, yellow bill base extending forward in a long wedge-shaped point, black legs",
+    "subject": "Whooper Swan (Cygnus cygnus), adult (sexes alike), as seen in Korea from November to March: entire plumage pure white, the head and upper neck sometimes stained rusty-buff from feeding in muddy water; bill black on the tip and along the lower edge, with a large lemon-yellow patch at the base that reaches back to the eye and extends forward past the nostril in a long wedge-shaped point; dark eye; black legs and feet.",
     "pose": "swimming with the neck held straight and upright",
     "scene": "shallow Korean wetland in winter: a flooded rice paddy beside a lake; no people, buildings or text",
     "views": [
-      "adult, side view swimming with straight upright neck: pure white plumage, yellow-and-black bill",
-      "adult, head detail: yellow bill base extending forward to a wedge-shaped point, black tip",
-      "juvenile, side view swimming: grey-brown plumage"
-    ]
+      "adult, side view swimming with the neck held straight and upright: pure white plumage, long wedge-shaped head, black-tipped bill with a large yellow base",
+      "adult, head detail in side view: yellow bill base extending forward beyond the nostril to a wedge-shaped point, black tip and lower edge, yellow reaching back to the eye",
+      "first-winter, side view swimming: plumage dull grey-brown, paler on the underparts, bill pale pinkish-white with a black tip and no yellow yet"
+    ],
+    "build": "Very large swan, about 150cm, much bigger than any goose; long, straight neck usually held stiffly upright when swimming, without an S-curve. Head long and wedge-shaped, the forehead sloping straight into the long bill. Bill about as long as the head, flat-topped, without a knob. Legs short and black, with large webbed feet. Tail short and pointed, held low on the water. In flight long-necked, with all-white wings.",
+    "avoid": [
+      "Do not paint a small rounded yellow patch that stops short of the nostril; that is Tundra Swan (Cygnus columbianus).",
+      "Do not paint an orange bill with a black knob, or an S-curved neck with raised wings; that is Mute Swan (Cygnus olor).",
+      "Do not paint pink or grey legs; they are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

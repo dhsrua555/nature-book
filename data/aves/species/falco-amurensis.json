@@ -49,14 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Amur Falcon (Falco amurensis), adult male: dark grey overall, red lower belly and undertail coverts, orange cere and legs, black flight feathers and tail tip, white underwing coverts",
+    "subject": "Amur Falcon (Falco amurensis), adult male, as seen in Korea on passage in May and from September to October: entire plumage dark slate-grey, slightly paler on the breast and belly; thighs, lower belly and undertail coverts rufous-red; underwing coverts pure white, contrasting with blackish-grey flight feathers; tail dark grey, darkest towards the tip. Bill short and hooked, dark grey with a paler base; bare cere and eye-ring orange-red; iris dark brown; legs and feet orange-red.",
     "pose": "perched on a low post, scanning the grass for prey",
     "scene": "Korean migration-season grassland on open coastal farmland near a river mouth; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark grey body, red lower belly and undertail coverts, orange cere and legs",
-      "adult male, flight from below: white underwing coverts contrasting with black flight feathers, black tail tip",
-      "adult female, side view perched: grey upperparts, white cheek, white underparts densely marked black, paler rufous lower belly"
-    ]
+      "adult male, side view perched: dark slate-grey body, rufous-red thighs, lower belly and undertail coverts, orange-red cere, eye-ring and legs, wingtips reaching the tail tip",
+      "adult male, flight from below: pure white underwing coverts contrasting with blackish flight feathers, rufous-red vent, dark grey tail darker at the tip",
+      "adult female, side view perched: grey upperparts barred darker, dark grey crown, short dark moustachial stripe, white cheeks and throat, whitish underparts densely spotted and barred black, pale orange-buff thighs and vent, orange cere and legs"
+    ],
+    "build": "Small, slender falcon, 29–33cm, about kestrel-sized, a little shorter than a pigeon in body but with much longer wings. Rounded head, short neck, short hooked bill. Legs short, orange-red. At rest the long pointed wingtips reach about the tail tip. Tail medium length, rounded-square at the tip. Agile flight on long pointed wings; often hovers and hawks insects over grassland, and perches on wires, posts and bare trees.",
+    "avoid": [
+      "Do not paint a rufous back or spotted brown upperparts; that is Common Kestrel.",
+      "Do not paint grey or dark underwing coverts on the male; they are pure white.",
+      "Do not paint yellow cere or legs; they are orange-red.",
+      "Do not give the male a moustachial stripe or streaked underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

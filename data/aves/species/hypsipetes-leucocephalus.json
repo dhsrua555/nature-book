@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Black Bulbul (Hypsipetes leucocephalus), adult of the white-headed form (sexes alike, plumage similar year-round): entire head, throat and neck pure white, the white ending sharply on the upper breast and lower nape; the rest of the plumage, including back, wings, breast, belly, undertail coverts and tail, uniform sooty black to dark slate-grey without pattern; bill bright coral-red; dark brown eye; legs and feet bright coral-red.",
+    "pose": "perched upright on a bare treetop branch, side view",
+    "scene": "evergreen broadleaf trees on a southern Korean offshore island in early spring, bright daylight; no people, buildings or text",
+    "views": [],
+    "build": "A slim, medium-sized bulbul, slightly smaller and slimmer than a Brown-eared Bulbul, with a rounded head that may look slightly bushy at the rear. Bill medium, a little shorter than the head, fairly slender with a slightly curved tip. Legs short. Wingtips at rest fall well short of the tail tip; the tail is fairly long and shallowly forked. Perches upright on exposed treetops; flight undulating, often in noisy flocks.",
+    "avoid": [
+      "Do not paint a grey-brown body with chestnut ear patches; that is Brown-eared Bulbul (Hypsipetes amaurotis).",
+      "Do not make the bill or legs black, yellow or orange; both are bright coral-red.",
+      "Do not add black on the head or a dark eye-mask; in this form the whole head is white.",
+      "Do not paint a tall pointed crest; the head is rounded."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

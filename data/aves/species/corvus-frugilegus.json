@@ -46,13 +46,22 @@
     }
   ],
   "art": {
-    "subject": "Rook (Corvus frugilegus), adult male, winter plumage: black plumage with a strong purple gloss, bare grey skin around the nostrils and bill base with a few downy feathers, slender black bill with a gently curved culmen",
+    "subject": "Rook (Corvus frugilegus), adult in winter (Korean flocks from October to March): entire plumage black with a strong purple and blue gloss; loose shaggy feathering on the thighs; a patch of bare greyish-white skin around the nostrils, the bill base and the chin, edged by a few sparse feathers and smaller than in European Rooks; slender, sharply pointed black bill; dark eye; black legs and feet.",
     "pose": "walking on the ground in farmland as part of a large flock",
     "scene": "Korean winter farmland in the far south with bare trees at the field edge; no people, buildings or text",
     "views": [
-      "adult, side view on the ground: purple-glossed black plumage, bare grey face skin, slender black bill",
-      "adult, head detail: bare grey skin at the bill base, slender bill with gently curved culmen"
-    ]
+      "adult, side view walking on bare farmland: purple-glossed black plumage, baggy thigh feathers, peaked crown, slender pointed black bill with bare greyish-white skin at its base",
+      "adult, head detail in side profile: bare greyish-white skin around the nostrils, bill base and chin, slender pointed bill with a gently curved culmen, peaked crown"
+    ],
+    "build": "Medium-large crow, a little smaller and slimmer than a Carrion Crow and much smaller than a Large-billed Crow. Head with a peaked crown. Bill about as long as the head, slender and sharply pointed, with a gently curved culmen and no heavy arch. Legs medium length, black; walks on fields with a rolling gait, the loose thigh feathers forming baggy trousers. At rest the wingtips reach about the tail tip. Tail medium length, rounded to slightly wedge-shaped in flight. Flies in large flocks on long, fingered wings.",
+    "avoid": [
+      "Do not paint a massive arched bill and a domed forehead; that is Large-billed Crow.",
+      "Do not cover the adult's bill base with black bristles like a crow; adults show bare pale skin there.",
+      "Do not paint a grey nape or a white collar; that is Daurian Jackdaw, which often flocks with Rooks.",
+      "Do not paint the bare face pink or red."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

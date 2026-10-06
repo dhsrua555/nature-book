@@ -54,13 +54,22 @@
     }
   ],
   "art": {
-    "subject": "Stock Dove (Columba oenas), adult: grey overall, green hindneck, dull pink from the lower throat to the upper breast, two short black bars on the folded wing",
+    "subject": "Stock Dove (Columba oenas), adult in winter: head and neck blue-grey; an iridescent green patch on the side and back of the neck, with no white; mantle, back and wing coverts blue-grey; two short black bars on the inner part of the folded wing; primaries dark grey-black; dull vinous-pink from the lower throat to the upper breast; belly, flanks and undertail grey; rump grey; tail grey with a broad blackish terminal band. Bill red at the base with a pale yellowish tip; iris dark brown, giving a dark-eyed look; legs pinkish-red.",
     "pose": "perched, side view",
-    "scene": "TODO",
+    "scene": "Harvested rice fields beside low wooded hills in southern Korea in winter, pale winter sunlight; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey body, green hindneck, dull pink upper breast, two short black wing bars",
-      "adult, in flight from above: pale grey centre of the upperwing, black wing edges"
-    ]
+      "adult, side view perched: blue-grey body, iridescent green patch on the neck side and hindneck, dull vinous-pink lower throat and upper breast, two short black bars on the folded inner wing, dark eye, red-based bill with a yellowish tip, pink legs",
+      "adult, in flight seen from above: pale grey centre of the upperwing contrasting with black outer primaries and a black trailing edge, grey rump, grey tail with a dark terminal band"
+    ],
+    "build": "Compact, rather short-tailed pigeon, a little smaller and neater than a Feral Pigeon, with a rounded head and short neck. Bill short and slender. Legs short, pinkish-red. The black marks on the folded wing are short and do not form full wing-bars. In flight the upperwing shows a pale grey central panel framed by black outer primaries and a black trailing edge; the rump is grey like the back and the underwing grey; flight fast and direct.",
+    "avoid": [
+      "Do not paint a white rump or two long, complete black wing-bars; those mark Rock Dove and Feral Pigeon.",
+      "Do not paint a white neck patch or a white band across the wing (Common Wood Pigeon).",
+      "Do not paint an orange or red iris; the Stock Dove's eye is dark.",
+      "Do not paint scaly rufous upperparts (Oriental Turtle Dove)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -61,13 +61,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tawny Owl (Strix aluco), adult: rounded head with no ear tufts, grey plumage, back and belly streaked with cross-bars, black eyes, bluish-grey bill",
+    "subject": "Tawny Owl (Strix aluco), adult (sexes alike), as seen in Korean forests all year: plumage grey-brown; rounded facial disc greyish with fine concentric lines and a narrow dark rim, a whitish V of eyebrows between the eyes; crown and upperparts grey-brown with dark streaks and fine vermiculations, a row of whitish spots along the scapulars and on the wing coverts; underparts pale greyish-buff with bold dark vertical streaks crossed by fine horizontal bars. Bill pale greyish-horn, partly hidden in feathers; eyes large and blackish-brown; legs and toes feathered pale buff.",
     "pose": "perched motionless on a branch close to the trunk by day",
     "scene": "Korean mixed conifer and broadleaf forest; no people, buildings or text",
     "views": [
-      "adult, front view perched: round head without ear tufts, black eyes, bluish-grey bill, belly streaked with cross-bars",
-      "adult, side view perched: grey plumage, back streaked with cross-bars"
-    ]
+      "adult, front view perched: round head without ear tufts, grey facial disc with a whitish V between the large blackish eyes, pale bill, underparts with dark streaks crossed by fine bars",
+      "adult, side view perched: compact rounded body, grey-brown upperparts with dark streaks and a row of whitish scapular spots, short tail"
+    ],
+    "build": "Medium-sized, stocky owl, 37–39cm, larger than a feral pigeon and smaller than a crow, with a large, rounded head without ear tufts and a short neck. Bill short and strongly hooked. Wings broad and rounded; tail short. Sits upright and compact, often close to the trunk. In flight broad round wings and a big head; flight silent.",
+    "avoid": [
+      "Do not give it ear tufts.",
+      "Do not paint yellow or orange eyes; the eyes are blackish.",
+      "Do not paint the long tail, plain pale face and yellow bill of Ural Owl (Strix uralensis).",
+      "Do not paint the bird bright rufous-brown; paint it grey-brown."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

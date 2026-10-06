@@ -37,13 +37,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Drongo (Dicrurus macrocercus), adult: all-black plumage with a glossy upper neck, back and breast, long deeply forked tail",
+    "subject": "Black Drongo (Dicrurus macrocercus), adult (sexes alike), as seen on Korean islands on spring passage: entire plumage black with a blue-black gloss, strongest on the upper neck, back and breast; wings and tail glossy black; long, deeply forked tail whose outer feathers flare slightly outward at the tips. Bill black, short, stout and slightly hooked, with bristles at the base; dark eye; legs black.",
     "pose": "perched upright on an exposed perch, long forked tail hanging down",
-    "scene": "TODO",
+    "scene": "edge of farmland on a Korean offshore island in May, bare snags and green fields under a bright sky; no people, buildings or text",
     "views": [
-      "adult, side view perched: all black with glossy upper neck, back and breast, long deeply forked tail",
-      "adult, in flight: undulating flight, long deeply forked tail"
-    ]
+      "adult, side view perched upright: all glossy blue-black plumage, short stout black bill, long deeply forked tail hanging below the perch",
+      "adult in flight, seen from below: all-black body and wings, long deeply forked tail spread in a fish-tail shape"
+    ],
+    "build": "Slim, long-tailed songbird, 28cm, about the length of a Brown-eared Bulbul, with the tail making up almost half the length. Upright posture on exposed perches. Bill short and stout, shorter than the head. Legs short, black. Tail long and deeply forked, the outer feathers longest and slightly splayed at the tips. Flight light and undulating; makes agile sallies after flying insects.",
+    "avoid": [
+      "Do not paint outer tail feathers curling upward like a lyre or a long curved bill; that is Hair-crested Drongo (Dicrurus hottentottus).",
+      "Do not paint grey plumage (Ashy Drongo, Dicrurus leucophaeus).",
+      "Do not paint a crest or a short square tail.",
+      "Do not paint a large crow-like bill; the bill is short."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

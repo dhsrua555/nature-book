@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Harlequin Duck (Histrionicus histrionicus), adult male: dark blue-grey plumage with a metallic sheen, white spots and stripes above the bill, on the cheek, behind the ear, on the neck and on the flanks, reddish-brown flanks",
+    "subject": "Harlequin Duck (Histrionicus histrionicus), adult male in winter, as seen on rocky East Sea coasts from November to March: plumage dark slate-blue with a faint metallic sheen; a large white crescent in front of the eye from the bill base up onto the forehead, continuing as a narrow chestnut stripe along the side of the black crown; a round white spot on the ear coverts and a vertical white stripe on the side of the neck; a narrow white collar line and a white vertical bar on each side of the breast, all edged black; white stripes along the scapulars and tertials; flanks rich chestnut; tail dark. Bill small and short, bluish-grey; iris dark; legs grey.",
     "pose": "resting on a wave-washed coastal rock",
     "scene": "Korean winter East Sea coast with dark reefs and breaking surf; no people, buildings or text",
     "views": [
-      "adult male, side view standing on a rock: metallic dark blue-grey plumage, white spots and stripes on the face, neck and flanks, reddish-brown flanks",
-      "adult female, side view swimming: dark brown overall, white spots in front of the eye and on the ear coverts"
-    ]
+      "adult male, side view standing on a rock: slate-blue body, white crescent before the eye, chestnut crown-side stripe, round white ear spot, white neck stripe, black-edged white collar and breast bar, chestnut flanks, small bluish-grey bill",
+      "adult female, side view swimming: dark sooty-brown overall, white patch on the lores in front of the eye, round white spot on the ear coverts, paler belly, small dark bill"
+    ],
+    "build": "Small, compact sea duck, about 43cm, smaller and rounder than a Mallard. Steep forehead, rounded head and a very small, short, stubby bill much shorter than the head. Rides high and buoyant in surf, diving among breaking waves, and hauls out on wave-washed rocks. Legs short, grey, set far back. At rest the wingtips reach the base of the tail. Tail rather long, pointed and dark, often raised. Flies fast and low over the sea; the wings are dark without any white panel.",
+    "avoid": [
+      "Do not paint a long or broad duck bill; it is tiny and stubby below a steep forehead.",
+      "Do not paint the male bright blue or black; he is dark slate-blue.",
+      "Do not add white wing patches or a white speculum.",
+      "Do not move the male's chestnut onto the breast; the chestnut is on the flanks and the crown sides only."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

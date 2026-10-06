@@ -36,13 +36,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pallas's Gull (Ichthyaetus ichthyaetus), adult: very large gull, white crescents above and below the eye, yellow bill with a red band and a black band",
+    "subject": "Pallas's Gull (Ichthyaetus ichthyaetus), adult in breeding plumage, which it acquires in mid to late winter, as seen at Korean estuaries in February–March: jet-black hood over the head and throat, with bold white crescents above and below the eye; neck, underparts and tail white; mantle and upperwings pale grey; outer primaries largely white with a black subterminal band and small white tips; bill heavy, yellow at the base with a black subterminal band and an orange-red tip; dark eye; legs yellow.",
     "pose": "standing on a mudflat, side view",
-    "scene": "Korean estuary with mudflats where a river meets the sea; no people, buildings or text",
+    "scene": "Korean estuary with mudflats where a river meets the sea in late winter (February–March), bare banks and cold light; no people, buildings or text",
     "views": [
-      "adult, side view standing: very large gull with white eye-crescents, yellow bill banded red and black",
-      "adult, head detail: white crescents above and below the eye, yellow bill with red and black bands"
-    ]
+      "adult breeding (late winter), side view standing: very large bulky build, black hood with white crescents above and below the eye, pale grey back, white primaries with a black subterminal band, heavy yellow bill banded black with a red tip, yellow legs",
+      "adult winter, head detail in profile: white head with a dusky mask around and behind the eye, white eye crescents, long sloping forehead, yellow bill with a black band and reddish tip",
+      "adult, in flight seen from above, head, body and tail in line: pale grey wings with white outer primaries crossed by a black subterminal band, white tail"
+    ],
+    "build": "Very large, bulky gull, 60–72cm, among the biggest gulls and much larger than Black-tailed Gull, with a long, sloping forehead, crown peaking behind the eye, and a long, heavy bill drooping slightly at the tip. Legs fairly long, yellow. At rest the long wingtips project well beyond the tail. In flight long wings with white outer primaries crossed near the tip by a black subterminal band, contrasting with the pale grey inner wing.",
+    "avoid": [
+      "Do not paint a dark brown hood or a thin red bill; those belong to small hooded gulls such as Black-headed Gull.",
+      "Do not paint black wingtips with small white mirrors like Vega Gull; the outer primaries are mostly white with a black band.",
+      "Do not paint pink legs.",
+      "Do not make it small or round-headed; it is huge, with a long sloping forehead and a heavy bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

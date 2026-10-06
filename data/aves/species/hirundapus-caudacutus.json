@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "White-throated Needletail (Hirundapus caudacutus), adult as seen over Korea on migration in May and September: forehead and lores whitish; crown, face, nape, wings and tail blackish-brown with a faint green gloss; throat clean white, sharply defined; back with a large pale grey-brown, silvery saddle; breast and belly dark brown; a sharply defined white horseshoe running from the rear flanks around the undertail coverts; inner webs of the tertials white, showing as a small white patch near the body on the upperwing; short, square black tail with bare spine-like shaft tips. Tiny black bill; dark eye.",
+    "pose": "sweeping fast and low over a forested ridge on long, stiff, crescent-shaped wings, seen from below and slightly to the side",
+    "scene": "Korean mountain ridge with mixed forest during spring migration in May, wide sky with scattered clouds; no people, buildings or text",
+    "views": [],
+    "build": "Very large, heavy, powerful swift, noticeably bigger and bulkier than the Pacific Swift, with a thick, cigar-shaped body, long scythe-shaped pointed wings and a short, square tail tipped with protruding needle-like shafts. Flies extremely fast, sweeping and gliding on stiff wings, often low over ridges and water. Never perches on branches; the tiny legs are hidden in flight.",
+    "avoid": [
+      "Do not paint a forked tail or a white rump band — those mark Pacific Swift; this species has a short square tail and a dark rump.",
+      "Do not show it perched on a branch or wire, or with long tail streamers like a swallow.",
+      "Do not omit the white throat and the white horseshoe around the undertail.",
+      "Do not make the wings broad or rounded; they are long, narrow and scythe-shaped."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,13 +45,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pallas's Reed Bunting (Emberiza pallasi), adult male in winter plumage: buff-brown head, nape and back, back streaked black, pale brown lores and area around the eye, broad buffy-white submoustachial stripe, buffy-white rump, uppertail coverts and belly",
+    "subject": "Pallas's Reed Bunting (Emberiza pallasi), adult male in winter plumage, as seen in Korean reed beds from November to March: head, nape and mantle pale sandy buff-brown, the crown finely streaked; lores and the area around the eye pale brown; a broad buffy-white submoustachial stripe and a thin dark malar stripe; back with bold black streaks; lesser coverts blue-grey; two pale wing-bars; rump and uppertail coverts unstreaked buffy-white; underparts buffy-white with almost no streaks, the flanks faintly washed buff; tail dark with white outer feathers. Small bill with a straight culmen, pinkish-grey with a darker upper mandible; dark eye; pinkish-brown legs.",
     "pose": "perched on a reed stem, side view",
     "scene": "Korean winter: dry reed bed at the edge of a pond with grassy margins; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: buff-brown head and back with black streaks, broad buffy-white submoustachial stripe, buffy-white rump and belly",
-      "adult female, side view perched: paler than the male, brown head with white supercilium and submoustachial stripe"
-    ]
+      "adult male winter, side view perched on a reed stem: pale buff-brown head and back with black streaks, broad buffy-white submoustachial stripe, pale brown lores and eye surround, blue-grey lesser coverts, unstreaked buffy-white rump and belly, small straight-edged bill",
+      "adult female, side view perched: brown head with a whitish supercilium and white submoustachial stripe, streaked brown back, paler and plainer than the male"
+    ],
+    "build": "Small, slim reed bunting, about the size of a sparrow, smaller and paler than Common Reed Bunting, with a rather long, notched tail. Rounded head without a crest. Bill small and pointed with a straight upper edge, not swollen. Legs pinkish-brown. Clings to reed stems and hops on the ground below them; the white outer tail feathers show when it flies.",
+    "avoid": [
+      "Do not paint rufous-brown lesser coverts, a streaked grey-brown rump or a deep, bulging bill; those mark Common Reed Bunting (Emberiza schoeniclus).",
+      "Do not give the winter male a black head; the black hood is breeding plumage only.",
+      "Do not streak the breast and flanks heavily; this species is almost plain below."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

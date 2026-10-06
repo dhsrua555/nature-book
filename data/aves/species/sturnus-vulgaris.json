@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Starling (Sturnus vulgaris), adult male in breeding season: iridescent green gloss on nape, back and breast, long narrow breast feathers, black wings showing a green or purple sheen, yellow bill with a blue spot at the base, blackish-brown iris, reddish-brown legs",
+    "subject": "Common Starling (Sturnus vulgaris), adult in fresh winter plumage, as seen in Korea from November to March: blackish plumage glossed green and purple, densely covered with spots — white V-shaped spots on the throat, breast, belly and flanks, buff spots on the crown, nape, mantle and back; wing feathers blackish with broad buff-brown fringes giving a scaly brown panel on the folded wing; tail blackish with buff edges; undertail coverts dark with buff-white tips; long pointed bill dark grey-black; blackish-brown iris; reddish-brown legs.",
     "pose": "walking on open ground, probing for food",
-    "scene": "Korean coastal lowland with a tidal salt marsh; no people, buildings or text",
+    "scene": "Korean coastal lowland with a tidal salt marsh in winter, dry grasses and mudflat edges under low winter light; no people, buildings or text",
     "views": [
-      "adult male breeding, side view: glossy iridescent green plumage, long narrow breast feathers, yellow bill with blue base, reddish-brown legs",
-      "adult female breeding, head and breast detail: yellow bill with pink base, short neat breast feathers",
-      "adult winter, side view: dull black plumage spotted white to cream from the breast, black bill"
-    ]
+      "adult winter, side view walking on the ground: blackish plumage with green-purple gloss densely spotted white below and buff above, buff-fringed wing feathers, dark bill, reddish-brown legs, short square tail",
+      "adult male breeding (late March–May), side view: glossy iridescent green and purple plumage with few or no spots, long narrow pointed throat and breast feathers, black wings with a green or purple sheen, yellow bill with a blue-grey base to the lower mandible, reddish-brown legs",
+      "adult female breeding, head and breast close-up: yellow bill with a pinkish base, shorter and neater breast feathers with some pale spots retained"
+    ],
+    "build": "Stocky, short-tailed starling, about 22cm, clearly larger than a sparrow and smaller than a pigeon; about the size of White-cheeked Starling but with a shorter tail. Flat crown, no crest, rather slender neck. Bill long, about as long as the head, straight, sharply pointed. Legs medium length, reddish-brown; walks upright and purposefully, probing the ground. Tail short and square. In flight the wings are short, pointed and triangular, and the flight is fast and straight.",
+    "avoid": [
+      "Do not give it white cheeks, a grey body or a white rump — that is White-cheeked Starling (Spodiopsar cineraceus), the common starling in Korea.",
+      "Do not paint a yellow bill on the spotted winter bird; in winter the bill is dark.",
+      "Do not paint a long tail; the tail is short and square.",
+      "Do not make it plain dull black like a crow; the plumage is iridescent green and purple."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Dunlin (Calidris alpina), adult breeding: black, slightly decurved bill, brown back, white underparts with a large black patch in the middle of the belly, black legs",
+    "subject": "Dunlin (Calidris alpina), adult in winter (non-breeding) plumage, as seen on Korean tidal flats from October to March: plain grey-brown upperparts with fine dark shaft streaks, head and neck grey-brown with a faint whitish supercilium, a soft grey-brown wash and fine streaks across the breast, the rest of the underparts clean white; black bill; dark eye; black legs.",
     "pose": "probing wet mud with its bill in a dense flock",
     "scene": "Korean south-west coast tidal flat in winter, wide mudflat near a river mouth; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: slightly decurved black bill, brown back, black belly patch, black legs",
-      "adult winter, side view standing: grey back, white underparts without the belly patch"
-    ]
+      "adult breeding plumage (April–May), side view standing: rufous-and-black scalloped back and crown, finely streaked whitish breast, large solid black patch on the belly, gently drooping black bill, black legs",
+      "adult winter plumage, side view standing: plain grey-brown upperparts, grey-brown breast wash, all-white belly, same bill and legs"
+    ],
+    "build": "Small, compact, round-bodied sandpiper, 17–21cm, a little larger than a sparrow; short neck, rather hunched when feeding. Bill black, clearly longer than the head, straight for most of its length and drooping gently only towards the tip. Legs black, medium length. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar and a dark centre to the rump and tail with white sides.",
+    "avoid": [
+      "Do not paint a long, evenly curved bill — that is Curlew Sandpiper (Calidris ferruginea); the Dunlin's bill droops only near the tip.",
+      "Do not give it a white rump patch (Curlew Sandpiper).",
+      "Do not show the black belly patch on winter birds; it is breeding plumage only.",
+      "Do not paint greenish or yellow legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

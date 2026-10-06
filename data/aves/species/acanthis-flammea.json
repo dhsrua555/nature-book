@@ -97,13 +97,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Redpoll (Acanthis flammea), adult winter: glossy dark red crown, black around the bill and on the throat, rather pale supercilium, dark greyish-buff upperparts, pale rump, pointed dark brown bill, brown iris, dark brown legs",
+    "subject": "Common Redpoll (Acanthis flammea), adult male in winter, as seen in Korea from November to March: small deep-red patch on the forehead and fore-crown; small black bib on the chin and black lores; rather pale buffish supercilium; upperparts greyish-buff to grey-brown, streaked dark brown; two pale wing-bars, the lower one broader; rump pale greyish-white with fine dark streaks; breast and cheeks with a variable pink wash, belly whitish, flanks streaked dark brown; small sharply pointed bill, yellowish with a dark culmen and tip; brown eye; dark brown legs.",
     "pose": "clinging to a birch twig, picking at seed catkins",
     "scene": "Korean winter scrubland and open grassland with leafless birches; no people, buildings or text",
     "views": [
-      "adult winter, side view perched: glossy dark red crown, black around bill and throat, greyish-buff back, pale rump, dark brown legs",
-      "adult winter, head detail: red crown, black chin and throat, pointed dark brown bill"
-    ]
+      "adult winter, side view perched on a birch twig: deep-red forecrown, black chin and lores, pale buffish supercilium, streaked greyish-buff back, two pale wing-bars, pale streaked rump, pink-washed breast in males, streaked flanks, dark brown legs",
+      "adult winter, head detail in profile: small red forecrown patch, black chin bib and lores, pale supercilium, tiny sharply pointed conical bill, yellowish with a dark culmen and tip"
+    ],
+    "build": "Small, slim finch about 13cm, a little smaller and slighter than a sparrow, with a small head and a fairly long, notched tail. Bill short, conical and needle-pointed, much shorter than the head, with straight edges. Legs short, dark brown. Long primary projection beyond the tertials. Feeds acrobatically, often hanging upside down on birch and alder catkins. Flight bouncy, showing the pale wing-bar and the pale streaked rump.",
+    "avoid": [
+      "Do not colour the whole head or throat red; the red is a small patch on the forehead and fore-crown only.",
+      "Do not paint a large black face mask; the black is a small chin bib and the lores.",
+      "Do not paint a thick or long bill; it is tiny, conical and sharply pointed.",
+      "Do not paint the frosty white, unstreaked rump and nearly plain flanks of Arctic Redpoll (Acanthis hornemanni).",
+      "Do not paint yellow wing-bars or yellow tail sides (Eurasian Siskin)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

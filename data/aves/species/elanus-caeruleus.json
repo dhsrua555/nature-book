@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Black-winged Kite (Elanus caeruleus), adult: crown, back and upperwing pale ash-grey; a large black patch on the lesser and median wing coverts forming a black shoulder at rest; forehead, face and entire underparts white; a short black mark in front of and just above the eye; primaries darker grey above and blackish below; tail short, pale grey and white; bill small, black and strongly hooked, with a yellow cere; striking deep red iris; legs and feet bright yellow.",
+    "pose": "perched upright on the top of a bare tree, side view, scanning the ground below",
+    "scene": "open Korean farmland in late autumn: harvested rice paddies and grassy field margins with a few bare trees; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact raptor, about the size of a Common Kestrel but stockier, with a large rounded head, big forward-facing eyes and a short tail. Bill short, deeply hooked, much shorter than the head. Legs short, yellow. At rest the long wingtips extend beyond the tail tip. Tail short and square or slightly notched. Hovers over open ground with raised wings and perches on treetops, slowly raising and lowering the tail; in flight pale grey with black shoulders above and black under the primaries.",
+    "avoid": [
+      "Do not paint a long forked tail (Black Kite, Milvus migrans); the tail is short and square.",
+      "Do not paint streaks or bars on the underparts; they are clean white.",
+      "Do not paint a yellow or dark eye; the adult's iris is deep red.",
+      "Do not paint black wingtips on the upperside like a gull; the black is on the shoulder coverts above and under the primaries below."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

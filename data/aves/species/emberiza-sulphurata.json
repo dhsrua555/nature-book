@@ -35,12 +35,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow Bunting (Emberiza sulphurata), adult: greyish-green to brownish-green back with black shaft streaks",
+    "subject": "Yellow Bunting (Emberiza sulphurata), adult male on spring passage (April–May): head greyish olive-green; black lores; a bold, complete white eye-ring; chin and throat pale yellow, shading to soft yellow on the breast and belly, the breast and flanks washed greyish-olive with faint dark streaks on the flanks; mantle and back greyish-green to brownish-green with black shaft streaks; wings brown with two whitish wing bars; rump greyish-olive; tail dark with white outer feathers; bill greyish; dark eye; pinkish legs.",
     "pose": "perched in a low shrub, side view",
-    "scene": "TODO",
+    "scene": "Korean southwestern island woodland edge with low shrubs and grassy clearings during spring migration in late April–May; no people, buildings or text",
     "views": [
-      "adult, side view perched: greyish-green to brownish-green back with black shaft streaks"
-    ]
+      "adult male spring, side view perched in a low shrub: greyish olive-green head, black lores, bold white eye-ring, pale yellow throat and underparts, greyish-green back with black shaft streaks, two whitish wing bars",
+      "adult male, three-quarter view from behind: greyish-green to brownish-green mantle and back with neat black shaft streaks, whitish wing bars, white outer tail feathers"
+    ],
+    "build": "Small bunting, about the size of a sparrow but neater and slimmer, with a rounded head without a crest and a medium-length tail with white outer feathers. Bill small, conical and pointed, shorter than the head. Legs pinkish. Quiet and unobtrusive, feeding on the ground under shrubs and perching low in bushes.",
+    "avoid": [
+      "Do not paint a dark grey hood with a blackish face and no eye-ring — that is Black-faced Bunting (Emberiza spodocephala).",
+      "Do not paint a crest, a black mask or a bright yellow supercilium (Yellow-throated Bunting traits).",
+      "Do not paint chestnut anywhere in the plumage.",
+      "Do not omit the white eye-ring; it is the most obvious mark on the face."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

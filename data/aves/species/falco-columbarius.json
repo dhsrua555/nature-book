@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Merlin (Falco columbarius), adult male: grey back, belly streaked pale rufous, broad black band at the tail tip",
-    "pose": "perched, side view",
-    "scene": "TODO",
+    "subject": "Merlin (Falco columbarius), adult male in Korean winter (October–March): crown, back, wings and tail blue-grey, the crown finely streaked black; faint whitish supercilium and only a thin, weak dark moustachial line; indistinct rufous-buff nape collar; cheeks and throat whitish; underparts orange-buff to pale rufous, boldly streaked dark brown on the breast, belly and flanks; tail blue-grey with a broad black band near the tip and a narrow white tip. Short hooked bill bluish-grey with a dark tip; cere, eye-ring and legs yellow; dark brown eye.",
+    "pose": "perched upright on a low wooden post in open farmland, scanning for small birds, side view",
+    "scene": "Korean winter open farmland: harvested rice paddies with straw stubble, earth levees and a low wooden post, bare trees in the distance, clear cold light; no people, buildings or text",
     "views": [
-      "adult male, side view perched: grey back, pale rufous streaks on the belly, broad black tail band",
-      "adult female, side view perched: brown back, buff belly streaked rufous, brown-banded tail"
-    ]
+      "adult male, side view perched on a post: blue-grey crown, back and wings, rufous-buff nape collar, orange-buff underparts streaked dark brown, blue-grey tail with a broad black subterminal band and white tip, yellow cere and legs",
+      "adult female, side view perched: dark brown upperparts, pale buff supercilium, whitish to buff underparts heavily streaked rufous-brown, brown tail crossed by several narrow pale buff bands and a darker band near the tip"
+    ],
+    "build": "Small, compact falcon, 28–33cm long, smaller and stockier than Eurasian Kestrel and about the length of a feral pigeon; female clearly larger than the male. Broad-chested, with a rounded head and a short, deep, hooked bill. Wings fairly short, broad-based and sharply pointed; at rest the wingtips fall clearly short of the tail tip. Tail medium length, square-ended. Legs short and yellow. Flies fast and low with rapid, flicking wingbeats, often hugging the ground; rarely hovers.",
+    "avoid": [
+      "Do not paint a rufous back with black spots and a long tail — that is Eurasian Kestrel (Falco tinnunculus).",
+      "Do not give it a bold black moustache and a blackish hood — that is Peregrine Falcon.",
+      "Do not paint broad rounded wings, barred underparts or a yellow eye like a sparrowhawk.",
+      "Do not paint the male with brown upperparts; adult males are blue-grey above."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

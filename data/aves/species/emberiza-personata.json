@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Masked Bunting (Emberiza personata), adult male in spring, as seen on Korean islands in April: head and neck dull olive-green; blackish lores and chin forming a small dark mask around the base of the bill; throat and breast yellow, the breast sides washed olive; belly paler yellow, flanks with dark brown streaks; mantle and scapulars brown with bold blackish streaks; wings brown with two thin pale wing-bars; rump olive-brown; tail dark brown with white outer feathers; bill dark grey above, pinkish below; dark eye; pinkish-brown legs.",
+    "pose": "hopping on leaf litter under a low bush, side view, tail slightly flicked open",
+    "scene": "Korean offshore island in April during spring migration: leaf litter and low scrub at the edge of a woodland path; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized bunting, about the size of a sparrow but slimmer and longer-tailed, with a rounded head and no crest. Bill conical and pointed, shorter than the head. Legs medium length, pinkish-brown. At rest the wingtips reach only the base of the tail. Tail fairly long and notched, dark with white outer feathers that flash when it is flicked open. Skulks on the ground under bushes and flies up into cover when disturbed.",
+    "avoid": [
+      "Do not paint a grey head and grey breast; that is the male Black-faced Bunting (Emberiza spodocephala). The Masked Bunting's head is olive-green and its throat yellow.",
+      "Do not paint a chestnut breast-band or chestnut back (Yellow-breasted Bunting, Emberiza aureola).",
+      "Do not paint a yellow or white crown stripe or bold head stripes (Yellow-browed or Tristram's Bunting).",
+      "Do not omit the white outer tail feathers."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

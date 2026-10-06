@@ -44,13 +44,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-tailed Tattler (Tringa brevipes), adult breeding: dark grey head, hindneck, back and wings, white supercilium, white underparts with fine blackish-grey bars on the breast and flanks, brown to greenish-brown bill",
+    "subject": "Grey-tailed Tattler (Tringa brevipes), adult in breeding plumage as seen on Korean coasts in May: crown, hindneck, back, wings and tail uniform plain ash-grey with no spots or streaks; a white supercilium from the bill base to well behind the eye, above a dark grey loral and eye stripe; chin and throat white; breast, neck-sides and flanks finely barred with thin grey to blackish-grey wavy lines; centre of the belly and undertail coverts unbarred white. Bill dark greyish-brown, blackish towards the tip, with a paler yellowish-olive base to the lower mandible; dark eye; legs short and bright yellow.",
     "pose": "standing on a wet rock at the shoreline, picking at prey",
-    "scene": "Korean coast during spring or autumn migration: rocky shoreline beside a tidal flat; no people, buildings or text",
+    "scene": "Korean coast during spring migration in May: rocky shoreline beside a tidal flat; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: dark grey upperparts, white supercilium, finely barred breast, white belly",
-      "adult, head detail: white supercilium, brown to greenish-brown bill"
-    ]
+      "adult breeding plumage (May), side view standing on a rock: uniform ash-grey upperparts, white supercilium over a dark eye-stripe, fine grey bars on breast, neck-sides and flanks, unbarred white belly centre, short bright yellow legs",
+      "adult, head close-up in side view: white supercilium from the bill base to behind the eye, dark loral stripe, straight bill dark brownish-grey with a paler yellowish-olive base",
+      "adult non-breeding plumage, side view standing: plain grey upperparts, unbarred pale grey wash across the breast, white belly, white supercilium, yellow legs"
+    ],
+    "build": "Medium-sized, stocky, horizontal sandpiper, 25cm, about the length of a Common Starling but much bulkier and clearly larger than Common Sandpiper; short neck, often bobbing the rear body. Bill straight, fairly stout, a little longer than the head. Legs short, bright yellow, with little bare tibia. At rest the wingtips reach or slightly pass the tail tip. In flight the upperwing, back, rump and tail are uniform grey with no wing-bar and no white rump; the underwing is dark grey.",
+    "avoid": [
+      "Do not paint a white rump or a white wing-bar; the whole upperside is plain grey.",
+      "Do not add spots, streaks or scalloping to the grey upperparts of adults.",
+      "Do not bar the belly centre and the undertail; the barring is confined to breast, neck-sides and flanks.",
+      "Do not paint long or greenish legs; they are short and bright yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

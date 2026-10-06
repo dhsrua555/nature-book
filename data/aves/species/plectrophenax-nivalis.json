@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Snow Bunting (Plectrophenax nivalis), adult male in winter plumage: crown and hindneck white but broadly tipped buff so they look buff, buff lores and supercilium, tawny-brown ear-coverts, white underparts with tawny feather tips on the upper breast and a faint buff wash elsewhere, small but deep, laterally compressed bill, brown iris, short dull black legs",
+    "subject": "Snow Bunting (Plectrophenax nivalis), adult male in winter plumage, as seen in Korea from December to February: crown and hindneck buff (white feathers broadly tipped buff); lores and supercilium buff; ear-coverts tawny-brown; mantle and scapulars blackish with broad buff fringes; a tawny-buff patch on the breast sides and tawny tips on the upper breast, rest of the underparts white; wing largely white on the coverts and secondaries, with black primaries forming black wingtips; central tail feathers dark, outer feathers largely white. Bill small but deep, yellow-orange with a dark tip in winter; brown iris; short dull black legs.",
     "pose": "walking over gravel in a small flock, picking at seeds",
     "scene": "Korean winter: rocky seashore with dark lava rocks and gravel; no people, buildings or text",
     "views": [
-      "adult male winter, side view on the ground: buff-looking crown and hindneck, buff lores and supercilium, tawny-brown ear-coverts, white underparts with tawny-tipped upper breast, short dull black legs",
-      "adult female winter, head detail: like the male but with dark brown bases to the crown feathers"
-    ]
+      "adult male winter, side view on the ground: buff crown and hindneck, buff lores and supercilium, tawny-brown ear-coverts, tawny-tipped upper breast and white underparts, small deep yellow-orange bill, short dull black legs, white wing panel",
+      "adult female winter, head detail: like the male but the crown feathers have dark brown bases showing through the buff, giving a darker, more mottled crown"
+    ],
+    "build": "Chunky, short-legged bunting, about 16 cm, a little larger than a sparrow, long-winged and low-slung when walking. Bill small, conical, deep and laterally compressed. Legs short, black, with a long hind claw. At rest the long wings reach well down the short, slightly forked tail; in flight the wings flash large white panels with black tips. Shuffles and runs over gravel and shingle in small flocks.",
+    "avoid": [
+      "Do not paint the black-and-white breeding plumage (white head, black back, black bill) on a winter bird.",
+      "Do not paint a black bill in winter; it is yellow-orange with a dark tip.",
+      "Do not paint a long thin bill or long legs; the bill is stubby and the legs short.",
+      "Do not streak the white belly."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

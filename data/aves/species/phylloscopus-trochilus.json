@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Willow Warbler (Phylloscopus trochilus), adult on autumn passage, of the greyish eastern form that reaches East Asia: upperparts plain greyish olive-brown with a faint greenish tinge on the rump and on the edges of the wing and tail feathers; a long pale yellowish-white supercilium from the bill base to well behind the eye and a dusky eye-stripe; ear-coverts mottled; underparts whitish with a faint pale yellow wash on the throat and breast and greyish-buff breast sides; no wing-bars; fine bill, dark with a pale pinkish-yellow base to the lower mandible; dark eye; pale pinkish-brown legs.",
+    "pose": "foraging among willow leaves, side view, reaching for an insect",
+    "scene": "willow and shrub thicket on a Korean offshore island during autumn migration in September, soft morning light; no people, buildings or text",
+    "views": [],
+    "build": "A small, slim leaf warbler, smaller than a sparrow and slightly larger and longer-winged than a Yellow-browed Warbler; sleek and elongated with a flattish crown and no crest. Bill thin and pointed, shorter than the head. Legs medium and slender, pale pinkish-brown. Long wings: at rest the primary projection beyond the tertials is long, and the wingtips reach well down the tail. Tail medium, plain, square-ended to slightly notched. Gleans actively in foliage and occasionally dips the tail.",
+    "avoid": [
+      "Do not add wing-bars; that would make it an Arctic or Two-barred Warbler.",
+      "Do not paint blackish legs (Common Chiffchaff, Dusky Warbler); this species has pale pinkish-brown legs.",
+      "Do not paint bright lemon-yellow throat and breast with a pure white belly (Wood Warbler); this form is mostly whitish below.",
+      "Do not add a crown stripe or a pale rump patch (Pallas's Leaf Warbler)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

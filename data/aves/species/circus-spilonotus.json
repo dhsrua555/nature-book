@@ -55,13 +55,22 @@
     }
   ],
   "art": {
-    "subject": "Eastern Marsh Harrier (Circus spilonotus), adult male: dark grey-brown upperparts",
+    "subject": "Eastern Marsh Harrier (Circus spilonotus), adult male of the typical continental type, as seen over Korean reedbeds from autumn to spring: head, nape, throat and upper breast black streaked white, giving a dark hooded look; mantle and scapulars black mottled with white; folded wing with black primaries and silvery-grey secondaries and greater coverts, the forewing dark mottled white; rump white; tail plain silvery-grey; lower breast, belly, thighs and undertail white, the breast streaked black. Short hooked black bill with a yellow cere; yellow iris; long yellow legs.",
     "pose": "gliding low over a reed bed, searching for prey",
     "scene": "Korean winter wetland: wide reed beds beside a lake and open reclaimed farmland; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark grey-brown upperparts",
-      "adult female, side view perched: pale brown overall with a streaked head"
-    ]
+      "adult male, side view perched on a reed tussock: black head and throat streaked white, black back mottled white, silvery-grey secondaries and black primaries on the folded wing, white belly, grey tail, yellow eye, long yellow legs",
+      "adult female, side view perched: dark brown body and wings, creamy-buff head and throat streaked dark brown with a dark patch behind the eye, rufous-streaked breast, grey-brown tail barred dark"
+    ],
+    "build": "Medium-large, slim harrier, 47–55cm long, a little smaller and lighter than Black Kite; females bigger than males. Small head with a slight owl-like facial disc. Bill short and strongly hooked. Long wings and a long, unforked tail; at rest the wingtips fall a little short of the tail tip. Legs long and slender, yellow. Flies low and slowly over reeds and fields, alternating a few flaps with long glides on wings raised in a shallow V.",
+    "avoid": [
+      "Do not give the male a solid unstreaked black head, back and breast with a black bar across the wing coverts — that is Pied Harrier (Circus melanoleucos).",
+      "Do not paint a pale grey male with a grey head — that is Hen Harrier (Circus cyaneus).",
+      "Do not paint a broad-winged, short-tailed buzzard shape or a forked tail like Black Kite.",
+      "Do not paint the female's head plain dark brown; it is pale and streaked."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

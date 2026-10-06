@@ -46,13 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Thrush (Turdus cardis), adult male: black head, back, wings, tail, throat and breast, white belly with irregular black spots, yellow bill, yellow legs",
+    "subject": "Japanese Thrush (Turdus cardis), adult male on spring passage: head, neck, throat, breast and the whole upperparts including wings and tail deep slate-black; a clean border between the black breast and the white lower breast and belly, which carry bold, irregular black spots, densest on the breast sides and flanks; undertail coverts white; bill bright yellow; a narrow yellow eye-ring around the dark eye; pale yellow legs.",
     "pose": "perched on a branch in deciduous woodland, side view",
     "scene": "Korean mountain deciduous broadleaf forest on passage; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black upperparts, throat and breast, white belly with black spots, yellow bill and legs",
-      "adult female, side view perched: brown upperparts, white underparts with brown spots on breast and belly, yellow bill and legs"
-    ]
+      "adult male, side view perched on a branch: slate-black head, breast and upperparts, white belly with bold irregular black spots on the breast sides and flanks, yellow bill, narrow yellow eye-ring, yellow legs",
+      "adult female, side view perched: olive-brown upperparts, whitish throat with dark malar streaks, white underparts with dark brown spots on the breast and flanks, orange-buff wash on the breast sides and flanks, yellowish bill, pale yellowish legs"
+    ],
+    "build": "Medium-small thrush, 21.5cm, clearly larger than a sparrow and smaller than a pigeon, slimmer and smaller than Pale Thrush (Turdus pallidus). Typical Turdus shape: rounded head, straight bill about two-thirds of the head length, fairly long legs, medium-length square tail. Perches upright on branches and hops on the forest floor with the tail level.",
+    "avoid": [
+      "Do not paint a white supercilium — that belongs to Siberian Thrush (Geokichla sibirica); the male Japanese Thrush has a plain black head.",
+      "Do not make the belly all black or unspotted; the black ends at the breast and the white belly carries bold black spots.",
+      "Do not give the male orange flanks or a grey back — that is Grey-backed Thrush (Turdus hortulorum).",
+      "Do not paint a dark bill; it is yellow in both sexes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

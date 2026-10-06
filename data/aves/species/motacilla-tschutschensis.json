@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eastern Yellow Wagtail (Motacilla tschutschensis), adult: dark grey crown to back with a faint yellowish wash, pale yellow from chin to belly, slender long dark brown bill, black wings with slightly whitish edges, black tail with white outer tail feathers, black legs",
+    "subject": "Eastern Yellow Wagtail (Motacilla tschutschensis), adult in autumn (non-breeding) plumage, as seen on migration in Korea in September and October: crown, nape and back dark olive-grey with a faint yellowish wash; a pale supercilium above darker ear-coverts; wings blackish with narrow whitish edges forming two thin wing-bars and pale-fringed tertials; chin to belly pale yellow, brightest on the vent and undertail coverts, the breast sides washed grey; black tail with white outer tail feathers. Thin, pointed dark brown bill; dark eye; black legs with a long hind claw.",
     "pose": "walking on short grass, picking up insects",
-    "scene": "Korean lowland grassland beside a marsh during spring or autumn migration; no people, buildings or text",
+    "scene": "Korean lowland grassland and wet pasture beside a marsh in September, during autumn migration, soft clear light; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark grey upperparts washed yellow, pale yellow underparts, black wings with whitish edges, black tail with white outer feathers, black legs",
-      "breeding adult, side view: pale green from forehead to rump, deep yellow chin"
-    ]
+      "adult autumn, side view walking on short grass: olive-grey upperparts with a faint yellow wash, pale supercilium, two thin whitish wing-bars, pale yellow underparts from chin to belly, black tail with white outer feathers, thin dark bill, black legs",
+      "adult male breeding, grey-headed form, side view standing: blue-grey crown and ear-coverts, white supercilium, olive-green mantle to rump, deep yellow throat and underparts (some birds white on the chin), black tail with white outer feathers, black legs",
+      "adult male breeding, green-headed form (subspecies taivana), side view standing: olive-green from forehead to rump, yellow supercilium, darker olive ear-coverts, deep yellow chin, throat and underparts, black legs"
+    ],
+    "build": "Small, slim, ground-walking wagtail with a medium-long tail, longer than a sparrow but lighter-bodied; the tail clearly shorter than in Grey Wagtail. Short neck and horizontal stance; walks quickly through short grass among grazing animals, picking up insects. Bill thin, straight and pointed, dark, a little shorter than the head. Legs medium length and black, the hind claw long and only slightly curved. Tail square-ended, black with white outer feathers. Migrates in loose flocks.",
+    "avoid": [
+      "Do not paint pink legs, a blue-grey back or a very long tail; those belong to Grey Wagtail (Motacilla cinerea).",
+      "Do not paint an all-yellow head with a grey back and broad white wing-bars; that is Citrine Wagtail (Motacilla citreola).",
+      "Do not add a black throat or a black breast band; this species has no black on the underparts.",
+      "Do not make the bill thick or the legs pale; the bill is thin and dark and the legs black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Grey-backed Shrike (Lanius tephronotus), adult: a narrow black band across the forehead joining a broad black mask through the eye; crown, nape, mantle and back dark grey; rump and uppertail coverts rufous; wings dark brown without any white patch; throat white; breast and belly whitish, washed rufous-buff on the breast sides and more strongly rufous on the flanks; tail long, dark brown. Bill black and hooked; legs blackish.",
+    "pose": "perched upright on top of a bush, side view",
+    "scene": "Bushy farmland edge on a Korean offshore island in May, during spring migration, bright light; no people, buildings or text",
+    "views": [],
+    "build": "Fairly large, long-tailed shrike, clearly larger than Bull-headed Shrike and about the length of a Brown-eared Bulbul; large head and a strong hooked bill shorter than the head. Legs short, dark. Tail long and graduated. The grey of the upperparts runs from the crown down to the lower back, where it meets the rufous rump. Perches upright on bush tops.",
+    "avoid": [
+      "Do not paint a white wing patch, rufous scapulars or a long black tail; those mark Long-tailed Shrike (Lanius schach).",
+      "Do not paint white underparts with black wings and white wing-bars (Chinese Grey Shrike, Lanius sphenocercus).",
+      "Do not paint a rufous or brown crown."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Scaly-sided Merganser (Mergus squamatus), adult male: green-glossed black head and neck with a long trailing crest, white body, black back, bold scaly markings on the flanks",
+    "subject": "Scaly-sided Merganser (Mergus squamatus), adult male in winter, as seen on fast-flowing Korean rivers from November to March: head and upper neck black with a green gloss, with a long, thin, wispy crest trailing from the hindcrown; mantle and scapulars black; lower neck and breast white; flanks and sides white, boldly marked with grey-black crescent scales; lower back, rump and tail grey with dark scaling. Bill long and slender, bright red with a yellowish hooked tip; iris dark brown; legs bright orange-red.",
     "pose": "swimming in a fast-flowing river, about to dive for fish",
     "scene": "Korean winter river with a fast-flowing current; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: green-glossed black head and neck, long crest, white body, black back, scaly flanks",
-      "adult female, side view swimming: pale brown head and neck, shorter crest, grey back, scaly flanks"
-    ]
+      "adult male, side view swimming: green-glossed black head and neck with a long trailing crest, black back, white breast and body, bold grey scaly pattern on the flanks, long red bill",
+      "adult female, side view swimming: rufous-brown head and upper neck with a shorter ragged crest, grey back, white breast, grey scaly flanks, long red bill"
+    ],
+    "build": "Large, slim diving duck, about 57cm, about Mallard length but longer-bodied and lower in the water. Head with a long, thin, ragged crest trailing well behind the nape. Bill long and narrow, about as long as the head, straight with a small hook at the tip. Legs short, orange-red, set far back. Swims low in fast currents and dives repeatedly for fish. At rest the wingtips reach the base of the tail. Tail short. Flight fast and direct with the neck outstretched in a straight line, showing white inner wing patches.",
+    "avoid": [
+      "Do not paint the flanks plain white or finely vermiculated grey; they carry bold dark crescent scales.",
+      "Do not give the male a streaked brown breast band or a white collar; that is Red-breasted Merganser.",
+      "Do not draw a round crestless head; the crest is long and wispy.",
+      "Do not paint a broad flat duck bill; it is long, narrow and red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -37,13 +37,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-throated Pipit (Anthus cervinus), adult breeding: buff-brown upperparts with black streaks, pale yellowish-white underparts with black streaks on the flanks",
+    "subject": "Red-throated Pipit (Anthus cervinus), adult in spring (April–May): face, supercilium, throat and upper breast brick-pink to rusty-orange (strongest in males, paler in some females); crown, nape and back buff-brown boldly streaked black; rump also streaked; wings dark with pale-edged coverts forming two thin wing-bars; lower breast and belly pale yellowish-white; flanks with long black streaks; tail dark with whitish outer feathers; bill dark with a yellowish base; dark eye; pinkish-brown legs.",
     "pose": "walking on damp ground, picking insects",
     "scene": "Korean spring migration: wet grassland and farmland near the coast; no people, buildings or text",
     "views": [
-      "adult breeding, side view on ground: buff-brown upperparts streaked black, pale yellowish-white underparts, black-streaked flanks",
-      "adult breeding, view from above: buff-brown back with black streaks"
-    ]
+      "adult in spring, side view walking on wet grass: brick-pink face, supercilium and throat, buff-brown back streaked black, pale yellowish-white belly, long black streaks on the flanks, pinkish legs",
+      "first-winter in autumn, side view on the ground: no pink, buff-brown upperparts heavily streaked black, whitish underparts with bold black streaks on breast and flanks, dark malar stripe",
+      "adult, seen from above on the ground: buff-brown crown, mantle and rump all streaked black, two thin pale wing-bars"
+    ],
+    "build": "Small, slim pipit, 15cm — about sparrow length but slimmer, with a horizontal walking posture. Bill slender and pointed, shorter than the head. Legs pinkish-brown, with a long hind claw. At rest the long tertials cover the primary tips almost completely. Tail medium-length and notched, with whitish outer feathers. Walks on wet grass and fields, often in small flocks.",
+    "avoid": [
+      "Do not omit the brick-pink face and throat on spring adults; it is the species' namesake.",
+      "Do not paint a plain, unstreaked rump or back (Olive-backed or Buff-bellied Pipit); the rump is streaked.",
+      "Do not spread the pink onto the belly.",
+      "Do not paint dark legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

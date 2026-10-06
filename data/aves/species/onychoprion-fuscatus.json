@@ -40,13 +40,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sooty Tern (Onychoprion fuscatus), adult: white forehead, black back, slender black bill, deeply forked tail",
+    "subject": "Sooty Tern (Onychoprion fuscatus), adult, as seen on Korean offshore islands: black crown and nape continuous with the blackish-brown back, upperwings and tail; broad white forehead patch reaching back only to the eye; black line from the bill to the eye; cheeks, throat and underparts white; outer tail streamers edged white; bill long, slender and black; dark eye; legs short and black.",
     "pose": "standing on sand, side view",
     "scene": "Korean coast in spring or autumn: the sandy shore of an offshore island; no people, buildings or text",
     "views": [
-      "adult, side view standing: white forehead, black back, slender black bill, deeply forked tail",
-      "adult, in flight from above: black back and deeply forked tail"
-    ]
+      "adult, side view standing on sand: broad white forehead ending at the eye, black cap joined directly to the blackish back with no pale collar, white underparts, slender black bill, short black legs, deeply forked tail",
+      "adult, in flight seen from above, head, body and tail in line: uniformly blackish upperwings and back, white forehead, deeply forked tail with long white-edged outer streamers"
+    ],
+    "build": "Large, slim tern, about 40cm including the tail streamers, larger than Common Tern, with long, narrow, sharply pointed wings and a deeply forked tail with long outer streamers. Bill black, slender, about as long as the head. Legs short and black. In flight the upperparts look uniformly blackish, the underwing white with contrasting dark flight feathers, and the long streamers show white outer edges.",
+    "avoid": [
+      "Do not paint a pale collar between cap and back, a grey-brown back, or a white eyebrow extending behind the eye; those are Bridled Tern (Onychoprion anaethetus).",
+      "Do not paint a pale grey back like most terns; the upperparts are blackish.",
+      "Do not paint a red or yellow bill.",
+      "Do not give it a crest."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

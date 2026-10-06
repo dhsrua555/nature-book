@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Chinese Crested Tern (Thalasseus bernsteini), adult in breeding plumage, as seen at Korean west-coast island colonies in summer (June–July): full black cap from the bill base to the nape, ending in a short shaggy crest; rest of the head, neck and underparts white; mantle and upperwings very pale grey, almost whitish; outer primaries darker grey towards the tips; rump and tail white; bill orange-yellow with a broad black band near the end and a small pale yellow tip; dark eye; legs black.",
+    "pose": "standing on bare rock at a breeding colony with the crest slightly raised, side view",
+    "scene": "small rocky island off the Korean west coast in June, bare rock with sparse grass and grey-blue sea; no people, buildings or text",
+    "views": [],
+    "build": "Medium-large tern, slightly smaller and slimmer than Greater Crested Tern and much larger than Common Tern, with long, narrow, pointed wings and a forked tail. Shaggy crest at the rear of the black cap. Bill long, straight and fairly stout, about as long as the head, sharply pointed. Legs short and black. At rest the wingtips extend a little beyond the tail tip. Flight buoyant on long, angled wings, the bill pointing down when searching for fish.",
+    "avoid": [
+      "Do not paint a plain yellow bill without a black band; that is Greater Crested Tern (Thalasseus bergii), which also has a darker grey back and a white forehead band.",
+      "Do not paint a black bill with only a yellow tip; that is Sandwich Tern.",
+      "Do not paint red or orange legs; the legs are black.",
+      "Do not give it long tail streamers like Common Tern."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

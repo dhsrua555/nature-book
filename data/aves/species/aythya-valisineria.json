@@ -50,13 +50,22 @@
     }
   ],
   "art": {
-    "subject": "Canvasback (Aythya valisineria), adult male: reddish chestnut head, long black bill forming a smooth sloping line with the forehead, foreparts looking black at a distance, white central body",
+    "subject": "Canvasback (Aythya valisineria), adult male in winter plumage, as worn from November to March: head and upper neck rich reddish chestnut, darkening to blackish around the bill base and forecrown; lower neck and breast black; back, scapulars and flanks very pale, almost white, with extremely fine grey vermiculation so the body looks white at a distance; rear end, tail and undertail coverts black. Bill long and entirely black; iris bright red; legs and feet grey.",
     "pose": "swimming low on open water, about to dive",
     "scene": "open coastal water of a calm bay in winter; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: reddish chestnut head, sloping forehead into a long black bill, black-looking foreparts, white body",
-      "adult female, side view swimming: brown head and breast, paler brown around the eye and throat, grey-brown back, grey flanks"
-    ]
+      "adult male winter, side view swimming: reddish-chestnut head with blackish face near the bill, forehead sloping straight into a long all-black bill, red eye, black breast and black rear that make the foreparts look black from a distance, whitish central body",
+      "adult female, side view swimming: pale brown head and neck, paler buff around the eye and on the throat, darker brown breast, grey-brown back and grey flanks, the same long black bill and wedge-shaped head profile, dark eye"
+    ],
+    "build": "Large, heavy-bodied diving duck, 50–61cm, clearly bigger than a Common Pochard and close to a Mallard in length; long-bodied and sitting low on the water. Head long and wedge-shaped: the forehead slopes in one straight line into the bill with no angle between them, the crown highest towards the rear. Bill long, about as long as the head, deep at the base and tapering, with no pale band. Short grey legs set far back. Wings hidden under the flank feathers at rest; in flight the upperwing is plain pale grey with no white wing-bar. Tail short and dark, often held flat on the water.",
+    "avoid": [
+      "Do not give the bill a pale grey band or a short, concave profile — that is Common Pochard (Aythya ferina), which also has a grey, not whitish, body.",
+      "Do not draw a steep forehead or a rounded head; forehead and bill form one long straight slope.",
+      "Do not add a crest or tuft on the head.",
+      "Do not show a white wing-bar in flight; the upperwing is plain pale grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

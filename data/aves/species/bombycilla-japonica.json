@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Waxwing (Bombycilla japonica), adult: reddish-brown body, crest about 3 cm long, red forehead and cheeks, black eye-stripe, blue-grey rump and belly with a yellow centre to the belly, black tail with a red tip",
+    "subject": "Japanese Waxwing (Bombycilla japonica), adult in winter (November–March): soft pinkish grey-brown plumage with a long, swept-back crest; forehead and cheeks rich reddish-chestnut; a narrow black stripe from the bill base through the eye runs back along the crest to its tip; small black chin and throat patch; back and wing coverts grey-brown, rump blue-grey; wings black and grey with a dark red band formed by red tips to the greater coverts; breast pinkish-brown fading to a blue-grey belly with a pale yellow centre; undertail coverts rusty-red; tail grey at the base, black towards the end, with a red tip; short black bill; dark eye; black legs.",
     "pose": "perched on a branch, side view",
     "scene": "Korean winter woodland edge with conifers beside a park; no people, buildings or text",
     "views": [
-      "adult, side view perched: crest, red forehead and cheeks, black eye-stripe, reddish-brown body, blue-grey belly with yellow centre, red-tipped black tail",
-      "adult, rear view: blue-grey rump and black tail with a red tip"
-    ]
+      "adult, side view perched on a berry-laden twig: swept-back crest with the black eye-stripe running to its tip, reddish-chestnut forehead and cheeks, black chin, pinkish-brown body, blue-grey belly with a pale yellow centre, rusty-red vent, red-tipped tail",
+      "adult, seen from behind and slightly above, perched: blue-grey rump, grey-and-black tail with a red tip, dark red band across the folded wing, black flight feathers"
+    ],
+    "build": "Plump, compact songbird, 18cm — clearly larger than a sparrow, smaller than a starling, with a starling-like silhouette in flight. Large head with a soft, pointed crest swept back from the crown. Bill short, black and broad-based, much shorter than the head. Legs short and black. Wings fairly long and pointed. Tail short and square-ended. Perches upright in tight flocks in treetops and feeds on berries, often hanging among fruiting twigs.",
+    "avoid": [
+      "Do not paint a yellow tail tip or yellow and white marks in the wing — those belong to Bohemian Waxwing (Bombycilla garrulus); this species has a red tail tip.",
+      "Do not stop the black eye-stripe at the base of the crest; it runs right along the crest to the tip.",
+      "Do not paint red waxy droplets on the secondaries as in Bohemian Waxwing.",
+      "Do not paint a long thin bill or long legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Crested Tern (Thalasseus bergii), adult: black cap, white face and underparts, greyish-brown back, yellowish bill, black legs",
+    "subject": "Greater Crested Tern (Thalasseus bergii), adult in breeding plumage, as in summer on the Korean west coast: black cap starting just behind a narrow white forehead band and ending in a shaggy crest on the nape; face, throat and neck white; mantle, back and upperwing medium grey, darker than in most terns, the outer primaries darker grey; rump and tail pale grey; underparts white. Bill long, heavy and cool greenish-yellow, slightly drooping at the tip; dark eye; legs black.",
     "pose": "flying slowly low over the sea, about to plunge onto prey",
-    "scene": "Korean west coast: uninhabited rocky island and open sea; no people, buildings or text",
+    "scene": "Uninhabited rocky island off Korea's west coast in summer, open sea and clear sky; no people, buildings or text",
     "views": [
-      "adult, side view standing: black cap, white face and underparts, greyish-brown back, yellowish bill, black legs",
-      "adult in flight over the sea: black cap, white underparts, yellowish bill"
-    ]
+      "adult breeding plumage (summer), side view standing on a rock: black cap with shaggy nape crest, narrow white forehead, white face, long yellow bill, medium grey back and wings, white underparts, black legs",
+      "adult breeding plumage, in flight over the sea seen from below and the side: black cap, long yellow bill, white underparts and underwing, darker tips to the outer primaries, forked grey tail"
+    ],
+    "build": "Large tern, about 46cm, roughly the length of a Black-tailed Gull but slimmer and longer-winged; flat crown ending in a shaggy black crest. Bill longer than the head, thick-based and dagger-shaped with a slightly drooping tip. Legs short, black. At rest the wingtips extend beyond the tail. Tail grey, moderately forked. Flight strong and purposeful on long, narrow, angled wings; plunge-dives for fish. In non-breeding plumage the forehead and forecrown are white and the black is reduced to a streaked rear crown and crest.",
+    "avoid": [
+      "Do not paint an orange or red bill; Lesser Crested Tern has an orange bill and Caspian Tern a heavy red one.",
+      "Do not paint a black tip on the bill (Chinese Crested Tern, Thalasseus bernsteini).",
+      "Do not paint the adult's back brown; it is grey, and brown mottling belongs to juveniles.",
+      "Do not paint red or orange legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

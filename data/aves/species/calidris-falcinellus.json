@@ -45,14 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Broad-billed Sandpiper (Calidris falcinellus), adult breeding: brown crown and back, blackish rump, uppertail coverts and central tail feathers, brown streaking on the neck, foreneck and flanks, white belly",
+    "subject": "Broad-billed Sandpiper (Calidris falcinellus), adult in breeding plumage as seen on Korean tidal flats in May: dark brown crown with a narrow pale lateral crown-stripe above a white supercilium, so that two whitish stripes (a split supercilium) run above the eye, with a dark eye-stripe below; upperparts blackish-brown, the feathers fringed rufous-buff and white, forming whitish lines along the mantle and scapulars like a small snipe; neck, foreneck and breast whitish, densely streaked dark brown, the streaks extending as chevrons onto the flanks; belly white. Bill blackish; dark eye; legs dark greyish-olive.",
     "pose": "feeding on wet mud among other small sandpipers",
-    "scene": "Korean tidal flat at a river mouth during spring or autumn migration; no people, buildings or text",
+    "scene": "Korean tidal flat at a river mouth during spring migration in May; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: brown crown and back, brown-streaked neck and foreneck, white belly",
-      "adult non-breeding, side view: grey-brown feather edges with dark shafts, white belly",
-      "in flight from above: blackish rump and central tail"
-    ]
+      "adult breeding plumage (May), side view standing: split whitish supercilium with a dark crown and eye-stripe, blackish-brown upperparts with rufous and white fringes forming pale lines on the back, densely streaked neck and breast with chevrons on the flanks, white belly, long bill kinked down near the tip",
+      "adult non-breeding plumage, side view standing: grey-brown upperparts with dark centres and dark shaft streaks to each feather, split whitish supercilium still visible, finely streaked grey breast, white underparts",
+      "in flight seen from above: narrow white wing-bar, blackish rump, uppertail coverts and central tail, white sides to the rump"
+    ],
+    "build": "Small, low-slung sandpiper, 17cm, a little larger than a sparrow and slightly smaller than a Dunlin, with short legs and a rather hunched, crouching feeding stance. Bill blackish, longer than the head, broad and flattened at the base, straight for most of its length and then kinked downward just before the tip. Legs short, dark. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar and a blackish centre to the rump and tail with white sides.",
+    "avoid": [
+      "Do not paint a single plain supercilium; it is split into two pale stripes above the eye.",
+      "Do not paint an evenly curved bill (Curlew Sandpiper) or a short stint bill; it is long, broad-based, straight, with a downward kink at the tip.",
+      "Do not paint yellow or long legs; they are short and dark.",
+      "Do not paint a black belly patch (Dunlin); the belly is white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

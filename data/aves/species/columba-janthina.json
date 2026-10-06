@@ -57,14 +57,23 @@
   "young": "어린새는 뒷목에 녹색 광택이 없다.",
   "similar": [],
   "art": {
-    "subject": "Black Wood Pigeon (Columba janthina), adult: glossy purple plumage in sunlight with a pearly green sheen on the hindneck, red legs",
+    "subject": "Black Wood Pigeon (Columba janthina), adult (sexes alike), as seen in evergreen broadleaf forest on Ulleungdo and southern Korean islands: plumage sooty black overall; in sunlight the crown and shoulders show a metallic purple gloss, the hindneck and neck sides a pearly green sheen, and the back and breast a mixed green-and-purple sheen; in shade the whole bird looks black; flight feathers and the long tail dull black with no white or pale bands; bill slender, dark greenish-blue with an ivory to pale yellow tip; brown eye; red legs and feet.",
     "pose": "perched in an evergreen tree, side view, reaching for berries",
     "scene": "evergreen broadleaf forest on a Korean southern island, dense glossy foliage; no people, buildings or text",
     "views": [
-      "adult, side view perched in sunlight: glossy purple body, pearly green hindneck, red legs",
-      "adult, side view perched in shade: looks black overall, red legs",
-      "juvenile, head and neck detail: no green gloss on the hindneck"
-    ]
+      "adult in sunlight, side view perched on an evergreen branch: sooty black bird with purple gloss on crown and shoulders, pearly green sheen on the hindneck, dark bill with a pale tip, red legs, long dark tail",
+      "adult in shade, side view perched: looks wholly black and glossless, long tail, red legs the only colour",
+      "juvenile, head and neck detail in side view: dull sooty-black head and hindneck without the green gloss, duller than the adult"
+    ],
+    "build": "Large, heavy pigeon, about 40cm, the largest pigeon in Korea and clearly bigger than a feral pigeon, with a relatively small head, full chest and a long, broad, slightly rounded tail. Bill slender, shorter than the head. Legs short and red. At rest the wingtips fall well short of the tail tip. Flight strong with deep wingbeats; the long tail is often slightly fanned; no white anywhere on the wings or tail.",
+    "avoid": [
+      "Do not paint grey plumage, a white neck patch or white wing patches like Common Wood Pigeon or a feral pigeon.",
+      "Do not paint pink or grey legs; adult legs are red.",
+      "Do not make it small and dove-like (Oriental Turtle Dove); it is a big, long-tailed pigeon.",
+      "Do not paint black wing-bars or a pale rump."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

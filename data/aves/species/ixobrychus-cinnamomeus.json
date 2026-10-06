@@ -46,14 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Cinnamon Bittern (Ixobrychus cinnamomeus), adult male: rufous-brown upperparts, yellowish underparts, a single brown stripe down the throat",
+    "subject": "Cinnamon Bittern (Ixobrychus cinnamomeus), adult male in summer: crown, hindneck, back, wings and tail uniform bright cinnamon-rufous, with no black in the wings or crown; sides of the neck and underparts paler cinnamon-buff, yellowish-buff on the belly; a single dark brown stripe down the centre of the throat and foreneck; bill yellow with a darker culmen; bare lores yellow, flushed red in the breeding season; yellow iris; legs greenish-yellow.",
     "pose": "walking slowly over mud in shallow water, hunting",
     "scene": "Korean rice paddies and reedy wetland on Jeju; no people, buildings or text",
     "views": [
-      "adult male, side view: rufous-brown upperparts, yellowish underparts, single brown throat stripe",
-      "adult female, side view: darker brown upperparts, several distinct blackish-brown streaks",
-      "breeding male, head detail: red lores"
-    ]
+      "adult male, side view standing in shallow water: uniform cinnamon-rufous upperparts and wings, paler cinnamon-buff underparts, single dark brown stripe down the throat and foreneck, yellow bill, greenish-yellow legs",
+      "adult female, side view standing: darker, duller brown upperparts, buff underparts with several bold blackish-brown stripes down the foreneck and breast, yellow bill, greenish-yellow legs",
+      "breeding male, head detail in profile: red-flushed bare lores, yellow iris, yellow dagger-shaped bill with a darker culmen, cinnamon crown, dark brown throat stripe"
+    ],
+    "build": "Small, compact bittern, 40cm, a little bigger than a Yellow Bittern and far smaller than a Black-crowned Night Heron; usually hunched with the neck drawn in, stretching it upward when alarmed. Bill straight, dagger-shaped, about as long as the head. Legs medium length, greenish-yellow, with long toes for clutching reeds. At rest the wingtips reach the tail tip; tail very short. In flight the whole wing, including the flight feathers, is uniform cinnamon, with no black.",
+    "avoid": [
+      "Do not paint black flight feathers or a black crown; those are Yellow Bittern (Ixobrychus sinensis). This species' wings are entirely cinnamon.",
+      "Do not streak the male's back; the male's upperparts are plain.",
+      "Do not paint long neck plumes, white plumage or a curved bill.",
+      "Do not make it large and long-necked like a Grey Heron; it is small and compact."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

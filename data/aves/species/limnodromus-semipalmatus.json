@@ -50,14 +50,23 @@
     }
   ],
   "art": {
-    "subject": "Asian Dowitcher (Limnodromus semipalmatus), adult in breeding plumage: straight, blunt-tipped, all-black bill, head and entire underparts rufous",
+    "subject": "Asian Dowitcher (Limnodromus semipalmatus), adult in breeding plumage, as seen on Korean tidal flats on spring passage (late April–May): head, neck, breast and belly deep brick-red, with a dark loral stripe and a dark-streaked crown; mantle and scapulars blackish with rufous and buff fringes; wing coverts greyer brown; lower belly and vent whitish with a few dark bars on the rear flanks; bill entirely black, long and straight with a slightly swollen, blunt tip; dark eye; legs blackish-grey.",
     "pose": "standing on a tidal mudflat, side view",
-    "scene": "Korean tidal mudflat at a river mouth during spring or autumn migration; no people, buildings or text",
+    "scene": "Korean tidal mudflat at a river mouth during spring migration (late April–May); no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: rufous head and underparts, straight all-black bill with a blunt tip",
-      "adult winter, side view standing: white supercilium, greyish-brown upperparts with white fringes",
-      "juvenile, side view standing: buff neck and flanks, dark brown upperparts with pale brown fringes, bold dark eye-stripe"
-    ]
+      "adult breeding (spring), side view standing on mud: brick-red head, neck, breast and belly, blackish back with rufous fringes, straight all-black bill with a blunt, slightly swollen tip, dark legs",
+      "adult winter, side view standing: white supercilium, grey-brown crown and upperparts with neat white fringes, whitish underparts with grey-brown marks on the breast, same straight all-black bill",
+      "juvenile (autumn), side view standing: buff neck, breast and flanks, dark brown upperparts with neat pale buff-brown fringes, bold dark eye-stripe below a pale supercilium"
+    ],
+    "build": "Large, heavy dowitcher, about 35cm, near Bar-tailed Godwit size but stockier and shorter-necked. Bill very long, about twice head length, perfectly straight, all black, staying thick to a slightly swollen, blunt tip. Legs fairly long, dark grey to black. At rest the wingtips reach about the tail tip. In flight a pale, finely barred rump and lower back without a clean white wedge, and a pale underwing. Probes vertically with rapid 'sewing-machine' movements, often wading belly-deep.",
+    "avoid": [
+      "Do not paint a pink base to the bill or an upturned bill; that is Bar-tailed or Black-tailed Godwit.",
+      "Do not paint a black tail band or a bold white wing-bar; those belong to Black-tailed Godwit (Limosa limosa).",
+      "Do not paint yellowish-green legs or a white back wedge; those suit Long-billed Dowitcher (Limnodromus scolopaceus).",
+      "Do not taper the bill to a fine point; it stays thick to a blunt, slightly swollen tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

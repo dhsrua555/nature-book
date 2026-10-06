@@ -66,13 +66,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Hazel Grouse (Tetrastes bonasia), adult male: brown plumage mottled all over, black patch from chin to throat",
+    "subject": "Hazel Grouse (Tetrastes bonasia), adult male (plumage the same all year): short crest on the crown, often raised; a small red wattle of bare skin above the eye; black chin and throat bordered by a bold white line that runs from the bill base below the eye and down the side of the neck; crown, nape and back grey-brown with rufous tones, finely barred and vermiculated darker; scapulars edged whitish, forming a pale line along the folded wing; breast and flanks whitish, densely marked with chestnut-brown and black crescents and spots; tail grey, finely vermiculated, with a broad black band near the tip and a pale tip; short black bill; dark eye; legs feathered greyish-buff almost to the grey toes.",
     "pose": "walking on the forest floor, searching the ground for food",
     "scene": "dense Korean forest: a fallen tree and shrub roots on the shaded forest floor; no people, buildings or text",
     "views": [
-      "adult male, side view walking: brown mottled plumage, black patch from chin to throat",
-      "adult female, side view walking: brown mottled plumage without the black throat patch"
-    ]
+      "adult male, side view walking on the ground: raised short crest, red wattle above the eye, black throat bordered white, grey-brown upperparts finely mottled and barred, whitish underparts with chestnut and black crescents, grey tail with a black band near the tip",
+      "adult female, side view walking on the ground: the same mottled brown body and banded grey tail, but the throat buffy white speckled brown with no black patch and no white border, crest smaller, little or no red above the eye"
+    ],
+    "build": "A small, plump forest grouse, 36cm: a little longer and much more rotund than a feral pigeon, far smaller than a pheasant. Small head with a short erectile crest, short thick neck, compact rounded body. Bill black, very short and stout, much shorter than the head, with a slightly curved culmen. Legs short, the tarsi feathered almost to the toes. Wings short and rounded; at rest the wingtips lie at the base of the tail. Tail medium length, square to slightly rounded, grey with a black band near the tip. Walks quietly on the forest floor; flushes with loud whirring wingbeats.",
+    "avoid": [
+      "Do not paint a long pointed tail or a long neck; this is a small, compact grouse, not a pheasant.",
+      "Do not give the female a black throat; only the male has the black, white-bordered throat patch.",
+      "Do not paint a large red comb on top of the head like a chicken; the red is only a small wattle above the eye.",
+      "Do not paint bare scaly legs; the legs are feathered almost to the toes."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

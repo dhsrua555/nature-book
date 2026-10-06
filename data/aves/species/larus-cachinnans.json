@@ -57,13 +57,22 @@
     }
   ],
   "art": {
-    "subject": "Caspian Gull (Larus cachinnans), adult: white head, neck and body without brown streaks, grey back and wing coverts darker than Vega Gull, red orbital ring, yellow bill with a red spot on the lower mandible, pink legs",
+    "subject": "Caspian Gull (Larus cachinnans), Korean wintering form Mongolian Gull (L. c. mongolicus), adult in winter (October–March): head and neck white with at most a few fine grey streaks on the hindneck, much cleaner than Vega Gull; back and upperwing coverts medium grey; wingtip black with white mirrors and white primary tips; white tertial and scapular crescents; underparts and tail white. Bill stout, yellow, with a red spot near the tip of the lower mandible. Pale iris with a bright red orbital ring. Legs pale flesh-pink.",
     "pose": "standing among a mixed flock of gulls on a mudflat",
     "scene": "Korean winter: estuary mudflat at a river mouth with a mixed gull flock; no people, buildings or text",
     "views": [
-      "adult, side view standing: white head and body, grey back and wing coverts, yellow bill with a red spot, pink legs",
-      "adult, head detail: unstreaked white head, red orbital ring, yellow bill with a red spot on the lower mandible"
-    ]
+      "adult winter, side view standing: clean white head and neck with almost no streaking, medium-grey back and wing coverts, black wingtips with white spots, white body, yellow bill with a red spot, pale pink legs",
+      "adult, head detail in profile: unstreaked white head, pale iris, red orbital ring, deep yellow bill with a red spot near the tip of the lower mandible"
+    ],
+    "build": "Large, heavy-bodied gull, about the size of Vega Gull and much larger than Common Gull or Black-tailed Gull; long-winged, with a strong neck and a fairly long, deep yellow bill with a marked angle on the lower mandible. Legs medium-long, pale pink. At rest the black primaries project well beyond the white tail. In flight medium-grey upperwing with a white trailing edge and a black wingtip with white mirrors. Tail square, all white in adults.",
+    "avoid": [
+      "Do not cover the head and neck with heavy brown streaks — that is winter Vega Gull; this form stays white-headed.",
+      "Do not paint a dark slate-grey back — that is Slaty-backed Gull (Larus schistisagus).",
+      "Do not paint a black tail band or a black-and-red bill tip (Black-tailed Gull).",
+      "Do not paint a small slim bill or greenish legs (Common Gull)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

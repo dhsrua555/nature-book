@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Black-footed Albatross (Phoebastria nigripes), adult: plumage almost entirely dark sooty brown; a white band encircling the base of the bill and a white crescent below and behind the eye; older birds show white on the uppertail coverts and undertail coverts; underwing dark brown. Bill dark grey-brown to blackish; legs and feet black.",
+    "pose": "gliding low over the waves on stiff wings, side view",
+    "scene": "open sea far off the Korean coast with long ocean swell; no people, buildings or text",
+    "views": [],
+    "build": "Large albatross with a wingspan far greater than any gull's, similar in size to Laysan Albatross; heavy-bodied with a thick neck and large head. Bill stout, about as long as the head, deep and hooked at the tip. Legs short with large black webbed feet. Wings very long and narrow, held straight and stiff in gliding flight low over the sea with few wingbeats. Tail short, rounded and dark.",
+    "avoid": [
+      "Do not give it a big pink bill — the dark juvenile Short-tailed Albatross (Phoebastria albatrus) has one; the Black-footed Albatross has a dark bill and a white ring around its base.",
+      "Do not paint a white head, body or underwing; it is sooty brown except the white face marks and pale tail coverts.",
+      "Do not paint pink or yellow feet; they are black.",
+      "Do not paint it like a dark gull or shearwater; it has the huge straight wings and heavy bill of an albatross."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

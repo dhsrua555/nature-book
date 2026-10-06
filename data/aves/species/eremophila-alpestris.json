@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Horned Lark (Eremophila alpestris), adult male in winter, as seen in Korea from November to March: forehead, broad supercilium and throat whitish, sometimes tinged pale yellow; a black band across the forecrown ending in two short black feather tufts ('horns') at the rear sides of the crown, partly veiled by pale feather tips in winter; a broad black mask from the bill base through the lores, curving down below the eye onto the cheek; a black crescent across the upper breast; crown and nape pinkish-brown; mantle and wing coverts sandy grey-brown with diffuse dark streaks; rest of the underparts white, with a pinkish-brown wash and faint streaks on the flanks; dark tail with pale brown central feathers and white outer edges; short grey-black bill; dark eye; blackish legs.",
+    "pose": "walking on bare sandy ground, side view, picking at seeds",
+    "scene": "bare sandy coastal dune and fallow field edge in Korea in winter, dry grass and low winter sun; no people, buildings or text",
+    "views": [],
+    "build": "A small, slim ground lark, a little longer than a sparrow and slightly smaller than a Eurasian Skylark, with a rather horizontal stance; it walks rather than hops on bare ground. Rounded head with no crest; the 'horns' are only two small black tufts at the rear of the crown, often flattened. Bill short, fine and pointed, shorter than the head. Legs short, blackish. Tail medium, slightly notched. In flight the blackish tail with pale centre contrasts with the pale sandy body and plain sandy upperwing.",
+    "avoid": [
+      "Do not give it a raised crest or a heavily streaked breast; that is Eurasian Skylark (Alauda arvensis).",
+      "Do not paint long, ear-like horns; they are two short black tufts, often barely visible in winter.",
+      "Do not omit the black mask and black breast crescent; they stay visible in winter, only partly veiled by pale fringes.",
+      "Do not make the bill thick or pale; it is short, fine and dark."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

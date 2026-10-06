@@ -50,13 +50,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Bluethroat (Luscinia svecica), adult male in spring: sepia-brown forehead, crown, nape and hindneck with dark feather centres and pale fringes, creamy buff supercilium, black lores, rusty-brown ear coverts, blue chin, throat and foreneck with a large deep rusty-red spot just below the centre, black bill, dark brown legs",
+    "subject": "Bluethroat (Luscinia svecica), adult male in spring, red-spotted form, as seen in Korean marshes in April and May: plain earth-brown upperparts, the crown and nape sepia-brown with darker feather centres; a long creamy-buff supercilium; black lores and rusty-brown ear coverts; chin, throat and foreneck bright cobalt-blue with a large rusty-red spot in the lower centre of the blue; below the blue a narrow black band, a thin white band and a broad rusty-chestnut band across the upper breast; rest of the underparts dull white with buff flanks; tail dark brown with bright rufous bases to the outer feathers; bill black; dark eye; legs dark brown.",
     "pose": "standing on the ground at the foot of a low shrub, side view",
     "scene": "Korean marsh during spring migration: uneven wet ground with scattered low shrubs; no people, buildings or text",
     "views": [
-      "adult male, side view on the ground: sepia-brown crown, creamy buff supercilium, black lores, rusty-brown ear coverts, blue throat with a large rusty-red spot, black bill, dark brown legs",
-      "adult female, side view: upperparts as male, white throat with a few rusty spots, a black band then a white band below the throat with a bluish wash, spotted breast"
-    ]
+      "adult male, spring, side view standing on the ground with the tail slightly cocked: sepia-brown crown and nape with dark feather centres, creamy supercilium, black lores, rusty-brown ear coverts, cobalt-blue throat with a large rusty-red central spot, black, white and chestnut bands below it, rufous tail base, black bill, dark brown legs",
+      "adult female, side view standing: upperparts as the male, creamy-white throat framed by a blackish malar stripe that joins a band of dark spots across the upper breast, sometimes a little blue and rufous in this band, rufous tail base"
+    ],
+    "build": "Small, plump chat, slightly larger than a sparrow, with long legs for its size and an upright stance; runs on the ground and stops with the tail cocked and partly fanned. Bill thin, straight and pointed, shorter than the head. Legs long, slender, dark brown. Wings short and rounded: at rest the wingtips reach just past the base of the tail. Tail medium length, square, dark brown with conspicuous rufous-chestnut panels at the base of each side, flashing when the tail is spread; no wing-bars.",
+    "avoid": [
+      "Do not paint a red throat with a white moustache stripe; that is Siberian Rubythroat (Calliope calliope). The Bluethroat's throat is blue.",
+      "Do not paint blue on the crown, back or wings as on Siberian Blue Robin (Larvivora cyane); the upperparts are plain brown.",
+      "Do not paint a white spot in the blue throat; birds in Korea have a rusty-red spot.",
+      "Do not omit the rufous panels at the base of the tail or the pale supercilium."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

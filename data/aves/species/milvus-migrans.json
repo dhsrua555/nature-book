@@ -56,14 +56,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Kite (Milvus migrans), adult: rufous-brown overall with pale brown streaks, white patch in the middle of the underwing, shallowly forked tail",
+    "subject": "Black Kite (Milvus migrans), adult of the eastern form found in Korea, most often seen in winter: overall dark brown with a rufous tinge; head and breast paler buff-brown with dark streaks; a dark brown patch behind the eye on the ear coverts; upperparts dark brown with a paler brown diagonal band across the wing coverts; underparts rufous-brown with pale and dark streaks; underwing dark brown with a large whitish patch at the base of the primaries; tail brown, faintly barred, with a shallow fork. Bill black with a yellow cere; iris dark brown; legs yellow.",
     "pose": "soaring over the shore, showing the pale underwing patch",
     "scene": "Korean winter island coast: wooded slopes above a rocky shore; no people, buildings or text",
     "views": [
-      "adult, side view perched: rufous-brown plumage with pale brown streaks",
-      "adult, flight from below: white mid-underwing patch, shallowly forked tail",
-      "adult, flight from below with tail fanned: tail tip looking straight"
-    ]
+      "adult, side view perched: dark rufous-brown plumage with pale brown streaks, paler streaked head with a dark ear patch, yellow cere and legs, long tail with a shallow notch",
+      "adult, flight from below: long wings with a large whitish patch at the base of the primaries, dark body, long tail with a shallow fork",
+      "adult, flight from below with the tail fanned: tail end looking straight, whitish primary patches, dark body"
+    ],
+    "build": "Large, long-winged raptor, 58.5–68.5cm, far bigger than a crow, with a small head and short neck. Bill short and hooked, small for the bird. Legs short, yellow. At rest the wingtips reach about the tail tip. Tail long, with a shallow fork that turns square-ended when the tail is fanned; constantly twisted in flight. Soars and glides on long, slightly arched wings, the hand angled back with well-spread fingers.",
+    "avoid": [
+      "Do not paint a deeply forked or rufous-orange tail; that is Red Kite.",
+      "Do not give it a short rounded tail like a buzzard or eagle.",
+      "Do not paint a white head or a white tail.",
+      "Do not omit the whitish primary patches on the underwing."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

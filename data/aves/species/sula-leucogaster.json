@@ -41,14 +41,23 @@
   "young": "어린새는 배와 날개 아랫면이 밝은 갈색인 점만 빼면 어른새와 비슷하다.",
   "similar": [],
   "art": {
-    "subject": "Brown Booby (Sula leucogaster), adult male: chocolate-brown overall with white belly and white underwing, greyish-green face, bill and legs, bluish throat",
+    "subject": "Brown Booby (Sula leucogaster), adult male: head, neck, upper breast, back, wings and tail dark chocolate-brown, the brown ending in a sharp, straight line across the lower breast; lower breast, belly and undertail coverts clean white; underwing coverts white in the centre with broad brown borders and brown flight feathers; bill long, conical and pointed, greyish-green; bare facial skin around the eye and at the bill base greyish-green, the bare throat skin bluish; feet greyish-green.",
     "pose": "standing, side view",
-    "scene": "TODO",
+    "scene": "open sea around a rocky islet off southern Korea in late summer, waves breaking on dark basalt rocks; no people, buildings or text",
     "views": [
-      "adult male, side view standing: chocolate-brown head and upperparts, white belly, greyish-green face, bill and legs, bluish throat",
-      "adult female, side view standing: chocolate-brown with white belly, yellow face, bill and legs",
-      "adult, flight from below: white belly and white underwing contrasting with the brown head, breast and flight feathers"
-    ]
+      "adult male, side view standing on a sea rock: chocolate-brown head, neck, upper breast and upperparts, sharp line to the white belly, greyish-green bill and bare face, bluish throat skin, greyish-green feet",
+      "adult female, side view standing: the same chocolate-brown and white pattern, slightly larger, with yellow bill, yellow bare face and yellow feet",
+      "adult, in flight seen from below: chocolate-brown head, neck, breast and flight feathers, white belly and a white central band on the underwing coverts, long pointed wings, wedge-shaped tail"
+    ],
+    "build": "Large, cigar-shaped seabird, 71–76cm, clearly larger than a Black-tailed Gull, with a long neck, long pointed wings and a long wedge-shaped tail. Bill long, straight, thick-based and tapering to a sharp point without a hook, about as long as the head. Legs short with large webbed feet. At rest the long wings cross over the tail. Flies low over the waves with stiff wingbeats and glides, and plunge-dives at an angle for fish.",
+    "avoid": [
+      "Do not paint a hooked bill (cormorant or frigatebird); the booby's bill is straight and pointed.",
+      "Do not paint a white head or white upperwing coverts (Masked Booby); the head, neck and upperparts are wholly brown.",
+      "Do not let the brown breast blend into the belly; the border is sharp and straight.",
+      "Do not paint a forked tail; it is wedge-shaped."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

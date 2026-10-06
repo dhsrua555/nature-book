@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Streaked Shearwater (Calonectris leucomelas), adult: blackish-brown forehead to nape with white feather tips, dark brown neck, scapulars, back, rump and uppertail coverts, white-edged feathers on the centre of the back and on the uppertail coverts, dark brown tail, long wings",
+    "subject": "Streaked Shearwater (Calonectris leucomelas), adult in the breeding season, as seen at sea off Korean islands in summer: forehead, crown and nape white, densely streaked blackish-brown; face whiter with fine streaks; hindneck and sides of the neck brown; upperparts dark grey-brown, the back and uppertail-covert feathers fringed pale, giving a scaly look; upperwing dark brown; underparts clean white; underwing coverts white, bordered by dark flight feathers; tail dark brown. Long, slender, pale pinkish-horn bill with tube nostrils and a darker hooked tip; dark eye; pinkish legs and feet.",
     "pose": "gliding low over the waves on long wings",
     "scene": "Korean summer sea off a steep island coast such as Ulleungdo; no people, buildings or text",
     "views": [
-      "adult in flight, upperside: dark brown upperparts with white-fringed back and uppertail-covert feathers, long wings, dark brown tail",
-      "adult, side view standing: blackish-brown head with white feather tips, dark brown neck and scapulars"
-    ]
+      "adult in flight seen from above: dark grey-brown upperparts and upperwings, scaly pale fringes on the back and uppertail coverts, streaked whitish head, long narrow wings, short dark brown tail, head, body and tail in a straight line",
+      "adult in flight seen from below: white body and white underwing coverts bordered by dark flight feathers, pale streaked head, pale bill, short dark tail",
+      "adult resting on the sea, side view: white face and crown streaked dark brown, dark brown neck sides and scapulars, white throat and breast, long pale hooked bill"
+    ],
+    "build": "Large shearwater, about the length of a Black-tailed Gull but with much longer, narrower wings and a slimmer body. Head rounded, neck short. Bill long and slender, about as long as the head, with tube nostrils on top and a hooked tip. Legs short and set far back; on land it shuffles rather than standing upright. On the water it rests like a duck, the folded wings reaching about the tail tip. Tail short, rounded, dark. Flight: slow, loose wingbeats and long glides on slightly bowed wings.",
+    "avoid": [
+      "Do not paint an all-dark brown bird (Sooty or Flesh-footed Shearwater); this species has white underparts and a streaked whitish head.",
+      "Do not paint a gull: no grey mantle, no white tail, and the bill is slim, hooked and tube-nosed.",
+      "Do not paint a dark bill; it is pale pinkish-horn with a darker tip.",
+      "Do not show it standing upright on long legs; its legs are short and set far back."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -41,13 +41,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Dusky Thrush (Turdus eunomus), adult: dark brown upperparts from crown to tail, yellowish-white supercilium and throat, white breast, belly and flanks with black spots, rufous wing feathers (highly variable between individuals)",
+    "subject": "Dusky Thrush (Turdus eunomus), adult male in fresh winter plumage, as seen in Korean woodland from October to March: crown, nape and ear-coverts blackish-brown, forming a dark cap and cheek patch; long, broad creamy-white supercilium; whitish chin and throat bordered by a thin blackish malar stripe; mantle and back dark brown with blackish feather centres; wing coverts and flight-feather edges extensively rufous-chestnut, forming a rufous panel on the closed wing (the amount of rufous varies between individuals); underparts white with a band of dense black spots across the breast, a whiter gap below it, and bold black spots along the flanks; belly and undertail coverts white; tail dark brown. Bill blackish with a yellow base to the lower mandible; dark brown eye; pale pinkish-brown legs.",
     "pose": "perched on a bare branch, side view",
     "scene": "Korean winter woodland on a low hill; no people, buildings or text",
     "views": [
-      "adult, side view perched: yellowish-white supercilium and throat, dark brown upperparts, rufous wings, white underparts spotted black",
-      "adult, head detail: yellowish-white supercilium and throat"
-    ]
+      "adult male, winter, side view perched on a branch: blackish-brown cap and ear-coverts, long creamy-white supercilium and whitish throat, dark brown upperparts, rufous-chestnut panel on the closed wing, white underparts with a black-spotted breast band and black-spotted flanks, pale legs",
+      "adult male, head detail in side view: long creamy-white supercilium, blackish ear-coverts, whitish throat with a thin black malar stripe, dark bill with a yellow base to the lower mandible",
+      "adult female or first-winter, side view standing on the ground: the same pattern but duller and browner with less contrast, buffier supercilium and throat, less rufous in the wing and sparser breast spotting"
+    ],
+    "build": "Medium-sized thrush, 23cm, a little smaller and much shorter-tailed than a Brown-eared Bulbul and clearly larger than a sparrow; plump and deep-chested, stands upright with the head raised and hops on the ground. Rounded head, short neck. Bill straight, fairly stout, slightly shorter than the head, the culmen curving down gently at the tip. Legs medium-long and sturdy, pale pinkish-brown. At rest the wingtips reach just past the base of the tail. Tail medium length, square-ended, dark brown. In flight the underwing coverts are rufous-chestnut.",
+    "avoid": [
+      "Do not paint orange-rufous spots on the underparts or rufous tail sides — that is Naumann's Thrush (Turdus naumanni); the Dusky Thrush is spotted black on white.",
+      "Do not paint a plain grey or brown head without the long pale supercilium and dark cheek patch.",
+      "Do not paint an orange breast or unspotted white underparts.",
+      "Do not give it dark grey or black legs; they are pale pinkish-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

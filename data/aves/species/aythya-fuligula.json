@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tufted Duck (Aythya fuligula), adult male: glossy black head with a long tuft on the hindcrown, black breast and back, white flanks and belly, bluish-grey bill with a black tip, bluish-grey legs",
+    "subject": "Tufted Duck (Aythya fuligula), adult male in breeding plumage, as seen on Korean lakes from November to March: head black with a purple gloss and a long, thin, drooping tuft hanging from the hindcrown; bright golden-yellow eye; neck, breast, mantle, back, rump and tail black; flanks and belly pure white, the white flank panel sharply cut against the black; bill bluish-grey with a narrow pale band just before the black tip; legs bluish-grey.",
     "pose": "swimming in a small flock, one bird diving",
     "scene": "Korean winter lake near an estuary with calm open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: glossy black head with long tuft, black breast and back, white flanks, bluish-grey bill with black tip",
-      "adult female, side view swimming: dark brown overall, short tuft, bluish-grey bill with black tip"
-    ]
+      "adult male, side view swimming: glossy black head with a long drooping tuft, yellow eye, black breast and back, pure white flanks, bluish-grey bill with a black tip",
+      "adult female, side view swimming: dark chocolate-brown overall with paler brown flanks, short tuft, yellow eye, bluish-grey bill with a black tip"
+    ],
+    "build": "Compact diving duck, about 40cm, clearly smaller than a Mallard, with a round head, short neck and short tail; floats low and dives frequently. Bill broad, shorter than the head, bluish-grey with a black tip. Legs short, set far back, bluish-grey with dark webs. In flight a broad white stripe runs along the whole length of the flight feathers on an otherwise dark upperwing.",
+    "avoid": [
+      "Do not paint a pale grey back or leave out the tuft; that is Greater Scaup (Aythya marila).",
+      "Do not paint a red eye or a chestnut head; that is Common Pochard (Aythya ferina).",
+      "Do not give the female a large white face patch around the bill like a female scaup; at most a little white at the base.",
+      "Do not paint the bill all grey; it has a distinct black tip."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

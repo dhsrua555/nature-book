@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lanceolated Warbler (Locustella lanceolata), adult male (winter plumage): olive-tinged brown back with broad blackish-brown streaks, narrow indistinct buffy-white supercilium, lores mixed buffy-white and dark brown, ear-coverts mixed olive-brown and buff, yellowish-white chin, throat and breast with small triangular blackish-brown spots, yellowish-white belly",
+    "subject": "Lanceolated Warbler (Locustella lanceolata), adult on spring or autumn passage (sexes alike): upperparts olive-tinged brown, every feather of the crown, mantle and back with a broad blackish-brown centre, giving bold dense streaking; narrow, indistinct buffy-white supercilium; lores mottled buffy-white and dark brown; ear-coverts mixed olive-brown and buff; wings brown, the tertials dark-centred with pale edges; chin, throat and breast yellowish-white, finely marked with small triangular blackish-brown spots that form neat streaks continuing along the buff flanks; belly yellowish-white; undertail coverts buff with dark streaks; thin dark bill with a pale pinkish base below; dark eye; pinkish legs.",
     "pose": "creeping low in dense grass, partly hidden, side view",
     "scene": "Korean waterside reedbed and wet grassy marsh with willows and shrubs during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult male in winter plumage, side view low in grass: streaked brown back, faint pale supercilium, finely spotted throat and breast, yellowish-white belly",
-      "adult, front view: small triangular dark spots on throat and breast"
-    ]
+      "adult, side view creeping low in grass: densely black-streaked olive-brown upperparts, faint buffy-white supercilium, small dark spots on throat and breast forming fine streaks along the flanks, yellowish-white belly, rounded tail, pink legs",
+      "adult, front view: yellowish-white throat and breast covered in small triangular blackish-brown spots arranged in neat lines, yellowish-white belly"
+    ],
+    "build": "Very small, skulking grasshopper warbler, about 11cm — smaller and slimmer than a sparrow, with a flat forehead and a slender, pointed bill shorter than the head. Legs pinkish and rather strong. Wings short; at rest the wingtips fall well short of the tail tip. Tail fairly short, broad and rounded. Moves mouse-like on or near the ground in dense grass, creeping and running rather than flying, the body held low and horizontal.",
+    "avoid": [
+      "Do not leave the breast plain; neat dark streaks on the throat, breast and flanks are its key mark.",
+      "Do not paint the larger size, rufous rump and white-tipped dark tail of Pallas's Grasshopper Warbler (Locustella certhiola).",
+      "Do not paint a bold supercilium or a dark eye-stripe; the face is plain.",
+      "Do not paint bright yellow underparts; they are only faintly yellowish."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

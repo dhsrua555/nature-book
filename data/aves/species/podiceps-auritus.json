@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Horned Grebe (Podiceps auritus), adult winter: black crown and back, clean white cheeks, neck and belly, short thin neck",
+    "subject": "Horned Grebe (Podiceps auritus), adult in winter (non-breeding) plumage, as seen in Korea from November to March: black cap from the forehead to the nape with a straight, sharp lower edge at eye level, so the eye sits on the border; cheeks, chin and throat clean white, the white cheek patch large and reaching up towards the nape; a narrow blackish stripe down the hindneck; foreneck white or faintly grey-washed; back and folded wings blackish-grey; breast and belly white, flanks mottled grey. Short, straight dark grey bill with a pale whitish tip; bright red iris; legs set far back and hidden underwater.",
     "pose": "swimming on open water, side view",
     "scene": "Korean winter reservoir with calm grey water and bare banks; no people, buildings or text",
     "views": [
-      "adult winter, side view swimming: black crown and back, white cheeks, neck and belly, short thin neck",
-      "adult breeding, side view swimming: black head with two buff plumes, rufous neck and belly"
-    ]
+      "adult winter, side view swimming: black cap ending in a straight line at eye level, large clean white cheeks and throat, white foreneck, blackish-grey back, white breast, short straight pale-tipped bill, red eye, short neck held upright",
+      "adult breeding (March–April, before departure), side view swimming: black head with a dense golden-buff tuft running from the eye back to the rear of the crown on each side, chestnut-red neck, upper breast and flanks, blackish back, red eye"
+    ],
+    "build": "Small grebe, 30–39cm long, clearly larger than Little Grebe and much smaller than Great Crested Grebe; compact and buoyant on the water, with a large, flat-crowned head peaking at the rear and a short, fairly thin neck held upright. Bill shorter than the head, straight and fairly deep at the base, both mandibles straight to a fine point — not upturned. No visible tail; rear end rounded and fluffy. Lobed toes. Dives often. In flight shows white secondaries and a white patch on the leading edge of the inner wing.",
+    "avoid": [
+      "Do not give it an upturned bill, a steep forehead with a peaked mid-crown, or dusky cheeks with black below the eye — those mark Black-necked Grebe (Podiceps nigricollis).",
+      "Do not paint a long slender neck or a long dagger bill like Great Crested Grebe.",
+      "Do not show the golden head tufts or chestnut neck on the winter plate bird; they appear only in breeding plumage.",
+      "Do not paint a yellow or dark eye; the iris is bright red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

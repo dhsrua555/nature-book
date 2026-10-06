@@ -41,13 +41,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ruff (Calidris pugnax), adult non-breeding: grey-brown upperparts with white feather fringes, white or grey underparts",
+    "subject": "Ruff (Calidris pugnax), adult male in non-breeding plumage, as seen on Korean tidal flats and wetlands in September: head and neck plain pale grey-brown with whitish feathering around the bill base and on the throat; mantle, scapulars and wing coverts grey-brown with dark centres and neat pale fringes, giving a scaly look; breast lightly washed grey-brown; belly and undertail white. Bill dark, short and slightly drooping; dark eye; legs dull orange-yellow.",
     "pose": "walking on a tidal flat, picking up insects",
     "scene": "Korean autumn: coastal tidal flat and adjoining wetland in September; no people, buildings or text",
     "views": [
-      "adult non-breeding, side view standing: grey-brown back with white feather fringes, white or grey underparts",
-      "adult male breeding, side view: large ruff of neck feathers in white, purple or reddish"
-    ]
+      "adult non-breeding (September), side view standing: scaly grey-brown upperparts with pale fringes, plain grey-brown head and neck, whitish around the bill base, white underparts with a grey-brown breast wash, short slightly drooping dark bill, orange-yellow legs",
+      "adult male breeding (May), side view standing: large erectile ruff of neck feathers and short ear tufts, white, purplish-black or chestnut depending on the individual, bare warty facial skin, orange legs",
+      "in flight, seen from above: grey-brown upperparts, narrow white wing-bar, dark rump centre flanked by two white oval patches"
+    ],
+    "build": "Medium-sized, pot-bellied sandpiper with a strong size difference between the sexes: male about 32cm, larger than a Common Redshank, female about 25cm. Small head on a longish neck, upright stance with a slightly humped back. Bill about head length or shorter, slightly drooping at the tip. Legs fairly long, their colour varying from greenish-yellow to orange. In flight a narrow white wing-bar and two white oval patches on either side of a dark rump and tail centre.",
+    "avoid": [
+      "Do not show the ruff or ear tufts on the non-breeding bird; they occur only on breeding males in spring.",
+      "Do not paint a long, fine bill; the Ruff's bill is short, about head length, and slightly drooping.",
+      "Do not paint a fully white rump; the white is in two oval patches on either side of a dark centre.",
+      "Do not paint black legs.",
+      "Do not make males and females the same size; the male is much larger."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

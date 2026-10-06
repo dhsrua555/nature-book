@@ -52,14 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Bar-tailed Godwit (Limosa lapponica), adult male breeding: long upturned dark bill with a pink base, rufous from head to belly, blackish-brown upperparts spotted rufous, long legs",
+    "subject": "Bar-tailed Godwit (Limosa lapponica), adult male in breeding plumage, as seen on Korean tidal flats during spring migration (April–May): head, neck and entire underparts to the belly deep rufous-chestnut, the crown finely streaked dark; mantle and scapulars blackish-brown with rufous notches and fringes; wing coverts greyer brown. Bill very long, slightly upturned, mostly dark with a pinkish base. Dark eye. Long blackish legs.",
     "pose": "probing the mud with its long bill on a tidal flat",
     "scene": "Korean tidal mudflat at a river mouth with a large flock of shorebirds; no people, buildings or text",
     "views": [
-      "adult male breeding, side view standing: upturned pink-based bill, rufous head to belly, blackish-brown upperparts spotted rufous",
-      "adult female breeding, side view: larger, longer bill, paler rufous, darker-looking upperparts",
-      "adult non-breeding, side view: grey-brown upperparts with dark brown markings, greyish-white underparts"
-    ]
+      "adult male breeding, side view standing: very long gently upturned bill with pink base and dark tip, deep rufous-chestnut head, neck and underparts to the belly, blackish-brown upperparts spotted rufous, long dark legs",
+      "adult female breeding, side view standing: larger body and noticeably longer bill, underparts only washed pale rufous-buff or largely whitish, upperparts duller and greyer with dark feather centres",
+      "adult non-breeding, side view standing: grey-brown upperparts with dark brown shaft streaks, pale supercilium, finely streaked grey breast, greyish-white underparts, long dark legs, pink-based upturned bill"
+    ],
+    "build": "Large, long-billed, long-legged wader, 38.5–41cm, about the length of a feral pigeon but much longer-legged and with a far longer bill; females distinctly larger and longer-billed than males. Bill very long (around twice the head length, longest in females), slender, with a gentle upturn mainly along its outer half; pinkish base, dark distal half. Legs long and blackish with bare tibia showing, though shorter than in Black-tailed Godwit. At rest the wingtips reach about the tail tip or slightly beyond. Tail short and closely barred. In flight no white wing-bar; rump and tail barred, with no black tail band.",
+    "avoid": [
+      "Do not paint a straight bill, a broad white wing-bar or a black tail band — those belong to Black-tailed Godwit (Limosa limosa).",
+      "Do not paint a downcurved bill (curlews and Whimbrel).",
+      "Do not curve the bill strongly like an avocet; the upturn is gentle and mostly in the outer half.",
+      "Do not give breeding females the deep chestnut of males; females are much paler below."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Swinhoe's White-eye (Zosterops simplex), adult, sexes alike, as seen on Korean islands during migration in May: crown, nape, back, wings and tail bright yellowish lime-green, the forehead a little yellower; a conspicuous ring of white feathers around the eye; throat and upper breast bright lemon-yellow; breast sides and flanks pale grey, the belly whitish, with no brown or chestnut on the flanks; undertail coverts yellow; bill fine, dark grey with a paler base to the lower mandible; dark brown eye; grey legs.",
+    "pose": "hanging acrobatically from a leafy twig while probing a blossom, side view",
+    "scene": "Korean offshore island in May: fresh green broadleaf canopy with small white blossoms; no people, buildings or text",
+    "views": [],
+    "build": "Tiny, slim songbird, clearly smaller than a sparrow and slightly smaller and slimmer than the familiar Warbling White-eye; rounded head, short neck. Bill fine, sharply pointed and very slightly decurved, a little shorter than the head. Legs short, grey. At rest the wingtips reach a short way down the tail. Tail short-medium, square. Restless and acrobatic, foraging in small flocks among leaves and blossoms in the canopy.",
+    "avoid": [
+      "Do not paint chestnut patches on the flanks; that is Chestnut-flanked White-eye (Zosterops erythropleurus).",
+      "Do not paint a brownish wash on the flanks or dull dark olive upperparts as on Warbling White-eye (Zosterops japonicus); this species is brighter lime-green with grey-white flanks.",
+      "Do not paint a yellow or green eye-ring; the eye-ring is pure white feathering.",
+      "Do not paint a thick or conical bill, or wing-bars."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

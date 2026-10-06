@@ -50,13 +50,21 @@
     }
   ],
   "art": {
-    "subject": "Willow Tit (Poecile montanus), adult: very like Marsh Tit but with a deeper black crown, sometimes tinged brownish, and a pale patch on the secondaries",
+    "subject": "Willow Tit (Poecile montanus), adult (sexes alike) in winter: dull sooty-black cap without gloss, extending well down onto the nape, sometimes faintly tinged brown; large white cheeks reaching back to the sides of the neck; a fairly large black bib below the bill. Back, wings and tail plain ash grey-brown, with pale fringes to the secondaries forming a whitish panel on the closed wing. Underparts whitish with a faint buff wash on the flanks. Short black bill; dark eye; dark grey legs.",
     "pose": "perched on a twig, side view",
-    "scene": "TODO",
+    "scene": "Korean winter mixed forest of birch, larch and pine on a northern mountain slope, light snow on the branches; no people, buildings or text",
     "views": [
-      "adult, side view perched: deep black cap, pale panel on the secondaries",
-      "adult, head detail: black cap sometimes tinged brown"
-    ]
+      "adult, side view perched on a twig: dull sooty-black cap reaching down the nape, large white cheeks, black bib, plain grey-brown upperparts with a whitish panel on the secondaries, whitish underparts with buff flanks",
+      "adult, head detail: matt black cap without gloss, faintly tinged brown, large white cheek patch, black bib, short black bill"
+    ],
+    "build": "Small tit, 12.5cm, slightly smaller than a sparrow; compact with a relatively large head and a thick-looking 'bull' neck. Bill short, thin and pointed, much shorter than the head. Legs fairly short, dark grey. Wings short and rounded; tail of medium length with a slightly rounded tip. Restless, hopping and hanging among twigs.",
+    "avoid": [
+      "Do not paint a glossy blue-black cap or a small neat bib; those mark the Marsh Tit (Poecile palustris).",
+      "Do not add a white nape patch or two white wing bars (Coal Tit).",
+      "Do not give it yellow, green or blue tones, or a black stripe down the belly (Japanese Tit and other tits)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

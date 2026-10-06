@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey Wagtail (Motacilla cinerea), adult male: grey upperparts, bright yellow underparts, black chin and throat patch, long dark grey bill, long tail, pink legs",
+    "subject": "Grey Wagtail (Motacilla cinerea), adult male in breeding plumage, as seen along Korean mountain streams from April to August: blue-grey crown, nape, mantle and back; a narrow white supercilium and a white submoustachial stripe framing grey ear-coverts; chin and throat black; rump yellowish-green; wings blackish with whitish edges to the tertials; underparts bright lemon-yellow, most intense on the vent and undertail coverts; long black tail with white outer tail feathers. Long, thin dark grey bill; dark eye; pink legs.",
     "pose": "walking on a streamside rock, bobbing its long tail up and down",
     "scene": "Korean summer mountain stream with rocks and a small pool; no people, buildings or text",
     "views": [
-      "adult male, side view walking: grey upperparts, vivid yellow underparts, black chin and throat, long tail, pink legs",
-      "adult female, side view walking: paler overall, yellow underparts less vivid, no black on chin and throat"
-    ]
+      "adult male breeding, side view walking on a stream rock: blue-grey upperparts, white supercilium and submoustachial stripe, black chin and throat, conspicuous bright yellow underparts, very long black-and-white tail, long thin dark grey bill, pink legs",
+      "adult female, side view walking: grey upperparts, paler yellow underparts with a whitish throat and no black, long tail, the same dark grey bill and pink legs"
+    ],
+    "build": "Slender wagtail, 20cm long, of which nearly half is tail; body about the size of a sparrow's, but the tail clearly longer than in other wagtails. Short neck, horizontal stance; walks on stream rocks constantly pumping its rear body and tail up and down. Bill thin, straight and dark grey, shorter than the head. Legs short for a wagtail, pink. In flight a narrow white bar across the flight feathers and a deeply undulating flight path; tail long, narrow and square-ended, black with white sides.",
+    "avoid": [
+      "Do not paint an olive-green back or black legs; those belong to Eastern Yellow Wagtail (Motacilla tschutschensis), which also has a shorter tail.",
+      "Do not make the tail short; it is longer than in any other wagtail.",
+      "Do not paint a yellow head or a bold black-and-white head; the head is grey with thin white lines.",
+      "Do not give the female a black throat."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

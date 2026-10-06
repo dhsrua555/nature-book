@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "American Herring Gull (Larus smithsonianus), first-winter, as seen on Korean coasts in winter: body plumage rather uniformly dark brown and densely mottled; head and neck grey-brown with fine streaks, often a little paler on the face; back and wing coverts brown with fine pale notches; tertials dark brown with narrow pale edges; underparts evenly brown; rump and uppertail coverts heavily barred dark brown so they look dark; tail almost entirely blackish-brown; primaries blackish-brown; bill blackish, sometimes with a paler pinkish base; iris dark; legs dull pink.",
+    "pose": "standing on wet sand at the tideline, side view",
+    "scene": "Korean east-coast sandy shore in winter (January), grey sea and cold overcast light; no people, buildings or text",
+    "views": [],
+    "build": "Large, robust gull, about the size of Vega Gull, with a sturdy body, rounded to slightly flattened crown and a fairly long, strong bill with a moderate gonys angle. Legs medium length, pink. At rest the primaries project moderately beyond the tail. In flight dark outer primaries with a paler window on the inner primaries, a dark-barred rump and an almost all-dark tail.",
+    "avoid": [
+      "Do not paint a whitish rump or a white tail with a narrow dark band; those suit first-winter Vega Gull (Larus vegae), while this bird's rump looks dark and its tail is almost all dark.",
+      "Do not paint an adult with a grey back and yellow bill; the bird shown is a first-winter.",
+      "Do not paint yellow legs.",
+      "Do not make it small or slim like Black-tailed Gull."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

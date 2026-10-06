@@ -46,13 +46,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Oriental Scops Owl (Otus sunia), adult grey morph: grey-brown overall flecked with brown, long ear tufts, bare unfeathered toes",
+    "subject": "Oriental Scops Owl (Otus sunia), adult grey morph as seen in Korea from May to September: plumage grey-brown, finely vermiculated and flecked with brown and black, the upperparts with dark shaft streaks; prominent erectile ear tufts; greyish facial disc with a fine dark rim; a row of white spots along the scapulars forming a pale line on the folded wing; underparts paler grey with bold black shaft streaks crossed by fine wavy bars. Bill dark grey; iris yellow; legs feathered, toes bare and greyish.",
     "pose": "perched upright on a branch at dusk, calling",
     "scene": "Korean wooded hillside near a village in early summer, at dusk; no people, buildings or text",
     "views": [
-      "adult grey morph, side view perched: grey-brown flecked brown, long ear tufts, bare toes",
-      "adult rufous morph, side view perched: reddish-brown overall, long ear tufts"
-    ]
+      "adult grey morph, side view perched: grey-brown plumage flecked with brown and black, prominent ear tufts, white scapular line, yellow eyes, bare greyish toes",
+      "adult rufous morph, side view perched: bright rufous-brown overall with fewer, finer dark streaks, ear tufts, yellow eyes, bare toes"
+    ],
+    "build": "Very small, slim owl, about 20cm, about the length of a Common Starling and much smaller and slimmer than the larger scops owl resident in Korea; small head with erectile ear tufts. Bill small and hooked. Legs feathered, toes bare. Wings long and pointed for an owl: at rest the wingtips reach about the tail tip. By day it sits upright and stretched thin against a trunk, looking like a broken stub.",
+    "avoid": [
+      "Do not paint orange-red eyes; Oriental Scops Owl has yellow eyes (orange-red eyes mark the larger resident scops owl).",
+      "Do not paint feathered toes; the toes are bare.",
+      "Do not paint a pale collar on the hindneck or a bulky body.",
+      "Do not paint it as large as a Long-eared Owl or with an orange facial disc."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

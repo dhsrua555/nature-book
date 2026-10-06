@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Besra (Accipiter virgatus), adult male: crown, nape and upperparts dark slate-grey, the head darkest; throat white with a bold black stripe down its centre; breast white with broad rufous-brown streaks that merge into rufous-brown bars on the belly and flanks; undertail coverts white; tail grey-brown crossed by broad dark bars. Bill dark grey, short and hooked; legs and feet yellow, long and slender.",
+    "pose": "perched upright on a shaded branch inside the forest, side view",
+    "scene": "dense broadleaf forest on a southern Korean island in spring, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact hawk, about the size of a Japanese Sparrowhawk or slightly larger, the female larger than the male. Head rounded, neck short. Bill short and strongly hooked, much shorter than the head. Legs long and slender, yellow, with long thin toes. Wings short and rounded; flight a few rapid flaps followed by short glides, the underwing barred. Tail fairly long and square-tipped, crossed by broad dark bars.",
+    "avoid": [
+      "Do not paint the plain, unstreaked pale rufous breast and longer, more pointed wings of Japanese Sparrowhawk (Accipiter gularis); the Besra is streaked on the breast and barred on the belly.",
+      "Do not leave out the bold black stripe down the centre of the white throat.",
+      "Do not paint long, pointed falcon wings; the wings are short and rounded.",
+      "Do not paint a pale grey back; it is dark slate."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -41,13 +41,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-throated Thrush (Turdus atrogularis), adult male: greenish-grey crown, upperparts, wings and central tail feathers, brownish outer tail feathers, black sides of head, chin, throat and upper breast, white lower breast and belly",
+    "subject": "Black-throated Thrush (Turdus atrogularis), adult male in fresh autumn plumage (September): crown, upperparts, wings and central tail feathers plain grey-brown with an olive tinge; lores, sides of the head, chin, throat and upper breast black, forming a bib with a sharp lower edge, the black partly veiled by narrow whitish feather fringes in autumn; lower breast and belly white; flanks washed grey with faint streaks; outer tail feathers plain dark brown. Bill dark with a yellow base; dark eye; legs brown.",
     "pose": "perched at the edge of a thicket, side view",
     "scene": "Korean lowland and hill woodland with thickets in autumn; no people, buildings or text",
     "views": [
-      "adult male, side view perched: greenish-grey upperparts, black face, throat and upper breast, white belly",
-      "adult male, tail detail: greenish-grey central tail feathers and brownish outer tail feathers"
-    ]
+      "adult male, side view perched: plain olive-tinged grey-brown crown and upperparts, black face, chin, throat and upper breast forming a bib, white lower breast and belly, greyish flanks, yellow-based bill",
+      "adult male, tail detail from above: olive-tinged grey-brown central tail feathers and plain dark brown outer tail feathers, with no rufous in the tail"
+    ],
+    "build": "Medium-large thrush, 23–25 cm, about the size of a Dusky Thrush and plumper than a Brown-eared Bulbul. Upright stance with a round head and a plain face; adult males show no pale supercilium. Bill straight and slender, shorter than the head. Legs medium-long, brownish. Tail medium length, square-ended, plain. In flight orange-buff underwing coverts.",
+    "avoid": [
+      "Do not paint a rufous-red throat or rufous outer tail feathers; that is Red-throated Thrush (Turdus ruficollis).",
+      "Do not add the chestnut wings, white supercilium or black-scaled flanks of Dusky Thrush (Turdus eunomus).",
+      "Do not spot or streak the white belly heavily.",
+      "Do not show a pale supercilium on the adult male."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

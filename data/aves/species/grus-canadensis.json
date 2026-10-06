@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sandhill Crane (Grus canadensis), adult: uniformly grey body, white cheeks, bare red crown, long neck and long legs, bulky body",
+    "subject": "Sandhill Crane (Grus canadensis), adult as seen among other cranes in Korean winter farmland (plumage the same all year): body, neck and wings uniformly mid-grey; a patch of bare red skin on the forehead and forecrown; cheeks, chin and upper throat whitish; drooping grey tertials form a bushy grey 'bustle' over the tail; primaries darker grey. Straight dark grey bill; orange-red eye; long blackish legs.",
     "pose": "walking through a wet grassy field",
-    "scene": "wide wet grassland and marsh far from habitation, with farmland beyond; no people, buildings or text",
+    "scene": "Korean winter farmland: harvested rice paddies with straw stubble beside a wide wetland, low hills in the distance, soft winter light; no people, buildings or text",
     "views": [
-      "adult, side view standing: uniformly grey body, white cheeks, bare red crown, long neck and legs",
-      "adult, flight view: neck stretched straight out, uniformly grey body"
-    ]
+      "adult, side view standing: uniformly grey body and long neck, bare red forecrown, whitish cheeks and throat, straight dark bill, grey bustle over the tail, long black legs",
+      "adult in flight seen from the side: neck stretched straight out, legs trailing, uniformly grey body and wings with darker grey primaries"
+    ],
+    "build": "Medium-sized crane, smaller and shorter-legged than Common Crane and close to Hooded Crane in size. Bulky body on a long neck and long legs, standing tall. Bill straight, dark, a little longer than the head. Legs long and black. Grey tertials droop over the short tail as a rounded bustle. In flight neck stretched straight forward and legs trailing behind the tail; wings uniform grey with darker grey primaries.",
+    "avoid": [
+      "Do not paint a black head and neck with a white stripe — that is Common Crane (Grus grus).",
+      "Do not paint a white head and upper neck with a dark body — that is Hooded Crane (Grus monacha).",
+      "Do not paint black tertials or black secondaries; the bustle and wings are grey.",
+      "Do not paint a red face below the eye or a white body; only the forecrown is bare red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

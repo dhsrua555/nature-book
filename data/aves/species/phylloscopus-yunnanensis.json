@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Chinese Leaf Warbler (Phylloscopus yunnanensis), adult (sexes alike) in spring: a pale greyish-yellow median crown stripe, diffuse and fading towards the forehead, between greyish-olive lateral crown stripes; a long supercilium, yellowish in front of the eye and whitish behind it; a dark olive eye-stripe; rather plain ear-coverts; upperparts olive-green with a pale yellow band across the rump; wings dark with two yellowish-white wing-bars, the lower one more distinct, and pale-edged tertials; underparts whitish with a faint yellowish tinge; fine dark bill with a pale base to the lower mandible; dark eye; pinkish-brown legs.",
+    "pose": "flitting among pine twigs, side view, wings slightly drooped to show the pale rump band",
+    "scene": "pine and deciduous woodland on a Korean offshore island during spring migration in April or May, soft light; no people, buildings or text",
+    "views": [],
+    "build": "A tiny, compact leaf warbler, smaller than a sparrow and about the size of a Yellow-browed Warbler, only slightly larger than a Pallas's Leaf Warbler; large-headed and short-tailed. Bill fine and short, much shorter than the head. Legs slender. Tail short and square, often flicked. Very active in the outer foliage, sometimes hovering briefly at leaf tips, which shows the pale rump band.",
+    "avoid": [
+      "Do not paint a sharp lemon-yellow crown stripe and bright lemon rump between blackish crown stripes; that is Pallas's Leaf Warbler (Phylloscopus proregulus).",
+      "Do not omit the pale yellow rump band or the two wing-bars.",
+      "Do not paint bright yellow underparts; they are whitish.",
+      "Do not paint a large, long-tailed warbler; it is tiny and short-tailed."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Northern Wheatear (Oenanthe oenanthe), adult male in breeding plumage, a spring migrant (May) on a Korean offshore island: crown, nape and back clean blue-grey; a narrow white band on the forehead continuing as a white supercilium; a black mask from the lores through the eye over the ear coverts; wings blackish without pale panels; throat and breast warm peachy-buff, fading to white on the belly and undertail coverts; rump and uppertail coverts white; tail white with black central feathers and a black terminal band forming a black inverted T. Bill black and slender; eye dark; legs black.",
+    "pose": "standing upright on a rock with the tail slightly raised, side view",
+    "scene": "grassy clifftop with short turf and scattered rocks on a Korean offshore island during spring migration (May), morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small, compact, upright chat, a little larger than a sparrow, with a round head, short neck and fairly long black legs; stands tall, bobs and flicks its tail. Bill black, thin and straight, shorter than the head. Long wings: at rest the primaries project well beyond the tertials and the wingtips reach far down the short tail. Tail short and square. In flight the white rump and white tail sides with a black inverted T are striking, and the black wings contrast with the grey back.",
+    "avoid": [
+      "Do not paint a sandy-brown back with pale wings — that is Isabelline Wheatear; the breeding male Northern has a blue-grey back and black wings.",
+      "Do not extend black onto the throat (male Desert Wheatear); the throat is peachy-buff.",
+      "Do not paint a mostly black tail; show white tail sides with a black inverted T.",
+      "Do not paint wing bars, streaks or a rufous back."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

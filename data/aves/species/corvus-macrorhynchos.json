@@ -69,14 +69,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Large-billed Crow (Corvus macrorhynchos mandshuricus, Korean population), about 57 cm long. Entirely black, glossy plumage with a purple sheen; very large, deep black bill with a strongly arched culmen, its base covered by overlapping black bristles; steep forehead rising almost at a right angle from the bill base, giving a high domed crown; elongated lanceolate hackle feathers on the throat; slightly rounded tail; black legs and feet; dark brown iris. Sexes alike in plumage.",
+    "subject": "Large-billed Crow (Corvus macrorhynchos), adult (sexes alike) in early spring: entirely black with a purple-blue gloss on the wings, back and tail; throat feathers elongated and lance-shaped, forming loose hackles; nostrils and bill base covered by dense black bristles; massive black bill with a strongly arched culmen; dark brown eye; black legs and feet.",
     "pose": "perched on a high bare branch in side profile, head slightly raised so the bill-and-forehead profile is clear",
     "scene": "edge of a Korean hillside mixed forest in early spring (March): tall Korean red pines and leafless oaks, distant wooded ridges under a pale sky; no people, buildings or text",
     "views": [
-      "adult, perched, side view showing the bill and forehead profile",
-      "adult in flight from below",
-      "adult head, close side profile"
-    ]
+      "adult, perched on a branch, side view: all-black glossy plumage, massive arched bill, steep forehead and high domed crown, shaggy throat hackles, rounded tail",
+      "adult in flight seen from below, head, body and tail in line: all black, broad wings with long spread fingers, heavy bill projecting, rounded to wedge-shaped tail",
+      "adult head, close side profile: deep bill with strongly arched culmen and bristle-covered base, forehead rising almost at right angles, dark eye, throat hackles"
+    ],
+    "build": "Large crow, about 57cm: the largest crow in Korea, bigger than a Carrion Crow or a Rook. Steep forehead rising almost at right angles from the bill base to a high, domed crown. Bill massive, deep and long, about as long as the head, with the culmen strongly arched to a slightly hooked tip. Legs strong, black. At rest the wingtips fall a little short of the tail tip. Tail fairly long, rounded to wedge-shaped. In flight broad wings with long spread fingers, a heavy head-and-bill projection and a rounded, graduated tail.",
+    "avoid": [
+      "Do not paint a slender bill and a flat crown; that is Carrion Crow.",
+      "Do not paint bare pale skin at the bill base; that is an adult Rook.",
+      "Do not add a grey nape or a white collar.",
+      "Do not paint a pale or bluish eye on the adult; that is found only in juveniles."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

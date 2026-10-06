@@ -77,14 +77,24 @@
     }
   ],
   "art": {
-    "subject": "Common Kestrel (Falco tinnunculus), adult male: blue-grey head with a narrow black moustachial stripe below the eye and a pale buff throat; rufous-chestnut back, scapulars and upperwing coverts marked with small black spots; blackish primaries and wingtips; blue-grey tail with a broad black subterminal band and a narrow white tip; warm buff underparts with fine blackish streaks and spots; dark brown eye with a bright yellow eye-ring, bright yellow cere, short dark hooked bill, bright yellow legs and feet with dark claws.",
+    "subject": "Common Kestrel (Falco tinnunculus), adult male, as seen over Korean farmland in early spring: head and nape blue-grey, finely streaked darker on the crown, with a narrow black moustachial stripe dropping below the eye and pale buff cheeks and throat; back, scapulars and upperwing coverts warm rufous-chestnut with small black triangular spots; primaries blackish. Rump and tail blue-grey, the tail unbarred except for a broad black subterminal band and a narrow white tip. Underparts warm buff, spotted and streaked blackish on the breast and flanks. Underwing whitish, finely spotted, with darker tips. Eye dark brown with a yellow eye-ring; cere yellow; bill short, hooked, bluish-grey with a dark tip; legs and feet yellow with black claws.",
     "pose": "hovering in mid-air facing into the wind, wings beating fast, tail fanned and angled down, head held perfectly still looking at the ground",
     "scene": "Korean farmland in early spring: harvested rice paddies with pale stubble, an earthen levee path, dry reeds along an irrigation ditch, low wooded hills in the distance under a clear pale-blue sky; no people, buildings or text",
     "views": [
-      "adult male, from above in flight: blue-grey head and tail with broad black subterminal band and white tip, rufous back and inner wing spotted black, contrasting blackish outer wing",
-      "adult male, from below in flight: buff body finely streaked dark, pale underwing with blackish wingtips, long tail showing the black subterminal band",
-      "adult female, side view in flight while hovering: rufous-brown head, back and tail densely barred and spotted dark, tail fanned"
-    ]
+      "adult male, in flight seen from above: blue-grey head and tail, broad black subterminal tail band with white tip, rufous back and inner wing spotted black, contrasting blackish outer wing",
+      "adult male, in flight seen from below: blue-grey head with narrow black moustache and pale throat, buff body finely streaked and spotted dark, pale finely spotted underwing with darker tips, long tail showing the black subterminal band",
+      "adult female, hovering, seen from below and slightly to the side with the tail fanned: rufous-brown head with narrow dark moustache, rufous-brown back and wings densely barred and spotted dark, brown tail with many narrow dark bars and a broad black subterminal band"
+    ],
+    "build": "Small, slim falcon, 33cm (male) to 38cm (female), about the length of a Feral Pigeon but slimmer and longer-tailed. Rounded head, large dark eye. Wings long and pointed, but broader and blunter-tipped than a Hobby's; at rest the wingtips fall well short of the tail tip, leaving much of the tail exposed. Tail long, slightly rounded at the tip. Habitually hovers on fast-beating wings with the tail fanned and the head held perfectly still, then drops onto voles; also watches from bare branches and earth banks.",
+    "avoid": [
+      "Do not paint a dark slate-grey back; that is Eurasian Hobby or Peregrine. The kestrel's back is rufous.",
+      "Do not paint rufous thighs and vent (Hobby), or a broad black hood and thick moustache (Peregrine).",
+      "Do not bar the adult male's tail; it is plain blue-grey apart from the black band and white tip.",
+      "Do not paint a short tail, or wingtips reaching the tail tip at rest.",
+      "Do not paint a yellow or orange iris; the eye is dark brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

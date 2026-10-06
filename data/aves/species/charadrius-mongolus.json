@@ -65,14 +65,23 @@
     }
   ],
   "art": {
-    "subject": "Siberian Sand Plover (Charadrius mongolus), adult breeding: black forehead band, eye-stripe and ear-coverts, rufous from hindneck to breast, short all-black bill, dark greenish-grey legs",
+    "subject": "Siberian Sand Plover (Charadrius mongolus), adult male in breeding plumage, as seen on Korean tidal flats in April and May: black mask from the bill base through the eye to the ear-coverts, joined to a black bar across the forecrown above a white forehead patch; crown and upperparts plain grey-brown; throat white, bordered below by a thin black line; broad rufous-orange band across the breast, continuing up the sides of the neck onto the hindneck; belly and undertail white. Bill short, stout and entirely black. Eye dark. Legs dark grey-green.",
     "pose": "foraging on a mudflat, pulling a ragworm from the mud",
     "scene": "Korean tidal mudflat in spring with a small mixed flock of plovers; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black forehead, eye-stripe and ear-coverts, rufous hindneck and breast, short black bill",
-      "adult non-breeding, side view: dark brown face, no white hind collar",
-      "juvenile, side view: scaly upperparts, buff wash on face and breast"
-    ]
+      "adult male breeding (April–May), side view standing: black mask and forecrown bar, white forehead and throat, broad rufous-orange breast band reaching the hindneck, short all-black bill, dark grey-green legs",
+      "adult non-breeding (August–October), side view standing: grey-brown upperparts, white forehead and supercilium, dark brown lores and ear-coverts, grey-brown patches at the breast sides, no white hind collar, short black bill",
+      "juvenile (August–September), side view standing: scaly grey-brown upperparts with buff fringes, buff wash on the face and breast sides, no white hind collar"
+    ],
+    "build": "Small-medium plover, 19.5cm, clearly larger than Little Ringed Plover and smaller than Grey Plover. Rounded head with a steep forehead, short neck, compact body. Bill black, short and blunt, shorter than the head and noticeably shorter than in Greater Sand Plover. Legs medium length, dark grey to greenish-grey. At rest the wingtips reach about the tail tip. In flight a narrow white wing bar and white sides to the dark-centred rump and tail. Forages on open mud by run-stop-peck, often pulling out worms.",
+    "avoid": [
+      "Do not paint a longer, heavier bill or pale yellowish legs — that is Greater Sand Plover (Charadrius leschenaultii).",
+      "Do not paint a white hind collar; Kentish Plover has one, this species does not.",
+      "Do not paint a black breast band; the breeding band is rufous-orange.",
+      "Do not paint a yellow eye-ring or orange legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

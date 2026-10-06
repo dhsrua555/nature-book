@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ancient Murrelet (Synthliboramphus antiquus), adult: black crown and nape, white breast and underparts",
+    "subject": "Ancient Murrelet (Synthliboramphus antiquus), adult in winter plumage, as seen on Korean seas from November to February: black crown, nape and face down to just below the eye, sharply cut off from the white throat; back, scapulars and wings slate-grey; breast, belly and flanks white. Bill short and stubby, pale ivory to pinkish-white. Dark eye.",
     "pose": "swimming on the sea in a loose line with others, about to dive",
     "scene": "Korean winter sea off a rocky island, calm grey water; no people, buildings or text",
     "views": [
-      "adult, side view swimming: black crown and nape, white breast",
-      "adult, side view standing: black crown and nape, white underparts"
-    ]
+      "adult winter, side view swimming low on the sea: black cap from forehead to nape reaching just below the eye, white throat and breast, slate-grey back, short pale stubby bill",
+      "adult breeding (March–April), side view standing upright on a rock at a breeding island: black head and throat bib, fine white plumes streaking above and behind the eye, slate-grey back, white breast and underparts, pale bill"
+    ],
+    "build": "Small, compact auk, about 25cm, a little shorter than a feral pigeon but chunkier; thick-necked with a rounded head, a very short stubby bill much shorter than the head, small pointed wings and a very short tail. Sits low on the water, legs set far back and seldom seen. Flies low and fast with whirring wingbeats, the grey back contrasting with the black head and the underwing mostly white. Often swims in long lines on the open sea and dives from the surface.",
+    "avoid": [
+      "Do not paint a long, pointed dagger bill — that is a guillemot; this murrelet's bill is short, stubby and pale.",
+      "Do not paint a white wing patch or white spectacles around the eye (Spectacled Guillemot, Cepphus carbo).",
+      "Do not paint the black throat bib on winter birds; in winter the throat is white.",
+      "Do not paint it tall and upright like a penguin when swimming; it sits low and compact."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

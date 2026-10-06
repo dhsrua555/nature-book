@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Pintail (Anas acuta), adult male: dark chestnut-brown head and hindneck, long slender neck, white foreneck and breast, grey body, pale yellow patch where the grey body meets the black undertail coverts, very long black central tail feathers",
+    "subject": "Northern Pintail (Anas acuta), adult male in winter, as seen on Korean reservoirs from October to March: head and hindneck dark chocolate-brown; a narrow white stripe running from the white foreneck up the side of the neck into the rear of the head; foreneck and breast white; mantle and flanks finely vermiculated grey; long black-and-cream scapulars drooping over the sides; a creamy-yellow patch on the rear flank in front of the black undertail coverts; very long, needle-like black central tail feathers. Bill blue-grey with a black central stripe and black tip; dark eye; grey legs.",
     "pose": "dabbling in shallow water, upending to reach water plants",
     "scene": "Korean reservoir in winter with shallow open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: dark chestnut head, white foreneck and breast, grey body, pale yellow vent patch, long black central tail feathers",
-      "adult female, side view swimming: overall brown plumage, black bill, pointed tail"
-    ]
+      "adult male, side view swimming: dark chocolate head, white stripe up the neck side, white foreneck and breast, grey body, long black-and-cream scapulars, creamy-yellow patch before the black undertail, very long black central tail feathers",
+      "adult female, side view swimming: mottled brown body, plain buffish-brown head without strong stripes, long slender neck, dark grey bill, pointed tail"
+    ],
+    "build": "Elegant, slim dabbling duck: male about 75cm including the long tail spike, female about 53cm; body about Mallard size but slimmer, with a noticeably long, thin neck and a small rounded head. Bill longish and narrow, slightly shorter than the head. Legs short, grey. Tail long and pointed in both sexes, held raised on the water, the male's central feathers projecting far beyond. In flight long, narrow, pointed wings, slim neck and pointed tail.",
+    "avoid": [
+      "Do not paint a glossy green head or curled tail feathers — that is the Mallard.",
+      "Do not paint a yellow or orange bill; it is blue-grey with black.",
+      "Do not paint a short, rounded tail; both sexes have a pointed tail.",
+      "Do not omit the thin white stripe running up the side of the male's neck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

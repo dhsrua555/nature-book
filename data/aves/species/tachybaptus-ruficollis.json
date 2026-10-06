@@ -61,13 +61,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Little Grebe (Tachybaptus ruficollis), adult in breeding plumage: small rounded body, dark brown crown and back, yellow eye, reddish-brown cheeks and fore- and side-neck, black bill with a yellow patch at the base",
+    "subject": "Little Grebe (Tachybaptus ruficollis), adult in breeding plumage, as seen on Korean reservoirs from April to August: crown, hindneck and back blackish-brown; cheeks, sides of the neck and foreneck rich chestnut-red; chin dark; flanks dark brown; rear end fluffy and pale. Short, pointed black bill with a conspicuous pale yellow fleshy patch at the gape; yellow eye; legs set far back and rarely visible.",
     "pose": "floating beside a floating nest among plant stems",
     "scene": "Korean reservoir with dense aquatic vegetation and reed stems; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: dark brown crown and back, yellow eye, reddish-brown cheeks and neck, black bill with yellow base",
-      "adult winter, side view swimming: dark brown crown and back, buff cheeks, foreneck and underparts"
-    ]
+      "adult breeding, side view swimming: blackish-brown crown and back, chestnut-red cheeks and neck, yellow eye, short black bill with a pale yellow gape patch, fluffy pale rear",
+      "adult winter, side view swimming: dark brown crown and back, buff-brown cheeks, foreneck and flanks, paler underparts, yellow eye, small round body"
+    ],
+    "build": "Tiny, round-bodied grebe, about 26cm, the smallest grebe in Korea and much smaller than a Mallard; looks tailless, with a short neck, rounded head and fluffed-up rear. Bill short, straight and pointed, shorter than the head. Legs set at the very rear of the body, with lobed toes. Floats like a cork and dives constantly; patters across the water rather than flying when disturbed.",
+    "avoid": [
+      "Do not paint ear tufts, a crest or a red eye; those belong to Black-necked and Horned Grebes.",
+      "Do not paint a long neck or a long pink bill; that is Great Crested Grebe (Podiceps cristatus).",
+      "Do not paint a white throat or white cheeks on the breeding bird; they are chestnut.",
+      "Do not show a visible tail; the rear is a fluffy rounded tuft."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

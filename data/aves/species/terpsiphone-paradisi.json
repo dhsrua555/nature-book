@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Indian Paradise Flycatcher (Terpsiphone paradisi), adult male, rufous morph: black head with a prominent crest, black bill, chestnut back and scapulars glossed purple, uniform chestnut rump, uppertail coverts and very long tail, grey breast and flanks, white belly, underwing coverts and undertail coverts",
+    "subject": "Indian Paradise Flycatcher (Terpsiphone paradisi; the northern population incei, Amur Paradise Flycatcher), adult male rufous morph in late spring and summer: head, crest and throat glossy blue-black, shading into dark grey on the breast and flanks; belly and undertail coverts white; back, scapulars, wings, rump, uppertail coverts and the very long tail streamers bright rufous-chestnut, the flight feathers with darker brown inner webs. Bill bright cobalt blue; a wide bare cobalt-blue eye-ring around the dark eye; legs dark grey.",
     "pose": "perched on a branch inside the forest, long tail hanging down",
     "scene": "shady interior of a Korean mountain forest; no people, buildings or text",
     "views": [
-      "adult male, rufous morph, side view perched: black crested head, black bill, purple-glossed chestnut back, chestnut long tail, grey breast, white belly",
-      "adult male, white morph, side view perched: black crested head, white back with fine black streaks and edges, white breast, belly and undertail coverts"
-    ]
+      "adult male, rufous morph, side view perched: glossy blue-black crested head and throat, cobalt-blue bill and eye-ring, rufous-chestnut back, wings and very long tail streamers hanging down, dark grey breast and flanks, white belly",
+      "adult male, white morph, side view perched: glossy blue-black crested head and throat, cobalt-blue bill and eye-ring, white back, rump and long white tail streamers with fine black feather shafts, black-and-white wings, white breast, belly and undertail coverts"
+    ],
+    "build": "Slender, crested flycatcher; the book gives 22 cm for the male, whose two central tail feathers form ribbon-like streamers about 20 cm long that trail far beyond the rest of the tail. Head and body only slightly bigger than a sparrow's. Head looks large, with a short, pointed, swept-back crest. Bill broad and flat at the base, bright blue, shorter than the head. Legs short, dark. Wings short and rounded; at rest the wingtips reach only the base of the tail. Females and young males lack streamers and have a shorter, wholly rufous tail. Perches upright in mid-storey shade, streamers hanging down and swaying.",
+    "avoid": [
+      "Do not paint a black or dark bill; the bill and the bare eye-ring are bright cobalt blue.",
+      "Do not give the rufous morph a black tail or a dark purplish-maroon back; that is Japanese Paradise Flycatcher (Terpsiphone atrocaudata).",
+      "Do not show tail streamers on females or young males; they have short rufous tails.",
+      "Do not make the crest a long floppy plume; it is short, pointed and swept back."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

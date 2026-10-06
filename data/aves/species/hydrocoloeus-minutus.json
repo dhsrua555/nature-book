@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Little Gull (Hydrocoloeus minutus), adult in winter (non-breeding) plumage: white head with a dusky grey cap on the rear crown and a dark spot behind the eye; mantle and upperwing pale grey, the rounded wingtips pale grey and white without any black, with a white trailing edge; underwing blackish grey with a broad white trailing edge; body and tail white. Small black bill; dark eye; short dull red legs.",
+    "pose": "flying low and buoyantly over the water, seen from slightly below, showing the dark underwing",
+    "scene": "Korean river estuary in winter with calm grey water and mudflats; no people, buildings or text",
+    "views": [],
+    "build": "Smallest gull, clearly smaller than the Black-headed Gull and close to a Common Tern in size; compact, with a rounded head and a short, fine bill much shorter than the head. Legs short, red. Wings rather short and broad with rounded tips; tail square. Flight buoyant and tern-like, dipping down to pick food from the water surface. In breeding plumage the whole head is black, without white eye crescents, and the bill dark red.",
+    "avoid": [
+      "Do not paint black wingtips; the adult has no black in the wing (black tips mark the Black-headed and Saunders's Gulls).",
+      "Do not paint a white underwing; the adult underwing is blackish grey with a white rear edge.",
+      "Do not make it as big as a Black-headed Gull or give it a long bill.",
+      "Do not show the black breeding hood on a winter bird."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

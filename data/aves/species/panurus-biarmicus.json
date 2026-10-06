@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Bearded Reedling (Panurus biarmicus), adult male: grey-blue head, rufous to brown body, wings with long buff, black and rufous stripes, black vent, yellow eyes",
+    "subject": "Bearded Reedling (Panurus biarmicus), adult male (plumage similar year-round): head pale blue-grey; a broad, drooping black moustache from the lores down the sides of the throat; back, rump and tail warm tawny-cinnamon; wings boldly striped with long black, white and rufous-buff bands; throat white, breast pale pinkish-grey, flanks tawny-buff; undertail coverts black; long tawny tail with white edges to the outer feathers; bill orange-yellow; iris yellow-orange; black legs.",
     "pose": "hanging upside down on a reed stem, turning its head to look for flying insects",
     "scene": "Korean freshwater marsh with dense reeds and flowering cattails; no people, buildings or text",
     "views": [
-      "adult male, side view perched on a reed: grey-blue head, yellow eye, rufous-brown body, striped wings, black vent",
-      "adult female, side view perched: duller buff and rufous overall, yellow eye"
-    ]
+      "adult male, side view perched on a reed stem: pale blue-grey head, broad black drooping moustache, yellow-orange eye, orange-yellow bill, tawny body, wings striped black, white and rufous-buff, black undertail coverts, long graduated tawny tail",
+      "adult female, side view perched on a reed stem: plain tawny-buff head with no grey and no moustache, yellowish eye, duller yellowish-brown bill, tawny-buff body, the same striped wings, buff (not black) undertail coverts"
+    ],
+    "build": "A small, round-bodied reed bird, 16.5cm, about half of it the very long, strongly graduated tail; body about sparrow-sized. Round head without a crest. Bill short, stout and conical, slightly curved, much shorter than the head. Legs black, fairly long and strong, often straddling two reed stems. Short rounded wings reaching only the tail base. Flight low and whirring over the reeds, the long tail trailing.",
+    "avoid": [
+      "Do not omit the male's black moustache; it hangs down from the lores like a drooping beard.",
+      "Do not paint black undertail coverts or a moustache on the female.",
+      "Do not give it a thin warbler bill; it is short, stout and orange-yellow.",
+      "Do not paint a short tail; it is about half the total length and strongly graduated."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

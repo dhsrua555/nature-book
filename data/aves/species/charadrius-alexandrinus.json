@@ -44,13 +44,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Kentish Plover (Charadrius alexandrinus), adult male: rufous crown with a black patch above the forehead, narrow black eye-stripe, black patches on the sides of the upper breast that do not meet in the centre, pinkish-black legs",
+    "subject": "Kentish Plover (Charadrius alexandrinus), adult male in breeding plumage, as seen on Korean beaches and salt pans from April to July: forehead and short supercilium white; a black bar across the forecrown above the white forehead; crown and nape rufous-cinnamon, variable in brightness; narrow black eye-stripe from the bill through the eye to the ear-coverts; a white collar across the hindneck; upperparts plain sandy grey-brown; underparts white; a black patch on each side of the upper breast, not meeting in the centre. Short, slender black bill; dark eye; dark grey to blackish legs with a pinkish tinge.",
     "pose": "running across wet sand, pausing to pick at a small crustacean",
-    "scene": "Korean coastal sand beach beside a tidal mudflat and salt pans; no people, buildings or text",
+    "scene": "Korean coastal sand beach beside a tidal mudflat and salt pans in May, bright late-spring light; no people, buildings or text",
     "views": [
-      "adult male, side view standing: rufous crown, black forehead patch, narrow black eye-stripe, broken black breast-side patches, pinkish-black legs",
-      "adult male, front view: black breast-side patches separated in the middle"
-    ]
+      "adult male breeding, side view standing: rufous crown, black forecrown bar above the white forehead, narrow black eye-stripe, white hind collar, sandy upperparts, black breast-side patch, pinkish-black legs",
+      "adult male breeding, front view standing: white underparts with the two black breast-side patches clearly separated in the middle, white forehead under the black forecrown bar",
+      "adult female, side view standing: sandy-brown crown, little or no dark forecrown bar, brown eye-stripe and brown breast-side patches, white collar and white underparts"
+    ],
+    "build": "Small, pale plover, 17.5cm, a little larger than a sparrow, with a large rounded head, short neck and plump body on fairly long legs; runs fast, stops abruptly and tilts forward to pick. Bill black, short and thin, clearly shorter than the head. Legs medium length, dark grey. At rest the wingtips reach about the tail tip. Tail short, dark-centred with white sides. In flight a narrow white wing-bar and white tail sides.",
+    "avoid": [
+      "Do not paint a complete breast band — that is Little Ringed or Common Ringed Plover.",
+      "Do not paint a yellow eye-ring (Little Ringed Plover) or an orange-based bill (Common Ringed Plover).",
+      "Do not paint yellow or orange legs.",
+      "Do not paint a dark brown back; the upperparts are pale sandy grey-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Sparrowhawk (Accipiter nisus), adult male: dark grey upperparts, faint white supercilium, white underparts finely barred rufous",
+    "subject": "Eurasian Sparrowhawk (Accipiter nisus), adult male, as seen around Korean woods and farmland from October to March: crown, nape, back, upperwings and tail dark blue-grey; a faint, short white supercilium above and behind the eye; cheeks and ear-coverts orange-rufous; throat whitish with fine dark streaks. Breast, belly and flanks white, densely crossed with fine orange-rufous bars, the rufous often washing the flanks; undertail coverts white. Tail with several darker bands. Iris orange; cere yellow; bill short, dark and hooked; legs long, very thin, yellow, with a long slender middle toe.",
     "pose": "perched on a branch in woodland, side view",
     "scene": "Korean winter farmland edge: bare trees beside fields near a wooded hill; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark grey upperparts, faint white supercilium, white underparts with fine rufous bars",
-      "adult female, side view perched: brown upperparts, dark area around the eye, white throat spotted dark brown, white underparts barred buff and dark brown"
-    ]
+      "adult male, side view perched: dark blue-grey upperparts, faint short white supercilium, orange-rufous cheeks, white underparts finely barred orange-rufous, orange eye, thin yellow legs, long barred tail",
+      "adult female, side view perched: grey-brown upperparts, distinct white supercilium over a dark eye-stripe and dark ear-coverts, white throat spotted dark brown, white underparts barred dark brown with a buff tinge, yellow eye, long barred tail"
+    ],
+    "build": "Small hawk; the male about the length of a Feral Pigeon, the female noticeably larger. Small rounded head with a flat, fierce brow; slender build. Wings short and rounded with deeply fingered tips; at rest the wingtips fall far short of the tail tip. Tail long, narrow and square-cornered. Legs long and pencil-thin. Flight a few quick flaps and a glide, low along hedges and woodland edges, surprising small birds.",
+    "avoid": [
+      "Do not paint the male with a broad white supercilium and heavy black mask — that is Eurasian Goshawk, which is also far larger and bulkier.",
+      "Do not paint streaked underparts; adults are barred across.",
+      "Do not paint a swollen orange cere or black wingtips on a pale underwing (Chinese Sparrowhawk).",
+      "Do not paint thick legs or a short tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

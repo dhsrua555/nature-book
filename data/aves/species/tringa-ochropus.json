@@ -45,14 +45,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Green Sandpiper (Tringa ochropus), adult in breeding plumage: greenish-brown upperparts, white in front of the eye forming a short supercilium and white around the eye, head and breast clearly streaked brown, tail with two or three broad black bars, dark brown underwing",
+    "subject": "Green Sandpiper (Tringa ochropus), adult in non-breeding plumage as seen at Korean streams and reservoirs in winter: head and neck dull grey-brown with very fine streaks; a short white supercilium only in front of the eye and a conspicuous complete white eye-ring; upperparts very dark olive-brown, almost blackish, with tiny buff-white spots along the feather edges; breast washed grey-brown with faint streaks, forming a dark band sharply cut off from the clean white belly and undertail; white rump; white tail with two or three broad black bars towards the tip. Bill dark greenish-grey, blacker towards the tip; dark eye; legs dull greyish-green.",
     "pose": "walking busily along the muddy edge of a stream, picking small invertebrates from the mud",
     "scene": "Korean shallow stream and reservoir edge with muddy margins in winter; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: greenish-brown upperparts, white fore-supercilium and eye-ring, brown-streaked head and breast",
-      "adult winter, side view standing: fainter streaks on head and breast",
-      "in flight, from below: dark brown underwing, tail with 2–3 broad black bars"
-    ]
+      "adult breeding plumage (April–May), side view standing: dark olive-brown upperparts densely dotted with small white spots, white fore-supercilium and white eye-ring, head and breast boldly streaked dark brown, streaked breast sharply divided from the white belly, greyish-green legs",
+      "adult winter plumage, side view standing: plainer dark olive-brown upperparts with tiny buff spots, faint streaks on head and breast, same white eye-ring and short white fore-supercilium",
+      "in flight seen from above: blackish wings without a wing-bar, square brilliant white rump, white tail with two or three broad black bars near the tip",
+      "in flight seen from below: very dark brown, almost blackish underwing contrasting with the white belly, barred white tail"
+    ],
+    "build": "Medium-small, stocky sandpiper, a little larger and plumper than Common Sandpiper and Wood Sandpiper; short neck, rounded head, horizontal stance, often bobbing the rear of the body. Bill straight, slender, slightly longer than the head. Legs fairly short for a Tringa, greyish-green. At rest the wingtips reach about the tail tip. In flight it looks strikingly black and white: blackish upperwing with no wing-bar, blackish underwing, a square, brilliant white rump and a white tail crossed by two or three broad black bars; only the toe tips project beyond the tail.",
+    "avoid": [
+      "Do not give it pale or whitish underwings — that is Wood Sandpiper; the Green Sandpiper's underwing is blackish.",
+      "Do not extend a long white supercilium behind the eye; the white stops at the eye and the eye-ring is the main mark.",
+      "Do not paint bright yellow legs or a pale grey-brown back heavily spotted white (Wood Sandpiper).",
+      "Do not add a white wing-bar or a white wedge in front of the folded wing (Common Sandpiper)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

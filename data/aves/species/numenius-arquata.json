@@ -57,13 +57,23 @@
     }
   ],
   "art": {
-    "subject": "Eurasian Curlew (Numenius arquata), adult: very long decurved bill about three times the width of the head, long legs, grey-brown overall with a white lower belly, white underwing coverts and white from rump to tail visible in flight",
+    "subject": "Eurasian Curlew (Numenius arquata), adult, as seen on Korean west- and south-coast mudflats: head plain, finely streaked grey-brown without crown stripes, with a faint pale supercilium and a pale area around the eye; neck and breast pale grey-brown with fine dark streaks; flanks sparsely streaked; lower belly and undertail white. Upperparts grey-brown, feathers dark-centred with pale buff edges and notches. Lower back and rump white, forming a white wedge; tail whitish with narrow brown bars. Bill very long, blackish-brown with a pinkish base to the lower mandible. Eye dark. Legs bluish-grey.",
     "pose": "walking on a tidal mudflat, probing deep into the mud with its long bill",
     "scene": "Korean west- or south-coast tidal mudflat at an estuary in spring; no people, buildings or text",
     "views": [
-      "adult, side view walking: very long decurved bill, grey-brown body, white lower belly, long legs",
-      "adult in flight, from below and behind: white underwing coverts and white from rump to tail"
-    ]
+      "adult, side view walking on mud: very long, evenly decurved bill, plain grey-brown streaked head without crown stripes, grey-brown body, white lower belly, long bluish-grey legs",
+      "adult, in flight seen from above: grey-brown upperwing with darker outer primaries, white wedge from the rump up the lower back, whitish tail with narrow brown bars",
+      "adult, in flight seen from below: white, almost unmarked underwing coverts and axillaries, pale finely barred flight feathers, white belly and vent"
+    ],
+    "build": "Very large shorebird, 50–60cm, about the length of a Mallard but long-legged, and much larger than a Whimbrel. Small rounded head, long neck, plump body. Bill very long, about three times the width of the head, curving down smoothly and evenly along its whole length; females have longer bills than males. Legs long, bluish-grey. At rest the wingtips reach about the tail tip. In flight the white underwing coverts and the white wedge from the rump up the back are conspicuous; wingbeats slow and gull-like.",
+    "avoid": [
+      "Do not paint a brown back and rump or a brown-barred underwing — those mark Far Eastern Curlew.",
+      "Do not paint crown stripes (Whimbrel).",
+      "Do not kink the bill or curve it only near the tip; the curve is smooth along its length.",
+      "Do not paint yellow or greenish legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

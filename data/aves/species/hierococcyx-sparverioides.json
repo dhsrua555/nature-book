@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Large Hawk-Cuckoo (Hierococcyx sparverioides), adult, as seen in Korean woodland in late spring: head slate-grey, darker on the face; chin dark grey; throat whitish; upperparts plain grey-brown; upper breast rufous with dark streaks; lower breast and belly white, barred dark brown; undertail coverts white; tail long, grey-brown with broad blackish bars and a pale tip; bill dark with a yellowish base; yellow eye-ring and yellow-orange iris; legs yellow.",
+    "pose": "perched upright on a branch inside the canopy, side view",
+    "scene": "Korean broadleaf forest in late spring (May–June), fresh green foliage and dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Large, hawk-like cuckoo, slightly larger than Common Cuckoo and shaped like a sparrowhawk, with a long, broad tail with a rounded tip, rounded wings and a fairly upright posture when perched. Bill short and slightly decurved. Legs short, yellow, with two toes forward and two back. In flight broad-winged, with fast shallow wingbeats and short glides, easily mistaken for an Accipiter.",
+    "avoid": [
+      "Do not paint a plain, unstreaked pale orange breast, a white nape patch and a slate-grey back; that is Northern Hawk-Cuckoo (Hierococcyx hyperythrus).",
+      "Do not give it a hooked raptor bill or strong talons; it has a small cuckoo bill and weak feet.",
+      "Do not paint the whole underparts finely barred grey like Common Cuckoo; the upper breast is rufous and streaked.",
+      "Do not paint a dark eye without a yellow eye-ring."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -36,13 +36,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Caspian Tern (Hydroprogne caspia), adult: large tern, first to eighth primaries blackish, short tail",
+    "subject": "Caspian Tern (Hydroprogne caspia), adult in breeding plumage, as seen on Korean coasts on spring passage (April–May): flat black cap from the bill base to the nape, slightly shaggy at the rear but without a crest; face, neck and underparts white; mantle and upperwings pale grey; underside of the outer primaries blackish, forming a dark wedge under the wingtip; rump and tail pale grey-white; bill massive, bright red with a small dark mark near the tip; dark eye; legs short and black.",
     "pose": "standing, side view",
-    "scene": "TODO",
+    "scene": "Korean west-coast estuary sandbar at low tide in spring (April–May); no people, buildings or text",
     "views": [
-      "adult, side view standing: large, heavy-bodied tern with a short tail",
-      "adult in flight from below: blackish primaries"
-    ]
+      "adult breeding, side view standing: very large, heavy tern, black cap without a crest, pale grey back, massive red bill with a dark mark near the tip, short black legs, short tail falling well short of the wingtips",
+      "adult, in flight seen from below, head, body and tail in line: white body and underwing coverts, blackish undersides to the outer eight primaries, short shallow-forked tail, red bill"
+    ],
+    "build": "Very large, heavy-bodied tern, about the size of a Black-tailed Gull, with a large head, thick neck and long, broad wings. Bill huge, thick and dagger-shaped, about as long as the head and deep at the base. Legs short and black. At rest the wingtips extend well beyond the short tail. Tail short, only shallowly forked, without streamers. Flight gull-like with slow wingbeats, the blackish undersides of the outer primaries contrasting with the white underwing coverts.",
+    "avoid": [
+      "Do not paint a yellow bill and a shaggy crest; those suit Greater Crested Tern (Thalasseus bergii).",
+      "Do not give it long tail streamers or a deep fork; the tail is short.",
+      "Do not make it small or slim like Common Tern; it is gull-sized with a huge bill.",
+      "Do not paint red legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

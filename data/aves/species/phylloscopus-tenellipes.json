@@ -49,13 +49,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pale-legged Leaf Warbler (Phylloscopus tenellipes), adult: greenish olive-brown upperparts with a darker crown, rufous-tinged rump and uppertail coverts, white to creamy-white supercilium, ear coverts mixed buffy white and dark olive, pale dark-brown tail with greenish olive-brown outer edges, dark brown iris, pale flesh-coloured to pale brown legs",
+    "subject": "Pale-legged Leaf Warbler (Phylloscopus tenellipes), adult on passage (sexes alike): crown greyish olive-brown, darker and greyer than the back; a long white to creamy-white supercilium; a dark olive eye-stripe; ear-coverts mottled buffy-white and dark olive; upperparts greenish olive-brown, the rump and uppertail coverts slightly warmer and rufous-tinged; wings with one or two thin whitish wing-bars; tail dark brown with greenish olive-brown outer edges; underparts white with a greyish-buff wash on the flanks; bill dark with a pale pinkish base to the lower mandible; dark brown eye; pale flesh-pink legs.",
     "pose": "perched low on a twig beside an earthen bank, side view",
     "scene": "Korean deciduous broadleaf woodland with an earthen bank during spring or autumn passage; no people, buildings or text",
     "views": [
-      "adult, side view perched: white supercilium, darker crown, greenish olive-brown back, rufous-tinged rump, pale legs",
-      "adult, head detail: supercilium and ear coverts mottled buffy white and dark olive"
-    ]
+      "adult, side view perched low on a twig: greyer, darker crown, long white supercilium over a dark eye-stripe, greenish olive-brown back, rufous-tinged rump, thin pale wing-bars, white underparts, pale pink legs",
+      "adult, head in profile: white to creamy-white supercilium, dark olive eye-stripe, ear-coverts mottled buffy-white and dark olive, crown darker than the back, bill with a pale pinkish base below"
+    ],
+    "build": "Small, compact leaf warbler, 12cm — slimmer than a sparrow, with a fairly short tail and a rather large head. Bill fine and pointed, shorter than the head. Legs conspicuously pale pink to pale flesh-brown. Wings short and pointed. Forages low in shady undergrowth and on the ground in woodland, and habitually dips its tail downward as it moves.",
+    "avoid": [
+      "Do not paint dark legs; the pale pink legs are this species' key mark.",
+      "Do not paint green-and-yellow tones like Arctic or Eastern Crowned Warbler; it is cold olive-brown above and white below.",
+      "Do not add a pale central crown stripe (Eastern Crowned Warbler)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

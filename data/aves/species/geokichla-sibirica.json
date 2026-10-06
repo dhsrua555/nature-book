@@ -46,13 +46,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Siberian Thrush (Geokichla sibirica), adult male winter: black crown with slaty feather edges, black lores, broad bold white supercilium from in front of the eye to the side of the neck, medium-length black bill, brown iris, orange-yellow legs",
+    "subject": "Siberian Thrush (Geokichla sibirica), adult male on autumn passage (September–October): whole plumage very dark slate-grey, looking blackish in shade; crown feathers black with slightly paler slaty edges; black lores; a broad, bold, pure white supercilium from just in front of the eye curving back to the side of the neck; centre of the lower belly and undertail coverts white with slate scaling; wings and tail blackish-slate, the outer tail feathers with small white tips; bill black; brown iris; orange-yellow legs.",
     "pose": "hopping on the forest floor, flicking fallen leaves aside with its feet",
     "scene": "Korean autumn deciduous woodland floor covered with fallen leaves; no people, buildings or text",
     "views": [
-      "adult male winter, side view on the ground: black crown, broad white supercilium, black bill, orange-yellow legs",
-      "adult female, head detail: dark brown upper mandible, lower mandible with a dark brown tip"
-    ]
+      "adult male, side view on the forest floor: very dark slate-grey plumage, black lores, broad white supercilium reaching the neck side, white-scaled vent, black bill, orange-yellow legs",
+      "adult male, head close-up in profile: black crown feathers with slaty edges, black lores, long broad white eyebrow, black bill",
+      "adult female, side view on the ground: olive-brown upperparts, buff supercilium, whitish underparts densely scaled brown on the breast and flanks, dark brown upper mandible, lower mandible pale with a dark brown tip, orange-yellow legs",
+      "adult male in flight, seen from below: two broad white bands across the dark underwing, white-tipped outer tail feathers; head, body and tail in a straight line"
+    ],
+    "build": "Medium-sized ground thrush, about 23cm, clearly larger than a sparrow and smaller than a pigeon; plump and compact with a rounded head, rather short square tail and fairly long legs. Bill straight, about two-thirds of the head length. Hops on the forest floor in a horizontal stance and flicks fallen leaves aside with its feet. In flight from below the underwing shows two broad white bands across the dark wing lining.",
+    "avoid": [
+      "Do not paint a yellow bill or a glossy all-black body like a blackbird; the bill is black and the plumage dark slate-grey.",
+      "Do not shorten or narrow the white supercilium; it is broad and runs back to the side of the neck.",
+      "Do not paint an orange breast or a spotted white belly (Japanese Thrush and Eyebrowed Thrush traits).",
+      "Do not paint pink or dark legs; they are orange-yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

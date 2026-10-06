@@ -45,13 +45,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Terek Sandpiper (Xenus cinereus), adult: long upturned bill, pale grey-brown upperparts with black streaks, greyish-brown markings on neck and upper breast, white underparts, yellow legs",
+    "subject": "Terek Sandpiper (Xenus cinereus), adult in breeding plumage, as seen on Korean tidal flats during spring migration (late April–May): head, neck and upperparts pale brownish-grey with fine dark shaft streaks; a bold blackish line along each side of the back formed by the black centres of the upper scapulars; faint whitish supercilium in front of the eye; neck sides and upper breast washed grey-brown with fine dark streaks; rest of the underparts clean white. Bill long and black with a dull yellowish-orange base. Dark eye with no eye-ring. Short orange-yellow legs.",
     "pose": "foraging on wet mud in a loose flock, chasing a small crab",
     "scene": "Korean tidal mudflat near an estuary during spring migration, wet mud and shallow channels; no people, buildings or text",
     "views": [
-      "adult, side view standing: long upturned bill, black-streaked pale grey-brown upperparts, white underparts, yellow legs",
-      "adult, head detail: long upturned bill, greyish-brown marks on the neck"
-    ]
+      "adult breeding (spring), side view standing on mud: long upturned black bill with yellowish base, pale grey-brown upperparts finely streaked black with a black line along the scapulars, grey-brown streaked breast sides, white underparts, short orange-yellow legs",
+      "adult, head detail in profile: long bill upturned along its whole length with a yellowish base, faint whitish supercilium, fine grey-brown streaks on the neck and upper breast",
+      "adult in flight seen from above, head, body and tail in one line: grey upperwing with a broad white trailing edge on the secondaries, plain grey rump and tail without any white"
+    ],
+    "build": "Medium-small sandpiper, 23cm, clearly larger than a Dunlin and much smaller than a feral pigeon; low-slung, horizontal carriage with a slightly front-heavy look. Bill long, clearly longer than the head, fairly slender and upturned along its whole length, not only at the tip. Legs strikingly short for the bird's size, orange-yellow. At rest the wingtips reach about the tail tip. Tail short, plain grey. In flight grey upperwing with a broad white trailing edge to the secondaries, and plain grey rump and tail with no white on the back. Feeds with fast, darting runs, often bobbing its rear like a Common Sandpiper.",
+    "avoid": [
+      "Do not paint long legs; the Terek's legs are short, unlike Common Greenshank or Marsh Sandpiper which share its grey look.",
+      "Do not paint a white rump or a white wedge up the back (Common Greenshank, Spotted Redshank).",
+      "Do not paint red legs (Common Redshank) or dark legs; they are orange-yellow.",
+      "Do not paint a straight or downcurved bill; it is upturned from the base, though far less sharply than an avocet's."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

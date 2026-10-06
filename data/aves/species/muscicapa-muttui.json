@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Brown-breasted Flycatcher (Muscicapa muttui), adult (sexes alike), a vagrant spring migrant in Korean island woodland: crown and face grey-brown with a whitish eye-ring and a whitish line from the bill to the eye; upperparts warm olive-brown, the rump and uppertail coverts more rufous; wings dark brown with rufous-buff fringes to the greater coverts and broad rufous edges to the tertials and secondaries; throat white; breast and flanks washed plain brown; belly white; tail warm brown with a rufous tinge. Bill fairly large and broad, upper mandible dark, lower mandible wholly pale yellowish; eye dark; legs pale pinkish-yellow.",
+    "pose": "perched upright on a low branch in shaded understorey, side view",
+    "scene": "shady broadleaf woodland on a Korean offshore island during spring migration (May), soft dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small flycatcher, smaller than a sparrow but slightly larger and bigger-billed than Asian Brown Flycatcher; large head and upright posture. Bill broad-based and flat, shorter than the head but long for a Muscicapa, with a fully pale lower mandible. Legs short, pale pinkish-yellow, a key difference from the dark-legged Asian Brown Flycatcher. Primary projection shorter than in Asian Brown Flycatcher. Tail square, medium length, without white.",
+    "avoid": [
+      "Do not paint black or dark grey legs; Brown-breasted Flycatcher's legs are pale pinkish-yellow (Asian Brown Flycatcher has dark legs).",
+      "Do not paint a dark lower mandible; the whole lower mandible is pale.",
+      "Do not streak the breast (Grey-streaked or Dark-sided Flycatcher); the breast is a plain brown wash.",
+      "Do not make the upperparts cold grey; they are warm brown with rufous wing edges."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

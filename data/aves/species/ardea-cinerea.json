@@ -76,14 +76,23 @@
     }
   ],
   "art": {
-    "subject": "Adult Grey Heron of the pale eastern subspecies jouyi: white crown, face and neck; a broad black stripe from above the eye to the nape ending in long, slender black crest plumes; two or three lines of black streaks down the centre of the white foreneck; elongated pale grey plumes at the base of the foreneck and on the scapulars; ash-grey back and wing coverts with a black patch at the bend of the wing; black patches on the sides of the breast and along the flanks, whitish underparts and thighs; long, straight, dagger-shaped yellow bill with yellow bare lores; yellow eye; long yellowish-brown legs.",
+    "subject": "Grey Heron (Ardea cinerea), adult of the pale eastern subspecies jouyi in the breeding season, as seen on Korean rice paddies in May: forehead, centre of the crown, face and neck white; a broad black stripe from above the eye to the nape, ending in two long, thin black crest plumes; two or three lines of black streaks down the centre of the white foreneck; long pale grey plumes on the lower foreneck and scapulars; back and wing coverts ash-grey, with a black patch at the bend of the wing; black bands along the sides of the breast and flanks; belly and thighs whitish. Long, straight, dagger-shaped yellow bill; yellowish bare lores; yellow eye; yellowish-brown legs.",
     "pose": "Standing motionless in shallow water at the edge of a flooded rice paddy, body upright and neck partly extended forward, side view.",
     "scene": "Flooded rice paddies in Korea in May with rows of young green rice seedlings, a low earthen levee, a small stream lined with willows, and a pine-covered hill in the background where herons nest in tall pines. No people, buildings or text.",
     "views": [
-      "adult, standing, side view",
-      "adult in flight, side view, neck retracted in an S-curve and legs trailing, blackish flight feathers contrasting with grey wing coverts",
-      "juvenile, standing, side view (grey head stripe, greyish face, short dark grey crest)"
-    ]
+      "adult, standing, side view: white head with a black eye-to-nape stripe ending in thin black crest plumes, black-streaked white foreneck, ash-grey back and wings with a black shoulder patch, long straight yellow bill, yellowish legs",
+      "adult in flight seen from above: neck retracted in an S-curve with the head drawn back onto the shoulders, legs trailing beyond the tail, blackish flight feathers contrasting with pale grey wing coverts",
+      "juvenile (summer–autumn), standing, side view: grey crown stripe instead of black, greyish face and neck, short dark grey crest, duller grey upperparts, dusky upper mandible"
+    ],
+    "build": "Very large heron, about 93cm, the largest heron in Korea; tall and long-necked, standing still for long periods with the neck coiled or stretched forward. Bill long, straight and heavy, dagger-shaped, longer than the head. Legs long, yellowish-brown, with the lower tibia bare. At rest the folded wings cover the short tail. In flight slow, deep wingbeats on broad, arched wings, the neck retracted in an S-curve so the head rests on the shoulders, legs trailing beyond the tail. Bill and legs flush orange-pink only briefly early in the breeding season.",
+    "avoid": [
+      "Do not paint a rufous neck with black stripes or a black crown — that is Purple Heron (Ardea purpurea).",
+      "Do not show it flying with an outstretched neck; that is how cranes fly.",
+      "Do not paint white body plumage or black legs (egrets).",
+      "Do not paint a short, thick or curved bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

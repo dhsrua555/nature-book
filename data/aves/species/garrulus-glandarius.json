@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Jay (Garrulus glandarius), adult: streaked crown feathers raised into a low crest, broad black malar stripe, pinkish-brown back and underparts, wing coverts barred blue and black, conspicuous white wing patch, white rump contrasting with black tail",
+    "subject": "Eurasian Jay (Garrulus glandarius), adult (sexes alike, plumage the same all year): crown rufous-buff densely streaked black, the feathers often raised into a short bushy crest; whitish throat; broad black moustachial stripe from the bill base down the side of the throat; head sides, back and underparts pinkish to vinaceous brown, paler on the belly; wing coverts at the bend of the wing finely barred bright blue, black and white; a white patch on the inner flight feathers; rest of the wing black; white rump and undertail coverts; black tail; stout black bill; pinkish-brown legs.",
     "pose": "perched on a branch with crown feathers slightly raised, holding a morsel of food to hide",
     "scene": "Korean deciduous broadleaf and mixed forest in spring; no people, buildings or text",
     "views": [
-      "adult, side view perched: streaked low crest, broad black malar stripe, pinkish-brown body, blue-and-black barred wing coverts, white wing patch",
-      "adult, in flight from behind: white rump, black tail, white wing patch"
-    ]
+      "adult, side view perched on a branch: streaked crown feathers raised into a low crest, broad black moustachial stripe, pinkish-brown body, blue-black-and-white barred patch at the bend of the wing, white patch on the inner wing, black tail",
+      "adult in flight seen from above, head, body and tail in line: rounded black wings with the blue barred patch and the white patch, pinkish-brown back, bright white rump contrasting with the black tail"
+    ],
+    "build": "Medium-sized, stocky member of the crow family, about 33cm: about the length of a feral pigeon, with a much shorter tail than a magpie. Large rounded head with a short erectile crest, thick neck. Bill stout, black, shorter than the head, slightly arched. Legs medium length, pinkish-brown. Wings broad and rounded; at rest they reach about the base of the tail. Tail medium length, square to slightly rounded, black. Flight rather slow, with floppy wingbeats and undulating sweeps, flashing the white rump and the white wing patch.",
+    "avoid": [
+      "Do not paint a blue body or a tall pointed crest like American jays; only a small patch on the wing is blue.",
+      "Do not paint a long graduated tail; that is a magpie.",
+      "Do not paint a black cap with plain blue wings and tail; that is Azure-winged Magpie.",
+      "Do not put the white wing patch on the outer primaries; it lies on the inner wing beside the blue patch."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

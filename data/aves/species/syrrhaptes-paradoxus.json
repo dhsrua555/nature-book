@@ -42,13 +42,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pallas's Sandgrouse (Syrrhaptes paradoxus), adult male: grey head with yellow face, grey back with black blotches, grey breast with a darker grey band below it, broad black band across the belly, grey below the band",
+    "subject": "Pallas's Sandgrouse (Syrrhaptes paradoxus), adult male: ochre-orange face, throat and line over the eye, smooth grey crown, nape and neck sides; mantle, scapulars and wing coverts pale sandy-buff to greyish buff, boldly barred and blotched black; pale grey breast with a narrow band of fine black bars across its lower edge, which reads as a darker grey band; a large solid black patch across the belly, the vent and undertail pale buff-white; two long, needle-thin central tail streamers. Small bluish-grey bill; dark eye; very short legs and toes covered in pale buff feathering.",
     "pose": "standing on sand, side view",
     "scene": "sand dunes on a Korean river-mouth delta with sparse grass; no people, buildings or text",
     "views": [
-      "adult male, side view standing: grey head, yellow face, grey back with black blotches, darker grey band below the breast, broad black belly band",
-      "adult female, side view standing: no band on the breast"
-    ]
+      "adult male, side view standing on sand: ochre-orange face, grey crown and neck, sandy-buff back boldly barred and blotched black, grey breast with a darker band of fine black bars below it, broad black belly patch, long thin tail pins, feathered feet",
+      "adult female, side view standing: same shape and black belly patch, but crown, nape and neck sides finely spotted black, a thin black line across the lower throat, no barred band across the breast, upperparts more densely barred black"
+    ],
+    "build": "Pigeon-shaped ground bird, 38cm including the long tail pins, the body about the size of a feral pigeon; small rounded head, short neck, plump body sitting low on very short legs, so it looks almost legless when standing. Bill tiny and stubby, much shorter than the head. Legs and short toes thickly feathered to the claws, no visible hind toe. Wings long and sharply pointed, the outermost primary drawn out into a fine filament; tail graduated, its two central feathers extended into long thin pins. Flight fast and direct on narrow, falcon-like wings.",
+    "avoid": [
+      "Do not paint long bare legs or visible toes like a pigeon or partridge; the very short legs and toes are feathered to the claws.",
+      "Do not give it a short rounded tail; the central tail feathers end in long, needle-thin pins.",
+      "Do not make the back plain grey; it is sandy-buff, heavily barred and blotched black.",
+      "Do not paint a long bill or a crest; the bill is tiny and the crown smooth."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

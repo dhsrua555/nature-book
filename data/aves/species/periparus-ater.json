@@ -66,13 +66,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Coal Tit (Periparus ater), adult male winter: blue-black lores, forehead, crown and sides of the nape with a small crest, white central nape patch, sooty blue-grey back, buff-tinged rump and uppertail coverts, cream underparts with dull grey belly and axillaries, blackish-brown wings and tail, dark brown eye, blue-grey legs",
+    "subject": "Coal Tit (Periparus ater), adult in winter: forehead, crown, lores and sides of the nape glossy blue-black, the crown feathers forming a short pointed crest; a large white patch in the centre of the nape; white cheeks and ear-coverts; black chin and throat forming a broad bib; back sooty blue-grey, rump and uppertail coverts tinged buff; wings and tail blackish-brown, with two white wing bars on the coverts; underparts creamy white with a dull greyish-buff belly and flanks; short, thin black bill; dark brown eye; blue-grey legs.",
     "pose": "foraging among twigs, side view",
     "scene": "Korean subalpine thicket and deciduous broadleaf forest; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: blue-black head with small crest, sooty blue-grey back, cream underparts, blue-grey legs",
-      "adult, back view: white central nape patch between black nape sides"
-    ]
+      "adult in winter, side view perched on a twig: blue-black head with a short pointed crest, white cheek, black bib, two white wing bars, sooty blue-grey back, creamy underparts, notched tail, blue-grey legs",
+      "adult, seen from behind and slightly above, perched with the head facing away: white central nape patch framed by the black sides of the nape, sooty blue-grey back, two white wing bars"
+    ],
+    "build": "Tiny tit, about 11cm: clearly smaller than a Cinereous Tit and smaller than a sparrow. Large head with a short pointed crest, almost no neck, short compact body. Bill very short, fine and pointed, black. Legs short, blue-grey. At rest the wingtips reach the base of the tail. Tail short, with a shallow notch. Constantly active among conifer and broadleaf twigs, often in mixed flocks with other tits.",
+    "avoid": [
+      "Do not paint a black stripe down the belly; that is Cinereous Tit.",
+      "Do not leave out the white nape patch or the two white wing bars.",
+      "Do not paint yellow or green tones; the bird is blue-grey, black, white and cream.",
+      "Do not paint a long tail; the tail is short."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

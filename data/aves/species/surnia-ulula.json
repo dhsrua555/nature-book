@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Northern Hawk-Owl (Surnia ulula), adult: white forehead, crown and nape edged buff-brown, dark brown plumage heavily streaked darker brown, brown back barred white, buff to dark buff lower breast and belly with dark brown streaks and two pale brown bars on each feather, yellow eyes",
+    "subject": "Northern Hawk-Owl (Surnia ulula), adult (sexes alike, plumage the same all year), as seen in winter in Korea: forehead and crown blackish-brown, densely speckled with small white spots; whitish-grey facial disc framed on each side by a bold black crescent running from the crown sides down behind the cheeks; whitish eyebrows meeting above the bill; a black patch on each side of the hindneck, forming a dark V on the nape; upperparts dark brown spotted white, the scapulars with large white spots forming a pale band across the shoulders; wings dark brown with rows of white spots; underparts white, closely and evenly barred with narrow grey-brown bars from the breast to the vent; long graduated tail dark grey-brown crossed by narrow white bars; bill pale yellow; iris bright yellow; legs and toes densely feathered whitish.",
     "pose": "perched upright on a treetop in daylight, watching for prey",
-    "scene": "Korean montane mixed forest; no people, buildings or text",
+    "scene": "Korean montane mixed forest in winter, snow on spruce, larch and birch branches, clear daylight; no people, buildings or text",
     "views": [
-      "adult, side view perched: white crown edged buff, brown back barred white, yellow eyes",
-      "adult, front view perched: buff underparts with dark brown streaks and fine pale brown bars"
-    ]
+      "adult, front view perched upright on a treetop: whitish-grey face framed by bold black crescents, dark crown densely dotted white, bright yellow eyes, pale yellow bill, white underparts finely and evenly barred grey-brown, feathered whitish feet, long tail hanging below",
+      "adult, side view perched upright: dark brown back and wings spotted white with a pale band of white spots across the shoulders, black V-marks on the nape, long graduated dark tail with narrow white bars projecting far beyond the wingtips"
+    ],
+    "build": "A medium-sized, slim, hawk-like owl, a little longer than a feral pigeon, with a long tail making up much of its length; much smaller than Ural Owl. Head rather small and flat-crowned, with no ear tufts. Bill short, strongly hooked, pale yellow, partly hidden in the face feathers. Legs and toes thickly feathered. Wings fairly short and pointed for an owl; at rest the wingtips fall well short of the tail tip, about the middle of the tail, so a long graduated tail projects beyond them. Sits very upright on the top of a conifer or bare tree, often raising or flicking the tail. Flies fast and low with quick wingbeats and glides like a sparrowhawk, swooping up to the next perch; sometimes hovers.",
+    "avoid": [
+      "Do not add ear tufts or a large round head; the head is small and flat-crowned without tufts.",
+      "Do not paint the underparts buff or streaked lengthwise; they are white with fine, dense horizontal grey-brown bars, like a sparrowhawk's.",
+      "Do not paint a plain white crown; the crown is dark brown densely dotted white, and the pale face is outlined by bold black crescents.",
+      "Do not give it dark eyes or a short tail; those belong to Ural Owl (Strix uralensis). The hawk-owl has yellow eyes and a long tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

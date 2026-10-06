@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lesser Frigatebird (Fregata ariel), adult male: black to blackish-brown plumage, white patches on the sides of the belly, large red throat pouch",
+    "subject": "Lesser Frigatebird (Fregata ariel), adult male in flight over the sea: entire plumage black with a faint green-purple gloss on the head and back, except a white patch on each side of the belly that extends as a narrow white spur into the armpit at the base of the underwing; the red throat pouch deflated, showing only as a small patch of red bare skin on the throat; long, strongly hooked bill dark grey; dark eye; tiny legs and feet tucked into the body.",
     "pose": "soaring high over the sea on long wings",
     "scene": "open sea off the Korean coast with breaking waves; no people, buildings or text",
     "views": [
-      "adult male, in flight: black to blackish-brown plumage, white patches on the belly sides, red throat pouch",
-      "adult female, in flight: chestnut band across the hindneck, brown bar on the wing coverts, creamy-white breast"
-    ]
+      "adult male, in flight seen from below: all-black body and wings, white patch on each side of the belly continuing as a white spur into the underwing armpit, small red throat patch, long hooked grey bill, deeply forked tail",
+      "adult female, in flight banking, seen from the side and slightly below: black head and throat, chestnut-brown collar on the hindneck, white breast extending as white spurs into the underwing armpits, pale brown bar across the upperwing coverts on the raised wing"
+    ],
+    "build": "Large, slim seabird with a far greater wingspan than a Black-tailed Gull, almost always seen soaring. Wings very long, narrow and sharply pointed, strongly bent at the wrist into an M shape. Tail long and deeply forked, often held closed as a single spike. Bill long and slender with a strongly hooked tip, longer than the head. Legs tiny, feet small; never swims or rests on the water. Glides on motionless wings for long periods and swoops to snatch prey from the surface.",
+    "avoid": [
+      "Do not paint the red throat pouch inflated like a balloon on a flying bird; it is inflated only in display at the breeding colony.",
+      "Do not paint the male's white across the breast or the centre of the belly; it is limited to the flank patches and spurs.",
+      "Do not paint straight gull-like or cormorant-like wings, a short square tail or a straight bill.",
+      "Do not show the bird swimming or resting on the water."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

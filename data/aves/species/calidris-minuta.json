@@ -54,13 +54,23 @@
     }
   ],
   "art": {
-    "subject": "Little Stint (Calidris minuta), adult: compact, dumpy build, spotted plumage, clean white belly, short straight black bill, black legs",
+    "subject": "Little Stint (Calidris minuta), juvenile, as seen on Korean wetlands in autumn (August–October): crown streaked dark and rufous, with a split whitish supercilium; face pale with a dusky ear spot; throat white; mantle and scapulars black-centred with bright rufous fringes, and a bold creamy-white V along the edges of the mantle; wing coverts and tertials dark-centred with rufous-buff edges; breast sides washed orange-buff with fine dark streaks, centre of the breast white; belly clean white; bill short, fine, straight and black; dark eye; legs black.",
     "pose": "foraging actively at the edge of shallow clear water",
     "scene": "Korean autumn wetland: open mudflat beside a marsh with shallow clear water; no people, buildings or text",
     "views": [
-      "adult, side view standing: short straight black bill, spotted plumage, clean white belly, black legs",
-      "juvenile, back view: neat white stripes on the back"
-    ]
+      "adult breeding (May), side view standing: rufous-orange face, neck sides and breast sides finely spotted dark, white throat, black-centred rufous-fringed upperparts with a creamy V on the mantle, clean white belly, short fine straight black bill, black legs",
+      "juvenile (autumn), back view standing: dark rufous-fringed upperparts with a neat creamy-white V of stripes down the mantle edges, compact dumpy shape, black legs",
+      "adult winter, side view standing: grey-brown upperparts with dark feather centres giving a spotted look, grey wash on the breast sides, white underparts, black bill and legs"
+    ],
+    "build": "Tiny, compact, dumpy sandpiper, about sparrow-sized and clearly smaller than Dunlin, with a round head, short neck and fairly upright stance. Bill black, short, straight and fine-tipped, slightly shorter than the head. Legs black, short. At rest the wingtips reach the tail tip or slightly beyond. In flight a narrow white wing-bar and a dark centre to the rump and tail with white sides. Feeds with quick, busy pecking while running.",
+    "avoid": [
+      "Do not colour the throat plain brick-red; that is Red-necked Stint (Calidris ruficollis) — the Little Stint's throat stays white.",
+      "Do not paint yellowish or greenish legs; those belong to Long-toed and Temminck's Stints.",
+      "Do not paint a long, drooping bill or a Dunlin-sized body; the bill is short, straight and fine.",
+      "Do not paint white outer tail feathers; that is Temminck's Stint (Calidris temminckii)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Meadow Pipit (Anthus pratensis), adult in winter (sexes alike), a vagrant in Korean farmland: upperparts olive-brown with dark streaks on the crown and mantle, the rump plain and unstreaked; face rather plain with a faint pale supercilium, a pale eye-ring and a thin dark malar stripe; wings brown with two narrow pale wing bars and pale-fringed tertials; underparts whitish with a buff wash on the breast and flanks, the breast densely marked with fine dark streaks that continue as thinner streaks along the flanks; outer tail feathers white. Bill thin and dark with a pale base to the lower mandible; eye dark; legs pinkish.",
+    "pose": "walking among short grass, side view",
+    "scene": "stubble fields and grassy dykes in Korean farmland in winter (December–February), low winter sun; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim pipit about the size of a sparrow but slimmer, with a rather small head, thin bill and horizontal posture; walks and runs in short grass. Bill thin and straight, about half the length of the head. Legs medium length, pinkish, with a long, gently curved hind claw. At rest the tertials almost cover the primaries (short primary projection). Tail medium length, slightly notched, dark with white outer edges.",
+    "avoid": [
+      "Do not paint a brick-red throat or a streaked rump — those belong to Red-throated Pipit; Meadow Pipit's rump is plain.",
+      "Do not paint a bold face with a white and black spot behind the ear coverts — that is Olive-backed Pipit.",
+      "Do not paint black legs; Meadow Pipit's legs are pinkish.",
+      "Do not paint bold white stripes ('braces') on the mantle (Red-throated or Pechora Pipit)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

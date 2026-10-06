@@ -49,13 +49,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-legged Kittiwake (Rissa tridactyla), adult: yellow bill, grey back, white underparts, blackish-brown wingtips and legs",
+    "subject": "Black-legged Kittiwake (Rissa tridactyla), adult in winter, as seen off the Gangwon coast from November to March: white head with a dark grey smudge behind the eye and a grey wash on the hindneck; back and upperwings medium grey, paling towards the outer wing; wingtips solid black as if dipped in ink, with no white mirrors; underparts and tail white. Bill plain pale yellow, unmarked. Dark eye. Short black legs.",
     "pose": "flying low over the waves, side view",
     "scene": "Korean east coast in Gangwon in winter: rocky shore and rolling waves of the East Sea; no people, buildings or text",
     "views": [
-      "adult, side view standing: yellow bill, grey back, white underparts, blackish-brown wingtips and legs",
-      "adult, foot detail: three front toes with only a vestigial hind toe"
-    ]
+      "adult winter, side view standing on a rock: white head with a dark grey ear smudge, grey back, black wingtips without white spots, white underparts, plain yellow bill, short black legs",
+      "adult, foot detail: three black webbed front toes, the hind toe reduced to a tiny stump",
+      "adult in flight seen from above, body level: grey upperwing paling to whitish on the outer wing, sharply cut-off solid black wingtip, white tail",
+      "first-winter in flight seen from above: bold black M pattern across the upperwings, black half-collar on the hindneck, black tail tip, black bill"
+    ],
+    "build": "Medium-small gull, 41cm, slightly smaller than Common Gull and much smaller than Vega Gull; neat rounded head, gentle face with a dark eye, short neck. Bill short, slim, plain yellow. Legs very short and black; the hind toe is reduced to a tiny vestige, so only the three webbed front toes show. Long, narrow wings: at rest the black tips project well beyond the tail. Tail white, square to very slightly notched. Flight stiff and buoyant low over the waves.",
+    "avoid": [
+      "Do not add white mirrors in the black wingtip; that is Common Gull or Vega Gull.",
+      "Do not paint pink, yellow or long legs; the legs are short and black.",
+      "Do not paint a red spot on the bill or a heavy hooked bill.",
+      "Do not paint a visible hind toe on the foot."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

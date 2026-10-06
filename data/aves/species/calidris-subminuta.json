@@ -49,13 +49,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-toed Stint (Calidris subminuta), adult breeding: black crown, nape, mantle and scapulars fringed pale rufous, brownish-white supercilium, brownish-white lores, ear coverts and neck sides streaked brown, white chin and throat, black central tail feathers with grey-brown outer tail, black bill, yellowish-green legs",
+    "subject": "Long-toed Stint (Calidris subminuta), adult in breeding plumage, as seen on Korean salt pans and estuary margins in late April-May: crown dark brown-black with rufous fringes, the dark cap reaching the bill base; a long whitish supercilium; dark loral stripe reaching the bill; ear coverts and neck sides buff-white streaked brown; chin and throat white; mantle, scapulars and tertials black-centred with bright rufous fringes, sometimes with a whitish V on the mantle; breast washed buff with fine dark streaks; belly white; fine black bill, sometimes paler at the base of the lower mandible; dark eye; yellowish-green to yellowish-brown legs with noticeably long toes.",
     "pose": "foraging at the edge of a shallow pool, side view",
     "scene": "Korean coastal salt pans and estuary mud during spring migration; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: black upperparts fringed pale rufous, brownish-white supercilium, white throat, black bill, yellowish-green legs",
-      "adult breeding, tail from above: black central pair, grey-brown outer tail feathers"
-    ]
+      "adult breeding, side view standing upright with the neck slightly stretched: dark-capped head with long whitish supercilium, white throat, buff breast with fine streaks, black upperpart feathers with bright rufous fringes, fine black bill, yellowish-green legs with long toes",
+      "adult breeding, tail seen from above, slightly spread: black central pair of tail feathers, grey-brown outer tail feathers, dark centre of the rump with white sides"
+    ],
+    "build": "Tiny sandpiper, about 15cm, roughly the size of a sparrow; slim, with a relatively long neck and a habit of standing upright and stretching the neck when alert. Bill black, fine, shorter than the head, slightly drooping at the tip. Legs yellowish-green, relatively long for a stint, with long toes - the middle toe about as long as the bill. At rest the long tertials cover almost all the primaries and the wingtips reach about the tail tip. In flight a faint narrow wing-bar and a dark centre to the rump and tail with white sides; the central tail feathers black, the outer ones grey-brown.",
+    "avoid": [
+      "Do not paint black legs or a rufous face and throat - that is Red-necked Stint (Calidris ruficollis); this species has pale legs and a white throat.",
+      "Do not paint plain mouse-grey-brown upperparts and white outer tail feathers - that is Temminck's Stint (Calidris temminckii).",
+      "Do not paint a long or strongly curved bill, or a bird much bigger than a sparrow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

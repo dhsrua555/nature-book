@@ -33,13 +33,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lesser Spotted Woodpecker (Dendrocopos minor), adult male: a very small woodpecker with a bright red crown",
+    "subject": "Lesser Spotted Woodpecker (Dendrocopos minor), adult male (plumage the same all year), as resident in Korean woodland: forehead buffy-white; crown bright red, bordered black at the rear; nape and hindneck black; face and ear-coverts white, with a black moustachial stripe running from the bill base back and down to the side of the breast; back and wings black crossed by broad white bars, giving a ladder-barred look, with no white shoulder patch; underparts whitish with fine black streaks on the breast sides and flanks; undertail coverts whitish, without any red; tail black in the centre, the outer feathers white barred black; bill short, slate-grey; legs grey.",
     "pose": "creeping along a thin branch high in the canopy",
     "scene": "Korean open woodland with scrub, wooded grassland and an orchard; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a thin branch: very small, bright red crown",
-      "adult female, head detail: crown without the male's bright red"
-    ]
+      "adult male, side view clinging to a thin branch: tiny size, buffy-white forehead, bright red crown, black nape, white face with black moustachial stripe, black back and wings barred white, whitish underparts with fine dark flank streaks, no red under the tail",
+      "adult female, side view clinging to a thin branch: same pattern as the male, but the crown behind the buffy-white forehead is black with no red at all"
+    ],
+    "build": "A tiny woodpecker, about the size of a sparrow and similar in size to the Japanese Pygmy Woodpecker; far smaller than Great Spotted Woodpecker. Compact, with a rounded head and short neck, no crest. Bill short, straight and fine for a woodpecker, clearly shorter than the head, with a chisel tip. Legs short and grey, with two toes forward and two back. At rest the folded wingtips reach a short way down the tail. Tail short, stiff and pointed, pressed against the branch as a prop. Works along thin twigs and outer branches high in the canopy; flight light and strongly bounding.",
+    "avoid": [
+      "Do not paint large white oval shoulder patches or red undertail coverts; those belong to Great Spotted Woodpecker (Dendrocopos major), a much larger bird.",
+      "Do not paint it grey-brown with a brownish head; that is Japanese Pygmy Woodpecker (Yungipicus kizuki), the common tiny woodpecker in Korea.",
+      "Do not give the female any red on the head.",
+      "Do not paint a solid black back; the back and wings are crossed by broad white bars.",
+      "Do not paint a long, heavy bill; it is short and fine."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

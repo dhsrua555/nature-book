@@ -47,13 +47,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Baer's Pochard (Aythya baeri), adult male: green-glossed head, reddish-brown breast, white to pale yellow eye, conspicuous white undertail coverts",
+    "subject": "Baer's Pochard (Aythya baeri), adult male in winter, as seen in Korea from November to March: head and upper neck blackish with a green gloss in good light; breast dark chestnut-brown; mantle and wings blackish-brown; flanks chestnut-brown with a white patch at the front of the flanks just behind the breast, showing above the waterline; belly white; undertail coverts conspicuous white; iris white; bill dark slate-grey with a black nail; legs grey.",
     "pose": "swimming on a reservoir among a flock of other diving ducks",
     "scene": "Korean winter estuary with wide open water; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: green-glossed head, reddish-brown breast, pale eye, white undertail coverts",
-      "adult female, side view swimming: dark chestnut head and breast, pale eye, white undertail coverts"
-    ]
+      "adult male, side view swimming: green-glossed blackish head, dark chestnut breast, chestnut-brown flanks with a white patch at the front, blackish back, white undertail coverts, white iris, grey bill",
+      "adult female, side view swimming: dark chestnut-brown head and breast, dark brown iris, brown flanks, blackish-brown back, white undertail coverts, grey bill"
+    ],
+    "build": "Medium-sized diving duck, about 45cm, the size of a Tufted Duck and noticeably smaller than a Mallard, with a rounded head and no tuft. Bill broad, grey, a little shorter than the head. Legs short, grey, set far back. At rest the wingtips reach about the tail base. Tail short, held low on the water. In flight a broad white wing-bar along the secondaries and inner primaries and a white belly.",
+    "avoid": [
+      "Do not give it a crest or tuft (Tufted Duck, Aythya fuligula), and do not paint the whole flank white.",
+      "Do not paint a uniformly chestnut head on the male; his head is blackish with a green gloss (all-chestnut is Ferruginous Duck).",
+      "Do not paint a white or yellow iris on the female; only the male has a white eye.",
+      "Do not paint a grey vermiculated back (Common Pochard)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

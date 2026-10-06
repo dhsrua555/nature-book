@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Common Chiffchaff (Phylloscopus collybita), adult of the Siberian race tristis, as seen in Korea in late autumn: upperparts cold grey-brown with a faint olive-green tinge only on the rump and the edges of the wing and tail feathers; buffish-white supercilium and a dark eye-stripe; a thin pale crescent below the eye; ear-coverts and breast sides warm buff; underparts off-white with buff flanks; no wing-bars; a small yellow patch only at the bend of the wing and on the underwing. Bill fine and blackish; dark eye; legs black.",
+    "pose": "flitting through low bare twigs with the tail dipped downward, side view",
+    "scene": "low scrub and reed edges on a Korean offshore island in late autumn, bare twigs and dry grass; no people, buildings or text",
+    "views": [],
+    "build": "Tiny leaf warbler, clearly smaller than a sparrow, slim and round-headed. Bill short, fine and straight, much shorter than the head. Legs thin, black. Wings short: at rest the primary tips extend only a short way beyond the tertials and end well before the tail tip. Tail medium length, square-ended, habitually dipped downward while feeding. Restless, flicking its wings as it picks insects from twigs and reed edges.",
+    "avoid": [
+      "Do not paint bright olive-green upperparts and yellow underparts like western chiffchaffs or Willow Warbler; tristis looks grey-brown and buff.",
+      "Do not give it wing-bars (Arctic Warbler, Yellow-browed Warbler).",
+      "Do not paint pale pinkish legs or a pale bill; legs and bill are blackish.",
+      "Do not make the supercilium long, bold and white like Dusky Warbler (Phylloscopus fuscatus)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

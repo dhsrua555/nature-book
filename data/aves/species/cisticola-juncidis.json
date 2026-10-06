@@ -63,13 +63,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Zitting Cisticola (Cisticola juncidis), adult: white chin and upper throat, buff lower throat, breast and hindneck, blackish-brown back with white markings, white belly",
+    "subject": "Zitting Cisticola (Cisticola juncidis), adult in summer (May–August): crown buff-brown streaked blackish; face plain buff with a faint pale supercilium; hindneck buff with only fine streaks; mantle and back boldly streaked blackish-brown with pale buff to whitish feather edges; rump plain warm rufous-buff; wings brown with buff fringes; chin and upper throat white; lower throat and breast washed buff, the flanks warmer buff; belly white; tail brown, each feather with a black subterminal spot and a whitish tip, best seen from below; thin, slightly curved bill, brown above and pinkish below; pink legs.",
     "pose": "perched on a grass stem, side view",
     "scene": "Jeju Island grassland and barley field beside a stream in summer; no people, buildings or text",
     "views": [
-      "adult, side view perched: white chin, buff breast and hindneck, blackish-brown back with white markings, white belly",
-      "adult, rear view: blackish-brown back marked with white, buff hindneck"
-    ]
+      "adult, side view clinging to a grass stem: black-streaked buff crown, plain buff face, white chin and upper throat, buff breast, white belly, short rounded tail, thin bill, pink legs",
+      "adult, seen from behind on a grass stem: buff hindneck, back boldly streaked blackish-brown with pale buff-white edges, plain rufous-buff rump, short tail with black-and-white feather tips"
+    ],
+    "build": "Tiny, short-winged grassland warbler, 12.5cm, clearly smaller than a sparrow, with a rounded body and a large head. Bill slender, about half the head length, slightly decurved. Legs pink and fairly strong for gripping grass stems. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail short, broad and rounded (graduated), often fanned to show the black-and-white tips. Clings upright to the top of a grass stem; in the breeding season the male makes a high, bouncing song flight over the grass.",
+    "avoid": [
+      "Do not give it a long tail; it is short and rounded, unlike a prinia or reed warbler.",
+      "Do not paint a plain, unstreaked back like a reed warbler (Acrocephalus); the back is boldly streaked.",
+      "Do not paint a dark eye-stripe or a bold face pattern; the face is plain buff.",
+      "Do not make it sparrow-sized or thick-billed."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

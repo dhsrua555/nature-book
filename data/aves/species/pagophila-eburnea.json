@@ -49,13 +49,23 @@
     }
   ],
   "art": {
-    "subject": "Ivory Gull (Pagophila eburnea): all-white plumage with black spots scattered over the back, upperwing and primaries, black lores, black-based bill with a yellow tip",
+    "subject": "Ivory Gull (Pagophila eburnea), first-winter: plumage white, with small black spots scattered over the back and wing coverts and black tips to the primaries, secondaries and tail feathers; face dusky grey around the bill and eye, giving black lores. Bill dark grey-black with a yellowish tip; dark eye; short black legs.",
     "pose": "standing, side view",
-    "scene": "TODO",
+    "scene": "Korean east coast in winter, snow on dark rocks beside a grey sea; no people, buildings or text",
     "views": [
-      "side view standing: white body, black-spotted back and wings, black lores, black-based bill with yellow tip",
-      "in flight from above: white wings with scattered black spots, black spots on the primaries"
-    ]
+      "first-winter, side view standing: white body, black spots on the back and wing coverts, black tips to the primaries, dusky face with black lores, dark bill with a yellowish tip, short black legs",
+      "first-winter in flight, seen from above: white wings with neat black spots across the coverts and black tips to the flight feathers and tail",
+      "adult, side view standing: pure white all over without spots, bill bluish grey at the base and yellow at the tip, short black legs"
+    ],
+    "build": "Small, compact gull, smaller than the Black-tailed Gull, plump and pigeon-like with a rounded head, short neck and full chest. Bill short and stout, shorter than the head. Legs very short and black, so it sits low and walks like a pigeon. At rest the long wings project well beyond the tail. Wings broad-based and fairly pointed; tail square. The adult is entirely pure white with no black in the plumage, its bill greyish at the base and yellow at the tip.",
+    "avoid": [
+      "Do not give it a grey back or grey wings; unlike other gulls it has no grey in the plumage.",
+      "Do not paint solid black wingtips like a Black-tailed Gull; young birds have only small black spots and tips.",
+      "Do not paint long, yellow or pink legs; the legs are short and black.",
+      "Do not put black spots on an adult; adults are pure white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

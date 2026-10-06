@@ -47,13 +47,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Little Egret (Egretta garzetta), adult breeding: uniformly white plumage, two long white plumes on the nape, black bill, black legs, yellow feet",
+    "subject": "Little Egret (Egretta garzetta), adult in breeding plumage, as seen at Korean egret colonies from April to July: plumage uniformly pure white; two long, narrow, ribbon-like white plumes hang from the nape; lacy, filamentous plumes on the lower foreneck and long plumes on the back reaching beyond the tail. Bill slender, pointed and entirely black. Iris yellow. Legs black; toes and feet bright yellow, the yellow sharply set off at the base of the toes.",
     "pose": "perched at the colony, side view, showing its long nape plumes",
     "scene": "Korean summer egret colony shared with Great Egrets and Cattle Egrets; no people, buildings or text",
     "views": [
-      "adult, side view standing: all-white plumage, two long nape plumes, black bill, black legs, yellow feet",
-      "adult, foot detail: black legs with yellow feet"
-    ]
+      "adult breeding, side view standing: uniformly white plumage, two long narrow nape plumes, lacy back plumes past the tail, slender black bill, black legs, bright yellow feet",
+      "adult, foot detail in side view while wading: black tarsus and tibia, bright yellow toes contrasting sharply with the black leg"
+    ],
+    "build": "Slim, medium-sized white egret, about 60cm, clearly larger and slimmer than a Cattle Egret and much smaller than a Great Egret. Narrow head; long, thin neck held in an S. Bill black, slender and straight, about as long as the head or a little longer. Legs long and thin, black, with bright yellow feet that show clearly when the bird lifts a foot or flies. At rest the wingtips reach about the tail tip. In flight neck retracted and the yellow feet projecting beyond the tail. An active feeder, often dashing through shallows and stirring the water with one foot.",
+    "avoid": [
+      "Do not paint a yellow bill (Great, Medium or Cattle Egret); the bill is black.",
+      "Do not paint black feet; the toes are bright yellow.",
+      "Do not paint a shaggy crest of many plumes with an orange-yellow bill — that is Chinese Egret (Egretta eulophotes).",
+      "Do not paint orange-buff plumes or a short thick neck (Cattle Egret)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

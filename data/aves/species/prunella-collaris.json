@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Alpine Accentor (Prunella collaris), adult: ash-grey head and neck, grey-brown back with blackish-brown markings, brownish-grey breast, white belly heavily streaked rufous, dark chestnut undertail coverts with white fringes",
+    "subject": "Alpine Accentor (Prunella collaris), adult (sexes alike) in late autumn and winter: head and neck ash-grey; chin and throat whitish, finely barred black so they look chequered at close range; breast brownish ash-grey; mantle and back grey-brown with bold blackish-brown streaks; wing coverts blackish with neat white tips forming a row of white spots, flight feathers dark brown with rufous-buff edges; flanks and sides of the belly white, heavily streaked chestnut-rufous; undertail coverts dark chestnut with white fringes; tail dark brown with pale tips; bill blackish with a yellow base to the lower mandible; dark brown eye; reddish-brown legs.",
     "pose": "foraging on the ground among stones, side view",
     "scene": "Korean rocky mountain grassland with scattered boulders in late autumn; no people, buildings or text",
     "views": [
-      "adult, side view on a rock: ash-grey head and neck, grey-brown back marked blackish brown, brownish-grey breast, white belly streaked rufous",
-      "adult, view from below: dark chestnut undertail coverts with white fringes"
-    ]
+      "adult, side view on a rock: ash-grey head and neck, finely barred whitish throat, brownish-grey breast, grey-brown back streaked blackish, white-spotted black wing coverts, white flanks heavily streaked chestnut, reddish-brown legs",
+      "adult, low view from below and behind: dark chestnut undertail coverts with white fringes, chestnut-streaked white belly sides, dark tail with pale tips"
+    ],
+    "build": "Stocky, robust ground bird, 18cm, clearly larger and plumper than a sparrow. Low, horizontal stance, shuffling and hopping among rocks and short grass. Head rounded, neck short. Bill fine and pointed, shorter than the head, not finch-like. Legs short to medium, reddish-brown. Tail medium length and square. In flight the black-and-white spotted wing coverts and pale tail tips show.",
+    "avoid": [
+      "Do not paint a black crown and mask with an orange-buff supercilium — that is Siberian Accentor (Prunella montanella).",
+      "Do not give it a thick, conical finch bill; the bill is thin and pointed.",
+      "Do not paint plain, unstreaked flanks; they carry bold chestnut streaks.",
+      "Do not perch it high in trees; it feeds on the ground among rocks and stones."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

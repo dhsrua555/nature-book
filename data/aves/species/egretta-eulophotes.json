@@ -51,13 +51,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Egret (Egretta eulophotes), adult breeding: all-white plumage, long crest plumes on the head, plumes on the neck and back, yellow bill, black legs, yellow feet",
+    "subject": "Chinese Egret (Egretta eulophotes), adult in breeding plumage, as seen on Korean west-coast tidal flats from May to July: plumage entirely white; a bushy, shaggy crest of many long white plumes on the nape; long lacy plumes on the back reaching past the tail, and shorter plumes on the lower foreneck. Bill bright orange-yellow; bare lores bright blue; iris yellow; legs black, feet yellow to greenish-yellow.",
     "pose": "walking across a tidal mudflat, hunting fish and crabs",
     "scene": "Korean summer west-coast tidal flats at low tide near an estuary; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: all-white body, long head plumes, plumes on neck and back, yellow bill, black legs, yellow feet",
-      "adult non-breeding, side view standing: no plumes, blackish-brown bill, greenish-yellow legs"
-    ]
+      "adult breeding, side view standing: all-white body, bushy crest of many long nape plumes, plumes on the neck and back, orange-yellow bill, blue lores, black legs with yellow feet",
+      "adult non-breeding, side view standing: all white without plumes, blackish-brown bill with a paler yellowish base to the lower mandible, greenish-yellow legs"
+    ],
+    "build": "Medium-sized white egret, about 68cm, much smaller than a Great Egret and slightly bigger and heavier-billed than a Little Egret. Neck long and slender, held in an S-curve. Bill straight and pointed, about as long as the head, rather stout. Legs long; in the breeding season black with yellow feet, in winter greenish-yellow. Hunts actively on tidal mud, dashing and lurching with wings half-raised. At rest the wingtips reach about the tail tip. Tail short.",
+    "avoid": [
+      "Do not paint a black bill with only two thin nape plumes; that is Little Egret.",
+      "Do not omit the blue facial skin on the breeding bird.",
+      "Do not paint yellow legs on the breeding bird; the legs are black and only the feet are yellow.",
+      "Do not make it Great Egret-sized with a very long kinked neck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eastern Buzzard (Buteo japonicus), adult of the common pale form, as seen in Korean farmland in winter: head pale buff-white with fine dark streaks on the crown and a thin dark line behind the eye; upperparts warm dark brown with paler buff feather edges; throat and breast pale buff-white, lightly streaked; a large, solid dark brown patch on each side of the belly and flanks, the patches sometimes meeting across the lower belly; thighs dark brown. Tail pale grey-brown to buff, finely and faintly barred. Underwing whitish with a large dark carpal patch, blackish primary tips and a dusky trailing edge. Eye dark brown; cere yellow; bill dark grey with a black hooked tip; legs yellow, bare below the thighs.",
+    "pose": "perched upright on a bare branch at a field edge, body slightly hunched, scanning the ground below",
+    "scene": "Korean winter farmland: harvested rice paddies with pale stubble and dry earthen levees, a row of bare trees and low wooded hills, soft low winter light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-large, broad-winged buzzard, about the size of a Large-billed Crow but much bulkier; rounded head, short neck, compact body. Bill short and hooked, much smaller than an eagle's. Legs short and yellow, the tarsi unfeathered. Perches upright and slightly hunched on bare trees and embankments for long periods. At rest the wingtips reach nearly to the tail tip. Tail short and broad, fan-shaped when spread. Soars in wide circles on broad, rounded wings held in a shallow V, with five fingered primaries; sometimes hangs briefly into the wind.",
+    "avoid": [
+      "Do not paint a white tail with a broad black terminal band or feathered legs — that is Rough-legged Buzzard (Buteo lagopus).",
+      "Do not paint a large hooked eagle bill or a crest.",
+      "Do not paint densely barred underparts like a hawk; the pattern is dark flank patches on pale underparts.",
+      "Do not paint long narrow wings or a long tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

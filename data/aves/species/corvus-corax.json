@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Northern Raven (Corvus corax), adult (sexes alike): entire plumage black with a blue-purple gloss on the back and wings; long, shaggy, pointed throat feathers forming a beard; thick black nasal bristles covering the base of the bill. Massive black bill with a strongly arched upper ridge; dark brown eye; black legs and feet.",
+    "pose": "perched on a rocky outcrop, side view, throat feathers slightly fluffed",
+    "scene": "Korean mountain ridge in winter with bare rocks, snow patches and a wide grey sky; no people, buildings or text",
+    "views": [],
+    "build": "Largest crow, clearly bigger than the Large-billed Crow and about the size of a buzzard; heavy bill, flattish crown and thick neck with shaggy throat hackles that make the head look large. Bill very long and deep, curved along the top, ending in a hooked tip. Legs strong, black. In flight long, broad wings with well-separated primary fingers and a long, wedge-shaped (diamond) tail; often soars, tumbles and rolls in the air.",
+    "avoid": [
+      "Do not paint a rounded or square-ended tail; the Raven's tail is long and wedge-shaped (rounded tails mark the Large-billed and Carrion Crows).",
+      "Do not give it a smooth, tidy throat; the throat feathers are long and shaggy.",
+      "Do not paint a grey nape, white patches or a pale eye (jackdaws).",
+      "Do not paint a high, domed forehead like the Large-billed Crow; the Raven's crown is flatter."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

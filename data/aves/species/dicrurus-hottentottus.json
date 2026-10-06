@@ -40,13 +40,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Hair-crested Drongo (Dicrurus hottentottus), adult: metallic green-glossed plumage, deep purplish-indigo breast feathers, a few hair-like crest plumes trailing back from the forehead, long swallow-like forked tail with the broadened tips of the outer tail feathers curling outward",
+    "subject": "Hair-crested Drongo (Dicrurus hottentottus), adult, as seen in Korea on spring or autumn migration: entirely black with a strong metallic gloss; crown, neck and breast covered with small iridescent spangles that shine blue-green to deep purplish-indigo, densest on the breast; a few very fine, hair-like plumes rise from the forehead and trail back over the crown (thin and easily overlooked); back, wings and tail glossy black with a green-blue sheen; belly duller black. Bill black, long and heavy, gently arched; legs and feet black.",
     "pose": "perched on a tree branch, side view showing the long outward-curling tail",
     "scene": "trees at the edge of open ground and thick lowland shrubbery in Korea during migration; no people, buildings or text",
     "views": [
-      "adult, side view perched: metallic green gloss, purplish-indigo breast, hair-like plumes from the forehead, long forked tail",
-      "adult, tail detail from behind: broadened outer tail-feather tips curling outward"
-    ]
+      "adult, side view perched upright on a branch: glossy black body with a metallic green-blue sheen, iridescent blue-green and purplish-indigo spangles on crown, neck and breast, a few hair-like plumes trailing back from the forehead, long gently curved black bill, long tail with outward-curling outer tips",
+      "adult, tail seen from behind while perched: broad, nearly square-ended tail with only a shallow fork, the broadened tips of the outer feathers twisted upward and outward like a lyre"
+    ],
+    "build": "Large, heavy drongo; the book gives about 25 cm. Noticeably bulkier than Black Drongo, about the size of a Brown-eared Bulbul but stockier and broader-shouldered. Flat-crowned head with no proper crest, only the hair-like forehead plumes. Bill black, long for a drongo (close to the length of the head), deep at the base and gently curved down along the culmen. Legs short, black. Tail long and broad, almost square-ended or only shallowly forked, the broadened tips of the outer feathers twisted upward and outward so the tail looks lyre-shaped. Perches upright on open branches; flight heavy on broad wings.",
+    "avoid": [
+      "Do not paint a deep swallow-like fork; the tail is broad and almost square-ended, its outer tips curling upward and outward.",
+      "Do not give it a short bill or a white spot at the bill base; those belong to Black Drongo (Dicrurus macrocercus).",
+      "Do not draw a tall bushy crest; the forehead plumes are only a few fine hair-like filaments.",
+      "Do not make it grey (Ashy Drongo) or dull matte black; the plumage is strongly glossed with iridescent spangles."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -50,13 +50,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Reed Bunting (Emberiza schoeniclus), adult male: black head with conspicuous white on the cheeks, rufous-brown back with black streaks, white underparts, brown bill, iris and legs",
+    "subject": "Common Reed Bunting (Emberiza schoeniclus), adult male in winter, as seen in Korean reed beds from November to March: the black head largely veiled by brown and buff feather tips, so the crown and ear coverts look mottled brown and black, with a pale buff supercilium; white submoustachial stripe running back into a partly hidden whitish collar; chin and throat buff with black showing through as a mottled bib; mantle and scapulars rufous-brown boldly streaked black with buff edges; lesser coverts rufous-chestnut; rump greyish-brown; underparts whitish with fine brown streaks on the breast sides and flanks; tail blackish with white outer feathers. Bill small and conical, brown; iris brown; legs brown.",
     "pose": "perched on a reed stem, side view",
     "scene": "Korean winter: reed bed and damp grassy meadow at the water's edge; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black head with white cheeks, black-streaked rufous-brown back, white underparts, brown bill and legs",
-      "adult female, side view perched: paler than the male, brown head with white supercilium and submoustachial stripe"
-    ]
+      "adult male winter, side view perched on a reed stem: brown-veiled black head with buff supercilium, white submoustachial stripe, mottled black bib, rufous-brown back streaked black, rufous lesser coverts, whitish underparts, brown bill and legs",
+      "adult male breeding (from late March), side view perched: solid black head and throat, bold white submoustachial stripe joining a white nape collar, black-streaked rufous-brown back, white underparts",
+      "adult female winter, side view perched: brown crown and ear coverts, buffish-white supercilium, white submoustachial stripe edged by a black malar line, whitish throat, finely streaked breast sides, streaked rufous-brown back"
+    ],
+    "build": "Medium-sized bunting, 16cm, a little larger and longer-tailed than a sparrow. Rounded head without a crest. Bill small and conical with a slightly convex culmen, shorter than the head. Legs short, brown. Clings to and perches on reed stems, often flicking and half-spreading the tail. At rest the wingtips reach only the base of the tail. Tail rather long, slightly notched, blackish with white outer feathers that flash in flight.",
+    "avoid": [
+      "Do not paint a solid black head on the winter scene bird; in the Korean winter months the black is veiled by brown fringes.",
+      "Do not paint blue-grey lesser coverts or very pale sandy plumage; those mark Pallas's Reed Bunting.",
+      "Do not place the white on the cheeks; it is a stripe below the cheek (submoustachial) that joins the collar.",
+      "Do not add any yellow, and do not give it a crest."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Japanese Accentor (Prunella rubida), adult (sexes alike), a winter vagrant in Korean forest undergrowth: crown and nape warm dark brown; face, throat and breast slate-grey, the ear coverts brownish with fine pale flecks; mantle and scapulars rufous-brown with heavy blackish streaks; wings rufous-brown with dark centres to the coverts and tertials; flanks brown with dark streaks; belly paler grey; tail plain dark brown. Bill thin, pointed and blackish; eye dark; legs pinkish-brown.",
+    "pose": "creeping on leaf litter at the edge of a thicket, side view",
+    "scene": "leaf litter beneath dwarf bamboo and shrubs at the edge of a Korean mountain forest in winter (January), cold soft light; no people, buildings or text",
+    "views": [],
+    "build": "Small and sparrow-sized but slimmer, with a rounded head, short neck and low, horizontal posture; shuffles mouse-like on the ground under cover. Bill thin and pointed like a warbler's, much shorter than the head, not conical. Legs medium length, pinkish-brown. Wings short and rounded, the wingtips reaching just past the base of the tail. Tail medium length and square, plain dark brown with no white.",
+    "avoid": [
+      "Do not paint a thick, conical seed-eater bill; accentors have a thin, pointed bill.",
+      "Do not paint a bold buff supercilium or a black crown and ear patch — that is Siberian Accentor, the accentor usually seen in Korea.",
+      "Do not paint wing bars or white tail sides.",
+      "Do not paint a sparrow-like black bib."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

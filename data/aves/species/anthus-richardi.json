@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Richard's Pipit (Anthus richardi), adult: buff supercilium and ear coverts, buffy-white chin, throat and belly, buff breast and flanks with short, indistinct dark buff streaks on the malar region and breast, buff upperparts, dark brown wing feathers with dark buff edges, long shallowly notched tail, long legs, slender conical dark brown bill with a pale base to the lower mandible",
+    "subject": "Richard's Pipit (Anthus richardi), adult on spring or autumn passage: upperparts warm buff-brown with bold dark brown streaks on the crown and mantle; buff supercilium and pale lores; buff ear coverts framed by a thin dark eye-stripe and moustachial line; a dark malar stripe; chin, throat and belly buffy-white; breast and flanks warm buff, the breast crossed by short, rather indistinct dark streaks; wing feathers dark brown with buff edges; tail dark brown with white outer feathers; bill dark brown above with a pale base to the lower mandible; dark eye; long pale pinkish legs with a very long, straight hind claw.",
     "pose": "walking on the ground in short grass, searching for food",
     "scene": "Korean grassy meadow near a riverbank during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: buff supercilium, streaked buff breast, buff upperparts, long tail, long legs",
-      "adult, head detail: buff supercilium and ear coverts, slender conical bill with pale base to the lower mandible"
-    ]
+      "adult, side view standing upright in short grass: buff supercilium and ear coverts, streaked buff-brown upperparts, short indistinct streaks on the malar and buff breast, plain buff flanks, long shallowly notched tail, long pale legs with a long hind claw",
+      "adult, head close-up in profile: pale lores, buff supercilium and ear coverts, dark malar stripe, long slender conical bill with a pale base to the lower mandible"
+    ],
+    "build": "Large, long-legged pipit, about 18cm, larger than a sparrow and about the length of a starling but much slimmer; stands very upright, like a small thrush. Bill rather long and stout for a pipit, straight and slender-conical, about two-thirds of the head length. Legs long, pale pinkish, with a long straight hind claw. Tail long, shallowly notched, with white outer feathers. Walks and runs through grass; hovers briefly before landing.",
+    "avoid": [
+      "Do not paint a crouched horizontal stance or short legs; Richard's Pipit stands tall on long legs.",
+      "Do not paint a white spot on the rear ear coverts or a greenish back — that is Olive-backed Pipit (Anthus hodgsoni).",
+      "Do not paint heavy black streaks on the flanks; the flanks are plain warm buff.",
+      "Do not paint a thin warbler-like bill; it is relatively long and stout."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

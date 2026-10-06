@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Common Swift (Apus apus), adult of the eastern race pekinensis, in late spring: uniformly dark sooty brown, a little paler and browner than western birds, with a clear whitish throat patch that is larger in this race; wings blackish brown, the inner flight feathers slightly paler in good light; rump dark, the same colour as the back; underparts uniform dark brown with no pale scaling. Tiny black bill; dark eye; tiny feathered feet hidden in flight.",
+    "pose": "in fast flight high over a ridge, wings swept back like a sickle, seen from slightly below",
+    "scene": "Korean coastal hills under a wide late-spring sky in May; no people, buildings or text",
+    "views": [],
+    "build": "Swift a little larger than a Barn Swallow but with much longer wings; about the size of the Pacific Swift, with a shorter, less deeply forked tail. Slim, torpedo-shaped body, short broad head with no visible neck, tiny bill with a wide gape. Wings very long, narrow and scythe-shaped, swept back from a short arm. Tail of medium length with a shallow fork, often closed to a point. Legs tiny and almost never seen; it never perches on wires or twigs. Flight fast, with flickering wingbeats and long glides.",
+    "avoid": [
+      "Do not paint a white rump band or pale scaling on the underparts; these mark the Pacific Swift (Apus pacificus), the common swift in Korea.",
+      "Do not paint it like a swallow: no white or orange underparts, no long tail streamers, no perching on a wire.",
+      "Do not give it a deeply forked tail; the fork is shallow.",
+      "Do not show visible legs or a large bill."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

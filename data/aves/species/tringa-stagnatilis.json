@@ -37,13 +37,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Marsh Sandpiper (Tringa stagnatilis), adult: dark grey back with black streaks and bars on each feather, white underparts, dark brown or black bill",
+    "subject": "Marsh Sandpiper (Tringa stagnatilis), adult in breeding plumage, as seen on Korean coastal marshes in April-May: whitish face with fine dark streaks on the crown, hindneck and ear coverts; mantle, scapulars and tertials grey to grey-brown with bold black centres, bars and chevrons and pale edges; foreneck and breast white with fine dark streaks and spots, a few dark chevrons on the flanks; belly and undertail white; fine, needle-like black bill; dark eye; long slender greenish to yellowish-green legs.",
     "pose": "wading in shallow water, picking aquatic insects from the surface",
     "scene": "Korean coastal marsh and lakeside wetland during spring migration; no people, buildings or text",
     "views": [
-      "adult, side view standing: dark grey back with black streaks and bars, white underparts, dark bill",
-      "upperparts detail: black streaks and bars on each dark grey feather"
-    ]
+      "adult breeding, side view wading in shallow water: small rounded head, needle-thin straight black bill, grey back feathers with black centres and bars, white underparts with fine streaks on the breast, very long greenish-yellow legs",
+      "upperparts detail, side view of the folded wing and back: each grey mantle, scapular and tertial feather with black streaks, bars and chevrons and a pale edge",
+      "adult in flight, seen from above, head, body and tail in line: dark wings without a wing-bar, white wedge up the back, feet projecting well beyond the tail"
+    ],
+    "build": "Small, slim, elegant Tringa sandpiper, 25cm long but with a small body about the size of a Common Starling's, set on very long thin legs; long slender neck and small rounded head. Bill black, straight, needle-thin from base to tip, longer than the head. Legs very long, greenish to yellowish-green, with much bare tibia. At rest the wingtips reach about the tail tip or slightly beyond. In flight dark wings without a wing-bar, a long white wedge from the rump up the back, a pale finely barred tail, and the feet trailing well beyond the tail tip.",
+    "avoid": [
+      "Do not paint a thick bill with a grey base and upturned tip - that is Common Greenshank (Tringa nebularia), which is also much bigger; this bill is needle-thin and straight.",
+      "Do not paint short legs, or orange or red legs.",
+      "Do not give it a white wing-bar or a dark rump.",
+      "Do not make the body heavy or the neck short."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

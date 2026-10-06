@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Lesser Coucal (Centropus bengalensis), adult in breeding plumage: head, neck, underparts and tail black with a dull gloss; wings chestnut, the flight feathers tipped dusky; pale buff shaft streaks often visible on the scapulars and wing coverts; tail long and broad, black. Bill black, thick and arched; eye dark; legs dark grey, with a long straight hind claw.",
+    "pose": "clambering in tall grass with the tail half-cocked, side view",
+    "scene": "Tall grass and reed edge on a southern Korean island in late spring, warm light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, slim-bodied ground cuckoo, clearly smaller than Greater Coucal and about the length of a Feral Pigeon including the long tail; short rounded wings and a long, broad, graduated tail often held half-cocked. Bill stout, arched, shorter than the head. Legs long and strong for a cuckoo, with two toes forward and two back. Skulks and clambers in tall grass; flight short, heavy and floppy.",
+    "avoid": [
+      "Do not paint a bright red iris (Greater Coucal, Centropus sinensis).",
+      "Do not paint a short tail; it is long, broad and graduated.",
+      "Do not give the adult a slim, straight bill; the bill is thick and arched.",
+      "Do not paint chestnut on the head or underparts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

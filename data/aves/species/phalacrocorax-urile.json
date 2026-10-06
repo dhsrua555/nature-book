@@ -40,13 +40,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-faced Cormorant (Phalacrocorax urile), adult: glossy blue-green plumage overall, bright red face around the eyes and at the base of the bill, pale bill, two crests on the head",
+    "subject": "Red-faced Cormorant (Phalacrocorax urile), adult in breeding plumage (late winter to summer): plumage black with a strong iridescent sheen, green to violet on the head and neck and bronzy purple on the back and wings; two short shaggy crests, one on the forehead and one on the nape; a white patch on each flank. Extensive bright red bare skin covering the face around the eye and onto the forehead and the base of the bill; long pale yellowish bill; black legs and webbed feet.",
     "pose": "standing on a ledge of a sea cliff",
     "scene": "rocky sea cliff ledges above the open sea; no people, buildings or text",
     "views": [
-      "adult, side view perched: glossy blue-green plumage, bright red face, pale bill, two head crests",
-      "adult, head detail: red bare face around the eye and bill base, pale bill, two crests"
-    ]
+      "adult breeding, side view standing on a ledge: glossy dark green-violet and bronze plumage, forehead and nape crests, white flank patch, bright red face, pale yellowish bill, black feet",
+      "adult, head detail: bare red skin covering the forehead, lores and the area around the eye, two crests, long pale bill"
+    ],
+    "build": "Large cormorant, 71–76cm, a little smaller and slimmer than the Great Cormorant and larger than the Pelagic Cormorant; long slender neck, small head and long body held upright when standing. Bill long and straight, hooked at the tip, thicker than the Pelagic Cormorant's. Legs short, black, set far back, with all four toes webbed. Tail fairly long and stiff. Flies with the neck outstretched and the long tail trailing.",
+    "avoid": [
+      "Do not paint a thin dark bill and only a small red patch at the gape; those mark the Pelagic Cormorant (Phalacrocorax pelagicus).",
+      "Do not give it white cheeks, a yellow throat patch or a white throat (Great and Japanese Cormorants).",
+      "Do not show the red face as a hanging wattle; it is flat bare skin."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Aleutian Tern (Onychoprion aleuticus), adult in breeding plumage, as seen at sea off Korea on spring passage in May: black crown and nape with a sharply defined white forehead reaching back to just above the eye; a black line from the bill to the eye; white cheeks and throat; upperparts and wings medium grey; breast and belly grey, contrasting with the white cheeks; rump and deeply forked tail white, contrasting with the grey back. Bill black; dark eye; short black legs.",
+    "pose": "flying low and buoyantly over the sea, head angled down looking for small fish",
+    "scene": "open sea off the Korean south coast in May, calm blue-grey water under a bright sky; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized, slender tern, about the size of a Common Tern, with long, narrow, pointed wings and a deeply forked tail with long outer streamers. Bill black, slim, straight and pointed, about as long as the head. Legs very short, black. In flight the underwing shows a dark bar along the trailing edge of the secondaries and dark tips to the outer primaries; flight buoyant and low over the sea.",
+    "avoid": [
+      "Do not paint the black cap reaching the bill; the forehead is white.",
+      "Do not paint a red or orange bill or legs (Common Tern); both are black.",
+      "Do not paint white underparts; the breast and belly are grey, contrasting with the white cheeks.",
+      "Do not paint a grey rump and tail; they are white.",
+      "Do not paint dark brown or blackish upperparts (Bridled Tern, Sooty Tern)."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

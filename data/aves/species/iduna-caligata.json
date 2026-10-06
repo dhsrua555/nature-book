@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Booted Warbler (Iduna caligata), adult (sexes alike) in autumn: upperparts plain pale greyish-brown with a sandy tinge; a short whitish supercilium reaching a little behind the eye, often with a faint darker line above its front part; thin dusky eye-stripe; underparts whitish with a buff wash on the breast sides and flanks; wings plain brown with pale edges to the tertials; tail plain brown, the outer feathers edged whitish; short fine bill, dark above, the lower mandible pale with a dusky tip; dark eye; pale pinkish-grey legs.",
+    "pose": "perched in a low shrub, side view",
+    "scene": "low shrubs and weedy field edge on a Korean offshore island during autumn migration in September; no people, buildings or text",
+    "views": [],
+    "build": "A small, plain warbler, smaller than a sparrow, with a rounded head and a rather short, square-ended tail, looking between a leaf warbler and a reed warbler in shape. Bill short and fine, much shorter than the head. Legs medium, pale. Short primary projection; the wingtips reach only a short way past the tail base. Active in bushes, often flicking or dipping the tail.",
+    "avoid": [
+      "Do not paint a rufous rump or warm brown upperparts (Paddyfield Warbler).",
+      "Do not paint a long reed-warbler bill or a large body.",
+      "Do not add wing-bars or a crown stripe.",
+      "Do not paint yellow or green tones; the plumage is greyish-brown and whitish."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

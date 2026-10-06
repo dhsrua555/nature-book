@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Painted-snipe (Rostratula benghalensis), adult female: brown head with a broad white central crown stripe from forehead to hindcrown, bold white crescent-shaped mark around the eye, chestnut neck and upper breast, white throat and underparts, greenish-brown back with bold black chequering and streaks, long reddish bill with green base, green legs",
-    "pose": "standing, side view",
-    "scene": "TODO",
+    "subject": "Greater Painted-snipe (Rostratula benghalensis), adult female in the breeding season, as seen in Korean rice paddies from May to August: head, neck and upper breast deep chestnut-maroon, darker on the face; crown dark with a pale buff to whitish central stripe from the forehead to the hindcrown; a bold white patch around the eye extending back as a short white tear-shaped stripe; a blackish band at the lower edge of the breast; underparts white, the white continuing up as a narrow strap around the bend of the folded wing onto the mantle; back and wings bronzy olive-green finely barred and chequered black, with buff stripes along the mantle. Long reddish bill, greenish at the base, slightly drooping at the tip; dark eye; greenish legs.",
+    "pose": "standing still at the muddy edge of a weedy paddy at dusk, side view",
+    "scene": "Korean summer lowland: fallow and newly planted rice paddies with muddy edges, rank grass and rushes, evening light; no people, buildings or text",
     "views": [
-      "adult female, side view standing: brown head with white crown stripe, white crescent around the eye, chestnut neck and upper breast, white underparts, greenish-brown back chequered black, long red bill, green legs",
-      "adult male, side view standing: smaller and duller than the female, grey streaks on neck and upper breast, greenish-brown back chequered black"
-    ]
+      "adult female, side view standing at a paddy edge: deep chestnut head and neck with a pale crown stripe and bold white eye patch, blackish breast band, white underparts with a white strap around the shoulder, bronzy-green back chequered black, long reddish bill with greenish base, greenish legs",
+      "adult male, side view standing: smaller and duller, grey-brown head, neck and upper breast with grey streaks, buff crown stripe and buff eye patch, wing coverts with large golden-buff spots, white underparts and shoulder strap, greenish legs"
+    ],
+    "build": "Snipe-like but chunkier wader, about 23.5cm long, larger than a starling; female larger and brighter than the male. Rounded head, short neck, plump body. Bill clearly longer than the head, fairly stout, straight and drooping slightly at the tip. Legs medium length, greenish, with long toes. Short rounded tail; broad rounded wings; flight slow and rail-like with legs dangling. Mostly active at dusk, standing still at muddy edges.",
+    "avoid": [
+      "Do not paint a long, straight snipe bill with a striped snipe head — that is Common Snipe; this bird has a drooping-tipped reddish bill and a white eye patch.",
+      "Do not make the male brighter than the female; the female has the chestnut neck.",
+      "Do not paint a plain brown back; the back is olive-green with fine black chequering and buff stripes.",
+      "Do not omit the white strap curving up around the bend of the wing."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

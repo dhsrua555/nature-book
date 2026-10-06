@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Mongolian Lark (Melanocorypha mongolica), adult (sexes similar, female duller with smaller breast patches), as seen in Korea in late autumn: crown chestnut, often with a paler buff centre; broad whitish supercilium; chestnut nape; throat white; a large black patch on each side of the upper breast, sometimes nearly joining into a band; mantle and scapulars warm brown with dark streaks and buff fringes; lesser and median wing coverts chestnut; secondaries largely white, showing as a white panel on the folded wing; breast and belly white with a rufous-buff wash on the flanks; tail dark brown with white outer feathers; heavy pale yellowish-horn bill; dark eye; pinkish-brown legs.",
+    "pose": "standing upright on bare ground among dry stubble, side view",
+    "scene": "dry harvested farmland with stubble and bare earth in Korea in late autumn, clear cold light; no people, buildings or text",
+    "views": [],
+    "build": "A large, heavy-bodied lark, clearly larger and bulkier than a Eurasian Skylark and close to a White-cheeked Starling in size, with a big head and no crest. Bill thick, deep-based and conical, almost finch-like, shorter than the head. Legs medium, pinkish-brown; walks on the ground with a fairly upright stance. Tail rather short and square. In flight the broad wings show white secondaries forming a broad white trailing edge to the inner wing, contrasting with chestnut coverts and dark primaries; the tail shows white outer feathers.",
+    "avoid": [
+      "Do not paint a slim, crested, streaky-breasted lark (Eurasian Skylark); this species is bulky, crestless and unstreaked white below.",
+      "Do not omit the large black patches on the sides of the breast or the chestnut crown and nape.",
+      "Do not make the bill thin or dark; it is thick, conical and pale.",
+      "Do not paint all-brown wings; the secondaries are mostly white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

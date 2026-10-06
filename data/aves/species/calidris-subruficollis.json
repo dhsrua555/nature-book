@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Buff-breasted Sandpiper (Calidris subruficollis), adult: blackish-brown upperparts with white-tipped feathers, buff face and belly, short straight bill, yellow legs",
+    "subject": "Buff-breasted Sandpiper (Calidris subruficollis), juvenile in its first autumn, as a vagrant in September: crown buff with fine dark streaks; face plain warm buff with a large dark eye set in a thin whitish eye-ring; neck and breast warm buff, the breast sides marked with small dark spots; mantle, scapulars, tertials and wing coverts blackish-brown with neat pale buff-white fringes, giving a crisp scaly pattern; belly buff, fading to whitish on the vent. Bill short, thin, straight and black. Legs bright ochre-yellow.",
     "pose": "walking in short grass, side view",
-    "scene": "Korean short-grass field beside an inland pond; no people, buildings or text",
+    "scene": "Short-grass field beside an inland pond in Korea in September, autumn migration, warm low light; no people, buildings or text",
     "views": [
-      "adult, side view standing: blackish-brown upperparts with white feather tips, buff face and belly, yellow legs",
-      "adult, head detail: buff face, short straight bill"
-    ]
+      "juvenile (autumn), side view standing upright in short grass: plain buff face, short straight black bill, blackish-brown upperparts neatly scaled with pale buff-white feather tips, buff breast with small dark spots on the sides, buff belly, bright yellow legs",
+      "juvenile, head detail in side view: plain buff face, large dark eye in a thin pale eye-ring, finely streaked buff crown, short, thin, straight black bill"
+    ],
+    "build": "Slim, small-headed sandpiper, 20cm, clearly larger than a sparrow and about the size of a Dunlin but longer-necked; round dove-like head and upright, plover-like stance, walking with high steps through short grass. Bill black, shorter than the head, thin and straight. Legs medium length, bright yellow. At rest the wingtips reach about the tail tip. In flight the upperwing is plain with no white wing-bar, the rump and tail are dark without white sides, and the white underwing shows a dark crescent across the primary coverts.",
+    "avoid": [
+      "Do not paint a long or drooping bill; the bill is short, thin and shorter than the head.",
+      "Do not give it a white wing-bar or white oval patches at the sides of the tail base; those mark Ruff (Calidris pugnax).",
+      "Do not paint a streaked breast band ending sharply on a white belly (Pectoral Sandpiper); this bird is buff from face to belly.",
+      "Do not paint grey, greenish or black legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

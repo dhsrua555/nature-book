@@ -56,14 +56,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage: bluish-black body, blackish-brown wings and tail, yellow bill with a red frontal shield running from the forehead onto the crown, reddish-brown eye, pale green legs",
+    "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage, as seen in Korean rice paddies from June to August: head, neck and underparts sooty slate-black with a bluish tinge; upperparts and wings blackish-brown with paler grey-brown feather edges giving a faintly scaly look; undertail coverts barred buff; a bright red frontal shield extending up the forehead into a raised horn-like knob above the crown; bill red at the base and yellow towards the tip; reddish-brown eye; legs red.",
     "pose": "walking along a rice-paddy levee in early morning light",
     "scene": "Korean summer rice paddies with growing rice, grassy levees and a bushy hillside nearby; no people, buildings or text",
     "views": [
-      "adult male breeding, side view walking: bluish-black body, blackish-brown wings and tail, yellow bill with red frontal shield, pale green legs",
-      "adult female, side view: yellowish-brown body with dark brown spots on the back and wings, pale green legs, reddish-brown eye",
-      "adult male non-breeding, head detail: female-like plumage with a thicker yellow bill"
-    ]
+      "adult male breeding, side view walking on a paddy levee: sooty bluish-black body, blackish-brown wings with pale edges, red frontal shield rising into a horn above the crown, red-based yellow bill, reddish-brown eye, red legs",
+      "adult female, side view: buff-brown body, crown and upperparts with dark brown feather centres giving a spotted, scaly pattern, paler buff underparts with fine wavy brown bars, yellowish bill, reddish-brown eye, pale green legs",
+      "adult male non-breeding, head detail: female-like buff-brown head with dark-centred crown feathers, no red shield, a thicker, larger yellow bill than the female's"
+    ],
+    "build": "Large, upright, chicken-like rail; males about 40cm, clearly bigger than Common Moorhen, females smaller (33cm). Small head on a fairly long neck, plump body. Bill stout, a little shorter than the head, deep at the base and pointed, joined to the frontal shield. Legs long and strong with long toes. Short tail, often flicked. Walks with deliberate steps and a nodding head; flies low with legs dangling.",
+    "avoid": [
+      "Do not paint a white flank line or white undertail sides — that is Common Moorhen (Gallinula chloropus).",
+      "Do not paint a flat frontal shield on the breeding male; it rises into a horn-like knob above the crown.",
+      "Do not show the red shield on the female or the non-breeding male.",
+      "Do not paint a slender, long rail bill; the bill is short and stout."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

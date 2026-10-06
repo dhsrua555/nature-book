@@ -42,13 +42,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Glaucous-winged Gull (Larus glaucescens), adult: white plumage with pale slaty grey, pale grey wings with a small white area, large heavy yellow bill with a red spot, purplish-pink skin around the eye",
+    "subject": "Glaucous-winged Gull (Larus glaucescens), adult in winter plumage, as seen on Korean coasts from December to March: head and neck white with diffuse grey-brown smudging, heaviest on the hindneck; mantle and upperwing pale grey; primaries the same pale grey as the mantle or slightly darker, with white tips and small white mirrors and no black anywhere on the wingtip; underparts and tail white. Bill large, deep and yellow with a red spot near the tip of the lower mandible; iris dark brown; orbital ring purplish-pink; legs deep pink.",
     "pose": "standing on a shoreline rock, side view",
-    "scene": "Korean coastal bay with a rocky shore and tidal flat at a river mouth; no people, buildings or text",
+    "scene": "Korean coastal bay in winter with a rocky shore and a tidal flat at a river mouth, cold grey light; no people, buildings or text",
     "views": [
-      "adult, side view standing: white and pale grey plumage, pale grey wings, heavy yellow bill with red spot",
-      "adult, head detail: purplish-pink skin around the eye, yellow bill with red spot"
-    ]
+      "adult winter, side view standing: pale grey mantle and folded wings with grey, not black, primaries tipped white, grey-brown smudged head and hindneck, white body, heavy yellow bill with red spot, pink legs",
+      "adult, head detail in side view: dark brown iris, purplish-pink orbital ring, deep yellow bill with a red spot near the tip of the lower mandible",
+      "adult in flight, seen from above: uniform pale grey wings, outer primaries grey with white tips and mirrors and no black, white tail"
+    ],
+    "build": "Large, heavy gull, 60–68cm, bigger and bulkier than a Black-tailed Gull and about the size of a Vega Gull, with a rounded head, thick neck and deep chest. Bill heavy and deep with a pronounced angle on the lower mandible. Legs fairly short, pink. At rest the wingtips project only a short distance beyond the tail. In flight broad, rounded wings, pale grey above, the outer primaries grey with white tips, so the wingtip looks only slightly darker than the rest of the wing.",
+    "avoid": [
+      "Do not paint black wingtips; that is Vega Gull or Slaty-backed Gull. The Glaucous-winged Gull's primaries are grey like the mantle.",
+      "Do not paint pure white primaries and a pale yellow iris; that is Glaucous Gull (Larus hyperboreus).",
+      "Do not paint a pale yellow eye; the iris is dark brown.",
+      "Do not paint yellow legs; they are pink.",
+      "Do not paint a dark slate-grey mantle (Slaty-backed Gull)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

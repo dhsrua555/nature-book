@@ -63,13 +63,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Russet Sparrow (Passer cinnamomeus), adult male: rich chestnut upperparts with black streaks, whitish-buff underparts, white cheeks",
+    "subject": "Russet Sparrow (Passer cinnamomeus), adult male in breeding plumage (spring and summer): crown, nape, mantle and back rich chestnut, the mantle streaked black; a narrow black line from the bill to the eye; cheeks and ear coverts plain whitish, without any dark spot; a small black bib on the chin and upper throat; underparts whitish-buff, washed pale grey on the breast and flanks; wing coverts chestnut with a bold white wing bar, flight feathers dark brown with buff edges; tail brown; bill black; dark eye; pinkish-brown legs.",
     "pose": "perched at the entrance of a tree cavity, side view",
     "scene": "Tall broadleaf trees with nest holes near farmland on Ulleungdo island, Korea; no people, buildings or text",
     "views": [
-      "adult male, side view perched: chestnut upperparts streaked black, white cheeks, whitish-buff underparts",
-      "adult female, side view perched: brown upperparts, greyish-white supercilium"
-    ]
+      "adult male breeding, side view perched: rich chestnut crown, nape and back with black streaks on the mantle, plain whitish cheeks, small black bib, whitish-buff underparts, white wing bar, black bill",
+      "adult male winter, side view perched: same pattern, but the chestnut crown and nape partly veiled by pale greyish-brown feather tips, forming a whitish grey-brown band on the hindcrown",
+      "adult female, side view perched: brown upperparts streaked darker, broad greyish-white supercilium behind the eye, dark brown eye-stripe, pale buff underparts, pale horn bill"
+    ],
+    "build": "Small sparrow, 13cm, slightly smaller and slimmer than Eurasian Tree Sparrow (Passer montanus), with a rounded head and short neck. Bill short, stout and conical, shorter than the head. Legs short, pinkish-brown. Tail medium length, slightly notched. Perches on branches near tree holes and hops on the ground. A bold white wing bar shows on the folded wing.",
+    "avoid": [
+      "Do not paint a black spot on the white cheek — that is Eurasian Tree Sparrow (Passer montanus); the Russet Sparrow's cheek is plain.",
+      "Do not paint a large black bib spreading onto the breast; the male's bib is small and limited to the chin and upper throat.",
+      "Do not paint a dull brown crown with a grey centre; the male's crown, nape and back are uniformly chestnut.",
+      "Do not give the female a bib or cheek spot; she is plain brown with a pale supercilium."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

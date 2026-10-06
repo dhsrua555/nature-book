@@ -41,13 +41,22 @@
     }
   ],
   "art": {
-    "subject": "Japanese Grosbeak (Eophona personata), adult: very large, deep bill with a curved culmen, plain grey back, rather narrow white wing patch",
+    "subject": "Japanese Grosbeak (Eophona personata), adult (sexes alike): glossy blue-black on the forehead, front of the crown, lores, around the eye and on the chin, forming a small black mask; rest of the head, neck, back and underparts plain ash-grey, the back slightly darker grey, the belly and undertail coverts paler whitish-grey; wings glossy black with a small, rather narrow white patch across the middle of the primaries; tail black, notched; huge, deep bill bright waxy yellow throughout, without a dark tip; dark eye; pinkish legs.",
     "pose": "perched in an old riverside tree, side view",
     "scene": "Korean summer riverside woodland with old, large trees; no people, buildings or text",
     "views": [
-      "adult, side view perched: very large deep bill with curved culmen, plain grey back, narrow white wing patch",
-      "adult in flight: heavy, direct flight showing the white wing patch"
-    ]
+      "adult, side view perched: huge deep yellow bill with a curved culmen, small glossy black mask on the forehead and face, plain grey back and body, black wings with a narrow white patch in the middle of the primaries, black notched tail",
+      "adult in flight, seen from below: black wings each with a white patch across the middle of the primaries, grey body, black notched tail, heavy yellow bill; head, body and tail in a straight line"
+    ],
+    "build": "Large, heavy finch, about 23cm, nearly the length of a starling and clearly larger and bulkier than Hawfinch (Coccothraustes coccothraustes). Large rounded head and thick neck. Bill massive, deep and conical, almost as long as the head, with a curved culmen. Legs short, pinkish. Tail medium length, notched. Flight heavy, strong and direct, the white primary patch showing as a white spot in the middle of the dark wing.",
+    "avoid": [
+      "Do not paint a black tip to the bill, a large black hood or orange-buff flanks — those are Chinese Grosbeak (Eophona migratoria).",
+      "Do not paint a brown head and back or a pale wing bar on the coverts — that is Hawfinch (Coccothraustes coccothraustes).",
+      "Do not paint white tips on the tertials or primaries; the white is a patch in the middle of the primaries.",
+      "Do not make the bill pink, grey or horn-coloured; it is bright yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Orange-headed Thrush (Geokichla citrina), adult male in spring: head, nape, throat, breast and belly plain bright orange, the colour meeting the blue-grey of the mantle cleanly on the lower nape; vent and undertail coverts white; back, rump, wing coverts and tail uniform blue-grey, the flight feathers darker grey; a narrow white bar on the median coverts; dark bill; dark eye; pinkish legs.",
+    "pose": "standing on leaf litter on the forest floor, side view",
+    "scene": "shaded broadleaf forest floor on a Korean offshore island in May, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "A medium-sized, plump ground thrush, slightly smaller than a Dusky Thrush, with a large rounded head, a short tail and fairly long legs. Bill straight, slightly shorter than the head. Legs pinkish. Tail short and square. Shy, hopping and feeding on the shaded forest floor.",
+    "avoid": [
+      "Do not paint the head black or the breast spotted; the head and underparts are plain orange.",
+      "Do not paint brown upperparts on the male; they are blue-grey (females are olive-brown above).",
+      "Do not paint the vent orange; it is white."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

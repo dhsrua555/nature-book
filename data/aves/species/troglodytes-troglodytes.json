@@ -55,13 +55,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Wren (Troglodytes troglodytes), adult: rufous-brown overall with mottled markings, short pointed bill, short tail",
+    "subject": "Eurasian Wren (Troglodytes troglodytes), adult (sexes alike), as seen in Korea along forest streams and edges: upperparts warm rufous-brown, finely barred darker on the wings and tail, with a row of small pale spots on the wing coverts; faint narrow buff supercilium; underparts paler buff-brown, finely barred dark on the flanks, belly and undertail coverts. Bill thin, pointed, slightly decurved, dark with a paler base. Dark eye. Pinkish-brown legs.",
     "pose": "hopping over a rock beside a mountain stream, searching for insects",
     "scene": "Korean forest edge beside a rocky mountain stream with shrubs and a low cliff; no people, buildings or text",
     "views": [
-      "adult, side view perched on a rock: mottled rufous-brown plumage, short pointed bill, short tail",
-      "adult, rear three-quarter view: mottled rufous-brown back and short tail"
-    ]
+      "adult, side view perched on a rock with tail cocked: rufous-brown plumage finely barred on wings, tail and flanks, faint pale supercilium, short thin pointed bill, short upright tail",
+      "adult, rear three-quarter view on a rock: barred rufous-brown back and wings, very short cocked tail, round body"
+    ],
+    "build": "Tiny, round, dumpy bird, about 10cm, smaller than a sparrow; big-headed and short-necked. Bill thin, shorter than the head, slightly down-curved. Legs sturdy and fairly long for its size, pinkish-brown. Wings short and rounded. Tail very short, finely barred, usually cocked straight up. Moves like a mouse among rocks, roots and tangles, often bobbing.",
+    "avoid": [
+      "Do not paint a long tail held level; the tail is very short and usually cocked.",
+      "Do not paint streaks or spots on the breast like a sparrow; the markings are fine bars.",
+      "Do not paint a thick finch-like bill.",
+      "Do not paint grey or olive tones; the bird is warm rufous-brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

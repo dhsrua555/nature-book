@@ -51,13 +51,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Spoonbill (Platalea leucorodia), adult non-breeding: all-white plumage, bare skin around the eye, on the chin and centre of the throat, flat spoon-shaped bill with a yellow tip, black legs",
+    "subject": "Eurasian Spoonbill (Platalea leucorodia), adult in winter (non-breeding) plumage, as seen on Korean estuaries from November to March: plumage entirely white, with no long crest and no buff breast band; white feathering covers the forehead and lores up to the bill base, apart from a narrow black line from the eye to the gape; a small patch of bare yellowish skin on the chin and centre of the throat. Bill long, flat and spatulate, black with fine wavy cross-ridges and a yellow tip to the spoon; iris red; legs and feet black.",
     "pose": "wading in shallow estuary water, side view",
     "scene": "Korean winter estuary on the southwest coast: mudflats and shallow channels with reed edges; no people, buildings or text",
     "views": [
-      "adult non-breeding, side view wading: all-white body, yellow-tipped spoon bill, black legs",
-      "adult breeding, side view standing: long yellow nape plumes, yellowish-brown collar on the lower neck, yellow-tipped spoon bill"
-    ]
+      "adult non-breeding, side view wading: all-white body, long flat black spoon-shaped bill with a yellow tip, white-feathered face with a thin black eye-to-bill line, black legs",
+      "adult breeding (spring), side view standing: long yellowish nape plumes, yellow-brown band across the lower neck, yellow-orange bare chin and throat, yellow-tipped black spoon bill",
+      "adult, flight side view: neck stretched straight forward, legs trailing, all-white wings, spoon bill"
+    ],
+    "build": "Large white wading bird, about 86cm, a little smaller than a Grey Heron, with a long neck and long legs. Bill much longer than the head, straight and flattened, widening at the end into a broad rounded spoon. Legs long and black, the lower thigh bare. Wades in shallow water sweeping the bill from side to side. At rest the wingtips reach about the tail tip. Tail short and square. Flies with the neck stretched straight out and the legs trailing; adult wings all white, immatures with black wingtips.",
+    "avoid": [
+      "Do not paint black bare skin around the eye joining the bill or an all-black bill; that is Black-faced Spoonbill (Platalea minor).",
+      "Do not show the breeding crest or the yellow neck band on the winter scene bird.",
+      "Do not draw it flying with a folded S-shaped neck like a heron.",
+      "Do not paint pink or red legs; they are black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

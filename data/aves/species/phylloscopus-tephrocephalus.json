@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Grey-crowned Warbler (Phylloscopus tephrocephalus), adult (sexes alike, plumage similar year-round): crown and nape grey, bordered on each side by a black lateral crown stripe running from the forehead to the nape; a complete, bright golden-yellow eye-ring; cheeks yellowish-green; upperparts bright olive-green; wings and tail olive-green with darker centres, usually without a wing-bar; entire underparts bright yellow; outer tail feathers with white on the inner webs; bill with dark upper mandible and pale orange-yellow lower mandible; dark eye; pale yellowish-pink legs.",
+    "pose": "perched on a thin twig in the mid-canopy, side view, alert",
+    "scene": "deciduous woodland on a Korean offshore island in May with fresh green leaves and dappled light; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact, round-headed warbler, smaller than a sparrow and about the size of a Japanese White-eye, with a fairly broad, flat-based bill and noticeable bristles at the gape. Bill shorter than the head. Legs slender and pale. Wings short and rounded. Tail medium and square-ended, often flicked open to show white in the outer feathers. Very active, making short sallies for insects in the lower and middle canopy.",
+    "avoid": [
+      "Do not paint a green crown centre; that is Green-crowned Warbler (Phylloscopus burkii).",
+      "Do not paint obvious pale wing-bars (Bianchi's or Martens's Warbler).",
+      "Do not break the eye-ring; it is a complete yellow ring.",
+      "Do not add a supercilium or a dark eye-stripe; the face shows only the yellow eye-ring below the black crown stripes."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Yellow-bellied Tit (Pardaliparus venustulus), adult male, as seen in Korean woodland and parks in winter and spring: head and a large bib on the chin and throat glossy blue-black; a clean white cheek patch and a white spot on the nape; mantle and back dark grey to blackish; wings blackish with two rows of creamy-white spots on the coverts forming two wing-bars, creamy tips to the tertials and greenish edges to the flight feathers; breast, belly and flanks bright yellow, washed olive on the flanks; short blackish tail; short, sharp, conical black bill; dark eye; grey legs.",
+    "pose": "hanging below a thin twig, picking at buds, side view",
+    "scene": "Korean deciduous woodland edge in early spring, bare twigs with swelling buds and soft light; no people, buildings or text",
+    "views": [],
+    "build": "Very small, compact tit, smaller than a sparrow and about the size of a Coal Tit; large rounded head without a crest, plump body and short tail. Bill short, sharp and conical, much shorter than the head. Legs short and grey. Wings short and rounded. Very active, hanging upside down from twigs and joining mixed tit flocks. The female has the same pattern, but dark olive-green replaces the black and dark grey, and its throat is white.",
+    "avoid": [
+      "Do not paint a black stripe down the centre of a white belly - that is Japanese Tit (Parus minor).",
+      "Do not paint buff-white underparts and a short crest - that is Coal Tit (Periparus ater).",
+      "Do not paint a blue cap or blue wings like a blue tit.",
+      "Do not give it a long tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

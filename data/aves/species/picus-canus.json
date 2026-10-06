@@ -72,13 +72,22 @@
     }
   ],
   "art": {
-    "subject": "Grey-headed Woodpecker (Picus canus jessoensis), adult male: plain grey face, nape and neck with a glossy red patch on the forecrown; a narrow black line through the lores and a thin black moustachial stripe; usually some fine black streaks on the grey hindcrown; grey of the nape blending into olive-green back, scapulars and wing coverts (East Asian birds slightly greyer and less green than European ones); yellowish-green uppertail coverts with golden-tinged tips; flight feathers barred brown-black on grey-white; plain greenish-grey breast, belly and undertail coverts without spots or bars; legs dark greenish-brown.",
+    "subject": "Grey-headed Woodpecker (Picus canus), adult male, as seen in Korean forest in late autumn: head and neck plain ash-grey with a small glossy red patch on the forecrown; narrow black lores and a thin black moustachial stripe; usually fine black streaks on the grey hindcrown; back, scapulars and wing coverts olive-green; rump and uppertail coverts yellowish-green; flight feathers dark brown with rows of whitish spots; tail dark greyish-brown; underparts plain greenish-grey without spots or bars. Bill grey, darker at the tip. Legs dark greenish-grey.",
     "pose": "clinging upright to a large tree trunk, braced on its stiff tail, head turned in profile",
     "scene": "Korean mixed deciduous forest in late autumn, thick old trunks, golden and russet leaves, an ant mound at the foot of a tree, soft low sunlight; no people, buildings or text",
     "views": [
-      "adult male, clinging to trunk, side view: red forecrown, grey head, thin black moustache",
-      "adult female, clinging to trunk, side view: no red, grey crown with fine black streaks"
-    ]
+      "adult male, clinging upright to a trunk, side view: plain grey head with a small red forecrown patch, black lores and thin black moustache, olive-green back and wings, yellowish-green rump, plain greenish-grey underparts",
+      "adult female, clinging upright to a trunk, side view: no red on the head, grey crown finely streaked black, thin black moustache, olive-green back, plain greenish-grey underparts"
+    ],
+    "build": "Medium-sized green woodpecker, 25–26cm, about the length of a Brown-eared Bulbul, slimmer-necked and rounder-headed than the pied woodpeckers. Bill straight, chisel-tipped, relatively slim, about as long as the head. Legs short, greenish-grey, two toes forward and two back; clings to trunks braced on a stiff, pointed tail and also feeds on the ground at ant nests. Wings olive with spotted-barred flight feathers; in flight the yellowish-green rump shows clearly. Flight deeply undulating.",
+    "avoid": [
+      "Do not paint a fully red crown or a broad black face mask (Eurasian Green Woodpecker); only the male's forecrown is red.",
+      "Do not paint black-and-white pied plumage or a red vent (Great Spotted Woodpecker, Dendrocopos major).",
+      "Do not paint spots, bars or streaks on the underparts; they are plain.",
+      "Do not give the female any red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

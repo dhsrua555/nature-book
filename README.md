@@ -30,6 +30,8 @@ tools/ref/ioc-en.tsv    학명 → IOC 영문명 짝 (tools/ref_en.py 가 만듦
 tools/fetch_nibr.py     국립생물자원관 종 설명·보호 표시 받기 → cache/nibr/ (git 제외)
 tools/nibr_entries.py   종 설명으로 종 파일 만들기(묶음 나누기·검사·합치기)
 tools/ENTRY_RULES.md    종 설명 원문으로 항목을 쓸 때의 규칙
+tools/art_profiles.py   그림 프롬프트용 종별 형태 정보 정리(묶음 나누기·검사·합치기)
+tools/ART_RULES.md      종별 형태 정보(art.subject·build·views·avoid)를 쓸 때의 규칙
 art/                    삽화 원본·받은 편지함 (git 제외)
 cache/                  받아 둔 원문·작업 묶음 (git 제외)
 draft/                  처음 받은 초안 (git 제외)
@@ -76,7 +78,7 @@ uv run tools/serve.py          # http://localhost:8000
   "summary": "…", "sexes": { "alike": false, "male": "…", "female": "…" }, "young": "…",
   "points": [ { "ko": "청회색 등과 날개", "en": "slate-grey back and wings", "at": [0.5, 0.2], "label": [0.3, 0.1] } ],
   "similar": [ { "ko": "매", "how": "…" } ],
-  "art": { "subject": "…", "pose": "…", "scene": "…", "views": ["…"], "focus": [0.5, 0.45] },
+  "art": { "subject": "…", "build": "…", "views": ["…"], "avoid": ["Do not …"], "pose": "…", "scene": "…", "confidence": "high", "focus": [0.5, 0.45] },
   "sources": [ { "title": "…", "url": "…", "used": "몸길이·상태" } ],
   "todo": ["확인하지 못한 점"]
 }
@@ -86,7 +88,10 @@ uv run tools/serve.py          # http://localhost:8000
 - `"origin": "nibr"` 이 붙은 종은 국립생물자원관 종 설명만을 근거로 정리한 종이다(아래 '609종을 채운 방법'). 손으로 더 조사해 고칠 때는 `origin` 을 지우면 `nibr_entries.py merge` 가 다시 덮어쓰지 않는다.
 - `months.breed` 가 `[]` 이면 국내에서 번식하지 않는 종(겨울철새·나그네새 등), `"TODO"` 이면 모름.
 - `points[].at` / `label` 은 동정 도해 위 번호·글자 위치(그림 가로·세로 비율 0–1). 아래 검수 모드에서 찍는다.
-- `art.*` 는 삽화 프롬프트 재료(영어). 깃 색 묘사가 틀리면 그림이 틀린다.
+- `art.*` 는 삽화 프롬프트 재료(영어). 깃 색 묘사가 틀리면 그림이 틀린다. 종마다 따로 적는다:
+  `subject`(도판 주인공의 깃·부리·눈·다리, 배경 계절에 맞는 깃), `build`(크기와 체형, 머리에 견준 부리 길이와 굽은 정도, 다리·꼬리 모양),
+  `views`(도해의 모습별 특징), `avoid`(닮은 종과 헷갈리기 쉬운 점 등 이 종에서 흔히 틀리는 것). 쓰는 규칙은 `tools/ART_RULES.md`.
+  이 칸은 책에 실리지 않는 그림 재료라 현장 조류 도감의 일반 식별 지식도 근거로 쓴다(`art.basis`). `build` 가 `TODO` 인 종(`confidence: low`)은 그리지 않는다.
 - 고친 뒤에는 늘 `uv run tools/build.py` → 국명·학명이 목록과 다르거나, 대표종이 그 분류에 없거나, 형식이 어긋나면 오류로 멈춘다. `--todo` 를 붙이면 TODO 위치를 모두 보여 준다.
 - 목·과 설명과 대표종(목록 옆 둥근 그림)은 `data/aves/volume.json` 의 `orders`, `families` 에 학명으로 적는다.
 

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Booted Eagle (Hieraaetus pennatus), adult pale morph: head buff-brown with a darker streaked crown; upperparts dark brown with a broad pale buff band across the upperwing coverts and pale buff uppertail coverts forming a U at the base of the tail; small white patches where the forewing meets the body; underparts and underwing coverts creamy white, lightly streaked on the breast, contrasting with blackish flight feathers; inner primaries paler, forming a pale wedge; tail grey-brown and unbarred. Bill dark grey with a yellow cere; legs feathered to the toes, feet yellow.",
+    "pose": "soaring over a wooded hillside, seen from below",
+    "scene": "Korean wooded hills and open valley during autumn migration under a clear sky; no people, buildings or text",
+    "views": [],
+    "build": "Small eagle, about the size of an Eastern Buzzard, compact with a small head and a long, square-ended tail. Bill short and hooked, shorter than the head. Legs feathered to the toes, giving the booted look. In flight long, rather narrow, parallel-edged wings with well-spread primary fingers, held flat or with the hand slightly lowered; the tail is often fanned when soaring.",
+    "avoid": [
+      "Do not paint a barred tail or dark wrist patches like a buzzard; the tail is plain and the underwing coverts uniformly pale.",
+      "Do not paint a dark band across the underwing coverts (Bonelli's Eagle); on this pale morph the coverts are creamy white.",
+      "Do not forget the pale band across the upperwing coverts and the pale U on the uppertail coverts.",
+      "Do not paint bare yellow legs; the legs are feathered."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

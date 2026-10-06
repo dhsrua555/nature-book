@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Pied Bush Chat (Saxicola caprata), adult male in spring: head, back, wings, breast and belly black with a faint gloss; a long white stripe on the inner wing coverts of the folded wing; rump and uppertail coverts pure white; vent and undertail coverts white; tail entirely black; bill black; eye dark; legs black.",
+    "pose": "perched upright on the top of a low bush, side view, wings slightly drooped and tail flicked",
+    "scene": "open grassy farmland edge with low shrubs on a Korean offshore island during spring migration in May, clear daylight; no people, buildings or text",
+    "views": [],
+    "build": "A small, compact chat about the size of a sparrow, similar in size and shape to Stejneger's Stonechat: round head, short neck and an upright stance. Bill short, thin, straight and black, much shorter than the head. Legs slender, black, of medium length. Wings fairly short; at rest the wingtips reach only a short way down the tail. Tail short-medium and square-ended, often flicked together with the wings. Perches conspicuously upright on bush tops, tall weeds and fence posts, dropping to the ground for insects; in flight the white rump and white wing stripe flash against the otherwise black plumage.",
+    "avoid": [
+      "Do not give the male an orange breast, a white neck patch or white underparts; those belong to Stejneger's Stonechat (Saxicola stejnegeri).",
+      "Do not paint white in the tail; the tail is all black, and the white is only on the rump, the wing stripe and the vent.",
+      "Do not add a white supercilium, white throat or white crown.",
+      "Do not paint brown scaling on the male's black plumage; spring males are clean black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

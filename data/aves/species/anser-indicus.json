@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Bar-headed Goose (Anser indicus), adult: head white with two black horseshoe-shaped bars across the rear crown and nape; a white stripe running down each side of the neck; foreneck and hindneck dark grey; body pale silvery grey with darker grey flanks; back pale grey with pale feather fringes; rump and undertail white; tail grey with a white tip. Bill yellow-orange with a black nail; dark eye; legs and feet orange-yellow.",
+    "pose": "standing on a grassy bank among other geese, side view",
+    "scene": "Korean winter wetland beside harvested rice fields with grey geese; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized grey goose, a little smaller than Bean Goose and similar in size to Greater White-fronted Goose, but slimmer-necked and very pale. Bill shorter than the head, fairly slender, yellow-orange with a black nail. Legs medium length, orange-yellow. Tail short, rounded. In flight very pale grey wings with darker grey tips to the flight feathers and white uppertail coverts.",
+    "avoid": [
+      "Do not paint the head grey-brown; it is white with two black bars at the back.",
+      "Do not paint a pink bill or pink legs (Greylag Goose); bill and legs are yellow-orange.",
+      "Do not paint a white forehead blaze or black belly bars (Greater White-fronted Goose).",
+      "Do not paint a black neck with a white chinstrap (Canada Goose)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

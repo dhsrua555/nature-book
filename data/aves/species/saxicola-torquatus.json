@@ -54,14 +54,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "African Stonechat (Saxicola torquatus), adult male in summer: black head, back, wings and tail, white patches on the neck sides and shoulders, tawny-buff breast, whitish-grey belly and flanks, white rump",
+    "subject": "Stejneger's Stonechat (Saxicola torquatus, East Asian form often split as Saxicola stejnegeri), adult male in breeding plumage, as seen in Korean farmland from May to August: head, face and throat entirely black; mantle and back black, fresh birds with a few brown fringes; a white half-collar patch on each side of the neck; wings black with a white patch on the inner wing coverts; rump and uppertail coverts unstreaked white; tail black; breast deep orange-rufous, fading to whitish on the belly and flanks. Bill short, thin, black. Dark eye. Black legs.",
     "pose": "perched on top of a grass stem, side view",
     "scene": "Korean summer farmland edge: grassy fields and rolling hills with scattered shrubs at the foot of a mountain; no people, buildings or text",
     "views": [
-      "adult male in summer, side view perched: black head, back, wings and tail, white neck and shoulder patches, tawny-buff breast, whitish-grey belly, white rump",
-      "adult male in winter, side view perched: most of the body tawny-buff",
-      "adult female, side view perched: tawny-buff upperparts streaked dark grey, orange-buff breast and flanks, greyish pale yellow belly"
-    ]
+      "adult male breeding (May–August), side view perched on a grass stem: black head and throat, white neck patch, black back, white shoulder patch on black wings, orange-rufous breast, whitish belly and flanks, white rump, black tail",
+      "adult male in fresh autumn plumage (September–October passage), side view: black head, throat and back largely veiled by broad buff-brown fringes, orange-buff breast, white neck and wing patches still visible, pale buff rump",
+      "adult female, side view perched: buff-brown upperparts streaked dark, pale buff throat, orange-buff breast and flanks, pale yellowish-buff belly, small white wing patch, unstreaked pale buff rump"
+    ],
+    "build": "Small, round-headed chat, 13cm, slightly smaller than a sparrow; upright stance on the tops of grass stems and low bushes, often flicking its wings and short tail. Bill short, thin, black. Legs slender, medium length, black. Wings fairly short. Tail short, black, square. In flight males show white wing patches and a white rump contrasting with the black back and tail.",
+    "avoid": [
+      "Do not paint a white supercilium or a streaked crown on the male (Whinchat, Saxicola rubetra).",
+      "Do not paint orange outer tail feathers or orange underparts reaching the vent (redstarts).",
+      "Do not paint a black breast; the breast is orange-rufous below the black throat.",
+      "Do not paint a streaked rump on the male; it is clean white."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

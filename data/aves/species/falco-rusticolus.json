@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Gyrfalcon (Falco rusticolus), adult grey morph in winter: upperparts slate-grey to grey-brown with pale grey-blue bars and feather edges; head greyish with an indistinct pale supercilium and a thin, weak dark moustachial stripe; underparts white with dark drop-shaped spots on the breast becoming bars on the flanks and thighs; tail grey with fine pale bars. Bill bluish-grey with a dark tip; cere, bare eye-ring, legs and feet yellow; iris dark brown.",
+    "pose": "perched upright on a snow-dusted rock, watching over open ground",
+    "scene": "open coastal fields and dunes of northeastern Korea in midwinter, light snow cover; no people, buildings or text",
+    "views": [],
+    "build": "Largest falcon, clearly larger and heavier than a Peregrine Falcon, the female approaching a buzzard in size; deep-chested and bulky. Head rounded, neck short. Bill short and strongly hooked, with a notch (tomial tooth) on the upper mandible. Legs short and powerful with feathered thighs. At rest the wingtips fall well short of the tail tip, reaching only about two-thirds down the tail. Wings broad-based, long and pointed but blunter than a Peregrine's; shallow, powerful wingbeats. Tail long and broad, rounded at the tip.",
+    "avoid": [
+      "Do not paint the bold black hood and broad black moustache of Peregrine Falcon (Falco peregrinus); the Gyrfalcon's moustache is thin and faint.",
+      "Do not make the wingtips reach the tail tip at rest; they fall well short.",
+      "Do not paint a slim, hobby-like build; it is bulky and broad-winged.",
+      "Do not mix morphs: this grey bird should not get a white head or white body."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

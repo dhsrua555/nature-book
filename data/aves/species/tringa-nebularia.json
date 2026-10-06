@@ -52,14 +52,24 @@
   "young": "윗면에 갈색 기운이 강하고 깃 가장자리가 흰색이며, 이마와 옆머리는 흰 바탕에 검은 축무늬가 있다.",
   "similar": [],
   "art": {
-    "subject": "Common Greenshank (Tringa nebularia), adult in breeding plumage: dark grey head, neck and back with bold black streaks, grey-brown upperparts with some black feathers, white lower back, rump and uppertail coverts, white underparts",
+    "subject": "Common Greenshank (Tringa nebularia), adult in breeding plumage as seen on Korean coasts in late April and May: head, neck and upper breast pale grey densely streaked and spotted black, the streaks boldest on the crown and hindneck; mantle and scapulars grey-brown with a scattering of black-centred feathers edged whitish; wing coverts plainer grey-brown; lower back, rump and uppertail coverts white; small dark spots and chevrons on the breast-sides and flanks, belly and undertail white; tail white, finely barred grey. Bill dark grey to blackish, paler grey-green at the base; dark eye; legs greenish-grey.",
     "pose": "wading in shallow water at a river mouth, side view",
-    "scene": "Korean estuary delta and salt pans during autumn migration; no people, buildings or text",
+    "scene": "Korean estuary delta and salt pans during spring migration in late April and May, shallow water over mud; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: dark grey head and neck streaked black, grey-brown upperparts, white underparts",
-      "adult winter, side view standing: browner back, fainter upper-breast markings",
-      "juvenile, side view standing: browner upperparts with white fringes, white forehead and sides of head with black shaft streaks"
-    ]
+      "adult breeding plumage (late April–May), side view standing: grey head and neck densely streaked black, grey-brown back with scattered black-centred feathers, small dark spots on breast-sides and flanks, white belly, long slightly upturned grey-based bill, long greenish-grey legs",
+      "adult winter plumage, side view standing: pale grey upperparts with thin dark shaft streaks and whitish fringes, whitish face and neck with only fine streaks, faint streaking on the upper breast, clean white underparts",
+      "juvenile (August–October), side view standing: browner grey upperparts with neat whitish and buff fringes on every feather, finely streaked neck and breast, white forehead and sides of the head with fine dark shaft streaks",
+      "in flight seen from above: plain dark grey-brown wings without a wing-bar, white wedge running from the rump up the centre of the back, whitish tail with fine grey bars, feet projecting beyond the tail"
+    ],
+    "build": "Large, tall, elegant sandpiper, 35cm, clearly larger and heavier than a Common Redshank and about the length of a feral pigeon but much leggier; long neck, rather horizontal stance when wading. Bill clearly longer than the head, thick at the base and very slightly upturned along its whole length, tapering to a fine tip. Legs long, greenish-grey, with the bare tibia well exposed. At rest the wingtips reach about the tail tip. In flight the wings are plain dark grey-brown with no wing-bar, a long white wedge runs from the rump up the centre of the back, and the toes project beyond the tail.",
+    "avoid": [
+      "Do not paint red or orange legs — that is Common Redshank; the Greenshank's legs are greenish-grey.",
+      "Do not make the bill thin, needle-like and straight — that is Marsh Sandpiper, which is also much smaller and slimmer.",
+      "Do not paint short yellow legs, a heavy bicoloured bill and bold black crescent spots on the breast — those mark Nordmann's Greenshank.",
+      "Do not add a white wing-bar or a square white rump patch; the white is a long wedge up the back and the wings are plain."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

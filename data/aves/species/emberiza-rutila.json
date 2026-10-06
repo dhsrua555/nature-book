@@ -46,13 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chestnut Bunting (Emberiza rutila), adult male in winter plumage: chestnut head and upperparts to the uppertail coverts, chestnut throat and upper breast, yellow belly, yellow flanks streaked blackish-brown",
+    "subject": "Chestnut Bunting (Emberiza rutila), adult male in breeding plumage, as seen in Korea on spring passage in late April and May: entire head, throat, upper breast and all upperparts from the crown to the uppertail coverts uniform bright chestnut; wings dark brown with broad chestnut fringes; lower breast and belly bright yellow; flanks yellow streaked dark olive-grey to blackish-brown; undertail coverts pale yellow; tail dark brown. Bill small and conical, grey with a paler pinkish-grey lower mandible; iris dark brown; legs pinkish-brown.",
     "pose": "perched in a low shrub at the edge of a field",
     "scene": "Korean spring migration: riverside reed bed and shrubby hillside next to an orchard and rice fields; no people, buildings or text",
     "views": [
-      "adult male, side view perched: chestnut head, upperparts, throat and upper breast, yellow belly, yellow flanks with blackish-brown streaks",
-      "adult female, side view perched: brown head and upperparts heavily streaked black, broad chestnut rump band, yellow belly with brown streaks"
-    ]
+      "adult male breeding, side view perched: uniform chestnut head, throat, upper breast and upperparts, bright yellow lower breast and belly, yellow flanks streaked dark, small grey conical bill",
+      "adult female, side view perched: olive-brown head and upperparts with dark streaks, pale buff throat with a thin dark malar line, yellow underparts with brown streaks on the breast and flanks",
+      "adult female, back view perched: streaked brown back and a broad unstreaked chestnut rump"
+    ],
+    "build": "Small, compact bunting, 14cm, about sparrow-sized and rather short-tailed for a bunting. Rounded head without a crest. Bill small and conical, shorter than the head. Legs short, pinkish-brown. Perches in low shrubs and trees and feeds on the ground at the edges of fields, orchards and woodland. At rest the wingtips reach the base of the tail. Tail fairly short, slightly notched, dark brown with little or no white on the outer feathers.",
+    "avoid": [
+      "Do not show conspicuous white outer tail feathers; this species has little or no white in the tail.",
+      "Do not paint a black face, white wing patch or a chestnut band below a yellow throat; that is Yellow-breasted Bunting.",
+      "Do not extend the chestnut onto the lower breast or belly; it stops at the upper breast, and below that the bird is yellow.",
+      "Do not give the female the male's chestnut head."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

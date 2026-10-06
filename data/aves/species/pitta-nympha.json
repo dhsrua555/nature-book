@@ -52,13 +52,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Fairy Pitta (Pitta nympha), adult: brown crown with a black central crown stripe, creamy-buff supercilium reaching the nape, black band from lores through cheeks and ear coverts to the nape, blue-green back, scapulars and upper rump, bright blue lower rump, black uppertail coverts tipped blue, green neck and breast sides, buff breast and flanks, red lower belly",
+    "subject": "Fairy Pitta (Pitta nympha), adult as seen in Korean southern island woods from May to September: crown chestnut-brown with a black central stripe; long creamy-buff supercilium reaching the nape; broad black band from the lores through the cheeks and ear-coverts to the nape; throat white; back, scapulars and upper rump deep blue-green; lesser wing coverts shining azure-blue; flight feathers black with a white patch at the base of the primaries; lower rump bright blue; uppertail coverts black tipped blue; neck and breast sides green; breast and flanks buff; lower belly and vent scarlet-red. Bill black; dark eye; legs pale pinkish.",
     "pose": "walking on the forest floor, searching the leaf litter for insects",
     "scene": "shady scrub and broadleaf woodland on a slope of a southern Korean island such as Jeju in early summer; no people, buildings or text",
     "views": [
-      "adult, side view on the ground: brown crown with black central stripe, buff supercilium, black face band, blue-green back, buff breast and flanks, red lower belly",
-      "adult, back view: blue-green back, bright blue lower rump, black uppertail coverts tipped blue"
-    ]
+      "adult, side view on the ground: brown crown with a black central stripe, buff supercilium, black face band, white throat, blue-green back, azure shoulder, buff breast and flanks, red lower belly, long pinkish legs",
+      "adult, back view on the ground: blue-green back, bright blue lower rump, black uppertail coverts tipped blue, very short tail"
+    ],
+    "build": "Small, plump, upright ground bird, about 18cm, about the length of a Common Starling but much rounder, with a big head, a stout black bill a little shorter than the head, a very short stubby tail and long pinkish legs. Walks and hops over the leaf litter. Wings short and rounded; in flight a white patch shows at the base of the primaries.",
+    "avoid": [
+      "Do not paint a long tail; the tail is very short and stubby.",
+      "Do not paint the whole underparts red; the breast and flanks are buff and only the lower belly and vent are red.",
+      "Do not paint a black crown; the crown is brown with a black central stripe and a buff supercilium.",
+      "Do not make it large or slim; it is a plump, starling-sized ground bird."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

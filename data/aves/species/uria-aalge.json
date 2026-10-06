@@ -48,14 +48,23 @@
   "young": "어린새는 어미의 겨울깃과 비슷하다.",
   "similar": [],
   "art": {
-    "subject": "Common Murre (Uria aalge), adult breeding: dark grey head, hindneck and back, brown foreneck, white breast and belly, white tips to the secondaries, white underwing, long straight black bill",
+    "subject": "Common Murre (Uria aalge), adult in winter plumage, as seen off the Korean east coast from December to February: crown, hindneck and upperparts dark sooty brown-black; cheeks, throat and foreneck white, with a thin dark line curving back from the eye across the white cheek; breast and belly white; narrow white tips to the secondaries show as a thin white line on the closed wing. Bill black, long, slender and sharply pointed; dark eye; legs and feet dark grey.",
     "pose": "swimming on the sea surface, about to dive",
-    "scene": "Korean East Sea in summer: rocky reef and sea cliff of an offshore island; no people, buildings or text",
+    "scene": "Korean East Sea off the east coast in winter, grey choppy water with a distant rocky island; no people, buildings or text",
     "views": [
-      "adult breeding, side view swimming: dark grey head and back, brown foreneck, white breast, long straight black bill",
-      "adult non-breeding, side view swimming: white face, cheeks and neck sides, long straight black bill",
-      "adult, in flight from below: white breast, belly and underwing, white trailing tips to the secondaries"
-    ]
+      "adult breeding (spring), side view swimming: dark chocolate-brown head and neck, slightly browner on the foreneck, dark brown-black back, white breast meeting the dark neck in a rounded line, long straight pointed black bill",
+      "adult non-breeding (winter), side view swimming: white face, cheeks, throat and neck sides with a thin dark line behind the eye, dark crown and hindneck, same long black bill",
+      "adult in flight, seen from below: white breast, belly and underwing, narrow white tips to the secondaries forming a white trailing edge, short tail"
+    ],
+    "build": "Large, slender-necked auk, smaller than a Mallard, with a long, pointed head profile. Bill black, straight, slender and sharply pointed, about as long as the head. Swims low with the bill held level and dives often; on rock stands upright, resting on its tarsi. Tail short and rounded. Wings short and narrow; flight fast and low over the sea with whirring wingbeats, showing a whitish underwing and a thin white trailing edge to the inner wing.",
+    "avoid": [
+      "Do not paint the short, deep bill with a white line along the gape of Thick-billed Murre (Uria lomvia).",
+      "Do not paint the face all dark on the winter bird; the cheeks and throat are white with a thin dark line behind the eye.",
+      "Do not paint a white wing patch (Cepphus guillemots) or orange feet.",
+      "Do not paint a stubby bill or a colourful puffin-like bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

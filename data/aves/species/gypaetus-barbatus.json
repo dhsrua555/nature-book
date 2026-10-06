@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Bearded Vulture (Gypaetus barbatus), adult: grey head, black stripe through the eye that looks like a beard, tawny-brown underparts, black upperparts, long narrow wings, long wedge-shaped black tail",
+    "subject": "Bearded Vulture (Gypaetus barbatus), adult: head and neck creamy white, often stained orange-rust; a black mask runs from the bill base through the eye and ends in a tuft of black bristles hanging below the bill like a beard; breast and underparts rich tawny-orange to rusty-buff; upperparts, wings and tail dark slate-grey looking blackish, with fine white shaft streaks on the mantle and wing coverts. Bill greyish horn; iris pale yellow encircled by a bright red ring; legs feathered rusty-buff down to the toes, feet grey.",
     "pose": "gliding along a cliff face on long narrow wings",
     "scene": "Korean high mountains: sheer rock walls with narrow ledges; no people, buildings or text",
     "views": [
-      "adult, side view perched: grey head with black 'beard' stripe through the eye, black upperparts, tawny-brown underparts",
-      "adult, flight from below: long narrow wings, long wedge-shaped tail, tawny-brown body"
-    ]
+      "adult, side view perched on a rock ledge: creamy-white head stained rusty, black mask through the eye ending in a black bristle beard, red ring around the pale eye, tawny-orange breast and belly, blackish-grey upperparts with fine white streaks, long tail",
+      "adult, flight seen from below: long, narrow, pointed dark wings, long wedge-shaped dark tail, tawny-orange body contrasting with the dark underwing, pale head with black beard"
+    ],
+    "build": "Huge, long-winged and long-tailed vulture, about 110cm, larger than a Golden Eagle and close to a Cinereous Vulture in length but much slimmer; the head is fully feathered, not bald. Bill large, strong and hooked, about as long as the head, with the black bristle beard below it. Legs short and shaggily feathered. In flight long, narrow, pointed wings and a long wedge-shaped tail give a giant falcon-like silhouette; glides along cliffs with few wingbeats.",
+    "avoid": [
+      "Do not paint a bald or downy head; the head is fully feathered and pale.",
+      "Do not paint a grey head; the adult head is creamy white, often rust-stained.",
+      "Do not paint a broad-winged, short-tailed griffon silhouette; the wings are narrow and the tail long and wedge-shaped.",
+      "Do not paint a dark brown head and body; that is the juvenile, not the adult."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

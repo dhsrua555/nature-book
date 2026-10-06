@@ -52,13 +52,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pacific Swift (Apus pacificus), adult: dull dark brown lores, cheeks, ear-coverts and neck sides, white chin and centre of throat with brown feather shafts, blackish-brown underparts, brownish-black tail with a faint blue gloss above, bill very broad at the base and narrow at the tip, black bill and legs, brown iris, strong curved claws",
+    "subject": "Pacific Swift (Apus pacificus), adult in flight, as seen over Korean coasts and islands from May to August: whole body sooty blackish-brown with a faint bluish gloss on the upperwing and tail; a narrow but clear white band across the rump; whitish chin and throat patch with fine dark shaft streaks, merging into dull dark-brown lores, cheeks and neck sides; underparts blackish-brown with fine pale scaling from whitish feather fringes. Bill tiny, black, with a very wide gape. Dark brown eye. Tiny black feet, usually tucked in flight.",
     "pose": "flying high in a loose flock, hawking insects",
     "scene": "Korean coastal island with sheer sea cliffs under a summer sky; no people, buildings or text",
     "views": [
-      "adult, flight view from below: blackish-brown underparts, white chin and throat, brownish-black tail",
-      "adult, head detail: broad-based black bill, white throat with brown shaft streaks, brown iris"
-    ]
+      "adult in flight seen from below, head, body and tail in one line: scythe-shaped dark wings, blackish-brown underparts with fine pale scaling, white throat patch, deeply forked tail",
+      "adult in flight seen from above, head, body and tail in one line: dark upperwing and back, narrow white band across the rump, forked brownish-black tail with a faint blue gloss",
+      "adult, head detail in profile: tiny black bill with a very wide gape, whitish chin and throat with brown shaft streaks, dull dark brown cheeks, dark eye"
+    ],
+    "build": "Medium-large swift, 20cm, longer than a Barn Swallow and with much longer, narrower scythe-shaped wings; slim cigar-shaped body, short neck, small head. Bill very short but gape extremely wide. Legs very short with four strong, sharply curved claws, used only for clinging to cliffs and walls. When clinging the wingtips extend far beyond the tail tip. Tail fairly long and deeply forked, the fork often closed to a point in fast flight. Flies fast and high with stiff, flickering wingbeats and long glides.",
+    "avoid": [
+      "Do not paint swallow-like pale underparts, a red throat or thin tail streamers; swifts are dark all over.",
+      "Do not omit the narrow white rump band; it is the key feature from above.",
+      "Do not paint a square tail with a broad white rump (House Swift, Apus nipalensis).",
+      "Do not perch it on a branch or wire; swifts only cling to vertical rock or walls."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

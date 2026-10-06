@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Baillon's Crake (Zapornia pusilla), adult male: rufous-brown forehead centre, crown, nape and hindneck with black streaks, pale grey supercilium, rufous-brown eye-stripe, white chin and throat, rufous-brown scapulars, back, rump and uppertail coverts with bold black streaks, pale grey breast and belly with brown fringes, blackish-brown tail edged rufous-brown",
+    "subject": "Baillon's Crake (Zapornia pusilla), adult as seen in Korean paddies and marshes on spring passage (April–May): crown and hindneck warm rufous-brown streaked black; a rufous-brown stripe through the eye; supercilium, face, foreneck, breast and upper belly blue-grey; chin and throat whitish; upperparts warm rufous-brown with bold black streaks and irregular small white streaks and flecks; rear flanks, lower belly and undertail coverts barred black and white; tail dark brown fringed rufous. Short, straight green bill; red iris; legs dull greenish.",
     "pose": "walking through wet grass at a rice-field edge, side view",
     "scene": "Korean spring rice paddies and marsh with grassy edges; no people, buildings or text",
     "views": [
-      "adult male, side view walking: black-streaked rufous-brown upperparts, pale grey supercilium, white throat, pale grey underparts with brown fringes",
-      "adult male, head detail: pale grey supercilium above a rufous-brown eye-stripe, white chin and throat"
-    ]
+      "adult, side view walking through wet grass: rufous-brown upperparts with bold black streaks and white flecks, blue-grey face and underparts, black-and-white barred rear flanks, short green bill, red eye",
+      "adult, head detail: rufous-brown crown streaked black, pale blue-grey supercilium above a rufous-brown eye-stripe, whitish chin and throat, short straight green bill"
+    ],
+    "build": "Tiny crake, about 18cm long, between a sparrow and a starling in size; round, laterally compressed body with a small head. Bill short (shorter than the head), straight, fine and pointed. Legs fairly short with long toes. Very short tail, often cocked. At rest the wingtips fall well short of the tail tip (short primary projection). Creeps mouse-like through wet grass and over floating vegetation.",
+    "avoid": [
+      "Do not paint a plain unmarked back; the upperparts carry bold black streaks and white flecks.",
+      "Do not paint a rufous-chestnut breast — that is Ruddy-breasted Crake.",
+      "Do not paint a long red bill like a rail; the bill is short and green.",
+      "Do not paint large, chicken-like proportions; it is a tiny crake."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

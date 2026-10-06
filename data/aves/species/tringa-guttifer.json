@@ -52,14 +52,24 @@
     }
   ],
   "art": {
-    "subject": "Nordmann's Greenshank (Tringa guttifer), adult in breeding plumage: thick, long, upturned bill with a large yellowish base, head and breast boldly spotted black, upperparts appearing blackish, yellow legs",
+    "subject": "Nordmann's Greenshank (Tringa guttifer), adult in breeding plumage, as seen on Korean west-coast mudflats in late April and May: crown and hindneck white, densely streaked and spotted black; face whitish with fine dark streaks; mantle, scapulars and tertials blackish with small whitish notches and pale fringes, so the upperparts look dark and scaly; lower neck and breast white with bold, rounded black spots forming a broad spotted band, a few spots on the flanks; belly and undertail white. Bill thick-based and slightly upturned, dull yellowish on the basal half and blackish on the outer half; dark eye; legs yellow.",
     "pose": "running quickly across a tidal mudflat to catch a crab",
     "scene": "Korean west-coast tidal mudflat at a river mouth during spring migration; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: thick upturned bill with yellowish base, black-spotted head and breast, blackish upperparts, yellow legs",
-      "adult winter, side view standing: faint streaks on head and neck, pale grey upperparts, dark brown bill with black tip and yellow base, greenish yellow-brown legs",
-      "in flight, side view: feet projecting slightly beyond the tail"
-    ]
+      "adult breeding plumage (late April–May), side view standing: blackish scaly upperparts with white notches, white head and neck densely streaked black, bold round black spots across the breast, white belly, thick slightly upturned bill with a yellowish basal half, short yellow legs",
+      "adult winter plumage, side view standing: pale grey upperparts with narrow whitish fringes, head and neck only faintly streaked grey, very white face and underparts, dark-tipped bill with a yellowish base, short greenish-yellow legs",
+      "in flight, seen from below: clean white underwing coverts and white body, pale tail, only the toes projecting just beyond the tail tip"
+    ],
+    "build": "Medium-large, stocky Tringa sandpiper, 29–32cm, about the size of a Common Greenshank but heavier-chested, shorter-necked and noticeably shorter-legged, so it looks low-slung and often crouches as it runs after crabs. Bill thick at the base, a little longer than the head, straight for most of its length with a slight upward tilt towards the tip. Legs yellow and relatively short; the front toes are partly webbed. In flight a white wedge runs from the rump up the back, the tail is pale with faint barring, the underwing coverts are clean white, and only the toes project slightly beyond the tail tip.",
+    "avoid": [
+      "Do not paint the long slim legs, slimmer bill and finely streaked breast of Common Greenshank (Tringa nebularia); Nordmann's is shorter-legged and thicker-billed with round black breast spots.",
+      "Do not let the legs trail far behind the tail in flight; only the toes project slightly.",
+      "Do not paint grey-barred underwing coverts; they are white.",
+      "Do not paint red or orange legs (Spotted Redshank, Common Redshank, Terek Sandpiper).",
+      "Do not make the bill strongly upcurved like an avocet's; the upturn is slight."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

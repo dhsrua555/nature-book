@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Shelduck (Tadorna tadorna), adult: white body, green-glossed black head and scapulars, chestnut band across the breast and back, red upturned bill, red legs",
+    "subject": "Common Shelduck (Tadorna tadorna), adult male in winter, as seen on Korean estuary mudflats from November to March: head and upper neck blackish with a green gloss; lower neck and most of the body white; a broad chestnut band encircling the upper breast and upper back; a black stripe down the centre of the belly; scapulars black, forming a black stripe along each side of the back; primaries black; green speculum; inner tertials partly chestnut; undertail coverts pale cinnamon-orange. Bill bright red, with a rounded knob at the base that swells towards spring; dark eye; pink legs and feet.",
     "pose": "walking on a mudflat, sweeping its bill through the mud",
     "scene": "Korean estuary mudflat in winter at low tide; no people, buildings or text",
     "views": [
-      "adult, side view walking: green-glossed black head, red upturned bill, chestnut breast band, white body, red legs",
-      "adult, front view: chestnut band across the breast"
-    ]
+      "adult male, side view walking on mud: green-glossed black head and upper neck, red upturned bill with a knob at the base, chestnut breast band, white body, black scapular stripe, pink legs",
+      "adult female, side view walking: like the male but slightly smaller, with no bill knob, a narrower, duller breast band and some white around the bill base",
+      "adult in flight seen from above: white back and wing coverts, black flight feathers, green speculum, chestnut band across the upper back, dark head, head, body and tail in a straight line"
+    ],
+    "build": "Large, goose-like duck, about 61cm, a little larger than a Mallard and longer-legged, standing and walking upright on open mud. Head rounded, neck medium length. Bill shorter than the head, broad, the culmen dipped in the middle so the tip turns slightly upward. Legs medium length, pink, webbed. At rest the wingtips reach about the tail tip. Tail short. In flight white wings with black flight feathers and a green speculum; wingbeats rather slow and goose-like.",
+    "avoid": [
+      "Do not paint an orange body or a pale head — that is Ruddy Shelduck (Tadorna ferruginea).",
+      "Do not paint a dull yellow, Mallard-like bill; it is bright red and slightly upturned.",
+      "Do not paint orange or bright red legs; they are pink.",
+      "Do not run the chestnut band up the neck; a white collar separates it from the dark head."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

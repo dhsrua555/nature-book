@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pacific Reef Heron (Egretta sacra), adult dark morph: bluish-black plumage overall, dark brown bill, yellow eye, yellow or greenish-yellow legs",
+    "subject": "Pacific Reef Heron (Egretta sacra), adult dark morph (the only morph recorded in Korea), without breeding plumes: plumage uniform dark slate-grey with a bluish tinge, looking almost blackish in shade; often a small white streak on the chin and upper throat. Bill long and rather heavy, dark brownish horn, often paler on the lower mandible; bare lores greenish-yellow; iris yellow; legs dull greenish-yellow to yellow, feet yellow.",
     "pose": "standing on a wave-washed rock beside a tide pool, watching for fish",
     "scene": "Korean rocky coast of an offshore island: dark rocks, tide pools and sea cliffs; no people, buildings or text",
     "views": [
-      "adult dark morph, side view standing: bluish-black plumage, dark brown bill, yellow eye, yellowish legs",
-      "adult, head detail: yellow eye and dark brown bill"
-    ]
+      "adult dark morph, side view standing on a rock: uniform dark slate-grey plumage, small white chin streak, long heavy dark brown bill, yellow eye, short greenish-yellow legs",
+      "adult, head detail in side view: yellow eye, greenish-yellow lores, long heavy dark brown bill, small white chin streak"
+    ],
+    "build": "Medium-sized heron, about 60cm, smaller than a Grey Heron and similar in length to a Little Egret but more heavily built. Neck shorter and thicker than an egret's; often stands hunched and horizontal on rocks. Bill long, straight and heavy, a little longer than the head. Legs relatively short and thick for a heron, with only a short bare thigh. At rest the wingtips reach about the tail tip. Tail short. Flies low over the sea with slow wingbeats and the neck drawn in.",
+    "avoid": [
+      "Do not paint it white; the white morph has not been recorded in Korea.",
+      "Do not give it long, thin black legs with yellow feet like a Little Egret; its legs are short, thick and yellowish.",
+      "Do not paint glossy jet-black plumage or a black bill; it is dark slate-grey with a brownish bill.",
+      "Do not draw long, thin plumes trailing from the nape."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Brown-headed Gull (Larus brunnicephalus), adult in winter (non-breeding) plumage, as on the Korean coast in autumn: head white with a dark grey-brown spot behind the eye and a faint grey wash over the crown; mantle and wing coverts pale grey; folded wingtip black with a small white mirror near the tip of the outermost primaries; underparts, rump and tail white. Bill red with a dark tip, deeper and longer than Black-headed Gull's; iris pale whitish-yellow with a thin red orbital ring; legs red.",
+    "pose": "standing at the water's edge on wet mud, side view, wings folded",
+    "scene": "Korean estuary mudflat in October among Black-headed Gulls, soft overcast autumn light; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized hooded gull, noticeably larger and bulkier than Black-headed Gull and smaller than Black-tailed Gull; rounded head with a gently sloping forehead. Bill fairly stout, longer and deeper than Black-headed Gull's, with a slight droop at the tip. Legs medium length, red. At rest the black wingtips project well beyond the tail. In flight the outer wing has a broad black tip enclosing large white mirrors on the outermost two primaries, set off by a white wedge across the bases of the outer primaries; from below the primaries look largely black. Tail square, white. In breeding plumage (spring to summer) it wears a pale brown hood, darker at the rear edge.",
+    "avoid": [
+      "Do not paint Black-headed Gull's wingtip (white outer primaries with only narrow black tips); the Brown-headed Gull has a broad black wingtip with white mirrors.",
+      "Do not give the adult a dark iris; its eye is pale.",
+      "Do not paint a brown hood on this autumn bird; the hood is breeding plumage only.",
+      "Do not paint a thin, short bill or pink legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -45,13 +45,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chestnut-eared Bunting (Emberiza fucata), adult male: grey head and hindneck with black streaks, rufous cheeks, white throat, black and chestnut bands across the breast, white belly",
+    "subject": "Chestnut-eared Bunting (Emberiza fucata), adult male in breeding plumage (April–August): crown and nape grey, finely streaked black; rich chestnut ear coverts forming a cheek patch; a narrow whitish eye-ring; white throat and submoustachial stripe bordered by a black malar stripe that runs down into a necklace of black streaks across the upper breast; below it a chestnut band across the lower breast; belly white, flanks washed rufous-buff; mantle brown streaked black; rump rufous-brown; wings brown with buff and rufous edges; tail dark brown with white outer feathers; bill dark grey above, pinkish below; dark eye; pinkish legs.",
     "pose": "perched on a stem at the edge of farmland, side view",
     "scene": "Korean summer farmland edge with open grassy ground and woodland behind; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black-streaked grey head, rufous cheeks, white throat, black and chestnut breast bands, white belly",
-      "adult female, side view perched: duller overall with indistinct breast bands"
-    ]
+      "adult male breeding, side view perched: black-streaked grey head and hindneck, rufous-chestnut ear coverts, white throat with a black malar stripe, a necklace of black streaks and a chestnut band across the breast, white belly, rufous-buff flanks",
+      "adult female, side view perched: browner, less grey head with duller chestnut ear coverts, weaker and less distinct breast bands, buffier underparts"
+    ],
+    "build": "Medium-sized bunting, slightly larger than a sparrow, slim, with a rounded head and a fairly long tail with white outer feathers. Bill small, conical and pointed, shorter than the head. Legs pinkish. Perches upright on grass stems, low shrubs and wires at field edges and feeds on the ground.",
+    "avoid": [
+      "Do not paint a solid black breast band; the upper band is a necklace of black streaks, with a chestnut band below.",
+      "Do not paint an all-chestnut face with black crown stripes — that is Little Bunting (Emberiza pusilla).",
+      "Do not paint a white supercilium and a chestnut-brown body — that is Meadow Bunting (Emberiza cioides).",
+      "Do not paint any yellow on the underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

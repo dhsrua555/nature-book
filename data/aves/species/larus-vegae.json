@@ -56,14 +56,23 @@
   "young": "어린새는 온몸이 갈색이고, 흐릿한 세로무늬가 고르게 나 있으며 꼬리 끝에 검은 띠가 있다.",
   "similar": [],
   "art": {
-    "subject": "Vega Gull (Larus vegae), adult winter: white body with brown streaks on the head and neck, grey back and wing coverts, black wingtips with white spots, yellow bill with a red spot on the lower mandible, pink legs",
+    "subject": "Vega Gull (Larus vegae), adult in winter, as seen in Korea from October to March: white head and neck with dense grey-brown streaking, heaviest on the hindneck and around the eye, sometimes forming a shawl; back and upperwing coverts medium grey; wingtip black with white mirrors on the outer primaries and white primary tips; broad white tertial crescent; underparts, rump and tail white. Bill stout, yellow, with a red spot near the tip of the lower mandible. Red orbital ring. Legs bright pink.",
     "pose": "standing on a sandbar among a resting flock",
     "scene": "Korean winter river mouth: a sandy beach at the estuary with a flock of gulls resting at the waterline; no people, buildings or text",
     "views": [
-      "adult winter, side view standing: white body, brown streaks on head and neck, grey back and wing coverts, black wingtips with white spots, yellow bill with red spot, pink legs",
-      "adult, in flight from above: grey upperwing with black tips and white spots, white body",
-      "juvenile, side view standing: brown overall with faint, even streaking and a black tail band"
-    ]
+      "adult winter, side view standing: grey-brown streaked head and neck, white body, medium-grey back and wing coverts, black wingtips with white spots, yellow bill with red spot, bright pink legs",
+      "adult in flight seen from above, head, body and tail in one line: medium-grey upperwing with white trailing edge, black wingtip with white mirrors, white head, body and tail",
+      "juvenile, side view standing: brown overall, upperparts chequered with pale notches, head and underparts evenly streaked grey-brown, blackish bill, pink legs, tail with a broad blackish band and paler barred base"
+    ],
+    "build": "Large, heavy gull, much bigger and bulkier than Common Gull and Black-tailed Gull; broad chest, strong neck, fairly flat crown. Bill long, deep and heavy, yellow with a red spot on the lower mandible. Legs medium length, bright pink. At rest the black, white-tipped primaries project well beyond the white tail. In flight broad wings, medium grey above with a white trailing edge and a black wingtip carrying white mirrors. Tail square, all white in adults. Often rests in large flocks on sandbars and soars on updrafts.",
+    "avoid": [
+      "Do not paint yellow legs; Vega Gull's legs are pink.",
+      "Do not paint a black tail band on the adult (Black-tailed Gull, Larus crassirostris).",
+      "Do not paint a dark slate back (Slaty-backed Gull) or an unstreaked white head in winter (Mongolian Gull).",
+      "Do not paint a small, slim bill without the red spot (Common Gull)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

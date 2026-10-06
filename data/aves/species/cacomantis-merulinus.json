@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Plaintive Cuckoo (Cacomantis merulinus), adult male: head, nape, throat and upper breast mid-grey; mantle, back and wing coverts grey to grey-brown; flight feathers darker brown; lower breast, belly and undertail coverts plain rufous-orange without bars; tail dark grey-brown, graduated, with white tips and white notches on the outer feathers. Bill black, slender and slightly decurved; legs yellow.",
+    "pose": "perched on a bare twig in the open, side view",
+    "scene": "Shrubby woodland edge on a Korean offshore island in May, during spring migration, bright morning light; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim cuckoo, a little smaller than a Brown-eared Bulbul, with a longish graduated tail and pointed wings. Bill short, slender and slightly decurved. Legs short, yellow, with two toes forward and two back. Perches upright, often in the open on bare twigs. Females may resemble the male or be hepatic: rufous-brown above and whitish below, closely barred dark all over.",
+    "avoid": [
+      "Do not bar the belly; the male's lower underparts are plain rufous-orange, unlike the barred white belly of Lesser Cuckoo (Cuculus poliocephalus).",
+      "Do not paint a grey belly (Grey-bellied Cuckoo, Cacomantis passerinus).",
+      "Do not paint a heavy bill or a large, hawk-like body."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

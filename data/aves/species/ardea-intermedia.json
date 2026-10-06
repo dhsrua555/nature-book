@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Medium Egret (Ardea intermedia), adult breeding: all-white plumage with fine filamentous plumes on the breast and back, bill black at the tip and partly yellow behind, black legs",
+    "subject": "Medium Egret (Ardea intermedia), adult in breeding plumage, as seen in Korea from May to July: plumage entirely white, with long, fine, hair-like plumes falling from the back beyond the tail tip and a shorter tuft of similar plumes on the lower foreneck and breast; no nape plumes. Bill black for most of its length, with a variable amount of yellow at the base; bare lores yellow to yellowish-green. Iris yellow. The gape line ends below the eye, not behind it. Legs and feet black.",
     "pose": "wading slowly in shallow water, stalking prey",
     "scene": "Korean summer wetland: shallow marsh edge with reeds and open water; no people, buildings or text",
     "views": [
-      "adult summer, side view standing: all white, fine plumes on breast and back, black-tipped bill partly yellow, black legs",
-      "adult without plumes, side view standing: all white, black legs, bill black at the tip"
-    ]
+      "adult breeding (May–July), side view standing: all white, fine filamentous plumes on the breast and long back plumes past the tail, black bill with some yellow at the base, gape ending below the eye, black legs",
+      "adult non-breeding (August–September), side view standing: all white without plumes, yellow bill with a black tip, black legs and feet"
+    ],
+    "build": "Medium-large white egret, about 65cm, clearly bigger than a Little Egret and much smaller than a Great Egret. Rounded head with a steep forehead; neck medium-long, held in a smooth S without the sharp kink of Great Egret. Bill straight and rather short and stout for an egret, about as long as the head. Legs long and black, with bare tibia. At rest the wingtips reach about the tail tip, with breeding plumes hanging past it. In flight neck retracted and legs projecting beyond the tail, with quicker wingbeats than Great Egret.",
+    "avoid": [
+      "Do not extend the gape line behind the eye — that is Great Egret, which is also much larger with a longer, kinked neck.",
+      "Do not paint yellow feet (Little Egret) or pale tibiae; legs are black in all seasons.",
+      "Do not paint two long nape plumes (Little Egret) or orange-buff plumes (Cattle Egret).",
+      "Do not paint a long, slender dagger bill much longer than the head."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

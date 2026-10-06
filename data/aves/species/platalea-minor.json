@@ -57,13 +57,23 @@
   "young": "어린새는 부리가 검은빛 도는 살색이고 날개 끝이 검다.",
   "similar": [],
   "art": {
-    "subject": "Black-faced Spoonbill (Platalea minor), adult breeding: all-white plumage with crest plumes on the head, long all-black bill with a spoon-shaped tip, black legs",
+    "subject": "Black-faced Spoonbill (Platalea minor), adult in breeding plumage, as seen on Korean west-coast tidal flats and nesting islets from April to July: plumage white overall, with a bushy crest of long, pale yellowish-buff plumes hanging from the back of the head and a yellowish-buff patch across the lower foreneck and upper breast; back, wings, belly and short tail pure white, with no black in the wing. Bare facial skin black: it surrounds the eye and joins broadly across the forehead to the base of the bill, so the whole front of the face looks black and merges with the bill. Bill entirely black, long and flat, narrow along most of its length and widening at the end into a rounded spoon. Legs and feet black.",
     "pose": "wading in shallow water, sweeping its bill through the water while feeding",
     "scene": "Korean summer west-coast tidal flat beside a rocky uninhabited islet; no people, buildings or text",
     "views": [
-      "adult breeding, side view wading: all-white body, crest plumes on the head, long black spoon-tipped bill, black legs",
-      "juvenile, side view standing: blackish flesh-coloured bill, black wingtips"
-    ]
+      "adult breeding (April–July), side view wading with the neck stretched forward: all-white body, yellowish-buff crest plumes and breast patch, black face skin joining across the forehead to the bill, long black spoon-tipped bill, long black legs",
+      "first-year, side view standing: all-white plumage without crest or buff breast patch, dull blackish-flesh bill, black tips to the outer primaries showing at the folded wingtip, black legs"
+    ],
+    "build": "Large white wading bird, about 74cm, a little smaller and much shorter-necked than a Grey Heron, clearly larger and heavier than a Little Egret. Oval body; neck medium-long, held in a gentle curve or stretched forward while feeding. Bill black, much longer than the head, straight and flattened, staying narrow until it broadens near the end into a round spatula. Legs black, long, with the lower tibia bare. At rest the wingtips reach about the tip of the short, square tail. Feeds by sweeping the half-open bill from side to side through shallow water. Flies with neck and legs stretched out straight; adult wings all white.",
+    "avoid": [
+      "Do not paint a white feathered face with only a thin black line from eye to bill, or a yellow bill tip — that is Eurasian Spoonbill (Platalea leucorodia).",
+      "Do not curve the bill downward like an ibis, and do not make it broad and duck-like from the base; it widens only at the end.",
+      "Do not paint pink or yellow legs or a pink bill on adults; both are black.",
+      "Do not show black wingtips on adults; only first-year birds have them.",
+      "Do not retract the neck in flight like an egret; spoonbills fly with the neck straight out."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

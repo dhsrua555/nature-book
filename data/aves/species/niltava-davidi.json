@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Fujian Niltava (Niltava davidi), adult male, a vagrant in Korean island forest: forehead and crown shining cobalt-blue; face, chin and throat black; a small glossy blue patch on the side of the neck and another at the shoulder; mantle, back, wings and tail deep dark blue; breast, belly and undertail coverts deep orange-rufous, sharply divided from the black throat. Bill black, short and broad; eye dark; legs dark.",
+    "pose": "perched upright on a low branch in shaded undergrowth, side view",
+    "scene": "dense evergreen forest understorey on a southern Korean island in late autumn (November), subdued light; no people, buildings or text",
+    "views": [],
+    "build": "A stocky, large-headed flycatcher, larger than a sparrow, with a thick neck and a fairly long tail; sits upright and still in the lower or middle storey, dropping to the ground for prey. Bill black, short, broad-based and slightly hooked at the tip, much shorter than the head. Legs short and dark. Wings short and rounded, the wingtips reaching only a short way down the tail. Tail fairly long and square-ended, dark blue, without white.",
+    "avoid": [
+      "Do not paint a white belly or white tail patches; the underparts from the breast down are deep orange-rufous and the tail is plain dark blue.",
+      "Do not paint a blue throat or blue breast (Blue-and-white Flycatcher); the throat is black and the breast orange.",
+      "Do not make the bird bright sky-blue overall; only the crown, neck spot and shoulder are glossy, the rest is deep dark blue.",
+      "Do not give it a thin warbler bill or long legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

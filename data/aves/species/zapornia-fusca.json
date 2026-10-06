@@ -54,13 +54,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ruddy-breasted Crake (Zapornia fusca), adult: dark brown upperparts, white chin, rufous-brown breast and upper belly, greyish-brown lower belly with white bars, greenish-brown bill, red legs",
+    "subject": "Ruddy-breasted Crake (Zapornia fusca), adult as seen in Korean marshes and rice paddies from May to August: crown, hindneck, upperparts, wings and tail plain dark olive-brown without streaks or spots; face, sides of the neck, breast and upper belly rich ruddy chestnut; chin and upper throat whitish; lower belly, rear flanks and undertail coverts dark greyish-brown with narrow white bars. Short, straight greenish-brown bill; bright red iris; legs and toes red.",
     "pose": "walking at the edge of a grassy marsh, half-hidden among stems",
     "scene": "Korean summer marsh and rice-paddy edge with dense riverside grass; no people, buildings or text",
     "views": [
-      "adult, side view walking: dark brown upperparts, rufous breast, white-barred greyish-brown lower belly, red legs",
-      "adult, head detail: white chin, greenish-brown bill"
-    ]
+      "adult, side view walking at a marsh edge: plain dark olive-brown upperparts, rich ruddy chestnut face, breast and upper belly, greyish-brown lower belly and undertail barred white, short greenish bill, red eye, red legs",
+      "adult, head detail: ruddy chestnut face with a whitish chin, short straight greenish-brown bill, bright red eye, plain olive-brown crown"
+    ],
+    "build": "Small, compact crake, 22.5cm long, about the length of a starling but rounder, with a laterally compressed body. Small head, short neck. Bill short (shorter than the head), straight and pointed, without a frontal shield. Legs medium length with long toes. Short tail often cocked and flicked, showing the barred undertail. Stays close to cover; flies weakly with legs dangling.",
+    "avoid": [
+      "Do not paint white bars on the wing coverts or a greyish head — those mark Band-bellied Crake (Zapornia paykullii).",
+      "Do not paint black-and-white streaks on the back — that is Baillon's Crake.",
+      "Do not paint a long red bill like a rail; the bill is short and greenish.",
+      "Do not paint yellow or green legs; they are red."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

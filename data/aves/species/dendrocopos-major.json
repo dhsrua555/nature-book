@@ -68,14 +68,23 @@
     }
   ],
   "art": {
-    "subject": "Great Spotted Woodpecker (Dendrocopos major japonicus), adult male: glossy blue-black crown, hindneck, back, rump and uppertail coverts; a crimson band about 1 cm wide across the nape; buffy-white face around the eye and ear coverts, buffy-white chin, throat and neck sides; a black bar running from the base of the lower mandible back toward the nape and down onto the side of the breast; large white oval shoulder (scapular) patches; black flight feathers barred with white; black tail with white-barred outer feathers; unstreaked buffy-white to pale buff breast, belly and flanks; rose-pink lower belly and bright scarlet undertail coverts; slate-grey chisel-shaped bill; reddish-brown to red eye; greenish-grey legs and zygodactyl feet.",
+    "subject": "Great Spotted Woodpecker (Dendrocopos major), adult male: forehead buffy white; crown glossy blue-black; a crimson band about 1cm wide across the nape; face and ear-coverts buffy white; a black moustachial bar from the bill base that joins the black nape and runs down onto the side of the breast; mantle, back and rump black; a large white oval patch on each shoulder; flight feathers black with rows of white spots forming bars; tail black, the outer feathers barred white; underparts unstreaked buffy white; lower belly pinkish; undertail coverts bright crimson; slate-grey bill; dark red eye; grey legs.",
     "pose": "clinging upright to an oak trunk, braced on its stiff tail feathers, head drawn back mid-strike while chiselling the bark",
     "scene": "Korean deciduous oak forest in early spring, sunlight through branches just opening pale-green leaves, mossy grey trunks, brown leaf litter on the slope; no people, buildings or text",
     "views": [
-      "adult male, clinging to trunk, side view: crimson nape band, white shoulder patch, scarlet undertail",
-      "adult female, clinging to trunk, side view: all-black nape without red",
-      "juvenile, clinging to trunk, side view: red crown, duller black plumage, pinkish lower belly"
-    ]
+      "adult male, side view clinging to a trunk, braced on its tail: crimson nape band, black crown, white face crossed by the black moustachial bar, large white shoulder oval, white-barred black wings, plain buffy-white underparts, bright red undertail coverts",
+      "adult female, side view clinging to a trunk: the same pattern but the nape all glossy black with no red",
+      "juvenile (summer), side view clinging to a trunk: red cap on the crown instead of the red nape, duller brownish-black plumage, dingy underparts, pinkish rather than crimson undertail coverts"
+    ],
+    "build": "Medium-sized woodpecker, about 24cm: a little shorter than a Brown-eared Bulbul but much stockier and short-tailed. Rounded head, stout neck. Bill strong, straight and chisel-tipped, about as long as the head, slate-grey. Legs short, grey, with two toes forward and two back. Tail stiff, pointed and black, used as a prop against the trunk. Flight deeply undulating, showing the white shoulder ovals and white-spotted flight feathers.",
+    "avoid": [
+      "Do not paint white bars across the lower back or leave out the white shoulder ovals; that is White-backed Woodpecker.",
+      "Do not give the adult male a red crown; his red is on the nape only, and red crowns belong to juveniles.",
+      "Do not streak the breast or flanks; the underparts are plain.",
+      "Do not paint a pale or yellow bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

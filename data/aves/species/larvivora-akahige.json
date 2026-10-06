@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Robin (Larvivora akahige), adult: orange head, throat and upper breast, rufous-brown back and tail, grey lower breast",
+    "subject": "Japanese Robin (Larvivora akahige), adult male on spring passage in April and May: forehead, face, sides of the neck, throat and upper breast bright orange-rufous, the orange reaching up onto the forehead; crown, nape, back and wings warm rufous-brown; rump and tail brighter rufous-chestnut; a thin blackish line divides the orange breast from the grey lower breast; lower breast and flanks blue-grey, the centre of the belly paler whitish-grey; bill blackish; large dark eye; legs pale pinkish-brown.",
     "pose": "perched low near the ground, side view",
     "scene": "Korean spring woodland undergrowth near the southern coast; no people, buildings or text",
     "views": [
-      "adult, side view perched: orange head and breast, rufous-brown back and tail, grey lower breast",
-      "adult, front view: orange throat and upper breast grading to grey below"
-    ]
+      "adult male, side view perched on a low branch: orange-rufous forehead, face, throat and upper breast, warm rufous-brown back, brighter rufous tail, thin black line then grey lower breast and flanks, black bill, pinkish legs",
+      "adult male, front view perched: orange-rufous throat and upper breast cut off below by a thin black line, grey lower breast and flanks, whitish-grey centre of the belly"
+    ],
+    "build": "Small, robin-shaped chat about 14cm, a little larger than a sparrow but rounder and bigger-headed, with long legs and an upright stance; often stands still on the ground or a low perch and flicks the tail. Bill thin, straight, black, shorter than the head. Legs long and slender, pale pinkish-brown. Wings short and rounded: at rest the wingtips just pass the base of the tail. Tail medium length, square, rufous-chestnut, brighter than the back, often raised; no wing-bars or pale eyebrow.",
+    "avoid": [
+      "Do not paint a black face and throat; that is the male Ryukyu Robin (Larvivora komadori).",
+      "Do not paint blue upperparts and a white underside as on the male Siberian Blue Robin (Larvivora cyane).",
+      "Do not paint spots, streaks, wing-bars or a pale eyebrow; the plumage is plain.",
+      "Do not paint the tail dark brown or black; it is bright rufous."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

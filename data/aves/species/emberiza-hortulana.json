@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Ortolan Bunting (Emberiza hortulana), adult male in spring, a migrant on a Korean offshore island: head, nape and breast band plain olive-grey; a conspicuous pale yellowish-white eye-ring; moustachial stripe and throat pale yellow, separated by a thin olive-grey malar line; mantle brown with dark streaks; rump plain greyish-brown; wings brown with rufous-buff fringes and two buff wing bars; belly, flanks and undertail coverts warm cinnamon-orange; tail dark brown with white on the outer feathers. Bill pink and conical; eye dark; legs pink.",
+    "pose": "foraging on bare ground among short grass, side view",
+    "scene": "short grass and bare earth beside small fields on a Korean offshore island during spring migration (May), clear light; no people, buildings or text",
+    "views": [],
+    "build": "A medium-sized, slim, long-tailed bunting, a little larger than a sparrow, with a rounded head and upright stance. Bill conical, fairly long and pointed for a bunting, pink, shorter than the head. Legs pink. Long wings: at rest the primaries project well beyond the tertials. Tail medium-long and notched, with white outer feathers.",
+    "avoid": [
+      "Do not paint a blue-grey head with a whitish throat — that is Grey-necked Bunting; Ortolan's head is olive-grey with a yellow throat and moustache.",
+      "Do not paint a white belly; the underparts below the breast band are cinnamon-orange.",
+      "Do not omit the pale yellowish eye-ring, and do not make the bill grey or dark; it is pink.",
+      "Do not paint a chestnut rump or yellow underparts (Yellowhammer)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

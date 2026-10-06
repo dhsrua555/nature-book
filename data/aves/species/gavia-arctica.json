@@ -48,13 +48,21 @@
     }
   ],
   "art": {
-    "subject": "Black-throated Loon (Gavia arctica), adult: straight, pointed bill, plain throat without a thin dark line, broad white patch on the rear flanks extending up the side of the body",
+    "subject": "Black-throated Loon (Gavia arctica), adult in winter (non-breeding) plumage, as seen off Korean coasts from November to March: crown and hindneck dark slate-grey, the dark cap reaching down to the eye; chin, throat and foreneck clean white with no dark line across the throat, separated from the dark hindneck by a sharp straight border; back and wings plain blackish-grey; underparts white, with a broad white patch on the rear flanks rising above the waterline towards the back. Straight, pointed dagger-shaped bill, grey with a dark tip and ridge; red eye; legs black.",
     "pose": "swimming low on the open sea, about to dive",
     "scene": "open sea off the Korean coast in winter with a grey swell; no people, buildings or text",
     "views": [
-      "adult, side view swimming: straight pointed bill, broad white rear-flank patch rising up the side of the body",
-      "head and neck detail: throat without a thin dark cross-line"
-    ]
+      "adult winter, side view swimming: dark slate-grey cap and hindneck, clean white throat and foreneck with a sharp border, plain blackish back, broad white rear-flank patch rising above the waterline, straight pointed bill",
+      "adult winter, head and neck detail in side view: white throat without any thin dark cross-line, sharp straight border between dark hindneck and white foreneck, dagger bill, red eye"
+    ],
+    "build": "Large loon, 72–78cm, much bigger than a Mallard and noticeably larger and heavier than Red-throated Loon; long, low body, thick neck and rounded head. Bill straight and pointed, dagger-like, shorter than the head, held level. Legs set far back near the tail. Swims low in the water and dives for fish; often only the back, neck and head show. In flight long-bodied, the feet projecting beyond the tail.",
+    "avoid": [
+      "Do not paint a thin dark strap across the throat or leave out the white rear-flank patch; those mark Pacific Loon (Gavia pacifica).",
+      "Do not paint a slim upturned bill or a white-speckled back; that is Red-throated Loon (Gavia stellata).",
+      "Do not paint an ivory-yellow bill; that is Yellow-billed Loon (Gavia adamsii)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

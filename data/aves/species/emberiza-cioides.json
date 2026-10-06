@@ -54,13 +54,23 @@
     }
   ],
   "art": {
-    "subject": "Meadow Bunting (Emberiza cioides), adult: sparrow-sized, white supercilium, fairly long tail with white outer tail feathers",
+    "subject": "Meadow Bunting (Emberiza cioides), adult male, as seen year-round in Korean farmland and scrub: crown and nape chestnut-brown; long white supercilium; black lores and a dark chestnut to blackish ear-covert patch; white submoustachial stripe and black malar stripe; white chin and throat; mantle rufous-brown streaked black; rump plain rufous-brown; wings brown with rufous fringes; breast unstreaked rich chestnut-orange, flanks rufous-buff, belly pale buff to whitish; long dark tail with white outer tail feathers. Conical bill grey, darker on the upper mandible; dark eye; pinkish legs.",
     "pose": "perched on top of a low shrub at a field edge, side view",
     "scene": "Korean countryside: low scrub along farmland and open grassy ground near a village; no people, buildings or text",
     "views": [
-      "adult, side view perched: white supercilium, long tail",
-      "adult in flight, from behind: white outer tail feathers"
-    ]
+      "adult male, side view perched on a shrub top: chestnut crown, long white supercilium, dark ear-covert patch, white submoustachial stripe, black malar, white throat, unstreaked chestnut-orange breast, streaked rufous-brown back, long tail",
+      "adult female, side view perched: the same pattern but duller, with brown ear-coverts, buff-white supercilium and a paler buff-orange breast",
+      "adult in flight, seen from above: streaked rufous-brown back, plain rufous rump, long dark tail with conspicuous white outer tail feathers"
+    ],
+    "build": "Medium-sized bunting, about as big in the body as a sparrow but slimmer and with a noticeably longer tail; rounded head with no crest. Perches upright on bush tops and wires to sing. Bill conical and sharply pointed, shorter than the head. Legs medium length, pinkish. Tail long and slightly notched, dark brown with conspicuous white outer feathers flashed in flight. Rump plain rufous, not streaked.",
+    "avoid": [
+      "Do not paint a black bib or a black spot on a white cheek; that is Eurasian Tree Sparrow (Passer montanus), which also has a short tail.",
+      "Do not streak the breast; streaked breast bands belong to Chestnut-eared Bunting (Emberiza fucata), while this species has a plain chestnut breast.",
+      "Do not add a crest; the crown is smoothly rounded.",
+      "Do not make the tail short or leave out the white outer tail feathers."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

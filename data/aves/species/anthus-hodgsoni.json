@@ -53,13 +53,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Olive-backed Pipit (Anthus hodgsoni), adult: greenish-brown upperparts with indistinct dark streaks, yellowish-green crown, buff supercilium, buff and olive-brown ear coverts, buff chin, throat, breast, belly and undertail coverts, buff or brown flanks, slender brown bill with slightly curved culmen and pale lower mandible, brown iris",
+    "subject": "Olive-backed Pipit (Anthus hodgsoni), adult in fresh autumn plumage, as seen at Korean rice-field margins in September–October: crown and upperparts olive-green with only faint dark streaks; bold supercilium, buff to orange-buff in front of the eye and whitish behind it, edged above by a thin blackish line; dark eye-stripe; olive-brown ear-coverts with a small white spot above a black spot at the rear corner; blackish malar stripe; throat buffy-white; breast warm buff with bold black streaks and spots, continuing more thinly along the flanks; belly white. Slender bill, dark brown above with a pale pinkish lower mandible; dark brown eye; pink legs.",
     "pose": "walking on the ground, foraging in short grass",
     "scene": "Korean autumn migration: harvested rice paddies and the grassy margins beside them, scrubby woodland beyond; no people, buildings or text",
     "views": [
-      "adult, side view on ground: greenish-brown upperparts with faint dark streaks, buff underparts, buff or brown flanks",
-      "head detail: yellowish-green crown, buff supercilium, buff and olive-brown ear coverts, slender brown bill with pale lower mandible"
-    ]
+      "adult, side view walking on the ground: olive-green upperparts with faint streaks, bold two-toned supercilium, warm buff throat and breast with bold black streaks, white belly, pink legs, white outer tail feathers",
+      "adult, head detail in side view: olive-green crown, supercilium buff in front of the eye and white behind, dark eye-stripe, buff and olive-brown ear-coverts with a white-and-black rear spot, black malar stripe, slender bill with a pale lower mandible"
+    ],
+    "build": "Small, slim pipit, 15.5cm, about the length of a sparrow but slimmer, with a horizontal stance; walks on the ground and readily flies up into trees when disturbed. Bill thin, straight and pointed, shorter than the head, the culmen slightly curved. Legs medium length, pink, with a short, curved hind claw. Long tertials almost cover the closed primaries. Tail fairly long and slim, dark with white outer feathers, pumped gently and constantly.",
+    "avoid": [
+      "Do not paint a brown, heavily streaked back like Tree Pipit or Red-throated Pipit; this species is olive-green with faint streaks.",
+      "Do not leave out the white-and-black spot at the rear of the ear-coverts.",
+      "Do not paint an unstreaked breast; it is boldly streaked black on buff.",
+      "Do not paint dark legs or a thick bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

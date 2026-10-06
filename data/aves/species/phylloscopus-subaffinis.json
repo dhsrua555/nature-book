@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Buff-throated Warbler (Phylloscopus subaffinis), adult (sexes alike): upperparts plain dull olive-brown; a yellowish-buff supercilium, weaker and less contrasting than in Tickell's Leaf Warbler; a dusky eye-stripe; underparts dull yellow strongly washed buff, most ochraceous on the throat, breast and flanks; no wing-bars; plain dark olive-brown wings and tail; small dark bill; dark eye.",
+    "pose": "perched low in a dense shrub, side view",
+    "scene": "shrubby hillside scrub with tall grasses on a Korean offshore island during spring migration in May, soft light; no people, buildings or text",
+    "views": [],
+    "build": "A small, plain leaf warbler, smaller than a sparrow and close to a Dusky Warbler in size, rather compact with a rounded head and a medium-length square tail. Bill fine and short, much shorter than the head. Legs slender. Wings short and rounded, with no bars. Keeps low in scrub and tall grass rather than high in trees.",
+    "avoid": [
+      "Do not add wing-bars, a crown stripe or a pale rump.",
+      "Do not paint whitish underparts; that would be Dusky Warbler (Phylloscopus fuscatus). This species is buffy-yellow below.",
+      "Do not paint bright lemon-yellow underparts with bright green upperparts."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

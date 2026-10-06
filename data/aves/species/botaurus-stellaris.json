@@ -48,13 +48,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Bittern (Botaurus stellaris), adult: black forehead and crown, hindneck black with buff feather edges and barring, thin dark brown throat stripe with buff on either side, blackish-brown streaks on the breast, black back and scapulars with jagged buff edges, pale buff rump with irregular faint dark bars, thick yellow bill, short stout yellowish-green legs",
+    "subject": "Eurasian Bittern (Botaurus stellaris), adult as seen in Korean reedbeds in winter (plumage the same all year): forehead and crown black; a broad blackish moustachial stripe from the bill base down the side of the throat; cheeks and neck sides golden-buff; throat whitish-buff with a thin dark brown central stripe and further rufous-brown stripes down the foreneck; hindneck buff barred dark; back and scapulars black with jagged buff edges, the rest of the upperparts golden-brown densely mottled and vermiculated black; breast and belly buff boldly streaked blackish-brown. Thick dagger-shaped bill yellow with a darker ridge; yellow iris; legs yellowish-green.",
     "pose": "standing still among reeds at dusk, side view",
     "scene": "Korean winter reedbed at the edge of a lake, dry brown reeds standing in shallow water; no people, buildings or text",
     "views": [
-      "adult, side view standing: black crown, streaked breast, black back with jagged buff edges, thick yellow bill, short yellowish-green legs",
-      "adult, head and neck detail: black forehead and crown, thin dark brown throat stripe, buff sides with blackish-brown streaks"
-    ]
+      "adult, side view standing hunched at the reed edge: black crown, golden-buff plumage, bold blackish-brown streaks on the breast, black back with jagged buff edges, thick yellow bill, short stout yellowish-green legs",
+      "adult, head and neck detail: black forehead and crown, broad black moustachial stripe, thin dark brown central throat stripe, golden-buff neck sides with blackish-brown streaks, yellow eye"
+    ],
+    "build": "Large, thickset heron, about 76cm long, smaller than a Grey Heron but much bulkier than Black-crowned Night Heron. Thick neck usually hunched into the shoulders; when alarmed it stands rigidly upright with neck and bill pointed skyward among the reeds. Bill stout, straight, sharply pointed, a little longer than the head. Legs short for a heron, thick and yellowish-green, with large feet that grasp reed stems. Very short tail hidden by the wings. In flight broad, rounded, owl-like wings with dark-barred flight feathers, neck retracted and feet trailing.",
+    "avoid": [
+      "Do not paint a long slender neck and long legs like a Grey Heron; the bittern is thick-necked and short-legged.",
+      "Do not paint white spots or a grey back — those are juvenile and adult Black-crowned Night Heron.",
+      "Do not paint a crest or long plumes on the head.",
+      "Do not paint a plain, uniform body; the plumage is densely streaked and mottled golden-brown and black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

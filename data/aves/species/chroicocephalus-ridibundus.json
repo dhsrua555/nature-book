@@ -53,14 +53,24 @@
     }
   ],
   "art": {
-    "subject": "Black-headed Gull (Chroicocephalus ridibundus), adult breeding: chestnut-brown head, pale grey upperwing, white outer wing with black-edged primaries, dark red bill and legs",
+    "subject": "Black-headed Gull (Chroicocephalus ridibundus), adult in winter plumage, as seen on Korean estuaries and harbours from November to March: white head with a dark ear-spot behind the eye and faint grey smudges above the eye and over the crown; back and upperwings pale grey; outer primaries white along the leading edge with black tips; underparts and tail white. Bill slender, red with a dark tip. Dark eye. Red legs.",
     "pose": "standing, side view",
-    "scene": "TODO",
+    "scene": "Korean estuary in winter, tidal mudflat and a calm channel at the river mouth with a resting flock of small gulls, soft low winter light; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: chestnut-brown head, pale grey wings, dark red bill and legs",
-      "adult non-breeding, head detail: white head with a dark ear-spot",
-      "first-winter, side view: dark brown tertials and some wing coverts, reddish-brown bill and legs"
-    ]
+      "adult breeding (from late March before departure), side view standing: dark chocolate-brown hood over the face, crown and throat with a white nape, broken white crescent behind the eye, pale grey upperwing, dark red bill and legs",
+      "adult winter, head detail in profile: white head with a dark ear-spot behind the eye and faint grey smudges above the eye, red bill with a dark tip",
+      "first-winter, side view standing: brown carpal bar and dark brown tertials on pale grey wings, dark ear-spot, orange-red bill with dark tip, dull orange legs, black tail band",
+      "adult in flight seen from above, body level: pale grey upperwing with a white wedge along the leading edge of the outer wing and black tips to the primaries"
+    ],
+    "build": "Small, slim gull, about 40cm, clearly smaller and slighter than Common Gull and far smaller than Vega Gull; rounded head, slender neck. Bill thin, straight, fairly long for a small gull. Legs medium length, red. At rest the black-tipped primaries project well beyond the tail. In flight narrow pointed wings with a long white wedge along the leading edge of the outer wing, black tips to the primaries and dusky grey underside to the inner primaries. Tail white, square. Buoyant, agile flight.",
+    "avoid": [
+      "Do not paint a jet-black hood — the breeding hood is dark chocolate-brown and does not reach the nape.",
+      "Do not paint a short, stubby black bill — that is the smaller Saunders's Gull (Chroicocephalus saundersi).",
+      "Do not show the brown hood on birds in a winter scene; winter adults are white-headed with an ear-spot.",
+      "Do not paint yellow legs or bill, or black wingtips with large white mirrors (larger gulls)."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

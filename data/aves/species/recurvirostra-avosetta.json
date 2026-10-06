@@ -44,13 +44,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pied Avocet (Recurvirostra avosetta), adult in breeding plumage: long, thin, sharply pointed bill curving upward; black crown, sides of head, upper neck and hindneck; black primaries; rest of plumage white",
+    "subject": "Pied Avocet (Recurvirostra avosetta), adult as seen in Korean estuaries in winter (the black-and-white pattern is the same all year): cap from the forehead over the eye to the nape and the whole hindneck black; face below the eye, throat, foreneck and underparts white; on the upperparts a black stripe along the scapulars and a black band across the median wing coverts on white, giving a pied back; primaries black; tertials and tail white. Bill black, long, needle-thin and curving strongly upward in its outer half; dark eye; long blue-grey legs with partly webbed toes.",
     "pose": "wading in shallow brackish water, sweeping its bill from side to side at the surface",
     "scene": "Korean estuary where a river meets the sea, shallow water over tidal flats; no people, buildings or text",
     "views": [
-      "adult breeding, side view wading: upcurved bill, black crown, sides of head and hindneck, white body, black primaries",
-      "adult, head detail: long, thin upcurved bill with a pointed tip"
-    ]
+      "adult, side view wading in shallow water: black cap and hindneck, white face and body, black scapular stripe and black wing-covert bar on the folded wing, black primaries, long thin upcurved black bill, long blue-grey legs",
+      "adult, head detail: black cap reaching down to the eye, white face and throat, long, needle-thin black bill curving upward in its outer half to a fine point"
+    ],
+    "build": "Elegant, slender wader, about 43cm long, clearly larger than Common Redshank and smaller than Eurasian Curlew; small rounded head on a fairly long neck. Bill much longer than the head, needle-thin, nearly straight at the base and curving strongly upward in the outer half to a fine point. Legs long and blue-grey, toes partly webbed; often swims. At rest the black wingtips reach about the tail tip. In flight black outer wing, black scapular stripes and black covert bars on white; legs project beyond the tail.",
+    "avoid": [
+      "Do not paint a straight or downcurved bill; the bill curves strongly upward.",
+      "Do not paint red or pink legs — that is Black-winged Stilt (Himantopus himantopus); avocet legs are blue-grey.",
+      "Do not paint an all-white back; the black scapular stripe and wing-covert bar are always present.",
+      "Do not paint a black face or throat; the black is limited to the cap and hindneck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

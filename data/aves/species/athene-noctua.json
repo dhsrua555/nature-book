@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Little Owl (Athene noctua), adult male winter: greyish buff-brown upperparts, small buff spots on the crown, white chin, neck sides, breast, flanks and belly buffy white with dark buff-brown streaks, yellow bill, dark brown claws",
+    "subject": "Little Owl (Athene noctua), adult male in winter, as seen around Korean villages, banks and old trees: crown greyish-brown densely spotted with small buff-white dots; broad whitish eyebrows giving a frowning look; upperparts greyish buff-brown with larger whitish spots; white chin and a white band across the throat; underparts buffy-white with broad dark buff-brown streaks on the breast, flanks and belly. Bill pale yellow; eyes bright lemon-yellow; legs and toes feathered whitish, claws dark brown.",
     "pose": "perched upright on a crumbling earth bank",
-    "scene": "Korean village outskirts by a river, with a collapsed earth bank, a cliff and an old tree; no people, buildings or text",
+    "scene": "Korean village outskirts by a river in winter, with a collapsed earth bank, a low cliff and an old bare tree among dry grasses; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: greyish-buff upperparts, buff-spotted crown, yellow bill, dark brown claws",
-      "adult male winter, front view perched: white chin, buffy-white underparts streaked dark buff-brown"
-    ]
+      "adult winter, side view perched: greyish buff-brown upperparts with whitish spots, crown with fine buff dots, flat head, pale yellow bill, dark brown claws, short tail",
+      "adult winter, front view perched: white chin, broad whitish eyebrows over bright yellow eyes, buffy-white underparts with broad dark streaks"
+    ],
+    "build": "Small, stocky owl, roughly the length of a starling but much plumper, with a broad, flat-topped head without ear tufts and no visible neck. Bill short and hooked. Legs fairly long for an owl, feathered. Tail short and barred. Stands upright on banks, walls, rocks or posts and bobs when alarmed. Flight low and bounding on rounded wings.",
+    "avoid": [
+      "Do not give it ear tufts; that would be a scops owl.",
+      "Do not paint dark eyes; the eyes are bright yellow.",
+      "Do not make it large or long-tailed; it is a small, compact owl with a short tail.",
+      "Do not paint a dark bill; it is pale yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

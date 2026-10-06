@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula griseiventris), adult male in winter: glossy black cap from the forehead to the crown, black around the bill base and on the chin; cheeks, ear-coverts and throat rose-red; nape, mantle and back blue-grey; breast, flanks and belly grey like the back, with no red; rump and undertail coverts white; wings glossy black with a broad pale grey-white bar on the greater coverts; tail glossy black. Bill short, thick, rounded and black; dark eye; legs dark brown. The female has the same black cap but a grey-brown body and no red.",
+    "pose": "perched in a bare tree nibbling buds, side view",
+    "scene": "Korean mountain woodland in winter, bare deciduous branches with swelling buds and a little snow; no people, buildings or text",
+    "views": [],
+    "build": "Plump, bull-necked finch, a little larger than a sparrow, with a big rounded head and short neck. Bill black, very short, thick and stubby, rounded on the culmen, much shorter than the head. Legs short, dark brown. Wings fairly short; tail medium length, black, square to slightly notched. Moves slowly, nibbling buds and seeds in trees and shrubs. In flight a square white rump contrasts with the black tail.",
+    "avoid": [
+      "Do not paint red or pink on the breast and belly; this race is grey below, red only on the cheeks and throat.",
+      "Do not paint a conical, pointed bill; it is short, thick and rounded.",
+      "Do not omit the white rump and the pale wing-bar.",
+      "Do not extend the black cap down over the throat; only the chin is black."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

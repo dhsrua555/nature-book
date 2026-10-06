@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Common Redstart (Phoenicurus phoenicurus), adult male in spring: white forehead extending back as a short white line above the eye; crown, nape and back blue-grey; face and throat black; breast and flanks bright orange-red, fading to whitish on the belly and undertail; wings plain grey-brown with no white patch; rump and tail rufous-orange, the central tail feathers dark brown. Thin black bill; dark eye; black legs.",
+    "pose": "perched on a low branch at a woodland edge, side view, rufous tail quivering",
+    "scene": "Korean woodland edge in May with fresh green leaves and dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Slim chat, about the size of a sparrow but slimmer and longer-legged; rounded head and upright stance. Bill thin, straight and pointed, much shorter than the head. Legs slender, black. Wings fairly long and pointed. Tail of medium length, square-ended, constantly quivered. Female plain grey-brown above with a pale eye-ring, a buff-orange wash below and the same rufous tail.",
+    "avoid": [
+      "Do not add a white wing patch or a black back; those mark the Daurian Redstart (Phoenicurus auroreus), the common redstart in Korea.",
+      "Do not extend the black onto the breast; only the face and throat are black (a black breast marks the Black Redstart).",
+      "Do not omit the white forehead.",
+      "Do not paint the whole tail orange; the central feathers are dark brown."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

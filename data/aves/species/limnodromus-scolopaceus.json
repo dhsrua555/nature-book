@@ -48,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-billed Dowitcher (Limnodromus scolopaceus), adult: long straight black bill with a pale buff base, dark grey crown and upperparts with pale feather edges, pale grey-brown face, neck, breast and axillaries, blackish-brown bars on the breast sides becoming darker towards the tail, white underparts with pale brown markings, yellowish-green legs",
+    "subject": "Long-billed Dowitcher (Limnodromus scolopaceus), adult in winter (non-breeding) plumage, as seen on Korean wetlands in late autumn: crown and upperparts plain dark grey with narrow paler feather edges; a clear whitish supercilium above a dark loral stripe; face, neck and breast fairly uniform pale grey-brown; breast sides and flanks with some dark bars; belly white; undertail coverts barred dark; bill blackish with a dull greenish-buff base; dark eye; legs yellowish-green.",
     "pose": "standing at the water's edge, side view",
-    "scene": "Korean coastal mudflat at a river mouth with shallow pools; no people, buildings or text",
+    "scene": "Korean coastal mudflat at a river mouth with shallow pools in late autumn (October–November); no people, buildings or text",
     "views": [
-      "adult, side view standing: long straight black bill with pale base, dark grey upperparts with pale edges, pale grey-brown breast with dark bars on the sides, white belly, yellowish-green legs",
-      "adult, head detail: long straight bill, pale buff at the base"
-    ]
+      "adult winter, side view standing in shallow water: very long straight bill with a pale base, plain dark grey upperparts with pale edges, whitish supercilium, pale grey-brown breast, dark bars on the breast sides and flanks, white belly, yellowish-green legs",
+      "adult, head detail in profile: long straight black bill with a dull greenish-buff base, whitish supercilium above a dark loral stripe, pale grey-brown face",
+      "adult, in flight seen from above, head, body and tail in line: dark grey wings with a narrow white trailing edge, white wedge from the rump up the back, finely barred tail"
+    ],
+    "build": "Medium-sized, stocky, snipe-like wader, 30cm, about Common Redshank size but heavier and shorter-necked, front-heavy with a hunched, horizontal stance. Bill very long and straight, about twice head length, with only a slight droop at the very tip. Legs medium length, yellowish-green. At rest the wingtips reach about the tail tip. In flight a narrow white wedge runs from the rump up the lower back, the tail is finely barred blackish and white, and the secondaries have a narrow white trailing edge. Feeds by rapid vertical 'sewing-machine' probing.",
+    "avoid": [
+      "Do not paint an upturned bill or long legs; that is a godwit.",
+      "Do not paint an all-black, blunt-tipped bill with long blackish legs; that is Asian Dowitcher (Limnodromus semipalmatus).",
+      "Do not show rufous underparts in the late-autumn scene; brick-red plumage is breeding plumage only.",
+      "Do not paint a snipe's striped crown and cryptic brown back; the winter upperparts are plain dark grey."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

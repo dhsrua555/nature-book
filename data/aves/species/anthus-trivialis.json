@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Tree Pipit (Anthus trivialis), adult, as seen in Korea on autumn migration: upperparts warm buff-brown with clear dark streaks on the crown and mantle, rump unstreaked; face rather plain, with a weak buffy-white supercilium and no dark spot at the rear of the ear-coverts; two pale wing-bars; dark malar stripe; throat whitish; breast buff with bold black streaks; flanks buff with only fine thin streaks; belly white; outer tail feathers white. Bill fine, dark above with a pinkish base below; dark eye; legs pink.",
+    "pose": "walking on short grass under trees with the tail gently pumping, side view",
+    "scene": "short grass and fallen leaves beneath trees on a Korean offshore island during autumn migration; no people, buildings or text",
+    "views": [],
+    "build": "Slim pipit, a little larger than a sparrow. Bill fine and straight, shorter than the head, slightly stouter than Olive-backed Pipit's. Legs pink, medium length, with a short, arched hind claw. Tail medium-long with white outer feathers, gently pumped while walking. Walks on short grass under trees and flies up into branches when flushed.",
+    "avoid": [
+      "Do not paint greenish upperparts, a bold black-and-white supercilium or a white-and-black spot on the rear ear-coverts; those mark Olive-backed Pipit (Anthus hodgsoni).",
+      "Do not paint heavily streaked flanks or white braces on the back (Red-throated Pipit, Anthus cervinus).",
+      "Do not paint dark legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

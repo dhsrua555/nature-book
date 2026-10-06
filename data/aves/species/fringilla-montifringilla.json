@@ -50,14 +50,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Brambling (Fringilla montifringilla), adult male winter: pale blackish-brown head with two grey stripes, buff back with black spots, buff throat, breast and shoulders, white belly, two white wing bars, white rump, pale yellow bill",
+    "subject": "Brambling (Fringilla montifringilla), adult male in winter plumage, as seen in Korean woodland from October to March: head and nape dark brownish-black, heavily fringed grey-brown, with greyish sides to the nape forming two pale stripes; mantle blackish with buff fringes; narrow white rump; throat, breast and shoulders bright orange; belly white; rear flanks orange-buff with small black spots; wings black with an orange-buff upper wing bar, a paler buff to whitish lower bar and a small white patch at the base of the primaries; tail black, notched. Conical bill pale yellow with a dark tip; dark eye; pinkish-brown legs.",
     "pose": "perched on a birch branch, side view",
     "scene": "Korean winter woodland of birch and pine; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: pale blackish-brown head with two grey stripes, buff back with black spots, buff throat, breast and shoulders, white belly, two white wing bars, pale yellow bill",
-      "adult male summer, side view perched: black head and back, buff throat, breast and shoulders, white belly, two white wing bars, black bill",
-      "adult female, side view perched: pale brown head, paler buff throat, breast and shoulders, buff back with black spots"
-    ]
+      "adult male, winter (October–March), side view perched: brownish-black head scaled grey-brown, greyish nape sides, bright orange throat, breast and shoulders, white belly, black-spotted orange-buff flanks, two pale wing bars, pale yellow bill with a dark tip",
+      "adult male, breeding plumage (seen on spring passage in April–May), side view perched: glossy black head and mantle, black bill, bright orange throat, breast and shoulders, white belly, white rump, pale wing bars",
+      "adult female, side view perched: grey-brown head with dark stripes along the sides of the crown and grey nape sides, paler orange-buff breast and shoulders, buff back spotted black, white belly, pale wing bars"
+    ],
+    "build": "Finch a little larger than a sparrow, longer-winged and slimmer-looking, usually feeding on the ground in flocks. Rounded head. Bill conical and pointed, much shorter than the head. Legs short, pinkish-brown. At rest the wingtips reach a little past the base of the tail. Tail medium length, black, distinctly notched. In flight the narrow white rump is the key mark, with orange shoulders and pale wing bars on black wings.",
+    "avoid": [
+      "Do not paint a solid glossy black head and black bill on winter birds; that is the male's breeding plumage.",
+      "Do not paint the breast pinkish like a Common Chaffinch or pale buff; it is bright orange.",
+      "Do not omit the white rump.",
+      "Do not paint green tones or a heavy grosbeak bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

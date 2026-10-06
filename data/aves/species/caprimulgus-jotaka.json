@@ -46,13 +46,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey Nightjar (Caprimulgus jotaka), adult: relatively large head and eyes, entire plumage mottled brown, black and grey so that it looks like part of a branch or dead leaves, long wings and long tail",
+    "subject": "Grey Nightjar (Caprimulgus jotaka), adult male in summer, resting by day in Korean forest from May to August: whole plumage cryptically mottled and vermiculated grey, grey-brown and black with buff and rufous spots, so that it looks like bark or dead leaves; crown grey with dark central streaks; white patches on the throat; underparts finely barred grey-brown and buff; long wings and tail mottled and barred like the body, with white spots near the tips of the outer tail feathers. Bill tiny and black, with a huge gape and stiff bristles at its base; large dark eye; legs and feet very short, brownish.",
     "pose": "resting lengthwise along a branch by day, breast pressed flat against it",
     "scene": "Korean summer mixed forest: shady interior with a small grassy clearing; no people, buildings or text",
     "views": [
-      "adult, side view perched lengthwise on a branch: cryptic brown, black and grey mottling, large head and eye",
-      "adult in flight: long wings and long tail, mouth wide open to catch insects"
-    ]
+      "adult male, side view resting lengthwise along a branch: large flat head, large dark eye, tiny bill, cryptic mottled grey, brown and black plumage, white throat patches, long wings and tail lying along the branch",
+      "adult male, flight from below: long pointed wings with a white patch across the outer primaries, long tail with white spots near the outer tips, wide gape open to catch insects",
+      "adult female, flight from below: same shape and mottling, with smaller buff patches on the outer primaries and no white in the tail"
+    ],
+    "build": "Medium-sized, long-winged, long-tailed night bird, 27–32cm, about as long as a pigeon but much slimmer and flatter. Large flat head with large dark eyes and almost no visible neck. Bill tiny, but the gape is enormous, opening wide back towards the eyes. Legs very short with tiny feet, barely visible. Rests lengthwise along a branch or flat on the ground, body horizontal and pressed down. At rest the long pointed wings reach well down the tail but not to its tip. Tail long, slightly rounded. Flight buoyant and agile on long pointed wings; the male shows a white patch across the outer primaries.",
+    "avoid": [
+      "Do not perch it crosswise on a twig like a songbird; it lies lengthwise along a branch or flat on the ground.",
+      "Do not draw a hooked or long bill, long legs or forward-facing owl-like eyes.",
+      "Do not paint bright rufous or boldly contrasting plumage; it is a muted grey, brown and black mottle.",
+      "Do not give the female white wing or tail patches; hers are small and buff, or absent in the tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -72,14 +72,23 @@
     }
   ],
   "art": {
-    "subject": "Adult male Daurian Redstart in breeding plumage, a small chat about 14 cm long. Crown and nape pale silvery grey; forehead, lores, face, ear-coverts, chin and throat black; mantle and back black; wings black with a large, conspicuous white patch at the base of the secondaries and tertials; breast, belly and undertail coverts deep rufous-orange; rump orange; tail orange with blackish central feathers; thin black bill; dark brown eye; blackish-brown legs.",
+    "subject": "Daurian Redstart (Phoenicurus auroreus), adult male in early spring (March), as seen at Korean farmland edges: crown and nape silvery grey, palest on the crown; lores, face, ear-coverts, chin and throat black; mantle, back and wings black, with a large white patch at the base of the secondaries and tertials; rump and uppertail coverts rufous-orange; breast, belly, flanks and undertail coverts deep rufous-orange; tail rufous-orange with the central pair of feathers blackish. Thin black bill; dark brown eye; blackish legs.",
     "pose": "perched upright on the tip of a bare shrub branch, tail slightly lowered, showing the white wing patch",
     "scene": "edge of farmland and scrub at the foot of a wooded hillside in Korea in early spring (March), leafless shrubs, dry grasses and a few yellow forsythia flowers; no people, buildings or text",
     "views": [
-      "adult male, perched, side view",
-      "adult female, perched, side view",
-      "adult male, perched, rear three-quarter view showing white wing patch, orange rump and orange tail sides"
-    ]
+      "adult male, perched, side view: silvery-grey crown and nape, black face, throat, back and wings, large white wing patch, deep rufous-orange breast and belly, rufous-orange tail sides with a blackish centre, blackish legs",
+      "adult female, perched, side view: plain olive-tinged grey-brown overall with paler buff-brown underparts, narrow pale eye-ring, darker brown wings with a smaller white wing patch, rufous-orange rump and outer tail feathers, dark brown central tail",
+      "adult male, perched, rear three-quarter view with head and body facing the same way: black back and wings with the large white wing patch, rufous-orange rump, rufous-orange tail with blackish central feathers, silvery-grey crown"
+    ],
+    "build": "Small chat, 14cm, about the size of a sparrow but slimmer, perching upright on exposed twigs, posts and wires. Round head, short neck. Bill thin, straight and short, clearly shorter than the head. Legs slender, medium length, blackish. At rest the wingtips reach only a little past the base of the tail. Tail medium length, square-ended, constantly quivered and often bobbed; its rufous-orange sides and the white wing patch flash when it flies.",
+    "avoid": [
+      "Do not omit the white wing patch; a male without it and with a dark crown is Black Redstart (Phoenicurus ochruros).",
+      "Do not paint the male's throat orange; the orange starts on the breast below a black throat.",
+      "Do not paint any blue on the female's rump or tail (Red-flanked Bluetail); hers are rufous-orange.",
+      "Do not give it a crest or a long tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Black-headed Bunting (Emberiza melanocephala), adult male in breeding plumage, as seen in Korea in late spring: whole head black from the forehead to the nape and cheeks, sharply bordered against the bright yellow chin, throat and half-collar; mantle, back and scapulars rich chestnut; rump chestnut with some yellow; underparts bright unstreaked yellow from throat to undertail; wings dark brown with pale grey-white feather edges forming two faint wing-bars; tail plain dark brown with no white. Bill fairly large, conical, lead-grey; dark eye; legs pinkish-brown.",
+    "pose": "perched upright on top of a shrub, side view",
+    "scene": "coastal shrubby farmland on a Korean offshore island in late spring (May), green barley fields; no people, buildings or text",
+    "views": [],
+    "build": "Large, long-bodied bunting, clearly larger than a sparrow and bigger than a Yellow-throated Bunting. Bill rather long for a bunting, conical and pointed, grey. Legs medium length, pinkish-brown. Tail fairly long and plain, without white sides. Sings from the tops of bushes and tall stalks, perching very upright.",
+    "avoid": [
+      "Do not paint white outer tail feathers; this bunting has no white in the tail.",
+      "Do not paint a chestnut or rufous head; that is Red-headed Bunting (Emberiza bruniceps).",
+      "Do not let the black run onto the throat; the throat is yellow.",
+      "Do not streak the yellow underparts."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

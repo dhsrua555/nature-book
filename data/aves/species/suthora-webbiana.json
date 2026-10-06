@@ -36,10 +36,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Vinous-throated Parrotbill (Suthora webbiana), adult (sexes alike, plumage the same all year): crown and nape warm rufous-chestnut; face and ear-coverts pinkish-buff; throat and breast pinkish-buff to vinaceous with faint fine darker streaks on the throat; belly paler buff; back, rump and tail warm brown; wings brown with rufous-chestnut edges to the flight feathers; tiny, very deep, parrot-like bill, greyish horn with a paler tip; dark eye.",
+    "pose": "clinging sideways to a dry reed stem with the tail cocked, one of a busy flock moving through the reeds",
+    "scene": "Korean field edge in winter: dry common reeds and low shrubs beside a stream, pale low sunlight; no people, buildings or text",
+    "views": [],
+    "build": "Tiny, long-tailed songbird, about the size of a Long-tailed Tit, with a round, fluffy body. Large round head, no visible neck. Bill tiny, very short and deep with a curved culmen, like a miniature parrot's, much shorter than the head. Legs short and strong for clinging to stems. Wings short and rounded; at rest they reach only the base of the tail. Tail long, about as long as the body, graduated, often cocked or flicked. Moves in noisy, restless flocks through reeds, grass and shrubs, flying weakly from bush to bush.",
+    "avoid": [
+      "Do not paint a slender pointed bill; the bill is tiny, deep and parrot-like.",
+      "Do not paint a black eye-stripe or a white head; that is Long-tailed Tit.",
+      "Do not paint grey or olive tones; the bird is warm brown, rufous and pinkish-buff.",
+      "Do not paint a short tail."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

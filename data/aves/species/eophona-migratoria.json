@@ -49,13 +49,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chinese Grosbeak (Eophona migratoria), adult male: pale orange bill with a black tip, glossy black head and cheeks, grey-brown hindneck and back, glossy black wings with white primary coverts and white tips to the flight feathers, pale buff-yellow breast and belly, pale grey rump, black tail",
+    "subject": "Chinese Grosbeak (Eophona migratoria), adult male in the breeding season, as seen in Korean parks and forests from May to August: glossy blue-black hood covering the whole head, face and chin, cut off cleanly at the nape; hindneck, mantle and back grey-brown; rump pale grey; wings glossy blue-black with white tips to the primaries and white on the primary coverts; breast greyish-buff, flanks warm orange-buff, belly and undertail coverts whitish; tail black and notched. Bill very large and conical, pale orange-yellow with a black tip to both mandibles; iris dark brown; legs pinkish-brown.",
     "pose": "perched on a branch, eating seeds",
     "scene": "Korean summer park or forest with tall broadleaf trees; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black-tipped pale orange bill, glossy black head and wings, grey-brown back, pale buff-yellow underparts, black tail",
-      "adult female, side view perched: grey-brown head and back, black-tipped pale orange bill"
-    ]
+      "adult male breeding, side view perched: black-tipped pale orange-yellow conical bill, glossy black hood and wings, white primary tips and white on the primary coverts, grey-brown nape and back, buff breast with orange-buff flanks, black tail",
+      "adult male, back view perched: black hood, grey-brown back, pale grey rump, glossy black wings with white primary tips, black notched tail",
+      "adult female, side view perched: no black hood, head and back grey-brown, darker wings with white primary tips, buffy underparts with orange-buff flanks, same black-tipped pale orange-yellow bill"
+    ],
+    "build": "Stocky, big-headed finch, 17cm, clearly larger than a sparrow, with a large rounded head and thick neck. Bill huge for the bird: deep at the base, conical with a gently curved culmen, nearly as long as the head. Legs short, pinkish-brown. Perches upright in tree canopy and cracks seeds with the heavy bill. At rest the black primaries project beyond the tertials. Tail medium length, black, with a notched tip. In flight the white primary tips form a white trailing edge to the black outer wing.",
+    "avoid": [
+      "Do not paint an all-yellow bill or a white patch in the middle of the primaries; those are Japanese Grosbeak (Eophona personata).",
+      "Do not limit the male's black to a cap or face mask; the hood covers the whole head to the nape and chin.",
+      "Do not paint a brown-headed Hawfinch with a thick pinkish bill and white tail tip.",
+      "Do not give the female the male's black hood."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

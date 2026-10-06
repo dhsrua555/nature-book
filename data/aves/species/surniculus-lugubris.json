@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Square-tailed Drongo-Cuckoo (Surniculus lugubris), adult: plumage entirely black with a blue-green gloss; a small white patch on the nape, often hidden; undertail coverts barred white; the outer tail feathers barred white on their undersides. Bill black, slender and slightly decurved; legs short and dark.",
+    "pose": "perched upright on a branch in the mid-canopy, side view",
+    "scene": "Broadleaf woodland edge on a Korean offshore island in May, during spring migration, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Slim, drongo-like cuckoo, a little smaller than Black Drongo, perching upright in the mid-canopy. Bill short, slender and slightly decurved, without the heavy hooked tip and bristles of a drongo. Legs short, with two toes forward and two back. Tail long and square-ended. Wings pointed; flight direct and cuckoo-like.",
+    "avoid": [
+      "Do not paint a deeply forked tail; that marks Black Drongo and Fork-tailed Drongo-Cuckoo.",
+      "Do not paint a thick, hooked drongo bill; the bill is thin and slightly curved like a cuckoo's.",
+      "Do not omit the white bars under the tail.",
+      "Do not paint white spots on the body of the adult; spotting belongs to juveniles."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

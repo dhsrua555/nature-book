@@ -31,13 +31,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Jankowski's Bunting (Emberiza jankowskii), adult: a patch on the belly",
+    "subject": "Jankowski's Bunting (Emberiza jankowskii), adult male in breeding plumage, as on the breeding grounds in the far north of Korea in late spring: crown and nape chestnut; long whitish supercilium; grey ear-coverts with a dark line through the eye; throat white; sides of the neck and breast plain pale grey; a large dark chestnut patch in the centre of the belly; flanks buffish-white; lower belly and vent whitish; mantle and scapulars rufous-buff boldly streaked black; rump plain rufous-brown; wings brown with rufous-buff feather edges; tail dark brown with white outer feathers; bill small, conical, grey; legs pinkish.",
     "pose": "perched on a low shrub, side view",
     "scene": "Korean late-spring river valley in the far north: grassy riverbank, shrubby foothills and small open mounds; no people, buildings or text",
     "views": [
-      "adult, side view perched: patch on the belly",
-      "adult, front view perched: patch on the belly"
-    ]
+      "adult male breeding, side view perched on a low shrub: chestnut crown, long whitish supercilium, grey ear-coverts, white throat, plain grey breast, dark chestnut belly patch below the breast, rufous back streaked black, white outer tail feathers",
+      "adult male breeding, front view perched: white throat, plain grey breast with no chestnut band, large dark chestnut patch in the centre of the whitish belly"
+    ],
+    "build": "A slim, medium-sized bunting, about the size of a Meadow Bunting and a little longer than a sparrow, with a fairly long tail. Rounded head without a crest and a short neck. Bill small, conical and pointed, much shorter than the head. Legs short-medium, pinkish. At rest the wingtips reach a short way past the base of the tail. Tail long and slightly notched, dark brown, the white outer feathers flashing in flight. Sits upright on shrub tops and tall grass stems to sing, and feeds on the ground among grass.",
+    "avoid": [
+      "Do not paint a chestnut breast band or a bold black-and-white face with a black moustache; that is Meadow Bunting (Emberiza cioides). Jankowski's breast is plain grey.",
+      "Do not paint the belly patch black, or spread chestnut over all the underparts; it is one dark chestnut patch in the centre of the belly.",
+      "Do not add any yellow to the face or underparts.",
+      "Do not streak the breast of the male; it is plain grey."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

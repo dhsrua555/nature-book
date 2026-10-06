@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
+    "subject": "Bonin Petrel (Pterodroma hypoleuca), adult: forehead and face white; crown, nape and a patch around and behind the eye blackish-grey, forming a dark cap; upperparts grey, with a darker blackish 'M' formed by the outer wings and a dark band across the inner wing coverts; tail dark grey; underparts white; underwing white with a thick black bar running diagonally inwards from the wrist and black tips and leading edge. Bill black.",
     "pose": "flying low over the open ocean, side view",
     "scene": "remote oceanic island surrounded by open sea; no people, buildings or text",
-    "views": []
+    "views": [],
+    "build": "Medium-sized gadfly petrel, 30cm, about the length of a feral pigeon but much longer-winged, clearly smaller than Streaked Shearwater. Compact body, rounded head and short neck. Bill short, much shorter than the head, thick, with tube nostrils on top and a strongly hooked tip. Legs short. Wings long, narrow and pointed, angled at the wrist; flight fast, with high arcing glides and few wingbeats. Tail grey and slightly wedge-shaped.",
+    "avoid": [
+      "Do not paint it like a shearwater with a long thin bill and plain upperparts; the bill is short and stout and the upperwing shows a dark M pattern.",
+      "Do not leave the underwing all white; it has a bold black diagonal bar and black margins.",
+      "Do not paint an all-white head; the crown and the area around the eye are dark.",
+      "Do not draw it flapping like a gull; it arcs and glides on angled wings."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

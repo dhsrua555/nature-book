@@ -70,13 +70,22 @@
     }
   ],
   "art": {
-    "subject": "Northern Nutcracker (Nucifraga caryocatactes), adult: dark chocolate-brown forehead, crown and nape, dirty-white lores, chocolate-brown ear coverts and throat with slender white teardrop spots, blackish-brown wings with a blue-green gloss, black bill with white nasal bristles, brown iris, black legs",
+    "subject": "Northern Nutcracker (Nucifraga caryocatactes), adult (sexes alike), as seen in Korean high-mountain conifer forests: forehead, crown and nape plain dark chocolate-brown without spots; lores dirty white; face, throat, neck, breast, mantle and belly chocolate-brown thickly marked with white teardrop spots; wings blackish-brown with a blue-green gloss; tail black with white tips to the outer feathers; undertail coverts white. Bill black, long, strong and pointed, with whitish nasal bristles; brown eye; legs black.",
     "pose": "perched on a pine branch, extracting seeds from a cone",
     "scene": "high Korean mountain slopes with pines and other conifers in early spring; no people, buildings or text",
     "views": [
-      "adult, side view perched: dark chocolate-brown body, white teardrop spots on ear coverts and throat, blackish-brown glossy wings, black bill and legs",
-      "adult, head detail: dirty-white lores, white-spotted ear coverts and throat, black bill with white nasal bristles"
-    ]
+      "adult, side view perched: plain dark brown cap, chocolate body thickly spotted white, blue-green glossed blackish wings, black tail with white tips, white undertail coverts, long black bill, black legs",
+      "adult, head detail in side view: dirty-white lores, white teardrop spots on the ear coverts and throat, plain dark crown, black bill with whitish nasal bristles"
+    ],
+    "build": "Medium-sized crow-family bird, about 34.5cm, roughly the size of a Eurasian Jay and much smaller than a crow, with a large head and a stout body. Bill black, about as long as the head, straight and dagger-pointed. Legs black and strong. Tail fairly short and square. Broad, rounded wings; flight undulating, showing the white undertail and white tail corners.",
+    "avoid": [
+      "Do not put white spots on the crown and nape; the cap is plain dark brown.",
+      "Do not paint it all black or crow-sized; it is jay-sized and heavily spotted white.",
+      "Do not paint an all-black tail; the outer tail feathers have white tips and the undertail coverts are white.",
+      "Do not paint a short, thick finch-like bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

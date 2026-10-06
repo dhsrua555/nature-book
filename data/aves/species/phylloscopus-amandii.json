@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Yellow-streaked Warbler (Phylloscopus amandii, correctly Phylloscopus armandii), adult, as seen in Korea on spring migration: upperparts plain olive-brown; long pale buffish-white supercilium; dark brown eye-stripe; mottled ear-coverts; underparts dull whitish with fine, faint yellowish streaks on the throat and breast, buff-brown flanks and buffish undertail coverts; wings and tail plain brown without wing-bars. Bill fairly short and pointed, dark above and pale below; dark eye; legs pale yellowish-brown.",
+    "pose": "hopping through dense low undergrowth, side view",
+    "scene": "dense undergrowth at a woodland edge on a Korean offshore island during spring migration; no people, buildings or text",
+    "views": [],
+    "build": "Small, rather stocky leaf warbler, smaller than a sparrow and bigger-headed than Dusky Warbler. Bill fairly short, slender and pointed (finer than Radde's Warbler's), shorter than the head. Legs fairly long and sturdy, pale. Short rounded wings with a short primary projection; tail medium length, square-ended. Skulks low in thick cover and on the ground.",
+    "avoid": [
+      "Do not paint green upperparts or bright yellow underparts; the bird is olive-brown with only faint yellowish streaks below.",
+      "Do not add wing-bars or a crown stripe.",
+      "Do not paint a thick, stubby bill (Radde's Warbler, Phylloscopus schwarzi) or dark legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

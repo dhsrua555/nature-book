@@ -51,13 +51,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Night Heron (Gorsachius goisagi), adult: reddish-brown plumage overall, short thick bill, yellow lores, yellow iris, dark brown stripe down the centre of the foreneck, broad black band across the middle of the wing, yellowish-green legs",
+    "subject": "Japanese Night Heron (Gorsachius goisagi), adult in the breeding season, as seen on wooded southern Korean islands from May to August: head and neck rich rufous-chestnut, the crown slightly darker, without long plumes; upperparts rufous-brown finely vermiculated dark brown; folded flight feathers blackish with rufous-chestnut tips; chin and throat buff with a dark brown stripe down the centre of the foreneck; breast and belly buff, streaked and mottled dark brown. Short, thick dark bill with a slightly arched ridge; bare lores yellow; iris yellow; legs yellowish-green.",
     "pose": "walking quietly on the forest floor near water, side view",
     "scene": "Korean southern coastal island: a dark conifer-lined ravine with a small pond; no people, buildings or text",
     "views": [
-      "adult, side view standing: reddish-brown body, short thick bill, yellow lores, dark foreneck stripe, yellowish-green legs",
-      "adult, in flight: broad black band across the middle of the wing"
-    ]
+      "adult, side view standing hunched on the forest floor: rufous-chestnut head and neck, finely vermiculated rufous-brown upperparts, dark brown stripe down the buff foreneck, short thick dark bill, yellow lores and iris, short yellowish-green legs",
+      "adult in flight seen from the side and above: rufous-brown wing coverts, broad black band across the middle of the wing formed by the flight feathers, rufous-chestnut tips to the flight feathers, neck drawn in"
+    ],
+    "build": "Medium-small, stocky heron, about 49cm long, a little smaller than Black-crowned Night Heron; thick neck usually held hunched, rounded head with at most a short nuchal tuft. Bill short and thick, no longer than the head, much stubbier than in typical herons, with a gently curved culmen. Legs fairly short and stout, yellowish-green. Short tail. Walks slowly and quietly on the forest floor. In flight broad rounded wings: rufous-brown coverts, a broad blackish band across the flight feathers and rufous-chestnut tips; neck retracted.",
+    "avoid": [
+      "Do not paint a black crown and crest or white-tipped primaries — those mark Malayan Night Heron (Gorsachius melanolophus).",
+      "Do not paint white spots on the back or wings (juvenile Black-crowned Night Heron).",
+      "Do not give it a long, slender, dagger-shaped bill or a long thin neck.",
+      "Do not paint a grey or black back; the upperparts are rufous-brown."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

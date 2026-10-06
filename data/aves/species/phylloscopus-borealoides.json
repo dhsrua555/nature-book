@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Sakhalin Leaf Warbler (Phylloscopus borealoides), adult (sexes alike), as seen on Korean islands on spring passage: crown and nape greyish-olive, slightly greyer than the olive-brown mantle and wings; long whitish supercilium reaching well behind the eye and a dark eye-stripe; one or two thin pale wing-bars on the coverts; underparts whitish with a greyish-buff wash on the flanks. Bill with a dark upper mandible and a pale pinkish lower mandible; dark eye; legs and feet pale pink.",
+    "pose": "foraging low in shaded undergrowth, pumping its tail downward",
+    "scene": "shady broadleaf woodland on a Korean offshore island in May, fresh green leaves and dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small leaf warbler, smaller than a tree sparrow, slim with a fairly long, slender bill and a medium-length tail. Legs pale pink and rather strong-looking for a leaf warbler. Forages low in shady undergrowth and on lower branches, frequently pumping its tail downward.",
+    "avoid": [
+      "Do not paint dark legs (Arctic Warbler, Hume's Leaf Warbler); the legs are pale pink.",
+      "Do not paint a pale central crown stripe and a yellowish undertail; that is Eastern Crowned Warbler (Phylloscopus coronatus).",
+      "Do not paint bright green upperparts, yellow underparts or bold wing-bars."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

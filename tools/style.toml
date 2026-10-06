@@ -1,6 +1,7 @@
 # 삽화 프롬프트 템플릿 — 모든 그림의 톤을 여기 한 곳에서 맞춘다.
 # {style} 자리에는 아래 style 이, 나머지 {…} 자리에는 종 파일(data/<권>/species/<id>.json)의 값이 들어간다.
 #   {ko} {en} {sci} {subject} {pose} {scene} {views} {points}
+#   {build} 종별 크기·체형·부리·다리 비율(art.build), {avoid} 이 종에서 흔히 틀리는 점(art.avoid) — 쓰는 법은 tools/ART_RULES.md
 # 고친 뒤에는 `uv run tools/illustrate.py prompt <종 id>` 로 완성된 프롬프트를 먼저 확인한다.
 
 model = "gpt-image-2.5-flare"   # 다른 선택: gpt-image-2.5-sunburst(기준 그림 편집이 더 정밀), gpt-image-2
@@ -25,8 +26,10 @@ ref = []                        # 예: ["art/ref/scene-style.png"]  (마음에 �
 prompt = """
 {style}
 Subject: a single bird — {subject}. Pose: {pose}.
+{build}
+{avoid}
 Setting: {scene}. Paint the setting as a soft but recognisable watercolor background that shows where this species lives in Korea, with the right plants, season and light.
-Composition: landscape format. The bird is the clear subject, sharply painted, about one third of the image width, placed slightly off-centre; the background is looser and gently out of focus so the bird stands out. Nothing else competes for attention (no people, buildings or other animals).
+Composition: landscape format. The bird is the clear subject, sharply painted, about one third of the image width, placed slightly off-centre; the background is looser and gently out of focus so the bird stands out. Nothing else competes for attention (no people, buildings or other animals). If more birds of the same species appear in the distance, they must carry exactly the same field marks; no other bird species.
 """
 
 [plate]
@@ -37,7 +40,10 @@ ref = []
 prompt = """
 {style}
 An identification plate of the {en} ({sci}) on a plain, pale cream paper background with no scenery at all.
+{build}
 Show these views, arranged from top to bottom with generous empty space between them, all at the same scale: {views}.
 Every one of these field marks must be clearly visible and accurately painted: {points}.
+{avoid}
+Each view must be a natural, anatomically correct posture: the head faces the same way as the body (no twisted or backward-turned heads), wings attach at the shoulders, flight views are seen squarely from above or below.
 Keep wide empty margins to the left and right of each view, because labels will be added there later. Absolutely no text or lettering of any kind.
 """

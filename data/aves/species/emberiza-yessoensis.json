@@ -25,10 +25,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "perched, side view",
-    "scene": "Korean reclaimed land: grassland with scattered shrubs beside a lake formed by reclamation; no people, buildings or text",
-    "views": []
+    "subject": "Ochre-rumped Bunting (Emberiza yessoensis), adult male in breeding plumage (late spring): entire head, chin and throat black, without any white moustachial stripe; mantle and back warm rufous-brown streaked black; rump plain ochre-cinnamon; wings brown with rufous edges; tail dark brown with white outer feathers; underparts buffy-white, the flanks washed warm buff; small conical blackish bill; dark eye; pinkish legs.",
+    "pose": "perched upright on a reed stem, side view",
+    "scene": "Korean reclaimed land in late spring: grassland with scattered shrubs and reeds beside a lake formed by reclamation; no people, buildings or text",
+    "views": [],
+    "build": "Small, slim reed bunting, about the size of a sparrow but slimmer, with a rounded head and a fairly long, slightly notched tail with white outer feathers. Bill small, short and conical, finer than in other reed buntings. Legs pinkish. Perches upright on reed stems and low shrubs in grassy wetlands and clings to stems.",
+    "avoid": [
+      "Do not paint a white moustachial stripe or white collar — that is Common Reed Bunting (Emberiza schoeniclus).",
+      "Do not paint a pale grey or whitish rump; the rump is ochre-cinnamon.",
+      "Do not paint a large, thick bill.",
+      "Do not paint any chestnut on the face or crown; the breeding male's head is all black."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

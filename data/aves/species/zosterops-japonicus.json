@@ -62,13 +62,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Warbling White-eye (Zosterops japonicus), adult: yellow-green upperparts, yellow throat, greyish-white underparts with pale brown flanks, ring of fine white feathers around the eye, pointed, slightly decurved blackish-brown bill, dark grey-brown legs",
+    "subject": "Warbling White-eye (Zosterops japonicus), adult (sexes alike), as seen year-round in evergreen forest on the Korean south coast and Jeju: forehead, crown, nape, back, rump and wing edges bright yellow-green; a broad, complete ring of fine white feathers around the eye, with dark lores in front of it; chin and throat bright yellow; breast and belly greyish-white, flanks washed pale brown; undertail coverts yellow; tail dark olive. Pointed, slightly decurved blackish-brown bill; dark eye; dark grey-brown legs.",
     "pose": "perched on a twig among evergreen leaves, side view",
     "scene": "Korean southern coast: evergreen broadleaf forest on an island hillside; no people, buildings or text",
     "views": [
-      "adult, side view perched: yellow-green upperparts, yellow throat, white eye-ring, greyish-white underparts with pale brown flanks, dark grey-brown legs",
-      "adult, head detail: ring of fine white feathers around the eye, pointed, slightly decurved blackish-brown bill"
-    ]
+      "adult, side view perched among camellia leaves: yellow-green upperparts, broad white eye-ring, yellow throat, greyish-white underparts with pale brown flanks, yellow undertail coverts, dark grey-brown legs",
+      "adult, head detail in side view: complete ring of fine white feathers around the eye, dark lores, yellow throat, pointed, slightly decurved blackish-brown bill"
+    ],
+    "build": "Very small, active songbird, 12cm, smaller than a sparrow and about the size of a tit; plump, round-headed and short-necked. Bill fine, sharply pointed and slightly down-curved, shorter than the head. Legs short, dark grey-brown. Tail medium length, square-ended. Moves in chattering flocks through camellia and other evergreen foliage, often hanging upside down to probe flowers for nectar.",
+    "avoid": [
+      "Do not paint chestnut flanks; that is Chestnut-flanked White-eye (Zosterops erythropleurus).",
+      "Do not make the eye-ring thin or broken; it is a broad, complete white ring.",
+      "Do not paint a thick finch-like bill or a long warbler-style supercilium.",
+      "Do not paint the throat white or the whole underparts yellow."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

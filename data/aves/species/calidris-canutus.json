@@ -50,14 +50,23 @@
     }
   ],
   "art": {
-    "subject": "Red Knot (Calidris canutus), adult breeding: bright rufous from face to belly, upperparts spotted blackish-brown with white feather edges, white lower belly and undertail coverts spotted blackish-brown",
+    "subject": "Red Knot (Calidris canutus), adult in breeding plumage as seen on Korean west-coast tidal flats in late April and May: face, supercilium, throat, neck, breast and belly rich brick-red to rufous-orange; crown streaked black and rufous; mantle and scapulars with large black centres and rufous and whitish-grey fringes, giving a mottled black, chestnut and silver look; wing coverts plainer grey; lower belly and undertail coverts white with scattered dark brown spots and chevrons. Bill black; dark eye; legs dull greenish-grey to blackish-olive.",
     "pose": "standing on wet mud, side view",
-    "scene": "TODO",
+    "scene": "Korean west-coast tidal mudflat at low tide during spring migration in May, shining wet mud with shallow channels; no people, buildings or text",
     "views": [
-      "adult breeding, side view standing: rufous face to belly, blackish-brown spotted upperparts with white edges, white undertail with dark spots",
-      "adult winter, side view standing: grey-brown upperparts with white edges, white underparts, spotted breast sides and flanks",
-      "juvenile, side view standing: winter-like plumage with black subterminal bands and white tips giving a scaly back and scapulars"
-    ]
+      "adult breeding plumage (late April–May), side view standing: brick-red face, neck, breast and belly, mottled black, chestnut and silver-grey back and scapulars, white lower belly and undertail with dark spots, straight black bill about head length",
+      "adult winter plumage, side view standing: plain pale grey upperparts with fine white fringes, whitish supercilium, grey-washed finely streaked breast, white underparts with sparse dark chevrons on the breast sides and flanks",
+      "juvenile (August–October), side view standing: grey upperparts in which each feather has a thin dark subterminal line and a white fringe, giving a neat scaly pattern, faint buff wash on the finely streaked breast"
+    ],
+    "build": "Stocky, plump, medium-sized sandpiper, 23.5cm, about the length of a Common Starling but much bulkier and clearly larger than a Dunlin, with a short neck, round head and short legs; horizontal, solid stance. Bill black, straight and fairly thick at the base, about as long as the head. Legs short, greenish-grey. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar, a pale grey rump finely barred darker that looks whitish-grey at distance but never pure white, and a plain grey tail.",
+    "avoid": [
+      "Do not paint a long or drooping bill — Great Knot (Calidris tenuirostris) is larger with a longer bill and heavy black breast spots.",
+      "Do not give it a pure white rump or a long decurved bill (Curlew Sandpiper).",
+      "Do not spread the rufous of the underparts over the upperparts; the back is black-centred with rufous and grey fringes and the wing coverts are grey.",
+      "Do not make the legs long or bright yellow; they are short and dull greenish-grey."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

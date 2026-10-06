@@ -23,10 +23,18 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Japanese Leaf Warbler (Phylloscopus xanthodryas), adult, as seen on Korean islands during spring migration: crown and upperparts fairly bright yellowish-green; long yellowish-white supercilium that stops short of the forehead; dark olive eye-stripe running to the bill base; ear-coverts mottled olive and yellow; wings darker with green edges and a narrow yellowish-white bar on the greater coverts, sometimes a second faint bar on the median coverts; underparts whitish strongly washed yellow, most yellow on the throat, flanks and undertail coverts. Bill dark with a pale orange-yellow base to the lower mandible; dark eye; legs pale brownish.",
+    "pose": "foraging among fresh leaves in the canopy, side view",
+    "scene": "deciduous trees on a Korean offshore island during spring migration in late May; no people, buildings or text",
+    "views": [],
+    "build": "Medium-sized leaf warbler, smaller than a sparrow but larger and longer-winged than Yellow-browed Warbler, with a rather flat crown and a fairly stout, pointed bill shorter than the head. Legs medium length, pale. Long wings with a long primary projection; the wingtips reach well down the tail. Tail medium length, square-ended. Forages actively in the canopy, picking insects from leaves.",
+    "avoid": [
+      "Do not paint it dull grey-green with whitish underparts like Arctic Warbler (Phylloscopus borealis); this species is yellower above and below.",
+      "Do not paint a pale crown stripe (Eastern Crowned Warbler).",
+      "Do not paint two bold white wing-bars (Two-barred Warbler); the bar is narrow and the second is faint or absent."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

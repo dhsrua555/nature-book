@@ -55,7 +55,10 @@
     "views": [
       "adult male, side view standing: green-glossed black cap with drooping crest, white face, dark green breast, grey belly, broad white wing patch",
       "adult female, side view standing: brown body, white head with black crest and black eye-ring"
-    ]
+    ],
+    "build": "TODO",
+    "confidence": "low",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

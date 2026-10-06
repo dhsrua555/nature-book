@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Savannah Sparrow (Passerculus sandwichensis), adult (sexes alike), a vagrant in Korean coastal grassland in autumn: crown streaked brown and black with a thin pale central stripe; a supercilium that is yellow in front of and above the eye and whitish behind; brown ear coverts outlined by a dark eye-stripe and a thin dark moustache, with a whitish submoustachial stripe and a dark malar stripe; upperparts grey-brown with bold dark streaks; wings brown with pale-fringed coverts and tertials; underparts white with crisp dark-brown streaks across the breast and along the flanks, often merging into a small central breast spot; tail short, notched, brown. Bill small, conical, pinkish with a darker culmen; eye dark; legs pink.",
+    "pose": "perched on a dry grass stem, side view",
+    "scene": "short coastal grassland with dry grasses near a Korean shore in autumn (October), warm light; no people, buildings or text",
+    "views": [],
+    "build": "A small, slim sparrow, slightly smaller and slimmer than a House Sparrow, with a small head, rather flat crown and short notched tail; runs mouse-like through short grass and perches upright on low stems. Bill small, conical, pinkish, much shorter than the head. Legs pink, medium length. Tail short with a notched tip and no white sides.",
+    "avoid": [
+      "Do not paint white outer tail feathers or a long tail as in buntings and pipits; Savannah Sparrow's short notched tail has no white.",
+      "Do not paint a chestnut face (Little Bunting) or a crest (Rustic Bunting).",
+      "Do not paint a thin pipit bill; the bill is small and conical.",
+      "Do not omit the yellow in the supercilium in front of the eye."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

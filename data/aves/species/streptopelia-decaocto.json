@@ -49,13 +49,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Collared Dove (Streptopelia decaocto), adult: rosy pale grey-brown forehead, crown and hind head, rosy pale greyish-white ear coverts and cheeks, rosy pale grey chin and throat, rosy grey breast and belly, bluish-grey lower rump and undertail coverts, dull black bill, red legs",
+    "subject": "Eurasian Collared Dove (Streptopelia decaocto), adult: head, neck and breast pale pinkish grey-buff, the forehead and crown slightly greyer; a narrow black half-collar across the hindneck, edged white; back and inner wing coverts sandy grey-brown, the outer coverts paler blue-grey; primaries dark brown; belly pale grey; lower rump and undertail coverts bluish-grey; tail grey-brown above with broad whitish tips to the outer feathers; bill slender, dull black; iris dark red with a narrow pale eye-ring; legs dark pinkish-red.",
     "pose": "perched on a bamboo stem, side view",
     "scene": "edge of a Korean village: sparse woodland and a bamboo grove; no people, buildings or text",
     "views": [
-      "adult, side view perched: rosy grey-brown head, rosy grey breast and belly, dull black bill, red legs",
-      "adult, view from below: bluish-grey undertail coverts"
-    ]
+      "adult, side view perched: pale pinkish grey-buff head and breast, black half-collar edged white on the hindneck, sandy grey-brown upperparts, dark primaries, slender dull black bill, red legs",
+      "adult, perched seen from below: rosy grey breast and belly, bluish-grey undertail coverts, tail underside blackish at the base with a broad white outer half"
+    ],
+    "build": "Medium-sized, slender dove, about 33cm, a little smaller and much slimmer than a feral pigeon, with a small rounded head, short neck and long tail. Bill short and slender, much shorter than the head. Legs short, red. At rest the folded wings reach only about the middle of the tail. Tail long, square-ended to slightly rounded; from below the basal half is blackish and the outer half broadly white. In flight pale grey outer wing coverts contrast with dark primaries.",
+    "avoid": [
+      "Do not paint scaly rufous-and-black wing coverts or striped patches on the sides of the neck; that is Oriental Turtle Dove (Streptopelia orientalis).",
+      "Do not paint a white-spotted black neck patch; that is Spotted Dove (Spilopelia chinensis).",
+      "Do not paint wine-red upperparts or a short tail; that is Red Collared Dove (Streptopelia tranquebarica).",
+      "Do not omit the black half-collar on the hindneck."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

@@ -61,14 +61,23 @@
   "young": "어린새는 얼굴과 앞목이 희고 부리가 흑갈색이다.",
   "similar": [],
   "art": {
-    "subject": "Eurasian Coot (Fulica atra), adult: plump, all-black body, white frontal shield, pale apricot bill, reddish-brown iris, lobed toes, white tips to the secondaries visible in flight",
+    "subject": "Eurasian Coot (Fulica atra), adult in winter, as seen on Korean wetlands from October to March: entire plumage sooty black, the head and neck blackest and the body slightly greyer; no white on the undertail. Short bill white to pale pinkish-ivory, continuing into a white frontal shield on the forehead; red eye; grey-green legs with long, lobed toes.",
     "pose": "swimming on open water, about to dive",
     "scene": "Korean winter wetland with open water and reed-fringed shores; no people, buildings or text",
     "views": [
-      "adult, side view swimming: all-black body, white frontal shield, pale apricot bill, reddish-brown eye",
-      "adult, flight view: all-black with white tips to the secondaries",
-      "juvenile, side view: white face and foreneck, blackish-brown bill"
-    ]
+      "adult, side view swimming: plump all-black body, white bill and frontal shield, red eye, no white on the tail",
+      "adult in flight seen from above: all-dark wings with a narrow white trailing edge to the secondaries, grey-green legs and lobed toes trailing beyond the short tail, head, body and tail in a straight line",
+      "juvenile (summer–autumn), side view swimming: grey-brown upperparts, whitish face, throat and foreneck, dull grey bill, little or no frontal shield"
+    ],
+    "build": "Medium-sized, plump waterbird, about 39cm, clearly smaller than a Mallard, with a rounded body sitting high on the water, a small rounded head and short neck; swims with a nodding head and dives with a small forward jump. Bill short, pointed and conical, shorter than the head, merging into the frontal shield. Legs strong, set well back, grey-green, the long toes bearing scalloped lobes instead of webs. Tail very short. Patters along the surface to take off; in flight a narrow white trailing edge to the secondaries.",
+    "avoid": [
+      "Do not paint a red frontal shield, a yellow-tipped red bill or white undertail patches — that is Common Moorhen (Gallinula chloropus).",
+      "Do not paint webbed feet; the toes have separate scalloped lobes.",
+      "Do not paint a broad duck bill; the bill is short, pointed and whitish.",
+      "Do not paint a white flank line or a long tail."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

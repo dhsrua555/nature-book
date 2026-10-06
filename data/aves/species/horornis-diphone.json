@@ -36,10 +36,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Japanese Bush Warbler (Horornis diphone), adult male, as seen on southern Korean islands in spring: upperparts plain olive-brown to greyish olive without any streaks; faint pale buff-white supercilium; dusky eye-stripe; wings plain olive-brown with no wing-bars; underparts dull whitish, washed grey-buff on the breast sides and flanks; tail plain olive-brown, fairly long and rounded. Bill fine and pointed, dark brown above with a paler pinkish lower mandible. Dark eye. Pinkish legs.",
+    "pose": "singing from inside a dense evergreen shrub, head raised and bill open, half hidden by leaves",
+    "scene": "dense evergreen camellia and bamboo thicket on a southern Korean island such as Jeju in spring, dappled light; no people, buildings or text",
+    "views": [],
+    "build": "Small, plain, skulking bush warbler, about the size of a sparrow, males noticeably larger than females; rounded head, plump body, fairly long rounded tail often held slightly cocked. Bill short, thin and pointed. Legs fairly long and sturdy, pinkish. Wings short and rounded, the wingtips reaching only the base of the tail. Stays inside dense evergreen and bamboo thickets; sings with the head raised.",
+    "avoid": [
+      "Do not add wing-bars, streaks or spots; the plumage is plain olive-brown.",
+      "Do not paint yellow or green-tinged underparts like a leaf warbler.",
+      "Do not paint a bold white supercilium and black eye-stripe; the face pattern is soft and faint.",
+      "Do not paint a short, stubby tail; it is fairly long and rounded."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

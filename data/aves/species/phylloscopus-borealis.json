@@ -49,13 +49,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Arctic Warbler (Phylloscopus borealis), adult: dark olive upperparts from forehead to uppertail coverts, yellowish-white supercilium, ear coverts mottled olive and pale yellow, pale yellow chin, throat, centre of breast, belly and undertail coverts, greyish-olive breast sides and flanks, dark brown upper mandible, yellowish-brown lower mandible, pale yellowish-brown legs",
+    "subject": "Arctic Warbler (Phylloscopus borealis), adult on passage (sexes alike): forehead to uppertail coverts dark greyish-olive; a long yellowish-white supercilium reaching well behind the eye and often slightly upturned at the rear; a dark olive eye-stripe; ear-coverts mottled olive and pale yellow; wings darker, with one thin whitish wing-bar on the greater coverts (sometimes a faint second); underparts whitish, washed pale yellow on the throat, centre of the breast and belly; breast sides and flanks greyish-olive; upper mandible dark brown, lower mandible yellowish-brown with a dusky tip; dark eye; pale yellowish-brown legs.",
     "pose": "foraging along a branch high in a conifer, side view",
     "scene": "Korean subalpine conifer forest on passage, fir and spruce branches; no people, buildings or text",
     "views": [
-      "adult, side view perched: yellowish-white supercilium, dark olive upperparts, pale yellow underparts, greyish-olive flanks, pale yellowish-brown legs",
-      "adult, head detail: supercilium, olive-and-pale-yellow ear coverts, dark brown upper and yellowish-brown lower mandible"
-    ]
+      "adult, side view perched on a conifer branch: long yellowish-white supercilium, dark eye-stripe, dark greyish-olive upperparts, one thin whitish wing-bar, long primary projection, pale yellow-washed underparts with greyish-olive flanks, pale yellowish-brown legs",
+      "adult, head in profile: yellowish-white supercilium over a dark olive eye-stripe, ear-coverts mottled olive and pale yellow, dark brown upper mandible and yellowish-brown lower mandible with a dusky tip"
+    ],
+    "build": "Fairly large, robust leaf warbler, about 13cm — about sparrow length but much slimmer, and larger than Yellow-browed or Pallas's Leaf Warblers. Flat-crowned head and a relatively strong, pointed bill shorter than the head. Legs pale yellowish-brown. Wings long: at rest the primary tips project well beyond the tertials. Tail medium-length and square. Forages actively among foliage, usually high in trees.",
+    "avoid": [
+      "Do not paint two bold wing-bars on a tiny, short-winged body — that is Yellow-browed Warbler (Phylloscopus inornatus); the Arctic Warbler shows one thin wing-bar.",
+      "Do not add a pale central crown stripe (Eastern Crowned Warbler, Phylloscopus coronatus).",
+      "Do not paint bright yellow underparts or blackish legs."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

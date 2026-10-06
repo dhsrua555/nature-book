@@ -41,13 +41,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Gray's Grasshopper Warbler (Locustella fasciolata), adult: brown upperparts, grey lower throat and breast, white belly, greyish-buff flanks",
+    "subject": "Gray's Grasshopper Warbler (Locustella fasciolata), adult, as seen in Korean forest undergrowth during passage in May-June and August-September: upperparts plain dark olive-brown, unstreaked; a greyish-white supercilium and dark eye-stripe; face and neck sides greyish; chin and upper throat whitish; lower throat and breast grey; belly white; flanks and long undertail coverts greyish-buff to warm buff-brown; wings and long rounded tail dark brown; bill fairly stout, dark above and pinkish below; dark eye; strong pinkish-brown legs.",
     "pose": "perched low in forest undergrowth, side view",
     "scene": "Korean forest interior with undergrowth during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view perched: brown upperparts, grey breast, white belly, greyish-buff flanks",
-      "adult, front view: grey lower throat and breast contrasting with white belly"
-    ]
+      "adult, side view perched low in undergrowth: plain dark olive-brown upperparts, greyish-white supercilium, grey breast, white belly, greyish-buff flanks and undertail, long broad rounded tail, pinkish legs",
+      "adult, front view: whitish chin, grey lower throat and breast contrasting with the white belly, greyish-buff flanks"
+    ],
+    "build": "Large, bulky Locustella warbler, about 17cm, larger and heavier than a sparrow, about the size of an Oriental Reed Warbler but rounder, with a heavy chest and flattish head. Bill stout, shorter than the head. Legs long and strong, pinkish-brown. Wings short and rounded; the long, broad, graduated tail extends well beyond the wingtips. Skulks on or near the ground in dense undergrowth, walking or hopping with the tail slightly cocked.",
+    "avoid": [
+      "Do not paint streaks on the back or spots on the breast.",
+      "Do not paint a short or square tail; it is long, broad and rounded.",
+      "Do not paint a crisp white supercilium with a dark border or a pale buff body like an Acrocephalus reed warbler."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

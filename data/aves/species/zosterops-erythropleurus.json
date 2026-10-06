@@ -53,13 +53,22 @@
     }
   ],
   "art": {
-    "subject": "Chestnut-flanked White-eye (Zosterops erythropleurus), adult male in winter plumage: black lores, prominent white eye-ring, bright yellow chin and throat, greyish-white breast with almost grey sides, white belly, large chestnut patch on the flanks, dull grey bill with a pale base to the lower mandible, brown iris, dull grey legs",
+    "subject": "Chestnut-flanked White-eye (Zosterops erythropleurus), adult (sexes alike), as seen in Korea on migration in May and September: crown, nape, back, wings and tail yellowish olive-green; black lores; broad, complete white eye-ring; chin and throat bright yellow; breast greyish-white, darker and almost grey on the breast sides; belly white; a large chestnut patch on the flanks below the folded wing (its size varies between birds); undertail coverts yellow. Bill thin, pointed and very slightly decurved, dull grey with a paler base to the lower mandible; iris brown; legs dull grey.",
     "pose": "moving quickly along a twig, picking insects from the foliage",
-    "scene": "TODO",
+    "scene": "Korean migration season in May: deciduous woodland edge and canopy with fresh green leaves; no people, buildings or text",
     "views": [
-      "adult male winter, side view perched: black lores, white eye-ring, yellow chin and throat, greyish-white breast, white belly, large chestnut flank patch, grey legs",
-      "adult male winter, front view: bright yellow throat above a greyish-white breast with greyer sides"
-    ]
+      "adult, side view perched on a twig: yellowish olive-green upperparts, black lores, broad white eye-ring, bright yellow chin and throat, greyish-white breast with greyer sides, white belly, large chestnut flank patch, grey legs",
+      "adult, front view perched: bright yellow throat ending sharply above a greyish-white breast with greyer sides, chestnut flank patches on both sides, yellow undertail coverts"
+    ],
+    "build": "Tiny, slim, very active songbird, about 10.5cm, smaller than a sparrow. Rounded head, short neck. Bill fine and pointed, shorter than the head, very slightly curved. Legs short, grey. Moves quickly through twigs and foliage, often hanging upside down to glean insects, and travels in small restless flocks. At rest the wingtips reach a short way past the base of the tail. Tail short to medium, square-ended, olive-green.",
+    "avoid": [
+      "Do not paint the flanks buff or brownish without a clear chestnut patch; that is Warbling (Japanese) White-eye.",
+      "Do not make the whole underparts yellow; only the chin, throat and undertail coverts are yellow.",
+      "Do not paint a thin, broken or coloured eye-ring; it is a broad, complete white ring.",
+      "Do not give it a thick finch-like bill."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

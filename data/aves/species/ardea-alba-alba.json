@@ -50,13 +50,22 @@
     }
   ],
   "art": {
-    "subject": "Great Egret (Ardea alba alba), adult: all-white plumage, very long neck, yellow bill and yellow bare skin in front of the eye, black legs with pale yellow or orange tibiae",
+    "subject": "Great Egret (Ardea alba alba), adult in winter (non-breeding) plumage, as seen in Korea from November to March: plumage entirely white, without plumes. Bill long, yellow and dagger-shaped; the dark gape line runs back to a point behind the eye. Bare lores yellow to greenish-yellow. Iris pale yellow. Legs black below the joint, with the bare tibia above it pale yellow to pinkish-orange; feet black.",
     "pose": "wading in shallow water with its long neck extended, hunting fish",
     "scene": "Korean winter wetland: shallow reservoir edge beside harvested rice paddies, a few other wintering egrets nearby; no people, buildings or text",
     "views": [
-      "adult, side view standing: all white, very long neck, yellow bill and lores, black legs with pale yellow-orange tibiae",
-      "adult in flight: all white, long neck noticeable"
-    ]
+      "adult winter, side view standing in shallow water with the neck extended: all-white plumage, very long kinked neck, long yellow bill with the gape line extending behind the eye, yellow lores, black legs with pale yellow-orange tibiae",
+      "adult, in flight seen from below: all white, neck folded into a deep bulge, broad wings with slow beats, long black legs trailing far beyond the tail"
+    ],
+    "build": "Very large, slim white heron, slightly larger and taller-looking than a Grey Heron; the largest white egret in Korea. Very long, thin neck with a distinct kink, often held in a deep S or stretched almost vertically. Bill yellow, long and straight, clearly longer than the head. Legs very long, black below with pale yellowish tibiae. At rest the wingtips reach about the tail tip. In flight slow, deep wingbeats, the neck folded into a deep bulge below the head and the long legs projecting far beyond the tail.",
+    "avoid": [
+      "Do not end the gape line below or in front of the eye (Medium Egret); in this species it runs past the rear of the eye.",
+      "Do not paint yellow feet on black legs (Little Egret), or all-black legs with no pale tibia.",
+      "Do not paint a black bill or breeding plumes on wintering birds.",
+      "Do not paint a short neck or a round head like Cattle or Medium Egret."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

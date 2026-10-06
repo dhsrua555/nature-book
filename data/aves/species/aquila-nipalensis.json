@@ -45,13 +45,22 @@
     }
   ],
   "art": {
-    "subject": "Steppe Eagle (Aquila nipalensis), adult: brown upperparts, black wings and tail, slender neck",
+    "subject": "Steppe Eagle (Aquila nipalensis), adult in winter: plumage almost uniformly dark brown on the head, body and wing coverts, often with a small rusty-buff patch on the nape; flight feathers and tail darker blackish-brown with fine grey barring; thighs fully feathered as brown trousers down to the toes; bill dark grey with a black tip; yellow cere and a long yellow gape line that runs back under the eye to its rear edge; dark brown eye; feet yellow.",
     "pose": "perched on top of a low tree in open dry grassland",
-    "scene": "dry open steppe grassland with a lone tree under a wide sky; no people, buildings or text",
+    "scene": "Korean winter: open farmland and low dry hills with a lone bare tree under a wide sky; no people, buildings or text",
     "views": [
-      "adult, side view perched: brown upperparts, black wings and tail, slender neck",
-      "adult, flight view: black wings and tail"
-    ]
+      "adult, side view perched on a bare tree: dark brown head, body and wing coverts, blackish-brown flight feathers and tail, feathered brown legs, heavy dark bill with a yellow cere and a long yellow gape reaching the rear of the eye",
+      "adult, in flight seen from below: long broad wings with fingered tips, dark brown coverts, grey finely barred flight feathers with a broad dark trailing edge, blackish-brown rounded tail"
+    ],
+    "build": "Very large, heavy eagle, 62–74cm, a little smaller than a Golden Eagle and much smaller than a Cinereous Vulture; big-headed with a heavy hooked bill shorter than the head. Legs feathered to the toes; feet yellow. At rest the wingtips reach about the tail tip. Tail medium length, rounded. In flight long, broad, parallel-edged wings with long fingered primaries, held flat or slightly drooped at the hand; the adult underwing shows grey, finely barred flight feathers with a broad dark trailing edge.",
+    "avoid": [
+      "Do not paint a golden-tawny crown and nape or a white tail base; those are Golden Eagle (Aquila chrysaetos) features.",
+      "Do not paint white shoulder patches or a pale golden crown (Eastern Imperial Eagle).",
+      "Do not paint a white tail or bare yellow legs as on sea eagles; the legs are fully feathered.",
+      "Do not paint a short gape ending in front of the eye; it extends back to the rear of the eye."
+    ],
+    "confidence": "medium",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

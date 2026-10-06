@@ -57,13 +57,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Skylark (Alauda arvensis), adult: short rounded crest, pale buff-brown body, rufous-brown head, back, lesser and median wing coverts, black streaks on the wings and breast",
+    "subject": "Eurasian Skylark (Alauda arvensis), adult (sexes alike, same plumage all year), as seen on Korean lowland farmland: crown warm brown with dark streaks, raised into a short rounded crest; buff-white supercilium and pale eye-ring; cheeks brown with a darker rim; upperparts warm brown to rufous-brown, heavily streaked blackish; lesser and median coverts rufous-toned; breast buff with fine dark streaks ending fairly sharply; belly and flanks whitish; tail dark brown with white outer feathers; bill stout, pointed, horn-brown with a darker ridge; dark eye; pinkish-brown legs with a long, straight hind claw.",
     "pose": "standing on bare soil in a field, crest slightly raised",
     "scene": "Korean lowland farmland and grassland with open fields; no people, buildings or text",
     "views": [
-      "adult, side view standing: short rounded crest, rufous-brown head and back, buff-brown body, black-streaked wings",
-      "adult, front view: black-streaked breast"
-    ]
+      "adult, side view standing on bare soil with the crest slightly raised: short rounded crest, warm rufous-brown head and back heavily streaked blackish, buff supercilium, black-streaked wing feathers, buff body, pinkish legs",
+      "adult, front view standing: buff breast with fine black streaks ending above a whitish belly, short stout bill, short rounded crest"
+    ],
+    "build": "Medium-small, bulky lark, 18cm, larger and heavier than a sparrow and smaller than a starling; stands fairly upright on the ground with a short rounded crest that it raises or flattens. Bill stout and pointed, shorter than the head. Legs short-medium, pinkish-brown, with a long hind claw. Tail medium-long, slightly notched, dark with white outer feathers. In flight broad wings with a white trailing edge and white tail sides; sings while hovering high in the air.",
+    "avoid": [
+      "Do not paint a long, spiky pointed crest - that is Crested Lark.",
+      "Do not paint plain, unstreaked upperparts; the head and back are heavily streaked black.",
+      "Do not omit the white outer tail feathers or paint them buff (Oriental Skylark).",
+      "Do not paint a thin bill or a bright rufous-red bird."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

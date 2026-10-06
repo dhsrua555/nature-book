@@ -23,10 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": []
+    "subject": "Asian Koel (Eudynamys scolopacea), adult male, as seen in Korean island woodland in late spring: entire plumage glossy blue-black from head to tail, with a faint greenish-blue sheen on the back, wings and long tail, and no pale markings anywhere; bill stout and slightly hooked, pale greenish-ivory; iris bright crimson-red; legs and feet grey.",
+    "pose": "perched partly hidden among the leaves of a fruiting tree, side view",
+    "scene": "Korean offshore island woodland in late spring (May), fresh green foliage and soft light; no people, buildings or text",
+    "views": [],
+    "build": "Large, long-tailed cuckoo, larger and heavier than Common Cuckoo, about as long as a Eurasian Magpie but slimmer, with a long, rounded tail and fairly short, rounded wings. Bill stout, slightly decurved, shorter than the head. Legs short, grey, two toes forward and two back. Keeps hidden in the dense foliage of fruiting trees. The female is very different: brown above, heavily spotted white and buff, whitish below with dense dark barring, with the same pale bill and red eye.",
+    "avoid": [
+      "Do not paint a black bill or dark eye, which would make it look like a crow; the bill is pale greenish and the iris red.",
+      "Do not paint a forked tail; that is Black Drongo.",
+      "Do not add a crest or any white markings to the male.",
+      "Do not give it a crow's heavy bill and thick legs."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {

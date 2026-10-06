@@ -50,13 +50,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Red-billed Starling (Sturnus sericeus), adult male: pale buff to yellowish-white head, throat and upper breast, blue-grey upperparts, fore-breast and breast sides, dull white belly, grey rump and undertail coverts, black wings and tail with a dark green gloss, white patch at the base of the primaries, red bill with a black tip, dark brown iris, orange legs",
+    "subject": "Red-billed Starling (Sturnus sericeus), adult male in spring: head, throat and upper breast silky whitish to pale buff, some birds tinged yellowish, the feathers fine and loose; mantle, back and scapulars soft blue-grey; wings glossy black with a dark green sheen and a neat white patch at the base of the primaries; rump pale grey; tail black glossed green; lower breast and breast sides blue-grey, belly dull white, undertail coverts grey; bill bright red with a black tip; dark brown iris; orange legs.",
     "pose": "walking in short grass, picking up insects",
     "scene": "Korean farmland and grassy field edge with scattered trees in spring; no people, buildings or text",
     "views": [
-      "adult male, side view perched: pale buff head, blue-grey upperparts, glossy black wings with white primary patch, red bill with black tip, orange legs",
-      "adult female, side view perched: brownish overall with brown back, white primary patch, paler bill"
-    ]
+      "adult male, side view perched: silky pale buff-white head and throat, blue-grey back and breast, glossy black wings with a small white primary patch, grey undertail coverts, red bill with a black tip, orange legs",
+      "adult female, side view perched: duller grey-brown overall with a brownish back, head greyish-buff rather than white, same white primary patch, paler red bill with a dark tip, orange legs",
+      "adult male in flight, seen from above: black wings each with a white patch at the base of the primaries, blue-grey back, pale grey rump, black tail; head, body and tail in a straight line"
+    ],
+    "build": "Medium-sized, sleek starling, about as big as White-cheeked Starling (Spodiopsar cineraceus), clearly larger than a sparrow and much smaller than a pigeon. Rounded head without a crest; slim body, short square tail and pointed wings. Bill straight and pointed, a little shorter than the head. Legs medium length, orange. Walks briskly on the ground and perches upright in trees. At rest the white primary patch shows as a small white mark at the edge of the folded wing; in flight the white patch flashes at the base of the primaries and the pale grey rump contrasts with the black tail.",
+    "avoid": [
+      "Do not paint a white rump or a black head with white cheeks — those are White-cheeked Starling (Spodiopsar cineraceus) traits.",
+      "Do not paint an all-red or yellow bill; the red bill has a distinct black tip.",
+      "Do not paint pink, yellow or dark legs; they are orange.",
+      "Do not add a crest; the head is rounded with loose, silky feathers."
+    ],
+    "confidence": "high",
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
   },
   "sources": [
     {
