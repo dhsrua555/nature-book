@@ -32,6 +32,7 @@ tools/nibr_entries.py   종 설명으로 종 파일 만들기(묶음 나누기·
 tools/ENTRY_RULES.md    종 설명 원문으로 항목을 쓸 때의 규칙
 tools/art_profiles.py   그림 프롬프트용 종별 형태 정보 정리(묶음 나누기·검사·합치기)
 tools/ART_RULES.md      종별 형태 정보(art.subject·build·views·avoid)를 쓸 때의 규칙
+tools/ref_photos.py     그릴 때 함께 붙일 그 종의 실제 사진 받기(iNaturalist, 한국 관찰 먼저) → art/ref/photos/
 art/                    삽화 원본·받은 편지함 (git 제외)
 cache/                  받아 둔 원문·작업 묶음 (git 제외)
 draft/                  처음 받은 초안 (git 제외)
@@ -92,6 +93,7 @@ uv run tools/serve.py          # http://localhost:8000
   `subject`(도판 주인공의 깃·부리·눈·다리, 배경 계절에 맞는 깃), `build`(크기와 체형, 머리에 견준 부리 길이와 굽은 정도, 다리·꼬리 모양),
   `views`(도해의 모습별 특징), `avoid`(닮은 종과 헷갈리기 쉬운 점 등 이 종에서 흔히 틀리는 것). 쓰는 규칙은 `tools/ART_RULES.md`.
   이 칸은 책에 실리지 않는 그림 재료라 현장 조류 도감의 일반 식별 지식도 근거로 쓴다(`art.basis`). `build` 가 `TODO` 인 종(`confidence: low`)은 그리지 않는다.
+  `marks` 는 책의 동정 포인트 영어가 실제와 어긋날 때 도해 프롬프트에 대신 넣는 바른 영어(같은 개수·순서), `checked` 는 실제 사진과 견주어 확인했다는 표시(`art_profiles.py vbatches` → `vmerge`).
 - 고친 뒤에는 늘 `uv run tools/build.py` → 국명·학명이 목록과 다르거나, 대표종이 그 분류에 없거나, 형식이 어긋나면 오류로 멈춘다. `--todo` 를 붙이면 TODO 위치를 모두 보여 준다.
 - 목·과 설명과 대표종(목록 옆 둥근 그림)은 `data/aves/volume.json` 의 `orders`, `families` 에 학명으로 적는다.
 
@@ -177,6 +179,7 @@ ChatGPT 데스크톱 앱의 Work는 이 폴더에서 명령을 실행하고 앱 
 자동화 없이 ChatGPT 대화창에서 그려도 된다.
 
 1. `uv run tools/illustrate.py prompt <종 id>` 로 나온 프롬프트를 ChatGPT에 붙여 넣는다(도판은 가로 3:2, 동정 도해는 세로 2:3으로 요청).
+   `art/ref/photos/<종 id>/` 의 실제 사진 가운데 새가 크고 또렷한 2장을 함께 붙인다(없으면 `uv run tools/ref_photos.py <종 id>`).
 2. 받은 그림을 `art/inbox/<종 id>.png`(도판) 또는 `art/inbox/<종 id>.id.png`(동정 도해)로 저장한다.
 3. `uv run tools/illustrate.py import` → webp 로 줄여 `img/aves/` 에 넣고 원본은 `art/raw/` 로 옮긴다.
 

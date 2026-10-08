@@ -23,19 +23,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Isabelline Shrike (Lanius isabellinus), adult male in autumn: crown and upperparts pale sandy grey-buff; a black mask from the lores through the eye to the ear-coverts, with a faint pale supercilium above it; wings brownish-black with pale fringes and a small white patch at the base of the primaries; rump and tail rufous-orange, contrasting with the pale back; underparts creamy white with a pinkish-buff wash on the breast and flanks. Bill dark and hooked; dark eye; legs dark grey.",
+    "subject": "Isabelline Shrike (Lanius isabellinus), first-winter bird as seen on the Korean coast in autumn: crown, nape, mantle and scapulars plain pale sandy grey-brown; a faint pale supercilium; a dark brown patch from just behind the eye over the ear-coverts, the lores paler; throat whitish; breast and flanks creamy buff with faint, fine dusky crescents on the breast sides and flanks; wing feathers dark grey-brown with broad pale buff fringes; no or only a trace of white at the base of the primaries; rump and tail rufous-cinnamon, brightest on the tail, contrasting with the sandy back. Bill pale pinkish-horn with a dark tip; dark eye; legs dark grey.",
     "pose": "perched upright on top of a low bush, side view",
     "scene": "Dry scrubby field edge on the Korean coast in October, autumn migration, warm low light; no people, buildings or text",
     "views": [],
-    "build": "Small, slim shrike, about the size of Brown Shrike, with a longish, slightly graduated tail; perches upright on bush tops. Bill short, strong and hooked. Legs short, dark. Females are duller, with a browner mask, a smaller or no white wing patch and faint dark crescents on the breast sides; first-winter birds resemble females.",
+    "build": "Small, slim shrike, about the size of Brown Shrike, with a longish, slightly graduated tail; perches upright on bush tops. Large head with no crest. Bill shorter than the head, strong and hooked at the tip. Legs short, dark grey. In flight the rufous rump and tail contrast with the pale sandy back. Adult males have a blackish mask and a small white patch at the base of the primaries; first-winter birds, as here, have a brown mask, a pale-based bill and little or no white in the wing.",
     "avoid": [
       "Do not paint warm rufous-brown upperparts or a bold white supercilium; those mark Brown Shrike (Lanius cristatus).",
       "Do not paint a rufous crown; that marks Red-tailed Shrike (Lanius phoenicuroides).",
       "Do not paint a grey crown with a chestnut back (Red-backed Shrike).",
-      "Do not make the tail the same colour as the back; the rufous tail contrasts with the pale sandy body."
+      "Do not make the tail the same colour as the back; the rufous tail contrasts with the pale sandy body.",
+      "Do not paint a solid black mask, an all-black bill or a white wing patch on this first-winter bird."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

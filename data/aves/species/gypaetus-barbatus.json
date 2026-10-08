@@ -63,7 +63,16 @@
       "Do not paint a dark brown head and body; that is the juvenile, not the adult."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "creamy-white head, often stained rusty-orange",
+      "black mask through the eye ending in a tuft of black bristles below the bill, the 'beard'",
+      "blackish slate-grey upperparts with fine white streaks",
+      "rusty-orange to tawny underparts",
+      "long, narrow wings",
+      "long, wedge-shaped black tail"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

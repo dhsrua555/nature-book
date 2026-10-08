@@ -59,7 +59,7 @@
       "adult, side view perched across a branch: bark-like grey-brown upperparts with a dark crown-to-back stripe and dark scapular V, dark eye-stripe, buff finely barred throat and breast, whitish spotted belly, short pointed bill, pale brown legs",
       "adult, tail detail from above, slightly spread: long rounded grey tail finely vermiculated brown and crossed by several narrow black bars"
     ],
-    "build": "Small, slim, cryptic relative of the woodpeckers, a little larger and longer-tailed than a sparrow; looks like a cross between a large warbler and a nightjar. Smallish head on a flexible neck that it twists snake-like when disturbed. Bill short, straight and pointed, shorter than the head, not chisel-like. Legs short, pale brownish, with two toes forward and two back. Perches across branches like a songbird and feeds on the ground on ants; does not climb trunks with the tail braced. Wings short and rounded; the long, soft, rounded tail extends well beyond the wingtips.",
+    "build": "Small, slim, cryptic relative of the woodpeckers, a little larger and longer-tailed than a sparrow, with a smallish rounded head and no crest (the crown feathers lie flat). Bill short, straight and pointed, shorter than the head, not chisel-like. Legs short, pale brown, with two toes forward and two back. Perches across branches like a songbird or hops on the ground picking up ants; it does not climb trunks propped on its tail. Wings short and rounded; the long, soft, rounded tail extends well beyond the wingtips.",
     "avoid": [
       "Do not paint it clinging upright on a trunk propped on a stiff tail like a woodpecker; it perches across branches or hops on the ground.",
       "Do not paint black-and-white or red woodpecker colours, or a chisel bill.",
@@ -67,7 +67,15 @@
       "Do not paint a pure white unmarked underside; the throat and breast are buff and barred."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "grey-brown upperparts finely vermiculated like bark and patterned with brown",
+      "dark brown stripe from the crown down the nape to the centre of the back, and a dark brown stripe through and behind the eye",
+      "whitish belly with small dark arrowhead spots, below a buff, finely barred throat and breast",
+      "long grey-brown tail finely vermiculated and crossed by several narrow black bars",
+      "pale brown legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

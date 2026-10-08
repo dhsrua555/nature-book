@@ -45,22 +45,31 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Spectacled Guillemot (Cepphus carbo), adult in winter plumage, as seen off the Korean east and south-east coasts from December to March: crown, hindneck and upperparts sooty blackish; a white ring around the eye with a short white line trailing back from it; throat, foreneck, breast and belly white, the flanks dusky; wings entirely dark with no white patch. Bill black, slender and pointed; dark eye; legs and feet bright red.",
+    "subject": "Spectacled Guillemot (Cepphus carbo), adult in breeding plumage, as seen off the Korean east coast in late winter and spring (February to April): entire plumage sooty blackish-brown, the head and neck a little greyer; a broad white oval patch around the eye, tapering behind the eye into a short pointed white streak; a small white spot at the base of the upper mandible; wings entirely dark with no white patch. Bill black, straight and pointed; dark eye; legs and feet bright red.",
     "pose": "resting upright on a reef, tarsi bent so they rest on the rock",
-    "scene": "Korean east-coast sea in winter: dark offshore reef rocks with crevices; no people, buildings or text",
+    "scene": "Korean east-coast sea in late winter to early spring: dark offshore reef rocks with crevices and cold blue water; no people, buildings or text",
     "views": [
-      "adult breeding (spring), side view standing upright on a rock: all sooty-black plumage with a white ring around the eye trailing back in a short white line, slender black bill, bright red legs, tarsi resting on the rock",
-      "adult winter, side view swimming: blackish crown and back, white eye-ring with its rear extension, white throat, breast and belly, all-dark wings"
+      "adult breeding (late winter to spring), side view standing upright on a rock: all sooty blackish-brown plumage, a broad white oval patch around the eye tapering into a short white streak behind it, a small white spot at the base of the bill, black bill, bright red legs and feet",
+      "adult winter, side view swimming: dark grey-brown crown, hindneck and back, white eye-ring with a short rear extension, white throat, breast and belly, all-dark wings, black bill"
     ],
     "build": "Stocky, medium-sized auk, 37cm, a little larger than a feral pigeon, with a rounded head and short thick neck. Bill black, straight, slender and pointed, a little shorter than the head. Legs and feet bright red. Tail short and rounded. Rests on rocks in an upright posture with the tarsi laid flat on the rock. Swims low and dives using half-opened wings. Flight low over the water with rapid whirring wingbeats; upperwing and underwing all dark.",
     "avoid": [
       "Do not paint a large white oval patch on the wing; that is Black or Pigeon Guillemot. The Spectacled Guillemot's wings are all dark.",
       "Do not paint orange or yellow feet; they are bright red.",
-      "Do not make the white eye marking a full mask; it is a narrow ring with a short line extending back.",
+      "Do not make the white eye marking a full face mask or a thin eye-ring; it is a white oval around the eye tapering into a short streak behind.",
+      "Do not paint glossy jet-black plumage; it is sooty blackish-brown.",
       "Do not paint a heavy, colourful puffin-like bill."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "broad white oval patch around the eye, tapering into a short streak behind it",
+      "black bill",
+      "otherwise sooty blackish-brown plumage",
+      "white underparts in winter",
+      "red legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -46,11 +46,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tristram's Bunting (Emberiza tristrami), adult male in breeding plumage, as seen on Korean woodland floors during spring migration in late April and May: black crown with a clear white median crown stripe; dirty-white supercilium; black ear coverts; dirty-white submoustachial (malar) stripe; black chin and throat; mantle and back olive-brown to warm brown with blackish-brown shaft streaks; rump unstreaked rufous-chestnut; wings brown with buff-edged coverts and tertials; breast and flanks washed buff with diffuse brownish streaks; belly white; tail dark brown. Bill small and conical, upper mandible dark grey, lower mandible pinkish; iris brown; legs flesh-pink.",
+    "subject": "Tristram's Bunting (Emberiza tristrami), adult male in breeding plumage, as seen on Korean woodland floors during spring migration in late April and May: black crown with a clear white median crown stripe; dirty-white supercilium; black ear coverts; dirty-white submoustachial (malar) stripe; black chin and throat; mantle and back olive-brown to warm rufous-brown with blackish-brown shaft streaks; rump unstreaked rufous-chestnut; wings brown with buff-edged coverts and tertials; breast and flanks warm rufous-buff with diffuse darker rufous-brown streaks; belly white; tail dark brown. Bill small and conical, upper mandible dark grey, lower mandible pinkish; iris brown; legs flesh-pink.",
     "pose": "foraging on the forest floor, side view",
     "scene": "Korean spring migration: shady woodland floor with leaf litter; no people, buildings or text",
     "views": [
-      "adult male breeding, side view on the ground: black crown with a clear white median stripe, dirty-white supercilium and malar stripe, black ear coverts and black throat, brown back with blackish streaks, chestnut rump, buff breast, white belly, flesh-pink legs",
+      "adult male breeding, side view on the ground: black crown with a clear white median stripe, dirty-white supercilium and malar stripe, black ear coverts and black throat, brown back with blackish streaks, chestnut rump, warm rufous-buff breast and flanks with diffuse darker streaks, white belly, flesh-pink legs",
       "adult male breeding, head detail in side view: boldly striped black-and-white head with black throat, small conical bill dark grey above and pinkish below, brown eye",
       "adult female, side view on the ground: blackish-brown crown sides with a buff median stripe, brown ear coverts, buffish-white supercilium and malar stripe, pale buff chin and throat, streaked brown back, chestnut rump, flesh-pink legs"
     ],
@@ -62,7 +62,8 @@
       "Do not paint dark legs; they are flesh-pink."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -57,11 +57,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-tailed Shrike (Lanius schach), adult of the grey-crowned Chinese form (sexes similar), as seen on Korean islands on passage: forehead, lores and ear coverts form a broad black mask; crown, nape and upper mantle pale pearl-grey; lower back and rump rufous-buff; wings black with a small white patch at the base of the primaries; throat and centre of the underparts white, flanks and vent rufous-buff; tail long and graduated, black with narrow pale buff edges. Bill blackish, stout and hooked; dark eye; legs blackish.",
+    "subject": "Long-tailed Shrike (Lanius schach), adult of the grey-crowned Chinese form (sexes similar), as seen on Korean islands and coasts: crown, nape and upper mantle pale to mid grey; a broad black mask from the lores through the eye to the ear coverts, the forehead grey with at most a thin black line at the bill base; lower mantle, scapulars, back and rump rufous-buff; wings black with pale-edged tertials and a small white patch at the base of the primaries; throat and cheeks below the mask white; breast washed pale buff; flanks, lower belly and vent rufous-buff; tail long and graduated, blackish with narrow pale buff edges to the outer feathers. Bill blackish, stout and hooked; dark eye; legs blackish.",
     "pose": "perched on a shrub beside a small lizard spiked on a twig",
     "scene": "dense shrubs at the edge of cultivated fields on a southern Korean island such as Jeju; no people, buildings or text",
     "views": [
-      "adult, side view perched: pearl-grey crown and nape, broad black mask across the forehead, rufous lower back, black wings with a small white patch, white underparts with rufous-buff flanks, long graduated black tail, blackish bill and legs",
+      "adult, side view perched: pale grey crown and nape, black mask through the eye with a grey forehead, rufous-buff scapulars and rump, black wings with a small white patch, white throat, buff-washed breast, rufous-buff flanks, long graduated blackish tail, blackish hooked bill and legs",
       "adult in flight, seen from above: grey crown and mantle, rufous rump, black wings with a small white primary patch, long dark tail with buff edges"
     ],
     "build": "Medium-large shrike, distinctly bigger and much longer-tailed than a Bull-headed Shrike, about the length of a Brown-eared Bulbul, with the tail making up nearly half the total length. Big head, stout black hooked bill. Legs short, blackish. Short rounded wings. Perches upright on bush tops, swinging its long tail; flight undulating, with a straight dash when attacking prey.",
@@ -69,10 +69,19 @@
       "Do not paint the brown crown and back of Brown Shrike (Lanius cristatus) or the rufous crown of Bull-headed Shrike (Lanius bucephalus).",
       "Do not paint a short tail; it is long and graduated.",
       "Do not paint a large white wing panel and white tail sides; those belong to Chinese Grey Shrike (Lanius sphenocercus).",
-      "Do not paint the whole tail bright rufous; it is blackish with narrow buff edges."
+      "Do not paint the whole tail bright rufous; it is blackish with narrow buff edges.",
+      "Do not paint the whole face black or a broad black forehead band; the black is a mask through the eye and the throat is white."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "pearl-grey head and crown",
+      "black mask from the lores through the eye to the ear coverts",
+      "white throat and underparts with rufous-buff flanks",
+      "long, graduated blackish tail with narrow buff edges",
+      "blackish bill and legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

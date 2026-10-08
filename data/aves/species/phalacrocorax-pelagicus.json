@@ -65,7 +65,7 @@
       "adult breeding (February–May), side view perched upright: forecrown and hindcrown tufts, dull red facial skin at the bill base, white flank patch above the thigh, green-glossed black body, thin bill",
       "adult non-breeding, side view perched: no crests and no white flank patch, red facial skin reduced so the face looks all dark, thin bill, slender neck"
     ],
-    "build": "Medium-sized, slender cormorant, about 73cm, obviously smaller and slimmer than Temminck's and Great Cormorants. Small head and thin, snake-like neck; bill notably thin and straight with a small hook at the tip, about as long as the head. Legs short and black, set far back, the feet fully webbed. Perches upright on rock ledges, often holding the wings out to dry. Tail fairly long and rounded, projecting well beyond the wingtips at rest. In flight the neck is held straight and thin, the head looks tiny and the wingbeats are rapid.",
+    "build": "Medium-sized, slender cormorant, about 73cm, obviously smaller and slimmer than Temminck's and Great Cormorants. Small head and thin, snake-like neck; bill notably thin and straight with a small hook at the tip, about as long as the head. Legs short and black, set far back, the feet fully webbed. Stands upright on rock ledges with the wings folded. Tail fairly long and rounded, projecting well beyond the wingtips at rest. In flight the neck is held straight and thin, the head looks tiny and the wingbeats are rapid.",
     "avoid": [
       "Do not paint a yellow chin pouch or white cheeks — those mark Temminck's and Great Cormorants.",
       "Do not paint brown, black-edged scaly wing coverts (Great and Temminck's Cormorants); this species looks uniformly glossy black.",
@@ -73,7 +73,15 @@
       "Do not paint a large bright red face reaching over the forehead (Red-faced Cormorant)."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "slimmer head and thinner bill than other cormorants",
+      "breeding: tufts on crown and hindcrown",
+      "breeding: small patch of dull red bare skin at the bill base and chin",
+      "black plumage with a green gloss",
+      "breeding: white thigh patch"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -41,23 +41,31 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Stejneger's Scoter (Melanitta stejnegeri), adult male in winter, as seen on Korean coastal seas from November to March: plumage black; a small upturned white crescent below and behind the eye; secondaries white, showing as a white patch at the rear of the folded wing. Bill long and deep with a hooked nail, mostly orange-yellow becoming orange-red towards the tip, with a prominent black knob rising at the base of the upper mandible; iris whitish; legs and feet reddish-pink.",
+    "subject": "Stejneger's Scoter (Melanitta stejnegeri), adult male in winter, as seen on Korean coastal seas from November to March: plumage black; a small white comma-shaped mark curving up behind and below the eye; secondaries white, showing as a white patch at the rear of the folded wing. Bill long and deep with a hooked nail: a high black knob rises at the base of the upper mandible and the black continues along the bill base; the rest of the bill sides pinkish-red, with a yellow streak along the cutting edge and an orange-red tip; iris pale bluish-white; legs and feet reddish-pink.",
     "pose": "swimming on the sea, about to dive",
     "scene": "Korean winter coast: open grey sea with a gentle swell offshore; no people, buildings or text",
     "views": [
-      "adult male, side view swimming: black plumage, small white crescent under and behind the pale eye, white secondaries just visible on the folded wing, orange-yellow bill with a black knob at the base",
+      "adult male, side view swimming: black plumage, small white comma-shaped mark under and behind the pale eye, white secondaries just visible on the folded wing, bill with a high black knob at the base, pinkish-red sides edged yellow and an orange-red tip",
       "adult female, side view swimming: dark brown overall, two pale patches on the face (in front of the eye and on the ear coverts), dark bill without a knob, white secondaries just visible",
       "adult male, flight side view from above: all-black body and wings with a large white panel on the secondaries"
     ],
     "build": "Large, heavy sea duck, 56cm, about Mallard length but bulkier and lower in the water. Large head with a long sloping forehead running into the knobbed bill; bill about as long as the head, deep at the base. Floats low and dives readily in small groups offshore, diving rather than flying when approached. Legs short, set far back. At rest the white secondaries may show as a small white patch on the folded wing. Tail short and pointed. Flight heavy and direct, with a large white rectangular patch on the secondaries contrasting with the black wing.",
     "avoid": [
-      "Do not paint the knob yellow; on this species the knob is black and the colour is on the rest of the bill (a yellow knob is Black Scoter).",
-      "Do not omit the white secondaries or the small white eye crescent.",
-      "Do not paint a dark iris on the male; it is pale.",
+      "Do not paint the knob yellow or orange; on this species the knob is black (a yellow-orange knob is Black Scoter, Melanitta americana).",
+      "Do not paint the male's bill plain yellow or orange; its sides are pinkish-red with a yellow edge and an orange-red tip.",
+      "Do not omit the white secondaries or the small white mark behind the eye.",
+      "Do not paint a dark iris on the male; it is pale bluish-white.",
       "Do not draw a small stubby bill; the bill is long, deep and knobbed."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "male: high black knob at the bill base; bill sides pinkish-red edged yellow, with an orange-red tip",
+      "male: small white comma-shaped mark curving up behind the eye",
+      "male: entirely black plumage",
+      "large white patch on the secondaries, obvious in flight"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

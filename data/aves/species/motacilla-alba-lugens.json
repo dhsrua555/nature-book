@@ -65,7 +65,16 @@
       "Do not paint yellow underparts or pink legs."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "white forehead and forecrown",
+      "black hindcrown and nape",
+      "white supercilium, cheeks, chin and throat, divided by a thin black eye-stripe",
+      "narrow black crescent across the upper breast",
+      "white underparts below the breast band; mantle, back and rump grey",
+      "long, slender black tail with white outer feathers"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

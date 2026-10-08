@@ -55,13 +55,21 @@
     ],
     "build": "Plump, bull-necked finch, 15cm, a little bigger than a sparrow and much rounder. Large rounded head with no crest and almost no visible neck. Bill very short, deep and stubby with a strongly rounded culmen, much shorter than the head. Legs short, dark brown. Sits quietly in trees and shrubs, often leaning or hanging from twigs to take buds and seeds. At rest the wingtips reach only the base of the tail. Tail medium length, square-ended or slightly notched, all black. In flight the white rump stands out between the grey back and the black tail.",
     "avoid": [
-      "Do not paint the whole underparts orange-red down to the vent; on Korean birds the red stops at the upper breast and the belly is pale grey washed pink.",
+      "Do not paint the whole underparts orange-red down to the vent; on the grey-bellied form shown here the red stops at the upper breast and the belly is pale grey washed pink.",
       "Do not extend the black over the cheeks; black covers only the cap, the bill base and the chin, and the male's cheeks are red.",
       "Do not give it a pointed or long bill; it is short, stubby and swollen.",
       "Do not leave out the white rump, and do not add white in the tail or extra wing-bars."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "glossy black cap, with black around the bill base and on the chin; the cheeks are red, not black",
+      "red cheeks, throat and upper breast",
+      "grey back",
+      "pale grey belly washed rosy",
+      "black wingtips and tail"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -53,12 +53,12 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Solitary Snipe (Gallinago solitaria), adult, as seen along Korean woodland streams in winter (October–April): crown blackish with a pale central stripe; face whitish with a dark eye-stripe and a dark cheek bar; upperparts dark brown with irregular rufous-brown and grey speckling and thin whitish lines along the mantle and scapulars; neck and upper breast warm brown with a little white mottling; lower breast and flanks white with dark brown bars; belly white; flight feathers plain brown; bill long and straight, greyish-olive at the base darkening towards the tip; dark eye; legs short, dull yellowish-green.",
+    "subject": "Solitary Snipe (Gallinago solitaria), adult, as seen along Korean woodland streams in winter (October–April): crown blackish with a pale central stripe; face whitish with a dark eye-stripe and a dark cheek bar; upperparts dark brown with irregular rufous-brown and grey speckling and bold white lines along the edges of the mantle and scapulars; neck and upper breast warm brown with a little white mottling; lower breast and flanks densely barred dark brown and white; centre of the belly white; flight feathers plain brown; short tail with a rufous-orange band near the tip; bill long and straight, greyish-olive at the base darkening towards the tip; dark eye; legs short, dull yellowish-green.",
     "pose": "standing alone at the edge of a forest stream, side view",
     "scene": "Korean winter woodland with a small stream and wet ground among the trees; no people, buildings or text",
     "views": [
-      "adult, side view standing at a stream edge: very long straight bill, whitish striped face, dark brown upperparts speckled rufous and grey with thin white mantle lines, plain brown flight feathers, brown neck and upper breast with a little white, dark-barred flanks, white belly, short greenish legs",
-      "adult, front view: brown upper breast lightly mottled white, dark brown bars on the lower breast and flanks, clean white centre to the belly"
+      "adult, side view standing at a stream edge: very long straight bill, whitish striped face, dark brown upperparts speckled rufous and grey with bold white mantle lines, plain brown flight feathers, brown neck and upper breast with a little white, densely dark-barred lower breast and flanks, white belly centre, short greenish legs",
+      "adult, front view: brown upper breast lightly mottled white, dense dark brown bars on the lower breast and flanks, clean white centre to the belly"
     ],
     "build": "Large, bulky snipe, 30cm, clearly bigger and darker than Common Snipe; short neck, body held low and horizontal. Bill straight and very long, about twice the length of the head, often angled down while probing. Legs short, dull yellowish-green, with little bare tibia. Wings rounded; at rest the folded wings and tertials cover most of the short tail. When flushed it flies off heavily on broad wings that lack a white trailing edge.",
     "avoid": [
@@ -68,7 +68,15 @@
       "Do not place it on open mudflat or reeds; it keeps to shaded, wet stream edges inside winter woodland."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "brown neck and upper breast with a little white marking",
+      "dark brown upperparts irregularly spotted rufous-brown and grey",
+      "brown flight feathers",
+      "dense dark brown bars on the lower breast and flanks",
+      "white belly"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

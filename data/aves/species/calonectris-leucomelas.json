@@ -64,7 +64,15 @@
       "Do not show it standing upright on long legs; its legs are short and set far back."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "whitish forehead to nape, densely streaked dark brown",
+      "dark brown hindneck, neck sides and scapulars",
+      "pale-fringed feathers on the centre of the back",
+      "dark brown tail",
+      "long, narrow wings"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

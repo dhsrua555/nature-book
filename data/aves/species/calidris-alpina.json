@@ -49,18 +49,20 @@
     "pose": "probing wet mud with its bill in a dense flock",
     "scene": "Korean south-west coast tidal flat in winter, wide mudflat near a river mouth; no people, buildings or text",
     "views": [
-      "adult breeding plumage (April–May), side view standing: rufous-and-black scalloped back and crown, finely streaked whitish breast, large solid black patch on the belly, gently drooping black bill, black legs",
-      "adult winter plumage, side view standing: plain grey-brown upperparts, grey-brown breast wash, all-white belly, same bill and legs"
+      "adult breeding plumage (April–May), side view standing: bright rufous back and crown with black feather centres, finely streaked whitish breast, large solid black patch on the belly, black bill only a little longer than the head and drooping slightly at the tip, black legs",
+      "adult winter plumage, side view standing: plain pale grey-brown upperparts with no rufous and no dark scaly centres, soft grey-brown wash and faint fine streaks on the breast, all-white belly, the same short, gently drooping black bill, black legs"
     ],
-    "build": "Small, compact, round-bodied sandpiper, 17–21cm, a little larger than a sparrow; short neck, rather hunched when feeding. Bill black, clearly longer than the head, straight for most of its length and drooping gently only towards the tip. Legs black, medium length. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar and a dark centre to the rump and tail with white sides.",
+    "build": "Small, compact, round-bodied sandpiper, 17–21cm, a little larger than a sparrow; short neck, rather hunched when feeding. Bill black, only a little longer than the head (never close to twice its length), fairly thick at the base, straight for most of its length and drooping gently only near the tip; not an evenly curved, curlew-like bill. Legs black, medium length. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar and a dark centre to the rump and tail with white sides.",
     "avoid": [
-      "Do not paint a long, evenly curved bill — that is Curlew Sandpiper (Calidris ferruginea); the Dunlin's bill droops only near the tip.",
+      "Do not paint a long, evenly curved bill — that is Curlew Sandpiper (Calidris ferruginea); the Dunlin's bill is only a little longer than the head and droops only near the tip.",
       "Do not give it a white rump patch (Curlew Sandpiper).",
-      "Do not show the black belly patch on winter birds; it is breeding plumage only.",
+      "Do not show the black belly patch or rufous back on winter birds; they are breeding plumage only.",
+      "Do not paint winter birds brown, scaly or heavily streaked; they are plain grey above with only faint breast streaks.",
       "Do not paint greenish or yellow legs."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

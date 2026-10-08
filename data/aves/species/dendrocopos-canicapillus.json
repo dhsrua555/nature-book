@@ -63,11 +63,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-capped Pygmy Woodpecker (Dendrocopos canicapillus), adult male, as seen in Korean broadleaf and mixed woodland in winter: forehead and crown brownish-grey; hind crown and nape black; a tiny red streak on each side of the rear crown (male only, often hidden); a broad white stripe from behind the eye down the side of the neck; lores brownish-white; upper cheeks and lower ear coverts grey-brown; a white moustache stripe; throat whitish; back black, barred white across the lower back; wings black with rows of white spots on the coverts and both edges of the flight feathers; underparts dirty whitish-buff with dark brown streaks; short black tail; short grey chisel-tipped bill; dark red iris; slender olive-grey legs.",
+    "subject": "Grey-capped Pygmy Woodpecker (Dendrocopos canicapillus), adult male, as seen in Korean broadleaf and mixed woodland in winter: forehead and crown brownish-grey; hind crown and nape black; a tiny red streak on each side of the rear crown (male only); a broad white stripe from behind the eye down the side of the neck; lores brownish-white; upper cheeks and lower ear coverts grey-brown; a white moustache stripe; throat whitish; upper back black, the centre of the lower back white with black bars, forming a pale barred patch; wings black with rows of white spots on the coverts and both edges of the flight feathers; underparts dirty whitish-buff with dark brown streaks; short black tail; short grey chisel-tipped bill; dark eye; slender olive-grey legs.",
     "pose": "clinging to a branch, probing the bark for insects and larvae",
     "scene": "Korean lowland broadleaf and mixed woodland in winter; no people, buildings or text",
     "views": [
-      "adult male, side view clinging to a branch: brownish-grey crown, black hind crown with a tiny red streak at its side, white stripe behind the eye, grey-brown ear coverts, black back barred white, black wings spotted white, streaked buffish underparts, olive-grey legs",
+      "adult male, side view clinging to a branch: brownish-grey crown, black hind crown with a tiny red streak at its side, white stripe behind the eye, grey-brown ear coverts, black upper back and white lower back barred black, black wings spotted white, streaked buffish underparts, olive-grey legs",
       "adult female, head detail in side view: brownish-grey crown and black hind crown with no red at the sides, white stripe behind the eye, grey-brown ear coverts, short grey chisel bill"
     ],
     "build": "Tiny woodpecker, about the size of a sparrow; compact and short-tailed, with a rounded head. Bill short, straight and chisel-tipped, shorter than the head. Legs short and slender, olive-grey, with two toes forward and two back. Creeps along thin branches and twigs, often on their underside, bracing on its short, stiff, pointed black tail. Wings rounded; flight bounding.",
@@ -75,10 +75,11 @@
       "Do not paint a red crown, a red nape patch or red undertail coverts (Great Spotted and White-backed Woodpeckers); the male's red is only a tiny streak at the side of the rear crown.",
       "Do not paint large white oval shoulder patches (Great Spotted Woodpecker).",
       "Do not make it larger than a sparrow or give it a long bill.",
-      "Do not paint a plain brown back; the back is black barred white."
+      "Do not paint a plain brown or plain black back; the upper back is black and the lower back white with black bars."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

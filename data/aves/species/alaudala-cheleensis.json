@@ -57,7 +57,7 @@
       "adult, side view standing on sand: sandy grey-brown streaked upperparts, pale sandy supercilium, fine dark streaks across the upper breast, buff flanks with fine dark streaks, primary tips projecting beyond the tertials",
       "adult, head and breast detail: pale sandy lores and supercilium, sandy-white cheeks and throat, band of small dark brown streaks on the upper breast, short stubby bill"
     ],
-    "build": "Small lark about the size of a sparrow and clearly smaller than the Eurasian Skylark; compact, round-headed and short-necked, with no crest, although the crown feathers can be raised slightly. Bill short, conical and stubby, much shorter than the head. Legs short, pinkish brown. At rest the primary tips project visibly beyond the tertials. Tail of medium length, dark with white outer edges. Walks and runs on bare sand and gravel, crouching low.",
+    "build": "Small lark about the size of a sparrow and clearly smaller than the Eurasian Skylark; compact, round-headed and short-necked, with no crest; the crown feathers lie flat. Bill short, conical and stubby, pale horn, much shorter than the head. Legs short, pinkish. At rest the primary tips project visibly beyond the tertials. Tail of medium length, dark with white outer edges. Walks and runs on bare sand and gravel, crouching low.",
     "avoid": [
       "Do not paint a dark patch at the side of the neck or long tertials covering the wingtip; those mark the Greater Short-toed Lark (Calandrella brachydactyla).",
       "Do not give it a crest or a long bill like the Eurasian Skylark or Crested Lark.",
@@ -65,7 +65,8 @@
       "Do not make it rufous or dark brown; it is pale, sandy grey-brown."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

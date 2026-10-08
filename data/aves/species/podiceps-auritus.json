@@ -60,7 +60,15 @@
       "Do not paint a yellow or dark eye; the iris is bright red."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dense golden-buff tufts from the eye to the rear of the crown on each side (breeding)",
+      "black head, chestnut-red neck and flanks, white belly (breeding)",
+      "white cheeks and neck, black crown (winter)",
+      "short, thin neck",
+      "black back and white belly (winter)"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

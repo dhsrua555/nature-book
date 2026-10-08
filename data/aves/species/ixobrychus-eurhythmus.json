@@ -56,12 +56,12 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male in the breeding season, as seen in Korean reedbeds from May to August: crown and upperparts from the forehead to the back and scapulars dark chestnut-maroon; ear-coverts, neck sides and hindneck deep reddish-chestnut; chin and sides of the throat creamy white; foreneck, breast and belly buff, with a single dark brown stripe running from the chin down the centre to the breast; breast sides and flanks washed brown; folded wing coverts pale greyish-buff contrasting with the dark back, flight feathers blackish; rump paler chestnut-brown. Bill yellowish with a dark ridge; yellow iris; legs yellowish-green.",
+    "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male in the breeding season, as seen in Korean reedbeds from May to August: crown, hindneck, back and scapulars uniformly dark chestnut-maroon; ear-coverts and neck sides deep reddish-chestnut; chin and sides of the throat creamy white; foreneck, breast and belly buff, with a single dark brown stripe running from the chin down the centre to the breast; breast sides and flanks washed brown; the folded wing is mostly covered by the chestnut scapulars, so the buff wing coverts and blackish flight feathers show mainly in flight; rump paler chestnut-brown. Bill with a dark upper ridge and a paler yellowish lower mandible; yellow iris; legs yellowish-green.",
     "pose": "standing motionless among reeds at the water's edge, side view",
     "scene": "Korean summer wetland near the southwest coast: reedbed and small pools with dense grass; no people, buildings or text",
     "views": [
-      "adult male, side view standing on a reed stem: dark chestnut from forehead to scapulars, deep reddish-chestnut ear-coverts and neck sides, creamy-white chin and throat sides, single dark brown stripe down the buff foreneck to the breast, buff belly",
-      "adult female, side view standing: crown dark chestnut like the male, dark chestnut back and scapulars scattered with small round white spots, white spots also on the wing coverts, buff underparts with dark brown streaks down the foreneck"
+      "adult male, side view standing on a reed stem: uniformly dark chestnut from forehead to back and scapulars, deep reddish-chestnut ear-coverts and neck sides, creamy-white chin and throat sides, single dark brown stripe down the buff foreneck to the breast, buff belly, yellowish-green legs",
+      "adult female, side view standing: blackish-brown crown, dark chestnut-brown back, scapulars and wing coverts densely scattered with small round white spots, buff underparts with several dark brown streaks down the foreneck and breast, yellowish bill, yellow eye"
     ],
     "build": "Small heron, about 38cm long, slightly larger and darker than Yellow Bittern and much smaller than Black-crowned Night Heron; slim, laterally compressed body for slipping through reeds. Neck fairly long, usually drawn in, but stretched upright with the bill skyward when alarmed. Bill straight and sharp, about as long as the head or a little longer. Legs medium length, yellowish-green, with long toes for clasping reed stems. Very short tail. In flight blackish flight feathers contrast with paler buff wing coverts; legs trail beyond the tail.",
     "avoid": [
@@ -71,7 +71,8 @@
       "Do not paint a long-necked, long-legged egret shape; it is a small, compact reed bittern."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

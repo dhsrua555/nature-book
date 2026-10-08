@@ -50,14 +50,14 @@
     }
   ],
   "art": {
-    "subject": "Band-bellied Crake (Zapornia paykullii), adult in summer: crown, nape, back, wings and tail dark olive-brown and unmarked, except thin white bars across the wing coverts; face, sides of the neck and breast warm chestnut, paler apricot-brown towards the centre of the breast; throat almost white; flanks, belly and undertail coverts boldly barred black and white; short stout bill, dull yellowish-horn at the base with a dark greenish-black culmen and tip; red eye; legs and feet salmon-red.",
+    "subject": "Band-bellied Crake (Zapornia paykullii), adult in summer: crown, nape, back, wings and tail dark olive-brown and unmarked, except thin white bars across the wing coverts; face, sides of the neck and breast warm chestnut, slightly paler towards the centre of the breast; throat almost white; flanks, belly and undertail coverts boldly barred black and white; short stout bill, pale greenish-grey with a darker culmen and a dark tip; red eye; legs and feet salmon-red to orange-red.",
     "pose": "standing on the ground among dense vegetation, side view",
     "scene": "Korean summer coastal lowland in the northwest with dense grassy cover; no people, buildings or text",
     "views": [
-      "adult, side view standing in grass: dark olive-brown upperparts with thin white bars on the wing coverts, almost white throat, chestnut face and breast paling to apricot in the centre, black-and-white barred flanks and belly, salmon-red legs with long toes",
-      "adult, head detail in profile: chestnut face, almost white throat, red eye, short stout bill yellowish-horn at the base with a dark greenish-black culmen and tip"
+      "adult, side view standing in grass: dark olive-brown upperparts with thin white bars on the wing coverts, almost white throat, chestnut face and breast, black-and-white barred flanks and belly, salmon-red legs with long toes",
+      "adult, head detail in profile: dark olive-brown crown, chestnut face, almost white throat, red eye, short stout pale greenish-grey bill with a darker culmen and a dark tip"
     ],
-    "build": "Small crake, about 20cm, roughly thrush-sized and a little larger and stouter than Ruddy-breasted Crake; body strongly compressed side to side for slipping through dense vegetation, with a short tail that is often flicked. Bill short and stout, much shorter than the head. Legs fairly long, salmon-red, with long toes. Wings short and rounded; at rest the wingtips reach the base of the tail. Walks with a horizontal body; flies low and weakly with the legs dangling.",
+    "build": "Small crake, about 20cm, roughly thrush-sized and a little larger and stouter than Ruddy-breasted Crake; body strongly compressed side to side for slipping through dense vegetation, with a short tail. No crest; the crown feathers lie flat. Bill short and stout, much shorter than the head. Legs fairly long, salmon-red, with long toes. Wings short and rounded; at rest the wingtips reach the base of the tail. Walks with a horizontal body; flies low and weakly with the legs dangling.",
     "avoid": [
       "Do not paint plain wing coverts and a dark, faintly barred belly; that is Ruddy-breasted Crake (Zapornia fusca).",
       "Do not paint a long bill (Water Rail), or a grey face and breast with a white-streaked back (Baillon's Crake).",
@@ -65,7 +65,15 @@
       "Do not paint the belly plain; the flanks and belly are boldly barred black and white."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "short stout pale greenish-grey bill with a darker culmen and tip",
+      "almost white throat and pale centre of breast",
+      "warm chestnut breast, with the belly and flanks barred black and white",
+      "thin white bars on the wing coverts",
+      "salmon-coloured legs with long toes"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -67,14 +67,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Varied Tit (Sittiparus varius), adult (plumage the same all year): forehead and face creamy buff-white; crown and nape black with a narrow creamy stripe down the centre of the nape; black chin and throat forming a bib; a creamy-white band on the upper breast below the bib; rest of the underparts rich chestnut; back, wings and tail plain blue-grey; short stout black bill; dark eye; dark grey legs.",
+    "subject": "Varied Tit (Sittiparus varius), adult (plumage the same all year): forehead, lores and cheeks creamy buff, the eye set at the lower edge of the black crown; crown and nape black, with a small creamy-buff patch in the centre of the nape; black chin and throat forming a bib; a narrow creamy-white band on the upper breast below the bib; breast, flanks and belly rich chestnut, slightly paler buff in the centre of the belly; a chestnut band across the upper mantle, joining the chestnut of the neck sides; rest of the back, wings and tail plain blue-grey; short stout black bill; dark eye; blue-grey legs.",
     "pose": "perched on a branch near a tree cavity, side view",
     "scene": "Korean mixed woodland with mature trees; no people, buildings or text",
     "views": [
-      "adult, side view perched on a branch: black crown, creamy buff forehead and cheek, black bib, plain blue-grey back, wings and tail, rich chestnut flanks and belly",
-      "adult, front view perched: creamy face framing the black throat bib, creamy-white upper breast band, chestnut lower breast and belly"
+      "adult, side view perched on a branch: black crown and nape with a small creamy nape patch, creamy buff forehead and cheek, black bib, chestnut band on the upper mantle, plain blue-grey back, wings and tail, rich chestnut flanks and belly, blue-grey legs",
+      "adult, front view perched: creamy forehead and face framing the black throat bib, narrow creamy-white band below the bib, rich chestnut breast and belly, slightly paler in the centre of the belly"
     ],
-    "build": "Small tit, 14cm: about the length of a House Sparrow and the same size as a Cinereous Tit. Large rounded head without a crest, short neck. Bill short, stout and pointed, black, a little stronger than in other tits. Legs short, dark grey. At rest the wingtips reach the base of the tail. Tail medium length, square-ended, plain blue-grey. Tame and inquisitive; hammers seeds held under its feet.",
+    "build": "Small tit, 14cm: about the length of a House Sparrow and the same size as a Cinereous Tit. Large rounded head with no crest; the crown feathers lie flat. Short neck. Bill short, stout and pointed, black, a little stronger than in other tits. Legs short, blue-grey. At rest the wingtips reach the base of the tail. Tail medium length, square-ended, plain blue-grey. Tame and inquisitive; hammers seeds held under its feet.",
     "avoid": [
       "Do not paint white cheeks with a black belly stripe; that is Cinereous Tit.",
       "Do not paint a chestnut or orange head; the face is creamy buff and the crown black.",
@@ -82,7 +82,8 @@
       "Do not paint a long nuthatch-like bill."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

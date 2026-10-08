@@ -41,7 +41,7 @@
   "young": "어린새는 배와 날개 아랫면이 밝은 갈색인 점만 빼면 어른새와 비슷하다.",
   "similar": [],
   "art": {
-    "subject": "Brown Booby (Sula leucogaster), adult male: head, neck, upper breast, back, wings and tail dark chocolate-brown, the brown ending in a sharp, straight line across the lower breast; lower breast, belly and undertail coverts clean white; underwing coverts white in the centre with broad brown borders and brown flight feathers; bill long, conical and pointed, greyish-green; bare facial skin around the eye and at the bill base greyish-green, the bare throat skin bluish; feet greyish-green.",
+    "subject": "Brown Booby (Sula leucogaster), adult male: head, neck, upper breast, back, wings and tail dark chocolate-brown, the brown ending in a sharp, straight line across the lower breast; lower breast, belly and undertail coverts clean white; underwing coverts white in the centre with broad brown borders and brown flight feathers; bill long, conical and pointed, greyish-green; bare facial skin around the eye and at the bill base greyish-green, the bare throat skin bluish; iris pale grey to whitish; feet greyish-green.",
     "pose": "standing, side view",
     "scene": "open sea around a rocky islet off southern Korea in late summer, waves breaking on dark basalt rocks; no people, buildings or text",
     "views": [
@@ -57,7 +57,8 @@
       "Do not paint a forked tail; it is wedge-shaped."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

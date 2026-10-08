@@ -57,7 +57,7 @@
       "adult winter, side view swimming: dark grey cap and hindneck with a sharp straight border to the white throat, thin dark chin-strap, plain dark back, flanks dark to the waterline without a white rear patch",
       "adult, leg and foot detail in side view: tarsus black on the outer side and pale apricot on the inner side, large webbed foot set at the rear of the body"
     ],
-    "build": "Medium-large loon, about 69cm, a little smaller than Black-throated Loon, with a smoothly rounded head, thick neck and long, low, streamlined body. Bill straight, slender and pointed, shorter than the head, held level. Legs set far back near the tail. Swims low and dives well; when alarmed it sinks the body until only the head and neck show. In flight the feet project beyond the short tail.",
+    "build": "Medium-large loon, about 69cm, a little smaller than Black-throated Loon, with a smoothly rounded head, thick neck and long, low, streamlined body. Bill straight, slender and pointed, shorter than the head, held level. Legs set far back near the tail. Swims low in the water with a flat back and dives well. In flight the feet project beyond the short tail.",
     "avoid": [
       "Do not paint a white patch on the rear flanks; that is Black-throated Loon (Gavia arctica).",
       "Do not paint a slim upturned bill or a white-speckled back; that is Red-throated Loon (Gavia stellata).",
@@ -65,7 +65,16 @@
       "Do not paint a green-glossed throat on breeding birds; in this species the black throat usually shows a purple sheen."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "breeding: mouse-grey crown and hindneck",
+      "breeding: purple-glossed black throat and foreneck",
+      "breeding: blue-glossed black back and scapulars",
+      "breeding: bold white bars on the sides of the back",
+      "black lines on the sides of the white breast",
+      "legs black on the outer side, apricot on the inner side"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

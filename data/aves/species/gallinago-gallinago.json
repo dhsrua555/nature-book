@@ -65,7 +65,15 @@
       "Do not paint a solid black head; the head is boldly striped blackish and buff."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "head boldly striped blackish-brown and buff",
+      "dark brown upperparts with four creamy-buff stripes along the back",
+      "buff breast heavily streaked and spotted black",
+      "white belly and undertail coverts",
+      "white trailing edge to the upperwing and white bars across the underwing coverts",
+      "short tail with a rufous-orange band near the tip"
+    ]
   },
   "sources": [
     {

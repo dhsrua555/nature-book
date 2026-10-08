@@ -18,6 +18,8 @@
     uv run tools/illustrate.py import                       # art/inbox/ 에 넣은 그림을 webp로
     uv run tools/illustrate.py queue --limit 4              # 남은 작업 목록(JSON) — ChatGPT Work가 tools/WORK.md 대로 쓴다
 
+그릴 때는 그 종의 실제 사진(tools/ref_photos.py → art/ref/photos/<id>/)을 함께 붙여 실제 생김새를 따르게 한다.
+
 API 키는 환경 변수 OPENAI_API_KEY 또는 프로젝트 맨 위 .env 파일(OPENAI_API_KEY=...)에서 읽는다.
 그린 뒤에는 브라우저에서 살펴보고 직접 커밋한다(자동 커밋 없음).
 """
@@ -79,7 +81,15 @@ def has_todo(v) -> bool:
     return False
 
 
-def build_prompt(cfg: dict, sp: dict, kind: str) -> str:
+def marks(sp: dict) -> list[str]:
+    pts = sp.get("points", [])
+    m = (sp.get("art") or {}).get("marks")
+    if isinstance(m, list) and len(m) == len(pts) and all(isinstance(x, str) and x.strip() for x in m):
+        return [x.strip() for x in m]
+    return [p["en"] for p in pts if p.get("en")]
+
+
+def build_prompt(cfg: dict, sp: dict, kind: str, photos: bool = False) -> str:
     art = sp.get("art", {})
     views = art.get("views", [])
     build = "" if has_todo(art.get("build")) else (art.get("build") or "").strip()
@@ -89,13 +99,28 @@ def build_prompt(cfg: dict, sp: dict, kind: str) -> str:
         "ko": sp["ko"], "en": sp["en"], "sci": sp["sci"],
         "subject": art.get("subject", "").rstrip(". "), "pose": art.get("pose", "").rstrip(". "), "scene": art.get("scene", "").rstrip(". "),
         "views": "; ".join(f"({i}) {v}" for i, v in enumerate(views, 1)),
-        "points": "; ".join(p["en"] for p in sp.get("points", []) if p.get("en")),
+        # 도해에 꼭 보일 특징: 책의 동정 포인트 순서대로. 책 글이 실제와 어긋나면 art.marks(같은 순서·같은 부위의 바른 영어)를 쓴다
+        "points": "; ".join(marks(sp)),
         # 종마다 다른 크기·체형·부리·다리 비율과, 이 종에서 흔히 틀리는 점(tools/ART_RULES.md)
         "build": f"Size, shape and proportions of this species (follow exactly): {build}" if build else "",
         "avoid": ("Mistakes to avoid for this species: " + " ".join(f"{a}." for a in avoid)) if avoid else "",
     }
     text = cfg[kind]["prompt"].format(**fields).strip()
+    if photos:  # 실제 사진을 함께 붙일 때(tools/ref_photos.py)
+        text += "\n" + cfg["photo_note"].strip()
     return "\n".join(line for line in text.splitlines() if line.strip())
+
+
+def photo_refs(sp: dict, fetch: bool = True) -> list[Path]:
+    """그 종의 실제 사진(art/ref/photos/<id>/). 없으면 받는다. 받지 못하면 [] (그림은 글만으로)."""
+    import ref_photos
+    try:
+        if fetch:
+            return ref_photos.photos_for(sp)
+        return ref_photos.cached(sp["id"]) or []
+    except Exception as e:  # 망 오류 등
+        print(f"{sp['id']}: 참고 사진을 받지 못함 ({e})", file=sys.stderr)
+        return []
 
 
 def prompt_problems(sp: dict, kind: str) -> list[str]:
@@ -158,8 +183,9 @@ def cmd_prompt(cfg: dict, args) -> int:
             print(f"없는 종 id: {sid}", file=sys.stderr)
             return 1
         for kind in (KINDS if args.kind == "both" else (args.kind,)):
-            print(f"── {sid} · {kind} · {cfg[kind]['size']} ──")
-            print(build_prompt(cfg, found[sid], kind))
+            photos = photo_refs(found[sid], fetch=False)
+            print(f"── {sid} · {kind} · {cfg[kind]['size']} · 참고 사진 {len(photos)}장 ──")
+            print(build_prompt(cfg, found[sid], kind, photos=bool(photos)))
             print()
     return 0
 
@@ -224,9 +250,11 @@ def cmd_make(cfg: dict, args) -> int:
         if missing:
             print(f"기준 그림이 없다: {', '.join(missing)}", file=sys.stderr)
             return 1
-        prompt = build_prompt(cfg, sp, kind)
+        photos = photo_refs(sp)
+        prompt = build_prompt(cfg, sp, kind, photos=bool(photos))
         if refs:
             prompt += "\n" + cfg["ref_note"].strip()
+        refs += photos[:3]  # API 로 그릴 때는 고르는 사람이 없으니 앞쪽(좋아요 많은) 3장
         print(f"[{n}/{len(targets)}] {sp['ko']} {kind} … ", end="", flush=True)
         try:
             if refs:
@@ -265,12 +293,14 @@ def cmd_queue(cfg: dict, args) -> int:
         if inbox.exists():  # 이미 그려 두고 import만 안 한 것
             continue
         w, h = cfg[kind]["size"].split("x")
+        photos = photo_refs(sp)
         jobs.append({
             "id": sp["id"], "ko": sp["ko"], "kind": kind,
             "size": cfg[kind]["size"], "orientation": "landscape" if int(w) > int(h) else "portrait",
             "save_to": inbox.relative_to(ROOT).as_posix(),
             "refs": [r for r in cfg[kind].get("ref", [])],
-            "prompt": build_prompt(cfg, sp, kind),
+            "photo_refs": [f.relative_to(ROOT).as_posix() for f in photos],
+            "prompt": build_prompt(cfg, sp, kind, photos=bool(photos)),
         })
     print(json.dumps(jobs, ensure_ascii=False, indent=1))
     return 0

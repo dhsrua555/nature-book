@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Desert Wheatear (Oenanthe deserti), adult male in spring, a vagrant on a Korean coastal dune: crown, nape and back pale sandy-buff; a whitish supercilium; face, chin and throat solid black, the black running down the sides of the neck to join the black wings; scapulars and wing coverts black; breast and belly creamy buff-white; rump and uppertail coverts white; tail almost entirely black, with white only at the base. Bill black; eye dark; legs black.",
+    "subject": "Desert Wheatear (Oenanthe deserti), adult male in spring, a vagrant on a Korean coastal dune: crown, nape, mantle and scapulars pale sandy-buff; a whitish supercilium; face, chin and throat solid black, the black continuing down the sides of the neck to join the black wing at the shoulder; wing coverts and flight feathers black, the inner wing coverts edged white, forming a whitish line between the sandy scapulars and the black wing; breast and belly creamy buff-white; rump and uppertail coverts white; tail almost entirely black, with white only at the base. Bill black; eye dark; legs black.",
     "pose": "perched upright on a low sandy hummock, side view",
     "scene": "sandy coastal dune with sparse dry grass behind a Korean beach in early spring (March–April), soft clear light; no people, buildings or text",
     "views": [],
@@ -32,10 +32,12 @@
       "Do not paint a white tail with a black inverted T (Northern and Isabelline Wheatears); in Desert Wheatear the tail is almost entirely black.",
       "Do not separate the black throat from the black wings with a pale band; in the male they join along the neck side.",
       "Do not paint a grey or blue-grey back; the male's crown and back are sandy-buff.",
-      "Do not paint a black crown or cap."
+      "Do not paint a black crown or cap.",
+      "Do not paint black scapulars; the scapulars are sandy-buff like the back, and only the wing coverts and flight feathers are black."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

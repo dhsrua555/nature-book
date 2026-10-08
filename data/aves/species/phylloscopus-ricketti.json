@@ -23,18 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Sulphur-breasted Warbler (Phylloscopus ricketti), adult (sexes alike): a bold striped head with a yellow median crown stripe between broad black lateral crown stripes, a bright yellow supercilium and a black eye-stripe; cheeks yellowish-green; upperparts bright green; wings darker green with two narrow yellow wing-bars; entire underparts from chin to undertail coverts bright sulphur-yellow; tail green; bill with dark upper mandible and pale orange lower mandible; dark eye.",
+    "subject": "Sulphur-breasted Warbler (Phylloscopus ricketti), adult (sexes alike) in spring: a boldly striped head with a yellow to yellowish-green median crown stripe between broad black lateral crown stripes, a bright yellow supercilium and a black eye-stripe running from the lores to the nape; cheeks yellow, faintly mottled olive; upperparts bright olive-green; wings darker green with two narrow yellow wing-bars, the one on the greater coverts clearer than the upper one; entire underparts from chin to undertail coverts bright sulphur-yellow, faintly olive on the flanks; tail green; bill mostly bright orange, only slightly duskier along the ridge of the upper mandible; dark eye; pale pinkish legs.",
     "pose": "foraging along a leafy branch in the canopy, side view",
     "scene": "lush deciduous woodland on a Korean offshore island in May, dappled light; no people, buildings or text",
     "views": [],
-    "build": "A small, compact leaf warbler, smaller than a sparrow and a little larger than a Yellow-browed Warbler, with a large, boldly striped head and a short tail. Bill fine and pointed, shorter than the head, fairly broad at the base. Legs slender. Tail short and square. Forages actively in the canopy, often flicking its wings.",
+    "build": "A small, compact leaf warbler, smaller than a sparrow and a little larger than a Yellow-browed Warbler, with a large, boldly striped head and a short tail. No crest; the crown feathers lie flat and the stripes run straight back from the forehead. Bill fine and pointed, shorter than the head, fairly broad at the base, orange. Legs slender, pale pinkish. Tail short and square. Forages actively along leafy branches in the canopy.",
     "avoid": [
       "Do not paint a whitish belly; the whole underparts are bright yellow, unlike Eastern Crowned Warbler.",
       "Do not make the lateral crown stripes grey or olive; they are black and sharply contrasting with the yellow stripes.",
       "Do not omit the yellow median crown stripe or the two yellow wing-bars."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -50,22 +50,32 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Asian Rosy Finch (Leucosticte arctoa), adult male in winter: forehead, face and throat sooty blackish; crown dark grey; hindcrown and hindneck feathers tipped pale golden-brown, forming a paler brown nape; back dark brown with buff feather tips; rump dark brown with rose-pink tips; breast and flanks dark sooty grey, the belly and undertail coverts scaled with rose-pink feather tips; wings blackish with rose-pink edges to the coverts; tail blackish-brown, notched; bill pale yellow with a dark tip in winter; dark eye; black legs.",
+    "subject": "Asian Rosy Finch (Leucosticte arctoa), adult male in winter, as seen on Korean mountain slopes from December to March: forehead, lores and the area around the bill sooty blackish; crown and nape covered by golden-buff to cinnamon-brown feather tips, giving the rear of the head a warm tawny look that contrasts with the dark face; throat and breast dark sooty grey-brown; mantle and back dark brown with buff feather edges; belly, flanks and rump blackish-brown, boldly scaled with rose-pink feather tips; wing coverts and edges of the flight feathers broadly rose-pink; tail blackish-brown, notched; bill yellow with a dark tip; dark eye; black legs.",
     "pose": "foraging for seeds on the ground in a flock, one bird in side view",
     "scene": "Korean winter mountains: rocky cliffs and slopes above a stony riverbed with dry grass; no people, buildings or text",
     "views": [
-      "adult male winter, side view on the ground: sooty blackish face, pale brown-tipped hindcrown and nape, mostly dark grey body, dark brown back with buff tips, rose-pink tips on the rump and belly, pink-edged wing coverts, blackish-brown notched tail, yellow bill, black legs",
-      "adult female winter, side view on the ground: duller and paler grey-brown overall, with much less and fainter pink on the belly, rump and wings"
+      "adult male winter, side view on the ground: sooty blackish face around the bill, golden-buff to cinnamon crown and nape, dark sooty grey-brown breast, dark brown back with buff edges, rose-pink scaling on the belly, flanks and rump, broad pink edges on the wing coverts, blackish-brown notched tail, yellow bill with a dark tip, black legs",
+      "adult female winter, side view on the ground: duller grey-brown overall with a less contrasting buff nape, and much less and fainter pink on the belly, rump and wings; yellow bill with a dark tip, black legs"
     ],
     "build": "Stocky finch, slightly larger than a sparrow, with a rounded head, short thick neck and long wings that reach well down the tail at rest. Bill short, conical and pointed, shorter than the head. Legs short, black. Tail medium length, clearly notched. Feeds on the ground in tight flocks, walking and shuffling among stones; whole flocks rise and wheel together.",
     "avoid": [
-      "Do not paint a red head or breast like a rosefinch; the pink appears only as feather tips on the belly, rump and wings.",
-      "Do not paint a dark or reddish bill on winter birds; in winter the bill is yellowish with a dark tip.",
-      "Do not make the body pale grey; it is dark sooty grey-brown with a paler brown nape.",
+      "Do not paint a red head or breast like a rosefinch; the pink appears only as feather tips on the belly, flanks, rump and wings.",
+      "Do not paint a dark or reddish bill on winter birds; in winter the bill is yellow with a dark tip.",
+      "Do not make the body pale grey; it is dark sooty grey-brown, with a tawny golden-buff crown and nape.",
+      "Do not paint the whole head plain grey or black; only the face around the bill is blackish.",
       "Do not paint pink legs; they are black."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "hindcrown and nape tipped golden-buff to cinnamon-brown",
+      "mostly dark sooty grey-brown body plumage",
+      "dark brown back feathers tipped buff",
+      "rump and belly feathers tipped rose-pink",
+      "blackish-brown tail",
+      "black legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

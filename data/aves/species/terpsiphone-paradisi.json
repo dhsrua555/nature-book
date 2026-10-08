@@ -60,11 +60,20 @@
     "avoid": [
       "Do not paint a black or dark bill; the bill and the bare eye-ring are bright cobalt blue.",
       "Do not give the rufous morph a black tail or a dark purplish-maroon back; that is Japanese Paradise Flycatcher (Terpsiphone atrocaudata).",
-      "Do not show tail streamers on females or young males; they have short rufous tails.",
-      "Do not make the crest a long floppy plume; it is short, pointed and swept back."
+      "Do not copy Indian birds (nominate paradisi): no tall upright spiky crest and no white breast on the rufous male; Korean birds have a short swept-back crest and a dark grey breast.",
+      "Do not show tail streamers on females or young males; they have short rufous tails."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "glossy blue-black head and throat with a short, pointed crest at the rear of the crown",
+      "cobalt-blue bill and bare cobalt-blue eye-ring",
+      "very long central tail streamers, about 20 cm (adult male)",
+      "white morph: white back, rump and tail, the feathers with fine black shafts",
+      "rufous morph: bright rufous-chestnut back, rump and tail",
+      "rufous morph: dark grey breast and flanks, white belly"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

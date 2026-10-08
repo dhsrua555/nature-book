@@ -45,15 +45,15 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-winged Cuckooshrike (Lalage melaschistos), adult male: plumage dark slate-grey, darkest on the lores and face; wings glossy black, contrasting with the grey body; underparts grey, slightly paler towards the vent; tail black, long and graduated, the outer feathers broadly tipped white; bill short, black and slightly hooked; dark eye; legs blackish.",
+    "subject": "Black-winged Cuckooshrike (Lalage melaschistos), adult male: plumage medium slate-grey with a bluish tone, darkest on the lores and around the eye; no crest, the crown feathers lie flat; wings blackish, the flight feathers black and the wing coverts dark slate-grey, the whole wing clearly darker than the body; underparts grey, paler on the belly and whitish on the undertail coverts; tail black, long and graduated, the outer feathers broadly tipped white, giving a chequered look from below; bill short, black and slightly hooked; iris dark reddish-brown; legs blackish.",
     "pose": "perched on an open branch at a forest edge, side view",
     "scene": "Korean forest clearing beside an orchard; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark slate-grey body, darker face, glossy black wings, long graduated black tail with white tips to the outer feathers, short black bill",
+      "adult male, side view perched: slate-grey body with a bluish tone, darker lores and face, dark reddish-brown eye, blackish wings clearly darker than the body, long graduated black tail with white tips to the outer feathers, short black bill",
       "adult female, side view perched: paler grey than the male on the head and back, with a whitish broken eye-ring and faint pale barring on the lower underparts, wings and tail blackish",
       "adult, in flight seen from below, head, body and tail in line: grey body, black flight feathers with a white patch at the base of the primaries, white-tipped outer tail feathers"
     ],
-    "build": "Slender, medium-small songbird, 19–24cm, a little smaller and slimmer than Brown-eared Bulbul, with a rounded head, short neck and long, graduated tail. Bill black, shorter than the head, fairly stout with a slightly hooked tip. Legs short and dark. In flight shows a small white patch under the base of the primaries and white tips to the outer tail feathers. Sits quietly in the canopy, often on open branches.",
+    "build": "Slender, medium-small songbird, 19–24cm, a little smaller and slimmer than Brown-eared Bulbul, with a rounded head with no crest (the crown feathers lie flat), a short neck and a long, graduated tail. Bill black, shorter than the head, fairly stout with a slightly hooked tip. Legs short and dark. In flight shows a small white patch under the base of the primaries and white tips to the outer tail feathers. Sits quietly in the canopy, often on open branches.",
     "avoid": [
       "Do not paint white underparts or a white forehead; those suit Ashy Minivet (Pericrocotus divaricatus).",
       "Do not paint a forked tail or an all-black body; that is Black Drongo.",
@@ -61,7 +61,8 @@
       "Do not give it a black eye mask or a heavy shrike bill."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

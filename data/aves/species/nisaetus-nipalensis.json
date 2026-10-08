@@ -46,12 +46,12 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Mountain Hawk-Eagle (Nisaetus nipalensis), adult in Korean mountain forest: crown and hindneck tawny-buff with dark streaks, a short crest of a few feathers on the hindcrown; face buff with a dark moustachial stripe; chin and throat white with a black central throat stripe; upper breast white with dark brown streaks; belly, flanks and feathered legs barred dark brown and white; upperparts dark brown, the wing coverts with whitish feather tips; tail grey-brown with several evenly spaced broad dark bands. Bill blackish and deeply hooked; iris yellow to orange; toes yellow with black talons.",
+    "subject": "Mountain Hawk-Eagle (Nisaetus nipalensis), adult in Korean mountain forest: crown, face and the short crest of a few feathers on the hindcrown dark blackish-brown, the hindneck and neck sides dark brown with fine buff streaks; chin and throat white with a black central throat stripe and dark moustachial stripes; upper breast white with bold dark brown streaks; lower breast, belly, flanks and feathered legs barred dark brown and white; upperparts dark brown, the wing coverts with pale greyish-buff feather fringes; tail grey-brown with several evenly spaced broad dark bands and a pale tip. Bill dark grey and deeply hooked, with a grey cere; iris bright yellow; toes yellow with black talons.",
     "pose": "perched on a high branch of a tall tree, side view",
     "scene": "Korean mountain forest of tall trees on a steep slope; no people, buildings or text",
     "views": [
-      "adult, side view perched: short crest on the hindcrown, tawny-buff streaked head and hindneck, dark brown upperparts with whitish feather tips on the coverts, white throat with a black central stripe, white upper breast with dark streaks, belly and feathered legs barred pale brown and white, long banded tail",
-      "adult, head in side view: short crest on the hindcrown, tawny-buff head and hindneck with dark streaks, dark moustachial stripe, white throat with black central stripe, yellow-orange iris, strong blackish hooked bill",
+      "adult, side view perched: short dark crest on the hindcrown, dark brown head and hindneck with fine buff streaks, dark brown upperparts with pale fringes on the coverts, white throat with a black central stripe, white upper breast with bold dark streaks, belly and feathered legs barred brown and white, long banded tail",
+      "adult, head in side view: short dark crest on the hindcrown, blackish-brown crown and face, buff-streaked hindneck, dark moustachial stripe, white throat with black central stripe, bright yellow iris, strong dark hooked bill with a grey cere",
       "adult, flight seen from below: broad rounded wings with bulging secondaries, pale underwing with dark barring across the flight feathers, barred belly, long tail with broad dark bands; head, body and tail in one line"
     ],
     "build": "A large, powerful forest eagle, males 72cm and females 80cm, clearly larger than an Eastern Buzzard; perches upright with a long tail and long, fully feathered legs. Head fairly large with a short crest on the hindcrown. Bill strong, deeply hooked, shorter than the head. Legs feathered down to the toes and barred; toes yellow with big black talons. At rest the wingtips fall well short of the tail tip. In flight: broad, rounded wings with bulging secondaries and pinched-in bases, barred flight feathers, long banded tail.",
@@ -59,10 +59,19 @@
       "Do not paint a long, flowing crest; the northern birds that reach Korea have only a short crest of a few feathers.",
       "Do not paint bare yellow lower legs like a buzzard or sea-eagle; the legs are feathered to the toes and barred.",
       "Do not paint a plain unmarked white breast; there is a black central throat stripe and dark breast streaks above the barred belly.",
-      "Do not paint a short tail or long wings reaching the tail tip; the tail is long and the wings are broad and rounded."
+      "Do not paint a short tail or long wings reaching the tail tip; the tail is long and the wings are broad and rounded.",
+      "Do not give the adult a pale buff or tawny head and plain buff underparts; that is the juvenile. The adult head is dark brown."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "short crest on the hindcrown",
+      "dark brown head and hindneck with fine buff streaks",
+      "dark brown upperparts with pale feather fringes",
+      "white throat with a black central stripe, white upper breast with dark streaks",
+      "belly and flanks barred dark brown and white"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

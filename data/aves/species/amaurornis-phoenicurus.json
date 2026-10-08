@@ -49,11 +49,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult as seen on Korean west-coast wetlands on spring and autumn passage (sexes alike): forehead, face, chin, throat, foreneck, breast and centre of the belly pure white, cleanly and sharply divided from the dark parts; crown, hindneck, back, wings and tail dark slate-grey with an olive tinge; flanks dark slate; lower belly, vent and undertail coverts rufous-chestnut. Bill yellowish-green with a red patch at the base of the upper mandible; long legs and toes yellow.",
+    "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult as seen on Korean west-coast wetlands on spring and autumn passage (sexes alike): forehead, face, chin, throat, foreneck, breast and centre of the belly pure white, sharply divided from the dark parts; crown, hindneck, back, wings and tail dark slate-grey with an olive tinge; flanks dark slate; lower belly, vent and undertail coverts rufous-chestnut. Bill yellowish-green with a red patch at the base of the upper mandible; dark red iris; long legs and toes yellow to orange-yellow.",
     "pose": "walking along the edge of a reed bed beside a ditch",
     "scene": "Korean west-coast rice paddies and reedy ditches during spring or autumn migration; no people, buildings or text",
     "views": [
-      "adult, side view walking along a ditch edge: pure white forehead, face, throat, breast and belly, dark slate-grey crown, hindneck, back and flanks with a sharp border, chestnut undertail, yellowish-green bill with a red base, long pale yellow legs",
+      "adult, side view walking along a ditch edge: pure white forehead, face, throat, breast and belly, dark slate-grey crown, hindneck, back and flanks with a sharp border, chestnut undertail, yellowish-green bill with a red base, dark red eye, long yellow legs",
       "adult, rear three-quarter view with tail raised: rufous-chestnut lower belly, vent and undertail coverts below the dark slate tail and back"
     ],
     "build": "Medium-sized rail, about 32.5cm long, about the size of a Common Moorhen but slimmer and longer-legged. Upright stance, small head, short neck. Bill stout, a little shorter than the head, straight and pointed, without a large frontal shield. Legs long and yellow with very long toes. Short tail, frequently jerked up to flash the chestnut undertail. Walks in the open at reed edges and runs quickly to cover.",
@@ -64,7 +64,16 @@
       "Do not paint the female differently; the sexes look alike."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "pure white forehead (both sexes)",
+      "yellowish-green bill with a red base to the upper mandible",
+      "white face, throat, breast and belly",
+      "dark slate-black crown and flanks",
+      "chestnut undertail coverts",
+      "yellow to orange-yellow legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

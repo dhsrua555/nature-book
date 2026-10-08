@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-backed Shrike (Lanius tephronotus), adult: a narrow black band across the forehead joining a broad black mask through the eye; crown, nape, mantle and back dark grey; rump and uppertail coverts rufous; wings dark brown without any white patch; throat white; breast and belly whitish, washed rufous-buff on the breast sides and more strongly rufous on the flanks; tail long, dark brown. Bill black and hooked; legs blackish.",
+    "subject": "Grey-backed Shrike (Lanius tephronotus), adult: forehead, crown, nape, mantle and back dark grey, with at most a thin black line across the forehead at the base of the bill; a broad black mask from the bill through the eye to the ear-coverts; rump and uppertail coverts rufous; wings dark brown without any white patch; chin and throat white; breast, flanks and belly extensively washed warm rufous-orange, palest in the centre of the belly; tail long, dark rufous-brown. Bill black and hooked; dark eye; legs blackish.",
     "pose": "perched upright on top of a bush, side view",
     "scene": "Bushy farmland edge on a Korean offshore island in May, during spring migration, bright light; no people, buildings or text",
     "views": [],
@@ -31,10 +31,12 @@
     "avoid": [
       "Do not paint a white wing patch, rufous scapulars or a long black tail; those mark Long-tailed Shrike (Lanius schach).",
       "Do not paint white underparts with black wings and white wing-bars (Chinese Grey Shrike, Lanius sphenocercus).",
-      "Do not paint a rufous or brown crown."
+      "Do not paint a rufous or brown crown.",
+      "Do not leave the breast whitish with only a buff tinge at the sides; the breast and flanks are broadly rufous-orange."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

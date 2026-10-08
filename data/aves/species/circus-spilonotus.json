@@ -70,7 +70,13 @@
       "Do not paint the female's head plain dark brown; it is pale and streaked."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "pale creamy-buff head streaked dark brown (female)",
+      "black upperparts mottled white, with silvery-grey secondaries and black primaries (male)",
+      "dark brown body and wings, with a paler streaked head and upper breast (female)"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -62,14 +62,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-tailed Tit (Aegithalos caudatus), adult (sexes alike, Korean form with a striped head): forehead, centre of the crown, cheeks, chin and throat white; a broad black band from above the eye running back along the side of the crown to the nape and mantle; mantle and back black; scapulars pinkish; wings blackish-brown with whitish edges to the tertials; underparts whitish with a pink wash on the flanks and vent; very long, narrow black tail with white outer edges; tiny stubby black bill; dark brown eye; dark brown legs with pale brown feathering on the thighs.",
+    "subject": "Long-tailed Tit (Aegithalos caudatus), adult (sexes alike, Korean form with a striped head): forehead, centre of the crown, cheeks, chin and throat white; a broad black band from above the eye running back along the side of the crown to the nape and mantle; mantle and back black; scapulars pinkish; wings blackish-brown with whitish edges to the tertials; underparts whitish with a pink wash on the flanks and vent; very long, narrow black tail with white outer edges; tiny stubby black bill; dark brown eye with a thin yellow-orange eye-ring; dark brown legs with pale brown feathering on the thighs.",
     "pose": "perched on a thin twig high in a tree, one of a small family flock",
     "scene": "Korean deciduous broadleaf and pine woodland with shrubby undergrowth; no people, buildings or text",
     "views": [
       "adult, side view perched on a thin twig: white head with a broad black band from above the eye to the nape, black back, pinkish scapulars, blackish wings with pale tertial edges, very long black tail edged white, tiny black bill",
       "adult, front view perched on a twig: white face and throat, black bands framing the white crown, whitish breast, pinkish flanks, very long tail hanging below"
     ],
-    "build": "Tiny round songbird, about 14cm, of which more than half is tail; the body is a fluffy ball smaller than a Marsh Tit's. Round head, no visible neck. Bill very short, stubby and triangular, black. Legs short, dark brown. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail very long, narrow and graduated, longer than the body. Travels in chattering family flocks through the canopy, often hanging upside down.",
+    "build": "Tiny round songbird, about 14cm, of which more than half is tail; the body is a small round ball, smaller than a Marsh Tit's. Round head with no crest, no visible neck. Bill very short, stubby and triangular, black. Legs short, dark brown. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail very long, narrow and graduated, longer than the body. Travels in chattering family flocks through the canopy, often hanging upside down.",
     "avoid": [
       "Do not paint a pure white head without black bands; that is the northern race, not the Korean birds.",
       "Do not paint a long thin bill; the bill is a tiny stub.",
@@ -77,7 +77,8 @@
       "Do not paint a rufous crown and brown body; that is Vinous-throated Parrotbill."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -87,7 +87,16 @@
       "Do not break the breast band into side patches (Kentish Plover); the black band is complete, only narrower at the centre."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long slender black bill with a pale base to the lower mandible",
+      "thin, faint yellow eye-ring",
+      "dusky lores",
+      "black bar across the forecrown and dusky dark-brown ear-coverts",
+      "black breast band narrowing at the centre",
+      "long legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

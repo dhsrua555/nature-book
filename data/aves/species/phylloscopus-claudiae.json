@@ -23,11 +23,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Claudia's Leaf Warbler (Phylloscopus claudiae), adult (sexes alike) in spring: a pale greyish-green median crown stripe between dark greyish-olive lateral crown stripes that are darkest towards the nape; a long yellowish-white supercilium; a dark eye-stripe; upperparts greyish-green; wings with two clear pale yellowish wing-bars; underparts whitish with a faint yellow wash; outer tail feathers with white on the inner webs; bill with dark upper mandible and pale yellowish-orange lower mandible; dark eye.",
-    "pose": "clinging to the side of a tree trunk, side view, wings partly flicked",
+    "subject": "Claudia's Leaf Warbler (Phylloscopus claudiae), adult (sexes alike) in spring: a pale greyish-yellow median crown stripe between dark greyish-olive lateral crown stripes that are darkest towards the nape; a long yellowish-white supercilium; a dark olive eye-stripe; upperparts greyish-green, the wings greener, with two clear pale yellowish wing-bars, the lower one on the greater coverts broader; underparts silky greyish-white with at most a faint yellowish tinge on the flanks and vent; outer tail feathers with white on the inner webs; bill with a bright orange lower mandible, the upper mandible dusky along its ridge; dark eye; pale yellowish-brown legs.",
+    "pose": "clinging to the side of a tree trunk, side view, head pointing the same way as the body, wings closed",
     "scene": "mixed woodland on a Korean offshore island during spring migration in May, dappled light; no people, buildings or text",
     "views": [],
-    "build": "A small, compact leaf warbler, smaller than a sparrow and a little smaller than an Eastern Crowned Warbler, with a fairly large head. Bill fine and pointed, shorter than the head. Legs slender. Tail short and square. Habitually flicks its wings alternately, one after the other, and often clings to tree trunks and the undersides of branches like a nuthatch.",
+    "build": "A small, compact leaf warbler, smaller than a sparrow and a little smaller than an Eastern Crowned Warbler, with a fairly large head. No crest; the crown feathers lie flat. Bill fine and pointed, shorter than the head, with an orange lower mandible. Legs slender, pale yellowish-brown. Tail short and square. Often clings to tree trunks and the undersides of branches like a nuthatch while feeding.",
     "avoid": [
       "Do not paint a single wing-bar with a yellow vent contrasting with a white belly; that is Eastern Crowned Warbler (Phylloscopus coronatus).",
       "Do not paint a bright lemon crown stripe or a yellow rump band (Pallas's Leaf Warbler).",
@@ -35,7 +35,8 @@
       "Do not paint bright yellow underparts."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

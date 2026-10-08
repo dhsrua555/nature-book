@@ -39,9 +39,9 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Spotted Eagle (Clanga clanga), adult as seen on Korean wetlands in winter (November–March): plumage almost uniformly dark blackish-brown, the head and body as dark as the wings; often a narrow whitish crescent on the uppertail coverts; flight feathers and tail blackish. Bill rather small for an eagle, dark grey, with a yellow cere and a gape line ending below the eye; dark brown eye; legs feathered with narrow, dark 'stovepipe' trousers; bare toes yellow.",
+    "subject": "Greater Spotted Eagle (Clanga clanga), adult as seen over Korean wetlands on autumn migration (October–November): plumage almost uniformly dark blackish-brown, the head and body as dark as the wings; often a narrow whitish crescent on the uppertail coverts, and the undertail coverts paler; flight feathers and tail blackish. Bill rather small for an eagle, dark grey, with a yellow cere and a short yellow gape line ending below the eye; dark brown eye; legs feathered with narrow, dark 'stovepipe' trousers; bare toes yellow.",
     "pose": "perched upright on a bare branch, side view",
-    "scene": "Korean winter river floodplain: reedbeds, wet meadows and a lake edge with a few bare willow trees under a pale sky; no people, buildings or text",
+    "scene": "Korean late-autumn river floodplain: brown reedbeds, wet meadows and a lake edge with a few bare willow trees under a pale sky; no people, buildings or text",
     "views": [
       "adult, side view perched upright on a bare branch: large raptor build, uniformly blackish-brown, short rounded tail reaching about the folded wingtips, narrow dark feathered trousers, small dark bill with a yellow cere, yellow toes",
       "juvenile, side view perched: blackish-brown with rows of bold white spots on the wing coverts and white tips to the secondaries and tertials, whitish uppertail-covert crescent, dark head"
@@ -54,7 +54,13 @@
       "Do not give the adult the juvenile's white-spotted wings."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "head and neck as dark as the body, with a yellow cere and a short gape line ending below the eye",
+      "blackish-brown plumage overall",
+      "large raptor build"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

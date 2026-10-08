@@ -78,10 +78,12 @@
       "Do not streak the rump or undertail coverts heavily — that is Common Redpoll; this form has a clean white rump and white undertail.",
       "Do not paint a large or long bill; it is tiny and stubby.",
       "Do not paint a deep red breast or red face; the red is limited to a small forecrown patch and males show only a faint pink breast wash.",
-      "Do not paint warm brown upperparts; the tone is frosty pale grey-buff."
+      "Do not paint warm brown upperparts with heavy dark streaking; the tone is frosty pale grey-buff with fine streaks.",
+      "Do not paint dense dark streaks on the breast and flanks; this pale form has a clean whitish breast and only a few fine streaks on the flanks."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

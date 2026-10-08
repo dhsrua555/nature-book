@@ -40,7 +40,7 @@
     "pose": "singing from inside a dense evergreen shrub, head raised and bill open, half hidden by leaves",
     "scene": "dense evergreen camellia and bamboo thicket on a southern Korean island such as Jeju in spring, dappled light; no people, buildings or text",
     "views": [],
-    "build": "Small, plain, skulking bush warbler, about the size of a sparrow, males noticeably larger than females; rounded head, plump body, fairly long rounded tail often held slightly cocked. Bill short, thin and pointed. Legs fairly long and sturdy, pinkish. Wings short and rounded, the wingtips reaching only the base of the tail. Stays inside dense evergreen and bamboo thickets; sings with the head raised.",
+    "build": "Small, plain, skulking bush warbler, about the size of a sparrow, males noticeably larger than females; rounded head with no crest, the crown feathers lying flat; plump body and a fairly long, rounded tail. Bill short, thin and pointed. Legs fairly long and sturdy, pinkish. Wings short and rounded, the wingtips reaching only the base of the tail. Stays inside dense evergreen and bamboo thickets; sings with the head raised.",
     "avoid": [
       "Do not add wing-bars, streaks or spots; the plumage is plain olive-brown.",
       "Do not paint yellow or green-tinged underparts like a leaf warbler.",
@@ -48,7 +48,8 @@
       "Do not paint a short, stubby tail; it is fairly long and rounded."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

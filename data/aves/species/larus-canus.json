@@ -40,7 +40,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Gull (Larus canus), adult in winter plumage, of the large East Asian subspecies kamtschatschensis (Kamchatka Gull) that winters in Korea from November to March: white head and neck heavily smudged and streaked grey-brown, densest on the hindneck and around the eye; back and upperwings medium grey; outer primaries black with large white mirrors and white tips; white trailing edge and white tertial crescent; underparts and tail pure white. Bill slender, pale greenish-yellow with a yellow tip, often with a narrow dark band near the tip. Legs greenish-yellow to yellow.",
+    "subject": "Common Gull (Larus canus), adult in winter plumage, of the large East Asian subspecies kamtschatschensis (Kamchatka Gull) that winters in Korea from November to March: white head and neck with grey-brown streaks and smudges, variable in extent, densest around the eye and on the hindneck; back and upperwings medium grey; outer primaries black with large white mirrors and white tips; white trailing edge and white tertial crescent; underparts and tail pure white. Bill slender, greenish-yellow to yellow, brightest at the tip, often with a narrow dark band near the tip. Legs greenish-yellow to yellow.",
     "pose": "resting on the water at a river mouth, side view",
     "scene": "Korean river estuary in winter, tidal flats and calm water; no people, buildings or text",
     "views": [
@@ -56,7 +56,8 @@
       "Do not show a clean white breeding head on birds in a winter scene."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

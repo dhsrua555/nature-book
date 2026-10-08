@@ -66,20 +66,22 @@
     "pose": "standing on a rocky islet among a breeding colony, side view",
     "scene": "Korean uninhabited islet off the west coast in spring, rocky slopes with patches of grass; no people, buildings or text",
     "views": [
-      "adult breeding plumage, side view standing: white head and body, dark slate-grey back and wings, black wingtips projecting beyond the tail, yellow bill with a black band and a red tip, yellow eye with red orbital ring, yellow legs",
-      "adult winter plumage (October to February), side view standing: as in breeding plumage, but the hindcrown and nape streaked grey-brown",
-      "adult in flight seen from above, head, body and tail in line: dark grey upperwing with black outer primaries and a white trailing edge, white rump, white tail with a broad black band near the tip",
-      "juvenile, side view standing: dark chocolate-brown all over with paler fringes on the back and wings, paler around the bill base, pink bill with a black tip, pink legs"
+      "adult breeding plumage, side view standing: white head and body, dark slate-grey back and wings, clearly darker than a Vega Gull, black wingtips projecting beyond the tail, yellow bill with a black band and a red tip, pale yellow eye with a red orbital ring, yellow legs",
+      "adult winter plumage (October to February), side view standing: the same dark slate-grey back, black-banded red-tipped yellow bill, yellow eye and yellow legs, but the hindcrown and nape streaked grey-brown",
+      "adult in flight seen from above, head, body and tail in line: dark slate-grey upperwing with black outer primaries showing only tiny white tips and no large white spots, white trailing edge, white rump, white tail with a broad black band near the tip",
+      "juvenile, side view standing: dark sooty chocolate-brown all over, much darker than young Vega Gulls, with narrow paler fringes on the back and wings, paler face around the bill base, pink bill with a black tip, pink legs"
     ],
     "build": "Medium-sized gull, clearly larger than a feral pigeon and smaller than the big white-headed gulls such as Vega Gull; slim, long-winged and elegant, with a gently rounded head. Bill fairly long and parallel-sided, about as long as the head, with a slight angle on the lower mandible. Legs medium length, yellow. At rest the long black wingtips project well beyond the tail. Tail square, white with a broad black band. In flight long narrow wings, dark grey above with black outer primaries and a white trailing edge.",
     "avoid": [
       "Do not paint a yellow bill with just a red spot near the tip, as in Vega or Slaty-backed Gull; this species has a black band and a red tip.",
       "Do not paint an all-white tail; the adult has a broad black tail band.",
-      "Do not paint pale grey upperparts like Common or Vega Gull; the back is dark slate-grey.",
-      "Do not give adults pink legs or a dark eye; legs are yellow and the eye pale yellow."
+      "Do not paint pale or medium grey upperparts like Common or Vega Gull; the back is dark slate-grey.",
+      "Do not paint large white spots on the black wingtips; the white tips are tiny or absent.",
+      "Do not paint the juvenile pale buff and speckled; it is dark chocolate-brown."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

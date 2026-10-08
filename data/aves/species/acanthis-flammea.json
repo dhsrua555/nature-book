@@ -106,14 +106,23 @@
     ],
     "build": "Small, slim finch about 13cm, a little smaller and slighter than a sparrow, with a small head and a fairly long, notched tail. Bill short, conical and needle-pointed, much shorter than the head, with straight edges. Legs short, dark brown. Long primary projection beyond the tertials. Feeds acrobatically, often hanging upside down on birch and alder catkins. Flight bouncy, showing the pale wing-bar and the pale streaked rump.",
     "avoid": [
-      "Do not colour the whole head or throat red; the red is a small patch on the forehead and fore-crown only.",
-      "Do not paint a large black face mask; the black is a small chin bib and the lores.",
-      "Do not paint a thick or long bill; it is tiny, conical and sharply pointed.",
+      "Do not colour the whole crown, head or throat red, and do not raise the red feathers into a crest; the red is a small, flat patch on the forehead and fore-crown.",
+      "Do not paint a large black face mask or a black throat; the black is only a small chin bib and the lores.",
+      "Do not paint a thick, long or all-dark bill; it is tiny, needle-pointed and yellowish with a dark culmen and tip.",
       "Do not paint the frosty white, unstreaked rump and nearly plain flanks of Arctic Redpoll (Acanthis hornemanni).",
       "Do not paint yellow wing-bars or yellow tail sides (Eurasian Siskin)."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "small, flat red patch on the forehead and fore-crown",
+      "small black patch on the lores and chin",
+      "rather pale supercilium",
+      "tiny pointed yellowish bill with a dark culmen and tip",
+      "dark greyish-buff back streaked dark brown",
+      "pale rump with fine dark streaks"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

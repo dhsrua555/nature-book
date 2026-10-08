@@ -46,17 +46,24 @@
     "scene": "Korean pine forest with dense conifer branches; no people, buildings or text",
     "views": [
       "adult male, side view perched: plump body and long notched tail, rosy-red head, breast, rump and mottled back, grey flanks and belly, blackish wings with two white wing bars and white-edged tertials forming three white lines, stubby hooked dark bill",
-      "adult female, side view perched: grey body with olive-yellow to ochre head and rump, grey underparts with a faint ochre wash on the breast, the same blackish wings with two white wing bars and white tertial edges, same stubby dark bill"
+      "adult female, side view perched: grey body with ochre-yellow to russet-ochre head and rump, grey underparts with the breast variably washed ochre, the same blackish wings with two white wing bars and white tertial edges, same stubby dark bill"
     ],
     "build": "A large, plump, long-tailed finch, much bigger than a sparrow and about starling-sized but bulkier and longer-tailed; round head, short thick neck, upright and slow-moving, often very tame. Bill short, stubby and deep with a strongly curved culmen ending in a small hook, shorter than the head. Legs short, blackish. Tail long for a finch and notched at the tip. In flight undulating, the white wing bars obvious.",
     "avoid": [
       "Do not paint a huge conical bill like a Hawfinch or crossed mandibles like a crossbill; the bill is short, stubby and slightly hooked.",
       "Do not paint the male red all over including the belly; the flanks and belly are grey.",
       "Do not make it a small, compact finch; it is large and long-tailed, unlike the much smaller rosefinches.",
-      "Do not paint thin or missing wing bars; the two white bars and white tertial edges are bold."
+      "Do not omit the two white wing bars and the white edges to the tertials; both sexes show them."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "plump body and long tail",
+      "rosy-red plumage (male)",
+      "two white wing bars and white tertial edges",
+      "ochre-yellow head and rump, grey underparts with an ochre wash on the breast (female)"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

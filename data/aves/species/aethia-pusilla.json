@@ -63,7 +63,16 @@
       "Do not paint a yellow iris."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dark red bill (summer) and whitish iris",
+      "white plumes behind the eye (summer)",
+      "dark brown to black back and wings",
+      "white breast and underparts mottled with dark spots (summer)",
+      "very short tail",
+      "grey-brown webbed feet"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

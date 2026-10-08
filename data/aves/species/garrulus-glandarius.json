@@ -62,22 +62,32 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Jay (Garrulus glandarius), adult (sexes alike, plumage the same all year): crown rufous-buff densely streaked black, the feathers often raised into a short bushy crest; whitish throat; broad black moustachial stripe from the bill base down the side of the throat; head sides, back and underparts pinkish to vinaceous brown, paler on the belly; wing coverts at the bend of the wing finely barred bright blue, black and white; a white patch on the inner flight feathers; rest of the wing black; white rump and undertail coverts; black tail; stout black bill; pinkish-brown legs.",
-    "pose": "perched on a branch with crown feathers slightly raised, holding a morsel of food to hide",
+    "subject": "Eurasian Jay (Garrulus glandarius), adult of the Korean population (sexes alike, plumage the same all year): forehead, crown, nape and face plain rufous-cinnamon, with only a few fine dark streaks on the forehead just above the bill; no crest, the crown feathers lie flat and the head is smoothly rounded; throat whitish; broad black moustachial stripe from the bill base down the side of the throat; mantle and back plain grey, contrasting with the rufous head; breast and flanks greyish pinkish-brown, the belly paler and greyer; wing coverts at the bend of the wing finely barred bright blue, black and white; a white patch on the inner flight feathers; rest of the wing black; white rump, vent and undertail coverts; black tail; stout black bill; dark brown eye; pale pinkish-brown legs.",
+    "pose": "perched on a branch holding an acorn in its bill",
     "scene": "Korean deciduous broadleaf and mixed forest in spring; no people, buildings or text",
     "views": [
-      "adult, side view perched on a branch: streaked crown feathers raised into a low crest, broad black moustachial stripe, pinkish-brown body, blue-black-and-white barred patch at the bend of the wing, white patch on the inner wing, black tail",
-      "adult in flight seen from above, head, body and tail in line: rounded black wings with the blue barred patch and the white patch, pinkish-brown back, bright white rump contrasting with the black tail"
+      "adult, side view perched on a branch: smooth rounded rufous head with no crest and only fine streaks on the forehead, dark eye, broad black moustachial stripe, grey back contrasting with the rufous head, greyish pinkish-brown underparts, blue-black-and-white barred patch at the bend of the wing, white patch on the inner wing, black tail",
+      "adult in flight seen from above, head, body and tail in line: rufous head, grey back, rounded black wings with the blue barred patch and the white patch, bright white rump contrasting with the black tail"
     ],
-    "build": "Medium-sized, stocky member of the crow family, about 33cm: about the length of a feral pigeon, with a much shorter tail than a magpie. Large rounded head with a short erectile crest, thick neck. Bill stout, black, shorter than the head, slightly arched. Legs medium length, pinkish-brown. Wings broad and rounded; at rest they reach about the base of the tail. Tail medium length, square to slightly rounded, black. Flight rather slow, with floppy wingbeats and undulating sweeps, flashing the white rump and the white wing patch.",
+    "build": "Medium-sized, stocky member of the crow family, about 33cm: about the length of a feral pigeon, with a much shorter tail than a magpie. Large, smoothly rounded head with no crest, the crown flat, and a thick neck. Bill stout, black, shorter than the head, slightly arched. Legs medium length, pale pinkish-brown. Wings broad and rounded; at rest they reach about the base of the tail. Tail medium length, square to slightly rounded, black. Flight rather slow, with floppy wingbeats and undulating sweeps, flashing the white rump and the white wing patch.",
     "avoid": [
-      "Do not paint a blue body or a tall pointed crest like American jays; only a small patch on the wing is blue.",
-      "Do not paint a long graduated tail; that is a magpie.",
+      "Do not paint a whitish crown spotted or streaked black, a pale eye or a pinkish back; those belong to European jays. Korean birds have a plain rufous head, a dark eye and a grey back.",
+      "Do not paint a crest or spiky raised crown feathers; the crown lies flat and smooth.",
+      "Do not paint a blue body like American jays; only a small patch on the wing is blue.",
       "Do not paint a black cap with plain blue wings and tail; that is Azure-winged Magpie.",
       "Do not put the white wing patch on the outer primaries; it lies on the inner wing beside the blue patch."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "smooth rufous crown with fine dark streaks only on the forehead; no crest",
+      "broad black malar stripe",
+      "grey back and greyish pinkish-brown underparts",
+      "wing coverts barred blue and black",
+      "conspicuous white wing patch",
+      "white rump contrasting with black tail"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

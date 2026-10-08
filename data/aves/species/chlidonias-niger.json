@@ -66,7 +66,16 @@
       "Do not give it a red bill or long legs."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "black bill and head",
+      "black breast",
+      "grey scapulars, the same shade as the back",
+      "grey back and wing coverts",
+      "grey primaries, the outer ones a shade darker",
+      "dark red legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

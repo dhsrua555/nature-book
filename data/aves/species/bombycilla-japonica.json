@@ -48,22 +48,31 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Waxwing (Bombycilla japonica), adult in winter (November–March): soft pinkish grey-brown plumage with a long, swept-back crest; forehead and cheeks rich reddish-chestnut; a narrow black stripe from the bill base through the eye runs back along the crest to its tip; small black chin and throat patch; back and wing coverts grey-brown, rump blue-grey; wings black and grey with a dark red band formed by red tips to the greater coverts; breast pinkish-brown fading to a blue-grey belly with a pale yellow centre; undertail coverts rusty-red; tail grey at the base, black towards the end, with a red tip; short black bill; dark eye; black legs.",
+    "subject": "Japanese Waxwing (Bombycilla japonica), adult in winter (November–March): soft pinkish grey-brown plumage with a long, pointed crest swept back from the crown; forehead, front of the crest and cheeks rich rufous-chestnut; a narrow black stripe from the bill base through the eye runs back along the rear edge of the crest to its tip; small black chin and throat patch; back grey-brown, rump grey; wings grey with black flight feathers, a dark red band formed by red tips to the greater coverts, and small white tips to the outer webs of the primaries forming a row of white marks on the folded wing; breast pinkish grey-brown, the centre of the belly pale yellow, flanks grey-brown; undertail coverts rusty-red; tail grey at the base, black towards the end, with a red tip; short black bill; dark reddish-brown eye; black legs.",
     "pose": "perched on a branch, side view",
     "scene": "Korean winter woodland edge with conifers beside a park; no people, buildings or text",
     "views": [
-      "adult, side view perched on a berry-laden twig: swept-back crest with the black eye-stripe running to its tip, reddish-chestnut forehead and cheeks, black chin, pinkish-brown body, blue-grey belly with a pale yellow centre, rusty-red vent, red-tipped tail",
-      "adult, seen from behind and slightly above, perched: blue-grey rump, grey-and-black tail with a red tip, dark red band across the folded wing, black flight feathers"
+      "adult, side view perched on a berry-laden twig: swept-back crest with the black eye-stripe running to its tip, rufous-chestnut forehead and cheeks, black chin, pinkish grey-brown body, pale yellow belly centre, rusty-red vent, red-tipped tail",
+      "adult, seen from behind and slightly above, perched: grey rump, grey-and-black tail with a red tip, dark red band across the folded wing, black flight feathers with a row of small white tips on the primaries"
     ],
     "build": "Plump, compact songbird, 18cm — clearly larger than a sparrow, smaller than a starling, with a starling-like silhouette in flight. Large head with a soft, pointed crest swept back from the crown. Bill short, black and broad-based, much shorter than the head. Legs short and black. Wings fairly long and pointed. Tail short and square-ended. Perches upright in tight flocks in treetops and feeds on berries, often hanging among fruiting twigs.",
     "avoid": [
-      "Do not paint a yellow tail tip or yellow and white marks in the wing — those belong to Bohemian Waxwing (Bombycilla garrulus); this species has a red tail tip.",
+      "Do not paint a yellow tail tip or yellow V-marks on the primaries — those belong to Bohemian Waxwing (Bombycilla garrulus); this species has a red tail tip and only small white primary tips.",
       "Do not stop the black eye-stripe at the base of the crest; it runs right along the crest to the tip.",
       "Do not paint red waxy droplets on the secondaries as in Bohemian Waxwing.",
       "Do not paint a long thin bill or long legs."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long, pointed crest swept back from the crown",
+      "rufous-chestnut forehead and cheeks",
+      "black eye-stripe running back along the crest to its tip",
+      "pinkish grey-brown body plumage",
+      "blue-grey rump; pale yellow centre to the belly with grey-brown flanks",
+      "grey tail with a broad black band and a red tip"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

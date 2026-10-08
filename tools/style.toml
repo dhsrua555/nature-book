@@ -18,6 +18,11 @@ ref_note = """
 The attached reference image(s) show the house style. Match only their painting technique, paper texture, colour temperature and level of detail. Do not copy the species, the pose, the composition or the background of the reference.
 """
 
+# 그 종의 실제 사진(tools/ref_photos.py)을 함께 붙일 때 덧붙는 말
+photo_note = """
+Real photographs of this species are attached (wild birds, mostly photographed in Korea). Treat them as the authority on what the bird really looks like: overall shape and proportions, head shape (paint a crest only if the photographs show one), bill size and shape, eye colour, leg length and colour, and the colours and pattern of the plumage of the birds that occur in Korea. The text decides only which sex, age and season to show; for everything else, where the text and the photographs disagree, follow the photographs. A photograph may show another sex, age or season: then keep its structure but paint the plumage the text describes. Ignore any photograph in which the bird is small, blurred or hidden. Do not copy the photographs' composition, pose, background or lighting; paint an original watercolor in the style described above.
+"""
+
 [scene]
 # 서식지를 배경으로 한 도판 → img/<권>/<id>.webp
 size = "1536x1024"

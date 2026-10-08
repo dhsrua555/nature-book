@@ -50,7 +50,8 @@
     "scene": "Korean winter: open farmland and low dry hills with a lone bare tree under a wide sky; no people, buildings or text",
     "views": [
       "adult, side view perched on a bare tree: dark brown head, body and wing coverts, blackish-brown flight feathers and tail, feathered brown legs, heavy dark bill with a yellow cere and a long yellow gape reaching the rear of the eye",
-      "adult, in flight seen from below: long broad wings with fingered tips, dark brown coverts, grey finely barred flight feathers with a broad dark trailing edge, blackish-brown rounded tail"
+      "adult, in flight seen from below: long broad wings with fingered tips, dark brown coverts, grey finely barred flight feathers with a broad dark trailing edge, blackish-brown rounded tail",
+      "young bird (first or second winter), side view standing on the ground: paler tawny- to greyish-brown head, body and wing coverts, a broad white bar along the tips of the greater coverts, white tips to the dark secondaries and tail, a whitish band across the uppertail coverts, long yellow gape"
     ],
     "build": "Very large, heavy eagle, 62–74cm, a little smaller than a Golden Eagle and much smaller than a Cinereous Vulture; big-headed with a heavy hooked bill shorter than the head. Legs feathered to the toes; feet yellow. At rest the wingtips reach about the tail tip. Tail medium length, rounded. In flight long, broad, parallel-edged wings with long fingered primaries, held flat or slightly drooped at the hand; the adult underwing shows grey, finely barred flight feathers with a broad dark trailing edge.",
     "avoid": [
@@ -60,7 +61,14 @@
       "Do not paint a short gape ending in front of the eye; it extends back to the rear of the eye."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dark brown head and neck, with a long yellow gape line reaching back below the rear of the eye",
+      "brown upperparts",
+      "blackish-brown flight feathers",
+      "blackish-brown tail with faint grey bars"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

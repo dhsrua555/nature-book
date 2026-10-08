@@ -50,7 +50,7 @@
     "scene": "Korean dry farmland in early spring (March) with stubble fields, weedy field edges and scattered trees, cool clear light; no people, buildings or text",
     "views": [
       "adult male spring, side view perched: white crown edged black, chestnut supercilium and lores, white cheek patch edged black, chestnut throat, white crescent below it, chestnut band and streaks across the breast, white belly",
-      "adult male winter, side view perched: pattern veiled by brownish feather fringes, brown forehead and crown with white streaks, chestnut almost hidden, white belly",
+      "adult male winter, side view perched: brown crown streaked white with the white centre partly showing, chestnut supercilium and throat partly veiled by pale fringes, white cheek spot edged dark, whitish crescent below the throat, chestnut streaks on the breast and flanks, white belly",
       "adult female, side view perched: grey-brown head with black streaks, pale cheek patch with a dark border, pale brown breast with blackish streaks, rufous rump, no yellow anywhere"
     ],
     "build": "Rather large, long-tailed bunting, about 17cm, larger than a sparrow, similar in shape to Meadow Bunting (Emberiza cioides). Rounded, flat-crowned head without a crest. Bill small, conical and pointed, shorter than the head. Legs pinkish. Tail long and slightly notched, with white outer feathers that flash in flight. Feeds on the ground in fields and flies up to bushes and tree tops.",
@@ -61,7 +61,15 @@
       "Do not paint a black throat or an all-black head."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "white crown centre and white cheek patch (breeding male)",
+      "brown crown with white streaks (winter male)",
+      "chestnut supercilium and throat",
+      "chestnut band across the breast",
+      "white belly"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

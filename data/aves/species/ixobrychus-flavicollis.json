@@ -40,22 +40,30 @@
   "young": "어린새는 어른새와 비슷한 색이지만 어두운 갈색을 띤다.",
   "similar": [],
   "art": {
-    "subject": "Black Bittern (Ixobrychus flavicollis), adult male: crown, hindneck, back, wings and tail uniform sooty black; a broad buff-yellow stripe from below the eye down the side of the neck; chin, throat and foreneck white, densely striped chestnut-brown and black down the centre, the stripes continuing onto the breast; lower underparts dark sooty grey-black; bill long and dagger-like, yellowish-horn with a darker upper ridge; legs dark brown.",
+    "subject": "Black Bittern (Ixobrychus flavicollis), adult male: crown, hindneck, back, wings and tail uniform slaty black; a broad buff-yellow to orange-buff stripe from below the eye down the side of the neck; chin, throat and foreneck white and buff, densely striped chestnut-brown and black down the centre, the stripes continuing onto the breast; lower underparts dark sooty grey-black; bill long and dagger-like, dark horn-grey, the lower mandible paler and yellowish towards the base; legs dark brown to blackish.",
     "pose": "flying low over a reed bed",
     "scene": "Korean marsh: dense reed bed with a few trees along its edge; no people, buildings or text",
     "views": [
-      "adult male, side view standing among reeds: uniformly sooty-black crown, back, wings and tail, broad buff-yellow neck stripe, white foreneck heavily striped chestnut and black, dark lower underparts, long yellowish-horn dagger bill",
+      "adult male, side view standing among reeds: uniformly slaty-black crown, back, wings and tail, broad buff-yellow neck stripe, white-and-buff foreneck heavily striped chestnut and black, dark lower underparts, long dark horn dagger bill with a paler yellowish base below",
       "juvenile, side view standing: same pattern as the adult but dark brown instead of black, with the buff neck stripe and streaked foreneck"
     ],
-    "build": "Medium-sized, slender bittern, 58cm, much larger than Yellow and Cinnamon Bitterns and about the length of a Black-crowned Night Heron but slimmer, with a long neck and small head. Bill long, straight and dagger-shaped, about as long as the head or slightly longer. Legs medium length, dark. At rest the wingtips reach about the tail tip; tail very short. In flight looks all dark above, the neck usually drawn in and the buff neck stripe showing; wings rather broad and uniformly blackish.",
+    "build": "Medium-sized, slender bittern, 58cm, much larger than Yellow and Cinnamon Bitterns and about the length of a Black-crowned Night Heron but slimmer, with a long neck and a small head; no crest, the crown feathers lie flat. Bill long, straight and dagger-shaped, about as long as the head or slightly longer, dark horn-grey with a paler yellowish base below. Legs medium length, dark brown to blackish. At rest the wingtips reach about the tail tip; tail very short. In flight looks all dark above, the neck usually drawn in and the buff neck stripe showing; wings rather broad and uniformly blackish.",
     "avoid": [
       "Do not paint buff wing coverts with black flight feathers (Yellow Bittern) or rufous wings (Cinnamon Bittern); the whole wing is sooty black.",
       "Do not omit the buff-yellow stripe down the side of the neck.",
+      "Do not paint a bright yellow bill; it is dark horn-grey with only a paler yellowish base to the lower mandible.",
       "Do not paint a short thick bill or a stocky short neck like a night heron.",
       "Do not paint the whole underside white; only the throat, foreneck and breast are pale and heavily streaked."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long dagger-shaped bill, dark horn with a paler yellowish base below",
+      "long neck with yellow sides",
+      "uniformly black upperparts",
+      "white foreneck and breast densely streaked chestnut and black"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

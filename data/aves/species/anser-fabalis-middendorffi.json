@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Taiga Bean Goose of the subspecies Anser fabalis middendorffi, adult (sexes alike), as seen in Korea in winter: head and long neck dark chocolate-brown, darker than the body; mantle and wing coverts grey-brown with pale buff fringes forming neat transverse bars; breast and belly pale grey-brown; flanks darker brown with pale bars and a white line along their upper edge; vent, undertail coverts and a narrow band of uppertail coverts white; tail dark grey-brown with a white tip. Long black bill with an orange band near the tip and a black nail; dark brown eye; orange legs.",
+    "subject": "Taiga Bean Goose of the subspecies Anser fabalis middendorffi, adult (sexes alike), as seen in Korea in winter: head and upper neck warm brown, darkest on the crown and around the bill base, the long neck slightly paler and grading into the pale grey-brown breast; mantle and wing coverts grey-brown with pale buff fringes forming neat transverse bars; belly pale grey-brown; flanks darker brown with pale bars and a white line along their upper edge; vent, undertail coverts and a narrow band of uppertail coverts white; tail dark grey-brown with a white tip. Long black bill with a narrow orange band near the tip and a black nail; dark brown eye; bright orange legs.",
     "pose": "standing on the muddy edge of a reservoir with its long neck held upright, side view, the long bill shown in clear profile",
     "scene": "Korean winter: the shallow margin of a wide reservoir with dry reeds and harvested rice fields beyond, low soft winter light; no people, buildings or text",
     "views": [],
@@ -35,7 +35,8 @@
       "Do not paint a pale grey head and neck or a pale grey forewing like Greylag Goose; the head and neck are dark brown."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

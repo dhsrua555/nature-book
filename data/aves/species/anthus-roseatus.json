@@ -49,22 +49,32 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rosy Pipit (Anthus roseatus), adult in spring (breeding) plumage, as a vagrant would appear in Korea in April–May: crown, nape and mantle olive-brown with bold blackish-brown streaks; lores and ear coverts dusky, the ear coverts finely streaked yellowish; a long, broad supercilium, warm pinkish-buff tinged yellow; wings dark brown with olive-yellow fringes to the flight feathers and coverts and two pale wing bars; chin, throat and breast pale vinaceous-pink, with sparse fine blackish-brown streaks on the breast and stronger streaks along the flanks; belly yellowish-white; tail dark brown with olive edges and pale outer feathers. Bill horn-black; eye dark brown; legs pinkish-brown.",
+    "subject": "Rosy Pipit (Anthus roseatus), adult in spring (breeding) plumage, as a vagrant would appear in Korea in April–May: crown, nape and ear coverts greyish olive with fine dark streaks on the crown; lores dusky, forming a dark line in front of the eye; a long, broad pinkish-buff supercilium; mantle olive-brown with bold blackish-brown streaks; wings dark brown with bright olive-yellow fringes to the flight feathers and coverts and two pale wing bars; chin, throat and breast pale vinaceous-pink, the breast unstreaked or with a few fine dark streaks, the flanks lightly streaked; belly whitish; tail dark brown with olive edges and whitish outer feathers. Bill horn-black, paler at the base of the lower mandible; eye dark brown; legs pink.",
     "pose": "standing on a rock, side view",
     "scene": "wet grassy margin of a stream beside rice paddies, with scattered stones, in Korea during spring migration (April–May), soft light; no people, buildings or text",
     "views": [
-      "adult breeding plumage (spring–summer), side view standing: dusky lores and ear coverts, long pinkish-buff supercilium tinged yellow, pale vinaceous-pink throat and breast with sparse blackish-brown streaks on breast and flanks, olive-brown upperparts boldly streaked blackish-brown, horn-black bill, pinkish-brown legs",
-      "adult non-breeding plumage (autumn–winter), side view standing: same dusky lores and buff supercilium, little or no pink, whitish-buff underparts with dense blackish-brown streaks on the throat sides, breast and flanks, heavily streaked olive-brown upperparts, horn-black bill with an apricot-yellow base to the lower mandible"
+      "adult breeding plumage (spring–summer), side view standing: greyish-olive head with dusky lores and ear coverts, long pinkish-buff supercilium, pale vinaceous-pink throat and breast with few or no streaks, lightly streaked flanks, olive-brown upperparts boldly streaked blackish-brown, olive-yellow wing fringes, horn-black bill, pink legs",
+      "adult non-breeding plumage (autumn–winter), side view standing: dusky lores and ear coverts, buff-white supercilium, little or no pink, whitish underparts with dense blackish-brown streaks on the throat sides, breast and flanks, heavily streaked olive-brown upperparts with olive-yellow wing fringes, horn-black bill paler at the base"
     ],
-    "build": "Small, slim pipit, about 15cm, sparrow-sized but slimmer and longer-tailed, with a horizontal posture; walks on the ground and often pumps its tail. Bill thin, straight and pointed, about half the length of the head, horn-black, the base of the lower mandible turning apricot-yellow in autumn. Legs medium length, pinkish-brown, with a long hind claw. The tail projects well beyond the wingtips at rest. Tail medium length, slightly notched, dark with pale outer feathers.",
+    "build": "Small, slim pipit, about 15cm, sparrow-sized but slimmer and longer-tailed, with a horizontal posture; walks on the ground and pumps its tail. No crest; the crown feathers lie flat. Bill thin, straight and pointed, about half the length of the head, horn-black with a paler base to the lower mandible. Legs medium length, pink, with a long hind claw. The tail projects well beyond the wingtips at rest. Tail medium length, slightly notched, dark with whitish outer feathers.",
     "avoid": [
       "Do not paint pale lores; the dark lores separate Rosy Pipit from Buff-bellied Pipit, the common winter pipit in Korea.",
       "Do not paint a brick-red face and throat (Red-throated Pipit); Rosy Pipit's pink is a soft vinaceous wash on throat and breast.",
-      "Do not paint black legs; they are pinkish-brown.",
-      "Do not paint an unstreaked back; the mantle is boldly streaked."
+      "Do not paint black or brown legs; they are pink.",
+      "Do not paint an unstreaked back; the mantle is boldly streaked.",
+      "Do not paint a yellow or red supercilium; it is pinkish-buff in spring and buff-white in winter."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dusky lores and ear coverts",
+      "long pinkish-buff supercilium",
+      "horn-black bill",
+      "pale vinaceous-pink throat and breast (breeding plumage)",
+      "blackish-brown streaks on the breast and flanks, dense in non-breeding plumage",
+      "olive-brown upperparts streaked blackish-brown"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

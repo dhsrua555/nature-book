@@ -39,11 +39,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Japanese Sparrowhawk (Accipiter gularis), adult male, as seen in Korean forests in late spring: crown, nape, back, upperwings and tail dark slate-grey; face grey; throat white with a thin, faint dark central (mesial) stripe; breast and flanks washed pale rufous-orange with faint fine barring; belly and undertail coverts white. Tail grey with several narrow dark bands. Underwing whitish with dark barring on the flight feathers. Iris deep red; cere yellow; bill short, dark and sharply hooked; legs long and thin, yellow, with long slender toes.",
+    "subject": "Japanese Sparrowhawk (Accipiter gularis), adult male, as seen in Korean forests in late spring: crown, nape, back and upperwings dark slate-grey; face grey; throat white with a thin, faint dark central (mesial) stripe; breast and flanks washed pale rufous-orange with faint fine barring; belly and undertail coverts white. Tail grey with several distinct dark cross-bands. Underwing whitish with dark barring on the flight feathers. Iris deep red; cere yellow; bill short, dark and sharply hooked; legs long and thin, yellow, with long slender toes.",
     "pose": "perched on a branch inside dense forest, side view",
     "scene": "dense Korean forest interior in late spring; no people, buildings or text",
     "views": [],
-    "build": "Very small hawk, smaller than a Feral Pigeon and lightly built, about the length of a Brown-eared Bulbul but stockier; the smallest Accipiter in Korea. Rounded head; short, rounded wings whose tips fall well short of the tail tip at rest. Tail medium-long and square-ended, with narrow dark bands. Legs long and very thin for the size. Moves through dense forest and darts out after small birds; flight is quick flaps and short glides.",
+    "build": "Very small hawk, smaller than a Feral Pigeon and lightly built, about the length of a Brown-eared Bulbul but stockier; the smallest Accipiter in Korea. Rounded head with no crest. Short, rounded wings whose tips fall well short of the tail tip at rest. Tail medium-long and square-ended, grey with several distinct dark cross-bands. Legs long and very thin for the size. Moves through dense forest and darts out after small birds; flight is quick flaps and short glides.",
     "avoid": [
       "Do not paint a plain whitish underwing with black tips and a swollen orange cere (Chinese Sparrowhawk).",
       "Do not paint a bold white supercilium or orange cheeks (Eurasian Sparrowhawk).",
@@ -51,7 +51,8 @@
       "Do not paint a large, heavy hawk; this is a tiny, delicate Accipiter."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

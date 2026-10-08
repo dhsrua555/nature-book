@@ -46,11 +46,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey Nightjar (Caprimulgus jotaka), adult male in summer, resting by day in Korean forest from May to August: whole plumage cryptically mottled and vermiculated grey, grey-brown and black with buff and rufous spots, so that it looks like bark or dead leaves; crown grey with dark central streaks; white patches on the throat; underparts finely barred grey-brown and buff; long wings and tail mottled and barred like the body, with white spots near the tips of the outer tail feathers. Bill tiny and black, with a huge gape and stiff bristles at its base; large dark eye; legs and feet very short, brownish.",
+    "subject": "Grey Nightjar (Caprimulgus jotaka), adult male in summer, resting by day in Korean forest from May to August: whole plumage cryptically mottled and vermiculated grey, grey-brown and black with buff and rufous spots, so that it looks like bark or dead leaves; crown grey with dark central streaks; scapulars blackish with bold buff to whitish edges, forming a line of pale spots along the side of the back; white patches on the throat; underparts finely barred grey-brown and buff; long wings and tail mottled and barred like the body, with white spots near the tips of the outer tail feathers. Bill tiny and black, with a huge gape and stiff bristles at its base; large dark eye; legs and feet very short, brownish.",
     "pose": "resting lengthwise along a branch by day, breast pressed flat against it",
     "scene": "Korean summer mixed forest: shady interior with a small grassy clearing; no people, buildings or text",
     "views": [
-      "adult male, side view resting lengthwise along a branch: large flat head, large dark eye, tiny bill, cryptic mottled grey, brown and black plumage, white throat patches, long wings and tail lying along the branch",
+      "adult male, side view resting lengthwise along a branch: large flat head, large dark eye, tiny bill, cryptic mottled grey, brown and black plumage with a line of pale buff spots along the scapulars, white throat patches, long wings and tail lying along the branch",
       "adult male, flight from below: long pointed wings with a white patch across the outer primaries, long tail with white spots near the outer tips, wide gape open to catch insects",
       "adult female, flight from below: same shape and mottling, with smaller buff patches on the outer primaries and no white in the tail"
     ],
@@ -62,7 +62,8 @@
       "Do not give the female white wing or tail patches; hers are small and buff, or absent in the tail."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

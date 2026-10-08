@@ -56,7 +56,7 @@
       "adult non-breeding (late summer and autumn), side view perched: white forehead and face, black ear spot joined to a dark rear crown and upper neck, grey back, pale rump and white tail, white underparts, black bill",
       "adult breeding in flight, seen from below, head, body and tail in line: black underwing coverts and black body contrasting with pale grey flight feathers and white tail"
     ],
-    "build": "Small, compact marsh tern, about 25cm, slightly smaller and shorter-billed than Whiskered Tern; body about starling-sized with long, broad-based pointed wings. Bill short and fairly fine, clearly shorter than the head. Legs very short, red. At rest the wingtips project beyond the tail. Tail short and almost square, only slightly notched. Flight light and buoyant, dipping to the water surface.",
+    "build": "Small, compact marsh tern, about 25cm, slightly smaller and shorter-billed than Whiskered Tern; body about starling-sized with long, broad-based pointed wings. Bill short and fairly fine, clearly shorter than the head. Legs short but clearly visible, bright red. At rest the wingtips project beyond the tail. Tail short and almost square, only slightly notched. Flight light and buoyant, dipping to the water surface.",
     "avoid": [
       "Do not paint white cheeks under a black cap - that is Whiskered Tern; the breeding White-winged Tern's whole head is black.",
       "Do not paint black or grey upperwing coverts; the forewing is white.",
@@ -64,7 +64,16 @@
       "Do not paint a dark smudge on the breast sides of the non-breeding bird - that marks Black Tern (Chlidonias niger)."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "black head, neck and mantle (breeding)",
+      "white head with black marks on crown and upper neck (winter)",
+      "bill red in summer, black in winter",
+      "rump white or whitish, paler than the back",
+      "white tail and uppertail coverts",
+      "black belly (breeding)"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

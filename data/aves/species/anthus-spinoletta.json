@@ -68,7 +68,16 @@
       "Do not give the winter bird a pink-buff breast; that wash is summer only."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "pale supercilium, fainter in winter",
+      "distinct dark malar stripe in winter",
+      "grey-brown upperparts with a faint olive tinge in winter",
+      "grey-brown upperparts and greyer head in summer",
+      "pinkish-buff breast and belly in summer, almost unstreaked",
+      "whitish breast and belly with fine dark streaks on the breast and flanks in winter"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

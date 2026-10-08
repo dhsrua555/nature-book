@@ -57,7 +57,14 @@
       "Do not paint a clean, bright white back and rump as in western Whimbrels; East Asian birds show it barred brown."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long decurved bill about twice the head length, curving more strongly in the outer half",
+      "pale central crown stripe bordered by dark brown lateral crown stripes",
+      "buff neck and breast streaked dark brown, dark chevrons on the flanks, whitish belly",
+      "whitish wedge from the tail base up to the mid-back in flight, barred brown"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

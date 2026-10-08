@@ -41,21 +41,29 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black Redstart (Phoenicurus ochruros), adult male of the eastern race rufiventris, as seen in Korea in early spring: crown and nape dark ash-grey; forehead, face, throat, breast and mantle black (with faint grey fringes in fresh plumage); wings blackish-brown with no white patch; lower breast, belly, flanks and undertail coverts deep orange-rufous; rump, uppertail coverts and outer tail feathers bright orange-rufous, central tail feathers dark brown. Bill thin and black; dark eye; legs black.",
+    "subject": "Black Redstart (Phoenicurus ochruros), adult male of the eastern race rufiventris, as seen in Korea in early spring: crown, nape, mantle and scapulars dark slate-grey (with faint paler grey fringes in fresh plumage); forehead, lores, face, throat and upper breast black; wings dark grey-brown with narrow paler fringes and no white patch; from the mid-breast down the underparts, including belly, flanks and undertail coverts, deep orange-rufous; rump, uppertail coverts and outer tail feathers bright orange-rufous, central tail feathers dark brown. Bill thin and black; dark eye; legs black.",
     "pose": "perched, side view",
     "scene": "rocky open ground with low stone walls and bare shrubs on a Korean island in early spring; no people, buildings or text",
     "views": [
-      "adult male, side view perched: dark ash-grey crown and nape, black forehead, face, throat, breast and mantle, no white wing patch, orange-rufous belly, rump, tail coverts and outer tail feathers",
+      "adult male, side view perched: dark slate-grey crown, nape and back, black forehead, face, throat and upper breast, plain dark wings without a white patch, orange-rufous lower breast, belly, rump, tail coverts and outer tail feathers",
       "adult female, side view perched: dull grey-brown head and body, faint pale eye-ring, orange-buff wash on the lower belly and undertail coverts, rufous rump and tail sides, plain wings without a white patch"
     ],
     "build": "Small, slim chat, about the size of a Daurian Redstart or a sparrow. Upright stance on rocks, walls and low perches, constantly shivering the tail and bobbing. Round head; bill short, thin, straight and black. Legs fairly long and slender, black. Wings plain, without a white patch. Tail medium-long, square-ended, rufous at the sides with a dark centre, quivered almost continuously.",
     "avoid": [
       "Do not add a white wing patch or a silvery-white crown; those mark the common Daurian Redstart (Phoenicurus auroreus).",
-      "Do not paint the male's breast orange; the black reaches down to the lower breast.",
+      "Do not carry the black down onto the belly; it ends on the upper breast and everything below is orange-rufous.",
+      "Do not paint a grey forehead or grey face; the forehead and face are black, only the crown, nape and back are dark slate-grey.",
       "Do not give it a white forehead (Common Redstart, Phoenicurus phoenicurus)."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "black face, throat and neck sides; dark slate-grey crown and nape",
+      "black forehead and area around the eye",
+      "dark slate-grey back; black upper breast",
+      "orange-rufous lower breast, belly, rump and tail coverts"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

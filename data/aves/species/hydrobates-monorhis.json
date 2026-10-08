@@ -100,22 +100,33 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Swinhoe's Storm Petrel (Hydrobates monorhis), adult in summer (breeding season around Korean offshore islands): whole plumage dark sooty brown, the head the same colour as the body; on each upperwing a paler greyish-brown diagonal band across the coverts from the bend of the wing; primaries, secondaries and tail blackish; underparts and underwing dark greyish-brown with no white anywhere; rump dark, the same colour as the back; tail blackish and forked; small black bill with a tube-shaped nostril on top; dark eye; black legs and feet.",
+    "subject": "Swinhoe's Storm Petrel (Hydrobates monorhis), adult in summer (breeding season around Korean offshore islands): whole plumage dark sooty brown, the forehead and crown the same dark colour as the rest of the head, with no pale cap; on each upperwing a paler greyish-brown diagonal band across the coverts from the bend of the wing towards the body; primaries, secondaries and tail blackish; underparts and underwing dark greyish-brown with no white anywhere; rump dark, the same colour as the back; tail blackish with a shallow fork; short, fine black bill with a small tube on top and only a tiny hook at the tip; dark eye; short black legs and feet.",
     "pose": "flying low over the sea, wings spread",
     "scene": "Korean summer sea beside a rocky offshore island; no people, buildings or text",
     "views": [
-      "adult in flight seen from above, head, body and tail in line: all dark sooty-brown body and rump, blackish flight feathers, a paler greyish-brown diagonal band across each upperwing, forked blackish tail",
-      "adult, side view crouching low on rock at a burrow entrance: small dark sooty-brown bird resting on short black legs, tube-nosed black bill, long folded wings, blackish forked tail"
+      "adult in flight seen from directly above, head pointing straight forward in line with the body and tail so that only the crown shows: all dark sooty-brown head, body and rump, blackish flight feathers, a paler greyish-brown diagonal band across each upperwing, blackish tail with a shallow fork",
+      "adult, side view resting low on rock at a burrow entrance, belly close to the ground and the short legs mostly hidden: small all-dark sooty-brown bird, head the same dark colour as the body, short fine black bill with a small tube on top, long folded wings, blackish tail with a shallow fork"
     ],
-    "build": "Small seabird, about 20cm: about the length of a Barn Swallow but with longer, broader, angled wings. Small rounded head, short neck, slender body. Bill short and black, much shorter than the head, with a raised tubular nostril on the upper mandible and a small hooked tip. Legs short, thin and black; in flight the feet do not project beyond the tail. Wings long and pointed, sharply bent at the wrist. Tail moderately forked. Flies low over the sea with buoyant, bounding flight and erratic changes of direction.",
+    "build": "Small seabird, about 20cm: about the length of a Barn Swallow but with longer, broader, angled wings and a fuller body. Small rounded head, short neck. Bill black, short and fine, much shorter than the head, with a small tube on top of the upper mandible and only a tiny hook at the tip; it is not deep or raptor-like. Legs short, thin and black; on land the bird rests low with the belly near the ground and shuffles rather than standing upright. In flight the feet do not project beyond the tail. Wings long and pointed, sharply bent at the wrist. Tail with a shallow fork and no long outer streamers. Flies low over the sea with buoyant, bounding flight and erratic changes of direction.",
     "avoid": [
       "Do not paint a white rump; Swinhoe's Storm Petrel has a dark rump, unlike Leach's Storm Petrel.",
-      "Do not paint a swallow: no glossy blue and no red throat, and the bill has a tubular nostril.",
-      "Do not paint white underparts or a white band on the underwing.",
-      "Do not paint long legs or feet trailing beyond the tail."
+      "Do not paint a deeply forked, swallow-like tail with long points; the fork is shallow.",
+      "Do not paint a heavy, deep, strongly hooked bill like a raptor or skua; the bill is short and fine with only a tiny hook.",
+      "Do not paint a pale forehead or pale cap; the whole head is as dark as the body.",
+      "Do not stand it upright on long legs like a songbird; on land it rests low on very short legs.",
+      "Do not paint white underparts or a white band on the underwing."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "forehead and crown dark sooty brown, the same as the rest of the head",
+      "dark sooty-brown plumage overall",
+      "paler greyish-brown diagonal band across the upperwing coverts",
+      "blackish flight feathers",
+      "blackish tail with a shallow fork",
+      "short fine black bill with a tube on top; short black legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -57,7 +57,7 @@
       "adult female, side view standing: grey-brown to rufous-brown plumage closely barred and mottled black all over, including the belly, narrow white wing bar, slightly forked tail",
       "adult male in flight, seen from below: white underwing coverts contrasting with the black body and dark flight feathers, white bar across the bases of the secondaries, white undertail, lyre-shaped tail"
     ],
-    "build": "Large grouse; male about 54cm, female about 41cm and much smaller. Heavy, round-bodied gamebird with a small head, short thick neck and a short, stout, slightly downcurved bill much shorter than the head. Legs short and feathered. Wings short and rounded, held along the flanks at rest. Male tail long and lyre-shaped, often fanned and raised in display to show the white undertail coverts; female tail shorter and only slightly forked. Flight fast with whirring wingbeats and glides, showing a white wing bar and white underwing coverts.",
+    "build": "Large grouse; male about 54cm, female about 41cm and much smaller. Heavy, round-bodied gamebird with a small head, short thick neck and a short, stout, slightly downcurved bill much shorter than the head. Legs short and feathered. Wings short and rounded, held along the flanks at rest. Male tail long and lyre-shaped: at rest it is held closed behind the body, the long outer feathers curling outward at the tips, with the white undertail coverts showing beneath; female tail shorter and only slightly forked. Flight fast with whirring wingbeats and glides, showing a white wing bar and white underwing coverts.",
     "avoid": [
       "Do not paint a fan-shaped turkey tail or a long pheasant tail; the male's outer tail feathers curl outwards into a lyre.",
       "Do not give the female a crest or a black throat (Hazel Grouse, Tetrastes bonasia, which is much smaller).",
@@ -65,7 +65,8 @@
       "Do not draw the red skin as a wattle under the bill; it is a comb above the eye."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

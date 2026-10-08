@@ -49,14 +49,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-shouldered Starling (Sturnus sinensis), adult male, as seen in Korea on spring passage: head pale greyish-white with a faint brownish tinge on the face; throat greyish-white; back pale grey; rump and uppertail coverts greyish-white; breast pale grey, belly and undertail coverts white; wings black with a bronze gloss and a large white patch on the wing coverts forming a white shoulder; tail black. Bill pale grey with a bluish base; iris bluish-white; legs bluish-grey.",
+    "subject": "White-shouldered Starling (Sturnus sinensis), adult male, as seen in Korea on spring passage: head pale greyish-white with a faint buffy-brown tinge on the forehead and face; throat greyish-white; back pale grey; rump and uppertail coverts greyish-white; breast pale grey, belly and undertail coverts white; wings black with a bronze gloss and a large white patch on the wing coverts forming a white shoulder; tail black with narrow pale tips to the feathers. Bill slender and blue-grey, bluish at the base; iris whitish; legs bluish-grey.",
     "pose": "perched high in a tree, side view",
     "scene": "Korean spring: the crown of a large tree with a hollow at the base of its trunk; no people, buildings or text",
     "views": [
       "adult male, side view perched: pale greyish-white head, grey back, large white shoulder patch on the black, bronze-glossed wings, white belly and undertail coverts, black tail, grey bill with bluish base, bluish legs",
       "adult male, head detail in side view: slightly brownish face, bluish-white iris, slender grey bill with a bluish base"
     ],
-    "build": "Small, compact starling, about 18cm, a little smaller than a White-cheeked Starling, with a short square tail, pointed wings and a fairly short, slender, pointed bill. Legs medium-length, bluish-grey. Perches high in trees. In flight the white wing-covert patch flashes against the black wings, and the pale rump contrasts with the dark tail.",
+    "build": "Small, compact starling, about 18cm, clearly smaller than a White-cheeked Starling, with a rounded head and no crest, a short square tail, pointed wings and a slender, pointed bill a little shorter than the head. Legs medium-length, bluish-grey. Perches high in trees. In flight the white wing-covert patch flashes against the black wings, and the pale rump contrasts with the dark tail.",
     "avoid": [
       "Do not paint a dark glossy body; the head and body are pale grey and white.",
       "Do not omit the large white patch on the male's wing coverts, the feature that gives the species its name.",
@@ -64,7 +64,8 @@
       "Do not paint a yellow bill or orange legs."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

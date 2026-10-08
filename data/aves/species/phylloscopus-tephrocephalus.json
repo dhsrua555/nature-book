@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-crowned Warbler (Phylloscopus tephrocephalus), adult (sexes alike, plumage similar year-round): crown and nape grey, bordered on each side by a black lateral crown stripe running from the forehead to the nape; a complete, bright golden-yellow eye-ring; cheeks yellowish-green; upperparts bright olive-green; wings and tail olive-green with darker centres, usually without a wing-bar; entire underparts bright yellow; outer tail feathers with white on the inner webs; bill with dark upper mandible and pale orange-yellow lower mandible; dark eye; pale yellowish-pink legs.",
+    "subject": "Grey-crowned Warbler (Phylloscopus tephrocephalus), adult (sexes alike, plumage similar year-round): crown and nape grey, bordered on each side by a black lateral crown stripe running from the forehead to the nape; a complete, bright golden-yellow eye-ring; cheeks yellowish-green; upperparts bright olive-green; wings and tail olive-green with darker centres, usually without a wing-bar; entire underparts bright yellow; outer tail feathers with white on the inner webs; bill with a dusky upper mandible and pale orange lower mandible; dark eye; pale orange-yellow legs.",
     "pose": "perched on a thin twig in the mid-canopy, side view, alert",
     "scene": "deciduous woodland on a Korean offshore island in May with fresh green leaves and dappled light; no people, buildings or text",
     "views": [],
@@ -35,7 +35,8 @@
       "Do not add a supercilium or a dark eye-stripe; the face shows only the yellow eye-ring below the black crown stripes."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -45,23 +45,32 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ruddy Kingfisher (Halcyon coromanda), adult (sexes very similar), as seen in shady Korean mountain forest by streams from May to September: head, back, wings and tail rich rufous-orange to cinnamon, with a violet-lilac gloss over the back, wings and especially the tail, the forehead and sides of the head less glossy; a narrow pale silvery-turquoise stripe on the lower back and rump, mostly hidden at rest; chin and upper throat buffy-white; rest of the underparts paler orange-rufous; huge bright coral-red bill; dark eye; red legs and feet.",
+    "subject": "Ruddy Kingfisher (Halcyon coromanda), adult (sexes very similar), as seen in shady Korean mountain forest by streams from May to September: head and upperparts rich rufous-orange to cinnamon; back, wings and tail a deeper, redder maroon-rufous with only a faint violet sheen, strongest on the tail, the forehead and sides of the head less glossy; a narrow pale silvery-turquoise stripe on the lower back and rump, mostly hidden at rest; chin and upper throat buffy-white; rest of the underparts paler orange-rufous to buff; huge bright coral-red bill; dark eye; red legs and feet.",
     "pose": "perched on a shaded branch in dense forest by a stream",
     "scene": "Korean mountain valley in summer with dense broadleaf forest and a stream; no people, buildings or text",
     "views": [
-      "adult, side view perched upright on a shaded branch: uniform rufous-orange upperparts with violet gloss strongest on the slightly rounded tail, buffy-white chin and upper throat, huge coral-red bill, red legs",
-      "adult in flight, seen from above, head, body and tail in line: rufous wings and back with a narrow pale turquoise stripe down the lower back and rump, violet-glossed tail",
+      "adult, side view perched upright on a shaded branch: rufous-orange head and upperparts, wings and slightly rounded tail a deeper maroon-rufous with a faint violet sheen, buffy-white chin and upper throat, orange-buff underparts, huge coral-red bill, red legs",
+      "adult in flight, seen from above, head, body and tail in line: rufous wings and back with a narrow pale turquoise stripe down the lower back and rump, deeper maroon-rufous tail",
       "adult, head detail in side view: massive red bill, dark eye, buffy-white chin and upper throat, rufous head with little gloss on the forehead and face"
     ],
     "build": "Stocky, large-headed kingfisher, about 27.5cm, much bigger than Common Kingfisher and about the length of a Brown-eared Bulbul but far bulkier. Bill enormous, about as long as the head or a little longer, very deep at the base and dagger-shaped. Legs very short, red, with small feet. Short neck; perches upright. Wings short and rounded; the short, slightly rounded tail extends beyond the wingtips. In flight the pale turquoise rump stripe flashes against the rufous back.",
     "avoid": [
       "Do not paint a blue back and wings or a white breast - that is Black-capped Kingfisher (Halcyon pileata).",
-      "Do not paint a black, small or thin bill; it is huge and red.",
+      "Do not paint a black, small or thin bill; it is huge and bright coral-red.",
       "Do not paint a long tail or long legs.",
-      "Do not paint blue patches on the wings; the blue is only a narrow stripe on the lower back and rump."
+      "Do not paint blue patches on the wings; the blue is only a narrow stripe on the lower back and rump.",
+      "Do not paint the wings or tail purple or lilac; they are deep rufous with only a faint violet sheen."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "uniform rufous-apricot upperparts",
+      "deeper maroon-rufous wings and tail with a faint violet sheen, strongest on the tail",
+      "buffy-white chin and upper throat",
+      "slightly rounded tail",
+      "huge bright coral-red bill and dark eye"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

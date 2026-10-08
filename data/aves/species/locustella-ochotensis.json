@@ -49,12 +49,12 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Middendorff's Grasshopper Warbler (Locustella ochotensis), adult, as seen in Korean grassland during passage in May-June and August-September: upperparts plain, unstreaked rusty olive-brown, the crown slightly darker; a short, rather indistinct greyish-white to buff supercilium and greyish-white lores; olive-buff cheeks and ear coverts with fine dark brown tips; underparts buffy-white with a brownish wash across the breast and flanks; undertail coverts buff; tail rounded, dark brown with pale greyish-white tips to the outer feathers; bill with a horn-brown upper mandible and a paler pinkish to yellowish-horn lower mandible; reddish-brown eye; pale buff to pinkish legs.",
+    "subject": "Middendorff's Grasshopper Warbler (Locustella ochotensis), adult, as seen in Korean grassland during passage in May-June and August-September: upperparts plain, unstreaked rusty olive-brown, the crown slightly darker; a short, rather indistinct greyish-white to buff supercilium and greyish-white lores; olive-buff cheeks and ear coverts with fine dark brown tips; underparts buffy-white with a brownish wash across the breast and flanks; undertail coverts buff; tail rounded, dark brown with pale greyish-white tips to the outer feathers; bill with a horn-brown upper mandible and a paler pinkish to yellowish-horn lower mandible; dark brown eye; pale pinkish legs.",
     "pose": "perched on a grass stem, singing",
     "scene": "Korean grassy field during spring or autumn migration; no people, buildings or text",
     "views": [
       "adult, side view perched on a grass stem: plain rusty olive-brown unstreaked upperparts, short faint pale supercilium, buffy-white underparts with brownish breast and flanks, long rounded tail with pale feather tips",
-      "adult, head detail in side view: laterally compressed bill about half the head length, horn-brown upper mandible and paler lower mandible, short indistinct pale supercilium, reddish-brown eye"
+      "adult, head detail in side view: laterally compressed bill about half the head length, horn-brown upper mandible and paler lower mandible, short indistinct pale supercilium, dark brown eye"
     ],
     "build": "Medium-sized skulking warbler, a little longer than a sparrow but slimmer, with a long rounded tail; crouching, horizontal posture, often creeping mouse-like through grass. Bill fairly stout, laterally compressed, about half the head length. Legs medium-length, pale buff to pinkish. Wings short; the graduated, rounded tail extends well beyond the wingtips, and the long undertail coverts are buff. Sometimes sits up on a grass stem to sing.",
     "avoid": [
@@ -63,7 +63,8 @@
       "Do not paint a long, bold, dark-bordered supercilium or bright yellow underparts."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

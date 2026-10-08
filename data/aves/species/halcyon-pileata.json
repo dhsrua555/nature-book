@@ -53,7 +53,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Black-capped Kingfisher (Halcyon pileata), adult (sexes similar), as seen along Korean rivers in summer: whole head jet-black down to below the eye; broad white collar around the neck; chin, throat and breast white to buffy white; belly, flanks and undertail rich orange-rufous with a paler centre to the belly; wing coverts black, forming a black shoulder; mantle, back, rump, outer edges of the flight feathers and tail deep glossy violet-blue. Bill very large, straight and dagger-like, bright coral-red; dark eye; legs and feet red.",
+    "subject": "Black-capped Kingfisher (Halcyon pileata), adult (sexes similar), as seen along Korean rivers in summer: whole head jet-black down to below the eye, sharply cut off from the white throat; broad white collar around the neck; chin, throat and upper breast white to buffy white; lower breast, belly, flanks and undertail rich orange-rufous; wing coverts black, forming a black shoulder; mantle, back, rump, outer edges of the flight feathers and tail deep glossy violet-blue. Bill very large, straight and dagger-like, bright coral-red; dark eye; legs and feet red.",
     "pose": "perched alone on a branch above a stream",
     "scene": "Korean riverside in summer with an earthen bank and a hillside cliff; no people, buildings or text",
     "views": [
@@ -68,7 +68,15 @@
       "Do not paint blue wing coverts or a white belly; the coverts are black and the belly orange-rufous."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "matt jet-black head",
+      "black face below the eye, sharply cut off from the white throat",
+      "buffy-white chin, throat, upper breast and collar",
+      "glossy violet-blue back and rump",
+      "long, pointed, coral-red bill"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

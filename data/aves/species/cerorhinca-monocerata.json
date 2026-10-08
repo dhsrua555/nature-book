@@ -60,7 +60,15 @@
       "Do not paint crisp black-and-white plumage like a guillemot or murrelet; the upperparts are sooty grey-brown."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "breeding: two white plume lines on the side of the face, one from behind the eye and one from the gape",
+      "brownish dark grey throat and upper breast",
+      "blackish-brown upperparts",
+      "white belly lightly marked dark grey",
+      "non-breeding: no horn, faint or no facial plumes, throat and breast still dusky grey-brown, only the belly white"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

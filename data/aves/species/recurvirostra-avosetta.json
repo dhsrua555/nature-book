@@ -44,22 +44,30 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pied Avocet (Recurvirostra avosetta), adult as seen in Korean estuaries in winter (the black-and-white pattern is the same all year): cap from the forehead over the eye to the nape and the whole hindneck black; face below the eye, throat, foreneck and underparts white; on the upperparts a black stripe along the scapulars and a black band across the median wing coverts on white, giving a pied back; primaries black; tertials and tail white. Bill black, long, needle-thin and curving strongly upward in its outer half; dark eye; long blue-grey legs with partly webbed toes.",
+    "subject": "Pied Avocet (Recurvirostra avosetta), adult as seen in Korean estuaries in winter (the black-and-white pattern is the same all year): cap from the forehead over the eye to the nape and the whole hindneck black; face below the eye, throat, foreneck and underparts white; on the upperparts a black stripe along the scapulars and a black band across the median wing coverts on white, giving a pied back; primaries black; tertials and tail white. Bill black, long and needle-thin, nearly straight at the base and then curving smoothly and evenly upward to a fine point, not hooked or kinked; dark eye; long pale blue-grey legs with partly webbed toes.",
     "pose": "wading in shallow brackish water, sweeping its bill from side to side at the surface",
     "scene": "Korean estuary where a river meets the sea, shallow water over tidal flats; no people, buildings or text",
     "views": [
-      "adult, side view wading in shallow water: black cap and hindneck, white face and body, black scapular stripe and black wing-covert bar on the folded wing, black primaries, long thin upcurved black bill, long blue-grey legs",
-      "adult, head detail: black cap reaching down to the eye, white face and throat, long, needle-thin black bill curving upward in its outer half to a fine point"
+      "adult, side view wading in shallow water: black cap and hindneck, white face and body, black scapular stripe and black wing-covert bar on the folded wing, black primaries, long thin smoothly upcurved black bill, long pale blue-grey legs",
+      "adult, head detail: black cap reaching down to the eye and continuing down the hindneck, white face and throat, long needle-thin black bill, nearly straight at the base and curving smoothly upward towards the fine tip"
     ],
-    "build": "Elegant, slender wader, about 43cm long, clearly larger than Common Redshank and smaller than Eurasian Curlew; small rounded head on a fairly long neck. Bill much longer than the head, needle-thin, nearly straight at the base and curving strongly upward in the outer half to a fine point. Legs long and blue-grey, toes partly webbed; often swims. At rest the black wingtips reach about the tail tip. In flight black outer wing, black scapular stripes and black covert bars on white; legs project beyond the tail.",
+    "build": "Elegant, slender wader, about 43cm long, clearly larger than Common Redshank and smaller than Eurasian Curlew; small rounded head on a fairly long neck; no crest, the crown feathers lie flat. Bill about twice the length of the head, needle-thin, nearly straight at the base and curving smoothly upward in its outer part to a fine point: a distinct but gentle upcurve, not a hook. Legs long and pale blue-grey, toes partly webbed; often swims. At rest the black wingtips reach about the tail tip. In flight black outer wing, black scapular stripes and black covert bars on white; legs project beyond the tail.",
     "avoid": [
-      "Do not paint a straight or downcurved bill; the bill curves strongly upward.",
+      "Do not paint a straight or downcurved bill, nor an exaggerated hook; the bill curves smoothly and evenly upward in its outer part.",
       "Do not paint red or pink legs — that is Black-winged Stilt (Himantopus himantopus); avocet legs are blue-grey.",
       "Do not paint an all-white back; the black scapular stripe and wing-covert bar are always present.",
       "Do not paint a black face or throat; the black is limited to the cap and hindneck."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long, thin black bill curving smoothly upward",
+      "black cap from the forehead to the nape, enclosing the eye",
+      "black hindneck",
+      "black primaries",
+      "white body with a black scapular stripe and black wing-covert bar"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

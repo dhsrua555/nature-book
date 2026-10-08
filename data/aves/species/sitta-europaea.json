@@ -66,14 +66,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eurasian Nuthatch (Sitta europaea), adult in winter (fresh plumage): upperparts from the crown to the uppertail coverts plain blue-grey; a bold black eye-stripe from the bill base through the eye to the side of the nape; chin, cheeks, ear-coverts, throat and breast white, the breast sometimes tinged buff; belly buff; lower flanks rufous-chestnut, forming a dark patch at the sides of the belly; undertail coverts chestnut scaled white; central tail feathers blue-grey, outer ones black with white spots near the tip; long straight dark grey bill; dark eye; brownish legs.",
+    "subject": "Eurasian Nuthatch (Sitta europaea), adult in winter (fresh plumage): upperparts from the crown to the uppertail coverts plain blue-grey; a bold black eye-stripe from the bill base through the eye to the side of the nape, with a thin, faint whitish line above it; chin, cheeks, ear-coverts, throat and breast white; lower breast and belly washed orange-buff; lower flanks rufous-chestnut, forming a solid dark patch at the sides of the belly; undertail coverts chestnut scaled white; central tail feathers blue-grey, outer ones black with white spots near the tip; long straight blackish bill with a paler base to the lower mandible; dark eye; grey-brown legs.",
     "pose": "perched on a branch in mixed woodland, searching for insects",
     "scene": "Korean mixed conifer and broadleaf woodland in winter; no people, buildings or text",
     "views": [
       "adult in winter, side view perched on a branch: blue-grey upperparts, bold black eye-stripe, white cheeks, throat and breast, buff belly, rufous-chestnut lower flanks and white-scaled chestnut undertail, long straight bill",
       "adult, side view climbing head-first down a trunk: blue-grey back, short square tail with white spots near the tips of the outer black feathers, black eye-stripe, rufous flanks, large feet gripping the bark"
     ],
-    "build": "Small, compact, short-tailed tree-climber, about the size of a House Sparrow but stockier; big head, no visible neck, body held close to the bark. Bill long, straight and pointed like a chisel, about as long as the head, dark grey with a paler base to the lower mandible. Legs short and strong with large feet and long claws, brownish. At rest the wingtips reach close to the tip of the short tail. Tail short and square. Climbs up, down and head-first along trunks and branches without using the tail as a prop.",
+    "build": "Small, compact, short-tailed tree-climber, about the size of a House Sparrow but stockier; big flat-crowned head with no crest, no visible neck, body held close to the bark. Bill long, straight and pointed like a chisel, about as long as the head, blackish with a paler base to the lower mandible. Legs short and strong with large feet and long claws, grey-brown. At rest the wingtips reach close to the tip of the short tail. Tail short and square. Climbs up, down and head-first along trunks and branches without using the tail as a prop.",
     "avoid": [
       "Do not paint a long tail or show the tail pressed against the trunk like a woodpecker.",
       "Do not paint a thin decurved bill; that is a treecreeper.",
@@ -82,7 +82,16 @@
       "Do not paint the underparts entirely orange; the throat and breast are white."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "bold black eye-stripe",
+      "long straight bill, about as long as the head",
+      "blue-grey upperparts",
+      "white cheeks, throat and breast",
+      "orange-buff belly",
+      "solid rufous-chestnut patch on the lower flanks and white-scaled chestnut undertail coverts"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

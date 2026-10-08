@@ -51,14 +51,15 @@
       "adult, side view perched low in a shrub: plain olive-brown upperparts without wing-bars, long creamy supercilium, creamy-white breast and belly, buff flanks and undertail, stout yellowish-peach legs",
       "adult, head detail in side view: long supercilium buffy-yellow in front of the eye and creamy-white behind it, dark eye-stripe, short thick bill with a pale lower mandible"
     ],
-    "build": "Small, chunky leaf warbler, a little smaller than a sparrow but heavier-looking than most leaf warblers, with a big head, thick neck and short wings. Bill short and noticeably thick for a Phylloscopus. Legs stout, yellowish-peach. Wings short and rounded; the tail extends well beyond the wingtips. Skulks low in dense scrub and on the ground, often flicking its wings and tail.",
+    "build": "Small, chunky leaf warbler, a little smaller than a sparrow but heavier-looking than most leaf warblers, with a big head, thick neck and short wings; no crest, the crown feathers lie flat. Bill short and noticeably thick for a Phylloscopus. Legs stout, yellowish-peach. Wings short and rounded; the tail extends well beyond the wingtips. Skulks low in dense scrub and on the ground.",
     "avoid": [
       "Do not paint a needle-fine bill, thin dark legs and a whitish supercilium in front of the eye - that is Dusky Warbler (Phylloscopus fuscatus).",
       "Do not add wing-bars or a yellow rump.",
       "Do not paint a green back with yellow underparts like the typical leaf warblers."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -31,7 +31,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Jankowski's Bunting (Emberiza jankowskii), adult male in breeding plumage, as on the breeding grounds in the far north of Korea in late spring: crown and nape chestnut; long whitish supercilium; grey ear-coverts with a dark line through the eye; throat white; sides of the neck and breast plain pale grey; a large dark chestnut patch in the centre of the belly; flanks buffish-white; lower belly and vent whitish; mantle and scapulars rufous-buff boldly streaked black; rump plain rufous-brown; wings brown with rufous-buff feather edges; tail dark brown with white outer feathers; bill small, conical, grey; legs pinkish.",
+    "subject": "Jankowski's Bunting (Emberiza jankowskii), adult male in breeding plumage, as on the breeding grounds in the far north of Korea in late spring: crown and nape chestnut; long whitish supercilium; grey ear-coverts with a dark line through the eye and a thin dark line along their lower edge; throat white; sides of the neck and breast plain pale grey; a large dark chestnut patch in the centre of the belly; flanks buffish-white; lower belly and vent whitish; mantle and scapulars rufous-buff boldly streaked black; rump plain rufous-brown; wings brown with rufous-buff feather edges; tail dark brown with white outer feathers; bill small, conical, grey; legs pinkish.",
     "pose": "perched on a low shrub, side view",
     "scene": "Korean late-spring river valley in the far north: grassy riverbank, shrubby foothills and small open mounds; no people, buildings or text",
     "views": [
@@ -46,7 +46,11 @@
       "Do not streak the breast of the male; it is plain grey."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dark chestnut patch in the centre of the whitish belly (male)"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -12,6 +12,12 @@ tools/style.toml 의 프롬프트에 끼운다. 쓰는 규칙은 tools/ART_RULES
     uv run tools/art_profiles.py check cache/art/out-01.json
     uv run tools/art_profiles.py merge                  # out-*.json → 종 파일의 art
     uv run tools/art_profiles.py notes                  # 정리하며 남긴 메모(책 자료와 어긋나는 점 등)
+
+실제 사진(tools/ref_photos.py)으로 다시 확인하기 — ART_RULES.md 'verify':
+    uv run tools/art_profiles.py vbatches               # cache/art/verify-ids.txt 의 종 → cache/art/vbatch-NN.json
+    uv run tools/art_profiles.py vcheck cache/art/vout-01.json
+    uv run tools/art_profiles.py vmerge                 # 고친 칸·marks 를 종 파일에
+    uv run tools/art_profiles.py issues                 # 이미 그린 그림에서 고칠 점
 """
 from __future__ import annotations
 
@@ -202,6 +208,144 @@ def cmd_merge(args) -> int:
     return 1 if bad_files else 0
 
 
+# ───────────── 사진으로 확인하기 (ART_RULES.md 'verify') ─────────────
+PHOTOS = ROOT / "art" / "ref" / "photos"
+VFIELDS = {"subject", "build", "views", "avoid", "pose", "scene"}
+
+
+def cmd_vbatches(args) -> int:
+    ids = [l.strip() for l in (WORK / "verify-ids.txt").read_text(encoding="utf-8").splitlines() if l.strip()]
+    notes = {}
+    for out in WORK.glob("out-*.json"):
+        for e in json.loads(out.read_text(encoding="utf-8")):
+            notes[e["id"]] = e.get("notes") or ""
+    for f in WORK.glob("vbatch-*.json"):
+        f.unlink()
+    items = []
+    for sid in ids:
+        sp = json.loads((SPECIES / f"{sid}.json").read_text(encoding="utf-8"))
+        meta = PHOTOS / sid / "meta.json"
+        photos = json.loads(meta.read_text(encoding="utf-8")) if meta.exists() else []
+        art = sp.get("art") or {}
+        items.append({
+            "id": sid, "ko": sp["ko"], "sci": sp["sci"], "en": sp.get("en"), "length": sp.get("length"),
+            "points": [{"ko": p.get("ko"), "en": p.get("en")} for p in sp.get("points") or []],
+            "sexes": sp.get("sexes"), "young": sp.get("young"),
+            "art": {k: art.get(k) for k in ("subject", "build", "views", "avoid", "pose", "scene", "confidence")},
+            "first_pass_note": notes.get(sid, ""),
+            "callouts_placed": any(p.get("at") for p in sp.get("points") or []),
+            "photos": [{"path": f"art/ref/photos/{sid}/{m['file']}", "area": m["area"], "taxon": m["taxon"]} for m in photos],
+            "drawn": [p for p in (f"img/aves/{sid}.webp", f"img/aves/{sid}.id.webp") if (ROOT / p).exists()],
+        })
+    n = 0
+    for i in range(0, len(items), args.size):
+        n += 1
+        (WORK / f"vbatch-{n:02d}.json").write_text(json.dumps(items[i:i + args.size], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"확인할 종 {len(items)}개 → 묶음 {n}개 (cache/art/vbatch-NN.json)")
+    return 0
+
+
+def check_verify(entries: list, batch: list[dict], say) -> int:
+    bad = 0
+    def err(sid, m):
+        nonlocal bad
+        bad += 1
+        say(f"  오류 {sid}: {m}")
+    want = {b["id"]: b for b in batch}
+    got = [e.get("id") for e in entries]
+    for sid in set(want) - set(got):
+        err(sid, "결과에 없다")
+    for sid in set(got) - set(want):
+        err(sid, "묶음에 없는 id")
+    for e in entries:
+        sid, b = e.get("id"), want.get(e.get("id"))
+        if not b:
+            continue
+        if e.get("verdict") not in ("ok", "fixed", "no-photos"):
+            err(sid, "verdict 는 ok · fixed · no-photos")
+        extra = set(e) - VFIELDS - {"id", "verdict", "photos_used", "marks", "drawn_issues", "notes"}
+        if extra:
+            err(sid, f"모르는 키 {sorted(extra)}")
+        if e.get("verdict") == "fixed" and not (VFIELDS & set(e) or "marks" in e):
+            err(sid, "fixed 인데 고친 칸이 없다")
+        for k, lo, hi in (("subject", 120, 1400), ("build", 120, 1000)):
+            if k in e and (not isinstance(e[k], str) or not lo <= len(e[k]) <= hi):
+                err(sid, f"{k} 길이 {len(e[k]) if isinstance(e[k], str) else '?'}자 (권장 {lo}–{hi})")
+        if "avoid" in e and (not isinstance(e["avoid"], list) or not 1 <= len(e["avoid"]) <= 6):
+            err(sid, "avoid 는 1–6개")
+        if "views" in e:
+            v = e["views"]
+            if not b["points"]:
+                err(sid, "동정 포인트가 없는 종은 views 를 쓰지 않는다")
+            elif not isinstance(v, list) or not 1 <= len(v) <= 4:
+                err(sid, "views 는 1–4개")
+            elif b["callouts_placed"] and len(v) != len(b["art"].get("views") or []):
+                err(sid, "번호를 찍은 도해가 있어 views 수를 바꿀 수 없다")
+        if "marks" in e and (not isinstance(e["marks"], list) or len(e["marks"]) != len(b["points"])):
+            err(sid, f"marks 는 동정 포인트 수({len(b['points'])})와 같게")
+        di = e.get("drawn_issues")
+        if b["drawn"] and not isinstance(di, dict):
+            err(sid, "이미 그린 종은 drawn_issues 를 쓴다({\"scene\": \"\", \"plate\": \"\"})")
+        texts = [e.get(k) for k in VFIELDS] + list(e.get("views") or []) + list(e.get("avoid") or []) + list(e.get("marks") or [])
+        for t in texts:
+            if isinstance(t, str) and (HANGUL.search(t) or "TODO" in t):
+                err(sid, f"영어 칸에 한글이나 TODO: {t[:40]}…")
+                break
+    return bad
+
+
+def load_vbatch(out: Path) -> list[dict]:
+    m = re.search(r"vout-(\d+)", out.name)
+    if not m:
+        raise SystemExit(f"{out.name}: vout-NN.json 꼴이 아니다")
+    return json.loads((WORK / f"vbatch-{m.group(1)}.json").read_text(encoding="utf-8"))
+
+
+def cmd_vcheck(args) -> int:
+    out = Path(args.file)
+    entries = json.loads(out.read_text(encoding="utf-8"))
+    bad = check_verify(entries, load_vbatch(out), print)
+    fixed = sum(1 for e in entries if e.get("verdict") == "fixed")
+    print(f"{out.name}: {len(entries)}종, 오류 {bad}, 고침 {fixed}")
+    return 1 if bad else 0
+
+
+def cmd_vmerge(args) -> int:
+    total = 0
+    for out in sorted(WORK.glob("vout-*.json")):
+        entries = json.loads(out.read_text(encoding="utf-8"))
+        if check_verify(entries, load_vbatch(out), lambda m: None):
+            print(f"건너뜀 {out.name}: vcheck 를 통과하지 못했다")
+            continue
+        for e in entries:
+            f = SPECIES / f"{e['id']}.json"
+            sp = json.loads(f.read_text(encoding="utf-8"))
+            art = sp.setdefault("art", {})
+            changed = False
+            for k in VFIELDS | {"marks"}:
+                if k in e and e[k] != art.get(k):
+                    art[k] = [x.strip() for x in e[k]] if isinstance(e[k], list) else e[k].strip()
+                    changed = True
+            if e.get("verdict") in ("ok", "fixed"):
+                art["checked"] = "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
+                changed = True
+            if changed:
+                f.write_text(json.dumps(sp, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                total += 1
+    print(f"사진 확인 반영 {total}종")
+    return 0
+
+
+def cmd_issues(args) -> int:
+    """이미 그린 그림에서 고칠 점"""
+    for out in sorted(WORK.glob("vout-*.json")):
+        for e in json.loads(out.read_text(encoding="utf-8")):
+            for kind, msg in (e.get("drawn_issues") or {}).items():
+                if msg:
+                    print(f"{e['id']}\t{kind}\t{msg}")
+    return 0
+
+
 def cmd_notes(args) -> int:
     for out in sorted(WORK.glob("out-*.json")):
         for e in json.loads(out.read_text(encoding="utf-8")):
@@ -219,8 +363,15 @@ def main() -> int:
     c.add_argument("file")
     sub.add_parser("merge")
     sub.add_parser("notes")
+    vb = sub.add_parser("vbatches", help="사진으로 확인할 종(cache/art/verify-ids.txt)을 묶음으로")
+    vb.add_argument("--size", type=int, default=24)
+    vc = sub.add_parser("vcheck")
+    vc.add_argument("file")
+    sub.add_parser("vmerge")
+    sub.add_parser("issues", help="이미 그린 그림에서 고칠 점")
     args = ap.parse_args()
-    return {"batches": cmd_batches, "check": cmd_check, "merge": cmd_merge, "notes": cmd_notes}[args.cmd](args)
+    return {"batches": cmd_batches, "check": cmd_check, "merge": cmd_merge, "notes": cmd_notes,
+            "vbatches": cmd_vbatches, "vcheck": cmd_vcheck, "vmerge": cmd_vmerge, "issues": cmd_issues}[args.cmd](args)
 
 
 if __name__ == "__main__":

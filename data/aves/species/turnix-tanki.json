@@ -48,7 +48,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-legged Buttonquail (Turnix tanki), adult female, as seen at Korean farmland edges on spring or autumn passage: head warm buff-brown, densely speckled blackish and white; a bright rufous-orange patch across the hindneck; throat white; back and scapulars grey-brown, finely vermiculated and spotted dark with buff feather edges; wing coverts pale buff with bold round black spots; breast warm orange-buff, paling to whitish-buff on the belly; breast sides and flanks with rows of round blackish-brown spots; bill yellow; legs and feet bright yellow.",
+    "subject": "Yellow-legged Buttonquail (Turnix tanki), adult female, as seen at Korean farmland edges on spring or autumn passage: head warm buff-brown, densely speckled blackish and white; a bright rufous-orange patch across the hindneck; throat white; back and scapulars grey-brown, finely vermiculated and spotted dark with buff feather edges; wing coverts pale buff with bold round black spots; breast warm orange-buff, paling to whitish-buff on the belly; breast sides and flanks with rows of round blackish-brown spots; bill yellow; iris pale, whitish; legs and feet bright yellow.",
     "pose": "walking on the ground among low grass",
     "scene": "Korean farmland edge with grassy open ground and scattered shrubs during spring or autumn migration; no people, buildings or text",
     "views": [
@@ -64,7 +64,16 @@
       "Do not paint streaks on the flanks; the flank marks are round spots."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "buff-brown head densely speckled blackish and white, with a rufous-orange hindneck",
+      "white throat",
+      "brown back",
+      "yellowish-brown belly",
+      "round blackish-brown spots on breast sides and flanks",
+      "bright yellow legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

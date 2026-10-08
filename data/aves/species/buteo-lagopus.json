@@ -45,7 +45,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Rough-legged Buzzard (Buteo lagopus), adult female-type plumage as typical of birds wintering in Korea (December–February): head creamy white with fine dark streaks; breast whitish-buff with sparse dark streaks; a broad, solid dark brown band across the belly and flanks; upperparts and upperwing dark brown with paler feather edges and a whitish patch at the base of the primaries; underwing whitish with a large black carpal patch, dark wingtips and a dark trailing edge; tail white on the basal half with a broad dark brown band at the tip. Short hooked dark bill with a yellow cere; legs feathered buff to the toes; bare toes yellow.",
+    "subject": "Rough-legged Buzzard (Buteo lagopus), adult female-type plumage as typical of birds wintering in Korea (December–February): head creamy white with fine dark streaks; breast whitish-buff with dark streaks; a broad, solid dark brown band across the belly and flanks; upperparts brown, the scapulars and wing coverts broadly edged whitish-buff giving a pale mottled look, the flight feathers darker; a whitish patch at the base of the primaries on the upperwing; underwing whitish with a large black carpal patch, dark wingtips and a dark trailing edge; tail white on the basal half with a broad dark brown band at the tip. Short hooked dark bill with a yellow cere; legs feathered buff to the toes; bare toes yellow.",
     "pose": "perched on a wooden post in open country, watching the ground for rodents",
     "scene": "Korean winter open plain with scattered rocks and old wooden posts; no people, buildings or text",
     "views": [
@@ -60,7 +60,8 @@
       "Do not paint a white belly; the dark belly band is a key mark of this plumage."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

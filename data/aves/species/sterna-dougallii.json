@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Roseate Tern (Sterna dougallii), adult in breeding plumage, as a summer vagrant: glossy black cap from the bill base to the nape; upperparts and wings very pale silvery grey, paler than in other Sterna terns, the outermost two or three primaries darker grey and forming a narrow dark edge to the folded wingtip; rump and tail white, the outer tail feathers forming very long white streamers; underparts white with a delicate pink flush on the breast and belly. Bill slender, black with a variable amount of red at the base; dark eye; legs bright orange-red.",
+    "subject": "Roseate Tern (Sterna dougallii), adult in breeding plumage, as a summer vagrant: glossy black cap from the bill base to the nape; upperparts and wings very pale silvery grey, paler than in other Sterna terns, the outermost two or three primaries darker grey and forming a narrow dark edge to the folded wingtip; rump and tail white, the outer tail feathers forming very long white streamers; underparts white with a delicate pink flush on the breast and belly. Bill long, slender and black, with at most a trace of dark red at the very base; dark eye; legs bright orange-red.",
     "pose": "standing on a rock with the long tail streamers clear of the wingtips, side view",
     "scene": "Rocky offshore islet off Korea's south coast in mid-summer, bright sun over a blue sea; no people, buildings or text",
     "views": [],
@@ -35,7 +35,8 @@
       "Do not darken the upperparts; they are the palest of all Sterna terns."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

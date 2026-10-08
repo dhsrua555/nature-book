@@ -111,7 +111,7 @@
     }
   ],
   "art": {
-    "subject": "Mandarin Duck (Aix galericulata), adult male in full breeding plumage, as seen in Korea from October to May: small bright red bill with a whitish nail; broad white crescent sweeping back from above the eye to the nape; dark glossy green-purple forehead and crown running into a long drooping crest that turns chestnut-orange at the rear; orange-buff face with elongated orange hackles fanning down the sides of the neck; deep purple-maroon breast with two vertical white bars bordered by black on its side; golden orange-buff flanks; a pair of large upright orange sail feathers raised above the back; dark olive-brown back; white belly and undertail; dark eye; orange-yellow legs.",
+    "subject": "Mandarin Duck (Aix galericulata), adult male in full breeding plumage, as seen in Korea from October to May: small bright red bill with a whitish nail; broad white crescent sweeping back from above the eye to the nape; forehead and crown glossy copper-chestnut, darker and more purple towards the rear, continuing into a long, full crest that droops over the nape and is glossy green and dark blue along its lower part below the white crescent; buff to orange face with elongated orange hackles fanning down the sides of the neck; deep purple-maroon breast with two vertical white bars bordered by black on its side; golden orange-buff, finely vermiculated flanks with black-and-white stripes at their rear; a pair of large upright orange sail feathers raised above the back; dark olive-brown back; white belly and undertail; dark eye; orange-yellow legs.",
     "pose": "Floating on calm water in clear side profile with the orange sails raised, a quiet ripple around the body.",
     "scene": "A shaded pool of a mountain stream in a Korean deciduous forest in late autumn: overhanging oak and maple branches with a few remaining yellow and orange leaves, mossy boulders along the bank, fallen leaves and acorns drifting on the still water, soft reflections of the trees. No people, buildings or text.",
     "views": [
@@ -127,7 +127,8 @@
       "Do not paint the female's bill red; only the male's bill is red."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

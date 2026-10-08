@@ -24,7 +24,7 @@
   "similar": [],
   "art": {
     "subject": "Black Baza (Aviceda leuphotes), adult: head, long erect crest, neck, upperparts and tail glossy black; white and chestnut patches on the scapulars and secondaries; a broad white band across the upper breast below the black throat, bordered below by a black band; lower breast and belly buff with broad chestnut bars; vent and undertail coverts black. Bill short, dark grey, with two small tooth-like notches on the upper mandible; legs short, grey.",
-    "pose": "perched upright on an exposed branch with the crest raised, side view",
+    "pose": "perched upright on an exposed branch, side view, the long thin black crest standing up from the back of the head",
     "scene": "broadleaf woodland edge on a Korean offshore island during spring migration; no people, buildings or text",
     "views": [],
     "build": "Small, crow-like raptor, a little larger than a feral pigeon, stocky, with a large head topped by a long, thin, erect crest. Bill short and hooked, much shorter than the head. Legs short. In flight broad, rounded, paddle-shaped wings, black above with white patches on the inner wing; from below black coverts and greyish flight feathers with black tips. Flies with crow-like flapping and short glides. Tail medium length, square and black.",
@@ -35,7 +35,8 @@
       "Do not paint a large eagle-like bill; the bill is short."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -61,7 +61,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Tawny Owl (Strix aluco), adult (sexes alike), as seen in Korean forests all year: plumage grey-brown; rounded facial disc greyish with fine concentric lines and a narrow dark rim, a whitish V of eyebrows between the eyes; crown and upperparts grey-brown with dark streaks and fine vermiculations, a row of whitish spots along the scapulars and on the wing coverts; underparts pale greyish-buff with bold dark vertical streaks crossed by fine horizontal bars. Bill pale greyish-horn, partly hidden in feathers; eyes large and blackish-brown; legs and toes feathered pale buff.",
+    "subject": "Tawny Owl (Strix aluco), adult (sexes alike), as seen in Korean forests all year (the East Asian population, often split as Himalayan Owl Strix nivicolum): plumage grey-brown; rounded facial disc greyish with fine concentric lines and a narrow dark rim, a whitish V of eyebrows between the eyes; crown and upperparts grey-brown with dark streaks and fine vermiculations, a row of whitish spots along the scapulars and on the wing coverts; underparts pale greyish-buff with bold dark vertical streaks crossed by fine horizontal bars. Bill pale yellowish-horn, partly hidden in feathers; eyes large and blackish-brown; legs and toes feathered pale buff.",
     "pose": "perched motionless on a branch close to the trunk by day",
     "scene": "Korean mixed conifer and broadleaf forest; no people, buildings or text",
     "views": [
@@ -76,7 +76,15 @@
       "Do not paint the bird bright rufous-brown; paint it grey-brown."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "rounded head without ear tufts",
+      "dark eyes",
+      "pale yellowish-horn bill",
+      "grey-brown plumage",
+      "back and belly streaked dark with fine cross-bars"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -111,7 +111,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Common Pheasant (Phasianus colchicus), adult male (plumage the same all year): head and neck glossy dark green with a purple-blue sheen and two short erectile ear-tufts; bare scarlet wattle skin around the eye; a bold white ring around the lower neck; below the ring the breast is coppery chestnut with black crescent-shaped feather tips; flanks golden-buff spotted black; belly dark brown; mantle and scapulars buff and rufous with black and white markings; upperwing coverts pale greyish; rump pale greenish-grey; very long pointed tail, olive-buff crossed by narrow dark bars; pale horn bill; grey legs with a short spur at the back of each leg.",
+    "subject": "Common Pheasant (Phasianus colchicus), adult male (plumage the same all year): head and neck glossy dark green with a purple-blue sheen and two short ear-tufts at the back of the crown; bare scarlet skin around the eye; a bold white ring around the lower neck; below the ring the breast is coppery chestnut with black crescent-shaped feather tips; flanks golden-buff spotted black; belly dark brown; mantle and scapulars buff and rufous with black and white markings; upperwing coverts pale greyish; rump pale greenish-grey; very long pointed tail, olive-buff crossed by narrow dark bars; pale horn bill; grey legs with a short spur at the back of each leg.",
     "pose": "walking along the edge of a thicket, long tail held level",
     "scene": "Korean woodland edge with low thickets on a wooded hillside; no people, buildings or text",
     "views": [
@@ -126,7 +126,8 @@
       "Do not paint a dark green breast as in the Green Pheasant of Japan; Korean males have a coppery breast and a white neck ring."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -53,7 +53,7 @@
       "adult, side view walking on bare farmland: purple-glossed black plumage, baggy thigh feathers, peaked crown, slender pointed black bill with bare greyish-white skin at its base",
       "adult, head detail in side profile: bare greyish-white skin around the nostrils, bill base and chin, slender pointed bill with a gently curved culmen, peaked crown"
     ],
-    "build": "Medium-large crow, a little smaller and slimmer than a Carrion Crow and much smaller than a Large-billed Crow. Head with a peaked crown. Bill about as long as the head, slender and sharply pointed, with a gently curved culmen and no heavy arch. Legs medium length, black; walks on fields with a rolling gait, the loose thigh feathers forming baggy trousers. At rest the wingtips reach about the tail tip. Tail medium length, rounded to slightly wedge-shaped in flight. Flies in large flocks on long, fingered wings.",
+    "build": "Medium-large crow, a little smaller and slimmer than a Carrion Crow and much smaller than a Large-billed Crow. No crest; the crown feathers lie flat, but the forehead is steep and the crown peaked, highest above the eye. Bill about as long as the head, slender and sharply pointed, with a gently curved culmen and no heavy arch. Legs medium length, black; walks on fields with a rolling gait, the loose thigh feathers forming baggy trousers. At rest the wingtips reach about the tail tip. Tail medium length, rounded to slightly wedge-shaped in flight. Flies in large flocks on long, fingered wings.",
     "avoid": [
       "Do not paint a massive arched bill and a domed forehead; that is Large-billed Crow.",
       "Do not cover the adult's bill base with black bristles like a crow; adults show bare pale skin there.",
@@ -61,7 +61,8 @@
       "Do not paint the bare face pink or red."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

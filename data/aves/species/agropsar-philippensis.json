@@ -49,11 +49,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Chestnut-cheeked Starling (Agropsar philippensis), adult male in late spring: forehead, crown and hindneck creamy white; lores, chin and throat pale buff; a rich chestnut patch on the ear coverts and cheeks, sometimes extending to the neck sides and upper breast; mantle and back glossy purplish-black; wings glossy green-black with a white stripe along the shoulder; tail black with a strong green gloss, slightly notched; breast and flanks dark grey, belly white; bill black with a greyish base to the lower mandible; brown iris; dark olive-grey legs.",
+    "subject": "Chestnut-cheeked Starling (Agropsar philippensis), adult male in late spring: forehead, crown and hindneck creamy white; lores, chin and throat pale buff; a rich chestnut patch on the ear coverts and cheeks, sometimes extending to the neck sides and upper breast; mantle and back glossy purplish-black; wings glossy green-black with a white stripe along the shoulder; tail black with a strong green gloss, slightly notched; breast and flanks grey, belly white; bill black with a greyish base to the lower mandible; brown iris; dark olive-grey legs.",
     "pose": "perched on a branch of a fruiting cherry tree, side view",
     "scene": "Korean woodland edge near farmland with fruiting cherry trees in late spring (late May–June); no people, buildings or text",
     "views": [
-      "adult male, side view perched: creamy-white crown and nape, chestnut ear coverts and cheeks, pale buff throat, glossy purplish-black back, white shoulder stripe, dark grey breast and flanks, white belly, olive-grey legs",
+      "adult male, side view perched: creamy-white crown and nape, chestnut ear coverts and cheeks, pale buff throat, glossy purplish-black back, white shoulder stripe, grey breast and flanks, white belly, olive-grey legs",
       "adult male, head close-up in profile: chestnut cheek patch below and behind the eye on a creamy head, pale buff lores and chin, short black bill with a greyish base to the lower mandible",
       "adult female, side view perched: plain grey-brown head and back without any chestnut, dark brown wings with a whitish shoulder stripe, pale grey underparts"
     ],
@@ -65,7 +65,16 @@
       "Do not paint a yellow or red bill; it is black."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "creamy-white forehead to hindneck",
+      "chestnut ear coverts and cheeks",
+      "pale buff lores, chin and throat",
+      "glossy purplish-black back and rump",
+      "grey breast and flanks, white belly",
+      "olive legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

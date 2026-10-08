@@ -23,18 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Zappey's Flycatcher (Cyanoptila cumatilis), adult male, as seen on Korean islands during spring migration: crown bright turquoise-blue; upperparts, wings and tail deep blue with a greenish-turquoise tone; face, chin, throat and upper breast dark blue-green, not black, merging with the blue of the upperparts; lower breast and belly clean white with a clear border; white bases to the outer tail feathers. Bill black; dark eye; legs black.",
+    "subject": "Zappey's Flycatcher (Cyanoptila cumatilis), adult male, as seen on Korean islands during spring migration: crown bright turquoise-blue; upperparts, wings and tail deep blue with a slight turquoise tone; face, chin, throat and upper breast deep blue, a little darker and duller than the crown but never black, continuous with the blue of the head; lower breast and belly clean white, sharply divided from the blue; white bases to the outer tail feathers. Bill black; dark eye; legs black.",
     "pose": "perched upright on a branch in the forest mid-storey, side view",
     "scene": "mixed broadleaf forest on a Korean offshore island during spring migration in May; no people, buildings or text",
     "views": [],
-    "build": "Fairly large flycatcher, larger than a sparrow, the same size and shape as Blue-and-white Flycatcher. Upright posture, round head with a slightly peaked crown. Bill black, broad-based and flat, shorter than the head. Legs short, black. Long wings with a long primary projection. Tail medium length, square-ended. Sits still on mid-level branches and sallies out for insects.",
+    "build": "Fairly large flycatcher, larger than a sparrow, the same size and shape as Blue-and-white Flycatcher. Upright posture; round head with no crest, the crown feathers lie flat. Bill black, broad-based and flat, shorter than the head. Legs short, black. Long wings with a long primary projection. Tail medium length, square-ended. Sits still on mid-level branches and sallies out for insects.",
     "avoid": [
       "Do not paint a black face, throat and breast; that is Blue-and-white Flycatcher (Cyanoptila cyanomelana).",
       "Do not extend the blue onto the belly; the belly is clean white.",
       "Do not add wing-bars or a white supercilium."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

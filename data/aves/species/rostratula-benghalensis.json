@@ -52,22 +52,32 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Greater Painted-snipe (Rostratula benghalensis), adult female in the breeding season, as seen in Korean rice paddies from May to August: head, neck and upper breast deep chestnut-maroon, darker on the face; crown dark with a pale buff to whitish central stripe from the forehead to the hindcrown; a bold white patch around the eye extending back as a short white tear-shaped stripe; a blackish band at the lower edge of the breast; underparts white, the white continuing up as a narrow strap around the bend of the folded wing onto the mantle; back and wings bronzy olive-green finely barred and chequered black, with buff stripes along the mantle. Long reddish bill, greenish at the base, slightly drooping at the tip; dark eye; greenish legs.",
+    "subject": "Greater Painted-snipe (Rostratula benghalensis), adult female in the breeding season, as seen in Korean rice paddies from May to August: head, neck, throat and upper breast deep chestnut, the crown blackish with a narrow pale buff to whitish central stripe from the forehead to the hindcrown; a bold white ring around the eye extending back as a short white stripe behind it; a blackish band at the lower edge of the chestnut breast; underparts below it white, the white continuing up as a narrow strap around the bend of the folded wing onto the mantle; back and wing coverts dark bronzy olive-green, finely barred dark, with buff stripes along the edges of the mantle. Long pale orange-pink bill drooping slightly at the tip; dark eye; legs dull greenish-yellow.",
     "pose": "standing still at the muddy edge of a weedy paddy at dusk, side view",
     "scene": "Korean summer lowland: fallow and newly planted rice paddies with muddy edges, rank grass and rushes, evening light; no people, buildings or text",
     "views": [
-      "adult female, side view standing at a paddy edge: deep chestnut head and neck with a pale crown stripe and bold white eye patch, blackish breast band, white underparts with a white strap around the shoulder, bronzy-green back chequered black, long reddish bill with greenish base, greenish legs",
-      "adult male, side view standing: smaller and duller, grey-brown head, neck and upper breast with grey streaks, buff crown stripe and buff eye patch, wing coverts with large golden-buff spots, white underparts and shoulder strap, greenish legs"
+      "adult female, side view at a paddy edge: chestnut head, throat and neck with a narrow pale crown stripe and a bold white spectacle extending behind the eye, blackish breast band, white underparts with a white strap around the shoulder, dark bronzy-green finely barred back, long pale orange-pink bill drooping at the tip, greenish-yellow legs",
+      "adult male, side view standing: smaller and duller, grey-brown head, neck and upper breast with grey streaks, buff crown stripe and buff spectacle extending behind the eye, wing coverts boldly marked with large golden-buff spots and bars, white underparts and shoulder strap, pinkish-brown bill, greenish legs"
     ],
     "build": "Snipe-like but chunkier wader, about 23.5cm long, larger than a starling; female larger and brighter than the male. Rounded head, short neck, plump body. Bill clearly longer than the head, fairly stout, straight and drooping slightly at the tip. Legs medium length, greenish, with long toes. Short rounded tail; broad rounded wings; flight slow and rail-like with legs dangling. Mostly active at dusk, standing still at muddy edges.",
     "avoid": [
-      "Do not paint a long, straight snipe bill with a striped snipe head — that is Common Snipe; this bird has a drooping-tipped reddish bill and a white eye patch.",
-      "Do not make the male brighter than the female; the female has the chestnut neck.",
-      "Do not paint a plain brown back; the back is olive-green with fine black chequering and buff stripes.",
+      "Do not paint a long, straight snipe bill with a striped snipe head — that is Common Snipe; this bird has a drooping-tipped pinkish bill and a white spectacle.",
+      "Do not make the male brighter than the female; the female has the chestnut head and neck.",
+      "Do not paint a white throat on the female; her chin, throat and neck are chestnut down to the dark breast band.",
+      "Do not paint a broad white crown stripe; it is narrow and pale buff to whitish.",
       "Do not omit the white strap curving up around the bend of the wing."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "narrow pale buff to whitish central crown stripe on a dark crown",
+      "bold white ring around the eye extending back in a short stripe",
+      "white belly and underparts below the dark breast band",
+      "dark bronzy olive-green back finely barred dark, with buff mantle stripes",
+      "long pale orange-pink bill drooping slightly at the tip",
+      "dull greenish-yellow legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

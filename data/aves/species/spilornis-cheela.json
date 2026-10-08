@@ -23,19 +23,21 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crested Serpent Eagle (Spilornis cheela), adult: crown and short, bushy nuchal crest black, the crest feathers white at the base so it looks black-and-white when raised; upperparts and wings dark brown; underparts brown, the breast plainer, the belly, flanks and thighs covered with small white spots; tail black with one broad whitish band across the middle and a narrow pale tip. Bill dark grey with a yellow cere; bare lores and skin around the eye bright yellow; iris yellow; legs and feet yellow, the tarsus bare.",
+    "subject": "Crested Serpent Eagle (Spilornis cheela), adult: crown and a full, rounded crest on the nape black, the crest lying as a thick black ruff behind the head with a few white flecks showing at its base; upperparts and wings dark brown, with a few small white spots on the wing coverts; underparts brown, the breast plainer, the belly, flanks and thighs covered with small white spots; tail black with one broad whitish band across the middle and a narrow pale tip. Bill grey with a yellow cere; bare lores and skin around the eye bright yellow; iris yellow; legs and feet yellow, the tarsus bare.",
     "pose": "perched on a branch at the forest edge, watching for snakes",
     "scene": "lowland farmland bordering a forest edge; no people, buildings or text",
     "views": [],
     "build": "Medium-large, broad-winged raptor, about the size of an Eastern Buzzard or a little larger, with a large rounded head made bigger by a full, bushy crest on the nape and a thick neck. Bill short, deep and strongly hooked, shorter than the head. Legs medium length, bare and yellow, with short thick toes. Perches upright, often hunched. In flight very broad, rounded, paddle-shaped wings held forward in a shallow V, with a broad white band across the flight feathers and a black trailing edge; tail rather short, black with a broad white band.",
     "avoid": [
-      "Do not paint a white crown or a large yellow bill; the crown is black and the bill dark grey, only the cere and bare face skin are yellow.",
+      "Do not paint a white crown or a large yellow bill; the crown is black and the bill grey, only the cere and bare face skin are yellow.",
+      "Do not draw a tall, spiky crest standing straight up; at rest the crest lies as a full, rounded black ruff on the back of the head.",
       "Do not paint long, narrow wings; they are broad and rounded.",
       "Do not paint a tail with many narrow bars; the adult tail is black with one broad white band.",
       "Do not paint a pale or white belly; the underparts are brown with small white spots."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

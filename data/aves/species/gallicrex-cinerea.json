@@ -56,11 +56,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage, as seen in Korean rice paddies from June to August: head, neck and underparts sooty slate-black with a bluish tinge; upperparts and wings blackish-brown with paler grey-brown feather edges giving a faintly scaly look; undertail coverts barred buff; a bright red frontal shield extending up the forehead into a raised horn-like knob above the crown; bill red at the base and yellow towards the tip; reddish-brown eye; legs red.",
+    "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage, as seen in Korean rice paddies from June to August: head, neck and underparts sooty slate-grey to blackish; mantle, scapulars and wings blackish-brown with broad buff to grey-brown feather fringes, giving a boldly scaled look; undertail coverts barred buff; a bright red frontal shield running up the forehead and projecting as a pointed horn-like knob above the crown; bill bright yellow right up to the shield; reddish eye; legs dull olive-green.",
     "pose": "walking along a rice-paddy levee in early morning light",
     "scene": "Korean summer rice paddies with growing rice, grassy levees and a bushy hillside nearby; no people, buildings or text",
     "views": [
-      "adult male breeding, side view walking on a paddy levee: sooty bluish-black body, blackish-brown wings with pale edges, red frontal shield rising into a horn above the crown, red-based yellow bill, reddish-brown eye, red legs",
+      "adult male breeding, side view walking on a paddy levee: sooty slate-grey to blackish head, neck and body, blackish-brown back and wings with broad buff fringes, red frontal shield rising into a pointed horn above the crown, bright yellow bill, reddish eye, dull olive-green legs",
       "adult female, side view: buff-brown body, crown and upperparts with dark brown feather centres giving a spotted, scaly pattern, paler buff underparts with fine wavy brown bars, yellowish bill, reddish-brown eye, pale green legs",
       "adult male non-breeding, head detail: female-like buff-brown head with dark-centred crown feathers, no red shield, a thicker, larger yellow bill than the female's"
     ],
@@ -68,11 +68,13 @@
     "avoid": [
       "Do not paint a white flank line or white undertail sides — that is Common Moorhen (Gallinula chloropus).",
       "Do not paint a flat frontal shield on the breeding male; it rises into a horn-like knob above the crown.",
+      "Do not paint red legs or a red bill base; the bill is yellow up to the red shield and the legs are dull olive-green.",
       "Do not show the red shield on the female or the non-breeding male.",
       "Do not paint a slender, long rail bill; the bill is short and stout."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

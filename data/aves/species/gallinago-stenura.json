@@ -45,7 +45,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Pin-tailed Snipe (Gallinago stenura), adult, as seen in Korean rice fields on migration in April–May and August–October: head with a buff central crown stripe between blackish lateral crown stripes, a broad buff supercilium that is wider than the dark eye-stripe at the base of the bill, and a dark cheek bar; upperparts mottled blackish-brown and rufous-buff, with narrow pale buff lines along the mantle and scapulars; wing coverts closely barred buff and dark, looking paler than the back. Neck and breast buff, spotted and streaked dark brown; flanks barred; belly white. Bill straight, greyish-brown with a darker tip; eye dark, set high on the head; legs greenish-yellow.",
+    "subject": "Pin-tailed Snipe (Gallinago stenura), adult, as seen in Korean rice fields on migration in April–May and August–October: head with a buff central crown stripe between blackish lateral crown stripes, a broad buff supercilium that is wider than the dark eye-stripe at the base of the bill, and a dark cheek bar; upperparts mottled blackish-brown and rufous-buff, with narrow pale buff lines along the mantle and scapulars; wing coverts closely barred buff and dark, looking paler than the back. Neck and breast buff, spotted and streaked dark brown; flanks barred; belly white. Bill straight, olive-brown, paler and yellowish towards the base and dark towards the tip; eye dark, set high on the head; legs dull greenish-yellow.",
     "pose": "standing in a wet rice field, side view",
     "scene": "Korean rice paddies during spring or autumn migration; no people, buildings or text",
     "views": [
@@ -61,7 +61,15 @@
       "Do not paint long legs or a plain, unpatterned back."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long straight bill",
+      "cryptic blackish-brown and buff plumage overall",
+      "narrow pale buff lines on the back",
+      "dark secondaries without a white trailing edge in flight",
+      "several pairs of very narrow, stiff, pin-like outer tail feathers"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

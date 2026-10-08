@@ -55,21 +55,22 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Yellow-browed Bunting (Emberiza chrysophrys), adult male in breeding plumage, as seen on spring migration in Korea in May: head black with a narrow white median crown stripe; a broad supercilium, bright yellow in front of and above the eye and fading to white towards the nape; white submoustachial stripe and black malar stripe; white chin and throat; mantle brown streaked blackish-brown; two whitish wing-bars; underparts white with fine dark-brown streaks running from the breast onto the pale brown flanks; tail dark brown with white outer feathers. Conical bill pinkish with a dark culmen; dark eye; pinkish legs.",
+    "subject": "Yellow-browed Bunting (Emberiza chrysophrys), adult male in breeding plumage, as seen on spring migration in Korea in May: head black with a narrow white median crown stripe; a broad supercilium, bright yellow in front of and above the eye and turning white towards the nape; black ear-coverts with a small whitish spot at their rear edge; white submoustachial stripe and black malar stripe; white chin and throat; mantle brown streaked blackish-brown; two thin whitish wing-bars; underparts white, the breast and flanks with neat blackish-brown streaks, the flanks lightly washed pale brown; tail dark brown with white outer feathers. Conical bill pinkish with a darker culmen; dark eye; pink legs.",
     "pose": "perched in a low shrub at the edge of a field",
     "scene": "Korean spring migration in May: low thickets and scrubby woodland edge bordering farmland, fresh green leaves; no people, buildings or text",
     "views": [
       "adult male breeding, side view perched in a low shrub: black head with a thin white median crown stripe, yellow supercilium turning white at the rear, white chin, black malar, streaked brown back, white belly, fine brown streaks from the breast to the pale brown flanks",
       "adult female, side view perched: the same pattern but paler, with brown crown and ear-coverts instead of black, duller yellow supercilium, white chin and finely streaked breast and flanks"
     ],
-    "build": "Small bunting, 14cm, about the size of a sparrow but slimmer; rounded head, the crown feathers sometimes slightly raised. Bill conical and pointed, shorter than the head. Legs pinkish, medium length. Tail medium length and notched, dark with white outer feathers shown in flight. Keeps to low scrub and the ground under bushes, usually in small groups.",
+    "build": "Small bunting, 14cm, about the size of a sparrow but slimmer; rounded head with no crest, the crown feathers lying flat. Bill conical and pointed, shorter than the head. Legs pink, medium length. Tail medium length and notched, dark with white outer feathers shown in flight. Keeps to low scrub and the ground under bushes, usually in small groups.",
     "avoid": [
       "Do not paint a yellow throat, a crest or a black breast patch; those belong to Yellow-throated Bunting (Emberiza elegans).",
       "Do not make the supercilium all white or the throat black; that is Tristram's Bunting (Emberiza tristrami).",
       "Do not paint the supercilium yellow all the way to the nape; the yellow is strongest in front of and above the eye and turns white behind."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

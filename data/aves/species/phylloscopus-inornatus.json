@@ -64,7 +64,16 @@
       "Do not paint a thick bill or dark heavy legs."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "long pale yellowish-white supercilium",
+      "greyish olive-green upperparts",
+      "two whitish wing bars, the lower one long and bold",
+      "rump olive-green like the back, with no yellow patch",
+      "whitish belly",
+      "thin pale pinkish-brown legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

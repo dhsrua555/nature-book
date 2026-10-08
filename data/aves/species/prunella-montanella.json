@@ -44,14 +44,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Siberian Accentor (Prunella montanella), adult in winter, as seen in Korea from November to March: crown blackish-brown; a very broad deep ochre-buff supercilium running from the bill base over the eye to the nape; black ear-coverts forming a dark mask below the supercilium; grey patch on the side of the neck; back and scapulars warm brown boldly streaked blackish-brown; wings brown with rufous fringes and a thin pale wing-bar; throat and breast deep ochre-buff, belly paler buff; flanks streaked chestnut. Thin, sharply pointed dark bill; dark eye; pinkish-brown legs.",
+    "subject": "Siberian Accentor (Prunella montanella), adult in winter, as seen in Korea from November to March: crown blackish-brown; a very broad deep ochre-buff supercilium running from the bill base over the eye to the nape; black ear-coverts forming a dark mask below the supercilium; grey patch on the side of the neck; back and scapulars warm brown boldly streaked blackish-brown; wings brown with rufous fringes and a thin pale wing-bar; throat and breast deep ochre-buff, belly paler buff; flanks streaked chestnut. Thin, sharply pointed dark bill; dark eye; orange-pink legs.",
     "pose": "foraging on the ground for grass seeds, side view",
     "scene": "Korean winter farmland edge beside a mountain woodland; no people, buildings or text",
     "views": [
       "adult in winter, side view on the ground: blackish crown and ear-coverts, broad deep buff supercilium from bill base to nape, grey neck sides, brown back streaked blackish-brown, ochre-buff underparts, chestnut-streaked flanks, thin pointed bill",
       "adult, head detail in side view: broad ochre-buff supercilium running unbroken from the bill base past the crown to the nape, black ear-covert mask, ochre-buff throat, fine pointed dark bill"
     ],
-    "build": "Small, plump, sparrow-sized accentor, 15cm, with a rounded head and short neck; creeps low on the ground and in low bushes with a rather horizontal stance, picking up small seeds. Bill short, thin and finely pointed like a warbler's, clearly shorter than the head, not a seed-cracking cone. Legs medium length, pinkish-brown. Tail medium length, square-ended, plain brown without white.",
+    "build": "Small, plump, sparrow-sized accentor, 15cm, with a rounded head with no crest and a short neck; creeps low on the ground and in low bushes with a rather horizontal stance, picking up small seeds. Bill short, thin and finely pointed like a warbler's, clearly shorter than the head, not a seed-cracking cone. Legs medium length, orange-pink. Tail medium length, square-ended, plain brown without white.",
     "avoid": [
       "Do not paint a thick conical bunting bill; accentors have a thin, pointed bill.",
       "Do not add a crest, a black breast patch or white outer tail feathers; those belong to Yellow-throated Bunting (Emberiza elegans), which has a similar black-and-yellow head.",
@@ -59,7 +59,8 @@
       "Do not streak the throat or breast heavily; the streaks are mainly on the back and flanks."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

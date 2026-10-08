@@ -27,7 +27,7 @@
     "pose": "hovering in light flight above the sea, seen from below and the side with wings spread, head, body and tail in one line",
     "scene": "Sea off a southern Korean island in late summer after a typhoon, bright light and blue water; no people, buildings or text",
     "views": [],
-    "build": "Small, delicate tern with a large rounded head, a big dark eye and a short, shallowly forked tail; body smaller than a Feral Pigeon's. Bill about as long as the head, black, sharply pointed. Legs very short. Wings fairly broad with rounded tips for a tern. Flight light and fluttering, often hovering and peering down; perches on bare branches.",
+    "build": "Small, delicate tern with a large rounded head, a big dark eye and a fairly long, clearly forked tail with pointed outer feathers; body smaller than a Feral Pigeon's. Bill about as long as the head, black, deep at the base and sharply pointed. Legs very short. Wings fairly broad with rounded tips for a tern. Flight light and fluttering, often hovering and peering down; perches on bare branches.",
     "avoid": [
       "Do not add a black cap, a grey back or dark wingtips; the bird is all white.",
       "Do not paint a yellow, orange or red bill or legs.",
@@ -35,7 +35,8 @@
       "Do not paint the eye small or with a white eye-ring; the eye is large and dark within a black ring."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -23,11 +23,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-tailed Robin (Myiomela leucura), adult male, a vagrant in shaded Korean island forest: almost entirely blackish-blue, darkest on the face and underparts; forehead and brow shining cobalt-blue, and a glossy blue patch at the shoulder; a white patch near the base of the outer tail feathers on each side, flashed when the tail is spread; a small white patch on the side of the neck usually hidden. Bill black; eye dark; legs blackish.",
-    "pose": "standing on a mossy rock in the forest understorey with the tail half fanned, side view",
+    "subject": "White-tailed Robin (Myiomela leucura), adult male, a vagrant in shaded Korean island forest: almost entirely blackish-blue, darkest on the face and underparts; forehead and brow shining cobalt-blue, and a glossy blue patch at the shoulder; white bases to the outer tail feathers, showing as a short white streak along each side of the closed tail near its base; a small white patch on the side of the neck usually hidden. Bill black; eye dark; legs blackish.",
+    "pose": "standing on a mossy rock in the forest understorey with the tail closed, side view",
     "scene": "dark evergreen ravine forest with ferns and mossy rocks on a southern Korean island in spring (April), subdued light; no people, buildings or text",
     "views": [],
-    "build": "A medium-sized, long-tailed forest chat, clearly larger than a sparrow, slim and upright on fairly long legs; often fans and flicks its tail and droops its wings. Bill black, slender, shorter than the head. Legs long and blackish. Wings short and rounded; the wingtips reach only a little past the tail base. Tail long and square-ended, blackish-blue, the white patches near the base of the outer feathers mostly visible when the tail fans.",
+    "build": "A medium-sized, long-tailed forest chat, clearly larger than a sparrow, slim and upright on fairly long legs; no crest, the crown feathers lie flat. Bill black, slender, shorter than the head. Legs long and blackish. Wings short and rounded; the wingtips reach only a little past the tail base. Tail long and broad, blackish-blue, with a short white streak on each side near the base where the white bases of the outer feathers show.",
     "avoid": [
       "Do not paint a white tail tip or wholly white outer tail feathers; the white is a patch near the base of the outer feathers.",
       "Do not paint an orange or white belly (niltavas, bluethroats); the male's underparts are blackish-blue.",
@@ -35,7 +35,8 @@
       "Do not make the bird bright sky-blue overall; it looks almost black in shade, with only the forehead and shoulder glossed blue."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

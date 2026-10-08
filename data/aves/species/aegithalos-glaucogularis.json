@@ -23,11 +23,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Silver-throated Bushtit (Aegithalos glaucogularis), adult (sexes alike, plumage similar year-round): a whitish to pale buff stripe along the centre of the crown, bordered on each side by a broad black band running from above the eye to the nape; cheeks and sides of the neck pale greyish-white; a small dusky grey-black patch in the centre of the lower throat; back and rump grey; wings blackish with pale edges to the tertials; breast, belly and flanks washed pinkish-buff; very long black tail with white outer edges; tiny stubby black bill; dark eye; dark legs.",
+    "subject": "Silver-throated Bushtit (Aegithalos glaucogularis), adult (sexes alike, plumage similar year-round): a whitish to pale buff stripe along the centre of the crown, bordered on each side by a broad black band running from above the eye to the nape; a small warm buff patch between the bill and the eye; cheeks and sides of the neck pale greyish-white; a small dusky grey-black patch in the centre of the throat; back and rump grey; wings blackish with pale brownish edges to the tertials; breast and belly creamy white, the flanks and vent washed pinkish-buff; very long blackish tail with white outer edges; tiny stubby black bill; dark eye; pinkish-brown legs.",
     "pose": "clinging to a thin twig, side view, long tail held straight",
     "scene": "bare deciduous shrubs at a woodland edge on a Korean offshore island in late autumn, soft daylight; no people, buildings or text",
     "views": [],
-    "build": "A tiny, round-bodied tit with a very long, narrow, graduated tail that is longer than the body, shaped exactly like the Long-tailed Tit of Korea. Body about the size of a Japanese White-eye's, the tail making the bird look much longer. Round head with no crest and almost no visible neck. Bill very short, stubby and triangular. Short dark legs; clings to and hangs from thin twigs. Wings short and rounded, reaching only the base of the tail. In flight a small ball trailing a long thin tail; moves in small restless flocks.",
+    "build": "A tiny, round-bodied tit with a very long, narrow, graduated tail that is longer than the body, shaped exactly like the Long-tailed Tit of Korea. Body about the size of a Japanese White-eye's, the tail making the bird look much longer. Round head with no crest and almost no visible neck. Bill very short, stubby and triangular. Short pinkish-brown legs; clings to and hangs from thin twigs. Wings short and rounded, reaching only the base of the tail. In flight a small ball trailing a long thin tail; moves in small restless flocks.",
     "avoid": [
       "Do not paint an all-white head; this species has broad black bands along the sides of the crown.",
       "Do not omit the small dark throat patch; the Long-tailed Tit (Aegithalos caudatus) of Korea has a clean white throat.",
@@ -35,7 +35,8 @@
       "Do not give it a long or thin bill; it is tiny and stubby."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

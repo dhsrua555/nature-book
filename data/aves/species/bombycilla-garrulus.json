@@ -65,7 +65,16 @@
       "Do not give it a thin warbler-like bill or a long tail."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "apricot-tinged chestnut forehead and forecrown",
+      "soft, long crest from crown to nape",
+      "black bill, white only near the gape",
+      "pinkish grey-brown crown to lower back",
+      "grey tail darkening to black with a broad yellow tip",
+      "black legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

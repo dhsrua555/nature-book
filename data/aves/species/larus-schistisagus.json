@@ -63,7 +63,14 @@
       "Do not paint a dark eye on the adult; its iris is pale yellow."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "dark slate-grey mantle",
+      "black outer primaries forming the wingtip",
+      "white tips to the outer primaries and a row of white spots across them",
+      "dark grey band along the underside of the flight feathers, contrasting with the white underwing coverts"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

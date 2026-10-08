@@ -23,18 +23,19 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crow-billed Drongo (Dicrurus annectans), adult: plumage entirely black with a blue-green gloss on the upperparts and breast; tail black, moderately forked, the outer feathers flaring outward at the tips. Bill black, very heavy, broad and deep at the base, with long rictal bristles; legs black.",
+    "subject": "Crow-billed Drongo (Dicrurus annectans), adult: plumage entirely black with a blue-green gloss on the upperparts and breast; tail black, fairly long and deeply forked, the outer feathers flaring outward towards the tips. Bill black, very heavy, broad and deep at the base, with long rictal bristles; iris dark reddish-brown; legs black.",
     "pose": "perched upright on an exposed branch in the forest mid-storey, side view",
     "scene": "Broadleaf woodland edge on a Korean offshore island in May, during spring migration, dappled light; no people, buildings or text",
     "views": [],
-    "build": "Medium-sized drongo, about the size of Black Drongo but with a much heavier, crow-like bill and a proportionally shorter tail with a shallower fork, whose outer feathers curl slightly outward. Bill about as long as the head, deep and broad-based, slightly hooked. Legs short, black. Perches upright on exposed branches in the forest mid-storey and sallies out after insects.",
+    "build": "Medium-sized drongo, about the size of Black Drongo but stockier, with a much heavier, crow-like bill and a proportionally shorter tail. Bill about as long as the head, deep and broad-based, slightly hooked. Tail deeply forked, the outer feathers flaring outward near the tips. Legs short, black. Perches upright on exposed branches in the forest mid-storey and sallies out after insects. Immature birds have small white spots on the breast and belly.",
     "avoid": [
-      "Do not paint a long, deeply forked tail or a slim bill (Black Drongo, Dicrurus macrocercus).",
+      "Do not paint a slim bill, a small white spot at the gape or a very long tail; those mark Black Drongo (Dicrurus macrocercus).",
       "Do not paint a hair crest or strongly upcurled tail tips (Hair-crested Drongo, Dicrurus hottentottus).",
       "Do not paint grey plumage (Ashy Drongo, Dicrurus leucophaeus)."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

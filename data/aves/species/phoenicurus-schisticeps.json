@@ -23,7 +23,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-throated Redstart (Phoenicurus schisticeps), adult male in spring: crown and nape blue-grey; sides of the head and throat black, with a sharply defined white patch in the centre of the lower throat; mantle and back black; wings black with a long white panel on the inner wing coverts of the folded wing; rump and uppertail coverts deep chestnut; tail mostly blackish; breast and belly chestnut-rufous, becoming paler towards the vent; bill black, thin; eye dark; legs black.",
+    "subject": "White-throated Redstart (Phoenicurus schisticeps), adult male in spring: crown and nape blue-grey; sides of the head and throat black, with a sharply defined white patch in the centre of the lower throat; mantle and back black; wings black with a long white panel on the inner wing coverts of the folded wing; rump and uppertail coverts deep chestnut; tail mostly blackish; breast and flanks chestnut-rufous; centre of the belly whitish; vent and undertail coverts rufous; bill black, thin; eye dark; legs black.",
     "pose": "perched upright on a low shrub branch, side view, tail slightly lowered and quivering",
     "scene": "shrubby hillside edge near the coast of a Korean offshore island in early spring, bare twigs and dry grass in clear daylight; no people, buildings or text",
     "views": [],
@@ -31,11 +31,12 @@
     "avoid": [
       "Do not omit the white throat patch or make the whole throat white; the white is a small, sharply defined patch in the centre of a black throat.",
       "Do not paint a silvery-white crown and only a small square white wing patch; that is Daurian Redstart (Phoenicurus auroreus), the common redstart in Korea.",
-      "Do not paint a grey or white belly; the breast and belly are chestnut-rufous.",
+      "Do not paint the whole underparts grey or white; the breast and flanks are chestnut-rufous, with only the centre of the belly whitish.",
       "Do not add a white supercilium or white forehead."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -49,11 +49,11 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Blyth's Pipit (Anthus godlewskii), adult in spring, sexes alike, as seen on migration in Korea in May: crown and back buff-brown, every feather with a bold blackish centre, giving a boldly streaked lark-like look; median coverts with square-ended black centres and broad pale buff tips; white lores and a buff supercilium; buff-brown cheeks and ear coverts outlined by a thin dark line; whitish throat; broken blackish malar stripe; breast buff with short triangular dark brown spots across the lower throat and upper breast; flanks warm buff, belly and undertail coverts whitish; brown upper mandible, yellowish lower mandible with a dark tip; brown iris; pale pinkish legs.",
+    "subject": "Blyth's Pipit (Anthus godlewskii), adult in spring, sexes alike, as seen on migration in Korea in May: crown and back buff-brown, every feather with a bold blackish centre, giving a boldly streaked lark-like look; median coverts with square-ended black centres and broad pale buff tips; white lores and a buff supercilium; buff-brown cheeks and ear coverts outlined by a thin dark line; whitish throat; broken blackish malar stripe; breast buff with a narrow band of fine, short dark brown streaks across the lower throat and upper breast; flanks warm buff and almost unstreaked, belly and undertail coverts whitish; brown upper mandible, yellowish lower mandible with a dark tip; brown iris; pale pinkish legs.",
     "pose": "walking alone on open ground, side view",
     "scene": "Korean spring migration: open grassland with short turf and scattered stones; no people, buildings or text",
     "views": [
-      "adult, side view walking on the ground: buff-brown upperparts boldly streaked black, square-centred black median coverts with buff tips, whitish throat and belly, buff breast with triangular brown spots, pale pinkish legs",
+      "adult, side view walking on the ground: buff-brown upperparts boldly streaked black, square-centred black median coverts with buff tips, whitish throat and belly, buff breast with a narrow band of fine brown streaks, plain buff flanks, pale pinkish legs",
       "adult, head detail in profile: white lores, buff supercilium, buff ear coverts outlined by a thin dark line, broken blackish malar stripe, pointed bill with brown upper and yellowish lower mandible tipped dark"
     ],
     "build": "Medium-large pipit, clearly longer than a sparrow and slimmer; smaller and more compact than Richard's Pipit, with a shorter tail, shorter legs and a less upright stance. Bill straight, pointed, fairly slender, shorter than the head. Legs medium length, pale pinkish; hind claw short and arched, about as long as the hind toe. At rest the long tertials almost cover the primaries. Tail medium length, dark brown with white outer feathers. Walks on the ground and flies off with a bounding flight.",
@@ -64,7 +64,16 @@
       "Do not paint plain, unstreaked upperparts; the back is boldly streaked."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "white lores and buff supercilium",
+      "dark line between cheek and ear coverts",
+      "yellow lower mandible with a dark tip",
+      "broken blackish malar stripe",
+      "fine short brown streaks across the lower throat and upper breast",
+      "buff-brown upperparts streaked black"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -41,13 +41,13 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Mugimaki Flycatcher (Ficedula mugimaki), adult male on spring passage (May): forehead, crown, face, nape, back, rump and uppertail coverts black (in fresh autumn plumage the black is veiled by grey fringes); a short white stripe behind the eye only; a white patch on the wing coverts; flight feathers black; tail black with white bases to the outer feathers; chin, throat and breast rich orange-brown; belly and undertail coverts white; small black bill; dark eye; dark legs.",
+    "subject": "Mugimaki Flycatcher (Ficedula mugimaki), adult male on spring passage (May): forehead, crown, face, nape, back, rump and uppertail coverts black to blackish-grey (in fresh autumn plumage the black is veiled by grey fringes); a short white stripe behind the eye only; a white patch on the wing coverts; flight feathers black; tail black with white bases to the outer feathers; chin, throat and breast rich orange, merging on the lower breast into the white belly and undertail coverts; small black bill; dark eye; dark legs.",
     "pose": "perched on a conifer branch, side view",
     "scene": "Korean mixed woodland with conifers and fresh spring leaves during May migration, soft morning light; no people, buildings or text",
     "views": [
-      "adult male, side view perched: black upperparts, short white stripe behind the eye, white wing patch, orange-brown throat and breast, white belly and undertail coverts, black tail with white bases to the outer feathers",
-      "adult male, front view: orange-brown chin, throat and breast sharply divided from the white belly and undertail coverts",
-      "adult female, side view perched: grey-brown upperparts, narrow pale wing-bar, pale buffy-orange throat and breast, whitish belly, no black in the plumage"
+      "adult male, side view perched: black upperparts, short white stripe behind the eye, white wing patch, rich orange throat and breast, white belly and undertail coverts, black tail with white bases to the outer feathers",
+      "adult male, front view: rich orange chin, throat and breast, merging on the lower breast into the white belly and undertail coverts",
+      "adult female, side view perched: grey-brown upperparts, narrow pale wing-bar, orange-buff throat and breast a little paler than the male's, whitish belly, no black in the plumage"
     ],
     "build": "Small, compact Ficedula flycatcher, 13cm — a little smaller and slimmer than a sparrow, with a rounded head. Bill short, black, flat and fairly broad at the base. Legs short and dark. Wings fairly long and pointed. Tail medium-length and square, often flicked open to flash the white bases. Perches upright in the canopy and sallies for insects; on passage often in conifers and mixed woodland.",
     "avoid": [
@@ -57,7 +57,14 @@
       "Do not omit the white wing patch or the white tail bases."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "short white supercilium behind the eye only",
+      "blackish head and back (grey-fringed only in fresh autumn plumage)",
+      "rich orange chin, throat and breast",
+      "white belly and undertail coverts"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

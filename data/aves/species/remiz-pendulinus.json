@@ -64,11 +64,13 @@
     "avoid": [
       "Do not paint a stubby finch-like or tit-like bill; the bill is fine and needle-pointed.",
       "Do not give it a black cap or black bib like a tit (Parus); the crown is grey and the throat white to buff.",
+      "Do not copy the European form (whitish-grey head, all-chestnut back); Korean birds have a grey crown, a white supercilium over the mask and chestnut only as an upper-mantle band.",
       "Do not give it a long tail like Long-tailed Tit or Vinous-throated Parrotbill.",
       "Do not reduce the mask to a thin eye-line; it is a broad mask covering lores, cheeks and ear-coverts."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -67,15 +67,15 @@
     }
   ],
   "art": {
-    "subject": "Oriental Turtle Dove (Streptopelia orientalis), adult (sexes alike, plumage the same all year): forehead and crown bluish-grey; rest of the head, neck and breast pinkish grey-brown; on each side of the neck a patch of four or five black bars edged blue-grey; mantle brownish grey; scapulars, tertials and wing coverts with large blackish centres and broad rufous fringes, forming a bold scaly pattern; rump bluish-grey; primaries blackish; belly paler buffy grey, vent and undertail coverts grey; tail blackish with a pale grey band across the tip; small dark grey bill; orange-red eye; reddish-pink legs and feet.",
+    "subject": "Oriental Turtle Dove (Streptopelia orientalis), adult (sexes alike, plumage the same all year): forehead and crown bluish-grey; rest of the head, neck and breast pinkish grey-brown; on each side of the neck a patch of four or five black bars edged blue-grey; mantle brownish grey; scapulars, tertials and wing coverts with large blackish centres and broad rufous fringes, forming a bold scaly pattern; lower back and rump bluish-grey; primaries blackish; belly paler buffy grey, vent and undertail coverts grey; tail blackish with a blue-grey band across the tip, grey rather than white; small dark grey bill; orange-red eye; reddish-pink legs and feet.",
     "pose": "Perched on a bare branch in three-quarter side view, wings folded so the scaly pattern and neck patch are clear.",
     "scene": "The edge of a Korean mixed pine and oak woodland bordering dry crop fields in early spring (March): leafless oak branches, green pine needles, pale brown fields and a grassy bank below, soft morning light. No people, buildings or text.",
     "views": [
-      "adult, perched on a branch, side view: bluish-grey crown, pinkish grey-brown head and breast, black-and-blue-grey barred patch on the neck side, black-centred rufous-fringed scaly wing coverts, red eye, reddish legs",
-      "adult in flight seen from above, head, body and tail in line, tail fanned: scaly brown back and coverts, bluish-grey rump, blackish primaries, dark tail with a pale grey terminal band",
+      "adult, perched on a branch, side view: bluish-grey crown, pinkish grey-brown head and breast, black-and-blue-grey barred patch on the neck side, black-centred rufous-fringed scaly wing coverts, dark tail with a grey tip, orange-red eye, reddish legs",
+      "adult in flight seen from directly above, head pointing straight forward in line with the body, tail fanned: scaly rufous-fringed wing coverts, bluish-grey lower back and rump, blackish primaries, dark tail with a blue-grey (not white) band at the tip",
       "juvenile, perched on a branch, side view: duller and browner overall, plainer greyish-brown head, no barred neck patch, paler and narrower fringes on the wing coverts"
     ],
-    "build": "Bulky, deep-chested dove, about 33cm: about the size of a feral pigeon but with a smaller head and a longer tail. Rounded head, short neck. Bill short and slender, much shorter than the head. Legs short, reddish-pink. Wings fairly long and pointed. Tail fairly long and rounded at the tip, dark with a pale grey terminal band that shows best when fanned. Flight fast and direct; in display it glides with the wings held flat and the tail spread.",
+    "build": "Bulky, deep-chested dove, about 33cm: about the size of a feral pigeon but with a smaller head and a longer tail. Rounded head, short neck. Bill short and slender, much shorter than the head. Legs short, reddish-pink. Wings fairly long and pointed. Tail fairly long and rounded at the tip, blackish with a blue-grey terminal band (not white) that shows best when fanned. Flight fast and direct; in display it glides with the wings held flat and the tail spread.",
     "avoid": [
       "Do not paint a black half-collar on the hindneck; that is Eurasian Collared Dove.",
       "Do not paint a white rump or two black wing bars on pale grey wings; that is the feral pigeon.",
@@ -83,7 +83,15 @@
       "Do not paint a white tail tip or a white vent; in the Korean birds both are grey."
     ],
     "confidence": "high",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "black-and-blue-grey striped neck patch",
+      "scaly wing coverts with rufous fringes",
+      "bluish-grey crown, pinkish grey-brown head and breast",
+      "blue-grey band at the tip of the dark tail",
+      "orange-red eye and reddish-pink legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

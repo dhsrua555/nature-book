@@ -81,7 +81,16 @@
       "Do not paint a black crown or a black back; the crown is grey-brown and the back dark brown barred white."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "marks": [
+      "grey-brown crown and hindneck",
+      "a tiny red streak at the side of the rear crown (male)",
+      "smoky-brown ear-coverts",
+      "white stripe behind the eye above the brown ear patch",
+      "outer tail feathers barred black and white",
+      "dark reddish-brown iris and grey legs"
+    ],
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {

@@ -48,14 +48,15 @@
       "adult, side view perched low in undergrowth: plain dark olive-brown upperparts, greyish-white supercilium, grey breast, white belly, greyish-buff flanks and undertail, long broad rounded tail, pinkish legs",
       "adult, front view: whitish chin, grey lower throat and breast contrasting with the white belly, greyish-buff flanks"
     ],
-    "build": "Large, bulky Locustella warbler, about 17cm, larger and heavier than a sparrow, about the size of an Oriental Reed Warbler but rounder, with a heavy chest and flattish head. Bill stout, shorter than the head. Legs long and strong, pinkish-brown. Wings short and rounded; the long, broad, graduated tail extends well beyond the wingtips. Skulks on or near the ground in dense undergrowth, walking or hopping with the tail slightly cocked.",
+    "build": "Large, bulky Locustella warbler, about 17cm, larger and heavier than a sparrow, about the size of an Oriental Reed Warbler but rounder, with a heavy chest and a flattish head without a crest. Bill stout, shorter than the head. Legs long and strong, pinkish-brown. Wings short and rounded; the long, broad, graduated tail extends well beyond the wingtips and is held roughly in line with the body. Skulks on or near the ground in dense undergrowth, walking or hopping.",
     "avoid": [
       "Do not paint streaks on the back or spots on the breast.",
       "Do not paint a short or square tail; it is long, broad and rounded.",
       "Do not paint a crisp white supercilium with a dark border or a pale buff body like an Acrocephalus reed warbler."
     ],
     "confidence": "medium",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
+    "checked": "실제 사진(iNaturalist, 대부분 한국 관찰)과 견줌"
   },
   "sources": [
     {
