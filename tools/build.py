@@ -123,6 +123,18 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
     vdir = ROOT / "data" / vid
     meta = json.loads((vdir / "volume.json").read_text(encoding="utf-8"))
     ref_rows = load_ref(ROOT / meta["basis"]["ref"])
+    # 목록 안에서 엇갈린 과 배정을 속 단위로 바로잡는다(volume.json genus_family).
+    # 예: 목록에 개개비과(Acrocephalidae)가 있는데 개개비속은 휘파람새과(Sylviidae)에 들어 있다.
+    fam_ko = {r["family"]: r["family_ko"] for r in ref_rows}
+    moved_from: dict[str, str] = {}
+    for r in ref_rows:
+        to = meta.get("genus_family", {}).get(r["genus"])
+        if to:
+            if to not in fam_ko:
+                rep.err(f"volume.json genus_family.{r['genus']}: 목록에 없는 과 {to}")
+                continue
+            moved_from.setdefault(to, r["family"])
+            r["family"], r["family_ko"] = to, fam_ko[to]
     by_sci = {}
     for r in ref_rows:
         by_sci.setdefault(r["sci"], r)
@@ -133,6 +145,8 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
     for r in ref_rows:
         for key in ("order", "family", "genus"):
             first.setdefault(f"{key}:{r[key]}", int(r["no"]))
+    for to, frm in moved_from.items():  # 속을 받아 온 과는 그 속이 있던 과 바로 뒤에
+        first[f"family:{to}"] = min(first[f"family:{to}"], first[f"family:{frm}"] + 0.5)
     seq_override = meta.get("seq", {})
 
     def sort_key(row: dict) -> tuple:
