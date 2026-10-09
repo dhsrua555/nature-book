@@ -10,3 +10,4 @@ Thumbs.db
 # API 키
 .env
 cache/
+.codex-remote-attachments/
