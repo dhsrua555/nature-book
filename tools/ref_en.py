@@ -2,7 +2,8 @@
 # requires-python = ">=3.11"
 # dependencies = ["openpyxl"]
 # ///
-"""국가생물종목록 학명에 IOC World Bird List 영문명을 짝지어 tools/ref/ioc-en.tsv 로 쓴다.
+"""국가생물종목록 학명에 IOC World Bird List 영문명과 분류(목·과·차례)를 짝지어 tools/ref/ioc-en.tsv 로 쓴다.
+책의 목·과와 차례는 이 표의 ioc_order·ioc_family·ioc_seq 를 따른다(tools/build.py, 목·과 국명은 tools/ref/taxa-ko.tsv).
 
     curl -L -o cache/ioc-15.2.xlsx https://worldbirdnames.org/master_ioc_list_v15.2.xlsx
     uv run tools/ref_en.py
@@ -33,6 +34,7 @@ MANUAL = {
     "Sylvia nisoria": "Curruca nisoria",
     "Larus heuglini": "Larus fuscus heuglini",
     "Acanthis hornemanni": "Acanthis flammea hornemanni",
+    "Phylloscopus amandii": "Phylloscopus armandii",  # 목록의 철자 오류
 }
 
 
@@ -47,9 +49,14 @@ def main() -> int:
     ws = wb.worksheets[0]
     genus = None
     family = None
+    order = None
+    seq = 0
     by_bi: dict[str, tuple[str, str]] = {}
+    taxa: dict[str, tuple[str, str, int]] = {}  # 종(속명+종소명) → (목, 과, IOC 목록 안의 차례)
     by_ep: dict[str, list[tuple[str, str, str]]] = {}
     for row in ws.iter_rows(min_row=5, values_only=True):
+        if row[2]:
+            order = row[2].strip().capitalize()
         if row[3]:
             family = row[3].strip()
         if row[5]:
@@ -57,7 +64,9 @@ def main() -> int:
         if row[6] and row[10]:
             ep = row[6].strip()
             bi = f"{genus} {ep}"
+            seq += 1
             by_bi[bi] = (row[10].strip(), row[9] or "")
+            taxa[bi] = (order, family, seq)
             by_ep.setdefault(ep, []).append((bi, row[10].strip(), norm_auth(row[9]), family))
 
     lines = [l for l in REF.read_text(encoding="utf-8").splitlines() if not l.startswith("#")]
@@ -91,10 +100,13 @@ def main() -> int:
             en = f"{en} ({parts[2]})"
         if not en:
             miss.append(f"{r['ko']} {r['sci']}")
-        out.append({"sci": r["sci"], "ko": r["ko"], "en": en, "ioc_sci": ioc, "match": how})
+        o, f, q = taxa.get(" ".join(ioc.split()[:2]), ("", "", ""))
+        out.append({"sci": r["sci"], "ko": r["ko"], "en": en, "ioc_sci": ioc, "match": how,
+                    "ioc_order": o, "ioc_family": f, "ioc_seq": q})
     with OUT.open("w", encoding="utf-8", newline="") as f:
-        f.write("# IOC World Bird List v15.2 (doi 10.14344/IOC.ML.15.2) 영문명. tools/ref_en.py 가 만듦\n")
-        w = csv.DictWriter(f, fieldnames=["sci", "ko", "en", "ioc_sci", "match"], delimiter="\t", lineterminator="\n")
+        f.write("# IOC World Bird List v15.2 (doi 10.14344/IOC.ML.15.2) 영문명과 목·과·차례. tools/ref_en.py 가 만듦\n")
+        w = csv.DictWriter(f, fieldnames=["sci", "ko", "en", "ioc_sci", "match", "ioc_order", "ioc_family", "ioc_seq"],
+                           delimiter="\t", lineterminator="\n")
         w.writeheader()
         w.writerows(out)
     print(f"{len(rows)}행: 같은 학명 {sum(o['match']=='same' for o in out)}, 속 바뀜 {sum(o['match']=='epithet+author' for o in out)}, 어미·연도 {sum(o["match"]=="stem+year" for o in out)}, 못 찾음 {len(miss)}")

@@ -400,7 +400,7 @@ const BLOCK = {
   },
   season: d => `<section class="season"><h3>${L("season")}</h3>${calendar(d.months)}${d.months?.note && !isTodo(d.months.note) ? `<p class="note">${esc(d.months.note)}</p>` : ""}</section>`,
   summary: d => `<p class="summary">${val(d.summary)}</p>`,
-  brief: () => `<p class="brief">이 종은 아직 해설을 싣지 못했다. 국가생물종목록의 이름과 분류, 보호 표시만 먼저 싣는다.</p>`,
+  brief: () => `<p class="brief">이 종은 아직 해설을 싣지 못했다. 이름과 분류, 보호 표시만 먼저 싣는다.</p>`,
   sexes: d => {
     const sx = d.sexes || {};
     if (sx.alike == null && isTodo(sx.text)) return `<section><h3>${L("sexes")}</h3><p>${todo}</p></section>`;
@@ -551,8 +551,9 @@ const R = {
     const b = S.book;
     return `<div class="pg-in colophon">
       <h2 class="pg-title">출처와 판권</h2>
-      <p>분류와 국명, 학명, 보호 표시는 <a href="${esc(b.basis.url)}" target="_blank" rel="noopener">${esc(b.basis.name)}</a>(${esc(b.basis.edition)})을 따랐다.
-        영문명은 IOC World Bird List(v15.2)에서 학명으로 찾아 붙였다.</p>
+      <p>국명과 학명, 보호 표시는 <a href="${esc(b.basis.url)}" target="_blank" rel="noopener">${esc(b.basis.name)}</a>(${esc(b.basis.edition)})을 따랐다.
+        목과 과의 분류와 차례, 영문명은 <a href="${esc(b.taxonomy.url)}" target="_blank" rel="noopener">IOC World Bird List</a>(${esc(b.taxonomy.edition)})를 따랐다.
+        국가생물종목록에 없는 목·과 국명(솔새과, 섬개개비과, 수리목 등)은 널리 쓰이는 이름을 붙였다.</p>
       <p>국내 상태(텃새·철새 구분, 해마다 찾아오는 개체 수 범위, 국내 번식 여부)는 남한에서 사진·녹음·표본으로 확인된 기록을 바탕으로 한
         <a href="https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf" target="_blank" rel="noopener">새와 생명의 터(Birds Korea) 조류목록 2022</a>를 따랐다.
         이 목록에 없는 종은 그렇다고 밝혀 두었다.</p>

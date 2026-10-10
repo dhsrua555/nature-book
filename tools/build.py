@@ -4,14 +4,15 @@
 """도감 데이터 빌드·검증.
 
 data/<권>/volume.json 과 data/<권>/species/*.json 을 읽어
-  1) 국가생물종목록(tools/ref/*.tsv)과 국명·학명·목·과를 대조하고
+  1) 국가생물종목록(tools/ref/nibr-aves-2025.tsv)과 국명·학명을 대조하고
   2) 빠진 항목·TODO·삽화 유무를 점검한 뒤
   3) 화면이 읽는 data/<권>/book.json 을 만든다.
 
     uv run tools/build.py            # 검사 + book.json 생성
     uv run tools/build.py --todo     # TODO 목록까지 자세히
 
-종의 목·과는 종 파일에 적지 않는다. 학명으로 국가생물종목록에서 찾아 자동으로 묶는다.
+종의 목·과는 종 파일에 적지 않는다. 목·과와 차례는 IOC World Bird List(tools/ref/ioc-en.tsv, tools/ref_en.py)를,
+목·과 국명은 tools/ref/taxa-ko.tsv 를 따라 자동으로 묶는다(국가생물종목록은 옛 분류를 쓰는 곳이 있다. 예: 솔새·개개비·휘파람새를 한 과로).
 """
 
 from __future__ import annotations
@@ -123,37 +124,29 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
     vdir = ROOT / "data" / vid
     meta = json.loads((vdir / "volume.json").read_text(encoding="utf-8"))
     ref_rows = load_ref(ROOT / meta["basis"]["ref"])
-    # 목록 안에서 엇갈린 과 배정을 속 단위로 바로잡는다(volume.json genus_family).
-    # 예: 목록에 개개비과(Acrocephalidae)가 있는데 개개비속은 휘파람새과(Sylviidae)에 들어 있다.
-    fam_ko = {r["family"]: r["family_ko"] for r in ref_rows}
-    moved_from: dict[str, str] = {}
+    # 목·과와 차례는 IOC World Bird List 를 따른다. 국가생물종목록의 각 행에 IOC 의 목·과·차례를 붙이고,
+    # 목·과 국명은 taxa-ko.tsv 에서 가져온다(이름·학명·보호 표시는 그대로 국가생물종목록).
+    ioc = {r["sci"]: r for r in load_ref(ROOT / meta["taxonomy"]["ref"])}
+    taxa_ko = {(r["rank"], r["sci"]): r["ko"] for r in load_ref(ROOT / meta["taxonomy"]["ko"])}
     for r in ref_rows:
-        to = meta.get("genus_family", {}).get(r["genus"])
-        if to:
-            if to not in fam_ko:
-                rep.err(f"volume.json genus_family.{r['genus']}: 목록에 없는 과 {to}")
-                continue
-            moved_from.setdefault(to, r["family"])
-            r["family"], r["family_ko"] = to, fam_ko[to]
+        m = ioc.get(r["sci"]) or {}
+        if not m.get("ioc_family"):
+            rep.err(f"{r['ko']} {r['sci']}: IOC 목·과를 찾지 못했다(tools/ref_en.py 의 MANUAL)")
+            r["seq"] = 10**6 + int(r["no"])
+            continue
+        r["order"], r["family"], r["seq"] = m["ioc_order"], m["ioc_family"], int(m["ioc_seq"])
+        for rank in ("order", "family"):
+            ko = taxa_ko.get((rank, r[rank]))
+            if not ko:
+                rep.err(f"tools/ref/taxa-ko.tsv: {rank} {r[rank]} 의 국명이 없다")
+            r[f"{rank}_ko"] = ko or r[rank]
     by_sci = {}
     for r in ref_rows:
         by_sci.setdefault(r["sci"], r)
 
-    # 차례: 목·과·속은 목록에 처음 나오는 자리를 따른다. 목록 끝에 덧붙은 종(이름이 바뀐 종 등)은
-    # 속이 처음 나오는 자리로 당겨 오고, 그래도 어긋나는 종은 volume.json 의 seq 로 자리를 정한다.
-    first: dict[str, int] = {}
-    for r in ref_rows:
-        for key in ("order", "family", "genus"):
-            first.setdefault(f"{key}:{r[key]}", int(r["no"]))
-    for to, frm in moved_from.items():  # 속을 받아 온 과는 그 속이 있던 과 바로 뒤에
-        first[f"family:{to}"] = min(first[f"family:{to}"], first[f"family:{frm}"] + 0.5)
-    seq_override = meta.get("seq", {})
-
     def sort_key(row: dict) -> tuple:
-        pos = seq_override.get(binomial(row["sci"]))
-        g = pos if pos is not None else first[f"genus:{row['genus']}"]
-        return (first[f"order:{row['order']}"], first[f"family:{row['family']}"], g,
-                pos if pos is not None else int(row["no"]))
+        # IOC 목록 안의 차례(목·과·속이 이 차례로 이어진다). 같은 종의 아종 행은 국가생물종목록 번호 순
+        return (row["seq"], int(row["no"]))
 
     # 국가생물종목록의 목·과별 종 수(아종 행은 속명+종소명으로 묶어 한 번만 센다)
     seen_bi: dict[str, tuple[str, str]] = {}
@@ -289,7 +282,7 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
     if vol_rep and vol_rep not in ids:
         rep.err(f"volume.json rep {vol_rep} 가 책에 없다")
 
-    book = {k: meta[k] for k in ("id", "title", "kicker", "en", "sci", "edition", "basis", "intro", "fields", "labels") if k in meta}
+    book = {k: meta[k] for k in ("id", "title", "kicker", "en", "sci", "edition", "basis", "taxonomy", "intro", "fields", "labels") if k in meta}
     book.update({
         "rep": vol_rep,
         "built": date.today().isoformat(),
