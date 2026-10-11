@@ -67,15 +67,16 @@
     "pose": "clinging sideways to a dry reed stem with the tail cocked, one of a busy flock moving through the reeds",
     "scene": "Korean field edge in winter: dry common reeds and low shrubs beside a stream, pale low sunlight; no people, buildings or text",
     "views": [
-      "adult, side view clinging to a reed stem: tiny deep bill, grey with a paler tip; rufous-chestnut crown and nape; pinkish-buff throat and breast; warm brown back; rufous panel on the folded wing; paler buff belly; long graduated tail",
-      "adult, side view perched on a twig with the tail held straight: the same plumage, showing the long wedge-shaped tail and the rufous wing panel clearly"
+      "adult, side view clinging to a reed stem: tiny deep bill, grey with a paler tip; rufous-chestnut crown, nape and whole face including the cheeks and ear-coverts (no pale face patch); pinkish-buff throat and breast; warm brown back; rufous panel on the folded wing; paler buff belly; long graduated tail",
+      "adult, side view perched on a twig with the tail held straight: the same plumage with the whole head rufous-chestnut, showing the long wedge-shaped tail and the rufous wing panel clearly"
     ],
     "build": "Tiny, long-tailed songbird, about the size of a Long-tailed Tit, with a round, plump body. Large round head with no crest; the crown feathers lie flat. No visible neck. Bill tiny, very short and deep with a curved culmen, like a miniature parrot's, much shorter than the head. Legs short and strong for clinging to stems. Wings short and rounded; at rest they reach only the base of the tail. Tail long, about as long as the body, graduated. Moves in noisy, restless flocks through reeds, grass and shrubs, flying weakly from bush to bush.",
     "avoid": [
       "Do not paint a slender pointed bill; the bill is tiny, deep and parrot-like.",
       "Do not paint a black eye-stripe or a white head; that is Long-tailed Tit.",
       "Do not paint grey or olive tones; the bird is warm brown, rufous and pinkish-buff.",
-      "Do not paint a short tail."
+      "Do not paint a short tail.",
+      "Do not paint the rufous only on the crown with a pale buff face; the cheeks and ear-coverts are rufous-chestnut like the crown."
     ],
     "confidence": "medium",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
