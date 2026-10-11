@@ -59,3 +59,15 @@ API 키 없이 앱에 들어 있는 이미지 생성(`$imagegen`, gpt-image-2)�
 Work 대화에서 이렇게 부탁하면 된다.
 
 > 매일 오전 9시에 이 프로젝트에서 tools/WORK.md 대로 삽화를 4장씩 그려 줘. 남은 작업이 없으면 아무것도 하지 말고 끝내.
+
+## Orca 자동화로 돌 때
+
+Orca가 매시간 `uv run tools/auto.py can-draw` 로 확인하고(5시간 잔여 30% 이상 · 주간 잔여 20% 이상 · 그리는 중 아님) 이 지침대로 맡긴다.
+그릴 때는 위 절차에 더해:
+
+1. 시작하자마자 `uv run tools/auto.py lock`, 끝나면(실패해도) `uv run tools/auto.py unlock`.
+2. `queue --limit 8` 로 받고, **한 장 그릴 때마다** `uv run tools/auto.py can-draw` 를 다시 실행한다.
+   종료 코드가 0이 아니면(잔여량 하한) 더 그리지 말고 그때까지 그린 것만 `import` 한다.
+   (lock 중에는 can-draw 가 '이미 그리는 중'으로 1을 낸다. 이때는 `uv run tools/auto.py quota` 의 숫자로 직접 판단한다: 5h ≥ 30, week ≥ 20.)
+3. `art/review/<id>.txt` 가 있으면 검수에서 지적된 잘못이다. 그 문장을 `prompt` 끝에 덧붙여 그리고, 그린 뒤 그 파일을 지운다.
+4. 커밋·푸시는 하지 않는다. Claude 검수 자동화(`tools/REVIEW.md`)가 한다.

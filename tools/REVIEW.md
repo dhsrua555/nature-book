@@ -1,0 +1,30 @@
+# 삽화 검수·커밋 지침 (Claude Code)
+
+Codex가 `tools/WORK.md` 대로 그려 `img/` 에 넣은 그림을 Claude Code가 살펴보고, 맞는 것만 커밋해 `main` 에 올린다.
+Orca 자동화가 `uv run tools/auto.py can-review` 가 0일 때(검수할 그림이 있고 그리는 중이 아님) 맡긴다.
+
+## 할 일
+
+1. `git status --porcelain -- img` 로 새로 생기거나 바뀐 `img/**/*.webp` 를 모은다.
+2. 그림마다 (`<id>.webp` = 도판, `<id>.id.webp` = 동정 도해):
+   - 그림을 열어 본다.
+   - 정답과 대조한다: `uv run tools/illustrate.py prompt <id>` 의 프롬프트(art.* 묘사, `Mistakes to avoid`),
+     `art/ref/photos/<id>/` 의 실제 사진 가운데 새가 또렷한 것 1–2장.
+   - **떨어뜨리는 기준**은 `tools/WORK.md` 3단계의 '한눈에 보이는 큰 잘못'과 같다
+     (다른 종·다른 철처럼 보이는 색과 무늬, 없는 댕기, 부리·몸 비율, `Mistakes to avoid`, 글자·서명·테두리, 부자연스러운 자세, plate인데 배경 풍경·모습 수 틀림).
+     작은 차이로는 떨어뜨리지 않는다.
+3. 떨어진 그림:
+   - 그 webp 를 지운다(새로 추가된 것이면 삭제, 이미 커밋돼 있던 것을 덮어쓴 것이면 `git restore` 로 되돌림).
+   - `art/review/<id>.txt` (동정 도해는 `<id>.id.txt`)에 무엇이 틀렸는지 영어 한 문장을 쓴다. Codex가 다시 그릴 때 프롬프트 끝에 붙인다.
+4. `uv run tools/build.py` 로 `data/*/book.json` 을 다시 만든다.
+5. 통과한 webp 와 `data/*/book.json` 만 스테이징해 커밋하고 `git push origin main`.
+   - 메시지는 이전 커밋 말투를 따른다: `삽화 추가: 동고비, 되지빠귀 · 붉은머리오목눈이 도판`.
+   - 다른 파일(코드·종 자료·README)은 스테이징하지 않는다. 그런 변경이 있으면 건드리지 말고 보고에만 적는다.
+   - 푸시가 실패하면(원격이 앞섬) `git pull --rebase` 후 한 번 더. 그래도 안 되면 멈추고 보고한다.
+6. 짧게 보고한다: 올린 종, 떨어뜨린 종과 이유.
+
+## 하지 말 것
+
+- 그림을 직접 그리거나 고치지 않는다.
+- `data/` 종 자료, 코드, `tools/style.toml`, 이 지침들을 고치지 않는다.
+- `--force` 푸시, 다른 브랜치 만들기 금지.
