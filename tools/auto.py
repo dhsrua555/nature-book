@@ -4,7 +4,8 @@
 """Orca 자동화(그리기 → 검수·커밋)가 쓰는 작은 확인 도구.
 
     uv run tools/auto.py quota       # Codex 남은 사용량(5시간·주간) 보기
-    uv run tools/auto.py can-draw    # 그려도 되면 0, 아니면 1 (Codex 자동화 precheck)
+    uv run tools/auto.py can-draw    # 그려도 되면 0, 아니면 1 (Codex 자동화 precheck: 잔여량 + 그리는 중 아님)
+    uv run tools/auto.py quota-ok    # 잔여량만 보고 0/1 (그리는 도중 한 장마다)
     uv run tools/auto.py can-review  # 검수할 그림이 있고 그리는 중이 아니면 0 (Claude 자동화 precheck)
     uv run tools/auto.py lock|unlock # 그리는 동안 art/.drawing 표시
 
@@ -71,7 +72,8 @@ def locked() -> bool:
 def pending() -> list[str]:
     out = subprocess.run(["git", "status", "--porcelain", "--", "img"],
                          cwd=ROOT, capture_output=True, text=True).stdout
-    return [l[3:] for l in out.splitlines() if l.endswith(".webp")]
+    # 지운 그림(D)은 검수할 것이 아니다: 다시 그리려고 지운 것이 매시간 검수를 깨우지 않게
+    return [l[3:] for l in out.splitlines() if l.endswith(".webp") and "D" not in l[:2]]
 
 
 def main() -> int:
@@ -88,8 +90,8 @@ def main() -> int:
     print(json.dumps(r, ensure_ascii=False) if r else "사용량 기록 없음")
     if cmd == "quota":
         return 0
-    if cmd == "can-draw":
-        if locked():
+    if cmd in ("can-draw", "quota-ok"):
+        if cmd == "can-draw" and locked():
             print("이미 그리는 중"); return 1
         if r is None:
             return 0  # 기록이 없으면 한 번 돌려 본다(돌면 기록이 생긴다)

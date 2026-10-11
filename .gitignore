@@ -11,3 +11,4 @@ Thumbs.db
 .env
 cache/
 .codex-remote-attachments/
+.claude/settings.local.json

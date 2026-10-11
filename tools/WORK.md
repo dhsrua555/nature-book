@@ -51,7 +51,7 @@ API 키 없이 앱에 들어 있는 이미지 생성(`$imagegen`, gpt-image-2)�
 - `data/` 의 종 자료, 코드, `tools/style.toml` 을 고치지 않는다.
 - `img/` 의 기존 그림을 지우거나 덮어쓰지 않는다.
 - `git commit` · `git push` 하지 않는다. 사람이 검수한 뒤 커밋한다.
-- 한 번에 `--limit` 보다 많이 그리지 않는다(요금제 사용량 보호).
+- 한 번에 `--limit` 보다 많이 그리지 않는다(요금제 사용량 보호). Orca 자동화는 아래 절의 8장.
 - 사진을 그대로 베끼지 않는다(구도·자세·배경은 프롬프트대로). 사진은 생김새를 맞추는 데만 쓴다.
 
 ## 예약 작업으로 돌릴 때
@@ -63,11 +63,14 @@ Work 대화에서 이렇게 부탁하면 된다.
 ## Orca 자동화로 돌 때
 
 Orca가 매시간 `uv run tools/auto.py can-draw` 로 확인하고(5시간 잔여 30% 이상 · 주간 잔여 20% 이상 · 그리는 중 아님) 이 지침대로 맡긴다.
-그릴 때는 위 절차에 더해:
+위 절차를 따르되 아래가 우선한다.
 
-1. 시작하자마자 `uv run tools/auto.py lock`, 끝나면(실패해도) `uv run tools/auto.py unlock`.
-2. `queue --limit 8` 로 받고, **한 장 그릴 때마다** `uv run tools/auto.py can-draw` 를 다시 실행한다.
-   종료 코드가 0이 아니면(잔여량 하한) 더 그리지 말고 그때까지 그린 것만 `import` 한다.
-   (lock 중에는 can-draw 가 '이미 그리는 중'으로 1을 낸다. 이때는 `uv run tools/auto.py quota` 의 숫자로 직접 판단한다: 5h ≥ 30, week ≥ 20.)
-3. `art/review/<id>.txt` 가 있으면 검수에서 지적된 잘못이다. 그 문장을 `prompt` 끝에 덧붙여 그리고, 그린 뒤 그 파일을 지운다.
-4. 커밋·푸시는 하지 않는다. Claude 검수 자동화(`tools/REVIEW.md`)가 한다.
+1. `uv run tools/illustrate.py queue --limit 8` 로 목록을 받는다(자동화에서는 4 대신 8). 빈 배열이면 아무것도 하지 말고 끝낸다.
+2. 목록이 있으면 `uv run tools/auto.py lock`. 이때부터는 어떤 이유로 끝나든(다 그림, 잔여량 하한, 오류) 마지막에 반드시 `uv run tools/auto.py unlock`.
+   (lock 이 남으면 3시간 동안 그리기와 검수가 모두 멈춘다.)
+3. 두 번째 장부터는 **그리기 전에**, 다시 그리기도 **하기 전에** `uv run tools/auto.py quota-ok` 를 실행한다.
+   종료 코드가 0이 아니면 더 그리지 말고 4로 간다.
+4. 그린 것이 있으면 `uv run tools/illustrate.py import`, 그다음 unlock, 그리고 보고.
+5. 검수에서 떨어진 그림은 `art/review/<save_to 의 파일 이름에서 .png 를 뺀 것>.txt` 에 무엇이 틀렸는지 적혀 있다
+   (도판 `aix-galericulata.txt`, 동정 도해 `aix-galericulata.id.txt`). 있으면 그 문장을 `prompt` 끝에 덧붙여 그리고, 저장한 뒤 그 파일을 지운다.
+6. 커밋·푸시는 하지 않는다. Claude 검수 자동화(`tools/REVIEW.md`)가 한다.
