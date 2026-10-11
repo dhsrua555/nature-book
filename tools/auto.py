@@ -77,6 +77,7 @@ def pending() -> list[str]:
 
 
 def main() -> int:
+    sys.stdout.reconfigure(encoding="utf-8")  # Orca 실행 기록에서 한글이 깨지지 않게
     cmd = sys.argv[1] if len(sys.argv) > 1 else "quota"
     if cmd == "lock":
         LOCK.parent.mkdir(exist_ok=True); LOCK.touch(); return 0
