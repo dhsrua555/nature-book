@@ -1,5 +1,6 @@
 {
   "title": "자연 도감",
+  "url": "https://dhsrua555.github.io/nature-book/",
   "volumes": [
     { "id": "aves", "title": "Aves (Korea)", "book": "data/aves/book.json" }
   ]

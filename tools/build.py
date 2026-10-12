@@ -1,5 +1,6 @@
 # /// script
 # requires-python = ">=3.11"
+# dependencies = ["pillow>=11.0"]
 # ///
 """도감 데이터 빌드·검증.
 
@@ -304,6 +305,10 @@ def build_volume(vol_entry: dict, args, rep: Report) -> dict:
     print(f"[{vid}] {meta['title']}: {len(tree)}목 {book['counts']['families']}과 {n}종 "
           f"(국가생물종목록 {ref_count['total']}종) · 도판 {scenes}/{n} · 동정 도해 {plates}/{n} · TODO {todo_total}개")
     print(f"  → {out.relative_to(ROOT)}")
+    if site := json.loads((ROOT / "data" / "library.json").read_text(encoding="utf-8")).get("url"):
+        import share  # 링크 미리보기: 마디마다 <권>/<마디>/index.html 과 og/<권>/ 배너
+        drawn = share.write(vid, book, {s["sp"]["id"]: s["sp"]["summary"] for s in species if not has_todo_str(s["sp"].get("summary"))}, site)
+        print(f"  → 링크 미리보기 {vid}/*/index.html · og/{vid}/ (배너 새로 {drawn}장)")
     return book
 
 

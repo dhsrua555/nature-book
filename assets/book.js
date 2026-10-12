@@ -19,7 +19,13 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ESC[c]);
 const isTodo = v => v == null || v === "" || (typeof v === "string" && v.includes("TODO"));
 const todo = `<span class="todo" title="출처로 확인하지 못해 비워 둔 값">조사 중</span>`;
 const val = v => isTodo(v) ? todo : esc(v);
-const href = key => `#/${S.vid}/${key}`;
+/* 주소: 첫 화면은 ./, 마디(목·과·종·차례·찾아보기·판권)는 <권>/<마디>/, 마디 안의 쪽은 # 뒤(…/#id, …/#t2).
+   마디마다 tools/share.py 가 만든 쪽이 있어서 메신저가 그 마디의 미리보기(제목·배너)를 읽는다. */
+const href = key => {
+  const [head, ...sub] = String(key).split("/");
+  if (!head || head === "today" || head === "about") return head ? `./#${head}` : "./";
+  return `${S.vid}/${head}/${sub.length ? `#${sub.join("/")}` : ""}`;
+};
 const imgUrl = (id, kind) => `img/${S.vid}/${id}${kind === "plate" ? ".id" : ""}.webp`;
 const RANK = { order: ["목", "Ordo"], family: ["과", "Familia"] };
 const LABELS = { season: "관찰 시기", seen: "볼 수 있음", breed: "번식기", sexes: "암수 구별", young: "어린새", similar: "비슷한 종", points: "동정 포인트" };
@@ -662,13 +668,30 @@ function chrome() {
 }
 
 function setHash(push) {
-  const url = `#/${S.vid}/${keyOfPos(S.pos)}`;
-  if (location.hash === url) return;
+  const url = new URL(href(keyOfPos(S.pos)), document.baseURI);
+  url.search = location.search;
+  if (url.href === location.href) return;
   history[push ? "pushState" : "replaceState"](null, "", url);
 }
+const bookPath = () => location.pathname.slice(new URL(document.baseURI).pathname.length);
 function routeKey() {
-  const m = location.hash.match(/^#\/?([^/]*)\/?(.*)$/);
-  return m && m[1] === S.vid ? decodeURIComponent(m[2]) : "";
+  const old = location.hash.match(/^#\/([^/]*)\/?(.*)$/); // 옛 주소 #/<권>/<쪽 key>
+  if (old) return old[1] === S.vid ? decodeURIComponent(old[2]) : "";
+  const [vid, head = ""] = bookPath().split("/");
+  const sub = decodeURIComponent(location.hash.slice(1));
+  return vid === S.vid ? [head, sub].filter(Boolean).join("/") : sub;
+}
+/** 책 안 링크는 쪽을 다시 읽지 않고 넘긴다 */
+function navigate(url) {
+  url = new URL(url, document.baseURI);
+  url.search = location.search;
+  history.pushState(null, "", url);
+  dispatchEvent(new PopStateEvent("popstate"));
+}
+function inBook(url) {
+  const u = new URL(url, document.baseURI), b = new URL(document.baseURI);
+  const rest = u.pathname.slice(b.pathname.length);
+  return u.origin === b.origin && u.pathname.startsWith(b.pathname) && (rest === "" || rest === "index.html" || rest.startsWith(`${S.vid}/`));
 }
 
 async function prefetch(pos) {
@@ -876,7 +899,7 @@ function setupSearch() {
   form.addEventListener("submit", e => {
     e.preventDefault();
     const s = list[sel];
-    if (s) { location.hash = href(s.id); close(); }
+    if (s) { navigate(href(s.id)); close(); }
   });
   hits.addEventListener("click", e => { if (e.target.closest("a")) setTimeout(close, 0); });
   $("find-btn").addEventListener("click", () => {
@@ -926,7 +949,7 @@ function setupJump() {
   document.addEventListener("keydown", e => { if (e.key === "Escape" && !pn.hidden) { open(false); btn.focus(); } });
   document.addEventListener("pointerdown", e => { if (!e.target.closest("#jump,#toc")) open(false); });
   document.addEventListener("focusin", e => { if (!e.target.closest("#jump,#toc")) open(false); });
-  addEventListener("hashchange", () => open(false));
+  addEventListener("popstate", () => open(false));
 }
 
 /* ───────────────────────── 검수 모드 ─────────────────────────
@@ -1025,7 +1048,7 @@ async function layout() {
 async function start() {
   try {
     const lib = await getJSON("data/library.json");
-    const want = (location.hash.match(/^#\/?([^/]+)/) || [])[1];
+    const want = (location.hash.match(/^#\/([^/]+)/) || bookPath().match(/^([^/]+)\//) || [])[1];
     const vol = lib.volumes.find(v => v.id === want) || lib.volumes[0];
     S.vid = vol.id;
     indexBook(await getJSON(vol.book));
@@ -1036,6 +1059,7 @@ async function start() {
     document.body.classList.add("ready");
     await layout();
     render(S.pos);
+    setHash(false); // 옛 주소(#/aves/…)로 들어와도 주소창은 미리보기가 되는 꼴로
     prefetch(S.pos);
     $("boot").remove();
   } catch (err) {
@@ -1053,7 +1077,13 @@ async function start() {
 
   $("prev").addEventListener("click", () => go(-1));
   $("next").addEventListener("click", () => go(1));
-  addEventListener("hashchange", () => turnTo({ key: routeKey() }));
+  addEventListener("popstate", () => turnTo({ key: routeKey() }));
+  document.addEventListener("click", e => {
+    const a = e.target.closest?.("a[href]");
+    if (!a || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || a.target || !inBook(a.href)) return;
+    e.preventDefault();
+    navigate(a.href);
+  });
   document.addEventListener("keydown", e => {
     if (e.altKey || e.ctrlKey || e.metaKey || e.target.closest("input,textarea")) return;
     if (e.key === "ArrowRight" || e.key === "PageDown") { e.preventDefault(); go(1); }

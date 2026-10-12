@@ -16,8 +16,8 @@ Orca 자동화가 `uv run tools/auto.py can-review` 가 0일 때(검수할 그�
 3. 떨어진 그림:
    - 그 webp 를 지운다(새로 추가된 것이면 삭제, 이미 커밋돼 있던 것을 덮어쓴 것이면 `git restore` 로 되돌림).
    - `art/review/<id>.txt` (동정 도해는 `<id>.id.txt`)에 무엇이 틀렸는지 영어 한 문장을 쓴다. Codex가 다시 그릴 때 프롬프트 끝에 붙인다.
-4. `uv run tools/build.py` 로 `data/*/book.json` 을 다시 만든다.
-5. 통과한 webp 와 `data/*/book.json` 만 스테이징해 커밋하고 `git push origin main`.
+4. `uv run tools/build.py` 로 `data/*/book.json` 과 링크 미리보기(`index.html` 의 share 칸, `aves/`, `og/`)를 다시 만든다.
+5. 통과한 webp, `data/*/book.json`, 링크 미리보기(`git add index.html aves og` — 지워진 배너도 함께)만 스테이징해 커밋하고 `git push origin main`.
    - 메시지는 이전 커밋 말투를 따른다: `삽화 추가: 동고비, 되지빠귀 · 붉은머리오목눈이 도판`.
    - 다른 파일(코드·종 자료·README)은 스테이징하지 않는다. 그런 변경이 있으면 건드리지 말고 보고에만 적는다.
    - 푸시가 실패하면(원격이 앞섬) `git pull --rebase` 후 한 번 더. 그래도 안 되면 멈추고 보고한다.

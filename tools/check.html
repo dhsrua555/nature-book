@@ -55,6 +55,8 @@ async function sweep(name, frame) {
   log(`== ${name}: ${S.mode} ${S.W}×${S.H}, 마디 ${S.sections.length}, 종 ${S.species.length}, 목록 한 쪽 ${S.cap.list}줄, 찾아보기 ${S.cap.index}개`);
   let overflow = 0, badLinks = 0, badImgs = 0, turnFail = 0, todoText = 0, views = 0;
   const secKeys = new Set(S.sections.map(s => s.key));
+  // 책 안 링크(./ 또는 <권>/<마디>/…)가 가리키는 마디. 책 밖 링크는 null
+  const linkKey = a => { const m = a.getAttribute("href").match(new RegExp(`^(?:[.]/|${S.vid}/([^/#]+)/)`)); return m ? decodeURIComponent(m[1] || "") : null; };
   for (let s = 0; s < Math.min(limit, S.sections.length); s++) {
     const lay = await B.layoutOf(s);
     for (let v = 0; v < lay.views.length; v++) {
@@ -66,9 +68,9 @@ async function sweep(name, frame) {
         for (const f of pg.querySelectorAll(".fill, .idx")) {
           if (f.scrollHeight > f.clientHeight + 2 || f.scrollWidth > f.clientWidth + 2) { overflow++; log(`  목록 넘침: ${pg.dataset.key} (${f.scrollHeight}>${f.clientHeight} / ${f.scrollWidth}>${f.clientWidth})`); }
         }
-        for (const a of pg.querySelectorAll('a[href^="#/"]')) {
-          const key = decodeURIComponent(a.getAttribute("href")).replace(/^#\/[^/]*\/?/, "");
-          if (!secKeys.has(key.split("/")[0])) { badLinks++; log(`  깨진 링크: ${pg.dataset.key} → ${key}`); }
+        for (const a of pg.querySelectorAll("a[href]")) {
+          const key = linkKey(a);
+          if (key != null && !secKeys.has(key)) { badLinks++; log(`  깨진 링크: ${pg.dataset.key} → ${key}`); }
         }
         const walker = doc.createTreeWalker(pg, NodeFilter.SHOW_TEXT);
         while (walker.nextNode()) if (/TODO/.test(walker.currentNode.nodeValue)) { todoText++; log(`  TODO 글자 노출: ${pg.dataset.key}`); break; }
@@ -132,9 +134,9 @@ async function sweep(name, frame) {
   if (pr.left < 0 || pr.right > w.innerWidth + 1 || pr.bottom > fr.top + 1) jfail(`화면 밖 (${Math.round(pr.left)},${Math.round(pr.right)},${Math.round(pr.bottom)} / 꼬리말 ${Math.round(fr.top)})`);
   const curLi = pn.querySelector(`.j-list > li[data-id="${sp.parent.parent.id}"]`), jl = pn.querySelector(".j-list");
   if (Math.abs(curLi.getBoundingClientRect().top - jl.getBoundingClientRect().top) > 12 && jl.scrollTop < jl.scrollHeight - jl.clientHeight - 2) jfail("지금 목이 맨 위에 오지 않음");
-  for (const a of pn.querySelectorAll('a[href^="#/"]')) {
-    const key = decodeURIComponent(a.getAttribute("href")).replace(/^#\/[^/]*\/?/, "");
-    if (!secKeys.has(key)) jfail(`깨진 링크 ${key}`);
+  for (const a of pn.querySelectorAll("a[href]")) {
+    const key = linkKey(a);
+    if (key == null || !secKeys.has(key)) jfail(`깨진 링크 ${a.getAttribute("href")}`);
   }
   const fam = S.book.tree[0].children[0];
   pn.querySelector(`a[data-id="${fam.id}"]`).click();
