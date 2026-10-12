@@ -8,6 +8,7 @@
     uv run tools/auto.py quota-ok    # 잔여량만 보고 0/1 (그리는 도중 한 장마다)
     uv run tools/auto.py can-review  # 검수할 그림이 있고 그리는 중이 아니면 0 (Claude 자동화 precheck)
     uv run tools/auto.py lock|unlock # 그리는 동안 art/.drawing 표시
+    uv run tools/auto.py clean       # 끝난 자동화 세션 기록을 보관 폴더로 (can-review 가 매번 함께 돈다)
 
 Codex 사용량은 Codex가 남기는 세션 기록(~/.codex/sessions/**/rollout-*.jsonl)의
 마지막 rate_limits 값을 읽는다. 창이 이미 리셋됐으면 사용량 0으로 본다.
@@ -76,6 +77,38 @@ def pending() -> list[str]:
     return [l[3:] for l in out.splitlines() if l.endswith(".webp") and "D" not in l[:2]]
 
 
+AUTO_PROMPTS = ("tools/WORK.md 대로 삽화를 그려 줘", "tools/REVIEW.md 대로 새 삽화를")
+FINISHED_AFTER = 3600  # 마지막 기록 뒤 1시간 지난 세션을 끝난 것으로 본다
+
+
+def is_auto_session(f: Path) -> bool:
+    with f.open("rb") as fh:
+        head = fh.read(256_000).decode("utf-8", "ignore")
+    return "Nature Book" in head and any(p in head for p in AUTO_PROMPTS)
+
+
+def clean_sessions(home: Path | None = None) -> int:
+    """끝난 자동화 세션 기록을 Orca 세션 목록에서 빼려고 보관 폴더로 옮긴다(지우지 않음)."""
+    home = home or Path.home()
+    codex = sorted((home / ".codex" / "sessions").rglob("rollout-*.jsonl"),
+                   key=lambda p: p.stat().st_mtime)
+    jobs = [(f, home / ".codex" / "archived_sessions" / f.name) for f in codex[:-1]]  # 최신 1개는 사용량 읽기용
+    claude = home / ".claude" / "projects"
+    jobs += [(f, home / ".claude" / "archived-automation" / f.relative_to(claude))
+             for f in claude.glob("*/*.jsonl")]
+    now, moved = time.time(), 0
+    for src, dst in jobs:
+        try:
+            if now - src.stat().st_mtime < FINISHED_AFTER or not is_auto_session(src):
+                continue
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            src.replace(dst)
+            moved += 1
+        except OSError:
+            pass  # 쓰는 중이거나 잠긴 파일은 다음에
+    return moved
+
+
 def main() -> int:
     sys.stdout.reconfigure(encoding="utf-8")  # Orca 실행 기록에서 한글이 깨지지 않게
     cmd = sys.argv[1] if len(sys.argv) > 1 else "quota"
@@ -83,7 +116,10 @@ def main() -> int:
         LOCK.parent.mkdir(exist_ok=True); LOCK.touch(); return 0
     if cmd == "unlock":
         LOCK.unlink(missing_ok=True); return 0
+    if cmd == "clean":
+        print(f"세션 {clean_sessions()}개 보관"); return 0
     if cmd == "can-review":
+        clean_sessions()  # 매시간 도는 김에 정리
         p = pending()
         print(f"검수 대기 {len(p)}장" + (" (그리는 중)" if locked() else ""))
         return 0 if p and not locked() else 1
@@ -102,6 +138,24 @@ def main() -> int:
     print(__doc__); return 2
 
 
+def _check_clean() -> None:
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        h, old = Path(d), time.time() - 7200
+        def mk(rel, text, age=old):
+            f = h / rel; f.parent.mkdir(parents=True, exist_ok=True); f.write_text(text, encoding="utf-8")
+            os.utime(f, (age, age)); return f
+        auto = '{"cwd":"C:/Users/user/My Apps/Nature Book","text":"tools/REVIEW.md 대로 새 삽화를 검수"}'
+        mk(".codex/sessions/2026/10/12/rollout-a.jsonl", auto)
+        mk(".codex/sessions/2026/10/12/rollout-b.jsonl", auto, old + 10)   # 최신: 남김
+        mk(".claude/projects/p/x.jsonl", auto)
+        mk(".claude/projects/p/live.jsonl", auto, time.time())              # 진행 중: 남김
+        mk(".claude/projects/p/mine.jsonl", '{"cwd":"Nature Book","text":"직접 한 대화"}')  # 사람 세션: 남김
+        assert clean_sessions(h) == 2
+        assert (h / ".codex/archived_sessions/rollout-a.jsonl").exists()
+        assert (h / ".claude/archived-automation/p/x.jsonl").exists()
+
+
 def _check() -> None:
     t = time.time()
     line = json.dumps({"payload": {"type": "token_count", "rate_limits": {
@@ -113,4 +167,5 @@ def _check() -> None:
 
 if __name__ == "__main__":
     _check()
+    _check_clean()
     sys.exit(main())
