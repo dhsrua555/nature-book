@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 261장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 269장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
 ## 2026-10-16 · 8장
+- 도판: [검은등뻐꾸기](img/aves/cuculus-micropterus.webp), [두견](img/aves/cuculus-poliocephalus.webp), [쇠물닭](img/aves/gallinula-chloropus.webp), [매사촌](img/aves/hierococcyx-hyperythrus.webp)
+- 동정 도해: [검은등뻐꾸기](img/aves/cuculus-micropterus.id.webp), [두견](img/aves/cuculus-poliocephalus.id.webp), [쇠물닭](img/aves/gallinula-chloropus.id.webp), [매사촌](img/aves/hierococcyx-hyperythrus.id.webp)
+
+## 2026-10-16 · `30fa7fb` · 8장
 - 도판: [쏙독새](img/aves/caprimulgus-jotaka.webp), [바늘꼬리칼새](img/aves/hirundapus-caudacutus.webp), [흰비오리](img/aves/mergellus-albellus.webp), [바다비오리](img/aves/mergus-serrator.webp)
 - 동정 도해: [흰뺨오리](img/aves/bucephala-clangula.id.webp), [쏙독새](img/aves/caprimulgus-jotaka.id.webp), [흰비오리](img/aves/mergellus-albellus.id.webp), [바다비오리](img/aves/mergus-serrator.id.webp)
 
