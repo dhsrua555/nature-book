@@ -1,3 +1,7 @@
+<p align="center"><a href="https://dhsrua555.github.io/nature-book/"><img src=".github/banner.jpg" alt="Aves (Korea) — 조류 도감" width="100%"></a></p>
+
+<p align="center"><a href="https://dhsrua555.github.io/nature-book/"><b>도감 열기 → dhsrua555.github.io/nature-book</b></a></p>
+
 # Aves (Korea) — 조류 도감
 
 화면 전체를 책의 펼침면으로 쓰는 웹 도감. 실물 책을 흉내 내기보다 '책'을 짜임새로 삼는다(머리말·쪽 번호·차례·찾아보기·도판 번호, 쪽 넘김).

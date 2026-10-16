@@ -14,7 +14,8 @@
 
 오늘의 새는 book.js 와 같은 방법으로 한국 시간 날짜에서 고른다. 첫 화면 배너는 build.py 를 돌린 날의 새다.
 
-    uv run tools/share.py     # 자체 점검
+    uv run tools/share.py            # 자체 점검
+    uv run tools/share.py --readme   # 저장소 README 배너(.github/banner.jpg)
 """
 
 from __future__ import annotations
@@ -319,6 +320,32 @@ def write(vid: str, book: dict, summaries: dict[str, str], site: str, day: date 
     return drawn
 
 
+# ───────────── 저장소 README 배너 ─────────────
+README_BIRDS = ["aix-galericulata", "alcedo-atthis", "sittiparus-varius", "hirundo-rustica"]
+
+
+def readme_banner(out: Path, vid: str = "aves") -> None:
+    """README 맨 위 배너: 왼쪽에 책 표제, 오른쪽에 도판 넷(3:2 그대로). 그림을 바꾸고 싶을 때만 다시 만든다."""
+    bw, bh, cw, ch, gap = 1280, 460, 285, 190, 12
+    im = Image.new("RGB", (bw, bh), C["paper"])
+    d = ImageDraw.Draw(im)
+    n = len([s for o in json.loads((ROOT / "data" / vid / "book.json").read_text(encoding="utf-8"))["tree"]
+             for f in o["children"] for s in f["children"]])
+    x = 72
+    put(d, x, 150, [("조류 도감", font("sansb", 22), C["label"])], track=8)
+    put(d, x, 250, [("Aves", font("title", 96), C["ink"]), (" (Korea)", font("title", 96), C["label"])])
+    ornament(d, x, 296)
+    put(d, x, 352, [(f"한국에서 기록된 새 {n}종", font("sans", 25), C["fade"])])
+    put(d, x, 390, [("수채 도판과 동정 도해로 엮은 웹 책", font("sans", 25), C["fade"])])
+    x0, y0 = bw - 40 - (2 * cw + gap), (bh - (2 * ch + gap)) // 2
+    mask = Image.new("L", (cw, ch), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, cw - 1, ch - 1), radius=6, fill=255)
+    for i, sid in enumerate(README_BIRDS):
+        im.paste(cover(ROOT / "img" / vid / f"{sid}.webp", cw, ch, None), (x0 + i % 2 * (cw + gap), y0 + i // 2 * (ch + gap)), mask)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    im.save(out, quality=86, optimize=True, progressive=True)
+
+
 # ───────────── 자체 점검 ─────────────
 def _check() -> None:
     # book.js 의 seeded() 를 node 로 돌린 값
@@ -331,4 +358,8 @@ def _check() -> None:
 
 
 if __name__ == "__main__":
-    _check()
+    import sys
+    if "--readme" in sys.argv:  # uv run tools/share.py --readme → .github/banner.jpg
+        readme_banner(ROOT / ".github" / "banner.jpg")
+    else:
+        _check()
