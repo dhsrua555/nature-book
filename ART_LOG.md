@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 214장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 222장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-16 · `9064ebe` · 8장
+- 도판: [귀제비](img/aves/cecropis-daurica.webp) (다시 그림), [쇠유리새](img/aves/larvivora-cyane.webp) (다시 그림), [노랑할미새](img/aves/motacilla-cinerea.webp), [긴발톱할미새](img/aves/motacilla-tschutschensis.webp), [멧종다리](img/aves/prunella-montanella.webp)
+- 동정 도해: [쇠유리새](img/aves/larvivora-cyane.id.webp) (다시 그림), [긴발톱할미새](img/aves/motacilla-tschutschensis.id.webp), [멧종다리](img/aves/prunella-montanella.id.webp)
 
 ## 2026-10-16 · `d573066` · 7장
 - 도판: [바다직박구리](img/aves/monticola-solitarius.webp), [검은딱새](img/aves/saxicola-torquatus.webp), [찌르레기](img/aves/sturnus-cineraceus.webp) (다시 그림)
