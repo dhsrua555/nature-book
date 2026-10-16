@@ -25,7 +25,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LOCK = ROOT / "art" / ".drawing"
-LOCK_STALE = 3 * 3600  # ponytail: 3시간 넘은 표시는 죽은 실행으로 본다
+LOCK_STALE = 45 * 60  # ponytail: 45분 넘은 표시는 죽은 실행으로 본다(한 번에 8장 약 12분, 20분마다 돈다)
 MIN_5H, MIN_WEEK = 30, 20  # 남은 % 하한
 
 

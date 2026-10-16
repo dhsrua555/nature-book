@@ -68,7 +68,7 @@ Orca가 20분마다(:15 :35 :55) `uv run tools/auto.py can-draw` 로 확인하�
 
 1. `uv run tools/illustrate.py queue --limit 8` 로 목록을 받는다(자동화에서는 4 대신 8). 빈 배열이면 아무것도 하지 말고 끝낸다.
 2. 목록이 있으면 `uv run tools/auto.py lock`. 이때부터는 어떤 이유로 끝나든(다 그림, 잔여량 하한, 오류) 마지막에 반드시 `uv run tools/auto.py unlock`.
-   (lock 이 남으면 3시간 동안 그리기와 검수가 모두 멈춘다.)
+   (lock 이 남으면 45분 동안 그리기와 검수가 모두 멈춘다.)
 3. 두 번째 장부터는 **그리기 전에**, 다시 그리기도 **하기 전에** `uv run tools/auto.py quota-ok` 를 실행한다.
    종료 코드가 0이 아니면 더 그리지 말고 4로 간다.
 4. 그린 것이 있으면 `uv run tools/illustrate.py import`, 그다음 unlock, 그리고 보고.
