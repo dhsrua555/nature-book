@@ -64,18 +64,20 @@
   "similar": [],
   "art": {
     "subject": "Vinous-throated Parrotbill (Suthora webbiana), adult (sexes alike, plumage the same all year): crown, nape and sides of the head warm rufous-chestnut, the cheeks only slightly paler; throat and breast pinkish-buff to vinaceous with faint fine darker streaks on the throat; belly paler olive-buff; back, rump and tail warm greyish-brown; wings brown with rufous-chestnut edges to the coverts and flight feathers, forming a rufous wing panel; tiny, very deep, parrot-like bill, grey with a paler tip; dark eye.",
-    "pose": "clinging sideways to a dry reed stem with the tail cocked, one of a busy flock moving through the reeds",
+    "pose": "clinging to a single dry reed stem with both feet close together, body turned sideways and the long tail cocked; it looks small against the reeds, with other members of the flock in the background",
     "scene": "Korean field edge in winter: dry common reeds and low shrubs beside a stream, pale low sunlight; no people, buildings or text",
     "views": [
       "adult, side view clinging to a reed stem: tiny deep bill, grey with a paler tip; rufous-chestnut crown, nape and whole face including the cheeks and ear-coverts (no pale face patch); pinkish-buff throat and breast; warm brown back; rufous panel on the folded wing; paler buff belly; long graduated tail",
       "adult, side view perched on a twig with the tail held straight: the same plumage with the whole head rufous-chestnut, showing the long wedge-shaped tail and the rufous wing panel clearly"
     ],
-    "build": "Tiny, long-tailed songbird, about the size of a Long-tailed Tit, with a round, plump body. Large round head with no crest; the crown feathers lie flat. No visible neck. Bill tiny, very short and deep with a curved culmen, like a miniature parrot's, much shorter than the head. Legs short and strong for clinging to stems. Wings short and rounded; at rest they reach only the base of the tail. Tail long, about as long as the body, graduated. Moves in noisy, restless flocks through reeds, grass and shrubs, flying weakly from bush to bush.",
+    "build": "Tiny, long-tailed songbird, 12-13cm of which about half is tail, the size of a Long-tailed Tit: a small fluffy ball of a body with a big round head merging into it, so the bird looks small next to reed stems. Large round head with no crest; the crown feathers lie flat. No visible neck. Bill tiny, very short and deep with a curved culmen, like a miniature parrot's, much shorter than the head. Legs short and strong for clinging to stems. Wings short and rounded; at rest they reach only the base of the tail. Tail long, about as long as the body, graduated. Moves in noisy, restless flocks through reeds, grass and shrubs, flying weakly from bush to bush.",
     "avoid": [
       "Do not paint a slender pointed bill; the bill is tiny, deep and parrot-like.",
       "Do not paint a black eye-stripe or a white head; that is Long-tailed Tit.",
       "Do not paint grey or olive tones; the bird is warm brown, rufous and pinkish-buff.",
       "Do not paint a short tail.",
+      "Do not paint a large, long-bodied, bunting-like bird; it is a tiny round ball with a big round head.",
+      "Do not paint heavy streaks on the throat and breast; the faint streaks barely show.",
       "Do not paint the rufous only on the crown with a pale buff face; the cheeks and ear-coverts are rufous-chestnut like the crown."
     ],
     "confidence": "medium",
