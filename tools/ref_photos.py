@@ -146,8 +146,6 @@ def pick(taxa: list[str], skip: set[str] = frozenset()) -> list[dict]:
     for taxon in taxa:
         tid = taxon_id(taxon)
         for label, area in AREAS:
-            if label == "전 세계" and len(chosen) + sum(1 for c in spare if c["bird"]) >= 2:
-                break  # 다른 대륙 무리(깃이 다를 수 있음)는 한국·동아시아에 새가 보이는 사진이 2장도 없을 때만
             found = search(taxon, tid, area)
             size = lambda o: max([(p.get("original_dimensions") or {}).get("width") or 0 for p in o.get("photos") or []] or [0])
             # 소리를 올린 관찰은 사진 자리에 소리 그림(스펙트로그램)이 오기 쉽고, 죽은 새(주석 17=19)는 모습이 다르다: 뒤로
