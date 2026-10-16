@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 283장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 14장
+## 2026-10-17 · `be87da1` · 14장
 - 도판: [칼새](img/aves/apus-pacificus.webp) (다시 그림), [민물도요](img/aves/calidris-alpina.webp) (다시 그림), [두루미](img/aves/grus-japonensis.webp), [재두루미](img/aves/grus-vipio.webp), [바늘꼬리칼새](img/aves/hirundapus-caudacutus.webp) (다시 그림), [붉은머리오목눈이](img/aves/suthora-webbiana.webp) (다시 그림), [논병아리](img/aves/tachybaptus-ruficollis.webp)
 - 동정 도해: [칼새](img/aves/apus-pacificus.id.webp) (다시 그림), [민물도요](img/aves/calidris-alpina.id.webp) (다시 그림), [슴새](img/aves/calonectris-leucomelas.id.webp) (다시 그림), [두루미](img/aves/grus-japonensis.id.webp), [재두루미](img/aves/grus-vipio.id.webp), [제비갈매기](img/aves/sterna-hirundo.id.webp) (다시 그림), [논병아리](img/aves/tachybaptus-ruficollis.id.webp)
 
