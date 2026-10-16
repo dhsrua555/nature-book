@@ -57,12 +57,13 @@
     "pose": "standing on the forest floor beneath shrubs, side view",
     "scene": "Korean summer deciduous broadleaf forest with shrubby undergrowth; no people, buildings or text",
     "views": [
-      "adult, side view standing on leaf litter: long creamy-buff supercilium, broad dark eye-stripe, scaly dark brown crown, cream-buff face, brown back, almost no tail, white belly centre, olive-brown flanks, long pale pinkish legs",
+      "adult, side view standing on leaf litter: long creamy-buff supercilium, broad dark eye-stripe, scaly dark brown crown, cream-buff face, brown back, short stubby tail clearly projecting beyond the wingtips, white belly centre, olive-brown flanks, long pale pinkish legs",
       "adult, head detail in profile: prominent pale supercilium above a dark eye-stripe, scaly crown, brown upper mandible and pale apricot-based lower mandible"
     ],
-    "build": "Tiny, round-bodied, almost tail-less warbler, about 9cm, much smaller than a sparrow; large head with a long pale supercilium. Bill short, fine and pointed. Legs long for its size, pale pinkish-white, giving a perky stance. Tail extremely short, barely projecting beyond the wingtips and undertail coverts. Wings short and rounded. Creeps and hops on the forest floor and in low tangles like a mouse, often flicking its tiny tail.",
+    "build": "Tiny, round-bodied, short-tailed warbler, about 9cm, much smaller than a sparrow; large head with a long pale supercilium. Bill short, fine and pointed. Legs long for its size, pale pinkish-white, giving a perky stance. Tail short and stubby but clearly visible: it projects beyond the wingtips by about half the head length, and the whole visible tail is about as long as the head (bill base to nape). Wings short and rounded. Creeps and hops on the forest floor and in low tangles like a mouse, often flicking its tiny tail.",
     "avoid": [
       "Do not paint a normal-length or cocked tail; the tail is a tiny stub (Eurasian Wren cocks a longer, barred tail).",
+      "Do not leave the tail out; a short brown stub always shows beyond the wingtips.",
       "Do not paint barring on the wings, tail or flanks (Eurasian Wren).",
       "Do not paint dark or short legs; they are long and pale pinkish.",
       "Do not paint yellow or green tones; the plumage is brown, buff and white."
