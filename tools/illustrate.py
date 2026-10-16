@@ -98,6 +98,7 @@ def build_prompt(cfg: dict, sp: dict, kind: str, photos: bool = False) -> str:
         "style": cfg["style"].strip(),
         "ko": sp["ko"], "en": sp["en"], "sci": sp["sci"],
         "subject": art.get("subject", "").rstrip(". "), "pose": art.get("pose", "").rstrip(". "), "scene": art.get("scene", "").rstrip(". "),
+        "count": art.get("count") or "a single bird",
         "views": "; ".join(f"({i}) {v}" for i, v in enumerate(views, 1)),
         # 도해에 꼭 보일 특징: 책의 동정 포인트 순서대로. 책 글이 실제와 어긋나면 art.marks(같은 순서·같은 부위의 바른 영어)를 쓴다
         "points": "; ".join(marks(sp)),

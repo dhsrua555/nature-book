@@ -1,6 +1,7 @@
 # 삽화 프롬프트 템플릿 — 모든 그림의 톤을 여기 한 곳에서 맞춘다.
 # {style} 자리에는 아래 style 이, 나머지 {…} 자리에는 종 파일(data/<권>/species/<id>.json)의 값이 들어간다.
 #   {ko} {en} {sci} {subject} {pose} {scene} {views} {points}
+#   {count} 도판에 그릴 새(art.count, 없으면 "a single bird". 예: 두 마리가 함께 앉아 앞모습·옆모습을 함께 보여 줄 때)
 #   {build} 종별 크기·체형·부리·다리 비율(art.build), {avoid} 이 종에서 흔히 틀리는 점(art.avoid) — 쓰는 법은 tools/ART_RULES.md
 # 고친 뒤에는 `uv run tools/illustrate.py prompt <종 id>` 로 완성된 프롬프트를 먼저 확인한다.
 
@@ -30,7 +31,7 @@ suffix = ""
 ref = []                        # 예: ["art/ref/scene-style.png"]  (마음에 든 도판을 넣어 두면 늘 함께 넘긴다)
 prompt = """
 {style}
-Subject: a single bird — {subject}. Pose: {pose}.
+Subject: {count} — {subject}. Pose: {pose}.
 {build}
 {avoid}
 Setting: {scene}. Paint the setting as a soft but recognisable watercolor background that shows where this species lives in Korea, with the right plants, season and light.
