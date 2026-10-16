@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 359장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 366장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 21장
+## 2026-10-17 · 7장
+- 도판: [참매](img/aves/accipiter-gentilis.webp), [새매](img/aves/accipiter-nisus.webp), [붉은배새매](img/aves/accipiter-soloensis.webp)
+- 동정 도해: [참매](img/aves/accipiter-gentilis.id.webp), [새매](img/aves/accipiter-nisus.id.webp), [붉은배새매](img/aves/accipiter-soloensis.id.webp), [황로](img/aves/bubulcus-ibis.id.webp)
+
+## 2026-10-17 · `ae92fce` · 21장
 - 도판: [조롱이](img/aves/accipiter-gularis.webp), [독수리](img/aves/aegypius-monachus.webp), [대백로](img/aves/ardea-alba-alba.webp), [중백로](img/aves/ardea-intermedia.webp), [황로](img/aves/bubulcus-ibis.webp), [검은댕기해오라기](img/aves/butorides-striata.webp), [쇠백로](img/aves/egretta-garzetta.webp), [해오라기](img/aves/nycticorax-nycticorax.webp), [벌매](img/aves/pernis-ptilorhynchus.webp), [쇠가마우지](img/aves/phalacrocorax-pelagicus.webp), [저어새](img/aves/platalea-minor.webp)
 - 동정 도해: [독수리](img/aves/aegypius-monachus.id.webp), [대백로](img/aves/ardea-alba-alba.id.webp), [중백로](img/aves/ardea-intermedia.id.webp), [검은댕기해오라기](img/aves/butorides-striata.id.webp), [쇠백로](img/aves/egretta-garzetta.id.webp), [마도요](img/aves/numenius-arquata.id.webp), [알락꼬리마도요](img/aves/numenius-madagascariensis.id.webp), [해오라기](img/aves/nycticorax-nycticorax.id.webp), [쇠가마우지](img/aves/phalacrocorax-pelagicus.id.webp), [저어새](img/aves/platalea-minor.id.webp)
 
