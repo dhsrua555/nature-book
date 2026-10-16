@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 338장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 359장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
 ## 2026-10-17 · 21장
+- 도판: [조롱이](img/aves/accipiter-gularis.webp), [독수리](img/aves/aegypius-monachus.webp), [대백로](img/aves/ardea-alba-alba.webp), [중백로](img/aves/ardea-intermedia.webp), [황로](img/aves/bubulcus-ibis.webp), [검은댕기해오라기](img/aves/butorides-striata.webp), [쇠백로](img/aves/egretta-garzetta.webp), [해오라기](img/aves/nycticorax-nycticorax.webp), [벌매](img/aves/pernis-ptilorhynchus.webp), [쇠가마우지](img/aves/phalacrocorax-pelagicus.webp), [저어새](img/aves/platalea-minor.webp)
+- 동정 도해: [독수리](img/aves/aegypius-monachus.id.webp), [대백로](img/aves/ardea-alba-alba.id.webp), [중백로](img/aves/ardea-intermedia.id.webp), [검은댕기해오라기](img/aves/butorides-striata.id.webp), [쇠백로](img/aves/egretta-garzetta.id.webp), [마도요](img/aves/numenius-arquata.id.webp), [알락꼬리마도요](img/aves/numenius-madagascariensis.id.webp), [해오라기](img/aves/nycticorax-nycticorax.id.webp), [쇠가마우지](img/aves/phalacrocorax-pelagicus.id.webp), [저어새](img/aves/platalea-minor.id.webp)
+
+## 2026-10-17 · `4fbbf98` · 21장
 - 도판: [좀도요](img/aves/calidris-ruficollis.webp), [흰수염바다오리](img/aves/cerorhinca-monocerata.webp), [큰회색머리아비](img/aves/gavia-arctica.webp), [회색머리아비](img/aves/gavia-pacifica.webp), [아비](img/aves/gavia-stellata.webp), [줄무늬노랑발갈매기](img/aves/larus-heuglini.webp), [큰재갈매기](img/aves/larus-schistisagus.webp), [검은머리갈매기](img/aves/saundersilarus-saundersi.webp), [쇠제비갈매기](img/aves/sternula-albifrons.webp)
 - 동정 도해: [붉은가슴도요](img/aves/calidris-canutus.id.webp), [좀도요](img/aves/calidris-ruficollis.id.webp), [흰수염바다오리](img/aves/cerorhinca-monocerata.id.webp), [바늘꼬리도요](img/aves/gallinago-stenura.id.webp), [큰회색머리아비](img/aves/gavia-arctica.id.webp), [회색머리아비](img/aves/gavia-pacifica.id.webp), [아비](img/aves/gavia-stellata.id.webp), [줄무늬노랑발갈매기](img/aves/larus-heuglini.id.webp), [큰재갈매기](img/aves/larus-schistisagus.id.webp), [중부리도요](img/aves/numenius-phaeopus.id.webp), [검은머리갈매기](img/aves/saundersilarus-saundersi.id.webp), [쇠제비갈매기](img/aves/sternula-albifrons.id.webp)
 
