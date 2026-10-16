@@ -225,6 +225,11 @@ def photos_for(sp: dict, force: bool = False) -> list[Path]:
     return [d / c["file"] for c in chosen]
 
 
+def picked(sid: str) -> bool:
+    """사람이 직접 고른 사진(meta.json 의 picked: iNaturalist 밖의 옛 도감 그림·표본 사진 등)이면 --small 이 덮어쓰지 않는다."""
+    return any(m.get("picked") for m in json.loads((OUT / sid / "meta.json").read_text(encoding="utf-8")))
+
+
 def near_count(sid: str) -> int:
     """받아 둔 사진 가운데 새가 크게 찍힌 것의 수. 아직 안 잰 사진은 재어 meta.json 의 bird 에 적어 둔다."""
     meta = OUT / sid / "meta.json"
@@ -274,7 +279,7 @@ def main() -> int:
     elif args.small:
         if not yolo():
             ap.error("--small 은 새 크기를 재야 해서 uv run tools/ref_photos.py 로 실행")
-        rows = [sp for sp in rows if cached(sp["id"]) and near_count(sp["id"]) < 2]
+        rows = [sp for sp in rows if cached(sp["id"]) and not picked(sp["id"]) and near_count(sp["id"]) < 2]
         print(f"새가 크게 찍힌 사진이 2장이 안 되는 종 {len(rows)}개를 다시 받는다", flush=True)
     else:
         ap.error("종 id, --next N, --drawn, --small 중 하나")

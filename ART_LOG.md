@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 253장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-16 · 8장
+## 2026-10-16 · `45dcaa4` · 8장
 - 도판: [댕기흰죽지](img/aves/aythya-fuligula.webp), [흰뺨오리](img/aves/bucephala-clangula.webp), [청머리오리](img/aves/mareca-falcata.webp), [넓적부리](img/aves/spatula-clypeata.webp)
 - 동정 도해: [댕기흰죽지](img/aves/aythya-fuligula.id.webp), [물까치](img/aves/cyanopica-cyanus.id.webp) (다시 그림), [청머리오리](img/aves/mareca-falcata.id.webp), [넓적부리](img/aves/spatula-clypeata.id.webp)
 
