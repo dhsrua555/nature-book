@@ -826,13 +826,13 @@ async function onPointerMove(e) {
   const now = performance.now();
   d.vx = (e.clientX - d.lastX) / Math.max(1, now - d.lastT); d.lastX = e.clientX; d.lastT = now;
   if (!d.session) {
-    if (d.starting || Math.abs(dx) < 10 || Math.abs(dx) < Math.abs(dy) * 1.2) return;
+    if (d.starting || Math.abs(dx) < 10 || Math.abs(dx) < Math.abs(dy)) return;
     if (d.type === "mouse" && !e.buttons) { drag.st = null; return; }
     const dir = dx < 0 ? 1 : -1;
     d.starting = true;
     S.busy = true;
     const to = await stepPos(S.pos, dir).catch(() => null);
-    if (drag.st !== d) { S.busy = false; idle(); return; }
+    if (drag.st !== d) { S.busy = false; if (d.flick && to) go(dir); else idle(); return; }
     if (!to) { drag.st = null; S.busy = false; idle(); return; }
     d.session = { t: setupTurn(to), dir, span: S.W * (S.mode === "spread" ? 1.15 : 0.9) };
     try { bookEl.setPointerCapture(e.pointerId); } catch {}
@@ -848,12 +848,12 @@ async function onPointerUp(e) {
   if (!d || e.pointerId !== d.id) return;
   drag.st = null;
   const s = d.session;
-  if (!s) { if (d.starting) { /* 준비 중 손을 뗌: 아래에서 정리 */ } return; }
+  if (!s) { if (d.starting) d.flick = Math.abs(e.clientX - d.x0) > 24; return; } // 준비가 끝나면 onPointerMove 가 넘긴다
   bookEl.classList.remove("dragging");
   bookEl.dataset.dragged = "1";
   setTimeout(() => delete bookEl.dataset.dragged, 0);
   const p = s.p || 0;
-  const complete = p > 0.38 || -s.dir * d.vx > 0.45;
+  const complete = p > 0.25 || -s.dir * d.vx > 0.3;
   const end = complete ? 1 : 0;
   const ms = S.reduced.matches ? 0 : Math.max(120, Math.abs(end - p) * DUR);
   await tween(ms, ease.out, e2 => s.t.set(p + (end - p) * e2));
@@ -1085,7 +1085,7 @@ async function start() {
     navigate(a.href);
   });
   document.addEventListener("keydown", e => {
-    if (e.altKey || e.ctrlKey || e.metaKey || e.target.closest("input,textarea")) return;
+    if (e.altKey || e.ctrlKey || e.metaKey || e.target.closest("input,textarea") || $("zoom").open) return;
     if (e.key === "ArrowRight" || e.key === "PageDown") { e.preventDefault(); go(1); }
     else if (e.key === "ArrowLeft" || e.key === "PageUp") { e.preventDefault(); go(-1); }
     else if (e.key === "Home") turnTo({ key: "" }, { push: true });
@@ -1114,8 +1114,16 @@ async function start() {
       } finally { idle(); }
       return;
     }
-    if (S.edit) onEditClick(e);
+    if (S.edit) { onEditClick(e); return; }
+    const fr = e.target.closest(".pl-frame, .idframe");
+    const img = fr?.querySelector("img");
+    if (img) { openZoom(img); return; }
+    if (S.mode === "single" && !e.target.closest("a,button,input,select,textarea,label,summary,[data-act]")) {
+      const r = bookEl.getBoundingClientRect(), x = (e.clientX - r.left) / r.width;
+      if (x < 0.22) go(-1); else if (x > 0.78) go(1);
+    }
   }, true);
+  setupZoom();
   setupSearch();
   let ft;
   const later = () => { clearTimeout(ft); ft = setTimeout(() => (S.noAutoRelayout ? 0 : S.busy || drag.st ? later() : relayout()), 250); };
@@ -1124,6 +1132,33 @@ async function start() {
   addEventListener("resize", () => {
     clearTimeout(rt);
     rt = setTimeout(async () => { if (!S.busy && await layout()) render(S.pos); }, 160);
+  });
+}
+
+/* ───────────── 그림 크게 보기 ───────────── */
+function openZoom(src) {
+  const dlg = $("zoom"), img = dlg.querySelector("img");
+  dlg.classList.remove("big");
+  img.style.width = "";
+  img.src = src.currentSrc || src.src;
+  img.alt = src.alt;
+  dlg.showModal();
+}
+function setupZoom() {
+  document.body.insertAdjacentHTML("beforeend", `<dialog id="zoom" class="zoom" aria-label="그림 크게 보기"><div class="zoom-in"><img alt=""></div>` +
+    `<button type="button" class="zoom-x" aria-label="닫기">×</button><p class="zoom-hint">누르면 확대 · 두 손가락으로 늘이기</p></dialog>`);
+  const dlg = $("zoom"), box = dlg.querySelector(".zoom-in"), img = box.querySelector("img");
+  dlg.querySelector(".zoom-x").addEventListener("click", () => dlg.close());
+  box.addEventListener("click", e => {
+    if (e.target !== img) { dlg.close(); return; } // 그림 밖을 누르면 닫는다
+    const r = img.getBoundingClientRect(); // 맞춰 보인 크기(키우기 전에 잰다)
+    if (dlg.classList.toggle("big")) {
+      // 누른 곳을 그대로 둔 채 2.5배로
+      const rx = (e.clientX - r.left) / r.width, ry = (e.clientY - r.top) / r.height;
+      img.style.width = `${r.width * 2.5}px`;
+      box.scrollLeft = rx * r.width * 2.5 - e.clientX;
+      box.scrollTop = ry * r.height * 2.5 - e.clientY;
+    } else img.style.width = "";
   });
 }
 

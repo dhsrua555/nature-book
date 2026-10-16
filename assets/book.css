@@ -256,10 +256,10 @@ kbd { font-family: var(--sans); font-size: .9em; font-weight: 600; border: 1px s
 .today-head { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid var(--rule); padding-bottom: .4em; margin-bottom: .9em; }
 .today-head h2 { margin: 0; font-size: 1em; font-weight: 700; letter-spacing: .14em; color: var(--red); }
 .today-head .date { margin: 0; font-size: .88em; color: var(--label); font-weight: 500; }
-/* 그림 칸은 쪽 높이가 모자라면 줄어든다(잘라 보임) */
-.today-plate { display: block; text-decoration: none; flex: 1 1 auto; min-height: 5.5em; max-height: min(calc(var(--H) * .42), calc(var(--fs) * 24)); aspect-ratio: 3 / 2; }
+/* 그림 칸은 3:2 그대로. 쪽 높이가 모자라면 줄어들되 그림을 자르지 않는다 */
+.today-plate { display: block; text-decoration: none; flex: 0 1 auto; min-height: 5.5em; max-height: min(calc(var(--H) * .42), calc(var(--fs) * 24)); aspect-ratio: 3 / 2; }
 .today-plate img, .today-plate .ph-plate {
-  display: block; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; border-radius: 4px;
+  display: block; width: 100%; height: 100%; aspect-ratio: auto; object-fit: contain; border-radius: 4px;
 }
 .today-plate .ph-plate .sketch { width: auto; height: 46%; }
 .today-name { margin-top: .8em; }
@@ -480,6 +480,8 @@ body.finding[data-mode="single"] .hits { position: static; width: auto; max-widt
 [data-mode="single"] .ways a { flex-direction: row; justify-content: space-between; align-items: baseline; text-align: left; }
 @media (max-width: 520px) {
   .turn .lbl { display: none; }
+  .turn { min-width: 3.4em; min-height: 2.9em; justify-content: center; }
+  .turn span[aria-hidden] { font-size: 1.9em; }
   .tally div { padding: 0 .65em; }
 }
 
@@ -502,3 +504,15 @@ body.finding[data-mode="single"] .hits { position: static; width: auto; max-widt
 @media (prefers-reduced-motion: reduce) {
   .progress i { transition: none; }
 }
+
+/* ───────── 그림 크게 보기 (도판·동정 도해를 누르면) ───────── */
+.pl-frame img, .idframe:not(.editable) img { cursor: zoom-in; }
+.zoom { padding: 0; border: 0; margin: 0; width: 100vw; height: 100dvh; max-width: none; max-height: none; background: rgba(24, 19, 13, .94); color: #f3ede2; }
+.zoom::backdrop { background: rgba(0, 0, 0, .5); }
+.zoom-in { width: 100%; height: 100%; overflow: auto; display: grid; place-items: center; overscroll-behavior: contain; }
+.zoom-in img { display: block; max-width: 100%; max-height: 100%; cursor: zoom-in; }
+.zoom.big .zoom-in { place-items: start; }
+.zoom.big .zoom-in img { max-width: none; max-height: none; cursor: zoom-out; }
+.zoom-x { position: fixed; top: max(10px, env(safe-area-inset-top)); right: 12px; width: 44px; height: 44px; border: 0; border-radius: 50%;
+  background: rgba(0, 0, 0, .45); color: #fff; font-size: 26px; line-height: 1; cursor: pointer; }
+.zoom-hint { position: fixed; bottom: max(12px, env(safe-area-inset-bottom)); left: 0; right: 0; margin: 0; text-align: center; font-size: .85rem; opacity: .7; pointer-events: none; }
