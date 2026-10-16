@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 284장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 302장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 1장
+## 2026-10-17 · 18장
+- 도판: [칼새](img/aves/apus-pacificus.webp) (다시 그림), [꼬마물떼새](img/aves/charadrius-dubius.webp), [왕눈물떼새](img/aves/charadrius-mongolus.webp), [흰목물떼새](img/aves/charadrius-placidus.webp), [바늘꼬리도요](img/aves/gallinago-stenura.webp), [검은머리물떼새](img/aves/haematopus-ostralegus.webp), [흑꼬리도요](img/aves/limosa-limosa.webp), [마도요](img/aves/numenius-arquata.webp), [알락꼬리마도요](img/aves/numenius-madagascariensis.webp), [중부리도요](img/aves/numenius-phaeopus.webp), [지느러미발도요](img/aves/phalaropus-lobatus.webp), [개꿩](img/aves/pluvialis-squatarola.webp), [검은목논병아리](img/aves/podiceps-nigricollis.webp)
+- 동정 도해: [꼬마물떼새](img/aves/charadrius-dubius.id.webp), [왕눈물떼새](img/aves/charadrius-mongolus.id.webp), [흰목물떼새](img/aves/charadrius-placidus.id.webp), [검은머리물떼새](img/aves/haematopus-ostralegus.id.webp), [검은목논병아리](img/aves/podiceps-nigricollis.id.webp)
+
+## 2026-10-17 · `df484c3` · 1장
 - 동정 도해: [슴새](img/aves/calonectris-leucomelas.id.webp) (다시 그림)
 
 ## 2026-10-17 · `be87da1` · 14장
