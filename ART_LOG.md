@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 237장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 245장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-16 · 7장
+## 2026-10-16 · 8장
+- 도판: [개리](img/aves/anser-cygnoides.webp), [큰부리큰기러기](img/aves/anser-fabalis-middendorffi.webp), [큰고니](img/aves/cygnus-cygnus.webp), [황오리](img/aves/tadorna-ferruginea.webp)
+- 동정 도해: [개리](img/aves/anser-cygnoides.id.webp), [큰고니](img/aves/cygnus-cygnus.id.webp), [노랑눈썹멧새](img/aves/emberiza-chrysophrys.id.webp), [황오리](img/aves/tadorna-ferruginea.id.webp)
+
+## 2026-10-16 · `bb8ce02` · 7장
 - 도판: [귀제비](img/aves/cecropis-daurica.webp) (다시 그림), [노랑눈썹멧새](img/aves/emberiza-chrysophrys.webp), [북방검은머리쑥새](img/aves/emberiza-pallasi.webp), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.webp)
 - 동정 도해: [멧새](img/aves/emberiza-cioides.id.webp), [북방검은머리쑥새](img/aves/emberiza-pallasi.id.webp), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.id.webp)
 
