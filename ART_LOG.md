@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 317장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 338장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 15장
+## 2026-10-17 · 21장
+- 도판: [좀도요](img/aves/calidris-ruficollis.webp), [흰수염바다오리](img/aves/cerorhinca-monocerata.webp), [큰회색머리아비](img/aves/gavia-arctica.webp), [회색머리아비](img/aves/gavia-pacifica.webp), [아비](img/aves/gavia-stellata.webp), [줄무늬노랑발갈매기](img/aves/larus-heuglini.webp), [큰재갈매기](img/aves/larus-schistisagus.webp), [검은머리갈매기](img/aves/saundersilarus-saundersi.webp), [쇠제비갈매기](img/aves/sternula-albifrons.webp)
+- 동정 도해: [붉은가슴도요](img/aves/calidris-canutus.id.webp), [좀도요](img/aves/calidris-ruficollis.id.webp), [흰수염바다오리](img/aves/cerorhinca-monocerata.id.webp), [바늘꼬리도요](img/aves/gallinago-stenura.id.webp), [큰회색머리아비](img/aves/gavia-arctica.id.webp), [회색머리아비](img/aves/gavia-pacifica.id.webp), [아비](img/aves/gavia-stellata.id.webp), [줄무늬노랑발갈매기](img/aves/larus-heuglini.id.webp), [큰재갈매기](img/aves/larus-schistisagus.id.webp), [중부리도요](img/aves/numenius-phaeopus.id.webp), [검은머리갈매기](img/aves/saundersilarus-saundersi.id.webp), [쇠제비갈매기](img/aves/sternula-albifrons.id.webp)
+
+## 2026-10-17 · `db347f3` · 15장
 - 도판: [깝작도요](img/aves/actitis-hypoleucos.webp), [붉은가슴도요](img/aves/calidris-canutus.webp), [송곳부리도요](img/aves/calidris-falcinellus.webp), [노랑발도요](img/aves/tringa-brevipes.webp), [알락도요](img/aves/tringa-glareola.webp), [청다리도요](img/aves/tringa-nebularia.webp), [삑삑도요](img/aves/tringa-ochropus.webp)
 - 동정 도해: [깝작도요](img/aves/actitis-hypoleucos.id.webp), [흑꼬리도요](img/aves/limosa-limosa.id.webp), [지느러미발도요](img/aves/phalaropus-lobatus.id.webp), [개꿩](img/aves/pluvialis-squatarola.id.webp), [노랑발도요](img/aves/tringa-brevipes.id.webp), [알락도요](img/aves/tringa-glareola.id.webp), [청다리도요](img/aves/tringa-nebularia.id.webp), [삑삑도요](img/aves/tringa-ochropus.id.webp)
 
