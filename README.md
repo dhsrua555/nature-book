@@ -36,7 +36,7 @@ tools/nibr_entries.py   종 설명으로 종 파일 만들기(묶음 나누기·
 tools/ENTRY_RULES.md    종 설명 원문으로 항목을 쓸 때의 규칙
 tools/art_profiles.py   그림 프롬프트용 종별 형태 정보 정리(묶음 나누기·검사·합치기)
 tools/ART_RULES.md      종별 형태 정보(art.subject·build·views·avoid)를 쓸 때의 규칙
-tools/ref_photos.py     그릴 때 함께 붙일 그 종의 실제 사진 받기(iNaturalist, 한국 관찰 먼저) → art/ref/photos/
+tools/ref_photos.py     그릴 때 함께 붙일 그 종의 실제 사진 받기(iNaturalist, 한국 관찰 먼저, 새가 크게 찍힌 사진 먼저) → art/ref/photos/
 art/                    삽화 원본·받은 편지함 (git 제외)
 cache/                  받아 둔 원문·작업 묶음 (git 제외)
 draft/                  처음 받은 초안 (git 제외)
