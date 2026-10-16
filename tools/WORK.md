@@ -62,7 +62,7 @@ Work 대화에서 이렇게 부탁하면 된다.
 
 ## Orca 자동화로 돌 때
 
-Orca가 매시간 `uv run tools/auto.py can-draw` 로 확인하고(5시간 잔여 30% 이상 · 주간 잔여 20% 이상 · 그리는 중 아님) 이 지침대로 맡긴다.
+Orca가 20분마다(:00 :20 :40) `uv run tools/auto.py can-draw` 로 확인하고(5시간 잔여 30% 이상 · 주간 잔여 20% 이상 · 그리는 중 아님) 이 지침대로 맡긴다.
 위 절차를 따르되 아래가 우선한다.
 
 1. `uv run tools/illustrate.py queue --limit 8` 로 목록을 받는다(자동화에서는 4 대신 8). 빈 배열이면 아무것도 하지 말고 끝낸다.

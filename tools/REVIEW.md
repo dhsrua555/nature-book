@@ -1,7 +1,7 @@
 # 삽화 검수·커밋 지침 (Claude Code)
 
 Codex가 `tools/WORK.md` 대로 그려 `img/` 에 넣은 그림을 Claude Code가 살펴보고, 맞는 것만 커밋해 `main` 에 올린다.
-Orca 자동화가 `uv run tools/auto.py can-review` 가 0일 때(검수할 그림이 있고 그리는 중이 아님) 맡긴다.
+Orca 자동화가 20분마다(:15 :35 :55, 그리기 사이) `uv run tools/auto.py can-review` 가 0일 때(검수할 그림이 있고 그리는 중이 아님) 맡긴다.
 
 ## 할 일
 
