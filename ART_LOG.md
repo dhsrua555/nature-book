@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 245장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-16 · 8장
+## 2026-10-16 · `1c8b190` · 8장
 - 도판: [개리](img/aves/anser-cygnoides.webp), [큰부리큰기러기](img/aves/anser-fabalis-middendorffi.webp), [큰고니](img/aves/cygnus-cygnus.webp), [황오리](img/aves/tadorna-ferruginea.webp)
 - 동정 도해: [개리](img/aves/anser-cygnoides.id.webp), [큰고니](img/aves/cygnus-cygnus.id.webp), [노랑눈썹멧새](img/aves/emberiza-chrysophrys.id.webp), [황오리](img/aves/tadorna-ferruginea.id.webp)
 

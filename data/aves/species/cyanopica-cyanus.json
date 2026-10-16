@@ -79,12 +79,13 @@
       "adult in flight seen from above, head, body and tail in one line: grey-fawn back between azure-blue wings, white edges to the outer primaries, long blue tail with white-tipped central feathers",
       "juvenile, side view perched: duller black cap, shorter central tail feathers, narrow white tips a few millimetres wide to the tail feathers, whitish tips to the greater coverts"
     ],
-    "build": "Slim, long-tailed corvid, 37cm, of which the tail is roughly half; body about the size of a Brown-eared Bulbul and far smaller than the Oriental Magpie. Bill short, straight, black, shorter than the head. Legs medium length, black. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail long and strongly graduated (wedge-shaped). Moves in noisy flocks, flying one after another with fast wingbeats and glides.",
+    "build": "Slim, sleek, long-tailed corvid, 37cm, of which the tail is roughly half; the body is slender, no bigger than a Brown-eared Bulbul's, with a small rounded head and a smooth tapering outline, and far smaller than the Oriental Magpie. Bill short, straight, black, shorter than the head. Legs medium length, black. Wings short and rounded; at rest the wingtips reach only the base of the tail. Tail long and strongly graduated (wedge-shaped). Moves in noisy flocks, flying one after another with fast wingbeats and glides.",
     "avoid": [
       "Do not paint a black-and-white body with a black tail — that is Oriental Magpie (Pica serica).",
       "Do not paint a crest or a black mask under a pale crown; the smooth black cap covers the whole top of the head and the eye.",
       "Do not paint deep royal-blue wings; the blue is pale azure.",
-      "Do not paint the cap dark blue or the throat grey; the cap is black and the throat clean white."
+      "Do not paint the cap dark blue or the throat grey; the cap is black and the throat clean white.",
+      "Do not paint a plump, round-bodied, thrush-like bird; the body is slender and the long tail makes up half the length."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
