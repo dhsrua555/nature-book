@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 230장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 237장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-16 · 8장
+## 2026-10-16 · 7장
+- 도판: [귀제비](img/aves/cecropis-daurica.webp) (다시 그림), [노랑눈썹멧새](img/aves/emberiza-chrysophrys.webp), [북방검은머리쑥새](img/aves/emberiza-pallasi.webp), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.webp)
+- 동정 도해: [멧새](img/aves/emberiza-cioides.id.webp), [북방검은머리쑥새](img/aves/emberiza-pallasi.id.webp), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.id.webp)
+
+## 2026-10-16 · `b367252` · 8장
 - 도판: [밭종다리](img/aves/anthus-rubescens.webp), [콩새](img/aves/coccothraustes-coccothraustes.webp), [멧새](img/aves/emberiza-cioides.webp), [검은턱할미새](img/aves/motacilla-alba-ocularis.webp)
 - 동정 도해: [밭종다리](img/aves/anthus-rubescens.id.webp), [콩새](img/aves/coccothraustes-coccothraustes.id.webp), [검은턱할미새](img/aves/motacilla-alba-ocularis.id.webp), [노랑할미새](img/aves/motacilla-cinerea.id.webp)
 
