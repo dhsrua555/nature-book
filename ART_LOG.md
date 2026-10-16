@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 366장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 387장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 7장
+## 2026-10-17 · 21장
+- 도판: [수리부엉이](img/aves/bubo-bubo.webp), [말똥가리](img/aves/buteo-japonicus.webp), [까막딱다구리](img/aves/dryocopus-martius.webp), [매](img/aves/falco-peregrinus.webp), [새호리기](img/aves/falco-subbuteo.webp), [황조롱이](img/aves/falco-tinnunculus.webp), [솔부엉이](img/aves/ninox-scutulata.webp), [큰소쩍새](img/aves/otus-bakkamoena.webp), [소쩍새](img/aves/otus-sunia.webp), [할미새사촌](img/aves/pericrocotus-divaricatus.webp), [팔색조](img/aves/pitta-nympha.webp), [후투티](img/aves/upupa-epops.webp)
+- 동정 도해: [수리부엉이](img/aves/bubo-bubo.id.webp), [까막딱다구리](img/aves/dryocopus-martius.id.webp), [매](img/aves/falco-peregrinus.id.webp), [새호리기](img/aves/falco-subbuteo.id.webp), [황조롱이](img/aves/falco-tinnunculus.id.webp), [큰소쩍새](img/aves/otus-bakkamoena.id.webp), [소쩍새](img/aves/otus-sunia.id.webp), [팔색조](img/aves/pitta-nympha.id.webp), [후투티](img/aves/upupa-epops.id.webp)
+
+## 2026-10-17 · `4d7ab3f` · 7장
 - 도판: [참매](img/aves/accipiter-gentilis.webp), [새매](img/aves/accipiter-nisus.webp), [붉은배새매](img/aves/accipiter-soloensis.webp)
 - 동정 도해: [참매](img/aves/accipiter-gentilis.id.webp), [새매](img/aves/accipiter-nisus.id.webp), [붉은배새매](img/aves/accipiter-soloensis.id.webp), [황로](img/aves/bubulcus-ibis.id.webp)
 
