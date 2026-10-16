@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 214장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-16 · 7장
+## 2026-10-16 · `d573066` · 7장
 - 도판: [바다직박구리](img/aves/monticola-solitarius.webp), [검은딱새](img/aves/saxicola-torquatus.webp), [찌르레기](img/aves/sturnus-cineraceus.webp) (다시 그림)
 - 동정 도해: [흰눈썹황금새](img/aves/ficedula-zanthopygia.id.webp), [바다직박구리](img/aves/monticola-solitarius.id.webp), [검은딱새](img/aves/saxicola-torquatus.id.webp), [찌르레기](img/aves/sturnus-cineraceus.id.webp) (다시 그림)
 
