@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 253장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 261장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-16 · 8장
+- 도판: [쏙독새](img/aves/caprimulgus-jotaka.webp), [바늘꼬리칼새](img/aves/hirundapus-caudacutus.webp), [흰비오리](img/aves/mergellus-albellus.webp), [바다비오리](img/aves/mergus-serrator.webp)
+- 동정 도해: [흰뺨오리](img/aves/bucephala-clangula.id.webp), [쏙독새](img/aves/caprimulgus-jotaka.id.webp), [흰비오리](img/aves/mergellus-albellus.id.webp), [바다비오리](img/aves/mergus-serrator.id.webp)
 
 ## 2026-10-16 · `45dcaa4` · 8장
 - 도판: [댕기흰죽지](img/aves/aythya-fuligula.webp), [흰뺨오리](img/aves/bucephala-clangula.webp), [청머리오리](img/aves/mareca-falcata.webp), [넓적부리](img/aves/spatula-clypeata.webp)
