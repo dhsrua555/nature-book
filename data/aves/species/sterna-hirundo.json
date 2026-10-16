@@ -50,14 +50,15 @@
     "scene": "Korean estuary where a river meets the sea, tidal channels and sandbars; no people, buildings or text",
     "views": [
       "adult breeding, side view perched on a post: black cap from forehead to nape, white cheeks and throat, pale grey back and wings, breast and belly washed pale grey below the white cheek band, white undertail coverts, forked tail reaching about the wingtips, black bill, short dark legs",
-      "adult in flight seen from below, head, body and tail in one line: pale grey breast and belly, white undertail coverts and axillaries, pale underwing with a dark trailing edge to the outer primaries, deeply forked white tail, black bill"
+      "adult in flight seen from below, head, body and tail in one line, gliding with the typical crooked tern wing: the inner wing straight out to the side from the body and the long, narrow outer wing angled back from the wrist; pale grey breast and belly, white undertail coverts and axillaries, pale underwing with a dark trailing edge to the outer primaries, deeply forked white tail, black bill"
     ],
-    "build": "Medium-sized, slender tern, 35.5cm including the tail streamers, slimmer and much lighter than a Black-headed Gull; long, narrow, pointed wings and a deeply forked tail. Bill straight and sharply pointed, about as long as the head. Legs short, dark reddish-brown. At rest the tail streamers reach about the wingtips, not beyond. In flight from above pale grey wings with a darker grey wedge on the outer primaries; from below a dark trailing edge to the outer primaries. Hovers and plunge-dives for small fish.",
+    "build": "Medium-sized, slender tern, 35.5cm including the tail streamers, slimmer and much lighter than a Black-headed Gull; long, narrow, pointed wings, held in flight with the inner wing straight out to the side and the outer wing swept back from a marked bend at the wrist, and a deeply forked tail. Bill straight and sharply pointed, about as long as the head. Legs short, dark reddish-brown. At rest the tail streamers reach about the wingtips, not beyond. In flight from above pale grey wings with a darker grey wedge on the outer primaries; from below a dark trailing edge to the outer primaries. Hovers and plunge-dives for small fish.",
     "avoid": [
       "Do not paint a bright orange-red bill; East Asian Common Terns (longipennis) have a blackish bill.",
       "Do not paint a white forehead with a yellow bill — that is Little Tern (Sternula albifrons).",
       "Do not paint tail streamers projecting far beyond the wingtips at rest.",
-      "Do not paint a shaggy crest (crested terns)."
+      "Do not paint a shaggy crest (crested terns).",
+      "Do not paint straight, stiff wings raised in a V in flight; the wing bends back at the wrist."
     ],
     "confidence": "medium",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",
