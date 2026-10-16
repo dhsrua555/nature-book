@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 269장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 283장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-17 · 14장
+- 도판: [칼새](img/aves/apus-pacificus.webp) (다시 그림), [민물도요](img/aves/calidris-alpina.webp) (다시 그림), [두루미](img/aves/grus-japonensis.webp), [재두루미](img/aves/grus-vipio.webp), [바늘꼬리칼새](img/aves/hirundapus-caudacutus.webp) (다시 그림), [붉은머리오목눈이](img/aves/suthora-webbiana.webp) (다시 그림), [논병아리](img/aves/tachybaptus-ruficollis.webp)
+- 동정 도해: [칼새](img/aves/apus-pacificus.id.webp) (다시 그림), [민물도요](img/aves/calidris-alpina.id.webp) (다시 그림), [슴새](img/aves/calonectris-leucomelas.id.webp) (다시 그림), [두루미](img/aves/grus-japonensis.id.webp), [재두루미](img/aves/grus-vipio.id.webp), [제비갈매기](img/aves/sterna-hirundo.id.webp) (다시 그림), [논병아리](img/aves/tachybaptus-ruficollis.id.webp)
 
 ## 2026-10-16 · `bb2b40a` · 8장
 - 도판: [검은등뻐꾸기](img/aves/cuculus-micropterus.webp), [두견](img/aves/cuculus-poliocephalus.webp), [쇠물닭](img/aves/gallinula-chloropus.webp), [매사촌](img/aves/hierococcyx-hyperythrus.webp)
