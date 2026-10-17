@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 406장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 428장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 19장
+## 2026-10-17 · 22장
+- 도판: [쇠개개비](img/aves/acrocephalus-bistrigiceps.webp), [개개비사촌](img/aves/cisticola-juncidis.webp), [북방개개비](img/aves/locustella-certhiola.webp), [쥐발귀개개비](img/aves/locustella-lanceolata.webp), [섬개개비](img/aves/locustella-pleskei.webp), [쇠솔새](img/aves/phylloscopus-borealis.webp), [솔새사촌](img/aves/phylloscopus-fuscatus.webp), [노랑허리솔새](img/aves/phylloscopus-proregulus.webp), [되솔새](img/aves/phylloscopus-tenellipes.webp), [갈색제비](img/aves/riparia-riparia.webp), [흰눈썹붉은배지빠귀](img/aves/turdus-obscurus.webp), [한국동박새](img/aves/zosterops-erythropleurus.webp)
+- 동정 도해: [쇠개개비](img/aves/acrocephalus-bistrigiceps.id.webp), [송곳부리도요](img/aves/calidris-falcinellus.id.webp), [개개비사촌](img/aves/cisticola-juncidis.id.webp), [쥐발귀개개비](img/aves/locustella-lanceolata.id.webp), [섬개개비](img/aves/locustella-pleskei.id.webp), [쇠솔새](img/aves/phylloscopus-borealis.id.webp), [노랑허리솔새](img/aves/phylloscopus-proregulus.id.webp), [되솔새](img/aves/phylloscopus-tenellipes.id.webp), [갈색제비](img/aves/riparia-riparia.id.webp), [한국동박새](img/aves/zosterops-erythropleurus.id.webp)
+
+## 2026-10-17 · `a5aa560` · 19장
 - 도판: [홍여새](img/aves/bombycilla-japonica.webp), [까마귀](img/aves/corvus-corone.webp), [갈까마귀](img/aves/corvus-dauuricus.webp), [휘파람새](img/aves/horornis-canturians.webp), [노랑때까치](img/aves/lanius-cristatus.webp), [칡때까치](img/aves/lanius-tigrinus.webp), [검은이마직박구리](img/aves/pycnonotus-sinensis.webp), [스윈호오목눈이](img/aves/remiz-pendulinus.webp), [긴꼬리딱새](img/aves/terpsiphone-atrocaudata.webp)
 - 동정 도해: [홍여새](img/aves/bombycilla-japonica.id.webp), [까마귀](img/aves/corvus-corone.id.webp), [갈까마귀](img/aves/corvus-dauuricus.id.webp), [휘파람새](img/aves/horornis-canturians.id.webp), [노랑때까치](img/aves/lanius-cristatus.id.webp), [칡때까치](img/aves/lanius-tigrinus.id.webp), [할미새사촌](img/aves/pericrocotus-divaricatus.id.webp), [검은이마직박구리](img/aves/pycnonotus-sinensis.id.webp), [스윈호오목눈이](img/aves/remiz-pendulinus.id.webp), [긴꼬리딱새](img/aves/terpsiphone-atrocaudata.id.webp)
 
