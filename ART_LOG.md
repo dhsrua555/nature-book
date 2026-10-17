@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 428장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 443장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 22장
+## 2026-10-17 · 15장
+- 도판: [진홍가슴](img/aves/calliope-calliope.webp), [물까마귀](img/aves/cinclus-pallasii.webp), [노랑딱새](img/aves/ficedula-mugimaki.webp), [울새](img/aves/larvivora-sibilans.webp), [검은등할미새](img/aves/motacilla-grandis.webp), [제비딱새](img/aves/muscicapa-griseisticta.webp)
+- 동정 도해: [진홍가슴](img/aves/calliope-calliope.id.webp), [물까마귀](img/aves/cinclus-pallasii.id.webp), [노랑딱새](img/aves/ficedula-mugimaki.id.webp), [울새](img/aves/larvivora-sibilans.id.webp), [북방개개비](img/aves/locustella-certhiola.id.webp), [백할미새](img/aves/motacilla-alba-lugens.id.webp), [검은등할미새](img/aves/motacilla-grandis.id.webp), [제비딱새](img/aves/muscicapa-griseisticta.id.webp), [흰눈썹붉은배지빠귀](img/aves/turdus-obscurus.id.webp)
+
+## 2026-10-17 · `3146735` · 22장
 - 도판: [쇠개개비](img/aves/acrocephalus-bistrigiceps.webp), [개개비사촌](img/aves/cisticola-juncidis.webp), [북방개개비](img/aves/locustella-certhiola.webp), [쥐발귀개개비](img/aves/locustella-lanceolata.webp), [섬개개비](img/aves/locustella-pleskei.webp), [쇠솔새](img/aves/phylloscopus-borealis.webp), [솔새사촌](img/aves/phylloscopus-fuscatus.webp), [노랑허리솔새](img/aves/phylloscopus-proregulus.webp), [되솔새](img/aves/phylloscopus-tenellipes.webp), [갈색제비](img/aves/riparia-riparia.webp), [흰눈썹붉은배지빠귀](img/aves/turdus-obscurus.webp), [한국동박새](img/aves/zosterops-erythropleurus.webp)
 - 동정 도해: [쇠개개비](img/aves/acrocephalus-bistrigiceps.id.webp), [송곳부리도요](img/aves/calidris-falcinellus.id.webp), [개개비사촌](img/aves/cisticola-juncidis.id.webp), [쥐발귀개개비](img/aves/locustella-lanceolata.id.webp), [섬개개비](img/aves/locustella-pleskei.id.webp), [쇠솔새](img/aves/phylloscopus-borealis.id.webp), [노랑허리솔새](img/aves/phylloscopus-proregulus.id.webp), [되솔새](img/aves/phylloscopus-tenellipes.id.webp), [갈색제비](img/aves/riparia-riparia.id.webp), [한국동박새](img/aves/zosterops-erythropleurus.id.webp)
 
