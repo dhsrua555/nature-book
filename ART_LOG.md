@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 459장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 477장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-19 · 18장
+- 도판: [참매](img/aves/accipiter-gentilis.webp) (다시 그림), [조롱이](img/aves/accipiter-gularis.webp) (다시 그림), [말똥가리](img/aves/buteo-japonicus.webp) (다시 그림), [붉은어깨도요](img/aves/calidris-tenuirostris.webp) (다시 그림), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.webp) (다시 그림), [벌매](img/aves/pernis-ptilorhynchus.webp) (다시 그림)
+- 동정 도해: [참매](img/aves/accipiter-gentilis.id.webp) (다시 그림), [조롱이](img/aves/accipiter-gularis.id.webp), [큰부리큰기러기](img/aves/anser-fabalis-middendorffi.id.webp), [말똥가리](img/aves/buteo-japonicus.id.webp), [붉은가슴도요](img/aves/calidris-canutus.id.webp) (다시 그림), [붉은어깨도요](img/aves/calidris-tenuirostris.id.webp) (다시 그림), [쇠붉은뺨멧새](img/aves/emberiza-pusilla.id.webp) (다시 그림), [큰회색머리아비](img/aves/gavia-arctica.id.webp) (다시 그림), [섬휘파람새](img/aves/horornis-diphone.id.webp), [솔부엉이](img/aves/ninox-scutulata.id.webp), [벌매](img/aves/pernis-ptilorhynchus.id.webp), [청다리도요](img/aves/tringa-nebularia.id.webp) (다시 그림)
 
 ## 2026-10-19 · `9c9d2b9` · 16장
 - 도판: [붉은가슴밭종다리](img/aves/anthus-cervinus.webp), [흰등밭종다리](img/aves/anthus-gustavi.webp), [긴발톱멧새](img/aves/calcarius-lapponicus.webp), [양진이](img/aves/carpodacus-roseus.webp), [흰배멧새](img/aves/emberiza-tristrami.webp), [밀화부리](img/aves/eophona-migratoria.webp), [백할미새](img/aves/motacilla-alba-lugens.webp), [멋쟁이새](img/aves/pyrrhula-pyrrhula.webp), [긴꼬리홍양진이](img/aves/uragus-sibiricus.webp)
