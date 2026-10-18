@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 459장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 16장
+## 2026-10-19 · `9c9d2b9` · 16장
 - 도판: [붉은가슴밭종다리](img/aves/anthus-cervinus.webp), [흰등밭종다리](img/aves/anthus-gustavi.webp), [긴발톱멧새](img/aves/calcarius-lapponicus.webp), [양진이](img/aves/carpodacus-roseus.webp), [흰배멧새](img/aves/emberiza-tristrami.webp), [밀화부리](img/aves/eophona-migratoria.webp), [백할미새](img/aves/motacilla-alba-lugens.webp), [멋쟁이새](img/aves/pyrrhula-pyrrhula.webp), [긴꼬리홍양진이](img/aves/uragus-sibiricus.webp)
 - 동정 도해: [붉은가슴밭종다리](img/aves/anthus-cervinus.id.webp), [흰등밭종다리](img/aves/anthus-gustavi.id.webp), [긴발톱멧새](img/aves/calcarius-lapponicus.id.webp), [양진이](img/aves/carpodacus-roseus.id.webp), [밀화부리](img/aves/eophona-migratoria.id.webp), [멋쟁이새](img/aves/pyrrhula-pyrrhula.id.webp), [긴꼬리홍양진이](img/aves/uragus-sibiricus.id.webp)
 

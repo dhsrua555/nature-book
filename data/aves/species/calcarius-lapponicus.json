@@ -41,9 +41,9 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Lapland Longspur (Calcarius lapponicus), adult male in winter (non-breeding) plumage, as seen on Korean fields and grassy hills from November to March: crown streaked brown and black with a paler central stripe; broad buff supercilium and buff face; ear coverts framed by a blackish border with a dark spot at the rear corner; chestnut nape partly veiled by buff tips; throat whitish; a mottled black patch across the upper breast; mantle and back brown streaked black and buff; greater coverts edged rufous, forming a chestnut panel between two thin white wing-bars; underparts buffy-white with bold black streaks on the flanks; tail dark brown with white outer feathers. Bill short and conical, yellowish-pink with a dark tip; iris dark brown; legs dark brown.",
-    "pose": "walking on short grass, picking up seeds",
-    "scene": "Korean winter: short-grass field on low rolling hills with scattered shrubs; no people, buildings or text",
+    "subject": "Lapland Longspur (Calcarius lapponicus), adult male in breeding plumage, as seen in Korea just before it leaves in late March and April: crown, face, chin, throat and upper breast solid black; a buff-white stripe running from behind the eye down the side of the neck to the breast side, framing the black face; nape and hindneck bright chestnut; mantle and back brown streaked black and buff; greater coverts edged rufous, forming a chestnut panel between two thin white wing-bars; rest of the underparts white with bold black streaks on the flanks; tail dark brown with white outer feathers. Bill short and conical, yellow with a dark tip; iris dark brown; legs dark brown.",
+    "pose": "standing upright on a low tussock in side view, head raised, showing the black face, chestnut nape and black bib",
+    "scene": "Korean early spring in late March: short-grass field and dry farmland on low hills near the west coast, pale fresh green just appearing; no people, buildings or text",
     "views": [
       "adult male winter, side view walking on the ground: streaked brown crown, buff face with dark-bordered ear coverts, partly veiled chestnut nape, mottled black upper-breast patch, rufous panel between two white wing-bars, buffy-white underparts with bold black flank streaks, brown back streaked black",
       "adult male breeding (worn only from late spring, rarely seen in Korea), side view standing: solid black crown, face, chin, throat and upper breast, buff-white stripe from behind the eye down the neck side, bright chestnut nape, yellow bill",
@@ -51,7 +51,7 @@
     ],
     "build": "Stocky, ground-dwelling bunting-like bird, 15cm, slightly larger than a sparrow, with a flattish crown and short neck. Bill short and conical, shorter than the head. Legs short and dark; the hind claw is very long and straight. Walks and shuffles on the ground rather than hopping, often crouched low in short grass. Wings long, with the primaries projecting well beyond the tertials at rest. Tail fairly short, notched, dark with white outer feathers. Flies in flocks with an undulating flight.",
     "avoid": [
-      "Do not paint the solid black face and bib on the winter scene bird; that is breeding plumage, worn from late spring to summer.",
+      "Do not mix the plumages: the breeding male has a clean solid black face and bib; the winter male only a mottled black breast patch and a buff face.",
       "Do not show it hopping; it walks and shuffles on the ground.",
       "Do not give it large white wing patches like Snow Bunting, or any yellow on the throat.",
       "Do not omit the rufous wing panel and the chestnut nape."
