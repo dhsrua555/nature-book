@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 523장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 539장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 7장
+## 2026-10-19 · 16장
+- 도판: [꼬까도요](img/aves/arenaria-interpres.webp), [꺅도요](img/aves/gallinago-gallinago.webp), [꺅도요사촌](img/aves/gallinago-megala.webp), [장다리물떼새](img/aves/himantopus-himantopus.webp), [검은가슴물떼새](img/aves/pluvialis-fulva.webp), [멧도요](img/aves/scolopax-rusticola.webp), [쇠청다리도요](img/aves/tringa-stagnatilis.webp), [붉은발도요](img/aves/tringa-totanus.webp), [댕기물떼새](img/aves/vanellus-vanellus.webp)
+- 동정 도해: [꺅도요](img/aves/gallinago-gallinago.id.webp), [꺅도요사촌](img/aves/gallinago-megala.id.webp), [장다리물떼새](img/aves/himantopus-himantopus.id.webp), [검은가슴물떼새](img/aves/pluvialis-fulva.id.webp), [멧도요](img/aves/scolopax-rusticola.id.webp), [쇠청다리도요](img/aves/tringa-stagnatilis.id.webp), [붉은발도요](img/aves/tringa-totanus.id.webp)
+
+## 2026-10-19 · `bfe67fb` · 7장
 - 도판: [흑비둘기](img/aves/columba-janthina.webp), [메추라기](img/aves/coturnix-japonica.webp), [큰논병아리](img/aves/podiceps-grisegena.webp)
 - 동정 도해: [흑비둘기](img/aves/columba-janthina.id.webp), [메추라기](img/aves/coturnix-japonica.id.webp), [흰줄박이오리](img/aves/histrionicus-histrionicus.id.webp), [큰논병아리](img/aves/podiceps-grisegena.id.webp)
 
