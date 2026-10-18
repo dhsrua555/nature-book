@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 516장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 523장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 18장
+## 2026-10-19 · 7장
+- 도판: [흑비둘기](img/aves/columba-janthina.webp), [메추라기](img/aves/coturnix-japonica.webp), [큰논병아리](img/aves/podiceps-grisegena.webp)
+- 동정 도해: [흑비둘기](img/aves/columba-janthina.id.webp), [메추라기](img/aves/coturnix-japonica.id.webp), [흰줄박이오리](img/aves/histrionicus-histrionicus.id.webp), [큰논병아리](img/aves/podiceps-grisegena.id.webp)
+
+## 2026-10-19 · `6bbfdc3` · 18장
 - 도판: [긴발톱멧새](img/aves/calcarius-lapponicus.webp) (다시 그림), [물까마귀](img/aves/cinclus-pallasii.webp) (다시 그림), [꼬까참새](img/aves/emberiza-rutila.webp), [검은머리쑥새](img/aves/emberiza-schoeniclus.webp), [흰줄박이오리](img/aves/histrionicus-histrionicus.webp), [검둥오리](img/aves/melanitta-americana.webp), [검둥오리사촌](img/aves/melanitta-stejnegeri.webp), [호사비오리](img/aves/mergus-squamatus.webp), [발구지](img/aves/spatula-querquedula.webp)
 - 동정 도해: [물까마귀](img/aves/cinclus-pallasii.id.webp) (다시 그림), [꼬까참새](img/aves/emberiza-rutila.id.webp), [검은머리쑥새](img/aves/emberiza-schoeniclus.id.webp), [흰배멧새](img/aves/emberiza-tristrami.id.webp), [검둥오리](img/aves/melanitta-americana.id.webp), [검둥오리사촌](img/aves/melanitta-stejnegeri.id.webp), [호사비오리](img/aves/mergus-squamatus.id.webp), [백할미새](img/aves/motacilla-alba-lugens.id.webp) (다시 그림), [발구지](img/aves/spatula-querquedula.id.webp)
 
