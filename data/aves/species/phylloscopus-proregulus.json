@@ -48,12 +48,13 @@
       "adult, side view perched on a conifer twig: pale yellow crown stripe, long yellow supercilium over a dark eye-stripe, dark olive upperparts, two yellowish wing-bars, pale-edged tertials, yellowish-white underparts",
       "adult, seen from above while hovering at a twig with wings spread: pale yellow central crown stripe between dark lateral stripes, olive back, lemon-yellow rump patch, double wing-bars, head, body and tail in line"
     ],
-    "build": "Tiny, round, large-headed leaf warbler, about 9cm — the smallest of the Phylloscopus warblers, Goldcrest-sized and much smaller than a sparrow. Bill very short and fine. Legs thin. Wings short; tail short and slightly notched, so the bird looks compact and ball-shaped. Extremely active in the outer twigs of conifer and broadleaf crowns, often hovering at leaf tips, when the yellow rump flashes.",
+    "build": "Tiny, compact, large-headed leaf warbler, about 9cm — the smallest of the Phylloscopus warblers, Goldcrest-sized and much smaller than a sparrow. Bill very short and fine. Legs thin. Wings short; tail short and slightly notched, so the bird looks compact but not ball-shaped or fat. Extremely active in the outer twigs of conifer and broadleaf crowns, often hovering at leaf tips, when the yellow rump flashes.",
     "avoid": [
       "Do not omit the pale lemon-yellow rump patch; it is the mark behind the Korean name.",
       "Do not leave the crown plain — Yellow-browed Warbler (Phylloscopus inornatus) lacks the clear central crown stripe this species has.",
       "Do not paint the black-bordered orange-yellow crown patch and plain face of Goldcrest (Regulus regulus).",
-      "Do not paint it long-tailed or as large as a sparrow."
+      "Do not paint it long-tailed or as large as a sparrow.",
+      "Do not paint a fat, round-bodied bird; it is tiny and neat."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",

@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 443장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-17 · 15장
+## 2026-10-17 · `5f1bc1b` · 15장
 - 도판: [진홍가슴](img/aves/calliope-calliope.webp), [물까마귀](img/aves/cinclus-pallasii.webp), [노랑딱새](img/aves/ficedula-mugimaki.webp), [울새](img/aves/larvivora-sibilans.webp), [검은등할미새](img/aves/motacilla-grandis.webp), [제비딱새](img/aves/muscicapa-griseisticta.webp)
 - 동정 도해: [진홍가슴](img/aves/calliope-calliope.id.webp), [물까마귀](img/aves/cinclus-pallasii.id.webp), [노랑딱새](img/aves/ficedula-mugimaki.id.webp), [울새](img/aves/larvivora-sibilans.id.webp), [북방개개비](img/aves/locustella-certhiola.id.webp), [백할미새](img/aves/motacilla-alba-lugens.id.webp), [검은등할미새](img/aves/motacilla-grandis.id.webp), [제비딱새](img/aves/muscicapa-griseisticta.id.webp), [흰눈썹붉은배지빠귀](img/aves/turdus-obscurus.id.webp)
 

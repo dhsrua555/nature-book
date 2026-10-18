@@ -57,14 +57,14 @@
     "scene": "shady scrub and broadleaf woodland on a slope of a southern Korean island such as Jeju in early summer; no people, buildings or text",
     "views": [
       "adult, side view on the ground: brown crown with a black central stripe, buff supercilium, black face band, white throat, blue-green back, azure shoulder, buff breast and flanks, red lower belly, long pinkish legs",
-      "adult, back view on the ground: blue-green back, bright blue lower rump, black uppertail coverts tipped blue, very short tail"
+      "adult, back view on the ground: blue-green back, bright blue lower rump, black uppertail coverts tipped blue, short tail projecting beyond the wingtips"
     ],
-    "build": "Small, plump, upright ground bird, about 18cm, about the length of a Common Starling but much rounder, with a big head, a stout black bill a little shorter than the head, a very short stubby tail and long pinkish legs. Walks and hops over the leaf litter. Wings short and rounded; in flight a white patch shows at the base of the primaries.",
+    "build": "Small, compact, upright ground bird, sleek rather than ball-shaped, about 18cm, about the length of a Common Starling but much rounder, with a big head, a stout black bill a little shorter than the head, a short tail that still projects clearly beyond the folded wingtips and long pinkish legs. Walks and hops over the leaf litter. Wings short and rounded; in flight a white patch shows at the base of the primaries.",
     "avoid": [
-      "Do not paint a long tail; the tail is very short and stubby.",
+      "Do not paint a long tail; it is short, but still projects clearly beyond the folded wings.",
       "Do not paint the whole underparts red; the breast and flanks are buff and only the lower belly and vent are red.",
       "Do not paint a black crown; the crown is brown with a black central stripe and a buff supercilium.",
-      "Do not make it large or slim; it is a plump, starling-sized ground bird."
+      "Do not make it large or ball-shaped; it is a compact, sleek, starling-sized ground bird."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"

@@ -64,7 +64,8 @@
       "Do not paint a brick-red face and breast — that is Red Knot (Calidris canutus); the Great Knot's breast is black-spotted on white.",
       "Do not paint the whole back rufous; the rufous is limited to the scapulars.",
       "Do not paint a short bill; it is clearly longer than the head, unlike Red Knot's.",
-      "Do not paint yellow or orange legs."
+      "Do not paint yellow or orange legs.",
+      "Do not paint a dark eye-stripe through the eye or a pale supercilium; the head is evenly streaked with no eye-line."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"

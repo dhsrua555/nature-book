@@ -57,12 +57,13 @@
       "adult, in flight seen from below: greyish-white collar, breast and belly contrasting with the black head, throat, underwings and undertail coverts; square black tail; head, body and tail in line",
       "first-winter, side view perched: almost entirely sooty black with little gloss, silvery-grey streaks on the rear ear-coverts, dark eye, short stubby black bill"
     ],
-    "build": "Small, compact crow, 33cm — about the length of a feral pigeon and far smaller than a Carrion Crow, with a round head, steep forehead and short neck. Bill black, short and stubby, about half the length of the head, straight with a gently curved culmen. Legs black, medium length; walks briskly over fields. At rest the wingtips reach close to the tail tip. Tail medium-length and square-ended. Flies with quick, pigeon-like wingbeats, often in flocks mixed with Rooks; from below in flight the pale collar and belly contrast with the black head, underwings and vent.",
+    "build": "Small, sleek crow, 33cm — about the length of a feral pigeon and far smaller than a Carrion Crow, with a round head, steep forehead and short neck. Bill black, short and stubby, about half the length of the head, straight with a gently curved culmen. Legs black, medium length; walks briskly over fields. At rest the wingtips reach close to the tail tip. Tail medium-length and square-ended. Flies with quick, pigeon-like wingbeats, often in flocks mixed with Rooks; from below in flight the pale collar and belly contrast with the black head, underwings and vent.",
     "avoid": [
       "Do not paint a pale whitish iris — that is Western Jackdaw (Corvus monedula); the Daurian Jackdaw has a dark eye.",
       "Do not make the adult's underparts dark grey; the collar, breast and belly are a clean, contrasting greyish-white.",
       "Do not paint a long, heavy crow bill or a crow-sized body; the bill is short and stubby and the bird pigeon-sized.",
-      "Do not paint a bare whitish face at the bill base (adult Rook, Corvus frugilegus)."
+      "Do not paint a bare whitish face at the bill base (adult Rook, Corvus frugilegus).",
+      "Do not paint a plump, round-bodied bird; it is a slim, neat little crow."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
