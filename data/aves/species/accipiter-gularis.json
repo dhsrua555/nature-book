@@ -31,7 +31,28 @@
     "note": "5월 무렵 알을 낳는다."
   },
   "summary": "작은 새나 곤충 등을 주로 먹는다. 울창한 숲속에 둥지를 틀고 5월 무렵 알 2개를 낳는다. 산지가 훼손되어 사는 곳이 파괴되는 것이 가장 큰 위협이다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "붉은 홍채(수컷)",
+      "en": "deep red iris (male)"
+    },
+    {
+      "ko": "흰 멱의 가는 검은 세로줄",
+      "en": "white throat with a thin dark mesial stripe"
+    },
+    {
+      "ko": "짙은 청회색 윗면",
+      "en": "dark slate-grey upperparts"
+    },
+    {
+      "ko": "주황빛 가슴과 옆구리",
+      "en": "orange-buff breast and flanks"
+    },
+    {
+      "ko": "가로줄 있는 흰 날개 아랫면",
+      "en": "whitish underwing with dark-barred flight feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -42,7 +63,10 @@
     "subject": "Japanese Sparrowhawk (Accipiter gularis), adult male, as seen in Korean forests in late spring: crown, nape, back and upperwings dark slate-grey; face grey; throat white with a thin, faint dark central (mesial) stripe; breast and flanks washed warm orange-buff, clearly coloured rather than white, with faint fine barring; belly and undertail coverts white. Tail grey with several distinct dark cross-bands. Underwing whitish with dark barring on the flight feathers. Iris deep red; cere yellow; bill short, dark and sharply hooked; legs long and thin, yellow, with long slender toes.",
     "pose": "perched on a branch inside dense forest, side view",
     "scene": "dense Korean forest interior in late spring; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched on a branch: dark slate-grey upperparts, grey face, deep red iris, yellow cere, white throat with a thin dark mesial stripe, orange-buff breast and flanks with faint fine barring, white belly and undertail coverts, short wings falling well short of the dark-banded grey tail, long thin yellow legs",
+      "adult male, in flight seen squarely from below: short, rounded wings spread straight out to the sides to their full span, about twice the body length, whitish underwing with dark-barred flight feathers and no black tips, white throat, orange-buff breast and flanks, white vent, dark-banded grey tail, yellow feet tucked under the tail"
+    ],
     "build": "Very small hawk, smaller than a Feral Pigeon and lightly built, about the length of a Brown-eared Bulbul but stockier; the smallest Accipiter in Korea. Rounded head with no crest. Short, rounded wings whose tips fall well short of the tail tip at rest. Tail medium-long and square-ended, grey with several distinct dark cross-bands. Legs long and very thin for the size. Moves through dense forest and darts out after small birds; flight is quick flaps and short glides.",
     "avoid": [
       "Do not paint a plain whitish underwing with black tips and a swollen orange cere (Chinese Sparrowhawk).",
@@ -76,7 +100,9 @@
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
+  ],
   "occurrence": {
     "code": "P3, R4",
     "bs": "1",

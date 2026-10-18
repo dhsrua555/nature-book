@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "희끄무레한 이마와 눈앞",
+      "en": "whitish forehead and lores"
+    },
+    {
+      "ko": "또렷한 흰 멱",
+      "en": "sharply defined white throat"
+    },
+    {
+      "ko": "은빛 도는 회갈색 등",
+      "en": "pale silvery grey-brown saddle on the back"
+    },
+    {
+      "ko": "아래꼬리를 감싼 흰 말굽 무늬",
+      "en": "white horseshoe from the rear flanks around the undertail coverts"
+    },
+    {
+      "ko": "끝에 바늘이 나온 짧고 각진 꼬리",
+      "en": "short square tail with needle-like shaft tips"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "White-throated Needletail (Hirundapus caudacutus), adult as seen over Korea on migration in May and September: forehead and lores whitish; crown, face, nape, wings and tail blackish-brown with a faint green gloss; throat clean white, sharply defined; back with a large pale grey-brown, silvery saddle; breast and belly dark brown; a sharply defined white horseshoe running from the rear flanks around the undertail coverts; inner webs of the tertials white, showing as a small white patch near the body on the upperwing; short, square black tail with bare spine-like shaft tips. Tiny black bill; dark eye.",
     "pose": "gliding fast and low over a forested ridge, seen squarely from below: both long, narrow, scythe-shaped wings spread out to the sides and swept back in a crescent from the wrist, white throat, dark brown body, sharply defined white horseshoe around the undertail, short square tail with needle tips, and the small dark feet just visible tucked against the belly",
     "scene": "Korean mountain ridge with mixed forest during spring migration in May, wide sky with scattered clouds; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from below: long, narrow, scythe-shaped wings spread out from the shoulders and swept back from the wrist, whitish forehead, sharply defined white throat, dark brown body, white horseshoe from the rear flanks around the undertail coverts, short square tail with needle tips, small dark feet tucked against the belly",
+      "adult, in flight seen squarely from above: whitish forehead, blackish-brown crown and nape, large pale silvery grey-brown saddle on the back, long scythe-shaped dark wings with a faint green gloss swept back from the wrist, small white tertial patch near the body, dark rump, short square black tail with needle tips"
+    ],
     "build": "Very large, heavy, powerful swift, noticeably bigger and bulkier than the Pacific Swift, with a thick, cigar-shaped body, long scythe-shaped pointed wings and a short, square tail tipped with protruding needle-like shafts. Flies extremely fast, sweeping and gliding on stiff wings, often low over ridges and water. Never perches on branches; in flight the small dark feet are tucked against the belly, just visible from below.",
     "avoid": [
       "Do not paint a forked tail or a white rump band — those mark Pacific Swift; this species has a short square tail and a dark rump.",
@@ -56,7 +80,8 @@
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
   ],
   "occurrence": {
     "code": "P3, S5",

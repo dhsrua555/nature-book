@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "옅은 황백색 머리",
+      "en": "pale buff-white head"
+    },
+    {
+      "ko": "짙은 갈색 윗면",
+      "en": "dark brown upperparts"
+    },
+    {
+      "ko": "배 옆과 옆구리의 큰 암갈색 얼룩",
+      "en": "large dark brown patches on the belly sides and flanks"
+    },
+    {
+      "ko": "날개 아랫면의 짙은 손목 얼룩",
+      "en": "dark carpal patch on the whitish underwing"
+    },
+    {
+      "ko": "가로줄이 흐린 연갈색 꼬리",
+      "en": "pale grey-brown tail with faint fine bars"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Eastern Buzzard (Buteo japonicus), adult of the common pale form, as seen in Korean farmland in winter: head pale buff-white with fine dark streaks on the crown and a thin dark line behind the eye; upperparts warm dark brown with paler buff feather edges; throat and breast pale buff-white, lightly streaked; a large, solid dark brown patch on each side of the belly and flanks, the patches sometimes meeting across the lower belly; thighs dark brown. Tail pale grey-brown to buff, finely and faintly barred. Underwing whitish with a large dark carpal patch, blackish primary tips and a dusky trailing edge. Eye dark brown; cere yellow; bill dark grey with a black hooked tip; legs yellow, bare below the thighs.",
     "pose": "perched upright and alert on a bare branch at a field edge, scanning the ground below",
     "scene": "Korean winter farmland: harvested rice paddies with pale stubble and dry earthen levees, a row of bare trees and low wooded hills, soft low winter light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult pale form, side view perched upright: pale buff-white head with a thin dark line behind the dark eye, yellow cere, warm dark brown upperparts with buff fringes, lightly streaked pale breast, large dark brown patch on the belly side and flank, dark thighs, wingtips nearly reaching the tip of the short, faintly barred tail, bare yellow legs",
+      "adult pale form, in flight seen squarely from below: broad, rounded wings with five fingered primaries spread straight out to their full span, more than twice the body length, whitish underwing with a large dark carpal patch, blackish tips and a dusky trailing edge, dark belly-side patches, short broad pale tail, yellow feet tucked under the tail"
+    ],
     "build": "Medium-large, broad-winged buzzard, about the size of a Large-billed Crow but bulkier; rounded head, short neck and a sleek, well-shaped body, not round or hunched; a fairly large dark eye. Bill short and hooked, much smaller than an eagle's. Legs short and yellow, the tarsi unfeathered. Perches upright and slightly hunched on bare trees and embankments for long periods. At rest the wingtips reach nearly to the tail tip. Tail short and broad, fan-shaped when spread. Soars in wide circles on broad, rounded wings held in a shallow V, with five fingered primaries; sometimes hangs briefly into the wind.",
     "avoid": [
       "Do not paint a white tail with a broad black terminal band or feathered legs — that is Rough-legged Buzzard (Buteo lagopus).",
@@ -56,7 +80,8 @@
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
   ],
   "occurrence": {
     "code": "P3, W3, SV2",

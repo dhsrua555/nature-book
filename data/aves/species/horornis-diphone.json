@@ -28,7 +28,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흐린 황백색 눈썹선과 어두운 눈선",
+      "en": "faint pale buff-white supercilium and dusky eye-stripe"
+    },
+    {
+      "ko": "줄무늬·날개띠 없는 올리브갈색 윗면",
+      "en": "plain olive-brown upperparts with no streaks or wing-bars"
+    },
+    {
+      "ko": "회황갈색 옆구리의 흐린 흰 아랫면",
+      "en": "dull whitish underparts with grey-buff flanks"
+    },
+    {
+      "ko": "길고 둥근 꼬리",
+      "en": "fairly long, rounded tail"
+    },
+    {
+      "ko": "분홍빛 다리",
+      "en": "pinkish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -39,7 +60,10 @@
     "subject": "Japanese Bush Warbler (Horornis diphone), adult male, as seen on southern Korean islands in spring: upperparts plain olive-brown to greyish olive without any streaks; faint pale buff-white supercilium; dusky eye-stripe; wings plain olive-brown with no wing-bars; underparts dull whitish, washed grey-buff on the breast sides and flanks; tail plain olive-brown, fairly long and rounded. Bill fine and pointed, dark brown above with a paler pinkish lower mandible. Dark eye. Pinkish legs.",
     "pose": "singing from an open twig at the edge of a dense evergreen shrub, head raised and bill open, side view",
     "scene": "dense evergreen camellia and bamboo thicket on a southern Korean island such as Jeju in spring, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched at the edge of a thicket: plain olive-brown upperparts and wings with no streaks or wing-bars, faint pale buff-white supercilium over a dusky eye-stripe, dull whitish underparts washed grey-buff on the breast sides and flanks, short rounded wings, fairly long, rounded plain olive-brown tail, pinkish legs",
+      "adult male, head detail in profile: rounded head with the crown feathers lying flat and no crest, faint pale buff-white supercilium and dusky eye-stripe, short, fine pointed bill dark brown above with a paler pinkish lower mandible, dark eye"
+    ],
     "build": "Small, plain, skulking bush warbler, about the size of a sparrow, males noticeably larger than females; rounded head with no crest, the crown feathers lying flat; plump body and a fairly long, rounded tail. Bill short, thin and pointed. Legs fairly long and sturdy, pinkish. Wings short and rounded, the wingtips reaching only the base of the tail. Stays inside dense evergreen and bamboo thickets; sings with the head raised.",
     "avoid": [
       "Do not add wing-bars, streaks or spots; the plumage is plain olive-brown.",
@@ -69,7 +93,8 @@
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
   ],
   "occurrence": {
     "code": "R2, W4",

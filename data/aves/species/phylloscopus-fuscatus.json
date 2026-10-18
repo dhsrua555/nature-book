@@ -16,7 +16,28 @@
     "note": "5월 말에 수컷의 지저귐이 가장 활발하다."
   },
   "summary": "우리나라에서는 주로 이동 시기에 볼 수 있는 나그네새이며, 북부 지역에서는 적은 수가 번식하기도 한다. 자작나무 숲과 버드나무 숲, 낙엽침엽수 혼합림, 풀이 우거진 툰드라를 좋아하고, 5월 말에 수컷의 지저귐이 가장 활발하며 2m쯤 되는 분비나무나 신갈나무 꼭대기에서 노래하는 모습이 자주 보인다. 둥지는 주로 볏과 식물 줄기 밑동이나 눈잣나무, 매발톱나무 줄기에 마른 풀줄기를 성글게 엮어 옆에 작은 입구를 낸 긴 공 모양으로 짓고, 흰 알을 낳는다. 겨울은 아시아에서 난다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 앞이 또렷한 흰 눈썹선과 짙은 눈선",
+      "en": "whitish supercilium, sharpest in front of the eye, over a dark brown eye-stripe"
+    },
+    {
+      "ko": "가늘고 작은 부리",
+      "en": "fine, thin bill"
+    },
+    {
+      "ko": "날개띠 없는 짙은 흙갈색 윗면",
+      "en": "plain dark earthy-brown upperparts without wing-bars"
+    },
+    {
+      "ko": "담황갈색 옆구리의 흰 아랫면",
+      "en": "off-white underparts with buff-brown flanks"
+    },
+    {
+      "ko": "가는 갈색 다리",
+      "en": "slender brownish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -27,7 +48,10 @@
     "subject": "Dusky Warbler (Phylloscopus fuscatus), adult in spring (sexes alike), singing: upperparts plain dark earthy brown with no green or yellow tones and no wing-bars; a sharp whitish supercilium, brightest and most clear-cut in front of the eye and becoming buffier behind it; a dark brown eye-stripe from the bill to the nape; ear-coverts brown; throat whitish; breast and belly dirty off-white, with a buff-brown wash on the breast sides, flanks and undertail coverts; fine thin bill, dark with a yellowish base to the lower mandible; dark eye; slender brownish legs.",
     "pose": "perched at the top of a small fir, singing",
     "scene": "Korean birch and willow woodland with low firs in late spring; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched low in scrub: plain dark earthy-brown upperparts with no green tones or wing-bars, whitish supercilium sharpest in front of the eye, dark brown eye-stripe, whitish throat, off-white underparts with buff-brown breast sides, flanks and undertail coverts, short primary projection, square tail, slender brownish legs",
+      "adult, head detail in profile: supercilium clear-cut and whitest between the bill and the eye, becoming buffier behind it, dark brown eye-stripe, brown ear-coverts, whitish throat, fine thin bill, dark with a yellowish base to the lower mandible, dark eye"
+    ],
     "build": "Small, compact leaf warbler, smaller than a sparrow, with a rounded head and short neck. Bill fine and thin, much shorter than the head. Legs slender, mid-brown. Wings short and rounded; at rest the primary tips project only a little beyond the tertials. Tail medium-length, square or slightly rounded, often flicked. Usually keeps low in thick scrub, calling a hard 'tack'; in spring the male sings from the top of a small tree.",
     "avoid": [
       "Do not add wing-bars, green upperparts or yellow underparts; the Dusky Warbler is plain brown above and off-white below.",
@@ -63,7 +87,8 @@
     "원문의 몸무게 '평균 10.3kg'은 단위가 명백히 틀려 싣지 않음",
     "원문의 둥지 크기(바깥지름 11.5~12.0mm, 깊이 6.5~9.0mm, 입구 3.3~4.0mm)는 단위가 틀린 것으로 보여 싣지 않음",
     "원문은 번식지를 알래스카 북부·서부라 하여 다른 종 설명이 섞인 것으로 보여 번식지 분포는 싣지 않음",
-    "원문에 생김새 설명이 없음"
+    "원문에 생김새 설명이 없음",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
   ],
   "occurrence": {
     "code": "P3, S4, W4",

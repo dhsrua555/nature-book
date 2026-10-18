@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "완만한 이마의 길쭉한 갈색 머리",
+      "en": "long, wedge-shaped brown head with a gently sloping forehead"
+    },
+    {
+      "ko": "머리 길이만 한 길고 가는 부리",
+      "en": "long, fairly slender bill, about as long as the head"
+    },
+    {
+      "ko": "끝에 좁은 주황 띠가 있는 검은 부리",
+      "en": "black bill with a narrow orange band near the tip"
+    },
+    {
+      "ko": "긴 목과 연한 회갈색 가슴",
+      "en": "long neck grading into a pale grey-brown breast"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Taiga Bean Goose of the subspecies Anser fabalis middendorffi, adult (sexes alike), as seen in Korea in winter: head and upper neck warm brown, darkest on the crown and around the bill base, the long neck slightly paler and grading into the pale grey-brown breast; mantle and wing coverts grey-brown with pale buff fringes forming neat transverse bars; belly pale grey-brown; flanks darker brown with pale bars and a white line along their upper edge; vent, undertail coverts and a narrow band of uppertail coverts white; tail dark grey-brown with a white tip. Long black bill with a narrow orange band near the tip and a black nail; dark brown eye; bright orange legs.",
     "pose": "standing on the muddy edge of a reservoir with its long neck held upright, side view, the long bill shown in clear profile",
     "scene": "Korean winter: the shallow margin of a wide reservoir with dry reeds and harvested rice fields beyond, low soft winter light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing at the water's edge: long, wedge-shaped warm brown head with a gently sloping forehead, long upright neck grading into a pale grey-brown breast, grey-brown upperparts barred by pale fringes, barred brown flanks with a white upper edge, white vent, long slender black bill with a narrow orange band near the tip, orange legs",
+      "adult, head detail in side profile: long, fairly slender black bill about as long as the head, with a narrow orange band just behind the black nail, the gently sloping forehead running almost straight into the culmen to give a long, wedge-shaped, almost swan-like profile; warm brown head with no white at the bill base, dark brown eye"
+    ],
     "build": "The largest form of bean goose: a big, long-necked grey-brown goose, much larger than a Mallard and clearly bigger, longer-necked and longer-billed than Tundra Bean Goose. Head long with a gently sloping forehead, giving a long, wedge-shaped, almost swan-like profile. Bill long and fairly slender, about as long as the head, black with an orange band before the tip. Legs orange, medium length. In flight long-necked, with dark upperwings and a narrow white band across the uppertail coverts above the dark tail.",
     "avoid": [
       "Do not paint a short, deep-based bill with a steep forehead; that is Tundra Bean Goose, the common bean goose in Korea.",
@@ -56,7 +80,8 @@
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
   ],
   "occurrence": {
     "code": "W3, SV2",

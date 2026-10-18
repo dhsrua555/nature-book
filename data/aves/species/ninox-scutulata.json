@@ -17,7 +17,28 @@
     "breed": "TODO"
   },
   "summary": "평지에서 1,000m 높이의 산지까지 침엽수림, 낙엽활엽수림, 마을 가까운 숲, 도시공원, 정원에 찾아오는 흔한 여름철새이다. 밤에 활동하므로 낮에는 나뭇가지에 앉아 지낸다. 도시화가 진행된 곳에서도 가로등 불빛에 모여드는 곤충을 잡아먹는다. 번식지에서는 둥지를 틀 고사목이 베어지고 월동지인 동남아시아에서는 숲이 개발되면서 살 곳이 나빠지고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "귀깃 없는 둥근 갈색 머리",
+      "en": "round dark brown head without ear tufts"
+    },
+    {
+      "ko": "크고 둥근 노란 눈",
+      "en": "large, round yellow eyes"
+    },
+    {
+      "ko": "짙은 초콜릿색 윗면",
+      "en": "dark chocolate-brown upperparts"
+    },
+    {
+      "ko": "굵은 갈색 세로무늬의 흰 아랫면",
+      "en": "white underparts with broad rufous-brown streaks"
+    },
+    {
+      "ko": "가로띠가 있는 긴 꼬리",
+      "en": "long tail with broad dark bars"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +49,10 @@
     "subject": "Brown Boobook (Ninox scutulata), adult of the population breeding in Korea (often treated as Northern Boobook, Ninox japonica), as seen from May to September: head, nape, back and wings plain dark chocolate-brown; no ear tufts and no facial disc, the face dark brown with a small whitish patch between the eyes above the bill; underparts white, heavily marked with broad dark rufous-brown streaks and blotches from the breast to the belly; undertail coverts white; tail long, grey-brown with broad dark bars. Bill dark grey; large round bright yellow eyes; toes bare and yellow.",
     "pose": "perched on a branch by day, resting",
     "scene": "Korean summer woodland edge and city park with tall trees; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, front view perched on a branch: round, smooth dark brown head with no ear tufts or facial disc, small whitish patch between the eyes above the dark grey bill, large round bright yellow eyes, white underparts heavily marked with broad dark rufous-brown streaks and blotches, white undertail coverts, bare yellow toes",
+      "adult, side view perched upright: slim, hawk-like shape, plain dark chocolate-brown head, back and wings, long pointed wings folded along the body, long grey-brown tail with broad dark bars, white underparts streaked rufous-brown, large yellow eye, bare yellow toes"
+    ],
     "build": "Medium-sized, hawk-like owl, about the size of a feral pigeon but with a longer tail; round, smooth head without ear tufts and a slim body. Bill short and hooked. Wings long and pointed, tail long and banded, giving a hawk-like outline. Toes yellow and bare. Hunts at dusk, hawking flying insects around canopy edges and streetlights with fast, agile flight; by day it sits still on a shaded branch.",
     "avoid": [
       "Do not paint ear tufts or a pale facial disc; the head is round, smooth and dark brown.",
@@ -62,7 +86,9 @@
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
+  ],
   "occurrence": {
     "code": "P3, S3",
     "bs": "1",

@@ -18,7 +18,28 @@
     "note": "봄과 가을 이동 시기에 많은 수가 지나간다."
   },
   "summary": "봄과 가을 이동철에 많은 수가 우리나라를 지나가는 나그네새로, 적은 수가 번식한 기록도 있다. 숲 가장자리나 풀밭에서 볼 수 있으며, 땅벌의 애벌레와 번데기, 어른벌레를 잡아먹는다. 둥지는 주로 까마귀류나 맹금류 같은 다른 새의 것을 쓴다. 산림이 훼손되면서 사는 곳이 줄어들 우려가 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "작은 머리와 회색 얼굴",
+      "en": "small, pigeon-like head with a grey face"
+    },
+    {
+      "ko": "옅은 멱 가운데의 검은 줄",
+      "en": "dark mesial stripe on a pale throat"
+    },
+    {
+      "ko": "흐린 가로줄 있는 적갈색 가슴·배",
+      "en": "rufous-brown breast and belly with faint pale barring"
+    },
+    {
+      "ko": "넓은 검은 날개 뒷가장자리(수컷)",
+      "en": "broad black trailing edge to the underwing (male)"
+    },
+    {
+      "ko": "두 줄의 굵은 검은 꼬리띠(수컷)",
+      "en": "two broad dark tail bands, widely separated (male)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -29,7 +50,10 @@
     "subject": "Crested Honey Buzzard (Pernis ptilorhynchus), adult male of a common intermediate (rufous-brown) morph, as seen on autumn migration in Korea: face grey, crown and nape brown with at most a short tuft at the rear of the crown; throat pale buff with a dark central (mesial) stripe; upperparts and wings dark brown. Breast and belly rufous-brown with indistinct paler barring. Tail grey-brown and blackish: a broad black band near the tip and another broad dark band near the base, separated by a wide pale grey band. Iris dark red-brown; bill slender, dark, only slightly hooked, with a dark grey cere; lores covered with small, dense, scale-like feathers. Legs and feet yellow.",
     "pose": "perched on a branch at the forest edge, side view",
     "scene": "Korean autumn migration: a forest edge bordering open grassland; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male intermediate morph, side view perched upright: small pigeon-like head on a longish neck, grey face, dark red-brown iris, slender, slightly hooked dark bill, pale throat with a dark mesial stripe, dark brown upperparts, rufous-brown underparts with faint pale barring, long tail with two broad dark bands widely separated, yellow legs",
+      "adult male, in flight seen squarely from below: small head projecting far forward, long broad wings with six fingered primaries spread straight out to their full span, more than twice the body length, broad black trailing edge and black tips to the underwing, rufous-brown body, long tail with two broad dark bands, yellow feet tucked under the tail"
+    ],
     "build": "Large, long-winged raptor, about the size of an Eastern Buzzard but slimmer, with a noticeably small, slender, pigeon-like head on a longish neck, a longer tail and a weak-looking bill. Perches upright and rather sleek. Legs short and stout, yellow, with strong feet used for digging out wasp nests. Tail long, slightly rounded at the corners. In flight the head projects far forward; wings long and broad with six fingered primaries, held flat or slightly bowed when soaring; the male shows a broad black trailing edge to the underwing and black wingtips.",
     "avoid": [
       "Do not paint a large, deep, eagle-like hooked bill or a big head; the head is small and pigeon-like and the bill slender.",
@@ -63,7 +87,9 @@
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
+  ],
   "occurrence": {
     "code": "P3, S5",
     "bs": "1",
