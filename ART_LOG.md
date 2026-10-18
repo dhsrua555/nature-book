@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 498장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 516장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 21장
+## 2026-10-19 · 18장
+- 도판: [긴발톱멧새](img/aves/calcarius-lapponicus.webp) (다시 그림), [물까마귀](img/aves/cinclus-pallasii.webp) (다시 그림), [꼬까참새](img/aves/emberiza-rutila.webp), [검은머리쑥새](img/aves/emberiza-schoeniclus.webp), [흰줄박이오리](img/aves/histrionicus-histrionicus.webp), [검둥오리](img/aves/melanitta-americana.webp), [검둥오리사촌](img/aves/melanitta-stejnegeri.webp), [호사비오리](img/aves/mergus-squamatus.webp), [발구지](img/aves/spatula-querquedula.webp)
+- 동정 도해: [물까마귀](img/aves/cinclus-pallasii.id.webp) (다시 그림), [꼬까참새](img/aves/emberiza-rutila.id.webp), [검은머리쑥새](img/aves/emberiza-schoeniclus.id.webp), [흰배멧새](img/aves/emberiza-tristrami.id.webp), [검둥오리](img/aves/melanitta-americana.id.webp), [검둥오리사촌](img/aves/melanitta-stejnegeri.id.webp), [호사비오리](img/aves/mergus-squamatus.id.webp), [백할미새](img/aves/motacilla-alba-lugens.id.webp) (다시 그림), [발구지](img/aves/spatula-querquedula.id.webp)
+
+## 2026-10-19 · `7ab4377` · 21장
 - 도판: [갈까마귀](img/aves/corvus-dauuricus.webp) (다시 그림), [매](img/aves/falco-peregrinus.webp) (다시 그림), [울새](img/aves/larvivora-sibilans.webp) (다시 그림), [제비딱새](img/aves/muscicapa-griseisticta.webp) (다시 그림), [큰소쩍새](img/aves/otus-bakkamoena.webp) (다시 그림), [소쩍새](img/aves/otus-sunia.webp) (다시 그림), [노랑허리솔새](img/aves/phylloscopus-proregulus.webp) (다시 그림), [팔색조](img/aves/pitta-nympha.webp) (다시 그림), [검은이마직박구리](img/aves/pycnonotus-sinensis.webp) (다시 그림), [갈색제비](img/aves/riparia-riparia.webp) (다시 그림)
 - 동정 도해: [갈까마귀](img/aves/corvus-dauuricus.id.webp) (다시 그림), [매](img/aves/falco-peregrinus.id.webp) (다시 그림), [새호리기](img/aves/falco-subbuteo.id.webp) (다시 그림), [울새](img/aves/larvivora-sibilans.id.webp) (다시 그림), [북방개개비](img/aves/locustella-certhiola.id.webp) (다시 그림), [제비딱새](img/aves/muscicapa-griseisticta.id.webp) (다시 그림), [소쩍새](img/aves/otus-sunia.id.webp) (다시 그림), [솔새사촌](img/aves/phylloscopus-fuscatus.id.webp), [노랑허리솔새](img/aves/phylloscopus-proregulus.id.webp) (다시 그림), [팔색조](img/aves/pitta-nympha.id.webp) (다시 그림), [검은이마직박구리](img/aves/pycnonotus-sinensis.id.webp) (다시 그림)
 
