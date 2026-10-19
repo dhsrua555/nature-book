@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 634장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 641장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 34장
+## 2026-10-19 · 7장
+- 도판: [큰밭종다리](img/aves/anthus-richardi.webp), [큰부리밀화부리](img/aves/eophona-personata.webp), [갈색양진이](img/aves/leucosticte-arctoa.webp)
+- 동정 도해: [큰밭종다리](img/aves/anthus-richardi.id.webp), [물레새](img/aves/dendronanthus-indicus.id.webp), [큰부리밀화부리](img/aves/eophona-personata.id.webp), [갈색양진이](img/aves/leucosticte-arctoa.id.webp)
+
+## 2026-10-19 · `efe8a6e` · 34장
 - 도판: [쇠찌르레기](img/aves/agropsar-philippensis.webp), [나무발발이](img/aves/certhia-familiaris.webp), [물레새](img/aves/dendronanthus-indicus.webp), [흰꼬리딱새](img/aves/ficedula-albicilla.webp), [황금새](img/aves/ficedula-narcissina.webp), [흰눈썹지빠귀](img/aves/geokichla-sibirica.webp), [붉은허리개개비](img/aves/locustella-fasciolata.webp), [알락꼬리쥐발귀](img/aves/locustella-ochotensis.webp), [꼬까직박구리](img/aves/monticola-gularis.webp), [솔딱새](img/aves/muscicapa-sibirica.webp), [노랑배진박새](img/aves/pardaliparus-venustulus.webp), [섬참새](img/aves/passer-cinnamomeus.webp), [바위종다리](img/aves/prunella-collaris.webp), [붉은부리찌르레기](img/aves/sturnus-sericeus.webp), [북방쇠찌르레기](img/aves/sturnus-sturninus.webp), [흰점찌르레기](img/aves/sturnus-vulgaris.webp), [검은지빠귀](img/aves/turdus-cardis.webp), [붉은배지빠귀](img/aves/turdus-chrysolaus.webp)
 - 동정 도해: [쇠찌르레기](img/aves/agropsar-philippensis.id.webp), [나무발발이](img/aves/certhia-familiaris.id.webp), [황금새](img/aves/ficedula-narcissina.id.webp), [흰눈썹지빠귀](img/aves/geokichla-sibirica.id.webp), [바늘꼬리칼새](img/aves/hirundapus-caudacutus.id.webp), [붉은허리개개비](img/aves/locustella-fasciolata.id.webp), [알락꼬리쥐발귀](img/aves/locustella-ochotensis.id.webp), [꼬까직박구리](img/aves/monticola-gularis.id.webp), [솔딱새](img/aves/muscicapa-sibirica.id.webp), [섬참새](img/aves/passer-cinnamomeus.id.webp), [바위종다리](img/aves/prunella-collaris.id.webp), [붉은부리찌르레기](img/aves/sturnus-sericeus.id.webp), [북방쇠찌르레기](img/aves/sturnus-sturninus.id.webp), [흰점찌르레기](img/aves/sturnus-vulgaris.id.webp), [검은지빠귀](img/aves/turdus-cardis.id.webp), [붉은배지빠귀](img/aves/turdus-chrysolaus.id.webp)
 
