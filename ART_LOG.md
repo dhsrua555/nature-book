@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 584장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 600장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 11장
+## 2026-10-19 · 16장
+- 도판: [흰머리오목눈이](img/aves/aegithalos-caudatus-caudatus.webp), [종다리](img/aves/alauda-arvensis.webp), [큰부리개개비](img/aves/arundinax-aedon.webp), [황여새](img/aves/bombycilla-garrulus.webp), [쇠종다리](img/aves/calandrella-brachydactyla.webp), [홍때까치](img/aves/lanius-cristatus-crisatus.webp), [큰솔새](img/aves/phylloscopus-examinandus.webp), [버들솔새](img/aves/phylloscopus-plumbeitarsus.webp), [긴다리솔새사촌](img/aves/phylloscopus-schwarzi.webp)
+- 동정 도해: [종다리](img/aves/alauda-arvensis.id.webp), [큰부리개개비](img/aves/arundinax-aedon.id.webp), [황여새](img/aves/bombycilla-garrulus.id.webp), [쇠종다리](img/aves/calandrella-brachydactyla.id.webp), [비둘기조롱이](img/aves/falco-amurensis.id.webp), [버들솔새](img/aves/phylloscopus-plumbeitarsus.id.webp), [긴다리솔새사촌](img/aves/phylloscopus-schwarzi.id.webp)
+
+## 2026-10-19 · `a437a39` · 11장
 - 도판: [아물쇠딱다구리](img/aves/dendrocopos-canicapillus.webp), [비둘기조롱이](img/aves/falco-amurensis.webp), [호반새](img/aves/halcyon-coromanda.webp), [흰꼬리수리](img/aves/haliaeetus-albicilla.webp), [개미잡이](img/aves/jynx-torquilla.webp)
 - 동정 도해: [아물쇠딱다구리](img/aves/dendrocopos-canicapillus.id.webp), [호반새](img/aves/halcyon-coromanda.id.webp), [흰꼬리수리](img/aves/haliaeetus-albicilla.id.webp), [개미잡이](img/aves/jynx-torquilla.id.webp), [솔개](img/aves/milvus-migrans.id.webp), [물수리](img/aves/pandion-haliaetus.id.webp)
 
