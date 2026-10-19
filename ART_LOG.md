@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 803장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 820장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 14장
+## 2026-10-20 · 17장
+- 도판: [작은칼새](img/aves/aerodramus-brevirostris.webp), [쇠칼새](img/aves/apus-nipalensis.webp), [밤색날개뻐꾸기](img/aves/clamator-coromandus.webp), [검은뻐꾸기](img/aves/eudynamys-scolopacea.webp), [큰매사촌](img/aves/hierococcyx-sparverioides.webp), [시베리아흰두루미](img/aves/leucogeranus-leucogeranus.webp), [염주비둘기](img/aves/streptopelia-decaocto.webp), [홍비둘기](img/aves/streptopelia-tranquebarica.webp), [녹색비둘기](img/aves/treron-sieboldii.webp), [한국뜸부기](img/aves/zapornia-paykullii.webp)
+- 동정 도해: [쇠칼새](img/aves/apus-nipalensis.id.webp), [밤색날개뻐꾸기](img/aves/clamator-coromandus.id.webp), [바다꿩](img/aves/clangula-hyemalis.id.webp), [염주비둘기](img/aves/streptopelia-decaocto.id.webp), [홍비둘기](img/aves/streptopelia-tranquebarica.id.webp), [녹색비둘기](img/aves/treron-sieboldii.id.webp), [한국뜸부기](img/aves/zapornia-paykullii.id.webp)
+
+## 2026-10-20 · `dc515e9` · 14장
 - 도판: [회색기러기](img/aves/anser-anser.webp), [붉은가슴흰죽지](img/aves/aythya-baeri.webp), [적갈색흰죽지](img/aves/aythya-nyroca.webp), [잿빛개구리매](img/aves/circus-cyaneus.webp) (다시 그림), [바다꿩](img/aves/clangula-hyemalis.webp), [아메리카홍머리오리](img/aves/mareca-americana.webp), [붉은부리흰죽지](img/aves/netta-rufina.webp), [가마우지](img/aves/phalacrocorax-capillatus.webp) (다시 그림)
 - 동정 도해: [회색기러기](img/aves/anser-anser.id.webp), [흰기러기](img/aves/anser-caerulescens.id.webp), [붉은가슴흰죽지](img/aves/aythya-baeri.id.webp), [적갈색흰죽지](img/aves/aythya-nyroca.id.webp), [캐나다기러기](img/aves/branta-hutchinsii.id.webp), [아메리카홍머리오리](img/aves/mareca-americana.id.webp)
 
