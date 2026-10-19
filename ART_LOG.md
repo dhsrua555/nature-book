@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 746장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 766장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 19장
+## 2026-10-20 · 20장
+- 도판: [알락개구리매](img/aves/circus-melanoleucos.webp), [흰털발제비](img/aves/delichon-dasypus.webp), [흰턱제비](img/aves/delichon-lagopodum.webp), [검은바람까마귀](img/aves/dicrurus-macrocercus.webp), [쇠황조롱이](img/aves/falco-columbarius.webp), [청호반새](img/aves/halcyon-pileata.webp), [긴꼬리때까치](img/aves/lanius-schach.webp), [물때까치](img/aves/lanius-sphenocercus.webp), [잣까마귀](img/aves/nucifraga-caryocatactes.webp), [연노랑눈썹솔새](img/aves/phylloscopus-humei.webp), [올빼미](img/aves/strix-aluco.webp), [긴점박이올빼미](img/aves/strix-uralensis.webp)
+- 동정 도해: [흰털발제비](img/aves/delichon-dasypus.id.webp), [검은바람까마귀](img/aves/dicrurus-macrocercus.id.webp), [쇠황조롱이](img/aves/falco-columbarius.id.webp), [긴꼬리때까치](img/aves/lanius-schach.id.webp), [물때까치](img/aves/lanius-sphenocercus.id.webp), [잣까마귀](img/aves/nucifraga-caryocatactes.id.webp), [올빼미](img/aves/strix-aluco.id.webp), [긴점박이올빼미](img/aves/strix-uralensis.id.webp)
+
+## 2026-10-20 · `ced5922` · 19장
 - 도판: [검독수리](img/aves/aquila-chrysaetos.webp), [쇠부엉이](img/aves/asio-flammeus.webp), [칡부엉이](img/aves/asio-otus.webp), [금눈쇠올빼미](img/aves/athene-noctua.webp), [큰말똥가리](img/aves/buteo-hemilasius.webp), [털발말똥가리](img/aves/buteo-lagopus.webp), [개구리매](img/aves/circus-spilonotus.webp), [항라머리검독수리](img/aves/clanga-clanga.webp), [참수리](img/aves/haliaeetus-pelagicus.webp)
 - 동정 도해: [검독수리](img/aves/aquila-chrysaetos.id.webp), [쇠부엉이](img/aves/asio-flammeus.id.webp), [칡부엉이](img/aves/asio-otus.id.webp), [금눈쇠올빼미](img/aves/athene-noctua.id.webp), [털발말똥가리](img/aves/buteo-lagopus.id.webp), [넓적부리도요](img/aves/calidris-pygmaea.id.webp), [황새](img/aves/ciconia-boyciana.id.webp), [개구리매](img/aves/circus-spilonotus.id.webp), [항라머리검독수리](img/aves/clanga-clanga.id.webp), [참수리](img/aves/haliaeetus-pelagicus.id.webp)
 
