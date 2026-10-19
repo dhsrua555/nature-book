@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 683장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 697장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 21장
+## 2026-10-19 · 14장
+- 도판: [목도리도요](img/aves/calidris-pugnax.webp), [넓적부리도요](img/aves/calidris-pygmaea.webp), [흰꼬리좀도요](img/aves/calidris-temminckii.webp), [큰꺅도요](img/aves/gallinago-hardwickii.webp), [제비물떼새](img/aves/glareola-maldivarum.webp), [쇠부리도요](img/aves/numenius-minutus.webp), [알류샨제비갈매기](img/aves/onychoprion-aleuticus.webp), [학도요](img/aves/tringa-erythropus.webp), [청다리도요사촌](img/aves/tringa-guttifer.webp)
+- 동정 도해: [붉은갯도요](img/aves/calidris-ferruginea.id.webp), [목도리도요](img/aves/calidris-pugnax.id.webp), [큰꺅도요](img/aves/gallinago-hardwickii.id.webp), [물꿩](img/aves/hydrophasianus-chirurgus.id.webp), [학도요](img/aves/tringa-erythropus.id.webp)
+
+## 2026-10-19 · `bfce927` · 21장
 - 도판: [흰배뜸부기](img/aves/amaurornis-phoenicurus.webp), [큰왕눈물떼새](img/aves/charadrius-leschenaultii.webp), [큰물떼새](img/aves/charadrius-veredus.webp), [뜸부기](img/aves/gallicrex-cinerea.webp), [캐나다두루미](img/aves/grus-canadensis.webp), [검은목두루미](img/aves/grus-grus.webp), [물꿩](img/aves/hydrophasianus-chirurgus.webp), [귀뿔논병아리](img/aves/podiceps-auritus.webp), [뒷부리장다리물떼새](img/aves/recurvirostra-avosetta.webp), [호사도요](img/aves/rostratula-benghalensis.webp), [쇠뜸부기](img/aves/zapornia-pusilla.webp)
 - 동정 도해: [흰배뜸부기](img/aves/amaurornis-phoenicurus.id.webp), [큰왕눈물떼새](img/aves/charadrius-leschenaultii.id.webp), [큰물떼새](img/aves/charadrius-veredus.id.webp), [뜸부기](img/aves/gallicrex-cinerea.id.webp), [캐나다두루미](img/aves/grus-canadensis.id.webp), [검은목두루미](img/aves/grus-grus.id.webp), [귀뿔논병아리](img/aves/podiceps-auritus.id.webp), [뒷부리장다리물떼새](img/aves/recurvirostra-avosetta.id.webp), [호사도요](img/aves/rostratula-benghalensis.id.webp), [쇠뜸부기](img/aves/zapornia-pusilla.id.webp)
 
