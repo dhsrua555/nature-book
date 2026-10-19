@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 786장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 789장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 20장
+## 2026-10-20 · 3장
+- 도판: [흰기러기](img/aves/anser-caerulescens.webp), [캐나다기러기](img/aves/branta-hutchinsii.webp)
+- 동정 도해: [대륙검은지빠귀](img/aves/turdus-mandarinus.id.webp)
+
+## 2026-10-20 · `e5cf5a6` · 20장
 - 도판: [쇠밭종다리](img/aves/anthus-godlewskii.webp), [흑기러기](img/aves/branta-bernicla.webp), [섬촉새](img/aves/emberiza-personata.webp), [검은멧새](img/aves/emberiza-variabilis.webp), [붉은가슴울새](img/aves/larvivora-akahige.webp), [흰눈썹울새](img/aves/luscinia-svecica.webp), [노랑머리할미새](img/aves/motacilla-citreola.webp), [사할린되솔새](img/aves/phylloscopus-borealoides.webp), [잿빛쇠찌르레기](img/aves/sturnus-sinensis.webp), [대륙검은지빠귀](img/aves/turdus-mandarinus.webp), [붉은목지빠귀](img/aves/turdus-ruficollis.webp), [작은동박새](img/aves/zosterops-simplex.webp)
 - 동정 도해: [쇠밭종다리](img/aves/anthus-godlewskii.id.webp), [흑기러기](img/aves/branta-bernicla.id.webp), [검은멧새](img/aves/emberiza-variabilis.id.webp), [청호반새](img/aves/halcyon-pileata.id.webp), [붉은가슴울새](img/aves/larvivora-akahige.id.webp), [흰눈썹울새](img/aves/luscinia-svecica.id.webp), [노랑머리할미새](img/aves/motacilla-citreola.id.webp), [잿빛쇠찌르레기](img/aves/sturnus-sinensis.id.webp)
 
