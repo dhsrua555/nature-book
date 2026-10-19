@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 556장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 573장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
 ## 2026-10-19 · 17장
+- 도판: [흰날개해오라기](img/aves/ardeola-bacchus.webp), [흰죽지제비갈매기](img/aves/chlidonias-leucopterus.webp), [잿빛개구리매](img/aves/circus-cyaneus.webp), [노랑부리백로](img/aves/egretta-eulophotes.webp), [흑로](img/aves/egretta-sacra.webp), [덤불해오라기](img/aves/ixobrychus-sinensis.webp), [솔개](img/aves/milvus-migrans.webp), [물수리](img/aves/pandion-haliaetus.webp), [가마우지](img/aves/phalacrocorax-capillatus.webp), [노랑부리저어새](img/aves/platalea-leucorodia.webp)
+- 동정 도해: [흰날개해오라기](img/aves/ardeola-bacchus.id.webp), [잿빛개구리매](img/aves/circus-cyaneus.id.webp), [노랑부리백로](img/aves/egretta-eulophotes.id.webp), [흑로](img/aves/egretta-sacra.id.webp), [덤불해오라기](img/aves/ixobrychus-sinensis.id.webp), [가마우지](img/aves/phalacrocorax-capillatus.id.webp), [노랑부리저어새](img/aves/platalea-leucorodia.id.webp)
+
+## 2026-10-19 · `3c8aefe` · 17장
 - 도판: [쇠부리슴새](img/aves/ardenna-tenuirostris.webp), [메추라기도요](img/aves/calidris-acuminata.webp), [세가락도요](img/aves/calidris-alba.webp), [종달도요](img/aves/calidris-subminuta.webp), [구레나룻제비갈매기](img/aves/chlidonias-hybrida.webp), [흰갈매기](img/aves/larus-hyperboreus.webp), [넓적꼬리도둑갈매기](img/aves/stercorarius-pomarinus.webp), [뿔쇠오리](img/aves/synthliboramphus-wumizusume.webp)
 - 동정 도해: [쇠부리슴새](img/aves/ardenna-tenuirostris.id.webp), [꼬까도요](img/aves/arenaria-interpres.id.webp), [메추라기도요](img/aves/calidris-acuminata.id.webp), [종달도요](img/aves/calidris-subminuta.id.webp), [구레나룻제비갈매기](img/aves/chlidonias-hybrida.id.webp), [흰죽지제비갈매기](img/aves/chlidonias-leucopterus.id.webp), [흰갈매기](img/aves/larus-hyperboreus.id.webp), [뿔쇠오리](img/aves/synthliboramphus-wumizusume.id.webp), [댕기물떼새](img/aves/vanellus-vanellus.id.webp)
 
