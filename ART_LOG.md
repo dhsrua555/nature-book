@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 832장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 845장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 12장
+## 2026-10-20 · 13장
+- 도판: [아메리카메추라기도요](img/aves/calidris-melanotos.webp), [작은도요](img/aves/calidris-minuta.webp), [큰부리제비갈매기](img/aves/gelochelidon-nilotica.webp), [붉은부리큰제비갈매기](img/aves/hydroprogne-caspia.webp), [큰검은머리갈매기](img/aves/ichthyaetus-ichthyaetus.webp), [고대갈매기](img/aves/ichthyaetus-relictus.webp), [검은등제비갈매기](img/aves/onychoprion-fuscatus.webp), [뿔제비갈매기](img/aves/thalasseus-bernsteini.webp)
+- 동정 도해: [작은도요](img/aves/calidris-minuta.id.webp), [큰부리제비갈매기](img/aves/gelochelidon-nilotica.id.webp), [붉은부리큰제비갈매기](img/aves/hydroprogne-caspia.id.webp), [큰검은머리갈매기](img/aves/ichthyaetus-ichthyaetus.id.webp), [고대갈매기](img/aves/ichthyaetus-relictus.id.webp)
+
+## 2026-10-20 · `b5b0165` · 12장
 - 도판: [흰죽지꼬마물떼새](img/aves/charadrius-hiaticula.webp), [청도요](img/aves/gallinago-solitaria.webp), [긴부리도요](img/aves/limnodromus-scolopaceus.webp), [큰부리도요](img/aves/limnodromus-semipalmatus.webp), [붉은배지느러미발도요](img/aves/phalaropus-fulicarius.webp), [민댕기물떼새](img/aves/vanellus-cinereus.webp)
 - 동정 도해: [청도요](img/aves/gallinago-solitaria.id.webp), [시베리아흰두루미](img/aves/leucogeranus-leucogeranus.id.webp), [긴부리도요](img/aves/limnodromus-scolopaceus.id.webp), [큰부리도요](img/aves/limnodromus-semipalmatus.id.webp), [붉은배지느러미발도요](img/aves/phalaropus-fulicarius.id.webp), [민댕기물떼새](img/aves/vanellus-cinereus.id.webp)
 
