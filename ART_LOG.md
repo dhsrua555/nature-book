@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 641장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 662장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 7장
+## 2026-10-19 · 21장
+- 도판: [흰이마기러기](img/aves/anser-erythropus.webp), [붉은양진이](img/aves/carpodacus-erythrinus.webp), [낭비둘기](img/aves/columba-rupestris.webp), [고니](img/aves/cygnus-columbianus.webp), [혹고니](img/aves/cygnus-olor.webp), [검은머리촉새](img/aves/emberiza-aureola.webp), [붉은뺨멧새](img/aves/emberiza-fucata.webp), [흰머리멧새](img/aves/emberiza-leucocephalos.webp), [무당새](img/aves/emberiza-sulphurata.webp), [쇠검은머리쑥새](img/aves/emberiza-yessoensis.webp), [솔잣새](img/aves/loxia-curvirostra.webp), [흰눈썹뜸부기](img/aves/rallus-indicus.webp), [쇠뜸부기사촌](img/aves/zapornia-fusca.webp)
+- 동정 도해: [붉은양진이](img/aves/carpodacus-erythrinus.id.webp), [고니](img/aves/cygnus-columbianus.id.webp), [혹고니](img/aves/cygnus-olor.id.webp), [붉은뺨멧새](img/aves/emberiza-fucata.id.webp), [흰머리멧새](img/aves/emberiza-leucocephalos.id.webp), [무당새](img/aves/emberiza-sulphurata.id.webp), [솔잣새](img/aves/loxia-curvirostra.id.webp), [쇠뜸부기사촌](img/aves/zapornia-fusca.id.webp)
+
+## 2026-10-19 · `13a259e` · 7장
 - 도판: [큰밭종다리](img/aves/anthus-richardi.webp), [큰부리밀화부리](img/aves/eophona-personata.webp), [갈색양진이](img/aves/leucosticte-arctoa.webp)
 - 동정 도해: [큰밭종다리](img/aves/anthus-richardi.id.webp), [물레새](img/aves/dendronanthus-indicus.id.webp), [큰부리밀화부리](img/aves/eophona-personata.id.webp), [갈색양진이](img/aves/leucosticte-arctoa.id.webp)
 
