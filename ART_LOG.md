@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 708장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 727장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 11장
+## 2026-10-20 · 19장
+- 도판: [붉은왜가리](img/aves/ardea-purpurea.webp), [붉은발슴새](img/aves/ardenna-carneipes.webp), [알락해오라기](img/aves/botaurus-stellaris.webp), [흰눈썹바다오리](img/aves/cepphus-carbo.webp), [황새](img/aves/ciconia-boyciana.webp), [흰부리아비](img/aves/gavia-adamsii.webp), [붉은해오라기](img/aves/gorsachius-goisagi.webp), [큰덤불해오라기](img/aves/ixobrychus-eurhythmus.webp), [바다오리](img/aves/uria-aalge.webp), [큰부리바다오리](img/aves/uria-lomvia.webp)
+- 동정 도해: [붉은왜가리](img/aves/ardea-purpurea.id.webp), [붉은발슴새](img/aves/ardenna-carneipes.id.webp), [알락해오라기](img/aves/botaurus-stellaris.id.webp), [알락쇠오리](img/aves/brachyramphus-perdix.id.webp), [흰눈썹바다오리](img/aves/cepphus-carbo.id.webp), [흰부리아비](img/aves/gavia-adamsii.id.webp), [붉은해오라기](img/aves/gorsachius-goisagi.id.webp), [큰덤불해오라기](img/aves/ixobrychus-eurhythmus.id.webp), [바다오리](img/aves/uria-aalge.id.webp)
+
+## 2026-10-19 · `cdeca29` · 11장
 - 도판: [알락쇠오리](img/aves/brachyramphus-perdix.webp), [붉은갯도요](img/aves/calidris-ferruginea.webp), [수리갈매기](img/aves/larus-glaucescens.webp), [남극도둑갈매기](img/aves/stercorarius-maccormicki.webp), [북극도둑갈매기](img/aves/stercorarius-parasiticus.webp)
 - 동정 도해: [흰꼬리좀도요](img/aves/calidris-temminckii.id.webp), [제비물떼새](img/aves/glareola-maldivarum.id.webp), [수리갈매기](img/aves/larus-glaucescens.id.webp), [쇠부리도요](img/aves/numenius-minutus.id.webp), [북극도둑갈매기](img/aves/stercorarius-parasiticus.id.webp), [청다리도요사촌](img/aves/tringa-guttifer.id.webp)
 
