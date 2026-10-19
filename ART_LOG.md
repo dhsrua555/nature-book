@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 789장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 3장
+## 2026-10-20 · `4291056` · 3장
 - 도판: [흰기러기](img/aves/anser-caerulescens.webp), [캐나다기러기](img/aves/branta-hutchinsii.webp)
 - 동정 도해: [대륙검은지빠귀](img/aves/turdus-mandarinus.id.webp)
 
