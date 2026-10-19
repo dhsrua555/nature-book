@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 539장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 556장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 16장
+## 2026-10-19 · 17장
+- 도판: [쇠부리슴새](img/aves/ardenna-tenuirostris.webp), [메추라기도요](img/aves/calidris-acuminata.webp), [세가락도요](img/aves/calidris-alba.webp), [종달도요](img/aves/calidris-subminuta.webp), [구레나룻제비갈매기](img/aves/chlidonias-hybrida.webp), [흰갈매기](img/aves/larus-hyperboreus.webp), [넓적꼬리도둑갈매기](img/aves/stercorarius-pomarinus.webp), [뿔쇠오리](img/aves/synthliboramphus-wumizusume.webp)
+- 동정 도해: [쇠부리슴새](img/aves/ardenna-tenuirostris.id.webp), [꼬까도요](img/aves/arenaria-interpres.id.webp), [메추라기도요](img/aves/calidris-acuminata.id.webp), [종달도요](img/aves/calidris-subminuta.id.webp), [구레나룻제비갈매기](img/aves/chlidonias-hybrida.id.webp), [흰죽지제비갈매기](img/aves/chlidonias-leucopterus.id.webp), [흰갈매기](img/aves/larus-hyperboreus.id.webp), [뿔쇠오리](img/aves/synthliboramphus-wumizusume.id.webp), [댕기물떼새](img/aves/vanellus-vanellus.id.webp)
+
+## 2026-10-19 · `ace7047` · 16장
 - 도판: [꼬까도요](img/aves/arenaria-interpres.webp), [꺅도요](img/aves/gallinago-gallinago.webp), [꺅도요사촌](img/aves/gallinago-megala.webp), [장다리물떼새](img/aves/himantopus-himantopus.webp), [검은가슴물떼새](img/aves/pluvialis-fulva.webp), [멧도요](img/aves/scolopax-rusticola.webp), [쇠청다리도요](img/aves/tringa-stagnatilis.webp), [붉은발도요](img/aves/tringa-totanus.webp), [댕기물떼새](img/aves/vanellus-vanellus.webp)
 - 동정 도해: [꺅도요](img/aves/gallinago-gallinago.id.webp), [꺅도요사촌](img/aves/gallinago-megala.id.webp), [장다리물떼새](img/aves/himantopus-himantopus.id.webp), [검은가슴물떼새](img/aves/pluvialis-fulva.id.webp), [멧도요](img/aves/scolopax-rusticola.id.webp), [쇠청다리도요](img/aves/tringa-stagnatilis.id.webp), [붉은발도요](img/aves/tringa-totanus.id.webp)
 
