@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 789장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 803장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-20 · 14장
+- 도판: [회색기러기](img/aves/anser-anser.webp), [붉은가슴흰죽지](img/aves/aythya-baeri.webp), [적갈색흰죽지](img/aves/aythya-nyroca.webp), [잿빛개구리매](img/aves/circus-cyaneus.webp) (다시 그림), [바다꿩](img/aves/clangula-hyemalis.webp), [아메리카홍머리오리](img/aves/mareca-americana.webp), [붉은부리흰죽지](img/aves/netta-rufina.webp), [가마우지](img/aves/phalacrocorax-capillatus.webp) (다시 그림)
+- 동정 도해: [회색기러기](img/aves/anser-anser.id.webp), [흰기러기](img/aves/anser-caerulescens.id.webp), [붉은가슴흰죽지](img/aves/aythya-baeri.id.webp), [적갈색흰죽지](img/aves/aythya-nyroca.id.webp), [캐나다기러기](img/aves/branta-hutchinsii.id.webp), [아메리카홍머리오리](img/aves/mareca-americana.id.webp)
 
 ## 2026-10-20 · `4291056` · 3장
 - 도판: [흰기러기](img/aves/anser-caerulescens.webp), [캐나다기러기](img/aves/branta-hutchinsii.webp)
