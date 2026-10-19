@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 766장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 786장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
 ## 2026-10-20 · 20장
+- 도판: [쇠밭종다리](img/aves/anthus-godlewskii.webp), [흑기러기](img/aves/branta-bernicla.webp), [섬촉새](img/aves/emberiza-personata.webp), [검은멧새](img/aves/emberiza-variabilis.webp), [붉은가슴울새](img/aves/larvivora-akahige.webp), [흰눈썹울새](img/aves/luscinia-svecica.webp), [노랑머리할미새](img/aves/motacilla-citreola.webp), [사할린되솔새](img/aves/phylloscopus-borealoides.webp), [잿빛쇠찌르레기](img/aves/sturnus-sinensis.webp), [대륙검은지빠귀](img/aves/turdus-mandarinus.webp), [붉은목지빠귀](img/aves/turdus-ruficollis.webp), [작은동박새](img/aves/zosterops-simplex.webp)
+- 동정 도해: [쇠밭종다리](img/aves/anthus-godlewskii.id.webp), [흑기러기](img/aves/branta-bernicla.id.webp), [검은멧새](img/aves/emberiza-variabilis.id.webp), [청호반새](img/aves/halcyon-pileata.id.webp), [붉은가슴울새](img/aves/larvivora-akahige.id.webp), [흰눈썹울새](img/aves/luscinia-svecica.id.webp), [노랑머리할미새](img/aves/motacilla-citreola.id.webp), [잿빛쇠찌르레기](img/aves/sturnus-sinensis.id.webp)
+
+## 2026-10-20 · `386ca8d` · 20장
 - 도판: [알락개구리매](img/aves/circus-melanoleucos.webp), [흰털발제비](img/aves/delichon-dasypus.webp), [흰턱제비](img/aves/delichon-lagopodum.webp), [검은바람까마귀](img/aves/dicrurus-macrocercus.webp), [쇠황조롱이](img/aves/falco-columbarius.webp), [청호반새](img/aves/halcyon-pileata.webp), [긴꼬리때까치](img/aves/lanius-schach.webp), [물때까치](img/aves/lanius-sphenocercus.webp), [잣까마귀](img/aves/nucifraga-caryocatactes.webp), [연노랑눈썹솔새](img/aves/phylloscopus-humei.webp), [올빼미](img/aves/strix-aluco.webp), [긴점박이올빼미](img/aves/strix-uralensis.webp)
 - 동정 도해: [흰털발제비](img/aves/delichon-dasypus.id.webp), [검은바람까마귀](img/aves/dicrurus-macrocercus.id.webp), [쇠황조롱이](img/aves/falco-columbarius.id.webp), [긴꼬리때까치](img/aves/lanius-schach.id.webp), [물때까치](img/aves/lanius-sphenocercus.id.webp), [잣까마귀](img/aves/nucifraga-caryocatactes.id.webp), [올빼미](img/aves/strix-aluco.id.webp), [긴점박이올빼미](img/aves/strix-uralensis.id.webp)
 
