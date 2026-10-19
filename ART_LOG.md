@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 820장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 832장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 17장
+## 2026-10-20 · 12장
+- 도판: [흰죽지꼬마물떼새](img/aves/charadrius-hiaticula.webp), [청도요](img/aves/gallinago-solitaria.webp), [긴부리도요](img/aves/limnodromus-scolopaceus.webp), [큰부리도요](img/aves/limnodromus-semipalmatus.webp), [붉은배지느러미발도요](img/aves/phalaropus-fulicarius.webp), [민댕기물떼새](img/aves/vanellus-cinereus.webp)
+- 동정 도해: [청도요](img/aves/gallinago-solitaria.id.webp), [시베리아흰두루미](img/aves/leucogeranus-leucogeranus.id.webp), [긴부리도요](img/aves/limnodromus-scolopaceus.id.webp), [큰부리도요](img/aves/limnodromus-semipalmatus.id.webp), [붉은배지느러미발도요](img/aves/phalaropus-fulicarius.id.webp), [민댕기물떼새](img/aves/vanellus-cinereus.id.webp)
+
+## 2026-10-20 · `5e30468` · 17장
 - 도판: [작은칼새](img/aves/aerodramus-brevirostris.webp), [쇠칼새](img/aves/apus-nipalensis.webp), [밤색날개뻐꾸기](img/aves/clamator-coromandus.webp), [검은뻐꾸기](img/aves/eudynamys-scolopacea.webp), [큰매사촌](img/aves/hierococcyx-sparverioides.webp), [시베리아흰두루미](img/aves/leucogeranus-leucogeranus.webp), [염주비둘기](img/aves/streptopelia-decaocto.webp), [홍비둘기](img/aves/streptopelia-tranquebarica.webp), [녹색비둘기](img/aves/treron-sieboldii.webp), [한국뜸부기](img/aves/zapornia-paykullii.webp)
 - 동정 도해: [쇠칼새](img/aves/apus-nipalensis.id.webp), [밤색날개뻐꾸기](img/aves/clamator-coromandus.id.webp), [바다꿩](img/aves/clangula-hyemalis.id.webp), [염주비둘기](img/aves/streptopelia-decaocto.id.webp), [홍비둘기](img/aves/streptopelia-tranquebarica.id.webp), [녹색비둘기](img/aves/treron-sieboldii.id.webp), [한국뜸부기](img/aves/zapornia-paykullii.id.webp)
 
