@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 573장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 584장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-19 · 17장
+## 2026-10-19 · 11장
+- 도판: [아물쇠딱다구리](img/aves/dendrocopos-canicapillus.webp), [비둘기조롱이](img/aves/falco-amurensis.webp), [호반새](img/aves/halcyon-coromanda.webp), [흰꼬리수리](img/aves/haliaeetus-albicilla.webp), [개미잡이](img/aves/jynx-torquilla.webp)
+- 동정 도해: [아물쇠딱다구리](img/aves/dendrocopos-canicapillus.id.webp), [호반새](img/aves/halcyon-coromanda.id.webp), [흰꼬리수리](img/aves/haliaeetus-albicilla.id.webp), [개미잡이](img/aves/jynx-torquilla.id.webp), [솔개](img/aves/milvus-migrans.id.webp), [물수리](img/aves/pandion-haliaetus.id.webp)
+
+## 2026-10-19 · `557d552` · 17장
 - 도판: [흰날개해오라기](img/aves/ardeola-bacchus.webp), [흰죽지제비갈매기](img/aves/chlidonias-leucopterus.webp), [잿빛개구리매](img/aves/circus-cyaneus.webp), [노랑부리백로](img/aves/egretta-eulophotes.webp), [흑로](img/aves/egretta-sacra.webp), [덤불해오라기](img/aves/ixobrychus-sinensis.webp), [솔개](img/aves/milvus-migrans.webp), [물수리](img/aves/pandion-haliaetus.webp), [가마우지](img/aves/phalacrocorax-capillatus.webp), [노랑부리저어새](img/aves/platalea-leucorodia.webp)
 - 동정 도해: [흰날개해오라기](img/aves/ardeola-bacchus.id.webp), [잿빛개구리매](img/aves/circus-cyaneus.id.webp), [노랑부리백로](img/aves/egretta-eulophotes.id.webp), [흑로](img/aves/egretta-sacra.id.webp), [덤불해오라기](img/aves/ixobrychus-sinensis.id.webp), [가마우지](img/aves/phalacrocorax-capillatus.id.webp), [노랑부리저어새](img/aves/platalea-leucorodia.id.webp)
 
