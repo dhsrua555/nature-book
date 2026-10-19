@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 727장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 746장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
 ## 2026-10-20 · 19장
+- 도판: [검독수리](img/aves/aquila-chrysaetos.webp), [쇠부엉이](img/aves/asio-flammeus.webp), [칡부엉이](img/aves/asio-otus.webp), [금눈쇠올빼미](img/aves/athene-noctua.webp), [큰말똥가리](img/aves/buteo-hemilasius.webp), [털발말똥가리](img/aves/buteo-lagopus.webp), [개구리매](img/aves/circus-spilonotus.webp), [항라머리검독수리](img/aves/clanga-clanga.webp), [참수리](img/aves/haliaeetus-pelagicus.webp)
+- 동정 도해: [검독수리](img/aves/aquila-chrysaetos.id.webp), [쇠부엉이](img/aves/asio-flammeus.id.webp), [칡부엉이](img/aves/asio-otus.id.webp), [금눈쇠올빼미](img/aves/athene-noctua.id.webp), [털발말똥가리](img/aves/buteo-lagopus.id.webp), [넓적부리도요](img/aves/calidris-pygmaea.id.webp), [황새](img/aves/ciconia-boyciana.id.webp), [개구리매](img/aves/circus-spilonotus.id.webp), [항라머리검독수리](img/aves/clanga-clanga.id.webp), [참수리](img/aves/haliaeetus-pelagicus.id.webp)
+
+## 2026-10-20 · `7ebe7d5` · 19장
 - 도판: [붉은왜가리](img/aves/ardea-purpurea.webp), [붉은발슴새](img/aves/ardenna-carneipes.webp), [알락해오라기](img/aves/botaurus-stellaris.webp), [흰눈썹바다오리](img/aves/cepphus-carbo.webp), [황새](img/aves/ciconia-boyciana.webp), [흰부리아비](img/aves/gavia-adamsii.webp), [붉은해오라기](img/aves/gorsachius-goisagi.webp), [큰덤불해오라기](img/aves/ixobrychus-eurhythmus.webp), [바다오리](img/aves/uria-aalge.webp), [큰부리바다오리](img/aves/uria-lomvia.webp)
 - 동정 도해: [붉은왜가리](img/aves/ardea-purpurea.id.webp), [붉은발슴새](img/aves/ardenna-carneipes.id.webp), [알락해오라기](img/aves/botaurus-stellaris.id.webp), [알락쇠오리](img/aves/brachyramphus-perdix.id.webp), [흰눈썹바다오리](img/aves/cepphus-carbo.id.webp), [흰부리아비](img/aves/gavia-adamsii.id.webp), [붉은해오라기](img/aves/gorsachius-goisagi.id.webp), [큰덤불해오라기](img/aves/ixobrychus-eurhythmus.id.webp), [바다오리](img/aves/uria-aalge.id.webp)
 
