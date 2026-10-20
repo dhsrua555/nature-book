@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 845장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 864장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 13장
+## 2026-10-20 · 19장
+- 도판: [작은바다오리](img/aves/aethia-pusilla.webp), [초원수리](img/aves/aquila-nipalensis.webp), [먹황새](img/aves/ciconia-nigra.webp), [검은어깨매](img/aves/elanus-caeruleus.webp), [군함조](img/aves/fregata-ariel.webp), [열대붉은해오라기](img/aves/ixobrychus-cinnamomeus.webp), [작은흰갈매기](img/aves/larus-glaucoides.webp), [옅은재갈매기](img/aves/larus-smithsonianus.webp), [긴꼬리도둑갈매기](img/aves/stercorarius-longicaudus.webp), [갈색얼가니새](img/aves/sula-leucogaster.webp)
+- 동정 도해: [작은바다오리](img/aves/aethia-pusilla.id.webp), [아메리카메추라기도요](img/aves/calidris-melanotos.id.webp), [먹황새](img/aves/ciconia-nigra.id.webp), [군함조](img/aves/fregata-ariel.id.webp), [열대붉은해오라기](img/aves/ixobrychus-cinnamomeus.id.webp), [검은해오라기](img/aves/ixobrychus-flavicollis.id.webp), [작은흰갈매기](img/aves/larus-glaucoides.id.webp), [검은등제비갈매기](img/aves/onychoprion-fuscatus.id.webp), [갈색얼가니새](img/aves/sula-leucogaster.id.webp)
+
+## 2026-10-20 · `540b9da` · 13장
 - 도판: [아메리카메추라기도요](img/aves/calidris-melanotos.webp), [작은도요](img/aves/calidris-minuta.webp), [큰부리제비갈매기](img/aves/gelochelidon-nilotica.webp), [붉은부리큰제비갈매기](img/aves/hydroprogne-caspia.webp), [큰검은머리갈매기](img/aves/ichthyaetus-ichthyaetus.webp), [고대갈매기](img/aves/ichthyaetus-relictus.webp), [검은등제비갈매기](img/aves/onychoprion-fuscatus.webp), [뿔제비갈매기](img/aves/thalasseus-bernsteini.webp)
 - 동정 도해: [작은도요](img/aves/calidris-minuta.id.webp), [큰부리제비갈매기](img/aves/gelochelidon-nilotica.id.webp), [붉은부리큰제비갈매기](img/aves/hydroprogne-caspia.id.webp), [큰검은머리갈매기](img/aves/ichthyaetus-ichthyaetus.id.webp), [고대갈매기](img/aves/ichthyaetus-relictus.id.webp)
 
