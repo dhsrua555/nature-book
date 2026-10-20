@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 895장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 904장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 15장
+## 2026-10-20 · 9장
+- 도판: [붉은가슴흰꼬리딱새](img/aves/ficedula-parva.webp), [검은등사막딱새](img/aves/oenanthe-pleschanka.webp), [검은머리딱새](img/aves/phoenicurus-ochruros.webp), [검은뺨딱새](img/aves/saxicola-ferreus.webp)
+- 동정 도해: [파랑딱새](img/aves/eumyias-thalassinus.id.webp), [붉은가슴흰꼬리딱새](img/aves/ficedula-parva.id.webp), [검은등사막딱새](img/aves/oenanthe-pleschanka.id.webp), [검은머리딱새](img/aves/phoenicurus-ochruros.id.webp), [검은뺨딱새](img/aves/saxicola-ferreus.id.webp)
+
+## 2026-10-20 · `dd94b16` · 15장
 - 도판: [대륙큰유리새](img/aves/cyanoptila-cumatilis.webp), [파랑딱새](img/aves/eumyias-thalassinus.webp), [뿔종다리](img/aves/galerida-cristata.webp), [점무늬가슴쥐발귀](img/aves/locustella-davidi.webp), [노랑배솔새사촌](img/aves/phylloscopus-affinis.webp), [쇠긴다리솔새사촌](img/aves/phylloscopus-amandii.webp), [검은다리솔새](img/aves/phylloscopus-collybita.webp), [솔새](img/aves/phylloscopus-xanthodryas.webp), [쇠동고비](img/aves/sitta-villosa.webp), [분홍찌르레기](img/aves/sturnus-roseus.webp), [검은목지빠귀](img/aves/turdus-atrogularis.webp), [큰점지빠귀](img/aves/turdus-mupinensis.webp)
 - 동정 도해: [뿔종다리](img/aves/galerida-cristata.id.webp), [쇠동고비](img/aves/sitta-villosa.id.webp), [검은목지빠귀](img/aves/turdus-atrogularis.id.webp)
 
