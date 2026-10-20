@@ -2,6 +2,7 @@
 
 Codex가 `tools/WORK.md` 대로 그려 `img/` 에 넣은 그림을 Claude Code가 살펴보고, 맞는 것만 커밋해 `main` 에 올린다.
 Orca 자동화가 매시 10분(그리기 사이) `uv run tools/auto.py can-review` 가 0일 때(검수할 그림이 있고 그리는 중이 아님) 맡긴다.
+주간 잔여 20% 아래로 그리기가 쉬는 동안에는 검수할 그림이 다 빠지면 주간 리셋 15분 뒤까지 쉰다(`tools/WORK.md` 'Orca 자동화로 돌 때').
 
 ## 할 일
 

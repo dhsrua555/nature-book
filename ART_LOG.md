@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 904장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 9장
+## 2026-10-20 · `0cefd64` · 9장
 - 도판: [붉은가슴흰꼬리딱새](img/aves/ficedula-parva.webp), [검은등사막딱새](img/aves/oenanthe-pleschanka.webp), [검은머리딱새](img/aves/phoenicurus-ochruros.webp), [검은뺨딱새](img/aves/saxicola-ferreus.webp)
 - 동정 도해: [파랑딱새](img/aves/eumyias-thalassinus.id.webp), [붉은가슴흰꼬리딱새](img/aves/ficedula-parva.id.webp), [검은등사막딱새](img/aves/oenanthe-pleschanka.id.webp), [검은머리딱새](img/aves/phoenicurus-ochruros.id.webp), [검은뺨딱새](img/aves/saxicola-ferreus.id.webp)
 
