@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 880장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 895장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-20 · 16장
+## 2026-10-20 · 15장
+- 도판: [대륙큰유리새](img/aves/cyanoptila-cumatilis.webp), [파랑딱새](img/aves/eumyias-thalassinus.webp), [뿔종다리](img/aves/galerida-cristata.webp), [점무늬가슴쥐발귀](img/aves/locustella-davidi.webp), [노랑배솔새사촌](img/aves/phylloscopus-affinis.webp), [쇠긴다리솔새사촌](img/aves/phylloscopus-amandii.webp), [검은다리솔새](img/aves/phylloscopus-collybita.webp), [솔새](img/aves/phylloscopus-xanthodryas.webp), [쇠동고비](img/aves/sitta-villosa.webp), [분홍찌르레기](img/aves/sturnus-roseus.webp), [검은목지빠귀](img/aves/turdus-atrogularis.webp), [큰점지빠귀](img/aves/turdus-mupinensis.webp)
+- 동정 도해: [뿔종다리](img/aves/galerida-cristata.id.webp), [쇠동고비](img/aves/sitta-villosa.id.webp), [검은목지빠귀](img/aves/turdus-atrogularis.id.webp)
+
+## 2026-10-20 · `4c96e1c` · 16장
 - 도판: [흰죽지수리](img/aves/aquila-heliaca.webp), [붉은배오색딱다구리](img/aves/dendrocopos-hyperythrus.webp), [바람까마귀](img/aves/dicrurus-hottentottus.webp), [회색바람까마귀](img/aves/dicrurus-leucophaeus.webp), [헨다손매](img/aves/falco-cherrug.webp), [검은해오라기](img/aves/ixobrychus-flavicollis.webp), [검은할미새사촌](img/aves/lalage-melaschistos.webp), [재때까치](img/aves/lanius-borealis.webp), [북방긴꼬리딱새](img/aves/terpsiphone-paradisi.webp)
 - 동정 도해: [초원수리](img/aves/aquila-nipalensis.id.webp), [붉은배오색딱다구리](img/aves/dendrocopos-hyperythrus.id.webp), [바람까마귀](img/aves/dicrurus-hottentottus.id.webp), [헨다손매](img/aves/falco-cherrug.id.webp), [검은할미새사촌](img/aves/lalage-melaschistos.id.webp), [재때까치](img/aves/lanius-borealis.id.webp), [북방긴꼬리딱새](img/aves/terpsiphone-paradisi.id.webp)
 
