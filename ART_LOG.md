@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 942장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 950장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 9장
+## 2026-10-26 · 8장
+- 도판: [누른도요](img/aves/calidris-subruficollis.webp), [검은제비갈매기](img/aves/chlidonias-niger.webp), [흰제비갈매기](img/aves/gygis-alba.webp), [꼬마도요](img/aves/lymnocryptes-minimus.webp), [에위니아제비갈매기](img/aves/onychoprion-anaethetus.webp)
+- 동정 도해: [누른도요](img/aves/calidris-subruficollis.id.webp), [검은제비갈매기](img/aves/chlidonias-niger.id.webp), [꼬마도요](img/aves/lymnocryptes-minimus.id.webp)
+
+## 2026-10-26 · `0d38813` · 9장
 - 도판: [검은이마왕눈물떼새](img/aves/charadrius-atrifrons.webp), [알락뜸부기](img/aves/coturnicops-exquisitus.webp), [흰눈썹물떼새](img/aves/eudromias-morinellus.webp), [쇠재두루미](img/aves/grus-virgo.webp), [회색가슴뜸부기](img/aves/rallus-aquaticus.webp), [목점박이비둘기](img/aves/streptopelia-chinensis.webp)
 - 동정 도해: [알락뜸부기](img/aves/coturnicops-exquisitus.id.webp), [쇠재두루미](img/aves/grus-virgo.id.webp), [회색가슴뜸부기](img/aves/rallus-aquaticus.id.webp)
 
