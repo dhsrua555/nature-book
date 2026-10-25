@@ -1,8 +1,11 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 932장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 933장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 8장
+## 2026-10-26 · 1장
+- 도판: [흰배칼새](img/aves/tachymarptis-melba.webp)
+
+## 2026-10-26 · `5122506` · 8장
 - 도판: [꼬마오리](img/aves/bucephala-albeola.webp), [우는뻐꾸기](img/aves/cacomantis-merulinus.webp), [작은뻐꾸기사촌](img/aves/centropus-bengalensis.webp), [분홍가슴비둘기](img/aves/columba-oenas.webp), [노랑부리검둥오리사촌](img/aves/melanitta-fusca.webp), [흰이마검둥오리](img/aves/melanitta-perspicillata.webp), [검은두견이](img/aves/surniculus-lugubris.webp)
 - 동정 도해: [분홍가슴비둘기](img/aves/columba-oenas.id.webp)
 
