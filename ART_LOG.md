@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 950장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 960장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 8장
+## 2026-10-26 · 10장
+- 도판: [뿔바다오리](img/aves/aethia-cristatella.webp), [긴목갈매기](img/aves/chroicocephalus-genei.webp), [댕기바다오리](img/aves/fratercula-cirrhata.webp), [갈색머리갈매기](img/aves/larus-brunnicephalus.webp), [레이산알바트로스](img/aves/phoebastria-immutabilis.webp), [검은발알바트로스](img/aves/phoebastria-nigripes.webp), [긴꼬리제비갈매기](img/aves/sterna-dougallii.webp), [큰제비갈매기](img/aves/thalasseus-bergii.webp)
+- 동정 도해: [긴목갈매기](img/aves/chroicocephalus-genei.id.webp), [큰제비갈매기](img/aves/thalasseus-bergii.id.webp)
+
+## 2026-10-26 · `6c1a6b1` · 8장
 - 도판: [누른도요](img/aves/calidris-subruficollis.webp), [검은제비갈매기](img/aves/chlidonias-niger.webp), [흰제비갈매기](img/aves/gygis-alba.webp), [꼬마도요](img/aves/lymnocryptes-minimus.webp), [에위니아제비갈매기](img/aves/onychoprion-anaethetus.webp)
 - 동정 도해: [누른도요](img/aves/calidris-subruficollis.id.webp), [검은제비갈매기](img/aves/chlidonias-niger.id.webp), [꼬마도요](img/aves/lymnocryptes-minimus.id.webp)
 
