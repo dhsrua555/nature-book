@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 904장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 924장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-10-26 · 20장
+- 도판: [미국쇠오리](img/aves/anas-carolinensis.webp), [흰머리기러기](img/aves/anser-canagicus.webp), [줄기러기](img/aves/anser-indicus.webp), [옅은밭종다리](img/aves/anthus-spinoletta.webp), [나무밭종다리](img/aves/anthus-trivialis.webp), [쇠검은머리흰죽지](img/aves/aythya-affinis.webp), [북미댕기흰죽지](img/aves/aythya-collaris.webp), [큰흰죽지](img/aves/aythya-valisineria.webp), [붉은가슴기러기](img/aves/branta-ruficollis.webp), [검은머리멧새](img/aves/emberiza-melanocephala.webp), [흰얼굴아기오리](img/aves/nettapus-coromandelianus.webp), [흰멧새](img/aves/plectrophenax-nivalis.webp), [재색멋쟁이새](img/aves/pyrrhula-pyrrhula-griseiventris.webp), [부채꼬리바위딱새](img/aves/rhyacornis-fuliginosa.webp), [호사북방오리](img/aves/somateria-spectabilis.webp)
+- 동정 도해: [미국쇠오리](img/aves/anas-carolinensis.id.webp), [흰머리기러기](img/aves/anser-canagicus.id.webp), [옅은밭종다리](img/aves/anthus-spinoletta.id.webp), [큰흰죽지](img/aves/aythya-valisineria.id.webp), [흰멧새](img/aves/plectrophenax-nivalis.id.webp)
 
 ## 2026-10-20 · `0cefd64` · 9장
 - 도판: [붉은가슴흰꼬리딱새](img/aves/ficedula-parva.webp), [검은등사막딱새](img/aves/oenanthe-pleschanka.webp), [검은머리딱새](img/aves/phoenicurus-ochruros.webp), [검은뺨딱새](img/aves/saxicola-ferreus.webp)
