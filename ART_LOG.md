@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1043장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1056장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 12장
+## 2026-10-27 · 13장
+- 도판: [바위양진이](img/aves/bucanetes-mongolicus.webp), [붉은머리멧새](img/aves/emberiza-bruniceps.webp), [노랑멧새](img/aves/emberiza-citrinella.webp), [바위멧새](img/aves/emberiza-godlewskii.webp), [회색머리멧새](img/aves/emberiza-hortulana.webp), [검은꼬리사막딱새](img/aves/oenanthe-deserti.webp), [초원멧새](img/aves/passerculus-sandwichensis.webp), [사다새](img/aves/pelecanus-crispus.webp), [큰사다새](img/aves/pelecanus-onocrotalus.webp), [세가락메추라기](img/aves/turnix-tanki.webp), [노랑정수리북미멧새](img/aves/zonotrichia-atricapilla.webp), [흰정수리북미멧새](img/aves/zonotrichia-leucophrys.webp)
+- 동정 도해: [붉은머리멧새](img/aves/emberiza-bruniceps.id.webp)
+
+## 2026-10-26 · `1b52bc9` · 12장
 - 도판: [풀밭종다리](img/aves/anthus-pratensis.webp), [한국밭종다리](img/aves/anthus-roseatus.webp), [푸른머리되새](img/aves/fringilla-coelebs.webp), [얼룩무늬납부리새](img/aves/lonchura-punctulata.webp), [흰이마알락할미새](img/aves/motacilla-alba-personata.webp), [긴다리사막딱새](img/aves/oenanthe-isabellina.webp), [사막딱새](img/aves/oenanthe-oenanthe.webp), [집참새](img/aves/passer-domesticus.webp), [솔양진이](img/aves/pinicola-enucleator.webp), [쇠바위종다리](img/aves/prunella-rubida.webp)
 - 동정 도해: [한국밭종다리](img/aves/anthus-roseatus.id.webp), [솔양진이](img/aves/pinicola-enucleator.id.webp)
 
