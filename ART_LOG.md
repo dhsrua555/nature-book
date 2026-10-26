@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1056장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1101장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-27 · 13장
+## 2026-10-27 · 45장
+- 도판: [검은머리갈색찌르레기](img/aves/acridotheres-tristis.webp), [북방쇠종다리](img/aves/alaudala-cheleensis.webp), [미국오리](img/aves/anas-rubripes.webp), [검은등칼새](img/aves/apus-apus.webp), [미국흰죽지](img/aves/aythya-americana.webp), [흰올빼미](img/aves/bubo-scandiacus.webp), [북방흰뺨오리](img/aves/bucephala-islandica.webp), [큰까마귀](img/aves/corvus-corax.webp), [집까마귀](img/aves/corvus-splendens.webp), [크낙새](img/aves/dryocopus-javensis.webp), [꼬마갈매기](img/aves/hydrocoloeus-minutus.webp), [흰죽지솔잣새](img/aves/loxia-leucoptera.webp), [멧닭](img/aves/lyrurus-tetrix.webp), [뿔호반새](img/aves/megaceryle-lugubris.webp), [따오기](img/aves/nipponia-nippon.webp), [뿔매](img/aves/nisaetus-nipalensis.webp), [북극흰갈매기](img/aves/pagophila-eburnea.webp), [붉은뺨가마우지](img/aves/phalacrocorax-urile.webp), [큰지느러미발도요](img/aves/phalaropus-tricolor.webp), [알바트로스](img/aves/phoebastria-albatrus.webp), [흰이마딱새](img/aves/phoenicurus-phoenicurus.webp), [북방쇠박새](img/aves/poecile-montanus.webp), [붉은부리까마귀](img/aves/pyrrhocorax-pyrrhocorax.webp), [꼬리치레](img/aves/rhopophilus-pekinensis.webp), [사막꿩](img/aves/syrrhaptes-paradoxus.webp), [큰노랑발도요](img/aves/tringa-melanoleuca.webp)
+- 동정 도해: [북방쇠종다리](img/aves/alaudala-cheleensis.id.webp), [미국오리](img/aves/anas-rubripes.id.webp), [흰올빼미](img/aves/bubo-scandiacus.id.webp), [북방흰뺨오리](img/aves/bucephala-islandica.id.webp), [크낙새](img/aves/dryocopus-javensis.id.webp), [흰죽지솔잣새](img/aves/loxia-leucoptera.id.webp), [멧닭](img/aves/lyrurus-tetrix.id.webp), [뿔호반새](img/aves/megaceryle-lugubris.id.webp), [따오기](img/aves/nipponia-nippon.id.webp), [뿔매](img/aves/nisaetus-nipalensis.id.webp), [북극흰갈매기](img/aves/pagophila-eburnea.id.webp), [사다새](img/aves/pelecanus-crispus.id.webp), [큰지느러미발도요](img/aves/phalaropus-tricolor.id.webp), [북방쇠박새](img/aves/poecile-montanus.id.webp), [붉은부리까마귀](img/aves/pyrrhocorax-pyrrhocorax.id.webp), [꼬리치레](img/aves/rhopophilus-pekinensis.id.webp), [사막꿩](img/aves/syrrhaptes-paradoxus.id.webp), [큰노랑발도요](img/aves/tringa-melanoleuca.id.webp), [목테갈매기](img/aves/xema-sabini.id.webp)
+
+## 2026-10-27 · `cd211b3` · 13장
 - 도판: [바위양진이](img/aves/bucanetes-mongolicus.webp), [붉은머리멧새](img/aves/emberiza-bruniceps.webp), [노랑멧새](img/aves/emberiza-citrinella.webp), [바위멧새](img/aves/emberiza-godlewskii.webp), [회색머리멧새](img/aves/emberiza-hortulana.webp), [검은꼬리사막딱새](img/aves/oenanthe-deserti.webp), [초원멧새](img/aves/passerculus-sandwichensis.webp), [사다새](img/aves/pelecanus-crispus.webp), [큰사다새](img/aves/pelecanus-onocrotalus.webp), [세가락메추라기](img/aves/turnix-tanki.webp), [노랑정수리북미멧새](img/aves/zonotrichia-atricapilla.webp), [흰정수리북미멧새](img/aves/zonotrichia-leucophrys.webp)
 - 동정 도해: [붉은머리멧새](img/aves/emberiza-bruniceps.id.webp)
 
