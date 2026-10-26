@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 979장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 988장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 19장
+## 2026-10-26 · 9장
+- 도판: [회색숲제비](img/aves/artamus-fuscus.webp), [큰부리바람까마귀](img/aves/dicrurus-annectans.webp), [흰점어깨수리](img/aves/hieraaetus-pennatus.webp), [붉은등때까치](img/aves/lanius-collurio.webp), [덤불때까치](img/aves/lanius-isabellinus.webp), [갈색할미새사촌](img/aves/pericrocotus-cantonensis.webp), [검은가슴할미새사촌](img/aves/pericrocotus-tegimae.webp), [푸른날개팔색조](img/aves/pitta-moluccensis.webp)
+- 동정 도해: [느시](img/aves/otis-tarda.id.webp)
+
+## 2026-10-26 · `ed8034d` · 19장
 - 도판: [작은새매](img/aves/accipiter-virgatus.webp), [흰배줄무늬수리](img/aves/aquila-fasciata.webp), [검은댕기수리](img/aves/aviceda-leuphotes.webp), [검은슴새](img/aves/bulweria-bulwerii.webp), [흰매](img/aves/falco-rusticolus.webp), [큰군함조](img/aves/fregata-minor.webp), [푸른눈테해오라기](img/aves/gorsachius-melanolophus.webp), [수염수리](img/aves/gypaetus-barbatus.webp), [고산대머리수리](img/aves/gyps-himalayensis.webp), [적갈색따오기](img/aves/plegadis-falcinellus.webp), [흰배슴새](img/aves/pterodroma-hypoleuca.webp), [관수리](img/aves/spilornis-cheela.webp), [푸른얼굴얼가니새](img/aves/sula-dactylatra.webp), [붉은발얼가니새](img/aves/sula-sula.webp), [검은머리흰따오기](img/aves/threskiornis-melanocephalus.webp), [가면올빼미](img/aves/tyto-longimembris.webp)
 - 동정 도해: [수염수리](img/aves/gypaetus-barbatus.id.webp), [푸른얼굴얼가니새](img/aves/sula-dactylatra.id.webp), [검은머리흰따오기](img/aves/threskiornis-melanocephalus.id.webp)
 
