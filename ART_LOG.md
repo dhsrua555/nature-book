@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1101장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1114장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-27 · 45장
+## 2026-10-27 · 13장
+- 도판: [쇠오색딱다구리](img/aves/dendrocopos-minor.webp), [점박이멧새](img/aves/emberiza-jankowskii.webp), [붉은꼬리때까치](img/aves/lanius-phoenicuroides.webp), [흰목딱새](img/aves/phoenicurus-schisticeps.webp), [붉은배멋쟁이새](img/aves/pyrrhula-pyrrhula-cassinii.webp), [흰죽지검은딱새](img/aves/saxicola-caprata.webp), [긴꼬리올빼미](img/aves/surnia-ulula.webp), [목테갈매기](img/aves/xema-sabini.webp)
+- 동정 도해: [쇠오색딱다구리](img/aves/dendrocopos-minor.id.webp), [점박이멧새](img/aves/emberiza-jankowskii.id.webp), [붉은뺨가마우지](img/aves/phalacrocorax-urile.id.webp), [알바트로스](img/aves/phoebastria-albatrus.id.webp), [긴꼬리올빼미](img/aves/surnia-ulula.id.webp)
+
+## 2026-10-27 · `948a276` · 45장
 - 도판: [검은머리갈색찌르레기](img/aves/acridotheres-tristis.webp), [북방쇠종다리](img/aves/alaudala-cheleensis.webp), [미국오리](img/aves/anas-rubripes.webp), [검은등칼새](img/aves/apus-apus.webp), [미국흰죽지](img/aves/aythya-americana.webp), [흰올빼미](img/aves/bubo-scandiacus.webp), [북방흰뺨오리](img/aves/bucephala-islandica.webp), [큰까마귀](img/aves/corvus-corax.webp), [집까마귀](img/aves/corvus-splendens.webp), [크낙새](img/aves/dryocopus-javensis.webp), [꼬마갈매기](img/aves/hydrocoloeus-minutus.webp), [흰죽지솔잣새](img/aves/loxia-leucoptera.webp), [멧닭](img/aves/lyrurus-tetrix.webp), [뿔호반새](img/aves/megaceryle-lugubris.webp), [따오기](img/aves/nipponia-nippon.webp), [뿔매](img/aves/nisaetus-nipalensis.webp), [북극흰갈매기](img/aves/pagophila-eburnea.webp), [붉은뺨가마우지](img/aves/phalacrocorax-urile.webp), [큰지느러미발도요](img/aves/phalaropus-tricolor.webp), [알바트로스](img/aves/phoebastria-albatrus.webp), [흰이마딱새](img/aves/phoenicurus-phoenicurus.webp), [북방쇠박새](img/aves/poecile-montanus.webp), [붉은부리까마귀](img/aves/pyrrhocorax-pyrrhocorax.webp), [꼬리치레](img/aves/rhopophilus-pekinensis.webp), [사막꿩](img/aves/syrrhaptes-paradoxus.webp), [큰노랑발도요](img/aves/tringa-melanoleuca.webp)
 - 동정 도해: [북방쇠종다리](img/aves/alaudala-cheleensis.id.webp), [미국오리](img/aves/anas-rubripes.id.webp), [흰올빼미](img/aves/bubo-scandiacus.id.webp), [북방흰뺨오리](img/aves/bucephala-islandica.id.webp), [크낙새](img/aves/dryocopus-javensis.id.webp), [흰죽지솔잣새](img/aves/loxia-leucoptera.id.webp), [멧닭](img/aves/lyrurus-tetrix.id.webp), [뿔호반새](img/aves/megaceryle-lugubris.id.webp), [따오기](img/aves/nipponia-nippon.id.webp), [뿔매](img/aves/nisaetus-nipalensis.id.webp), [북극흰갈매기](img/aves/pagophila-eburnea.id.webp), [사다새](img/aves/pelecanus-crispus.id.webp), [큰지느러미발도요](img/aves/phalaropus-tricolor.id.webp), [북방쇠박새](img/aves/poecile-montanus.id.webp), [붉은부리까마귀](img/aves/pyrrhocorax-pyrrhocorax.id.webp), [꼬리치레](img/aves/rhopophilus-pekinensis.id.webp), [사막꿩](img/aves/syrrhaptes-paradoxus.id.webp), [큰노랑발도요](img/aves/tringa-melanoleuca.id.webp), [목테갈매기](img/aves/xema-sabini.id.webp)
 
