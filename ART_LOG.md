@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 996장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1016장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 8장
+## 2026-10-26 · 20장
+- 도판: [북방쇠개개비](img/aves/acrocephalus-agricola.webp), [덤불개개비](img/aves/acrocephalus-dumetorum.webp), [풀쇠개개비](img/aves/acrocephalus-schoenobaenus.webp), [우수리개개비](img/aves/acrocephalus-tangorum.webp), [검은턱오목눈이](img/aves/aegithalos-glaucogularis.webp), [흰머리검은직박구리](img/aves/hypsipetes-leucocephalus.webp), [쇠덤불개개비](img/aves/iduna-caligata.webp), [큰개개비](img/aves/megalurus-pryeri.webp), [느시](img/aves/otis-tarda.webp), [히말라야산솔새](img/aves/phylloscopus-claudiae.webp), [노랑배솔새](img/aves/phylloscopus-ricketti.webp), [노랑가슴솔새](img/aves/phylloscopus-sibilatrix.webp), [담황턱솔새](img/aves/phylloscopus-subaffinis.webp), [회색머리노랑솔새](img/aves/phylloscopus-tephrocephalus.webp), [연노랑솔새](img/aves/phylloscopus-trochilus.webp), [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.webp), [바위산제비](img/aves/ptyonoprogne-rupestris.webp), [쇠흰턱딱새](img/aves/sylvia-curruca.webp), [비늘무늬덤불개개비](img/aves/sylvia-nisoria.webp)
+- 동정 도해: [큰개개비](img/aves/megalurus-pryeri.id.webp)
+
+## 2026-10-26 · `6387af1` · 8장
 - 도판: [회색머리노랑딱새](img/aves/culicicapa-ceylonensis.webp), [해변종다리](img/aves/eremophila-alpestris.webp), [진홍때까치](img/aves/lanius-cristatus-superciliosus.webp), [회색등때까치](img/aves/lanius-tephronotus.webp), [흰날개종다리](img/aves/melanocorypha-mongolica.webp), [수염오목눈이](img/aves/panurus-biarmicus.webp), [노랑배박새](img/aves/parus-major.webp)
 - 동정 도해: [수염오목눈이](img/aves/panurus-biarmicus.id.webp)
 
