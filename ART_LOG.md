@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1114장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1116장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-27 · 13장
+## 2026-10-27 · 2장
+- 도판: [세가락딱다구리](img/aves/picoides-tridactylus.webp)
+- 동정 도해: [세가락딱다구리](img/aves/picoides-tridactylus.id.webp)
+
+## 2026-10-27 · `bcea643` · 13장
 - 도판: [쇠오색딱다구리](img/aves/dendrocopos-minor.webp), [점박이멧새](img/aves/emberiza-jankowskii.webp), [붉은꼬리때까치](img/aves/lanius-phoenicuroides.webp), [흰목딱새](img/aves/phoenicurus-schisticeps.webp), [붉은배멋쟁이새](img/aves/pyrrhula-pyrrhula-cassinii.webp), [흰죽지검은딱새](img/aves/saxicola-caprata.webp), [긴꼬리올빼미](img/aves/surnia-ulula.webp), [목테갈매기](img/aves/xema-sabini.webp)
 - 동정 도해: [쇠오색딱다구리](img/aves/dendrocopos-minor.id.webp), [점박이멧새](img/aves/emberiza-jankowskii.id.webp), [붉은뺨가마우지](img/aves/phalacrocorax-urile.id.webp), [알바트로스](img/aves/phoebastria-albatrus.id.webp), [긴꼬리올빼미](img/aves/surnia-ulula.id.webp)
 
