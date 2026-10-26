@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1031장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1043장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 15장
+## 2026-10-26 · 12장
+- 도판: [풀밭종다리](img/aves/anthus-pratensis.webp), [한국밭종다리](img/aves/anthus-roseatus.webp), [푸른머리되새](img/aves/fringilla-coelebs.webp), [얼룩무늬납부리새](img/aves/lonchura-punctulata.webp), [흰이마알락할미새](img/aves/motacilla-alba-personata.webp), [긴다리사막딱새](img/aves/oenanthe-isabellina.webp), [사막딱새](img/aves/oenanthe-oenanthe.webp), [집참새](img/aves/passer-domesticus.webp), [솔양진이](img/aves/pinicola-enucleator.webp), [쇠바위종다리](img/aves/prunella-rubida.webp)
+- 동정 도해: [한국밭종다리](img/aves/anthus-roseatus.id.webp), [솔양진이](img/aves/pinicola-enucleator.id.webp)
+
+## 2026-10-26 · `d5940a0` · 15장
 - 도판: [검은뿔찌르레기](img/aves/acridotheres-cristatellus.webp), [흰머리바위딱새](img/aves/chaimarrornis-leucocephalus.webp), [꼬까울새](img/aves/erithacus-rubecula.webp), [북방황금새](img/aves/ficedula-elisae.webp), [남방황금새](img/aves/ficedula-owstoni.webp), [귤빛지빠귀](img/aves/geokichla-citrina.webp), [회색머리딱새](img/aves/muscicapa-ferruginea.webp), [갈색솔딱새](img/aves/muscicapa-muttui.webp), [흰꼬리유리딱새](img/aves/myiomela-leucura.webp), [붉은가슴딱새](img/aves/niltava-davidi.webp), [갈색지빠귀](img/aves/turdus-feae.webp), [붉은날개지빠귀](img/aves/turdus-iliacus.webp), [회색머리지빠귀](img/aves/turdus-pilaris.webp), [대륙점지빠귀](img/aves/turdus-viscivorus.webp)
 - 동정 도해: [쇠흰턱딱새](img/aves/sylvia-curruca.id.webp)
 
