@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 960장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 979장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 10장
+## 2026-10-26 · 19장
+- 도판: [작은새매](img/aves/accipiter-virgatus.webp), [흰배줄무늬수리](img/aves/aquila-fasciata.webp), [검은댕기수리](img/aves/aviceda-leuphotes.webp), [검은슴새](img/aves/bulweria-bulwerii.webp), [흰매](img/aves/falco-rusticolus.webp), [큰군함조](img/aves/fregata-minor.webp), [푸른눈테해오라기](img/aves/gorsachius-melanolophus.webp), [수염수리](img/aves/gypaetus-barbatus.webp), [고산대머리수리](img/aves/gyps-himalayensis.webp), [적갈색따오기](img/aves/plegadis-falcinellus.webp), [흰배슴새](img/aves/pterodroma-hypoleuca.webp), [관수리](img/aves/spilornis-cheela.webp), [푸른얼굴얼가니새](img/aves/sula-dactylatra.webp), [붉은발얼가니새](img/aves/sula-sula.webp), [검은머리흰따오기](img/aves/threskiornis-melanocephalus.webp), [가면올빼미](img/aves/tyto-longimembris.webp)
+- 동정 도해: [수염수리](img/aves/gypaetus-barbatus.id.webp), [푸른얼굴얼가니새](img/aves/sula-dactylatra.id.webp), [검은머리흰따오기](img/aves/threskiornis-melanocephalus.id.webp)
+
+## 2026-10-26 · `eb18735` · 10장
 - 도판: [뿔바다오리](img/aves/aethia-cristatella.webp), [긴목갈매기](img/aves/chroicocephalus-genei.webp), [댕기바다오리](img/aves/fratercula-cirrhata.webp), [갈색머리갈매기](img/aves/larus-brunnicephalus.webp), [레이산알바트로스](img/aves/phoebastria-immutabilis.webp), [검은발알바트로스](img/aves/phoebastria-nigripes.webp), [긴꼬리제비갈매기](img/aves/sterna-dougallii.webp), [큰제비갈매기](img/aves/thalasseus-bergii.webp)
 - 동정 도해: [긴목갈매기](img/aves/chroicocephalus-genei.id.webp), [큰제비갈매기](img/aves/thalasseus-bergii.id.webp)
 
