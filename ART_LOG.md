@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 988장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 996장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 9장
+## 2026-10-26 · 8장
+- 도판: [회색머리노랑딱새](img/aves/culicicapa-ceylonensis.webp), [해변종다리](img/aves/eremophila-alpestris.webp), [진홍때까치](img/aves/lanius-cristatus-superciliosus.webp), [회색등때까치](img/aves/lanius-tephronotus.webp), [흰날개종다리](img/aves/melanocorypha-mongolica.webp), [수염오목눈이](img/aves/panurus-biarmicus.webp), [노랑배박새](img/aves/parus-major.webp)
+- 동정 도해: [수염오목눈이](img/aves/panurus-biarmicus.id.webp)
+
+## 2026-10-26 · `adfda24` · 9장
 - 도판: [회색숲제비](img/aves/artamus-fuscus.webp), [큰부리바람까마귀](img/aves/dicrurus-annectans.webp), [흰점어깨수리](img/aves/hieraaetus-pennatus.webp), [붉은등때까치](img/aves/lanius-collurio.webp), [덤불때까치](img/aves/lanius-isabellinus.webp), [갈색할미새사촌](img/aves/pericrocotus-cantonensis.webp), [검은가슴할미새사촌](img/aves/pericrocotus-tegimae.webp), [푸른날개팔색조](img/aves/pitta-moluccensis.webp)
 - 동정 도해: [느시](img/aves/otis-tarda.id.webp)
 
