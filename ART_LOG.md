@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1016장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1031장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-26 · 20장
+## 2026-10-26 · 15장
+- 도판: [검은뿔찌르레기](img/aves/acridotheres-cristatellus.webp), [흰머리바위딱새](img/aves/chaimarrornis-leucocephalus.webp), [꼬까울새](img/aves/erithacus-rubecula.webp), [북방황금새](img/aves/ficedula-elisae.webp), [남방황금새](img/aves/ficedula-owstoni.webp), [귤빛지빠귀](img/aves/geokichla-citrina.webp), [회색머리딱새](img/aves/muscicapa-ferruginea.webp), [갈색솔딱새](img/aves/muscicapa-muttui.webp), [흰꼬리유리딱새](img/aves/myiomela-leucura.webp), [붉은가슴딱새](img/aves/niltava-davidi.webp), [갈색지빠귀](img/aves/turdus-feae.webp), [붉은날개지빠귀](img/aves/turdus-iliacus.webp), [회색머리지빠귀](img/aves/turdus-pilaris.webp), [대륙점지빠귀](img/aves/turdus-viscivorus.webp)
+- 동정 도해: [쇠흰턱딱새](img/aves/sylvia-curruca.id.webp)
+
+## 2026-10-26 · `bf19798` · 20장
 - 도판: [북방쇠개개비](img/aves/acrocephalus-agricola.webp), [덤불개개비](img/aves/acrocephalus-dumetorum.webp), [풀쇠개개비](img/aves/acrocephalus-schoenobaenus.webp), [우수리개개비](img/aves/acrocephalus-tangorum.webp), [검은턱오목눈이](img/aves/aegithalos-glaucogularis.webp), [흰머리검은직박구리](img/aves/hypsipetes-leucocephalus.webp), [쇠덤불개개비](img/aves/iduna-caligata.webp), [큰개개비](img/aves/megalurus-pryeri.webp), [느시](img/aves/otis-tarda.webp), [히말라야산솔새](img/aves/phylloscopus-claudiae.webp), [노랑배솔새](img/aves/phylloscopus-ricketti.webp), [노랑가슴솔새](img/aves/phylloscopus-sibilatrix.webp), [담황턱솔새](img/aves/phylloscopus-subaffinis.webp), [회색머리노랑솔새](img/aves/phylloscopus-tephrocephalus.webp), [연노랑솔새](img/aves/phylloscopus-trochilus.webp), [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.webp), [바위산제비](img/aves/ptyonoprogne-rupestris.webp), [쇠흰턱딱새](img/aves/sylvia-curruca.webp), [비늘무늬덤불개개비](img/aves/sylvia-nisoria.webp)
 - 동정 도해: [큰개개비](img/aves/megalurus-pryeri.id.webp)
 
