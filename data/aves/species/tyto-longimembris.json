@@ -44,7 +44,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Eastern Grass Owl (Tyto longimembris), adult: heart-shaped facial disc whitish to pale buff, framed by a thin dark rim; small black eyes; crown, nape, back and wing coverts dark brown, finely spotted pale, with golden-buff showing through in patches; flight feathers barred dark; underparts pale buff to whitish with sparse small dark spots; long legs with pale feathered tarsi. Bill pale.",
+    "subject": "Eastern Grass Owl (Tyto longimembris), adult: heart-shaped facial disc whitish to pale buff, framed by a thin dark rim; small black eyes; crown, nape, back and wing coverts dark brown, finely spotted pale, with golden-buff showing through in patches; flight feathers barred dark; underparts pale buff to whitish with sparse small dark spots; very long legs, the upper part of the tarsus feathered whitish and the lower part and the toes bare and pale. Bill pale.",
     "pose": "standing upright on a flattened tussock in tall grass, front-side view with the facial disc turned towards the viewer",
     "scene": "Tall dry grassland and reedbed on a Korean river floodplain at dusk in autumn; no people, buildings or text",
     "views": [
@@ -97,6 +97,11 @@
       "title": "Eastern Grass Owl sighting report – Zoo's Print",
       "url": "https://zoosprint.org/index.php/zp/article/download/7617/6873/7370",
       "used": "동정 포인트"
+    },
+    {
+      "title": "The Owl Pages – Eastern Grass Owl",
+      "url": "https://owlpages.com/species.php?s=220",
+      "used": "그림용 형태 정보(부척 위 2/3만 깃, 아래쪽과 발가락은 맨살, 검색 결과 요약으로 확인)"
     }
   ],
   "todo": [

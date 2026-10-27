@@ -44,7 +44,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Ryukyu Minivet (Pericrocotus tegimae), adult male: a narrow white band on the forehead; crown, nape, lores and ear-coverts black; chin and throat white, the white curving up behind the black ear-coverts onto the sides of the neck; mantle, back and rump grey, a shade darker than Ashy Minivet's; wings blackish; a grey wash across the breast, darkest at the sides and continuing down the flanks; belly and undertail coverts white; tail long, blackish with white on the outer feathers. Bill and legs black.",
+    "subject": "Ryukyu Minivet (Pericrocotus tegimae), adult male: a narrow white band on the forehead; crown, nape, lores and ear-coverts black; chin and throat white, the white curving up behind the black ear-coverts onto the sides of the neck; mantle, back and rump dark grey, clearly darker than Ashy Minivet's, so they contrast less with the black crown; wings blackish; a grey wash across the breast, darkest at the sides and continuing down the flanks; belly and undertail coverts white; tail long, blackish with white on the outer feathers. Bill and legs black.",
     "pose": "perched on an outer branch in the canopy, side view",
     "scene": "Evergreen broadleaf forest canopy on Jeju Island in early summer, soft light; no people, buildings or text",
     "views": [
@@ -56,7 +56,7 @@
       "Do not paint a broad white forehead, a pale grey back and a clean white breast; those mark Ashy Minivet (Pericrocotus divaricatus).",
       "Do not paint any red, orange or yellow.",
       "Do not leave the breast white; a grey wash runs across the breast and down the flanks, leaving only the belly white.",
-      "Do not paint the back slate-black; it is mid-grey, clearly paler than the black crown."
+      "Do not paint a pale or mid-grey back sharply set off from the black crown (Ashy Minivet); the back is dark grey and contrasts only weakly with the crown and ear-coverts."
     ],
     "confidence": "medium",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",

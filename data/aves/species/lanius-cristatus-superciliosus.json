@@ -51,11 +51,11 @@
       "adult male in spring, side view perched upright on a bare twig: wide white forehead band and broad white supercilium, black mask from the bill to near the nape, bright rufous crown, nape, mantle and rump, dark brown wings with rufous edgings, white throat, pale underparts, longish rufous-brown tail, hooked blackish bill",
       "adult female, side view perched upright on a twig: duller than the male, narrower white forehead band and supercilium, mask less distinct on the lores, rufous-brown upperparts, pale underparts with finely vermiculated flanks"
     ],
-    "build": "Medium-small, slim shrike, about the size of Bull-headed Shrike, with a longish, graduated tail. Bill shorter than the head, strong and hooked at the tip. Legs short, dark. No white patch on the wing. Perches upright on exposed twigs, swinging the tail. Females are duller, with a browner mask and fine dark barring on the flanks.",
+    "build": "Medium-small, slim shrike, about the size of Bull-headed Shrike, with a longish, graduated tail. Bill shorter than the head, strong and hooked at the tip. Legs short, dark. Usually no white on the wing; at most a tiny white spot at the base of the primaries. Perches upright on exposed twigs, swinging the tail. Females are duller, with a browner mask and fine dark barring on the flanks.",
     "avoid": [
       "Do not paint a grey crown; that marks Lanius cristatus lucionensis, the Brown Shrike race that breeds in Korea.",
       "Do not paint a duller brown crown, a narrow supercilium and little white on the forehead (nominate cristatus); superciliosus is the brightest rufous, with the widest white forehead.",
-      "Do not paint a white wing patch (Bull-headed Shrike) or a grey crown with a black tail (Red-backed Shrike)."
+      "Do not paint a large, obvious white wing patch (Bull-headed Shrike) or a grey crown with a black tail (Red-backed Shrike); at most a tiny white spot shows at the primary bases."
     ],
     "confidence": "medium",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
@@ -90,6 +90,11 @@
       "title": "Birds Korea blog: Brown Shrike subspecies in Korea (Gageo-do superciliosus)",
       "url": "https://www.birdskoreablog.org/?p=15752",
       "used": "교차 확인 (한국 기록 개체의 순백 눈썹선과 넓은 흰 이마)"
+    },
+    {
+      "title": "J. Morlan – Brown Shrike photo notes (fog.ccsf.edu)",
+      "url": "https://fog.ccsf.edu/~jmorlan/BrownShrikeP1220868s.htm",
+      "used": "그림용 형태 정보(첫째날개깃 기부 흰 점은 대개 없으나 있을 수 있음, 검색 결과 요약으로 확인)"
     }
   ],
   "todo": [

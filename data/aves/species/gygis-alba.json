@@ -47,11 +47,11 @@
       "adult, in flight seen squarely from below while hovering: wings spread straight out to the sides to their full span with a slight angle at the wrist, all-white body, wings and tail looking translucent against the light, slightly forked white tail, large dark eye ringed black, black bill with a blue base, short dark feet tucked against the belly",
       "adult, side view perched on a bare branch: entirely pure white plumage with no grey or black, large round head, big dark eye enlarged by a ring of black feathers, thick-based, sharply pointed black bill with a blue base and a slightly upturned look, short dark legs"
     ],
-    "build": "Small, delicate tern with a large rounded head, a big dark eye and a fairly long, clearly forked tail with pointed outer feathers; body smaller than a Feral Pigeon's. Bill about as long as the head, black, deep at the base and sharply pointed. Legs very short. Wings fairly broad with rounded tips for a tern. Flight light and fluttering, often hovering and peering down; perches on bare branches.",
+    "build": "Small, delicate tern with a large rounded head, a big dark eye and a short, only slightly forked tail; the outermost tail feathers are a little shorter than the next ones, so the tail tip looks shallowly notched and double-lobed rather than pointed. Body smaller than a Feral Pigeon's. Bill about as long as the head, black, deep at the base and sharply pointed. Legs very short. Wings fairly broad with rounded tips for a tern. Flight light and fluttering, often hovering and peering down; perches on bare branches.",
     "avoid": [
       "Do not add a black cap, a grey back or dark wingtips; the bird is all white.",
       "Do not paint a yellow, orange or red bill or legs.",
-      "Do not give it long tail streamers.",
+      "Do not give it long tail streamers or a deeply forked tail with long pointed outer feathers; the tail is short and only slightly forked.",
       "Do not paint the eye small or with a white eye-ring; the eye is large and dark within a black ring."
     ],
     "confidence": "medium",
@@ -88,6 +88,11 @@
       "title": "All About Birds (Cornell Lab) – Blue-billed White-Tern Identification",
       "url": "https://www.allaboutbirds.org/guide/Blue-billed_White-Tern/id",
       "used": "눈테·반투명 날개·분류(검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "Wikipedia – Blue-billed white tern",
+      "url": "https://en.wikipedia.org/wiki/Blue-billed_white_tern",
+      "used": "그림용 형태 정보(두 갈래 꼬리, 가장 바깥 꼬리깃이 짧음)"
     }
   ],
   "todo": [

@@ -40,20 +40,20 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-headed Canary-flycatcher (Culicicapa ceylonensis), adult (sexes alike), a vagrant in Korean woodland in spring: head, neck, throat and upper breast ash-grey, the head rounded with no distinct crest; mantle, back and rump olive-green to yellowish-green; wings and tail dusky brown with olive-green edges; lower breast, belly and undertail coverts bright yellow, sharply separated from the grey breast. Bill short, broad and flat, dark above with a paler lower mandible; eye dark; legs pale pinkish-yellow.",
+    "subject": "Grey-headed Canary-flycatcher (Culicicapa ceylonensis), adult (sexes alike), a vagrant in Korean woodland in spring: head, neck, throat and upper breast ash-grey, the head large and square-looking, with a short, blunt crest on the crown; mantle, back and rump olive-green to yellowish-green; wings and tail dusky brown with olive-green edges; lower breast, belly and undertail coverts bright yellow, sharply separated from the grey breast. Bill short, broad and flat, dark above with a paler lower mandible; eye dark; legs pale pinkish-yellow.",
     "pose": "perched upright on a thin twig in the mid-canopy, side view",
     "scene": "shady broadleaf woodland on a southern Korean island in spring (May), dappled light; no people, buildings or text",
     "views": [
       "adult, side view perched upright on a thin twig: large, squarish grey head, dark eye, short bill, grey throat and upper breast sharply divided from the bright yellow lower breast and belly, yellowish-green back and rump, dark wings and tail, short pale orange legs",
       "adult, front three-quarter view perched upright: large grey head, grey throat and upper breast in strong contrast with the bright yellow belly and undertail, yellowish-green upperparts visible at the shoulder, dark tail"
     ],
-    "build": "A tiny, active flycatcher, clearly smaller than a sparrow, about the size of a leaf warbler but with a big rounded grey head and upright stance; sallies out after insects from a perch. No distinct crest; the crown feathers lie smooth, the head at most slightly peaked. Bill short, very broad and flat at the base, with rictal bristles, much shorter than the head. Legs short, thin and pale. Wings short; tail medium length, square, without white.",
+    "build": "A tiny, active flycatcher, clearly smaller than a sparrow, about the size of a leaf warbler but with a big, squarish grey head and upright stance; sallies out after insects from a perch. The crown feathers form a short, blunt crest that squares off the head; there is no long or pointed crest. Bill short, very broad and flat at the base, with rictal bristles, much shorter than the head. Legs short, thin and pale. Wings short; tail medium length, square, without white.",
     "avoid": [
       "Do not paint wing bars or white in the tail; the bird is plain grey, olive and yellow.",
       "Do not paint a black head or a yellow throat (Yellow-rumped or Narcissus Flycatcher); the whole head and throat are grey.",
       "Do not carry the grey onto the belly; the belly and undertail are bright yellow.",
       "Do not paint a long, thin warbler bill.",
-      "Do not give it a raised or pointed crest; the grey head is rounded."
+      "Do not paint a small round head or a long pointed crest; the grey head is large and squarish, with only a short, blunt crest."
     ],
     "confidence": "medium",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md",

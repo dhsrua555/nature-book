@@ -44,14 +44,14 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "White-tailed Robin (Myiomela leucura), adult male, a vagrant in shaded Korean island forest: almost entirely blackish-blue, darkest on the face and underparts; forehead and brow shining cobalt-blue, and a glossy blue patch at the shoulder; white bases to the outer tail feathers, showing as a short white streak along each side of the closed tail near its base; a small white patch on the side of the neck usually hidden. Bill black; eye dark; legs blackish.",
+    "subject": "White-tailed Robin (Myiomela leucura), adult male, a vagrant in shaded Korean island forest: almost entirely blackish-blue, darkest on the face and underparts; forehead and brow shining cobalt-blue, and a glossy blue patch at the shoulder; long white patches covering the basal two-thirds of the outer tail feathers, mostly hidden when the tail is closed but flashing as long white side panels when it is spread; a small white patch on the side of the neck usually hidden. Bill black; eye dark; legs blackish.",
     "pose": "standing on a mossy rock in the forest understorey with the tail closed, side view",
     "scene": "dark evergreen ravine forest with ferns and mossy rocks on a southern Korean island in spring (April), subdued light; no people, buildings or text",
     "views": [
       "adult male, standing on a mossy rock, side view: slim upright long-tailed chat, dark blue body looking almost black in shade, shining blue forehead and brow, blue shoulder patch, black bill, long dark tail slightly spread to show long white patches on the basal part of the outer feathers",
       "adult female, standing on the forest floor, side view: plain brown upperparts, paler buff-brown underparts, whitish crescent on the throat, dark bill, long brown tail with long white patches on the basal part of the outer feathers"
     ],
-    "build": "A medium-sized, long-tailed forest chat, clearly larger than a sparrow, slim and upright on fairly long legs; no crest, the crown feathers lie flat. Bill black, slender, shorter than the head. Legs long and blackish. Wings short and rounded; the wingtips reach only a little past the tail base. Tail long and broad, blackish-blue, with a short white streak on each side near the base where the white bases of the outer feathers show.",
+    "build": "A medium-sized, long-tailed forest chat, clearly larger than a sparrow, slim and upright on fairly long legs; no crest, the crown feathers lie flat. Bill black, slender, shorter than the head. Legs long and blackish. Wings short and rounded; the wingtips reach only a little past the tail base. Tail long and broad, blackish-blue, the outer feathers white on their basal two-thirds, mostly hidden when the tail is closed and showing as long white side panels when it is spread.",
     "avoid": [
       "Do not paint a white tail tip or wholly white outer tail feathers; the white is a patch near the base of the outer feathers.",
       "Do not paint an orange or white belly (niltavas, bluethroats); the male's underparts are blackish-blue.",
@@ -97,6 +97,11 @@
       "title": "White-tailed Robin – eBird (Cornell Lab)",
       "url": "https://ebird.org/species/whtrob2",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Birding in Taiwan – White-tailed Robin",
+      "url": "https://birdingintaiwan.com/whitetailedrobin.htm",
+      "used": "그림용 형태 정보(바깥꼬리깃 기부 2/3가 흰색, 검색 결과 요약으로 확인)"
     }
   ],
   "todo": [

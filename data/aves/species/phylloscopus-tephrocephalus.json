@@ -40,7 +40,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Grey-crowned Warbler (Phylloscopus tephrocephalus), adult (sexes alike, plumage similar year-round): crown and nape grey, bordered on each side by a black lateral crown stripe running from the forehead to the nape; a complete, bright golden-yellow eye-ring; cheeks yellowish-green; upperparts bright olive-green; wings and tail olive-green with darker centres, usually without a wing-bar; entire underparts bright yellow; outer tail feathers with white on the inner webs; bill with a dusky upper mandible and pale orange lower mandible; dark eye; pale orange-yellow legs.",
+    "subject": "Grey-crowned Warbler (Phylloscopus tephrocephalus), adult (sexes alike, plumage similar year-round): crown and nape grey, bordered on each side by a black lateral crown stripe running from the forehead to the nape; a bright golden-yellow eye-ring with a narrow break at the rear; cheeks yellowish-green; upperparts bright olive-green; wings and tail olive-green with darker centres, usually without a wing-bar; entire underparts bright yellow; outer tail feathers with white on the inner webs; bill with a dusky upper mandible and pale orange lower mandible; dark eye; pale orange-yellow legs.",
     "pose": "perched on a thin twig in the mid-canopy, side view, alert",
     "scene": "deciduous woodland on a Korean offshore island in May with fresh green leaves and dappled light; no people, buildings or text",
     "views": [
@@ -51,7 +51,7 @@
     "avoid": [
       "Do not paint a green crown centre; that is Green-crowned Warbler (Phylloscopus burkii).",
       "Do not paint obvious pale wing-bars (Bianchi's or Martens's Warbler).",
-      "Do not break the eye-ring; it is a complete yellow ring.",
+      "Do not paint a fully closed eye-ring; the yellow eye-ring has a narrow break at the rear.",
       "Do not add a supercilium or a dark eye-stripe; the face shows only the yellow eye-ring below the black crown stripes."
     ],
     "confidence": "medium",
@@ -83,6 +83,11 @@
       "title": "Avifauna of Hong Kong (HKBWS): Bianchi's Warbler",
       "url": "https://avifauna.hkbws.org.hk/species/0320/039200",
       "used": "비교 (Bianchi's 는 머리 무늬가 덜 뚜렷하고 날개띠가 있는 편)"
+    },
+    {
+      "title": "Shanghai Birding – Grey-crowned Warbler at Cape Nanhui, First Record for Shanghai",
+      "url": "https://www.shanghaibirding.com/?p=14988",
+      "used": "그림용 형태 정보(뒤쪽이 끊긴 눈테)"
     }
   ],
   "todo": [

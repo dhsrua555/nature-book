@@ -61,7 +61,7 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Long-tailed Tit (Aegithalos caudatus caudatus), adult of the white-headed northern subspecies, as seen in Korea in winter: entire head, face, chin and throat pure white with no dark stripes; a black stripe down the centre of the back; scapulars dusky pink; wings blackish with broad white edges to the tertials and secondaries forming a white panel; underparts white with a pinkish wash on the flanks, belly and vent; very long black tail with white outer feathers; tiny stubby black bill; dark eye; blackish legs.",
+    "subject": "Long-tailed Tit (Aegithalos caudatus caudatus), adult of the white-headed northern subspecies, as seen in Korea in winter: entire head, face, chin and throat pure white with no dark stripes; a black stripe down the centre of the back; scapulars dusky pink; wings blackish with broad white edges to the tertials and secondaries forming a white panel; underparts white, with a pinkish wash confined to the flanks; very long black tail with white outer feathers; tiny stubby black bill; dark eye; blackish legs.",
     "pose": "hanging from a thin willow twig in a small flock, side view, long tail hanging down",
     "scene": "Korean riverside woodland in winter with bare willows and birches under a pale sky; no people, buildings or text",
     "views": [
@@ -72,7 +72,8 @@
     "avoid": [
       "Do not paint broad black stripes over the eyes - that is the resident Korean Long-tailed Tit; this subspecies has an all-white head.",
       "Do not shorten the tail; it is longer than the body.",
-      "Do not paint a thick bill, a crest or yellow underparts."
+      "Do not paint a thick bill, a crest or yellow underparts.",
+      "Do not wash the breast and belly pink; in this white-headed subspecies the underparts are white, with pink only on the flanks."
     ],
     "confidence": "high",
     "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
@@ -112,6 +113,11 @@
       "title": "Aegithalos caudatus – BirdForum Opus (검색 요약으로 확인)",
       "url": "https://www.birdforum.net/opus/Aegithalos_caudatus",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Long-tailed Tit identification – All About Birds (Cornell Lab)",
+      "url": "https://www.allaboutbirds.org/guide/Long-tailed_Tit/id",
+      "used": "그림용 형태 정보(북쪽 개체군은 흰 머리·더 흰 아랫면, 검색 결과 요약으로 확인)"
     }
   ],
   "todo": [
