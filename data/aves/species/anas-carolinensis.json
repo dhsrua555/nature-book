@@ -5,14 +5,19 @@
   "author": "Gmelin, 1789",
   "en": "Green-winged Teal",
   "ktsn": 120000002242,
-  "origin": "nibr",
   "length": "약 32–39cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "호소, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2,
+      3,
+      4,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
   "summary": "우리나라에서는 미조로 기록되는 작은 오리이다. 호수와 늪, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭 등에서 지낸다. 번식기에는 물가에 풀을 엮어 둥지를 짓고 알을 10개쯤 낳는데, 알 색은 흰색부터 올리브색까지 여러 가지이다. 미국과 캐나다에 분포한다.",
   "points": [
@@ -22,10 +27,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리는 밤색이고 눈에서 뒷목까지 녹색 띠가 있으며, 가슴 옆에 세로로 흰 줄이 있고 어깨에는 쇠오리 같은 가로 흰 줄이 없다. 몸은 잿빛이고 꼬리 아래에 노란 삼각 무늬가 있다.",
+    "female": "온몸이 얼룩덜룩한 갈색이고 눈선이 뚜렷하며 부리는 회색이다. 쇠오리 암컷과는 거의 구별되지 않는다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷한 얼룩덜룩한 갈색이며 배에 갈색 얼룩이 있다.",
   "similar": [
     {
       "ko": "쇠오리",
@@ -69,6 +75,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Green-winged Teal",
+      "url": "https://www.birdweb.org/Birdweb/bird/green-winged_teal",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 미국쇠오리",
+      "url": "https://www.audubon.org/field-guide/bird/green-winged-teal",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 쇠오리(미국 아종 포함)",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/12",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Anas crecca(북아메리카 집단 설명)",
+      "url": "https://animaldiversity.org/accounts/Anas_crecca/",
+      "used": "어린새"
+    },
+    {
+      "title": "iNaturalist – 한국의 미국쇠오리(Anas crecca carolinensis) 관찰 기록",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Anas%20crecca%20carolinensis",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Green-winged Teal, Siheung, December 3(2018)",
+      "url": "https://www.birdskoreablog.org/?p=21432",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,7 +5,6 @@
   "author": "Latham, 1790",
   "en": "Lesser Cuckoo",
   "ktsn": 120000001841,
-  "origin": "nibr",
   "length": "28cm",
   "status": "여름철새, 해마다 수천 마리",
   "habitat": "산림, 개활지",
@@ -13,7 +12,13 @@
     "천연기념물"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": "TODO"
   },
   "summary": "산림과 트인 개활지에 사는 새로, 뻐꾸기류 가운데 몸집이 작은 편이다. 대부분 휘파람새 둥지에 알을 맡기고, 굴뚝새와 산솔새 둥지에도 탁란한다. 국내에서는 경기도, 평안남도, 평안북도, 제주도 등에 살고, 국외에서는 극동 러시아, 중국, 일본, 동남아시아에 분포한다.",
@@ -28,10 +33,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 암컷 가운데에는 온몸이 적갈색 바탕에 검은 가로줄이 있는 적색형도 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 검은 갈색~회색이고 깃 가장자리가 희며, 멱과 가슴까지 거무스름하다. 적갈색 바탕에 검은 가로줄이 있는 적색형 어린새도 있다.",
   "similar": [
     {
       "ko": "뻐꾸기",
@@ -77,10 +82,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 두견",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231927&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "コトバンク(世界大百科事典・日本大百科全書) – ホトトギス",
+      "url": "https://kotobank.jp/word/%E3%83%9B%E3%83%88%E3%83%88%E3%82%AE%E3%82%B9-3169996",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Canon Bird Branch Project – ホトトギス",
+      "url": "https://global.canon/ja/bird-branch/photo-gallery/hototogisu/index.html",
+      "used": "암수 구별"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Lesser Cuckoo",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005800",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 4 (1927) – Cuculus poliocephalus",
+      "url": "https://archive.org/details/BakerFbiBirds4",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "원문의 '가슴 세로줄 무늬에 가로줄이 섞임, 뒷목 회색 띠, 깃털로 덮인 발가락, 붉은 홍채'는 큰소쩍새 설명과 같은 내용으로, 다른 종(올빼미류) 설명이 섞인 것으로 보여 생김새에서 뺐다"
+    "원문의 '가슴 세로줄 무늬에 가로줄이 섞임, 뒷목 회색 띠, 깃털로 덮인 발가락, 붉은 홍채'는 큰소쩍새 설명과 같은 내용으로, 다른 종(올빼미류) 설명이 섞인 것으로 보여 생김새에서 뺐다",
+    "months.breed: 국내(또는 일본·중국 동북부) 탁란 시기를 달로 밝힌 자료를 찾지 못했다(인도에서는 5월 말~7월 말 산란, Baker 1927)"
   ],
   "occurrence": {
     "code": "S3",

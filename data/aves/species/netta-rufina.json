@@ -5,16 +5,21 @@
   "author": "Pallas, 1773",
   "en": "Red-crested Pochard",
   "ktsn": 120000001448,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "53–57cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하천, 호수, 저수지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "해마다 10건이 채 안 되게 기록되는 길잃은새로, 12월부터 이듬해 3월 사이 하천이나 저수지에서 드물게 보인다. 주로 물풀을 먹으며, 잠수도 하지만 다른 흰죽지류보다 얕은 물에서 물구나무서듯 먹이를 찾는 일이 많다. 유럽 남부에서 중앙아시아와 몽골에 걸쳐 번식하고, 인도 아대륙과 아프리카 북부 등지에서 겨울을 난다.",
   "points": [
     {
       "ko": "크고 둥근 주황빛 머리(수컷)",
@@ -38,10 +43,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "둥글게 부푼 머리는 주황빛 적갈색이고 부리는 산호빛 붉은색이다. 목과 가슴, 꼬리 쪽은 검고 옆구리는 희며 등은 갈색이다.",
+    "female": "몸은 옅은 갈색이고 정수리부터 뒷목까지 짙은 갈색이며 뺨과 멱은 희끄무레하다. 부리는 어두운 색에 끝이 분홍빛이다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 매우 비슷하나 부리가 어두운 회색이고 눈은 옅은 갈색이다. 어린 수컷은 곧 머리깃이 부풀고 부리와 눈에 붉은 기가 돌기 시작한다.",
   "similar": [],
   "art": {
     "subject": "Red-crested Pochard (Netta rufina), adult male in winter, as seen in Korea from November to March: large bushy head bright rusty-orange, paler golden-orange on the raised crown; neck, breast and a broad band at the front of the body black; back and folded wings grey-brown; flanks clean white; a white patch at the bend of the wing showing at the front of the back; rump, vent and undertail coverts black; bill bright coral-red with a pale nail; red iris; legs orange-red.",
@@ -102,10 +108,40 @@
       "title": "Red-crested pochard - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Red-crested_pochard",
       "used": "동정 포인트"
+    },
+    {
+      "title": "The Wildlife Trusts – Red-crested pochard",
+      "url": "https://www.wildlifetrusts.org/node/5678342",
+      "used": "몸길이, 암수 구별, 사는 곳"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, 조류 동정 아틀라스(Aranzadi) – 붉은부리흰죽지",
+      "url": "https://www.blascozumeta.com/specie_files/01960_Netta_rufina_aranzadi.pdf",
+      "used": "몸길이, 암수 구별, 어린새"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 붉은부리흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "British Waterfowl Association – Red-crested Pochard",
+      "url": "https://www.waterfowl.org.uk/wildfowl/true-ducks/red-crested-pochard/",
+      "used": "해설, 사는 곳"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 붉은부리흰죽지",
+      "url": "https://animaldiversity.org/accounts/Netta_rufina/",
+      "used": "몸길이, 해설"
+    },
+    {
+      "title": "iNaturalist – 한국의 붉은부리흰죽지 관찰 기록",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Netta%20rufina",
+      "used": "관찰 시기, 사는 곳"
     }
   ],
   "todo": [
-    "원문 생김새(수컷 이마의 붉은 혹, 검은 머리와 목, 분홍 부리)와 분포(남아메리카)가 이 종과 맞지 않고 남아메리카의 다른 Netta 종(Netta peposaca로 보임)을 설명한 것으로 보여 모든 값을 TODO로 둠",
+    "국립생물자원관 원문 생김새(수컷 이마의 붉은 혹, 검은 머리와 목, 분홍 부리)와 분포(남아메리카)는 남아메리카의 다른 Netta 종(Netta peposaca로 보임)을 설명한 것으로 보여 쓰지 않았고, 국내외 다른 자료로 채웠다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

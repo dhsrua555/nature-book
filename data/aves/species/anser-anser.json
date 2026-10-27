@@ -5,14 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Greylag Goose",
   "ktsn": 120000001415,
-  "origin": "nibr",
   "length": "76–84cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "논, 소택지, 초지, 호소",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "야생 개체가 국내에서 기록된 달이며, 공원 등에서 한 해 내내 보이는 것은 대부분 집에서 기르는 거위다."
   },
   "summary": "논, 소택지, 초지, 호소 등에서 생활하는 큰 기러기로, 우리나라에는 제주도에 드물게 날아오는 미조다. 낮에는 호숫가나 탁 트인 마른 논에서 무리 지어 먹이를 찾으며, 땅에서 자라는 풀을 주로 먹고 물풀도 먹는다. 냉대·한대에서 아한대에 걸친 지역에서 번식하는데, 오목한 땅에 관목 가지와 마른풀, 이끼로 접시 모양 둥지를 짓고 알 5~6개를 28~29일 동안 품는다. 유라시아 대륙에 분포하며 중국과 일본 등지에서 겨울을 난다.",
   "points": [
@@ -45,7 +50,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 가슴과 배에 검은 얼룩이 없고, 부리 색이 칙칙하며 다리는 회색빛을 띤다.",
   "similar": [],
   "art": {
     "subject": "Greylag Goose (Anser anser), adult of the eastern form, sexes alike, as seen in winter in Korea: head and neck plain grey-brown with fine dark furrows on the neck, no white at the bill base and no dark contrast between head and body; mantle and scapulars grey-brown with broad greyish-white feather tips forming neat pale bars; flanks darker brown with pale brown fringes; breast and belly paler grey-brown, older birds with scattered black or dark grey spots on the belly; uppertail coverts, vent and undertail coverts white; tail grey-brown edged white; bill pale pink with a whitish nail; dark eye with a narrow pinkish eye-ring; legs flesh-pink.",
@@ -86,6 +91,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) 홍콩 조류 종 설명 – Greylag Goose(회색기러기)",
+      "url": "https://avifauna.hkbws.org.hk/species/0010/000200",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 영어판(Witherby 『Handbook of British Birds』 인용) – Greylag goose(회색기러기)",
+      "url": "https://en.wikipedia.org/wiki/Greylag_goose",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Anser anser(회색기러기)",
+      "url": "https://animaldiversity.org/accounts/Anser_anser/",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 연천 임진강 생물권보전지역, 2022년 2월 8–12일",
+      "url": "https://www.birdskoreablog.org/?p=25555",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

@@ -5,8 +5,7 @@
   "author": "Scopoli, 1786",
   "en": "Spotted Dove",
   "ktsn": 120000001828,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 31cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "우리나라에는 드물게 길을 잃고 찾아오는 비둘기로, 지금까지 기록이 10건이 되지 않는다. 인도 아대륙에서 동아시아·동남아시아에 걸쳐 사는 텃새로, 도시 공원과 마을, 농경지처럼 사람 사는 곳 가까이에서 흔하다. 땅 위를 걸으며 풀씨와 곡식, 떨어진 열매를 주워 먹는다. 나뭇가지로 엉성한 둥지를 짓고 흰 알 2개를 낳는다.",
   "points": [
     {
       "ko": "회색 정수리",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 칙칙하고 갈색을 띠며, 뒷목의 흰 점박이 검은 무늬가 없다.",
   "similar": [],
   "art": {
     "subject": "Spotted Dove (Streptopelia chinensis), adult: forehead and crown grey, the face tinged pinkish-grey; a broad black half-collar on the hindneck and neck sides, densely spotted with white; mantle, back and wing coverts warm grey-brown and fairly plain; flight feathers dark brown; breast and belly vinous-pink, paling to whitish on the vent; tail long and graduated, the central feathers brown, the outer feathers blackish with broad white tips. Bill blackish; legs red.",
@@ -94,10 +93,21 @@
       "title": "Spotted dove – Wikipedia (Ali & Ripley, Baker 인용)",
       "url": "https://en.wikipedia.org/wiki/Spotted_dove",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Streptopelia chinensis",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩 습지공원(AFCD) – Spotted Dove",
+      "url": "https://www.wetlandpark.gov.hk/en/biodiversity/beauty-of-wetlands/wildlife/spilopelia-chinensis",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 국외 종 설명으로 채웠다",
+    "habitat·months.seen: 국내 기록은 iNaturalist 연구 등급 2건(2023년 6월 전북 부안, 2026년 10월 제주)만 찾았고 다른 자료로 확인하지 못해 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

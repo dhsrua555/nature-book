@@ -5,16 +5,18 @@
   "author": "Horsfield, 1840",
   "en": "Himalayan Swiftlet",
   "ktsn": 120000001879,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–14cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서남해 섬 위의 하늘",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "해마다 10건이 안 되게 봄 이동기에 서남해 섬에서 기록되는 길잃은새로, 2008년 4월 28일 신안 홍도에서 제비 무리의 밤 잠자리에 든 수컷이 잡혀 표본으로 확인된 것이 국내 첫 기록이다. 히말라야에서 중국 중남부와 인도차이나 북부에 걸쳐 번식하고, 겨울에는 타이 남서부와 말레이반도 쪽으로 내려간다. 동굴 벽에 진한 침과 이끼로 작은 접시 모양 둥지를 붙여 무리 지어 번식하며, 날면서 공중의 곤충을 잡아먹는다.",
   "points": [
     {
       "ko": "어두운 흑갈색 윗면",
@@ -34,8 +36,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -83,10 +85,25 @@
       "title": "Wikipedia – Himalayan swiftlet",
       "url": "https://en.wikipedia.org/wiki/Himalayan_swiftlet",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Choi et al. 2009, Animal Systematics, Evolution and Diversity 25(3) – 작은칼새 국내 첫 기록",
+      "url": "https://koreascience.kr/article/JAKO200909659863781.page",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 흑산도 탐조 기록(Himalayan Swiftlet)",
+      "url": "https://www.birdskoreablog.org/?p=9315",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "Birds of the World – Himalayan Swiftlet(분포)",
+      "url": "https://birdsoftheworld.org/bow/species/himswi2/cur/introduction",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "어린새 모습은 두 곳 이상의 자료로 확인하지 못했다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

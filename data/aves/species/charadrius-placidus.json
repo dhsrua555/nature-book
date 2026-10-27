@@ -5,7 +5,6 @@
   "author": "J.E.Gray & G.R.Gray, 1863",
   "en": "Long-billed Plover",
   "ktsn": 120000155046,
-  "origin": "nibr",
   "length": "20.5cm",
   "status": "텃새 수천 마리 · 나그네새 수십 마리",
   "habitat": "자갈이 많은 하천과 강가, 강가의 자갈밭과 모래밭",
@@ -27,7 +26,12 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ]
   },
   "summary": "강가의 자갈밭이나 모래밭에서 국지적으로 번식하는 텃새이다. 꼬마물떼새와 비슷한 환경에 살지만 자갈이 더 많은 하천과 강가를 찾으며, 홀로 또는 작은 무리로 지낸다. 자갈 사이 땅을 오목하게 파서 둥지를 만들고 알 4개를 낳아 28~29일 동안 품는다. 국외에서는 우수리 지방과 중국 동북부에서 번식하고 중국 남부와 인도 북부에서 겨울을 난다.",
   "points": [
@@ -57,10 +61,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리에 검은 무늬가 없고 이마와 눈썹선이 연한 황갈색을 띠며, 가슴띠는 갈색이고 어른새보다 좁다. 몸 윗면과 날개덮깃에 옅은 깃 가장자리가 있다.",
   "similar": [
     {
       "ko": "꼬마물떼새",
@@ -118,9 +122,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1896) Catalogue of the Birds in the British Museum 24권 – 흰목물떼새",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 흰목물떼새",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/010600",
+      "used": "어린새"
+    },
+    {
+      "title": "新潟県 愛鳥センター 展示鳥類剥製 – 흰목물떼새(イカルチドリ)",
+      "url": "https://www.pref.niigata.lg.jp/sec/kankyotaisaku/1356908742186.html",
+      "used": "암수 구별"
+    },
+    {
+      "title": "石川県レッドデータブック 2009 – 흰목물떼새(イカルチドリ)",
+      "url": "https://www.pref.ishikawa.lg.jp/sizen/reddata/rdb_2009/4_ato/kennsaku2/documents/2-27irukatidori.pdf",
+      "used": "번식기"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 흰목물떼새",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "번식기"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – 흰목물떼새",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식기를 직접 다룬 자료를 찾지 못해 일본(이시카와현 4~7월)과 중국(4월 중순~5월 중순 산란) 자료로 번식기를 적었다. 국내 번식 기록으로 확인 필요(남부에서는 3월부터 알을 낳을 수 있음)"
+  ],
   "occurrence": {
     "code": "R3, P5",
     "bs": "1",

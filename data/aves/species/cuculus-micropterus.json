@@ -5,14 +5,22 @@
   "author": "Gould, 1838",
   "en": "Indian Cuckoo",
   "ktsn": 120000001838,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "31–33cm",
   "status": "여름철새, 해마다 수천 마리",
   "habitat": "낙엽수림, 낙엽송림, 혼효림",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "breed": [
+      6,
+      7
+    ],
+    "note": "7월 중순이 지나면 거의 울지 않아 8–9월에는 드물게 확인된다."
   },
   "summary": "낙엽수림이나 낙엽송 숲, 혼효림에 살며 보통 혼자 지내는 새이다. 다른 새의 둥지에 알을 낳아 그 새가 품어 깨우게 하는 탁란 습성이 있다. 곤충을 주로 먹고 울음소리가 독특하다. 우리나라를 비롯해 아무르, 우수리, 만주, 인도차이나, 말레이반도, 인도 등지에 분포한다.",
   "points": [
@@ -42,11 +50,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 멱, 윗가슴이 회색이고 등과 날개는 머리보다 갈색을 띤다.",
+    "female": "수컷과 비슷하나 가슴(때로 멱까지)에 적갈색 기가 돌고 윗면이 더 갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새보다 갈색을 띠고 머리와 뒷목에 흰 얼룩이 많으며, 등과 날개덮깃 끝이 희거나 적갈색이다. 아랫면은 담황색 바탕에 검은 가로줄이 있다.",
+  "similar": [
+    {
+      "ko": "뻐꾸기",
+      "how": "검은등뻐꾸기는 꼬리 끝 가까이에 굵은 검은 띠가 있고, 회색 머리에 견주어 등이 갈색을 띤다."
+    }
+  ],
   "art": {
     "subject": "Indian Cuckoo (Cuculus micropterus), adult male as seen in Korean woods from May to August: head and neck dark grey; back, rump and wings grey-brown, browner than the head; lores, chin, throat and upper breast grey; lower breast and belly white crossed by broad, widely spaced black bars; vent and undertail coverts white; tail grey-brown with a broad black subterminal band and a white tip. Bill dark with a yellowish base; dark brown iris with a yellow eye-ring; legs yellow.",
     "pose": "perched alone on a branch, calling",
@@ -86,6 +100,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Singapore Birds Project – Indian Cuckoo",
+      "url": "https://singaporebirds.com/species/indian-cuckoo/",
+      "used": "몸길이, 암수 구별, 어린새"
+    },
+    {
+      "title": "싱가포르 국립공원청(NParks) Flora & Fauna Web – Indian Cuckoo",
+      "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/6/465",
+      "used": "몸길이"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은등뻐꾸기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231904&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Neufeldt (1966) Life history of the Indian Cuckoo in the Soviet Union, J. Bombay Nat. Hist. Soc. 63 – 검은등뻐꾸기",
+      "url": "https://archive.org/details/journalofbombay631966bomb",
+      "used": "번식기, 관찰 시기"
+    },
+    {
+      "title": "Wikipedia(영어) – Indian cuckoo (Payne 2005 The Cuckoos 인용)",
+      "url": "https://en.wikipedia.org/wiki/Indian_cuckoo",
+      "used": "번식기"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 4 (1927) – Cuculus micropterus",
+      "url": "https://archive.org/details/BakerFbiBirds4",
+      "used": "암수 구별, 어린새, 비슷한 종"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Indian Cuckoo",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005900",
+      "used": "암수 구별, 어린새, 비슷한 종"
     }
   ],
   "todo": [],

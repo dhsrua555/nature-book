@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Common Swift",
   "ktsn": 120000533849,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "16–18cm",
   "status": "길잃은새, 해마다 10건 미만 · 사진·표본 없이 관찰 기록만 있음",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "해마다 10건이 안 되게 기록되지만 사진이나 표본 없이 관찰 기록만 있는 길잃은새다. 유럽과 북아프리카에서 바이칼호, 몽골, 중국 북부까지 번식하고, 아프리카 사하라 이남에서 겨울을 난다. 주로 건물이나 바위 틈에 둥지를 틀며, 번식할 때 말고는 거의 내려앉지 않고 공중에서 날벌레를 잡아먹으며 지낸다.",
   "points": [
     {
       "ko": "흰빛 멱 무늬",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같으나 몸이 더 검고 깃 가장자리가 희게 둘려 비늘무늬처럼 보이며, 이마가 희읍스름하고 멱의 흰 무늬가 더 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Common Swift (Apus apus), adult of the eastern race pekinensis, in late spring: dark sooty brown, a little paler and browner than western birds, with a paler forehead and a clear whitish throat patch that is larger in this race; wings blackish brown, the inner flight feathers slightly paler in good light; rump dark, the same colour as the back; underparts dark brown, uniform at a distance, with only faint, narrow pale fringes visible close up. Tiny black bill; dark eye; tiny feathered feet hidden in flight.",
@@ -96,10 +95,25 @@
       "title": "Common swift – Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Common_swift",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Apus apus",
+      "url": "https://animaldiversity.org/accounts/Apus_apus/",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "SEO/BirdLife(스페인조류학회) – Vencejo común",
+      "url": "https://seo.org/ave/vencejo-comun/",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Birds of the World – Common Swift(분포)",
+      "url": "https://birdsoftheworld.org/bow/species/comswi/cur/introduction",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국내 관찰 기록의 날짜와 장소를 찾지 못해 관찰 시기와 사는 곳을 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

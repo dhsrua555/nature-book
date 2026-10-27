@@ -5,14 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Tufted Duck",
   "ktsn": 120000001455,
-  "origin": "nibr",
   "length": "약 40cm",
   "status": "겨울철새 수천 마리 · 나그네새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "호수, 하구, 항구, 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월에 찾아와 이듬해 5월까지 머물며, 여름에도 드물게 기록된다."
   },
   "summary": "겨울이면 전국의 습지에서 흔히 보이는 겨울철새로, 호수와 하구, 항구 등지에서 작은 무리를 짓는다. 잠수해 새우나 게 같은 갑각류와 물속 곤충, 수초를 먹는다. 유라시아 대륙 북부에서 번식하고 유럽, 북아프리카, 인도, 중국 동부와 남부, 한국, 일본, 대만에서 겨울을 난다.",
   "points": [
@@ -46,8 +55,13 @@
     "male": "머리는 광택 있는 검은색이고 뒷머리에 긴 댕기가 있으며, 가슴과 등은 검고 옆구리와 배는 희다.",
     "female": "온몸이 짙은 갈색이고 댕기가 짧다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷한 갈색이나 색이 더 칙칙하고 머리 뒤 댕기가 짧거나 거의 없다. 어린 수컷은 머리가 더 어둡고 등에 잔물결무늬가 조금 있다.",
+  "similar": [
+    {
+      "ko": "검은머리흰죽지",
+      "how": "검은머리흰죽지는 머리 뒤 댕기가 없고 수컷의 등이 잔물결무늬가 있는 회색이며, 암컷은 부리 둘레의 흰 무늬가 더 크다."
+    }
+  ],
   "art": {
     "subject": "Tufted Duck (Aythya fuligula), adult male in breeding plumage, as seen on Korean lakes from November to March: head black with a purple gloss and a long, thin, drooping tuft hanging from the hindcrown; bright golden-yellow eye; neck, breast, mantle, back, rump and tail black; flanks and belly pure white, the white flank panel sharply cut against the black; bill bluish-grey with a narrow pale band just before the black tip; legs bluish-grey.",
     "pose": "swimming in a small flock, side view, head held up showing the drooping crest tuft",
@@ -86,6 +100,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 댕기흰죽지",
+      "url": "https://animaldiversity.org/accounts/Aythya_fuligula/",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Tufted Duck",
+      "url": "https://www.birdweb.org/Birdweb/bird/tufted_duck",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 댕기흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "The Wildlife Trusts – Scaup",
+      "url": "https://www.wildlifetrusts.org/wildlife-explorer/birds/waterfowl/scaup",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

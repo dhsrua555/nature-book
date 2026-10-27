@@ -5,14 +5,24 @@
   "author": "Linnaeus, 1758",
   "en": "Common Cuckoo",
   "ktsn": 120000001839,
-  "origin": "nibr",
   "length": "32–36cm",
   "status": "나그네새 수만 마리 · 여름철새 수천 마리",
   "habitat": "낮은 산지, 개활지, 농경지, 주택지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ]
   },
   "summary": "낮은 산지와 넓게 트인 개활지, 농경지, 주택가 둘레에 살며 전국에서 볼 수 있다. 한 해에 알을 10~20개 낳아 다른 종의 둥지에 하나씩 맡기는데, 먼저 둥지 주인의 알 하나를 치우고 제 알을 넣는다. 우리나라에 오는 뻐꾸기의 알은 파란색이어서, 붉은머리오목눈이 둥지 가운데 흰 알이 든 둥지보다 파란 알이 든 둥지를 주로 고른다. 국외에서는 유라시아의 온대~아한대, 아프리카 중부~남부, 동남아시아, 수마트라, 보르네오, 일본에 분포한다.",
   "points": [
@@ -41,7 +51,7 @@
     "alike": true,
     "text": "암수 색이 비슷하며, 수컷이 암컷보다 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 적갈색 바탕에 굵은 가로줄이 있는 것부터 회색인 것까지 개체마다 다르며, 뒷머리의 흰 얼룩과 날개깃의 흰 가장자리가 눈에 띈다. 홍채는 어른새와 달리 회색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Common Cuckoo (Cuculus canorus), adult male, grey type (most adult females look the same), as seen in Korea from May to August: head, upperparts, throat and upper breast plain ash-grey, darker slate on the wings; lower breast, belly and flanks white with thin, evenly spaced dark grey bars; undertail coverts white with sparse bars; tail long and graduated, blackish-grey with small white spots along the shafts and white tips. Bill dark grey with a yellow base and gape. Iris and bare eye-ring yellow. Short yellow legs.",
@@ -81,6 +91,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 뻐꾸기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231918&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 뻐꾸기",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025324",
+      "used": "번식기"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典) – カッコウ",
+      "url": "https://kotobank.jp/word/%E3%82%AB%E3%83%83%E3%82%B3%E3%82%A6",
+      "used": "번식기, 어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon Birds – Common Cuckoo",
+      "url": "https://www.blascozumeta.com/specie_files/07240_ENG_Cuculus_canorus_aranzadi.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Common cuckoo (Baker 1993 BTO 동정 안내·Collins Bird Guide 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_cuckoo",
+      "used": "어린새"
     }
   ],
   "todo": [],

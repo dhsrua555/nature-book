@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Common Crane",
   "ktsn": 120000001651,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 115cm",
   "status": "겨울철새, 해마다 수십 마리",
   "habitat": "습지, 호수, 농경지",
   "protect": [
@@ -14,8 +13,15 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월 하순에 일찍 찾아온 기록도 있다."
   },
   "summary": "드물게 찾아오는 겨울철새로, 우리나라에서는 습지, 호수, 농경지 등에서 주로 겨울을 난다. 세계적으로는 개체 수가 많지만 국내에는 다른 두루미 무리에 섞여 몇 마리만 찾아온다. 서식지가 줄고 조각나는 데다 먹이도 부족해 위협받고 있다.",
   "points": [
@@ -33,10 +39,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 회색 깃 가장자리가 엷은 황갈색이라 몸이 갈색빛을 띠고, 머리와 목은 녹슨 갈색이며 머리가 깃털로 덮여 붉은 맨살과 검고 흰 무늬가 없다.",
   "similar": [],
   "art": {
     "subject": "Common Crane (Grus grus), adult as seen in Korean winter wetlands and farmland (plumage the same all year): head, foreneck and hindneck black, with a broad white band from behind the eye curving down the side of the neck to the upper back; a small patch of bare red skin on the crown; body and wing coverts mid-grey; primaries and secondaries black; long drooping tertials form a bushy grey bustle with black tips over the tail. Straight bill greyish-horn, paler at the tip; red eye; long black legs.",
@@ -76,6 +82,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典・ブリタニカ・図鑑NEO) – クロヅル",
+      "url": "https://kotobank.jp/word/%E3%82%AF%E3%83%AD%E3%83%85%E3%83%AB",
+      "used": "몸길이"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Grus communis",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "몸길이, 어린새, 암수 구별"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Grus grus lilfordi",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "International Crane Foundation 종 안내 – Eurasian Crane",
+      "url": "https://savingcranes.org/species-field-guide/eurasian-crane/",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser, A Manual of Palaearctic Birds 2권(1903) – Grus communis",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Austin, The Birds of Korea(Bull. Mus. Comp. Zool. 101, 1948) – Grus grus lilfordi",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 검은목두루미",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=41",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

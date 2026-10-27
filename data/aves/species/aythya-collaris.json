@@ -5,16 +5,19 @@
   "author": "Donovan, 1809",
   "en": "Ring-necked Duck",
   "ktsn": 120000471479,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "39–46cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하천, 호수, 저수지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      3
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "지금까지 기록이 10건이 안 되는 길잃은새로, 2014년 겨울 충주와 서울 중랑천에서 처음 확인된 뒤 겨울에 하천과 저수지에서 다른 흰죽지류 무리에 섞여 드물게 보인다. 얕고 물풀이 우거진 민물 습지를 좋아하며, 잠수하거나 물 위에서 물풀의 씨앗과 덩이줄기, 물속 무척추동물을 먹는다. 알래스카와 캐나다의 숲 속 늪과 연못에서 번식하고 북아메리카 남부에서 겨울을 난다.",
   "points": [
     {
       "ko": "뒷머리가 솟은 모난 머리",
@@ -42,11 +45,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 가슴, 등이 검고 머리에 보랏빛 광택이 돌며, 연회색 옆구리 앞쪽에 위로 솟는 흰 띠가 있다. 회색 부리에는 흰 테두리와 끝 가까이 흰 띠가 있고 끝은 검으며, 눈은 노랗다.",
+    "female": "회갈색이고 정수리가 더 어두우며, 흰 눈테와 눈 뒤로 이어지는 흐린 흰 줄이 있고 부리 둘레가 희끄무레하다. 눈은 갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 윗면이 더 어둡고 아랫면이 더 얼룩덜룩하며 전체적으로 칙칙하다.",
+  "similar": [
+    {
+      "ko": "검은머리흰죽지",
+      "how": "검은머리흰죽지 수컷은 등이 흰 바탕에 잔물결무늬가 있는 연회색이고, 북미댕기흰죽지 수컷은 등이 검고 가슴 옆에 흰 띠가 위로 솟으며 부리에 흰 띠가 있다."
+    }
+  ],
   "art": {
     "subject": "Ring-necked Duck (Aythya collaris), adult male in winter plumage, as worn from October to April: head, neck, breast, back and rear all black, the head with a purple gloss in good light; the dark chestnut collar at the base of the neck is faint and usually invisible; flanks pale grey, bordered in front by a vertical white spur that rises towards the shoulder; belly white. Bill slate-grey with a thin white line around the base and a broad white ring just behind the black tip; iris bright yellow; legs and feet grey.",
     "pose": "swimming on calm open water, head raised showing the peaked crown, side view",
@@ -107,10 +116,39 @@
       "title": "BirdForum Opus — Ring-necked Duck (검색 발췌)",
       "url": "https://birdforum.net/opus/Ring-necked_Duck",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 북미댕기흰죽지",
+      "url": "https://animaldiversity.org/accounts/Aythya_collaris/",
+      "used": "몸길이, 어린새, 해설"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Ring-necked Duck",
+      "url": "https://www.birdweb.org/Birdweb/bird/ring-necked_duck",
+      "used": "암수 구별, 어린새, 해설, 비슷한 종"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 북미댕기흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "몸길이, 암수 구별, 어린새, 비슷한 종"
+    },
+    {
+      "title": "김화정 외(2020), Notes on bird species newly recorded in Korea, 한국생물종연구(Journal of Species Research) 9(4)",
+      "url": "https://koreascience.kr/article/JAKO202034465347071.page",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Southern Provinces, East Coast, Chungju and Seosan, January 13 – 17(2014)",
+      "url": "https://www.birdskoreablog.org/?p=11637",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 한국의 북미댕기흰죽지 관찰 기록",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Aythya%20collaris",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,10 +5,9 @@
   "author": "Pallas, 1811",
   "en": "Hill Pigeon",
   "ktsn": 120000001821,
-  "origin": "nibr",
   "length": "TODO",
   "status": "텃새·겨울철새, 해마다 수십 마리",
-  "habitat": "TODO",
+  "habitat": "강가와 바닷가의 절벽, 섬, 다리 교각과 댐, 주변 물가와 풀밭",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
   ],
@@ -27,7 +26,11 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6
+    ]
   },
   "summary": "양비둘기 또는 굴비둘기라고도 부르는 비둘기로, 국내에서는 희귀한 텃새이다. 세계적인 집단 규모는 밝혀지지 않았으며, 집비둘기와 경쟁하고 교잡하면서 줄어드는 것으로 추정되지만 일부 지역에서는 여전히 흔한 종으로 여겨진다. 국내에서도 집비둘기와의 교잡이 감소 원인으로 추정된다.",
   "points": [
@@ -117,10 +120,23 @@
       "title": "BirdForum Opus: Hill Pigeon",
       "url": "https://www.birdforum.net/opus/Hill_Pigeon",
       "used": "동정 포인트 (검은 날개띠 두 줄)"
+    },
+    {
+      "title": "데일리벳(국립생태원 조사 발표 보도, 2021) – 멸종위기 토종 양비둘기, 연천 임진강에도 산다",
+      "url": "https://www.dailyvet.co.kr/?p=157146",
+      "used": "사는 곳, 번식기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Columba livia rupestris",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "사는 곳, 번식기"
     }
   ],
   "todo": [
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "length: 한국에 사는 원명아종의 몸길이를 두 자료에서 확인하지 못했다(Baker 1928은 히말라야 아종 33–35cm)",
+    "sexes·young: 암수 차이와 어린새 깃을 두 자료 이상에서 확인하지 못했다(kz.birding.day: 어린새는 광택이 없고 칙칙함)",
+    "months.breed: 국내 기록(1929년 4월 18일 알을 밴 암컷, 1910년 5월 20일 둥지와 알, 2021년 5월 부화)에 맞춰 4–6월로 했고, 한 해 두 번 번식하는지는 확인하지 못했다"
   ],
   "occurrence": {
     "code": "R5, W5",

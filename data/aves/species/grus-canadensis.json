@@ -5,13 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Sandhill Crane",
   "ktsn": 120000001649,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 95cm",
   "status": "겨울철새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "젖은 풀밭, 늪, 소택지 같은 넓은 초원, 큰 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": []
   },
   "summary": "미국 플로리다와 캐나다 등지에 분포하는 두루미로, 몸집이 크고 목과 다리가 길며 똑바로 서면 키가 1.2m쯤 된다. 대개 젖은 풀밭, 늪, 소택지 같은 넓은 초원에 둥지를 틀고 인가에서 먼 곳을 좋아하며, 밤에는 큰 습지에 모여 쉰다. 낮에 활동하고 한 쌍이나 가족 단위로 지내며, 일부일처로 해마다 함께 번식하면서 서로 맞춰 울어 부르고 봄 이동 중에 짝을 짓는다. 남부 집단은 한 해 내내 머물고 북부 집단은 겨울에 남쪽으로 옮겨 가는데, 이동 중에는 농경지에서 작물을 먹는 모습이 자주 보인다.",
@@ -41,7 +46,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하며, 수컷이 조금 더 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 몸에 계피색을 띤 갈색 깃이 많아 어른새보다 훨씬 갈색으로 보이고, 머리도 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Sandhill Crane (Grus canadensis), adult as seen among other cranes in Korean winter farmland (plumage the same all year): body, neck and wings uniformly mid-grey; a patch of bare red skin on the forehead and forecrown; cheeks, chin and upper throat whitish; drooping grey tertials form a bushy grey 'bustle' over the tail; primaries darker grey. Straight dark grey bill; orange-red eye; long blackish legs.",
@@ -81,11 +86,40 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典・ブリタニカ・図鑑NEO) – カナダヅル",
+      "url": "https://kotobank.jp/word/%E3%82%AB%E3%83%8A%E3%83%80%E3%83%85%E3%83%AB",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 23권(1894) – Grus canadensis",
+      "url": "https://archive.org/details/catalogueofbirds23brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "International Crane Foundation 종 안내 – Sandhill Crane",
+      "url": "https://savingcranes.org/species-field-guide/sandhill-crane/",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Grus canadensis",
+      "url": "https://animaldiversity.org/accounts/Grus_canadensis/",
+      "used": "어린새"
+    },
+    {
+      "title": "National Audubon Society Guide to North American Birds – Sandhill Crane",
+      "url": "https://www.audubon.org/field-guide/bird/sandhill-crane",
+      "used": "어린새"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 캐나다두루미",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=508048",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문에 국내 상태와 도래 기록이 없다",
-    "원문의 1.2m는 몸길이가 아니라 선 키여서 length 는 TODO 로 두었다"
+    "해설(summary)에 국내 상태(bk: 해마다 수십 마리 찾아오는 겨울철새)와 도래 기록이 빠져 있다"
   ],
   "wingspan": "약 2m",
   "occurrence": {

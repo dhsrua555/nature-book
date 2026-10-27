@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Coot",
   "ktsn": 120000001643,
-  "origin": "nibr",
   "length": "약 39cm",
   "status": "겨울철새 수만 마리 · 텃새 수백 마리",
   "habitat": "습지",
@@ -25,7 +24,11 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      5,
+      6,
+      7
+    ]
   },
   "summary": "매우 흔한 겨울철새이자 흔한 텃새로, 국내에서는 전국의 습지에서 볼 수 있다. 발가락에 판족이 있어 헤엄을 잘 치고 잠수에도 능하며, 위험하면 물속으로 들어가거나 수면을 박차고 달려 달아난다. 유라시아, 인도, 호주에 널리 분포한다.",
   "points": [
@@ -99,6 +102,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "環境庁 日本産鳥類の繁殖分布(1981) – オオバン",
+      "url": "https://www.biodic.go.jp/reports/2-1/af141.html",
+      "used": "번식기"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典・ブリタニカ・図鑑NEO) – オオバン",
+      "url": "https://kotobank.jp/word/%E3%82%AA%E3%82%AA%E3%83%90%E3%83%B3",
+      "used": "번식기"
     }
   ],
   "todo": [],

@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Brant Goose",
   "ktsn": 120000001423,
-  "origin": "nibr",
   "length": "약 61cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "만, 해안",
@@ -14,7 +13,13 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식지에서는 6월 중순에 알을 낳는다."
   },
@@ -37,7 +42,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 목의 흰 무늬가 없거나 흐릿하고, 날개덮깃 끝이 희어 등과 날개에 흰 가로줄이 여러 줄 보인다.",
   "similar": [],
   "art": {
     "subject": "Brant Goose (Branta bernicla nigricans, the dark Pacific form 'Black Brant'), adult, sexes alike, in winter: head, neck and breast black; a broad white collar of fine white bars on the upper neck, widest at the sides and usually joined across the front of the throat; mantle, back and wings dark sooty blackish-brown; belly and flanks dark sooty-brown, with a contrasting whitish patch of pale bars along the upper flanks at the waterline; vent and uppertail coverts white, almost covering the short black tail; bill small and black; dark eye; legs black.",
@@ -77,6 +82,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Brant(흑기러기)",
+      "url": "https://www.audubon.org/field-guide/bird/brant",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판(『日本の野鳥590』 인용) – コクガン(흑기러기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AF%E3%82%AC%E3%83%B3",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Brant(흑기러기)",
+      "url": "https://www.birdweb.org/birdweb/bird/brant",
+      "used": "어린새"
     }
   ],
   "todo": [],

@@ -5,16 +5,19 @@
   "author": "Pallas), 1769",
   "en": "Red-breasted Goose",
   "ktsn": 120000213518,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "53–56cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "간척지와 호수 주변의 논",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2012년 10월 천수만에서 처음 기록된 길잃은새로, 지금까지 국내 기록은 10건이 채 안 된다. 시베리아 북부 타이미르반도 일대의 툰드라에서 번식하고, 세계 개체군 대부분이 흑해 서부 연안의 루마니아·불가리아·우크라이나에서 겨울을 난다. 겨울에는 농경지에서 풀과 잎, 씨앗, 곡식의 새싹을 뜯어 먹으며, 길을 잃은 개체는 흔히 다른 기러기 무리에 섞여 지낸다. 국제자연보전연맹(IUCN) 적색목록의 취약(VU) 종이다.",
   "points": [
     {
       "ko": "부리와 눈 사이의 흰 무늬",
@@ -42,8 +45,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "TODO",
   "similar": [],
@@ -105,10 +108,35 @@
       "title": "Red-breasted goose – Wikipedia (Svensson 2009 인용)",
       "url": "https://en.wikipedia.org/wiki/Red-breasted_goose",
       "used": "동정 포인트"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 붉은가슴기러기 국내 첫 기록(2012년 10월 천수만)",
+      "url": "https://www.birdskoreablog.org/?p=6490",
+      "used": "관찰 시기·사는 곳·해설"
+    },
+    {
+      "title": "Oiseaux.net – Red-breasted Goose(붉은가슴기러기)",
+      "url": "https://www.oiseaux.net/birds/red-breasted.goose.html",
+      "used": "몸길이·암수 구별·해설"
+    },
+    {
+      "title": "위키백과 일본어판 – アオガン(붉은가슴기러기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%82%AC%E3%83%B3",
+      "used": "몸길이"
+    },
+    {
+      "title": "BTO BirdFacts – Red-breasted Goose(붉은가슴기러기)",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/red-breasted-goose",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "EAAFP(동아시아-대양주 철새이동경로 파트너십) – 일본 첫 붉은가슴기러기 기록(2019, 이즈누마 논)",
+      "url": "https://eaaflyway.org/first-record-red-breasted-goose-japan/",
+      "used": "사는 곳·해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "어린새 설명은 한 곳(Oiseaux.net: 뺨의 붉은 무늬가 작고 접은 날개에 가는 흰 가로줄이 4–5줄)에서만 확인되어 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

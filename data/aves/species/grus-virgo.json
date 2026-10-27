@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Demoiselle Crane",
   "ktsn": 120000528841,
-  "origin": "nibr",
   "length": "약 98cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "초지, 습지, 강가",
@@ -39,10 +38,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같고 수컷이 대개 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리가 온통 회색이고 눈 뒤의 흰 장식깃과 앞목의 길게 늘어진 검은 깃이 짧거나 거의 없으며, 목의 검은색도 회색이나 갈색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Demoiselle Crane (Grus virgo), adult: forehead slate-black mixed with grey; crown and nape pale ash-grey; lores, face, throat and the whole neck black, the black reaching the eye and continuing as a band above it; long white plumes springing from behind the eye and trailing back as a tuft towards the nape; long black plumes on the lower foreneck hanging over the breast; body and wing coverts blue-grey; long, pointed grey tertials drooping over the tail; primaries blackish. Bill short, olive with a reddish-orange tip; iris red; legs and feet black.",
@@ -83,9 +82,42 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Anthropoides virgo",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 23권(1894) – Anthropoides virgo",
+      "url": "https://archive.org/details/catalogueofbirds23brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Anthropoides virgo",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "어린새"
+    },
+    {
+      "title": "International Crane Foundation 종 안내 – Demoiselle Crane",
+      "url": "https://savingcranes.org/species-field-guide/demoiselle-crane/",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Anthropoides virgo",
+      "url": "https://animaldiversity.org/accounts/Anthropoides_virgo/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Dresser, A Manual of Palaearctic Birds 2권(1903) – Grus virgo",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 기록 달은 iNaturalist 관찰(2020년 10월 신안, 2021년 3월 서산, 2025년 12월~2026년 2월 사천)로만 확인되고 다른 자료로 교차 확인하지 못해 months.seen 을 비워 두었다",
+    "해설의 '오래전 경기도와 강화도에서 관찰된 기록만 있다'는 최근 관찰(iNaturalist 2020~2026년)과 맞지 않아 고칠 필요가 있다"
+  ],
   "occurrence": {
     "code": "V2",
     "bs": "0",

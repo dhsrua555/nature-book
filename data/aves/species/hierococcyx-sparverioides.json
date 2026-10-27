@@ -5,16 +5,18 @@
   "author": "Vigors, 1832",
   "en": "Large Hawk-Cuckoo",
   "ktsn": 120000528832,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "38–40cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲과 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "서해 섬에서 해마다 10건이 안 되게 기록되는 길잃은새로, 2007년 첫 기록 뒤 해마다 3~10건쯤 확인되고 있다. 히말라야에서 중국과 타이완, 인도차이나에 걸쳐 번식하고, 인도 남부와 말레이반도, 순다 열도, 필리핀에서 겨울을 난다. 웃음지빠귀류 같은 새의 둥지에 탁란하며, 털 많은 애벌레를 즐겨 먹고 숲 위층에 숨어 지내 소리로 먼저 알려지는 일이 많다.",
   "points": [
     {
       "ko": "회색 머리",
@@ -41,7 +43,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 갈색 바탕에 적갈색 가로무늬가 있고, 흰 아랫면에 굵은 갈색 세로줄무늬나 물방울무늬가 있으며 정수리에 흰 줄무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Large Hawk-Cuckoo (Hierococcyx sparverioides), adult, as seen in Korean woodland in late spring: head slate-grey, darker on the face; chin dark grey; throat whitish; upperparts plain grey-brown; upper breast rufous with dark streaks; lower breast and belly white, barred dark brown; undertail coverts white; tail long, grey-brown with broad blackish bars and a pale tip; bill dark with a yellowish base; yellow eye-ring and yellow-orange iris; legs yellow.",
@@ -87,10 +89,35 @@
       "title": "Large Hawk-Cuckoo – Singapore Birds Project",
       "url": "https://singaporebirds.com/species/large-hawk-cuckoo",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of the World – Large Hawk-Cuckoo(소개·분포)",
+      "url": "https://birdsoftheworld.org/bow/species/larhac2/cur/introduction",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 외연도 2014년 5월 17~18일",
+      "url": "https://www.birdskoreablog.org/?p=12716",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 백령도 2025년 5월 18~28일",
+      "url": "https://www.birdskoreablog.org/?p=30665",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 백령도 2026년 5월 26일~6월 1일",
+      "url": "https://www.birdskoreablog.org/?p=31756",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "Wikipedia(영어) – Large hawk-cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Large_hawk-cuckoo",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "암수 구별은 Birds of the World 한 곳에서만 '같다'고 확인해 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

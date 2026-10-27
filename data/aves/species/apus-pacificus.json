@@ -5,13 +5,19 @@
   "author": "Latham, 1801",
   "en": "Pacific Swift",
   "ktsn": 120000001883,
-  "origin": "nibr",
   "length": "20cm",
   "status": "나그네새 수만 마리 · 여름철새 수천 마리",
   "habitat": "해안·섬의 암벽, 고산 암석 굴, 오래된 높은 건물",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       6,
       7
@@ -93,9 +99,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "코토뱅크(世界大百科事典 등) – アマツバメ",
+      "url": "https://kotobank.jp/word/%E3%82%A2%E3%83%9E%E3%83%84%E3%83%90%E3%83%A1",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 가거도 2022년 4월 23~27일",
+      "url": "https://www.birdskoreablog.org/?p=25776",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새 모습(깃 가장자리가 엷게 둘림)은 위키백과(Chantler 인용) 한 곳에서만 보여 비워 두었다(조사 중)"
+  ],
   "occurrence": {
     "code": "P2, S3",
     "bs": "1",

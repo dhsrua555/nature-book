@@ -5,13 +5,18 @@
   "author": "Linnaeus, 1766",
   "en": "Ruddy-breasted Crake",
   "ktsn": 120000528847,
-  "origin": "nibr",
   "length": "22.5cm",
   "status": "여름철새, 해마다 수십 마리",
   "habitat": "소택지, 논, 강가의 풀숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       5,
       6,
@@ -48,11 +53,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새보다 훨씬 어둡고 얼굴과 가슴에 적갈색이 없이 칙칙한 올리브 갈색을 띠며, 턱과 멱, 배 가운데는 희끄무레하다.",
+  "similar": [
+    {
+      "ko": "한국뜸부기",
+      "how": "한국뜸부기는 옆구리와 넓적다리, 아래꼬리덮깃에 흑백 가로줄이 굵고 뚜렷하며 날개덮깃에 가는 흰 가로줄이 있다."
+    }
+  ],
   "art": {
     "subject": "Ruddy-breasted Crake (Zapornia fusca), adult as seen in Korean marshes and rice paddies from May to August: crown, hindneck, upperparts, wings and tail plain dark olive-brown without streaks or spots; face, sides of the neck, breast and upper belly rich ruddy chestnut; chin and upper throat whitish; lower belly, rear flanks and undertail coverts dark greyish-brown with narrow white bars. Short, straight greenish-brown bill; bright red iris; legs and toes red.",
     "pose": "walking at the edge of a grassy marsh, side view, in the open",
@@ -91,6 +101,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm, The Birds of the Japanese Empire(1890) – Crex fusca",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "어린새"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Amaurornis fuscus",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Amaurornis fuscus",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典・ブリタニカ・図鑑NEO) – ヒクイナ",
+      "url": "https://kotobank.jp/word/%E3%83%92%E3%82%AF%E3%82%A4%E3%83%8A",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 23권(1894) – Limnobaenus paykulli",
+      "url": "https://archive.org/details/catalogueofbirds23brit",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Taczanowski, Faune ornithologique de la Sibérie orientale 2권(1891) – Rallina mandarina",
+      "url": "https://archive.org/details/fauneornitholog2tacz",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Dresser, A Manual of Palaearctic Birds 2권(1903) – Porzana paykulli",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 쇠뜸부기사촌",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=508914",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

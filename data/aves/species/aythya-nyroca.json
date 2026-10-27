@@ -5,8 +5,7 @@
   "author": "Güldenstädt, 1770",
   "en": "Ferruginous Duck",
   "ktsn": 120000001454,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "38–42cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "강, 하구, 하천, 해안, 시야가 트인 넓은 물",
   "protect": [],
@@ -49,8 +48,13 @@
     "male": "온몸이 적갈색이고 등과 부리는 검으며, 아랫배와 아래꼬리는 흰색이고 눈은 흰색이다.",
     "female": "온몸이 수컷보다 짙은 적갈색이고 눈은 어두운 갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 가슴에 검은 가로무늬가 있고 아랫면이 얼룩덜룩하며, 어른새의 뚜렷한 흰 아래꼬리덮깃이 없다.",
+  "similar": [
+    {
+      "ko": "붉은가슴흰죽지",
+      "how": "붉은가슴흰죽지는 조금 더 크고, 수컷 머리가 녹색 광택이 도는 검은색이며 옆구리 앞쪽에 흰 무늬가 있다."
+    }
+  ],
   "art": {
     "subject": "Ferruginous Duck (Aythya nyroca), adult male in winter, as seen in Korea from October to February: head, neck, breast and flanks rich dark chestnut (mahogany), glossy and uniform; back and wings blackish-brown; a sharply defined pure white patch on the undertail coverts; lower belly white, mostly hidden on the water; iris white; bill dark slate-grey to blackish with a black nail and a paler grey band near the tip; legs grey.",
     "pose": "swimming low on open water just before a dive",
@@ -89,6 +93,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia(일본어) – メジロガモ(『日本の野鳥590』·『日本の鳥550 水辺の鳥』 인용 부분)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%AD%E3%82%AC%E3%83%A2",
+      "used": "몸길이"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 적갈색흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "몸길이, 어린새, 비슷한 종"
+    },
+    {
+      "title": "동아시아-대양주 철새이동경로 파트너십(EAAFP) – Nial Moores, More on Baer's Pochard, Baer's-like birds and Hybrids(2015)",
+      "url": "https://www.eaaflyway.net/more-on-baers-pochard-baers-like-birds-and-hybrids/",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Wikipedia(영어) – Baer's pochard(Brazil·Nurney 도감 인용 부분)",
+      "url": "https://en.wikipedia.org/wiki/Baer%27s_pochard",
+      "used": "비슷한 종"
     }
   ],
   "todo": [

@@ -5,7 +5,6 @@
   "author": "Latham, 1787",
   "en": "Taiga Bean Goose",
   "ktsn": 120000001414,
-  "origin": "nibr",
   "length": "약 85cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수만 마리 · 여름에도 드물게 기록",
   "habitat": "농경지, 호수, 하천, 하구, 해안",
@@ -13,8 +12,16 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "9월 하순에 이르게 찾아온 기록이 있고, 여름에도 드물게 남은 개체가 기록된다."
   },
   "summary": "전국의 농경지, 호수, 하천, 하구, 해안에 무리 지어 겨울을 나는 비교적 흔한 겨울철새다. 월동지에서는 밤에도 잠자리인 호수로 돌아가지 않고 하루 내내 넓은 논에서 지내는 일이 많다. 유라시아 대륙의 툰드라에서 번식하고 중국 남부, 중앙아시아, 한국, 일본 남부에서 겨울을 난다.",
   "points": [
@@ -96,7 +103,12 @@
     "text": "암수 생김새가 비슷하다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "큰부리큰기러기",
+      "how": "큰부리큰기러기는 몸이 더 크고 목이 길며, 부리가 가늘고 길어 머리 길이만큼 되고 아랫부리가 얇다."
+    }
+  ],
   "art": {
     "subject": "Bean Goose (Anser fabalis), the tundra type that commonly winters in Korea (Tundra Bean Goose, Anser serrirostris), adult in winter (October to March): head and neck dark chocolate-brown, clearly darker than the body; mantle, back and wing coverts grey-brown with pale buff fringes forming neat transverse bars; breast and belly pale grey-brown; flanks darker grey-brown barred by whitish feather tips and topped by a narrow white line; vent and undertail coverts white; a narrow white band of uppertail coverts above a dark brown tail with a white tip and white sides; short, deep-based black bill with an orange band near the tip and a black nail; dark brown eye; orange legs and feet.",
     "pose": "grazing in a flock in a wide rice paddy",
@@ -137,9 +149,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "부산광역시 낙동강하구에코센터 – 겨울철새(개리·큰기러기·고니·큰고니 도래 시기)",
+      "url": "https://www.busan.go.kr/wetland/ndebirds",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "呉地正行·横田義雄·大津真理子(1983) 「ヒシクイとオオヒシクイの野外識別についての考察」 『鳥』 32:95–106",
+      "url": "https://fog.ccsf.edu/~jmorlan/Middendorffi%20_%20serrirostris.pdf",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판(『日本の鳥550 水辺の鳥』 인용) – ヒシクイ(큰기러기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%B7%E3%82%AF%E3%82%A4",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새 설명이 자료마다 달라(Oiseaux.net: 부리의 주황 띠가 흐리고 다리가 칙칙함 / 『日本の鳥550』: 날개덮깃 가장자리가 흼) 비워 두었다"
+  ],
   "occurrence": {
     "code": "P1, W2, SV1",
     "bs": "0",

@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Great Bustard",
   "ktsn": 120000001626,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "수컷 약 100cm, 암컷 약 75cm",
   "status": "겨울에 드물게 찾아옴, 지금까지 기록 10건 미만",
   "habitat": "평야, 구릉지, 초원, 농경지",
   "protect": [
@@ -14,9 +13,13 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~6월에 알을 낳는다."
+    "note": "국내에서 기록된 달이다. 번식지에서는 5~6월에 알을 낳는다."
   },
   "summary": "매우 드물게 찾아오는 겨울철새로, 평야, 구릉지, 초원과 농경지에서 지낸다. 긴 목과 다리에 통통하고 큰 몸집이라 쉽게 알아볼 수 있다. 한 수컷이 여러 암컷과 짝을 짓는 일부다처제로 산다. 예전에는 흔한 겨울철새였으나 불법 사냥과 농약 사용, 잇따른 개발로 위협받고 있다.",
   "points": [
@@ -42,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "암컷보다 훨씬 크고, 뒷목에서 가슴까지 적갈색을 띤다. 번식기에는 턱 밑에 흰 수염 모양 깃이 길게 자란다.",
+    "female": "수컷보다 훨씬 작고 깃 색이 수수하며, 수컷의 적갈색 부분이 회색이고 수염 모양 깃이 없다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하며, 어린 수컷은 목 옆이 붉은 갈색을 띤다. 새끼는 흑갈색 바탕에 엷은 황갈색 줄무늬가 있는 솜털로 덮여 땅 위에서 잘 숨는다.",
   "similar": [],
   "art": {
     "subject": "Great Bustard (Otis tarda), adult male of the eastern population (Otis tarda dybowskii) in winter, as on Korean farmland from November to February: head and upper neck grey; a rufous-chestnut band across the lower neck and upper breast; upperparts golden-buff to cinnamon, densely barred black; white wing coverts showing along the lower edge of the folded wing; underparts white. Bill short, stout, greyish horn; iris dark; legs grey-brown.",
@@ -87,6 +91,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 느시",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013306",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "SEO/BirdLife(스페인조류학회) – Avutarda común",
+      "url": "https://seo.org/ave/avutarda-comun/",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "전북일보 2020.1.20 – 천연기념물 '느시', 만경강서 발견",
+      "url": "https://www.jjan.kr/articleAmp/20200120702608",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Wikipedia(영어) – Great bustard",
+      "url": "https://en.wikipedia.org/wiki/Great_bustard",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Wikipedia(일본어) – ノガン",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AC%E3%83%B3",
+      "used": "몸길이"
     }
   ],
   "todo": [],

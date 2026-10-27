@@ -5,14 +5,22 @@
   "author": "C.L.Brehm, 1831",
   "en": "Black-necked Grebe",
   "ktsn": 120000001506,
-  "origin": "nibr",
   "length": "약 31cm",
   "status": "겨울철새, 해마다 수천 마리",
   "habitat": "강 하류, 해안 호수",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월에 와서 이듬해 4월까지 머물며, 동해안에서는 수백 마리가 모이기도 한다."
   },
   "summary": "전국에서 볼 수 있는 비교적 흔한 겨울철새로, 강 하류나 해안 호수에서 무리 지어 지낸다. 종종 수십 마리가 무리를 이루어 잇달아 물속으로 잠수하며 어류, 갑각류, 복족류, 곤충을 잡아먹는다. 유럽에서 카자흐스탄, 중국 동북부에서 우수리, 북아메리카 중부, 아프리카 동부 등지에서 번식하고, 유럽, 중동, 동아시아, 중남미, 아프리카 남부에서 겨울을 난다.",
   "points": [
@@ -33,8 +41,13 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새 겨울깃과 비슷하나 몸 윗면이 더 갈색을 띠고 뒷목 옆에 황갈색 기가 돌며, 머리의 흑백 경계가 더 흐릿하다. 멱은 희고 앞목과 윗가슴은 칙칙한 회색이다.",
+  "similar": [
+    {
+      "ko": "귀뿔논병아리",
+      "how": "겨울깃에서 검은목논병아리는 검은색이 눈 아래 뺨까지 흐릿하게 번지고 부리가 가늘며 위로 들린 듯 보이지만, 귀뿔논병아리는 검은 머리꼭대기와 흰 뺨의 경계가 눈높이에서 또렷하고 부리가 곧고 굵다."
+    }
+  ],
   "art": {
     "subject": "Black-necked Grebe (Podiceps nigricollis), adult in winter (non-breeding) plumage, as seen on Korean estuaries from November to March: black cap reaching down below the eye onto the ear-coverts, the dark grading into the cheek rather than cut sharply; white throat and a white crescent curving up behind the ear-coverts; foreneck washed dusky grey; hindneck and back blackish-grey; flanks grey; underparts white. Thin black bill with an upturned lower edge, appearing slightly tilted up; bright red eye; dark grey legs.",
     "pose": "swimming in a loose flock on open water, side view, head held up",
@@ -73,6 +86,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 검은목논병아리",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Bent (1919) Life Histories of North American Diving Birds – 검은목논병아리(Eared Grebe)",
+      "url": "https://archive.org/details/cu31924094811852",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 검은목논병아리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 검은목논병아리",
+      "url": "https://avifauna.hkbws.org.hk/species/0070/009300",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 귀뿔논병아리",
+      "url": "https://avifauna.hkbws.org.hk/species/0070/009200",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 검은목논병아리",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 검은목논병아리",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

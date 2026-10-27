@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Great Crested Grebe",
   "ktsn": 120000001504,
-  "origin": "nibr",
   "length": "약 49cm",
   "status": "겨울철새 수만 마리 · 텃새 수백 마리",
   "habitat": "강 하구, 호수, 저수지, 해안",
@@ -25,7 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "4월 무렵부터 물에 뜬 둥지에 알을 낳으며, 깨어난 새끼는 8월 무렵까지 어미를 따라다니며 먹이를 받는다."
   },
   "summary": "드물게 사는 텃새이면서 흔한 겨울철새로, 우리나라 논병아리류 가운데 가장 크다. 강 하구와 호수, 저수지, 해안에서 잠수해 물고기 등을 잡으며, 겨울에는 해안에서 수백 마리씩 무리를 짓기도 한다. 번식기에는 물풀이나 이끼로 물에 뜨는 둥지를 짓고 자리를 비울 때는 알을 풀로 덮어 두며, 새끼는 깨어난 뒤 어미를 따라다니다 때로 어미 등에 올라타 옮겨 다닌다. 유라시아 대륙 중부, 아프리카, 오스트레일리아, 뉴질랜드에 분포하며, 유라시아에서 번식하는 무리는 겨울에 남쪽으로 내려가 월동한다.",
   "points": [
@@ -54,7 +59,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 뿔깃이 짧거나 없고 목둘레의 적갈색 장식깃이 없으며, 흰 뺨에 흑갈색 줄무늬가 두 줄 있고 몸 윗면이 어른새보다 갈색을 띤다. 솜털 새끼는 머리와 목에 검은색과 흰색 줄무늬가 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Great Crested Grebe (Podiceps cristatus), adult in breeding plumage, as seen on Korean reservoirs in early summer: crown and double crest black; face and throat white; a broad ruff of chestnut-orange plumes on the sides of the head, tipped black at the lower edge, framing the white face; a dark line from the eye to the bill; foreneck and breast white; hindneck and back dark grey-brown; flanks tinged rufous-brown. Long, dagger-shaped bill dusky pink with a darker culmen; red eye; legs set at the very rear and hidden under water.",
@@ -94,6 +99,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 뿔논병아리",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 뿔논병아리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – 뿔논병아리",
+      "url": "https://animaldiversity.org/accounts/Podiceps_cristatus/",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 기록 정리 – 뿔논병아리",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 조류 기록 정리 – 뿔논병아리",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 뿔논병아리",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "번식기"
+    },
+    {
+      "title": "石川県レッドデータブック 2009 – 뿔논병아리(カンムリカイツブリ)",
+      "url": "https://www.pref.ishikawa.lg.jp/sizen/reddata/rdb_2009/4_ato/kennsaku2/documents/2-36kannmurikaituburi.pdf",
+      "used": "번식기"
+    },
+    {
+      "title": "岩手県立博物館研究報告 33 (2016) 御所湖のカンムリカイツブリ初繁殖 – 뿔논병아리",
+      "url": "https://www2.pref.iwate.jp/~hp0910/kenkyu/data/kenkyu33/no33p01.pdf",
+      "used": "번식기"
     }
   ],
   "todo": [],

@@ -5,7 +5,6 @@
   "author": "Blyth, 1843",
   "en": "Hodgson's Hawk-Cuckoo",
   "ktsn": 120000529783,
-  "origin": "nibr",
   "length": "TODO",
   "status": "TODO",
   "habitat": "TODO",
@@ -41,7 +40,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 갈색이고 깃 가장자리에 적갈색이나 옅은 테가 있으며, 흰 아랫면에 굵고 짙은 세로줄과 얼룩이 많고 가슴 쪽에 적갈색 기가 돈다.",
   "similar": [],
   "art": {
     "subject": "Hodgson's Hawk-Cuckoo (Hierococcyx nisicolor), adult (sexes alike), as a rare spring vagrant in a Korean forest in May: head, nape and upperparts dark slate-grey, the wings tinged brownish; throat whitish; breast white with variable rufous-orange streaks and smudges, in some birds almost washed rufous on the upper breast, fading to a white belly; undertail coverts white; tail grey with three or four narrow black bars, a broad black subterminal band and a rufous tip. Bright yellow eye-ring; short bill, dark with a yellowish base; legs yellow.",
@@ -88,11 +87,24 @@
       "title": "iNaturalist 연구 등급 사진 – Hierococcyx nisicolor",
       "url": "https://www.inaturalist.org/observations/1626098",
       "used": "그림용 형태 정보 사진 확인"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 4 (1927) – Hierococcyx fugax nisicolor",
+      "url": "https://archive.org/details/BakerFbiBirds4",
+      "used": "어린새"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Hodgson's Hawk-Cuckoo",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005700",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 분류와 이름, 어린새만 실었다",
     "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "국내 기록(날짜·장소·근거)을 찾지 못해 국내 상태·번식·사는 곳·관찰 시기·번식기·해설을 비워 두었다(GBIF·eBird·iNaturalist 한국 기록 없음)",
+    "몸길이: Singapore Birds Project는 27–31cm, HKBWS The Avifauna of Hong Kong은 38–40cm로 크게 달라 비워 두었다(HKBWS 두견이과 종 설명은 여러 종에 같은 38–40cm가 적혀 있어 오류로 보인다)",
+    "암수 구별: 암수 차이를 밝힌 자료를 찾지 못했다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

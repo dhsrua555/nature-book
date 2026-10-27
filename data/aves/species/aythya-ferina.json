@@ -5,14 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Common Pochard",
   "ktsn": 120000001452,
-  "origin": "nibr",
   "length": "약 45cm",
   "status": "나그네새·겨울철새, 해마다 수만 마리 · 여름에도 드물게 기록",
   "habitat": "저수지, 하천, 강 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월에 찾아와 이듬해 3월까지 많고, 늦봄과 여름에도 드물게 남은 개체가 기록된다."
   },
   "summary": "저수지와 하천, 강 하구에서 겨울을 나는 흔한 겨울철새로, 잠수하는 오리 가운데 국내에서 월동하는 수가 가장 많다. 댕기흰죽지나 검은머리흰죽지 등과 어울려 무리를 지어 지낸다. 변환깃에서는 가슴과 꼬리 색이 조금 옅어진다. 유럽 동북부와 바이칼호, 사할린섬에서 번식하고 한국, 일본, 대만, 중국 남부, 미얀마, 인도, 북아프리카 등지에서 월동한다.",
   "points": [
@@ -42,7 +50,7 @@
     "male": "머리와 목은 적갈색, 가슴은 검은색, 몸은 회색이다.",
     "female": "머리와 가슴은 갈색, 몸은 회갈색이며, 눈을 지나는 황갈색 둥근 뺨선과 눈 뒤의 흐린 흰 줄이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷한 갈색이나 아랫면이 더 얼룩덜룩하고, 어른 암컷에 있는 눈 뒤의 흐린 줄이 없다. 어린 수컷은 머리에 붉은 기가 더 돈다.",
   "similar": [],
   "art": {
     "subject": "Common Pochard (Aythya ferina), adult male in winter, as seen on Korean reservoirs from November to March: head and neck rich chestnut-red; breast black; back and flanks very pale grey with fine vermiculations, looking almost whitish-grey at a distance; tail and undertail coverts black. Bill black at the base and tip with a broad pale blue-grey band across the middle; red eye; grey legs.",
@@ -82,6 +90,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, 조류 동정 아틀라스(Aranzadi) – 흰죽지",
+      "url": "https://www.blascozumeta.com/specie_files/01980_Aythya_ferina_aranzadi.pdf",
+      "used": "어린새"
     }
   ],
   "todo": [],

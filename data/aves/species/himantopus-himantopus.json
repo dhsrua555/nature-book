@@ -5,14 +5,28 @@
   "author": "Linnaeus, 1758",
   "en": "Black-winged Stilt",
   "ktsn": 120000001664,
-  "origin": "nibr",
   "length": "약 37cm",
   "status": "나그네새 수백 마리 · 여름철새 수십 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "서해안 간척지, 하천 등 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "3월 하순에 오기 시작해 10월까지 보이며, 겨울에도 드물게 남는 개체가 있다."
   },
   "summary": "드물게 지나가는 나그네새이면서 일부 지역에서 소수가 번식하는 드문 여름철새로, 봄과 가을에 서해안 간척지와 하천 등 습지에 찾아온다. 국내 번식은 1998년 충남 서산 간척지에서 처음 확인되었고, 그 뒤로 여러 간척지와 습지에서 번식 기록이 늘고 있다.",
   "points": [
@@ -83,9 +97,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 기록 정리 – 장다리물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 장다리물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 장다리물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기·번식기"
+    },
+    {
+      "title": "한국교육신문 새교육(2005.8) 천수만의 새로운 주인공 장다리물떼새 – 장다리물떼새",
+      "url": "https://hangyo.com/news/article.html?no=73906",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 일본어판 – 장다리물떼새(セイタカシギ)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%B7%E3%82%AE",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 산란기를 4~8월로 적은 자료(한국교육신문 2005)도 있어, 8월 번식(늦은 둥지)이 해마다 있는지 확인 필요"
+  ],
   "occurrence": {
     "code": "P4, S5, WV2",
     "bs": "1",

@@ -5,15 +5,23 @@
   "author": "Scopoli, 1769",
   "en": "Greater White-fronted Goose",
   "ktsn": 120000001416,
-  "origin": "nibr",
   "length": "약 75cm",
   "status": "나그네새·겨울철새, 해마다 10만 마리 이상 · 여름에도 드물게 기록",
   "habitat": "호수, 저수지, 강, 해안, 간척지 등의 습지, 농경지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~7월에 알을 낳는다."
+    "note": "9월 말부터 찾아오기 시작해 4월까지 머물며, 번식지에서는 5~7월에 알을 낳는다."
   },
   "summary": "큰 무리를 지어 전국의 호수와 저수지, 강, 해안, 간척지 등의 습지와 농경지에서 겨울을 나는 비교적 흔한 겨울철새로, 대부분 큰기러기 무리에 섞여 지낸다. 평야와 해안의 트인 습지나 추수가 끝난 농경지에서 낟알, 벼 그루터기, 풀잎·줄기·뿌리 등을 먹는다. 늘 무리 지어 움직이고 경계심이 강하며, 잘 때는 머리를 등 깃에 묻고 한 다리로 서거나 배를 땅에 댄다. 유라시아와 북아메리카 일부, 그린란드의 북극권에서 번식하는데, 한배에 흰 알을 6~7개 낳는다.",
   "points": [
@@ -82,8 +90,13 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 부리 기부의 흰 무늬와 배의 검은 가로무늬가 없어 온몸이 고르게 회갈색으로 보이며, 분홍 부리의 끝이 거무스름하다.",
+  "similar": [
+    {
+      "ko": "흰이마기러기",
+      "how": "흰이마기러기는 더 작고 부리가 짧으며, 노란 눈테가 뚜렷하고 이마의 흰 무늬가 정수리까지 뾰족하게 올라간다."
+    }
+  ],
   "art": {
     "subject": "Greater White-fronted Goose (Anser albifrons), adult in winter (October to March in Korea): a white blaze around the base of the upper mandible running onto the forehead, edged by a dark brown border; rest of the head and neck plain dark grey-brown; mantle and wing coverts grey-brown with pale buff fringes giving a neatly barred look; breast pale grey-brown; belly paler with irregular broad black bars and blotches; flanks dark grey-brown topped by a white line; vent and undertail white; narrow white uppertail band above a dark tail tipped white; pink bill with a whitish nail; dark brown eye with no coloured eye-ring; orange legs and feet.",
     "pose": "grazing in a flock on harvested farmland, one bird alert with head raised",
@@ -130,6 +143,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – マガン(쇠기러기)",
+      "url": "https://www.birdfan.net/anser_albifrons/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Greater White-fronted Goose(쇠기러기)",
+      "url": "https://www.audubon.org/field-guide/bird/greater-white-fronted-goose",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – マガン(쇠기러기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AC%E3%83%B3",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Greater White-fronted Goose(쇠기러기)",
+      "url": "https://www.oiseaux.net/birds/greater.white-fronted.goose.html",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) 홍콩 조류 종 설명 – Lesser White-fronted Goose(흰이마기러기)",
+      "url": "https://avifauna.hkbws.org.hk/species/0010/000600",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Lesser White-fronted Goose(흰이마기러기)",
+      "url": "https://www.oiseaux.net/birds/lesser.white-fronted.goose.html",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "WWF Finland·NOF(2000) Fennoscandian Lesser White-fronted Goose conservation project, Annual report 1999",
+      "url": "https://www.birdlife.no/prosjekter/rapporter/2000_01_NOF.pdf",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

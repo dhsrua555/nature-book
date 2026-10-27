@@ -5,15 +5,19 @@
   "author": "Pennant, 1769",
   "en": "White-breasted Waterhen",
   "ktsn": 120000001633,
-  "origin": "nibr",
   "length": "약 32.5cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "논, 호소, 초습지, 도랑의 갈대밭과 물가 풀숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9
+    ],
     "breed": [],
-    "note": "번식지에서는 5~7월경 알을 낳는다."
+    "note": "번식지에서는 5~7월경 알을 낳으며, 국내에서도 6~7월에 드물게 기록되고 번식이 확인된 적이 있다."
   },
   "summary": "봄과 가을에 서해안을 따라 드물게 지나가는 나그네새로, 논, 호소, 초습지, 도랑 등의 갈대밭과 물가 풀숲에 산다. 갈대나 대나무, 관목 위에 갈잎으로 접시 모양 둥지를 틀며, 물가 풀숲의 땅 위에 짓기도 한다. 한배에 알을 4~8개 낳는다. 곤충과 조개류를 즐겨 먹고 풀씨와 낟알도 먹으며, 파키스탄 서부에서 인도 북부, 미얀마, 중국, 일본에 이르는 지역에 분포한다.",
   "points": [
@@ -43,10 +47,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 몸 윗면이 석판빛 회색보다 올리브 갈색을 띠고 이마까지 갈색이라 흰 이마가 없으며, 얼굴과 아랫면의 흰색이 거무스름한 깃 끝에 가려 칙칙해 보인다.",
   "similar": [],
   "art": {
     "subject": "White-breasted Waterhen (Amaurornis phoenicurus), adult as seen on Korean west-coast wetlands on spring and autumn passage (sexes alike): forehead, face, chin, throat, foreneck, breast and centre of the belly pure white, sharply divided from the dark parts; crown, hindneck, back, wings and tail dark slate-grey with an olive tinge; flanks dark slate; lower belly, vent and undertail coverts rufous-chestnut. Bill yellowish-green with a red patch at the base of the upper mandible; dark red iris; long legs and toes yellow to orange-yellow.",
@@ -95,6 +99,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 23권(1894) – Amaurornis phoenicura",
+      "url": "https://archive.org/details/catalogueofbirds23brit",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Amaurornis phoenicurus",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Amaurornis phoenicurus",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 흰배뜸부기",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=199",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

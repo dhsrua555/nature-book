@@ -5,13 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Snow Goose",
   "ktsn": 120000001420,
-  "origin": "nibr",
   "length": "67cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "평야와 간척지의 논, 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식지에서는 6월에 알을 낳는다."
   },
@@ -35,8 +40,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "어린새는 등이 회갈색이고 아랫면이 회색이다.",
   "similar": [],
@@ -79,6 +84,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Snow Goose(흰기러기)",
+      "url": "https://www.audubon.org/field-guide/bird/snow-goose",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Ducks Unlimited Waterfowl ID – Snow Goose(흰기러기)",
+      "url": "https://www.ducks.org/hunting/waterfowl-id/snow-goose",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

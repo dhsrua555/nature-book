@@ -5,15 +5,28 @@
   "author": "Scopoli, 1786",
   "en": "Little Ringed Plover",
   "ktsn": 120000155047,
-  "origin": "nibr",
   "length": "16cm",
   "status": "나그네새·여름철새, 해마다 수천 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "하천, 자갈밭, 매립지 등 풀이 적고 모래와 자갈이 많은 곳",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "3월 중순에 국내에 온다."
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "3월 중순에 와서 10월 하순까지 머물며, 한겨울에도 아주 드물게 기록된다."
   },
   "summary": "전국에 흔히 찾아와 번식하는 여름철새로, 3월 중순에 온다. 하천, 자갈밭, 매립지처럼 풀이 적고 모래와 자갈이 많은 곳에 살며, 종종걸음으로 재빨리 달리다 갑자기 멈춰 곤충을 주로 잡아먹는다. 자갈밭에 둥지를 만들어 알 4개를 낳아 24~25일 동안 품고, 둥지 가까이 침입자가 오면 날개를 늘어뜨리고 소리를 지르며 다친 척하여 포식자를 다른 곳으로 꾀어낸다. 국외에서는 북반구의 온대·아한대·열대와 뉴기니에서 번식하고 아프리카, 인도, 동남아시아에서 겨울을 난다.",
   "points": [
@@ -85,6 +98,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 꼬마물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 꼬마물떼새",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 꼬마물떼새",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "번식기"
     }
   ],
   "todo": [],

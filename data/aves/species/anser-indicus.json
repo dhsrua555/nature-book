@@ -5,16 +5,21 @@
   "author": "Latham, 1790",
   "en": "Bar-headed Goose",
   "ktsn": 120000001418,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "71–76cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "간척지의 논, 호수",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      7,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이며, 일부는 사육하던 새가 달아난 개체일 수 있다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2003년 3월에 처음 기록된 뒤 천수만 간척지 등에서 몇 차례 관찰된 길잃은새로, 사육하던 새가 달아난 개체일 가능성도 있다. 티베트고원에서 몽골에 이르는 중앙아시아 고원의 호숫가에서 무리 지어 번식하고, 인도·네팔·방글라데시 등 남아시아에서 겨울을 난다. 겨울에는 농경지에서 보리·밀·벼 같은 곡식과 풀을 먹는다. 번식지와 월동지를 오가며 히말라야산맥을 넘는 것으로 이름나 있다.",
   "points": [
     {
       "ko": "검은 띠 두 줄이 있는 흰 머리",
@@ -38,8 +43,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "TODO",
   "similar": [],
@@ -91,11 +96,32 @@
       "title": "Bar-headed Goose – the-birds.net (Oiseaux.net)",
       "url": "https://the-birds.net/birds/bar-headed.goose.html",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 2015년 7월 18일 하동·순천(줄기러기 기록, 이전 국내 기록 2003년 3월)",
+      "url": "https://birdskoreablog.org/?p=16335",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "iNaturalist – 줄기러기 남한 관찰 기록(서산 천수만 일대 2020·2024·2025년)",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=7008",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Anser indicus(줄기러기)",
+      "url": "https://animaldiversity.org/accounts/Anser_indicus/",
+      "used": "몸길이·암수 구별·사는 곳·해설"
+    },
+    {
+      "title": "Oiseaux.net – Bar-headed Goose(줄기러기)",
+      "url": "https://www.oiseaux.net/birds/bar-headed.goose.html",
+      "used": "몸길이·암수 구별·해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "어린새 설명은 한 곳(Oiseaux.net: 머리의 검은 띠 두 줄이 없고 뒷목의 검은 띠가 정수리까지 이어짐)에서만 확인되어 비워 두었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록 가운데 2015년 7월 하동 개체 등 일부는 사육하던 새가 달아난 것일 수 있어(Birds Korea) 길잃은새 기록으로 셀지 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

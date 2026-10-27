@@ -5,14 +5,22 @@
   "author": "Linnaeus, 1761",
   "en": "Greater Scaup",
   "ktsn": 120000001456,
-  "origin": "nibr",
   "length": "약 45cm",
   "status": "겨울철새, 해마다 수만 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "해안 근처의 호수, 하구, 석호, 만",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월부터 이듬해 4월까지 보이며, 여름에도 드물게 남은 개체가 기록된다."
   },
   "summary": "곳에 따라 흔한 겨울철새로, 겨울철 전국의 하구와 석호, 만에서 관찰된다. 해안 가까운 호수나 하구에서 무리를 지어 지내며, 잠수해 조개류, 갑각류, 해초류를 먹는다. 유라시아 대륙 북부와 북아메리카 북부에서 번식하고, 유럽, 카스피해, 페르시아만, 우수리, 중국 동부, 한국, 일본, 북아메리카 서부·동부 해안에서 월동한다.",
   "points": [
@@ -42,7 +50,7 @@
     "male": "머리와 목, 가슴은 녹색 광택이 있는 검은색이고, 윗면은 흰 바탕에 가는 검은 물결무늬가 있다.",
     "female": "갈색빛을 띠며 부리 기부의 흰 점이 뚜렷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷한 갈색이나 전체적으로 더 칙칙하고 부리 둘레의 흰 무늬가 작다.",
   "similar": [
     {
       "ko": "댕기흰죽지",
@@ -87,6 +95,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 검은머리흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "어린새"
+    },
+    {
+      "title": "The Wildlife Trusts – Scaup",
+      "url": "https://www.wildlifetrusts.org/wildlife-explorer/birds/waterfowl/scaup",
+      "used": "어린새"
     }
   ],
   "todo": [],

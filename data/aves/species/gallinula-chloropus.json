@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Common Moorhen",
   "ktsn": 120000001641,
-  "origin": "nibr",
   "length": "약 32cm",
   "status": "여름철새 수천 마리 · 텃새 수백 마리",
   "habitat": "호소, 소택지, 연못, 저수지, 하구 등 물이 고인 곳",
@@ -64,7 +63,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 온몸이 칙칙한 갈색을 띠고 아랫면은 회갈색 바탕에 흰 깃이 많이 섞인다. 새끼는 온몸이 검은 솜털로 덮여 있다.",
   "similar": [],
   "art": {
     "subject": "Common Moorhen (Gallinula chloropus), adult, as seen on Korean ponds and reed-fringed reservoirs from April to October: head, neck and underparts dark slate-grey to sooty black; back, wings and rump dark olive-brown; a broken white line of streaks along the flanks below the folded wing; belly feathers with faint pale fringes; undertail coverts black in the centre and white at the sides, flashed as the tail is flicked. Frontal shield bright red, flat and rounded at the top; bill bright red with a yellow tip. Iris red. Legs and long toes yellow-green, with a red ring ('garter') at the top of the bare tibia.",
@@ -104,6 +103,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "環境庁 日本産鳥類の繁殖分布(1981) – バン",
+      "url": "https://www.biodic.go.jp/reports/2-1/af139.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Gallinula chloropus indicus",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Gallinula chloropus",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "어린새"
     }
   ],
   "todo": [],

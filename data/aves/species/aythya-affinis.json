@@ -5,16 +5,18 @@
   "author": "Eyton, 1838",
   "en": "Lesser Scaup",
   "ktsn": 120000471480,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "40–46cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 석호",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "지금까지 기록이 10건이 안 되는 길잃은새로, 2014년 2월 강릉 경포호에서 수컷 한 마리가 처음 기록되었다. 겨울에는 호수와 저수지, 강, 잔잔한 만에서 큰 무리를 짓는데, 검은머리흰죽지보다 민물을 훨씬 좋아한다. 잠수해 물속 곤충과 갑각류, 조개 같은 연체동물을 먹는다. 알래스카와 캐나다 내륙의 북방림과 초원 지대 습지에서 번식하고, 북아메리카 남부와 중앙아메리카 등지에서 겨울을 난다.",
   "points": [
     {
       "ko": "뒷머리가 뾰족이 솟은 작은 머리",
@@ -42,11 +44,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 목, 가슴이 검고 머리에 보랏빛 광택이 돈다. 등은 회색 바탕에 검은 물결무늬가 있고 옆구리는 희며, 연한 청회색 부리 끝의 검은 부분이 아주 작고 눈은 노랗다.",
+    "female": "온몸이 짙은 갈색이고 부리 둘레에 흰 무늬가 있으며, 옆구리는 조금 더 옅다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 더 칙칙하고, 부리 둘레의 흰 무늬가 작거나 거의 없다.",
+  "similar": [
+    {
+      "ko": "검은머리흰죽지",
+      "how": "검은머리흰죽지는 조금 더 크고 머리가 둥글며, 쇠검은머리흰죽지는 뒷머리가 뾰족하게 솟고 날개의 흰 띠가 날개 가운데까지만 이어진다."
+    }
+  ],
   "art": {
     "subject": "Lesser Scaup (Aythya affinis), adult male in winter plumage, as worn from October to April: head and neck black with a purple gloss in good light; breast black; back and scapulars pale grey with coarse dark wavy vermiculation; flanks white with faint grey vermiculation; rear end and tail black. Bill pale blue-grey with only a very small black nail at the tip; iris bright yellow; legs and feet grey.",
     "pose": "swimming on calm water, side view",
@@ -96,10 +104,39 @@
       "title": "Lesser Scaup vs Greater Scaup: Key Identification Field Marks – Avian Report",
       "url": "https://avianreport.com/lesser-scaup-greater-scaup-identification/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 쇠검은머리흰죽지",
+      "url": "https://www.audubon.org/field-guide/bird/lesser-scaup",
+      "used": "몸길이, 암수 구별, 해설, 비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 쇠검은머리흰죽지",
+      "url": "https://animaldiversity.org/accounts/Aythya_affinis/",
+      "used": "몸길이, 암수 구별, 해설"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Lesser Scaup",
+      "url": "https://www.birdweb.org/Birdweb/bird/lesser_scaup",
+      "used": "암수 구별, 해설, 비슷한 종"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 쇠검은머리흰죽지",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/13",
+      "used": "몸길이, 암수 구별, 어린새, 비슷한 종"
+    },
+    {
+      "title": "김화정 외(2020), Notes on bird species newly recorded in Korea, 한국생물종연구(Journal of Species Research) 9(4)",
+      "url": "https://koreascience.kr/article/JAKO202034465347071.page",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 한국의 쇠검은머리흰죽지 관찰 기록",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Aythya%20affinis",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

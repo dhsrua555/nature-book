@@ -5,16 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Dotterel",
   "ktsn": 120000528794,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "20–22cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "간척지의 농경지와 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "2005년 9월 30일 서산에서 발견된 어린새가 10월 초순까지 머물렀으며, 국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2005년 9월 말 충남 서산 간척지에서 어린새 한 마리가 처음 기록된 길잃은새로, 국내 기록은 지금까지 10건이 채 되지 않는다. 유라시아 북부의 툰드라와 높은 산의 평평한 능선에서 번식하고, 북아프리카에서 중동에 이르는 반사막과 농경지에서 겨울을 난다. 이동할 때는 해마다 같은 곳의 탁 트인 밭이나 짧은 풀밭에 작은 무리로 들르며, 사람을 별로 경계하지 않는다. 번식지에서는 암컷보다 수수한 수컷이 주로 알을 품고 새끼를 돌본다.",
   "points": [
     {
       "ko": "뒷목에서 만나는 넓은 흰 눈썹선",
@@ -42,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "암컷보다 색이 수수하고, 여름깃에서 배의 검은 부분이 작은 편이다.",
+    "female": "수컷보다 색과 무늬가 더 짙고 선명하다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃처럼 수수하나 등과 어깨깃이 흑갈색 바탕에 황갈색 깃 가장자리가 있어 비늘 무늬처럼 보이고, 가슴에 거무스름한 줄무늬가 있다. 흰 눈썹선은 어른새처럼 뒷머리에서 만난다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Dotterel (Eudromias morinellus), adult female in breeding plumage, as on spring passage in May: crown blackish-brown; broad white supercilia running from above the eye to meet in a V on the nape; face and throat white; neck and upper breast blue-grey; a narrow white band across the breast, edged above by a thin black line; lower breast and flanks rich chestnut-orange; centre of the belly black; vent and undertail coverts white; upperparts grey-brown with buff-rufous fringes to the scapulars and tertials. Bill short, slender and black; dark eye; legs dull yellow.",
@@ -90,11 +94,46 @@
       "title": "Dotterel – RSPB",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/dotterel",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 기록 정리 – 흰눈썹물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기·사는 곳·해설"
+    },
+    {
+      "title": "Vogelbescherming Nederland 조류도감 – 흰눈썹물떼새(Morinelplevier)",
+      "url": "https://www.vogelbescherming.nl/ontdek-vogels/kennis-over-vogels/vogelgids/vogel/morinelplevier",
+      "used": "몸길이·암수 구별·해설"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 흰눈썹물떼새",
+      "url": "https://www.audubon.org/field-guide/bird/eurasian-dotterel",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 흰눈썹물떼새",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새·암수 구별·해설"
+    },
+    {
+      "title": "BTO BirdFacts – 흰눈썹물떼새",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/dotterel",
+      "used": "해설"
+    },
+    {
+      "title": "일본 환경성 생물다양성센터 ESABII 철새 데이터베이스(BirdLife 자료) – 흰눈썹물떼새",
+      "url": "https://www.esabii.biodic.go.jp/database/migrantbirds/21.html",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "Bent (1929) Life Histories of North American Shore Birds 2부 – 흰눈썹물떼새",
+      "url": "https://archive.org/details/lifehistoriesofn00bent_4",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "2005년 첫 기록 뒤의 국내 기록(날짜·장소)을 찾지 못했다. 관찰 달과 사는 곳은 첫 기록 기준이라 다른 기록 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

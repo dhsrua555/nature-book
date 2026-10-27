@@ -5,14 +5,24 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Teal",
   "ktsn": 120000001446,
-  "origin": "nibr",
   "length": "약 38cm",
   "status": "겨울철새, 해마다 수만 마리 · 여름에도 드물게 기록",
   "habitat": "하천, 호수, 간척지, 논, 밭, 초습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "9월에 오기 시작해 10월부터 이듬해 4월까지 많고, 여름에도 드물게 남은 개체가 기록된다."
   },
   "summary": "전국의 습지와 하천에서 겨울을 나는 흔한 겨울철새다. 낮에는 하천, 호수, 간척지 등에서 쉬거나 먹이를 먹고, 밤에는 논, 밭, 초습지로 나가 먹이를 찾는다. 월동지에서는 작은 무리를 지으며, 불규칙하고 빠르게 난다. 유라시아 대륙 북부에서 번식하고 유럽 남부, 북아프리카, 중동, 남아시아에서 동아시아에 걸쳐 겨울을 난다.",
   "points": [
@@ -46,8 +56,13 @@
     "male": "머리는 적갈색이고 눈에서 뒷목까지 어두운 녹색이며, 두 색의 경계에 가는 노란 줄이 있다. 옆구리에 뚜렷한 흰 가로줄이 있고, 노란 아래꼬리덮깃 둘레를 검은 띠가 두른다.",
     "female": "전체적으로 어두운 갈색에 검은 무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷한 얼룩덜룩한 갈색이나 아랫면에 갈색 얼룩이 더 많다. 솜털 새끼는 윗면이 올리브빛 갈색, 얼굴과 아랫면이 노르스름하며 눈을 지나는 짙은 줄이 있다.",
+  "similar": [
+    {
+      "ko": "미국쇠오리",
+      "how": "미국쇠오리 수컷은 어깨의 가로 흰 줄이 없고 가슴 옆에 세로 흰 줄이 있으며, 두 종의 암컷은 거의 구별되지 않는다."
+    }
+  ],
   "art": {
     "subject": "Eurasian Teal (Anas crecca), adult male in winter, as seen on Korean streams and reservoirs from October to March: head chestnut with a broad, glossy dark green patch running from around the eye back to the nape, outlined by thin buff-yellow lines; breast creamy-buff with small dark spots; body finely vermiculated grey; a long horizontal white stripe, edged black below, along the side of the back above the flank; undertail coverts creamy-yellow framed by black; glossy green speculum. Small dark grey bill; dark eye; grey legs.",
     "pose": "resting on the water in a small flock",
@@ -86,6 +101,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 쇠오리",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/12",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 쇠오리",
+      "url": "https://animaldiversity.org/accounts/Anas_crecca/",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Green-winged Teal",
+      "url": "https://www.birdweb.org/Birdweb/bird/green-winged_teal",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Wikipedia(영어) – Eurasian teal(Madge & Burn 인용 부분)",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_teal",
+      "used": "어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 미국쇠오리",
+      "url": "https://www.audubon.org/field-guide/bird/green-winged-teal",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "King Eider",
   "ktsn": 120000001458,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "46–64cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "동해 바닷가, 항구",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "지금까지 기록이 10건이 안 되는 길잃은새로, 2009년 1월 강원 고성과 경북 울진의 동해 바닷가에서 기록되었다. 북극권 바닷가의 툰드라에서 번식하고, 겨울에는 베링해와 캄차카 등 얼지 않는 북쪽 바다로 내려온다. 깊이 잠수해 조개 같은 연체동물과 갑각류, 극피동물을 잡아먹는다.",
   "points": [
     {
       "ko": "검은 테의 큰 주황색 이마판(수컷)",
@@ -38,10 +40,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "정수리와 뒷목은 옅은 청회색, 뺨은 연녹색이고, 붉은 부리 위로 검은 테를 두른 크고 부푼 주황색 혹이 있다. 목과 가슴은 희고 등과 몸 뒤쪽은 검으며, 허리 양옆에 흰 무늬가 있다.",
+    "female": "온몸이 따뜻한 갈색이고 옆구리에 V자 모양의 검은 비늘무늬가 있으며, 부리는 회색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 암수 모두 수수한 회갈색이다. 어린 수컷은 첫 겨울 늦게부터 등과 옆구리가 어두워지고 가슴과 허리에 흰 깃이 섞이기 시작한다.",
   "similar": [],
   "art": {
     "subject": "King Eider (Somateria spectabilis), adult male in winter plumage, as worn from November to April: crown and nape pale powder-blue, cheeks pale green; a large, swollen orange frontal shield above the bill, edged in black; a black V on the chin; neck and breast white, the breast tinged salmon-pink; back, flanks and rear black, with a white patch at the rear of the flank and two small raised black triangular sails on the back. Bill bright red with a pale tip; iris dark; legs and feet dull orange-yellow.",
@@ -91,11 +94,31 @@
       "title": "Audubon Field Guide – King Eider",
       "url": "https://www.audubon.org/field-guide/bird/king-eider",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – 호사북방오리",
+      "url": "https://animaldiversity.org/accounts/Somateria_spectabilis/",
+      "used": "몸길이, 암수 구별, 어린새, 사는 곳, 해설"
+    },
+    {
+      "title": "Johnsgard, Ducks, Geese, and Swans of the World(개정판, 네브래스카대학) – 호사북방오리",
+      "url": "https://digitalcommons.unl.edu/biosciducksgeeseswans/14",
+      "used": "몸길이, 암수 구별, 어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – King Eider",
+      "url": "https://www.birdweb.org/Birdweb/bird/king_eider",
+      "used": "해설"
+    },
+    {
+      "title": "iNaturalist – 한국의 호사북방오리 관찰 기록",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Somateria%20spectabilis",
+      "used": "관찰 시기, 사는 곳, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록의 달(1월)은 iNaturalist 관찰 2건(2009년 1월 17일 고성 거진, 1월 20일 울진)에만 기댄다. 학술 기록이나 새와 생명의 터 기록으로 날짜를 더 확인할 필요"
   ],
   "occurrence": {
     "code": "V2",

@@ -5,14 +5,19 @@
   "author": "Swinhoe, 1873",
   "en": "Swinhoe's Rail",
   "ktsn": 120000001629,
-  "origin": "nibr",
   "length": "약 15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "소택지, 논, 습지 풀숲, 호소",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      9,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(1913~1930년 채집 기록과 2005·2006·2016년 관찰 기록)."
   },
   "summary": "우리나라에는 지금까지 기록이 10건이 안 되는 길잃은새로, 소택지, 논, 습지의 풀숲, 호소 등에서 산다. 뜸부기 무리 가운데 가장 작은 편에 든다. 풀밭이나 풀 사이 땅 위에 물풀 잎으로 접시 모양 둥지를 짓고 알을 6개 낳으며, 알은 크림빛 갈색 바탕에 적갈색 반점이 흩어져 있다. 일본, 중국 동부, 한카호, 바이칼, 우수리 등지에 분포하며, 세계적으로 희귀한 종으로 알려져 있다.",
   "points": [
@@ -95,9 +100,27 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Mlíkovský·Russell·Stýblo, Breeding distribution and seasonal movements of Swinhoe's Rail(J. Natl. Mus. Prague 193, 2024) – Swinhoe's Rail",
+      "url": "https://www.nm.cz/en/file/b6a08b8873a0082a0929192dba3ef1c7/47787/jnmpnhs.2024.009_Mlikovsky-II.pdf",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin, The Birds of Korea(Bull. Mus. Comp. Zool. 101, 1948) – Porzana noveboracensis exquisita",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그, Baekryeong Island, October 15-19(2016) – Swinhoe's Rail",
+      "url": "https://www.birdskoreablog.org/?p=18495",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새 깃은 확인한 문헌(Sharpe 1894, Dresser 1903, Seebohm 1890)에 설명이 없어 비워 두었다",
+    "암수 구별은 Dresser(1903)만 '수컷이 작고 날개의 흰 부분이 적다'고 적었고 다른 자료로 확인되지 않아 비워 두었다"
+  ],
   "occurrence": {
     "code": "V2",
     "bs": "0",

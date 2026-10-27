@@ -5,16 +5,22 @@
   "author": "Blyth, 1849",
   "en": "Brown-cheeked Rail",
   "ktsn": 120000155015,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 29cm",
   "status": "겨울철새, 해마다 수십 마리",
-  "habitat": "TODO",
+  "habitat": "갈대밭, 물가 풀숲, 논과 묵논, 하천·저수지 가장자리의 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "4~5월에도 드물게 기록된 적이 있다."
   },
-  "summary": "TODO",
+  "summary": "해마다 수십 마리가 찾아오는 겨울철새로, 갈대밭과 물가 풀숲, 논 같은 습지에서 겨울을 난다. 우거진 풀숲 속을 걸어 다니며 좀처럼 모습을 드러내지 않고, 놀라면 날기보다 풀숲으로 달아난다. 곤충, 지렁이, 작은 연체동물 같은 작은 동물과 물풀의 씨앗·새싹을 먹는다. 시베리아 동부와 몽골, 중국 동북부, 일본 북부에서 번식하고 일본 남부, 중국 남부, 동남아시아, 인도 동북부에서 겨울을 난다.",
   "points": [
     {
       "ko": "옅은 회색 눈썹선",
@@ -38,10 +44,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 날개덮깃에 흰 가로띠가 더 많고 뚜렷하며, 얼굴과 가슴의 청회색이 옅고 아랫면 깃 가장자리가 연한 적갈색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Brown-cheeked Rail (Rallus indicus), adult as seen in Korean winter wetlands (November–March): crown and upperparts olive-brown boldly streaked black; a pale grey supercilium above a broad brown stripe from the lores through the eye across the cheek; chin whitish; throat, foreneck and breast grey washed brownish; flanks and belly sides boldly barred black and white; undertail coverts whitish-buff barred dark. Long bill mostly bright orange-red with a dark ridge and tip; red iris; legs and long toes dull pinkish-red.",
@@ -97,11 +103,61 @@
       "title": "Tavares et al. 2010, BMC Evolutionary Biology — Water Rail 형질 비교표 (검색 발췌)",
       "url": "https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-226/tables/2",
       "used": "동정 포인트"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・世界大百科事典・ブリタニカ・図鑑NEO) – クイナ",
+      "url": "https://kotobank.jp/word/%E3%82%AF%E3%82%A4%E3%83%8A",
+      "used": "몸길이, 해설"
+    },
+    {
+      "title": "京都府レッドデータブック2015 – クイナ",
+      "url": "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/bird0024.html",
+      "used": "몸길이, 사는 곳"
+    },
+    {
+      "title": "新潟県 展示鳥類剥製 – クイナ",
+      "url": "https://www.pref.niigata.lg.jp/sec/kankyotaisaku/1356908741409.html",
+      "used": "몸길이, 사는 곳, 암수 구별, 어린새"
+    },
+    {
+      "title": "環境庁 日本産鳥類の繁殖分布(1981) – クイナ",
+      "url": "https://www.biodic.go.jp/reports/2-1/af133.html",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Rallus indicus",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "사는 곳, 해설, 암수 구별, 어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Rallus aquaticus indicus",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "해설, 암수 구별, 어린새"
+    },
+    {
+      "title": "Dresser, A Manual of Palaearctic Birds 2권(1903) – Rallus indicus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "해설"
+    },
+    {
+      "title": "Austin, The Birds of Korea(Bull. Mus. Comp. Zool. 101, 1948) – Rallus aquaticus indicus",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그, Baekryeong Island, October 15-19(2016) – Eastern Water Rail",
+      "url": "https://www.birdskoreablog.org/?p=18495",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 흰눈썹뜸부기",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=144477",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "iNaturalist 에 3월 관찰이 없어 겨울철새인데도 3월을 관찰 시기에서 뺐다(국내 3월 기록 확인 필요)"
   ],
   "occurrence": {
     "code": "W5",

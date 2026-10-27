@@ -5,16 +5,19 @@
   "author": "Gmelin, 1788",
   "en": "Lesser Coucal",
   "ktsn": 120000001847,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬과 바닷가의 덤불, 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6,
+      7
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "지금까지 국내 기록이 10건이 안 되는 길잃은새로, 2005년 군산에서 죽은 개체가 발견된 뒤 2006년 외연도, 2010년 제주도, 2014년 6월 백령도에서 기록되었다. 인도에서 동남아시아, 중국 남부와 타이완에 걸쳐 사는 텃새로, 키 큰 풀밭과 덤불, 습지 가장자리에 숨어 지내며 주로 땅에서 먹이를 찾는다. 많은 뻐꾸기와 달리 탁란하지 않고, 덤불이나 낮은 나무에 풀잎으로 지붕 덮인 둥지를 지어 암수가 함께 새끼를 기른다.",
   "points": [
     {
       "ko": "짧고 윗부리가 둥근 검은 부리",
@@ -45,7 +48,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어른새보다 갈색을 띠고, 온몸에 검은 반점과 가로무늬가 있으며 머리에는 적갈색 줄무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Lesser Coucal (Centropus bengalensis), adult in breeding plumage: head, neck, underparts and tail black with a dull gloss; wings chestnut, the flight feathers tipped dusky; pale buff shaft streaks often visible on the scapulars and wing coverts; tail long and broad, black. Bill black, short and not deep at the base, with a rounded, arched culmen; eye dark; legs dark grey, with a long straight hind claw.",
@@ -91,10 +94,26 @@
       "title": "Wikipedia — Lesser coucal (Payne 2005; Rasmussen & Anderton 2005 인용)",
       "url": "https://en.wikipedia.org/wiki/Lesser_coucal",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 여러 곳 2014년 6월 4~9일(Lesser Coucal 국내 4번째 기록)",
+      "url": "https://www.birdskoreablog.org/?p=13005",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "싱가포르조류학회 Singapore Birds – Lesser Coucal",
+      "url": "https://singaporebirds.com/species/lesser-coucal",
+      "used": "사는 곳·해설·어린새"
+    },
+    {
+      "title": "Birds of the World – Lesser Coucal(분포)",
+      "url": "https://birdsoftheworld.org/bow/species/lescou1/cur/introduction",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "몸길이는 자료마다 28–34cm(홍콩조류학회), 31–38cm, 약 38cm(싱가포르조류학회)로 크게 달라 비워 두었다(조사 중)",
+    "암수 구별은 위키백과('야외에서 구별 못 함') 말고 두 번째 자료로 확인하지 못했다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

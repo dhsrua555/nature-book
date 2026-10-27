@@ -5,15 +5,17 @@
   "author": "Linnaeus, 1758",
   "en": "Water Rail",
   "ktsn": 120000001631,
-  "origin": "nibr",
   "length": "약 29cm",
   "status": "겨울에 드물게 찾아옴, 지금까지 기록 10건 미만",
   "habitat": "줄과 갈대가 우거진 호소·소택지, 하구 물가",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2
+    ],
     "breed": [],
-    "note": "번식지에서는 5~6월경 알을 낳는다."
+    "note": "국내에서 기록된 달이며, 번식지에서는 5~6월경 알을 낳는다."
   },
   "summary": "줄과 갈대가 우거진 호소나 소택지, 하구의 물가에 사는 뜸부기로, 봄과 가을에 우리나라 중서부를 지나간다. 일부 작은 무리는 낙동강 하구와 주남저수지 등 남부 낙동강 유역에서 겨울을 난다. 갈대밭 땅 위나 쌓인 갈대 위에 갈잎과 줄기로 접시 모양 둥지를 틀고 한배에 알 6~7개를 낳는다. 물고기, 새우류, 복족류, 곤충 같은 동물성 먹이와 여러 식물의 씨앗을 먹으며, 유라시아, 우수리, 사할린 등 온대 지역에서 번식한다.",
   "points": [
@@ -46,7 +48,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 색이 옅고 멱이 희며, 아랫면이 흰빛~담황색 바탕에 갈색 무늬가 있고 부리와 홍채가 연한 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Water Rail (Rallus aquaticus), adult of the East Asian form (Rallus aquaticus indicus, Brown-cheeked Rail): crown and upperparts olive-brown with broad black feather centres, giving a streaked back; a broad slate-grey supercilium; a dark brown stripe from the lores through the eye to the ear-coverts; cheeks slate-grey; chin and throat white; breast and belly pale grey washed brownish; flanks boldly barred black and white; undertail coverts white. Bill long, red on the lower mandible and the base of the upper mandible, with a dark culmen and tip; iris red; legs and feet apricot-brown.",
@@ -86,10 +88,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 회색가슴뜸부기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2474831&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon Birds – Water Rail",
+      "url": "https://www.blascozumeta.com/specie_files/04070_ENG_Rallus_aquaticus_aranzadi.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Water rail (Taylor & van Perlo 2000 Rails 인용)",
+      "url": "https://en.wikipedia.org/wiki/Water_rail",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "원문은 주남저수지를 '창녕'에 있다고 적었으나 지명 확인이 필요해 지역명은 뺐다"
+    "원문은 주남저수지를 '창녕'에 있다고 적었으나 지명 확인이 필요해 지역명은 뺐다",
+    "원문(갈색 눈선, 봄·가을 중서부 통과, 낙동강 하구 월동)과 그림 정보(art: Rallus aquaticus indicus)는 흰눈썹뜸부기(Rallus indicus)에 가까운 설명이다. 새와 생명의 터 목록의 국내 기록은 아종 korejewi(Western Water Rail, 기록 10건 미만)이므로 생김새·사는 곳·해설 확인 필요"
   ],
   "occurrence": {
     "code": "WV2",

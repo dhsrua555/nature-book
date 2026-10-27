@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Alpine Swift",
   "ktsn": 120000533860,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "20–22cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "지금까지 국내 기록이 10건이 안 되는 길잃은새다. 남유럽과 북아프리카에서 중동, 중앙아시아, 히말라야, 인도와 스리랑카, 아프리카 동·남부까지 번식하며, 유럽의 번식 무리는 아프리카에서 겨울을 난다. 높은 바위 절벽이나 다리, 건물의 틈에 깃털과 식물 조각을 침으로 붙인 접시 모양 둥지를 짓고 무리로 번식하며, 날면서 작은 곤충과 거미를 잡아먹는다.",
   "points": [
     {
       "ko": "흰 멱",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같으나 조금 더 어둡고, 깃 가장자리가 희게 둘려 있다.",
   "similar": [],
   "art": {
     "subject": "Alpine Swift (Tachymarptis melba), adult in flight seen from below: upperparts uniform dull grey-brown; a white throat patch; a broad brown band across the breast; belly white; vent, undertail coverts and undertail dark brown; underwing dark brown; dark eye; tiny black bill.",
@@ -95,10 +94,20 @@
       "title": "Alpine Swift – eBird (Cornell Lab)",
       "url": "https://ebird.org/species/alpswi1/",
       "used": "동정 포인트"
+    },
+    {
+      "title": "SEO/BirdLife(스페인조류학회) – Vencejo real",
+      "url": "https://seo.org/ave/vencejo-real/",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Birds of the World – Alpine Swift(분포)",
+      "url": "https://birdsoftheworld.org/bow/species/alpswi1/cur/introduction",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국내 기록의 날짜와 장소를 찾지 못해 관찰 시기와 사는 곳을 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

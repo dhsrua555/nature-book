@@ -5,16 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Asian Koel",
   "ktsn": 120000001845,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "40–43cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲과 마을 주변 나무숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "늦봄에 서해와 남해의 섬에서 해마다 10건이 안 되게 기록되는 길잃은새로, 2014년 6월에는 강원도에서 수컷이 사진으로 기록되기도 했다. 인도와 스리랑카에서 중국 남부, 동남아시아에 걸쳐 살며, 숲 가장자리와 마을 주변 나무숲에서 주로 무화과 같은 열매를 먹는다. 까마귀나 찌르레기류의 둥지에 알을 낳아 기르게 하는 탁란을 하고, 번식기에 수컷은 새벽에 큰 소리로 운다.",
   "points": [
     {
       "ko": "진홍색 홍채",
@@ -42,8 +45,9 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "온몸이 푸른 광택이 도는 검은색이고, 부리는 엷은 녹회색, 눈은 붉다.",
+    "female": "윗면은 어두운 갈색 바탕에 흰색·황갈색 점이 촘촘하고, 아랫면은 흰 바탕에 짙은 줄무늬와 가로무늬가 있으며 꼬리에 가로무늬가 뚜렷하다."
   },
   "young": "TODO",
   "similar": [],
@@ -90,10 +94,30 @@
       "title": "Wikipedia — Asian koel (Payne 2005; Ali & Ripley 인용)",
       "url": "https://en.wikipedia.org/wiki/Asian_koel",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "싱가포르조류학회 Singapore Birds – Asian Koel",
+      "url": "https://singaporebirds.com/species/asian-koel",
+      "used": "몸길이·해설·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 가거도 2015년 5월 23~24일",
+      "url": "https://www.birdskoreablog.org/?p=15743",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 소청도 2016년 5월 14~15일",
+      "url": "https://www.birdskoreablog.org/?p=18072",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – 여러 곳 2014년 6월 4~9일",
+      "url": "https://www.birdskoreablog.org/?p=13005",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "어린새 모습은 자료마다 설명이 엇갈려(수컷 닮은 검은 몸에 검은 부리·어두운 눈 / 성별 따라 어른새와 비슷하나 흰 깃끝과 적갈색 가로무늬) 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

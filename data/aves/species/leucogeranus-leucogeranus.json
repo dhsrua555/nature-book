@@ -5,7 +5,6 @@
   "author": "Pallas, 1773",
   "en": "Siberian Crane",
   "ktsn": 120000528844,
-  "origin": "nibr",
   "length": "약 135cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "습지, 논",
@@ -13,7 +12,13 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": [],
     "note": "겨울철에 다른 두루미 무리에 섞여 드물게 관찰된다."
   },
@@ -85,6 +90,11 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 시베리아흰두루미",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=144289",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

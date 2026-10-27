@@ -5,8 +5,7 @@
   "author": "Horsfield, 1821",
   "en": "Square-tailed Drongo-Cuckoo",
   "ktsn": 120000001843,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "23–25cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "지금까지 국내 기록이 10건이 안 되는 길잃은새다. 히말라야와 인도 북동부에서 중국 남부, 동남아시아, 자바·발리에 걸쳐 살며, 중국 남부에서 번식하는 무리는 수마트라까지 내려가 겨울을 난다. 숲과 숲 가장자리의 나무 위에서 지내고 이동기에는 맹그로브나 공원에도 나타나며, 꼬리치레류 같은 작은 새의 둥지에 탁란한다.",
   "points": [
     {
       "ko": "가늘고 조금 휜 부리",
@@ -41,7 +40,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어른새와 달리 광택이 없는 검은색이고, 머리와 몸, 날개덮깃, 꼬리 끝에 흰 점이 흩어져 있다.",
   "similar": [],
   "art": {
     "subject": "Square-tailed Drongo-Cuckoo (Surniculus lugubris), adult: plumage entirely black with a blue-black gloss, strongest on the back and wings; rounded head with no crest, the crown feathers lying flat; undertail coverts barred white; the outer tail feathers barred white on their undersides, so the underside of the long black tail shows narrow white bars. Bill black, slender and slightly decurved; legs short and dark.",
@@ -87,10 +86,26 @@
       "title": "Singapore Birds Project: Square-tailed Drongo-Cuckoo",
       "url": "https://singaporebirds.com/species/square-tailed-drongo-cuckoo/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "싱가포르조류학회 Singapore Birds – Square-tailed Drongo-Cuckoo",
+      "url": "https://singaporebirds.com/species/square-tailed-drongo-cuckoo",
+      "used": "몸길이·해설·어린새"
+    },
+    {
+      "title": "Birds of the World – Square-tailed Drongo-Cuckoo(분포)",
+      "url": "https://birdsoftheworld.org/bow/species/asidrc3/cur/introduction",
+      "used": "해설"
+    },
+    {
+      "title": "Wikipedia(영어) – Square-tailed drongo-cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Square-tailed_drongo-cuckoo",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국내 기록의 날짜와 장소를 찾지 못해 관찰 시기와 사는 곳을 비워 두었다(조사 중)",
+    "암수 구별은 확인한 자료 어디에도 따로 적혀 있지 않아 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,7 +5,6 @@
   "author": "Gmelin, 1789",
   "en": "Watercock",
   "ktsn": 120000001639,
-  "origin": "nibr",
   "length": "수컷 40cm, 암컷 33cm",
   "status": "여름철새, 해마다 수십 마리",
   "habitat": "논, 습지",
@@ -14,7 +13,13 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       6,
       7
@@ -53,7 +58,7 @@
     "male": "여름깃은 푸른빛이 도는 검은색이고 날개와 꼬리는 검은 갈색이며, 번식기에는 이마에서 머리꼭대기 위까지 붉은 이마판이 있다. 부리는 노랗다. 겨울깃은 암컷과 비슷하지만 부리가 더 굵고 노랗다.",
     "female": "몸이 황갈색이고 등과 날개에 진한 갈색 반점이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하지만 아랫면의 물결 같은 가로무늬가 흐리거나 거의 없다.",
   "similar": [],
   "art": {
     "subject": "Watercock (Gallicrex cinerea), adult male in breeding plumage, as seen in Korean rice paddies from June to August: head, neck and underparts sooty slate-grey to blackish; mantle, scapulars and wings blackish-brown with broad buff to grey-brown feather fringes, giving a boldly scaled look; undertail coverts barred buff; a bright red frontal shield running up the forehead and projecting as a pointed horn-like knob above the crown; bill bright yellow right up to the shield; reddish eye; legs dull olive-green.",
@@ -96,6 +101,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Gallicrex cinerea",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "Blanford, The Fauna of British India: Birds 4권(1898) – Gallicrex cinerea",
+      "url": "https://archive.org/details/birdsindia04oaterich",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin, The Birds of Korea(Bull. Mus. Comp. Zool. 101, 1948) – Gallicrex cinerea",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 뜸부기",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=535",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

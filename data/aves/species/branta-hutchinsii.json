@@ -5,13 +5,18 @@
   "author": "Richardson, 1832",
   "en": "Cackling Goose",
   "ktsn": 120000528791,
-  "origin": "nibr",
   "length": "약 67cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "습지, 논, 강 등 숲이 없는 평지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": []
   },
   "summary": "북아메리카 대륙과 알래스카, 알류샨 열도에서 번식하고 일본에서 겨울을 나는 기러기다. 북미에서는 습지와 논, 강 등 숲이 없는 평지라면 어디서나 보인다. 풀잎과 줄기로 지은 둥지에 털을 얹고 알 4~7개를 낳으며, 암컷 혼자 품는 동안 수컷이 둥지 둘레를 지킨다. 25~30일 만에 깨어난 새끼는 첫날부터 물에 들어간다.",
@@ -38,8 +43,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "TODO",
   "similar": [],
@@ -90,10 +95,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Cackling Goose(캐나다기러기)",
+      "url": "https://www.audubon.org/field-guide/bird/cackling-goose",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Cackling Goose(캐나다기러기)",
+      "url": "https://www.birdweb.org/birdweb/bird/cackling_goose",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Ducks Unlimited Waterfowl ID – Cackling Goose(캐나다기러기)",
+      "url": "https://www.ducks.org/hunting/waterfowl-id/cackling-goose",
+      "used": "암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 연천 임진강 생물권보전지역, 2022년 2월 8–12일",
+      "url": "https://www.birdskoreablog.org/?p=25555",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문 일부(북미 골프장·도심 공원의 텃새화 개체, 흰 목덜미·목둘레 묘사)는 캐나다기러기(Branta canadensis) 무리 일반 설명으로 보여 B. hutchinsii에 맞는지 확인 필요; 국내 상태는 원문에 없음"
+    "원문 일부(북미 골프장·도심 공원의 텃새화 개체, 흰 목덜미·목둘레 묘사)는 캐나다기러기(Branta canadensis) 무리 일반 설명으로 보여 B. hutchinsii에 맞는지 확인 필요; 국내 상태는 원문에 없음",
+    "어린새 설명을 다룬 자료를 찾지 못해 비워 두었다"
   ],
   "occurrence": {
     "code": "WV1",
