@@ -5,14 +5,29 @@
   "author": "Linnaeus, 1758",
   "en": "Barn Swallow",
   "ktsn": 120000001988,
-  "origin": "nibr",
   "length": "약 18cm",
   "status": "나그네새 10만 마리 이상 · 여름철새 수만 마리 · 겨울에도 드물게 기록",
   "habitat": "농경지, 하천, 인가 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "3월 하순에 와서 대개 10월까지 머물고, 11월에도 늦게 남은 개체가 보이며 남부에서는 드물게 겨울을 나는 개체도 기록된다."
   },
   "summary": "전국의 농경지와 하천에서 흔히 볼 수 있는 여름철새이다. 트인 곳을 빠르게 날며 곤충을 잡고, 쉴 때는 주로 전깃줄에 앉는다. 시골이나 도시 가까운 집과 건물의 안팎, 다리 따위에 흙과 지푸라기를 섞어 둥지를 짓고 묵은 둥지를 다시 쓰기도 하며, 흰 바탕에 적갈색과 엷은 자색 잔점이 흩어진 알을 5~6개 낳는다. 새끼는 부화하고 20~24일쯤 지나 둥지를 떠나며, 국외에서는 유럽, 아시아, 북미 전역에 분포한다.",
   "points": [
@@ -42,7 +57,7 @@
     "male": "바깥꼬리깃이 암컷보다 길다.",
     "female": "바깥꼬리깃이 수컷보다 짧다."
   },
-  "young": "TODO",
+  "young": "어린새는 바깥꼬리깃이 짧아 꼬리 끝이 덜 길고, 이마와 멱이 어른새의 적갈색보다 옅은 황갈색이며 윗면의 광택이 적다. 옅은 색 입가가 두드러지는데 자라면서 어두워진다.",
   "similar": [],
   "art": {
     "subject": "Barn Swallow (Hirundo rustica), adult male in summer: forehead and throat deep chestnut-red; crown, nape, back, rump and wing coverts glossy dark steel-blue; a narrow blue-black band across the upper breast below the red throat; rest of the underparts white with a faint pale buff to pale orange wash; underwing coverts whitish; flight feathers blackish; tail glossy blue-black and deeply forked, with long thin outer streamers and a row of white spots across the inner webs; tiny black bill with a wide gape; dark eye; short black legs.",
@@ -83,6 +98,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Barn Swallow",
+      "url": "https://avifauna.hkbws.org.hk/species/0300/036500",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Barn Swallow",
+      "url": "https://www.oiseaux.net/birds/barn.swallow.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds(HBW 바탕) – Barn Swallow",
+      "url": "https://www.oiseaux-birds.com/card-barn-swallow.html",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 제비",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=9515886&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "김상진·오홍식(2017) 한국에서 제비의 영소습성과 번식생태, 한국환경생태학회지 31(1)",
+      "url": "https://koreascience.kr/article/JAKO201720636500968.page",
+      "used": "관찰 시기·번식기"
+    },
+    {
+      "title": "Kotobank(세계대백과사전·일본대백과전서) – ツバメ(제비)",
+      "url": "https://kotobank.jp/word/%E3%83%84%E3%83%90%E3%83%A1",
+      "used": "번식기"
     }
   ],
   "todo": [],

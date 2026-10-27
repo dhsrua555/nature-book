@@ -5,16 +5,21 @@
   "author": "Gould, 1855",
   "en": "Silver-throated Bushtit",
   "ktsn": 120000529784,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 북단 섬의 숲과 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      5,
+      6,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2022년 3월 소청도에서 처음 기록된 길잃은새로, 같은 해 5월과 11월에는 가까운 백령도의 오목눈이 무리 속에서 관찰되었는데 11월 개체 가운데 1마리는 뒤에 잡종으로 다시 판정되었다. 백령도의 개체는 중국 북부에 사는 아종으로 여겨지며, 2024년 10월에는 오목눈이와의 잡종으로 보이는 개체 여럿이 이 섬에 나타났다. 중국에만 사는 새로, 황허 유역의 화북에서 양쯔강 중·하류까지 분포한다. 오목눈이처럼 작은 무리를 지어 다니며, 번식하는 짝을 다른 개체가 도와 새끼를 함께 기르기도 한다.",
   "points": [
     {
       "ko": "흰 정수리 중앙선 양옆의 굵은 검은 줄",
@@ -96,10 +101,27 @@
       "title": "Wikipedia (독일어) – Silberkehl-Schwanzmeise (Birds of the World 인용)",
       "url": "https://de.wikipedia.org/wiki/Silberkehl-Schwanzmeise",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터 블로그(Nial Moores) – Baekryeong Island, May 19-31 (2022)",
+      "url": "https://www.birdskoreablog.org/?p=26030",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판(IOC 인용 부분) – Silver-throated bushtit(검은턱오목눈이)",
+      "url": "https://en.wikipedia.org/wiki/Silver-throated_bushtit",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은턱오목눈이",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5844992&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "length: Oiseaux.net(13–16cm) 한 곳에서만 확인",
+    "young: 새와 생명의 터 글(온라인 사진 바탕: 어린새는 윗면이 넓게 회색이고 가슴이 짙은 분홍빛) 한 곳뿐이라 비워 둠",
+    "sexes: 암수 차이를 다룬 자료를 찾지 못함",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

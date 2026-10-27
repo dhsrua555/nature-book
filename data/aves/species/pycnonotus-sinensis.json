@@ -5,8 +5,7 @@
   "author": "Gmelin, 1789",
   "en": "Light-vented Bulbul",
   "ktsn": 120000002016,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "18–20cm",
   "status": "텃새 수천 마리 · 여름철새 수백 마리",
   "habitat": "평지의 산림, 과수원, 농경지 주변",
   "protect": [],
@@ -25,8 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO",
-    "note": "국내에서는 2002년 10월 어청도에서 처음 확인되었다."
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "국내에서는 2002년 10월 어청도에서 처음 확인되었고, 2004년 소청도에서 처음 번식이 확인되었다."
   },
   "summary": "평지 숲과 과수원, 농경지 언저리에 사는 직박구리로, 나무 위에서 열매와 곤충, 거미류를 잡아먹는다. 경계심이 비교적 적은 편이며 나뭇가지에 앉아 ‘깩- 깩’ 하고 울고, 날 때는 물결치듯 오르내린다. 국외에서는 대만, 중국 남부, 하이난섬, 베트남 북부에 분포한다. 우리나라에서는 2002년 10월 전라북도 어청도에서 처음 확인된 뒤 전라남도 하태도와 홍도 등지에서도 관찰되며 기록이 늘고 있다.",
   "points": [
@@ -59,7 +63,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리에 검은색과 흰색 무늬가 없이 머리와 가슴이 옅은 회갈색이고, 날개와 꼬리에 녹색 기가 조금 돌며 배는 탁한 흰색이다. 갓 둥지를 떠난 새는 부리 기부가 옅다.",
   "similar": [],
   "art": {
     "subject": "Light-vented Bulbul (Pycnonotus sinensis), adult (sexes alike): forehead and forecrown black; a broad white patch covers the rear crown and nape; black and blackish-brown marks on the hindneck; face blackish, with a small white spot in the blackish-brown ear-coverts; throat white; upperparts dark greenish-grey; flight feathers and tail feathers edged greenish-yellow; a grey-brown band across the upper breast; belly dull white; undertail coverts white; short black bill; dark eye; black legs.",
@@ -100,9 +104,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Chinese Bulbul",
+      "url": "https://avifauna.hkbws.org.hk/species/0290/035900",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Kotobank(세계대백과사전·일본대백과전서·브리태니커·도감 NEO) – シロガシラ(검은이마직박구리)",
+      "url": "https://kotobank.jp/word/%E3%82%B7%E3%83%AD%E3%82%AC%E3%82%B7%E3%83%A9",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Light-vented Bulbul",
+      "url": "https://www.oiseaux.net/birds/light-vented.bulbul.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 중국어판 – 白頭鵯(검은이마직박구리)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A0%AD%E9%B5%AF",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2004 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2007 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2009 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "young: 홍콩조류학회 설명에 중국어 위키백과(출처 표시 없음)의 어린새 설명을 견주어 씀 — 도감 확인 권장"
+  ],
   "occurrence": {
     "code": "R3, S4",
     "bs": "1",

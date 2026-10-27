@@ -5,15 +5,25 @@
   "author": "Bonaparte, 1850",
   "en": "Asian House Martin",
   "ktsn": 120000001993,
-  "origin": "nibr",
   "length": "약 14.5cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만) · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "인가 처마 밑, 절 천장, 산지와 폭포의 암벽(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "알은 4월 하순~8월 상순에 낳는다."
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "봄(4~5월)과 가을(9~10월)에 주로 지나가고 여름과 겨울에도 드물게 기록되며, 알은 4월 하순~8월 상순에 낳는다."
   },
   "summary": "우리나라에는 매우 드문 여름철새로 찾아오며, 함경남도 장진호반과 부전군 일대, 제주도 등을 거쳐 간다. 무리 짓는 성질이 강해 먹이터나 번식지에서 떼를 이루는 일이 많고, 파리목, 딱정벌레목, 매미목, 벌목 따위의 날아다니는 곤충을 주로 먹는다. 인가 처마 밑이나 절 천장, 산지와 폭포의 암벽에 진흙과 마른 풀로 밥그릇 모양 둥지를 짓고, 4월 하순부터 8월 상순 사이에 한배에 2~8개의 알을 낳는다. 오호츠크해 연안, 시베리아 남동부, 아무르, 사할린 등지에서 번식하고 중국 남부와 타이, 동남아시아에서 겨울을 난다.",
   "points": [
@@ -43,7 +53,7 @@
     "male": "등 쪽이 푸른 광택이 나는 검은색이다.",
     "female": "수컷과 가려내기 어려우나 대체로 등 쪽 광택이 약하고 아랫면의 흰색이 덜 깨끗한 개체가 많다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 광택이 적고 윗면이 어두운 갈색이며, 허리의 흰색에 옅은 갈색이나 포도색 기가 돌기도 한다. 아랫면은 회백색이고 꼬리의 오목한 정도가 얕다.",
   "similar": [],
   "art": {
     "subject": "Asian House Martin (Delichon dasypus), adult (sexes similar), as seen in Korea in summer: crown, nape, mantle and scapulars glossy blue-black; lores, cheeks and ear coverts blackish-brown, the dark extending to below the eye; chin mixed dusky and dull white; rump white but a relatively small patch; wings blackish; underparts dingy greyish-white; tail black with a bluish tinge, short and shallowly notched. Bill tiny and black; dark eye; legs and toes covered in white feathers.",
@@ -84,11 +94,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "위키백과 영어판(Turner & Rose 인용 부분) – Asian house martin(흰털발제비)",
+      "url": "https://en.wikipedia.org/wiki/Asian_house_martin",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net(프랑스어) – Hirondelle de Bonaparte(흰털발제비)",
+      "url": "https://www.oiseaux.net/oiseaux/hirondelle.de.bonaparte.html",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2004 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2009 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰털발제비",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2489220&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "위키백과 일본어판 – イワツバメ(흰털발제비)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%84%E3%83%90%E3%83%A1",
+      "used": "번식기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Asian House Martin",
+      "url": "https://avifauna.hkbws.org.hk/species/0300/036700",
+      "used": "번식기"
     }
   ],
   "todo": [
     "원문이 '매우 드문 여름새'라 하면서 한국은 거쳐 가는 곳으로만 적어 국내 상태가 서로 맞지 않으므로 status 를 TODO 로 둠",
-    "원문이 여름새라 하면서 한국은 거쳐 가는 곳으로만 적어 국내 번식 여부가 모순되므로 months.breed 를 TODO 로 둠"
+    "months.breed: 국내 번식 시기 자료가 없어 원문(4월 하순~8월 상순 산란)과 일본 자료(4~8월 산란)로 채움 — 국내 번식지·시기 확인 필요"
   ],
   "occurrence": {
     "code": "P5, SV2, WV2",

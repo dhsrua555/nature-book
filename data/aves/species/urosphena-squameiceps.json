@@ -5,19 +5,26 @@
   "author": "Swinhoe, 1863",
   "en": "Asian Stubtail",
   "ktsn": 120000002023,
-  "origin": "nibr",
   "length": "약 9cm",
   "status": "나그네새 수만 마리 · 여름철새 수천 마리",
   "habitat": "관목림, 낙엽활엽수림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       5,
       6,
       7
     ],
-    "note": "알은 5~7월에 낳는다."
+    "note": "대개 4월 중순부터 10월 초까지 머물며, 알은 5~7월에 낳는다."
   },
   "summary": "관목림과 낙엽활엽수림에 살며, 여름에 우리나라 전역에서 흔히 번식하는 여름철새이다. 홀로 또는 암수가 함께 지낸다. 땅 위에 둥지를 틀고 5~7월에 한배에 5~7개의 알을 낳는다. 딱정벌레목, 매미목, 메뚜기목, 파리목, 벌목 따위의 곤충을 주로 먹고 다족류도 먹으며, 중국 남부, 타이완, 하이난섬, 인도네시아, 미얀마 등지에서 겨울을 난다.",
   "points": [
@@ -47,8 +54,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -91,9 +98,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2010 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 숲새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493223&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Bird Research(일본) 생태도감 – Asian Stubtail(숲새)",
+      "url": "https://www.bird-research.jp/1_shiryo/seitai/yabusame.pdf",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Kotobank(세계대백과사전·일본대백과전서·브리태니커) – ヤブサメ(숲새)",
+      "url": "https://kotobank.jp/word/%E3%83%A4%E3%83%96%E3%82%B5%E3%83%A1",
+      "used": "암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "young: Bird Research 종 설명(어린새는 둥지를 떠난 뒤 곧 어른 깃으로 털갈이해 깃 색으로 가려내기 어렵다, Kawaji & Hirokawa 1998) 한 곳뿐이라 비워 둠"
+  ],
   "occurrence": {
     "code": "P2, S3",
     "bs": "1",

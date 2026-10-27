@@ -5,16 +5,20 @@
   "author": "J.F.Gmelin, 1789",
   "en": "Black Bulbul",
   "ktsn": 120000533847,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "23–27cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 숲, 나무가 많은 마을 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2019년 5월 백령도에서 처음 기록된 길잃은새로, 강한 남풍에 밀려 중국 남부에서 황해를 건너온 것으로 여겨진다. 이때 직박구리, 검은이마직박구리와 섞여 먹이를 찾았고, 그 뒤 흑산도와 포항에서도 관찰 기록이 있다. 아프가니스탄 동부와 히말라야에서 중국과 동남아시아까지 분포하며, 중국 북부와 동부의 번식 집단은 여름에만 번식지에 머문다. 무리를 지어 숲의 중간층과 위층에서 지내고, 트인 곳의 죽은 나무나 대나무 꼭대기에 즐겨 앉는다.",
   "points": [
     {
       "ko": "순백색 머리와 윗가슴",
@@ -90,10 +94,37 @@
       "title": "Wikipedia — Black bulbul (Ali & Ripley 1996 인용)",
       "url": "https://en.wikipedia.org/wiki/Black_bulbul",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Black Bulbul",
+      "url": "https://www.oiseaux.net/birds/black.bulbul.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 중국어판(HBW·중국조류지 인용 부분) – 紅嘴黑鵯(흰머리검은직박구리)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%98%B4%E9%BB%91%E9%B5%AF",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터 블로그(Nial Moores) – Late Spring Highlights, Baekryeong Island, May 23rd-30th 2019",
+      "url": "https://www.birdskoreablog.org/?p=22048",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰머리검은직박구리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5230300&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 블로그 – The Baekryeong Wetlands Project: A Short Update (2019)",
+      "url": "https://www.birdskoreablog.org/?p=22658",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "young: 홍콩조류학회 설명(어린새와 첫겨울 새는 온몸이 갈색 기 도는 검은색, 어린새는 부리가 검다) 한 곳뿐이라 비워 둠 — 영어 위키백과의 어린새 설명은 머리가 검은 남아시아 아종 기준이라 맞지 않음",
+    "sexes: 영어·중국어 위키백과에만 '암수 깃 색이 같다'는 설명이 있어 원 자료 확인 필요",
+    "months.seen 의 4월(흑산도)·12월(포항)은 eBird 관찰 기록(2024)에만 근거함 — 기록 검토 여부 확인 필요",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

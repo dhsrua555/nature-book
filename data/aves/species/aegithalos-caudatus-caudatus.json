@@ -5,10 +5,9 @@
   "author": "Linnaeus, 1758",
   "en": "Long-tailed Tit (caudatus)",
   "ktsn": 120000528321,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 14cm",
   "status": "겨울철새 수백 마리 · 텃새 수십 마리",
-  "habitat": "TODO",
+  "habitat": "경기·강원 북부의 숲과 숲 가장자리, 도시 공원의 숲, 서해 북단 섬의 숲",
   "protect": [],
   "months": {
     "seen": [
@@ -25,9 +24,14 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "겨울철새 무리는 대개 10월 중순~3월 하순에 보이고, 백령도에서는 한 해 내내 살며 번식한다."
   },
-  "summary": "TODO",
+  "summary": "주로 10월 중순부터 3월 하순 사이 경기도와 강원도의 숲에 찾아오는 겨울철새로, 해마다 수가 크게 달라 거의 보이지 않는 해도 있고 수백 마리가 몰려오는 해도 있다. 서해 북단 백령도에서는 텃새로 번식하며, 2014년 6월 이곳에서 확인된 어린새 무리가 새와 생명의 터가 아는 국내 첫 번식 기록이다. 머리에 검은 줄이 있는 오목눈이와 섞여 무리를 짓고, 둘 사이에서 태어난 중간형도 보인다. 북유럽에서 시베리아를 거쳐 한반도 북부까지 분포한다.",
   "points": [
     {
       "ko": "줄무늬 없이 온통 흰 머리",
@@ -55,11 +59,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 머리 옆이 거무스름하지만 눈앞은 희고 어두운 부분이 눈까지만 이르며, 정수리 가운데의 흰 띠가 넓다. 어른새보다 색이 칙칙하고 분홍빛은 어깨깃에만 있다.",
+  "similar": [
+    {
+      "ko": "오목눈이",
+      "how": "오목눈이는 눈 위에서 뒷목까지 굵은 검은 줄이 있어 머리에 줄무늬가 뚜렷하다. 흰머리오목눈이는 머리 전체가 희다."
+    }
+  ],
   "art": {
     "subject": "Long-tailed Tit (Aegithalos caudatus caudatus), adult of the white-headed northern subspecies, as seen in Korea in winter: entire head, face, chin and throat pure white with no dark stripes; a black stripe down the centre of the back; scapulars dusky pink; wings blackish with broad white edges to the tertials and secondaries forming a white panel; underparts white, with a pinkish wash confined to the flanks; very long black tail with white outer feathers; tiny stubby black bill; dark eye; blackish legs.",
     "pose": "hanging from a thin willow twig in a small flock, side view, long tail hanging down",
@@ -118,10 +127,54 @@
       "title": "Long-tailed Tit identification – All About Birds (Cornell Lab)",
       "url": "https://www.allaboutbirds.org/guide/Long-tailed_Tit/id",
       "used": "그림용 형태 정보(북쪽 개체군은 흰 머리·더 흰 아랫면, 검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "Kotobank(세계대백과사전·일본대백과전서·브리태니커·쇼가쿠칸 도감 NEO) – エナガ(오목눈이)",
+      "url": "https://kotobank.jp/word/%E3%82%A8%E3%83%8A%E3%82%AC",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Long-tailed Tit",
+      "url": "https://www.oiseaux.net/birds/long-tailed.tit.html",
+      "used": "몸길이·어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2010 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2007 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터 블로그(Nial Moores, 2024) – Identification of Silver-throated Bushtit and hybrids with Long-tailed Tit",
+      "url": "https://www.birdskoreablog.org/?p=29660",
+      "used": "사는 곳·해설·어린새·번식기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2014년 6월 새 소식",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-06.shtml",
+      "used": "해설·어린새·번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) – 2002년 10월 새 소식",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2002-10.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터 블로그(Nial Moores) – Baekryeong Island, May 19-31 (2022)",
+      "url": "https://www.birdskoreablog.org/?p=26030",
+      "used": "번식기"
+    },
+    {
+      "title": "Oiseaux.net(프랑스어) – Orite à longue queue(오목눈이)",
+      "url": "https://www.oiseaux.net/oiseaux/orite.a.longue.queue.html",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Long-tailed Tit",
   "ktsn": 120000001998,
-  "origin": "nibr",
   "length": "약 14cm",
   "status": "텃새, 해마다 10만 마리 이상",
   "habitat": "산림, 낙엽활엽수림, 솔숲, 잡목림, 관목림",
@@ -59,7 +58,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 색이 칙칙하고 갈색을 띠어 대비가 약하며, 얼굴이 거무스름해 보이고 꼬리가 짧다. 분홍빛은 어깨깃에만 조금 있고 등과 배에는 없다.",
   "similar": [],
   "art": {
     "subject": "Long-tailed Tit (Aegithalos caudatus), adult (sexes alike, Korean form with a striped head): forehead, centre of the crown, cheeks, chin and throat white; a broad black band from above the eye running back along the side of the crown to the nape and mantle; mantle and back black; scapulars pinkish; wings blackish-brown with whitish edges to the tertials; underparts whitish with a pink wash on the flanks and vent; very long, narrow black tail with white outer edges; tiny stubby black bill; dark brown eye with a thin yellow-orange eye-ring; dark brown legs with pale brown feathering on the thighs.",
@@ -100,6 +99,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Long-tailed Tit",
+      "url": "https://www.oiseaux.net/birds/long-tailed.tit.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds(HBW 바탕) – Long-tailed Tit",
+      "url": "https://www.oiseaux-birds.com/card-long-tailed-tit.html",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판(叶内·安部 2015, 大西·五百澤 2014 인용 부분) – エナガ(오목눈이)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8A%E3%82%AC",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터 블로그(Nial Moores, 2024) – Identification of Silver-throated Bushtit and hybrids with Long-tailed Tit",
+      "url": "https://www.birdskoreablog.org/?p=29660",
+      "used": "어린새"
     }
   ],
   "todo": [],
