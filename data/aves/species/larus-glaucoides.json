@@ -5,14 +5,19 @@
   "author": "B.Meyer, 1822",
   "en": "Iceland Gull",
   "ktsn": 120000001761,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "52–60cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 항구, 해안 바위",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
   "summary": "흰갈매기보다 몸이 뚜렷하게 작은 갈매기이다. 다리도 흰갈매기보다 짧아서 앉아 있을 때 키 차이가 잘 드러난다. 유럽 북서부와 북아메리카 북동부에 분포한다.",
   "points": [
@@ -42,10 +47,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 온몸이 연한 크림색이나 옅은 회갈색이고 등과 날개덮깃에 잔 갈색 무늬가 고르게 있으며, 첫째날개깃도 몸만큼 옅다. 부리는 처음에 거의 검다가 차츰 기부부터 옅어지며, 북아메리카 서부형(thayeri)은 전체가 이보다 짙다.",
   "similar": [
     {
       "ko": "흰갈매기",
@@ -91,6 +96,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "RSPB – Iceland Gull",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/iceland-gull",
+      "used": "몸길이"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus leucopterus",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "몸길이, 어린새, 암수 구별"
+    },
+    {
+      "title": "Wikipedia(일본어) – アイスランドカモメ(真木·大西 2000 日本の野鳥590 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A2%E3%83%A1",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Southern Provinces, East Coast, Chungju and Seosan, January 13–17(아야진항)",
+      "url": "https://www.birdskoreablog.org/?p=11637",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Seabird Survey, Goseong Coast, February 9–11, 2021(대진항)",
+      "url": "https://www.birdskoreablog.org/?p=24156",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Various Sites, January 4th–14th(강원 해안 바위)",
+      "url": "https://www.birdskoreablog.org/?p=31335",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 작은흰갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481156&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권 14–18부(1920–24) – Iceland Gull",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Iceland Gull",
+      "url": "https://www.audubon.org/field-guide/bird/iceland-gull",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Ridgway, The Birds of North and Middle America 8부(1919) – Larus leucopterus",
+      "url": "https://archive.org/details/cu31924022528107",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

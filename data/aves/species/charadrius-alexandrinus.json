@@ -5,14 +5,32 @@
   "author": "Linnaeus, 1758",
   "en": "Kentish Plover",
   "ktsn": 120000155049,
-  "origin": "nibr",
   "length": "17.5cm",
   "status": "나그네새 수만 마리 · 여름철새 수백 마리 · 겨울철새 수백 마리",
   "habitat": "해안 모래밭, 염전, 갯벌, 휴경지, 모래가 발달한 강 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "제주도에서는 3월부터 번식을 시작하기도 한다."
   },
   "summary": "흔한 나그네새로, 일부 무리는 해안 모래밭, 휴경지, 염전 주변, 모래가 많은 강 하구 등에서 지역적으로 번식하고 일부는 겨울도 난다. 해안 모래밭이나 염전, 갯벌 등에 살며, 빠르게 뛰다가 멈춰 갯지렁이나 작은 갑각류를 잡고 다시 달려가는 행동을 되풀이한다. 모래땅을 오목하게 판 둥지에 옅은 갈색 바탕에 검은 무늬가 있는 알 3개를 낳고, 암수가 번갈아 24~26일 동안 품는다. 북반구 온대에서 번식하고 겨울에는 남쪽으로 옮겨 간다.",
   "points": [
@@ -38,11 +56,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "여름깃은 이마 위의 띠와 눈선, 가슴 옆 무늬가 검고 머리 위가 적갈색이다.",
+    "female": "수컷의 검은 무늬 자리가 갈색이고, 머리 위에 적갈색 기운이 거의 없어 머리 무늬가 칙칙하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "몸 윗면의 깃 가장자리가 옅은 담황색이어서 비늘무늬처럼 보이고, 머리와 가슴 옆에 검은 무늬가 없다.",
+  "similar": [
+    {
+      "ko": "왕눈물떼새",
+      "how": "흰물떼새는 뒷목에 흰 띠가 있어 가려진다."
+    }
+  ],
   "art": {
     "subject": "Kentish Plover (Charadrius alexandrinus), adult male in breeding plumage, as seen on Korean beaches and salt pans from April to July: forehead and short supercilium white; a black bar across the forecrown above the white forehead; crown and nape rufous-cinnamon, variable in brightness; narrow black eye-stripe from the bill through the eye to the ear-coverts; a white collar across the hindneck; upperparts plain sandy grey-brown; underparts white; a black patch on each side of the upper breast, not meeting in the centre. Short, slender black bill; dark eye; dark grey to blackish legs with a pinkish tinge.",
     "pose": "running across wet sand, pausing to pick at a small crustacean",
@@ -82,9 +106,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Kentish Plover",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/010800",
+      "used": "어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "일본어 위키백과(日本の鳥550 水辺の鳥 등 인용) – シロチドリ",
+      "url": "https://ja.wikipedia.org/wiki/シロチドリ",
+      "used": "어린새·번식기"
+    },
+    {
+      "title": "서울신문 2026-04-24(김완병 제주학연구센터장) – 흰물떼새",
+      "url": "https://m.seoul.co.kr/news/2026/04/24/20260424500095",
+      "used": "번식기·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Two Tibetan Sand Plover 검은이마왕눈물떼새, Baengnyeong Island(2026)",
+      "url": "https://www.birdskoreablog.org/?p=31682",
+      "used": "번식기"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Charadrius alexandrinus",
+      "url": "https://animaldiversity.org/accounts/Charadrius_alexandrinus/",
+      "used": "암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식기(4~7월)는 언론 보도(제주)와 일본 자료, 5월 초 새끼 관찰 기록에 기대었으므로 국내 번식 조사 자료로 확인하면 좋다"
+  ],
   "occurrence": {
     "code": "P2, S4, W4",
     "bs": "1",

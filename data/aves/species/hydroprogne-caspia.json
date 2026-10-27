@@ -5,14 +5,24 @@
   "author": "Pallas, 1770",
   "en": "Caspian Tern",
   "ktsn": 120000528815,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "47–54cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가, 하구와 갯벌, 해안 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이며, 봄(3–5월) 기록이 가장 많고 제주에서는 겨울에 머무는 개체도 있다."
   },
   "summary": "북미, 북유럽, 중부 유럽, 서부 시베리아, 오스트레일리아, 뉴질랜드, 남부 아프리카에서 번식하고 미국 남부, 아프리카 북서부, 남아프리카, 일본 등지에서 겨울을 나는 제비갈매기다. 같은 무리의 다른 제비갈매기들보다 덩치가 크다.",
   "points": [
@@ -30,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 겨울깃 어른새처럼 이마와 정수리가 흰 바탕에 검은 얼룩으로 덮이고, 등·어깨깃·셋째날개깃에 갈색 무늬가 섞여 얼룩덜룩하며, 첫째날개깃과 꽁지가 어른새보다 어둡다.",
   "similar": [],
   "art": {
     "subject": "Caspian Tern (Hydroprogne caspia), adult in breeding plumage, as seen on Korean coasts on spring passage (April–May): flat black cap from the bill base to the nape, slightly shaggy at the rear but without a crest; face, neck and underparts white; mantle and upperwings pale grey; underside of the outer primaries blackish, forming a dark wedge under the wingtip; rump and tail pale grey-white; bill massive, bright red with a small dark mark near the tip; dark eye; legs short and black.",
@@ -73,6 +83,61 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Caspian Tern",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/017900",
+      "used": "몸길이"
+    },
+    {
+      "title": "Animal Diversity Web – Sterna caspia",
+      "url": "https://animaldiversity.org/accounts/Sterna_caspia/",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은부리큰제비갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481236&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – Hydroprogne caspia",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Hydroprogne%20caspia",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 조류 소식 정리 – Caspian Tern(낙동강 하구)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 조류 소식 정리 – Caspian Tern",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2004년 10월 – Caspian Tern(제주 종달리)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-10.shtml",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 6 (1929) – Hydroprogne caspia",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Caspian Tern",
+      "url": "https://www.birdweb.org/Birdweb/bird/caspian_tern",
+      "used": "어린새"
+    },
+    {
+      "title": "Singapore Birds Project – Caspian Tern",
+      "url": "https://singaporebirds.com/species/caspian-tern/",
+      "used": "어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Caspian Tern",
+      "url": "https://www.audubon.org/field-guide/bird/caspian-tern",
+      "used": "어린새, 암수 구별"
     }
   ],
   "todo": [],

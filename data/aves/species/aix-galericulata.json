@@ -103,7 +103,7 @@
     "male": "번식깃 수컷은 붉은 부리(끝은 흰색), 눈 위의 넓은 흰 반달무늬, 주황빛 뺨과 목의 장식깃, 흰 세로줄 두 개가 든 보랏빛 가슴, 등 위로 세운 주황색 돛 모양 깃을 갖춰 다른 오리와 혼동되지 않는다. 번식이 끝나면 암컷과 비슷한 에클립스깃으로 바뀌지만 부리는 붉은색으로 남는다.",
     "female": "전체적으로 어두운 회갈색이고 몸 아랫면에 흰 얼룩점이 흩어져 있다. 머리는 회색으로, 눈 둘레의 흰 테가 눈 뒤로 가늘게 이어진다. 부리는 검고 끝이 연한 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 암수 모두 암컷과 비슷한 회갈색 깃이어서, 첫 깃의 어린 수컷은 암컷과 거의 구별되지 않는다.",
   "similar": [
     {
       "ko": "청둥오리",
@@ -170,11 +170,19 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Mandarin Duck",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 3권(1925) – Mandarin Duck",
+      "url": "https://archive.org/details/naturalhistoryof31925phil",
+      "used": "어린새"
     }
   ],
-  "todo": [
-    "young: 어린새(유조) 깃 특징을 인용이 달린 출처에서 확인하지 못함(영문 위키백과의 새끼 설명은 '출처 필요' 표시)"
-  ],
+  "todo": [],
   "occurrence": {
     "code": "R3, P3, W3",
     "bs": "1",

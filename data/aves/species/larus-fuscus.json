@@ -5,16 +5,25 @@
   "author": "Linnaeus, 1758",
   "en": "Lesser Black-backed Gull",
   "ktsn": 120000072268,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "51–61cm",
   "status": "나그네새 수천 마리 · 겨울철새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
-  "habitat": "TODO",
+  "habitat": "바닷가 항구, 앞바다, 하구, 갯벌, 바닷가 모래밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "5월에도 남은 개체가 드물게 보인다."
   },
-  "summary": "TODO",
+  "summary": "봄가을 이동기에 수천 마리가 지나가고 수백 마리가 겨울을 나는 갈매기로, 섬의 항구와 고깃배 주변, 하구와 바닷가 모래밭에서 재갈매기 무리에 섞여 지내며 민물에는 잘 들어오지 않는다. 국내에 오는 무리는 대부분 시베리아 북부 타이미르반도 일대에서 번식하는 무리(taimyrensis)이고, 유럽 북부에서 번식하는 등이 아주 검은 무리는 드물게 기록된다. 9월 중순부터 오기 시작해 10월 중순에 가장 많고, 한겨울에는 줄었다가 2–3월에 다시 늘어난다.",
   "points": [
     {
       "ko": "겨울에 가는 줄무늬가 남는 흰 머리",
@@ -42,10 +51,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 등과 날개덮깃이 짙은 갈색에 연한 깃 테가 있어 비늘처럼 보이고, 셋째날개깃은 무늬 없이 짙은 갈색이며 큰날개덮깃에 짙은 띠가 있다. 꼬리는 기부가 희고 끝에 넓은 검은 띠가 있으며, 부리는 검고 겨울이 지나며 기부가 차츰 옅어진다.",
   "similar": [],
   "art": {
     "subject": "Lesser Black-backed Gull of the Taimyr form (Larus fuscus taimyrensis), the form behind most Korean records, adult in winter as seen on Korean coasts from November to March: white head with fine grey-brown streaks on the crown, around the eye and densest on the hindneck, kept into early spring; mantle and folded wings medium-dark grey, clearly darker than a Vega or Mongolian Gull's but paler than the slate-grey of Heuglin's Gull; white tertial crescent and white tips to the secondaries; black wingtip with small white mirrors and small white primary tips; underparts, rump and tail white. Bill yellow, deep at the gonys, with a red gonys spot that can spread onto the upper mandible; pale iris; red orbital ring; legs yellow.",
@@ -102,11 +111,45 @@
       "title": "iNaturalist 연구 등급 사진 – Larus fuscus taimyrensis (한국)",
       "url": "https://www.inaturalist.org/observations/267889506",
       "used": "그림용 형태 정보 사진 확인"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Lesser Black-backed Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/017700",
+      "used": "몸길이, 사는 곳, 어린새"
+    },
+    {
+      "title": "Oiseaux.net – Goéland brun(Lesser Black-backed Gull)",
+      "url": "https://www.oiseaux.net/oiseaux/goeland.brun.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Moores(2003) – The 'Herring Gull' Assemblage in South Korea 1쪽: Taimyr Gull",
+      "url": "https://web.archive.org/web/20060829033228/http://www.birdskorea.org/lwhgid.asp",
+      "used": "사는 곳, 해설, 어린새, 관찰 시기"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus fuscus",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 작은노랑발갈매기(L. fuscus)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481174&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권 14–18부(1920–24) – Lesser Black-backed Gull",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Lesser Black-backed Gull",
+      "url": "https://www.audubon.org/field-guide/bird/lesser-black-backed-gull",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "이 책의 줄무늬노랑발갈매기(L. heuglini)와 국내 상태(bk P3, W4, SV2)가 같다. 새와 생명의 터 목록은 한 종(Lesser Black-backed Gull)의 아종 무리(fuscus V2, heuglini V2, taimyrensis P3·W4·SV2, barabensis WV1)로 다루므로 두 항목이 가리키는 범위를 정리할 필요가 있다."
   ],
   "occurrence": {
     "code": "P3, W4, SV2",

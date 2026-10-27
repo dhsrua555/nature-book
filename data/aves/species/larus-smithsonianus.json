@@ -5,16 +5,20 @@
   "author": "Coues, 1862",
   "en": "American Herring Gull",
   "ktsn": 120000001764,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "56–66cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 항구, 해안, 모래밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "겨울에 드물게 찾아오는 갈매기로 해마다 10건이 안 되게 기록되며, 주로 강원 고성의 거진·대진·아야진 일대 항구와 해안에서 큰 갈매기 무리에 섞여 발견된다. 국내 기록은 12월부터 2월 사이에 몰려 있고, 어른새와 1–2년생 어린새가 모두 확인되었다. 북아메리카에 살며 해안과 큰 호수, 큰 강 주변에 많고, 바다와 모래밭, 갯벌뿐 아니라 쓰레기장이나 부두처럼 사람이 먹이를 남기는 곳에서도 먹이를 찾는다.",
   "points": [
     {
       "ko": "옅은 노란 홍채(어른새)",
@@ -42,10 +46,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 온몸이 고르게 짙은 회갈색이고 아랫면도 진하며, 허리와 꼬리덮깃에 짙은 가로무늬가 빽빽하고 꼬리는 거의 전체가 검은 갈색이다. 부리는 처음에 검고 겨울 동안 기부가 분홍빛으로 옅어진다.",
   "similar": [],
   "art": {
     "subject": "American Herring Gull (Larus smithsonianus), first-winter, as seen on Korean coasts in winter: body plumage rather uniformly dark brown and densely mottled; head and neck grey-brown with fine streaks, often a little paler on the face; back and wing coverts brown with fine pale notches; tertials dark brown with narrow pale edges; underparts evenly brown; rump and uppertail coverts heavily barred dark brown so they look dark; tail almost entirely blackish-brown; primaries blackish-brown; bill blackish, sometimes with a paler pinkish base; iris dark; legs dull pink.",
@@ -97,10 +101,49 @@
       "title": "Gull Research Organisation – American Herring Gull (smithsonianus)",
       "url": "https://gull-research.org/smithsonianus/4cymarch.html",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – American Herring Gull",
+      "url": "https://www.audubon.org/field-guide/bird/american-herring-gull",
+      "used": "몸길이, 해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus argentatus(L. smithsonianus 포함)",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Goseong County coast, December 16–20",
+      "url": "https://www.birdskoreablog.org/?p=17368",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – January 21–25, Various Sites (Part 1)",
+      "url": "https://www.birdskoreablog.org/?p=18930",
+      "used": "해설, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Various Sites, January 3–14(거진 2년생)",
+      "url": "https://www.birdskoreablog.org/?p=21514",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Seabird Survey, Goseong Coast, February 9–11, 2021",
+      "url": "https://www.birdskoreablog.org/?p=24156",
+      "used": "사는 곳, 해설, 어린새, 관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 옅은재갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=4848480&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "Ridgway, The Birds of North and Middle America 8부(1919) – Larus argentatus",
+      "url": "https://archive.org/details/cu31924022528107",
+      "used": "어린새, 암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

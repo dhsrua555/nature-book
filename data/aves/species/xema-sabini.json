@@ -5,15 +5,16 @@
   "author": "Sabine, 1819",
   "en": "Sabine's Gull",
   "ktsn": 120000001777,
-  "origin": "nibr",
   "length": "33–36cm",
   "status": "미조",
   "habitat": "번식기에는 습한 툰드라, 비번식기에는 트인 바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      8
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 하순~7월 상순에 알을 낳는다."
+    "note": "국내에서 기록된 달이며, 번식지에서는 5월 하순~7월 상순에 알을 낳는다."
   },
   "summary": "우리나라에서는 미조로 기록된 갈매기이다. 번식기에는 습한 툰드라에서 지내고, 번식기가 지나면 대개 트인 바다에서 생활하며 겨울은 열대 지역에서 보낸다. 주로 곤충을 잡아먹고 연체동물과 물고기도 먹는다. 5월 하순~7월 상순에 한배에 알 2~3개를 낳는다.",
   "points": [
@@ -43,10 +44,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리 뒤쪽과 뒷목, 등이 회갈색이고 등깃 가장자리가 옅어 비늘 모양으로 보이며, 얼굴은 희다.",
   "similar": [],
   "art": {
     "subject": "Sabine's Gull (Xema sabini), adult in breeding plumage: dark slate-grey hood edged below by a narrow black collar, against a white neck and body; mantle and inner wing coverts medium grey; outer primaries and their coverts black with small white tips, forming a black triangle along the outer leading edge of the wing; inner primaries and secondaries white, forming a broad white triangle; tail white and clearly forked. Black bill with a yellow tip; dark eye with a red eye-ring; dark grey legs.",
@@ -81,15 +82,40 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Sabine's Gull",
+      "url": "https://www.audubon.org/field-guide/bird/sabines-gull",
+      "used": "어린새, 번식 기록, 암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Sabine's Gull",
+      "url": "https://www.birdweb.org/Birdweb/bird/sabines_gull",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Sabine's Gull 소개",
+      "url": "https://birdsoftheworld.org/bow/species/sabgul/cur/introduction",
+      "used": "번식 기록, 암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "번식 기록, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2006년 8월 – Sabine's Gull 국내 기록(1970년 8월 30일)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-08.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 2022 목록은 1970년 8월 포항 기록(Gore & Won 1971, 설명 없음)을 근거가 부족하다며 목록에서 뺐다. Park 의 박사논문도 1970년 8월 30일 관찰 기록 한 건만 받아들였다(새와 생명의 터 2006년 8월 소식). 국내 상태 '미조'는 이 한 건에 기댄다"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

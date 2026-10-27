@@ -5,14 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Parasitic Jaeger",
   "ktsn": 120000001798,
-  "origin": "nibr",
   "length": "약 46cm",
   "status": "나그네새, 해마다 수십 마리",
   "habitat": "여름에는 툰드라의 호숫가, 그 밖의 시기에는 바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      8,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "5–7월에도 드물게 기록된다."
   },
   "summary": "국내에서는 포항에서 발견된 적이 있는 도둑갈매기류이다. 여름에는 툰드라 지대의 호수 근처에서 지내고 나머지 시기는 바다에서 보낸다. 바위 사이 땅 위에 풀로 엮은 오목한 둥지를 만들며, 알은 올리브 갈색 바탕에 짙은 갈색 점이 있다. 알류샨 열도, 알래스카 북부, 캐나다, 그린란드 남부 등지에 분포한다.",
   "points": [
@@ -42,11 +46,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 짙은 갈색에서 연한 갈색까지 개체 차가 크며, 윗면 깃 끝에 적갈색이나 담황색 테가 있고 아랫면과 꼬리덮깃에 가로무늬가 있다. 밝은 개체는 머리와 목에 계피색 기가 돌고, 가운데 꼬리깃은 짧고 뾰족하게 조금 튀어나온다.",
+  "similar": [
+    {
+      "ko": "넓적꼬리도둑갈매기",
+      "how": "몸이 더 작고 날씬하며, 어른새의 가운데 꼬리깃이 넓적꼬리처럼 넓고 둥글게 비틀리지 않고 가늘고 뾰족하다."
+    }
+  ],
   "art": {
     "subject": "Parasitic Jaeger (Stercorarius parasiticus), adult pale morph in breeding plumage, as seen at sea off Korea on spring and autumn passage: dark grey-brown cap reaching just below the eye; cheeks and neck sides white washed pale yellow; upperparts and wings uniform dark grey-brown; often a diffuse grey-brown breast band; belly white, vent grey-brown; tail dark with two straight, pointed central feathers projecting beyond it. Bill dark grey-black, rather slender, with a hooked tip; dark eye; legs and feet black.",
     "pose": "flying low over the sea, side view",
@@ -95,6 +104,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Bent (1921) Life Histories of North American Gulls and Terns – 북극도둑갈매기(Parasitic Jaeger)",
+      "url": "https://archive.org/details/lifehistoriesof00bent",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920–24) – 북극도둑갈매기(Parasitic Jaeger)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Parasitic Jaeger",
+      "url": "https://www.birdweb.org/birdweb/bird/parasitic_jaeger",
+      "used": "어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Parasitic Jaeger",
+      "url": "https://www.audubon.org/field-guide/bird/parasitic-jaeger",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 북극도둑갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481621&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Various West Coast Locations, June 9-13(2013) – 북극도둑갈매기(Parasitic Jaeger)",
+      "url": "https://www.birdskoreablog.org/?p=9234",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Animal Diversity Web – Stercorarius parasiticus",
+      "url": "https://animaldiversity.org/accounts/Stercorarius_parasiticus/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Parasitic Jaeger",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019100",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Pomarine Jaeger",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019000",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

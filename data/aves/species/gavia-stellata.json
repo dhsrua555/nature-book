@@ -5,14 +5,22 @@
   "author": "Pontoppidan, 1763",
   "en": "Red-throated Loon",
   "ktsn": 120000001478,
-  "origin": "nibr",
   "length": "61–67cm",
   "status": "나그네새 수천 마리 · 겨울철새 수백 마리",
   "habitat": "연안, 항만",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "11월에 찾아와 4월까지 흔히 보이며, 5월 중순까지 북상하는 개체가 남는다."
   },
   "summary": "흔한 겨울철새로, 국내에서는 주로 제주도와 남해, 동해 연안에서 겨울을 나며 항만이나 연안에서 가끔 눈에 띈다. 잠수해 물고기를 잡아먹는다. 번식지에서는 호숫가 식물 한가운데를 납작하게 다져 알 2개를 낳는데, 알은 반점이 있는 올리브색에서 갈색까지 여러 가지이다. 세계적으로는 유럽, 아시아, 아메리카의 북부와 일본, 사할린, 중국, 타이완 등지에 분포한다.",
   "points": [
@@ -45,7 +53,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃과 비슷하나 머리와 뒷목이 고른 회색이고, 윗면이 더 갈색이며 흰 점이 작고 V자 모양이다. 뺨과 멱, 목 옆에 갈색 얼룩이 있어 어른새보다 얼굴이 덜 희게 보인다.",
   "similar": [],
   "art": {
     "subject": "Red-throated Loon (Gavia stellata), adult in winter (non-breeding) plumage, as seen off Korean coasts from November to March: crown and hindneck pale grey; extensive white face with the eye set in white; chin, throat, foreneck and sides of the neck white; back and wings grey-brown densely sprinkled with small white spots; underparts white. Slender, pale grey bill that looks slightly upturned and is usually held tilted up; dark red eye; legs black.",
@@ -84,6 +92,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Bent (1919) Life Histories of North American Diving Birds – 아비(Red-throated Loon)",
+      "url": "https://archive.org/details/cu31924090252846",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920–24) – 아비(Red-throated Loon)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Red-throated Loon",
+      "url": "https://www.birdweb.org/birdweb/bird/red-throated_loon",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 아비",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481958&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 아비(Red-throated Loon)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Marine Bird Survey, Goseong County, April and May Summary(2016) – 아비(Red-throated Loon)",
+      "url": "https://www.birdskoreablog.org/?p=18112",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

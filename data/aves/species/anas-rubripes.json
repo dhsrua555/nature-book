@@ -5,7 +5,6 @@
   "author": "Brewster, 1902",
   "en": "American Black Duck",
   "ktsn": 120000001439,
-  "origin": "nibr",
   "length": "48–56cm",
   "status": "미조",
   "habitat": "호소, 소택지, 간척지, 하천, 하구, 해안, 연못, 물가 풀밭",
@@ -33,7 +32,7 @@
     "alike": true,
     "text": "암수 모두 온몸이 검은 갈색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 가슴과 배가 비늘무늬보다 세로 줄무늬가 많아 보이고, 몸 색이 덜 검고 갈색을 띤다. 다리 색도 어른새보다 흐리다.",
   "similar": [
     {
       "ko": "청둥오리",
@@ -72,15 +71,31 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – Black Duck",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Anas rubripes",
+      "url": "https://animaldiversity.org/accounts/Anas_rubripes/",
+      "used": "어린새·번식 기록"
+    },
+    {
+      "title": "Wikipedia(영어) – American black duck (Beaman & Madge 2010 인용)",
+      "url": "https://en.wikipedia.org/wiki/American_black_duck",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "months.seen: 국내 기록으로 Banks(1985) 'American Black Duck record from Korea'(Journal of Field Ornithology 56: 277)가 있으나 원문을 열지 못해 기록 달·장소를 확인하지 못함. iNaturalist 한국 기록 없음"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

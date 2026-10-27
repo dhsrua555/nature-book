@@ -5,16 +5,19 @@
   "author": "Vieillot, 1819",
   "en": "Long-tailed Jaeger",
   "ktsn": 120000001799,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "48–53cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "앞바다, 먼바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      8,
+      9
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "해마다 10건이 안 되게 기록되는 길잃은새로, 8–9월에 강원 고성과 경북 포항, 부산 등 동해·남해 앞바다에서 관찰되었다. 북극권의 툰드라에서 번식하며, 여름에는 레밍과 들쥐 같은 작은 설치류를 주로 잡아먹는다. 바다에서는 물고기를 잡거나 다른 바닷새의 먹이를 빼앗으며, 번식을 마치면 남반구 바다까지 내려가 겨울을 난다.",
   "points": [
     {
       "ko": "검은 머리꼭대기",
@@ -38,11 +41,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 몸 전체가 회갈색을 띠고 윗면 깃 가장자리가 연한 색이며, 아랫날개덮깃과 위·아래꼬리덮깃에 흑백 가로무늬가 뚜렷하다. 가운데 꼬리깃은 조금만 튀어나오고, 밝은 개체는 머리가 연한 담황색을 띤다.",
+  "similar": [
+    {
+      "ko": "북극도둑갈매기",
+      "how": "어른새는 가운데 꼬리깃이 훨씬 길게 늘어지고, 가슴띠가 없으며 아랫날개에 흰 무늬가 거의 없다."
+    }
+  ],
   "art": {
     "subject": "Long-tailed Jaeger (Stercorarius longicaudus), adult in breeding plumage, as seen at sea off Korea on spring passage (May): neat black cap; cheeks and neck white with a faint yellowish wash on the neck sides; breast white, shading into grey-brown on the belly and vent, with no breast band; upperparts cold grey-brown, contrasting with blackish flight feathers; only the outer two primary shafts white, giving a tiny white flash on the upperwing; underwing dark without a white patch; central tail feathers forming very long, thin, pointed streamers; bill short, black and hooked; dark eye; legs blue-grey with black feet.",
     "pose": "flying low and buoyantly over the sea, side view, the long tail streamers trailing",
@@ -92,10 +100,55 @@
       "title": "Wikipedia: Long-tailed jaeger",
       "url": "https://en.wikipedia.org/wiki/Long-tailed_jaeger",
       "used": "교차 확인 (회색 등, 흰 무늬 없는 첫째날개깃, 검은 머리, 긴 꼬리)"
+    },
+    {
+      "title": "Oiseaux.net – Long-tailed Jaeger",
+      "url": "https://www.oiseaux.net/birds/long-tailed.jaeger.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Wikipedia(일본어) – シロハラトウゾクカモメ (日本の鳥550·日本の野鳥590 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%8F%E3%83%A9%E3%83%88%E3%82%A6%E3%82%BE%E3%82%AF%E3%82%AB%E3%83%A2%E3%83%A1",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Long-tailed Jaeger",
+      "url": "https://www.audubon.org/field-guide/bird/long-tailed-jaeger",
+      "used": "몸길이·사는 곳·해설·어린새·비슷한 종"
+    },
+    {
+      "title": "コトバンク(日本大百科全書·小学館の図鑑NEO) – シロハラトウゾクカモメ",
+      "url": "https://kotobank.jp/word/%E3%81%97%E3%82%8D%E3%81%AF%E3%82%89%E3%81%A8%E3%81%86%E3%81%9E%E3%81%8F%E3%81%8B%E3%82%82%E3%82%81-3154906",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 긴꼬리도둑갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481613&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Animal Diversity Web – Stercorarius longicaudus",
+      "url": "https://animaldiversity.org/accounts/Stercorarius_longicaudus/",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Bent (1921) Life Histories of North American Gulls and Terns – 긴꼬리도둑갈매기(Long-tailed Jaeger)",
+      "url": "https://archive.org/details/lifehistoriesof00bent",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Long-tailed Jaeger",
+      "url": "https://www.birdweb.org/birdweb/bird/long-tailed_jaeger",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920–24) – 긴꼬리도둑갈매기(Long-tailed Jaeger)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

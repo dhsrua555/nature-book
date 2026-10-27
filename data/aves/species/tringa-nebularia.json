@@ -5,7 +5,6 @@
   "author": "Gunnerus, 1767",
   "en": "Common Greenshank",
   "ktsn": 120000001715,
-  "origin": "nibr",
   "length": "35cm",
   "status": "나그네새 수천 마리 · 겨울철새 수십 마리 · 여름에도 드물게 기록",
   "habitat": "바닷가, 하구 삼각주, 염전, 습지, 호수",
@@ -46,11 +45,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "윗면에 갈색 기운이 강하고 깃 가장자리가 흰색이며, 이마와 옆머리는 흰 바탕에 검은 축무늬가 있다.",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "쇠청다리도요",
+      "how": "쇠청다리도요는 몸이 훨씬 작고 부리가 바늘처럼 가늘다."
+    }
+  ],
   "art": {
     "subject": "Common Greenshank (Tringa nebularia), adult in breeding plumage as seen on Korean coasts in late April and May: head, neck and upper breast pale grey densely streaked and spotted black, the streaks boldest on the crown and hindneck; mantle and scapulars grey-brown with a scattering of black-centred feathers edged whitish; wing coverts plainer grey-brown; lower back, rump and uppertail coverts white; small dark spots and chevrons on the breast-sides and flanks, belly and undertail white; tail white, finely barred grey. Bill dark grey to blackish, paler grey-green at the base; dark eye; legs greenish-grey.",
     "pose": "wading in shallow water at a river mouth, side view",
@@ -91,6 +95,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Greenshank(Tringa nebularia)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 24권(1896) – Glottis nebularius",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Seebohm, The Geographical Distribution of the Family Charadriidae(1888) – Totanus glottis",
+      "url": "https://archive.org/details/cu31924000181366",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Dresser, A Manual of Palaearctic Birds 2권(1903) – Totanus stagnatilis",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

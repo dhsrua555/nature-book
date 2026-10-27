@@ -5,16 +5,19 @@
   "author": "Pallas, 1776",
   "en": "Little Gull",
   "ktsn": 120000528807,
-  "origin": "nibr",
-  "length": "TODO",
-  "status": "TODO",
-  "habitat": "TODO",
+  "length": "25–30cm",
+  "status": "길잃은새, 지금까지 기록 10건 미만",
+  "habitat": "항구, 하구, 바닷가",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      2,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2006년 2월 포항항과 2023년 12월 강릉에서 기록된 길잃은새이다. 물 위를 낮고 가볍게 날다가 수면의 먹이를 집어 먹으며, 주로 곤충을 먹고 작은 갑각류와 물고기도 먹는다. 발트해 연안에서 시베리아 동부 오호츠크해 연안까지의 내륙 습지에서 무리 지어 번식하고, 주로 유럽과 지중해·흑해·카스피해의 바닷가에서 겨울을 난다.",
   "points": [
     {
       "ko": "검은빛 뒷정수리와 귀깃 점(겨울깃)",
@@ -42,10 +45,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 등과 윗날개에 거무스름한 'W'자 무늬가 뚜렷하고 꽁지 끝에 검은 띠가 있으며, 첫겨울에는 눈 뒤에 검은 점이 있고 뒷머리가 회색을 띤다. 갓 깃이 난 어린새는 등이 짙은 갈색으로 얼룩덜룩하다.",
   "similar": [],
   "art": {
     "subject": "Little Gull (Hydrocoloeus minutus), adult in winter (non-breeding) plumage: white head with a dusky grey cap on the rear crown and a dark spot behind the eye; mantle and upperwing pale grey, the rounded wingtips pale grey and white without any black, with a white trailing edge; underwing blackish grey with a broad white trailing edge; body and tail white. Small black bill; dark eye; short dull red legs.",
@@ -91,11 +94,41 @@
       "title": "Little Gull - RSPB",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/little-gull",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Little Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016500",
+      "used": "몸길이, 해설, 어린새, 번식기, 암수 구별"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Little Gull",
+      "url": "https://www.audubon.org/field-guide/bird/little-gull",
+      "used": "몸길이, 사는 곳, 해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Little Gull",
+      "url": "https://www.birdweb.org/Birdweb/bird/little_gull",
+      "used": "사는 곳, 해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Little Gull 소개",
+      "url": "https://birdsoftheworld.org/bow/species/litgul/cur/introduction",
+      "used": "해설, 번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2006년 2월 – Little Gull 첫 기록(포항항)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-02.shtml",
+      "used": "국내 상태, 사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 꼬마갈매기 강릉 사진 기록(2023-12-09)",
+      "url": "https://www.inaturalist.org/observations/196093967",
+      "used": "국내 상태, 사는 곳, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "국립생물자원관 종 설명이 없어 국내외 자료로 채웠다",
+    "[새와 생명의 터] 조류목록(2022·2024)에 실리지 않은 종이다. 2006년 2월 포항항(사진 촬영, 새와 생명의 터 소식)과 2023년 12월 9일 강릉(iNaturalist 사진) 기록이 있으니 목록에 오르지 않은 까닭을 확인할 필요가 있다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
@@ -103,5 +136,5 @@
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

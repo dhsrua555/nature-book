@@ -5,7 +5,6 @@
   "author": "Nordmann, 1835",
   "en": "Nordmann's Greenshank",
   "ktsn": 120000001716,
-  "origin": "nibr",
   "length": "29–32cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "해안 갯벌, 강 하구",
@@ -13,9 +12,15 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 서해안 일대를 지나간다."
+    "note": "봄에는 5월, 가을에는 7~10월에 서해안 갯벌을 지나간다."
   },
   "summary": "봄과 가을에 적은 수가 서해안 일대를 지나가는 매우 드문 나그네새로, 해안 갯벌이나 강 하구에 내려앉는다. 재빨리 달려가 게를 잡아먹으며, 갑각류, 어류, 연체동물 등을 먹는다. 알은 4개쯤 낳는데, 청록색 바탕에 검은 갈색 반점이 있다. 국내에서는 서해안과 남해안에서 관찰되고, 세계적으로는 사할린에 분포한다.",
   "points": [
@@ -44,7 +49,7 @@
     "alike": true,
     "text": "암수 여름깃이 같은 모습이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른 겨울깃보다 윗면이 갈색을 띠고 깃 가장자리에 연한 황갈색 점무늬와 테가 있으며, 앞목과 가슴 옆에 갈색 얼룩이 있다.",
   "similar": [
     {
       "ko": "청다리도요",
@@ -91,6 +96,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 24권(1896) – Pseudoglottis guttifer",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Glottis guttifer",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "Hartert, Die Vögel der paläarktischen Fauna 2권(1912–1921) – Tringa guttifer",
+      "url": "https://archive.org/details/dievgelderpal02hart",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그, Various, May 13-15(2013) – Nordmann's Greenshank",
+      "url": "https://www.birdskoreablog.org/?p=8853",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그, Various Sites, October 22nd-Nov 3rd(2018) – Nordmann's Greenshank",
+      "url": "https://birdskoreablog.org/?p=21313",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 청다리도요사촌",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Tringa%20guttifer",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

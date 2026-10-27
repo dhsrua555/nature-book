@@ -5,13 +5,17 @@
   "author": "Linnaeus, 1758",
   "en": "Long-tailed Duck",
   "ktsn": 120000001465,
-  "origin": "nibr",
   "length": "수컷 약 57cm, 암컷 약 31cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "해안 앞바다, 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식지에서는 5~7월에 알을 낳는다."
   },
@@ -47,7 +51,7 @@
     "male": "몸길이 약 57cm로 암컷보다 훨씬 크다.",
     "female": "몸길이 약 31cm로 수컷보다 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 겨울깃 암컷과 비슷하나 대비가 약하고, 등이 고르게 칙칙한 회색이며 옆구리도 회색을 띤다. 첫겨울 어린 수컷도 암컷처럼 보인다.",
   "similar": [],
   "art": {
     "subject": "Long-tailed Duck (Clangula hyemalis), adult male in winter, as seen off Korean coasts from November to March: head and neck white, with a pale grey-buff face around the eye and a large blackish-brown patch on the side of the neck below and behind the cheek; breast black, forming a broad band; back black; long pale grey-white scapulars draped over the sides of the back; wings blackish-brown; flanks and belly white; two very long, thin black central tail feathers; bill short, black with a broad pink band across the outer half and a black nail; dark eye; legs grey.",
@@ -87,10 +91,25 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Long-tailed Duck (Clangula hyemalis)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130446",
+      "used": "어린새"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Long-tailed Duck",
+      "url": "https://www.audubon.org/field-guide/bird/long-tailed-duck",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Long-tailed duck",
+      "url": "https://en.wikipedia.org/wiki/Long-tailed_duck",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "암컷 몸길이 약 31cm는 수컷(약 57cm)과 차이가 매우 커서 확인 필요"
+    "암컷 몸길이 약 31cm는 국외 자료(Sea Duck Joint Venture·ADW 38–43cm)와 크게 달라 확인 필요"
   ],
   "occurrence": {
     "code": "WV1",

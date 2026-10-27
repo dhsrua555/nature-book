@@ -5,14 +5,21 @@
   "author": "Pallas, 1811",
   "en": "Whiskered Tern",
   "ktsn": 120000001790,
-  "origin": "nibr",
   "length": "23–25cm",
   "status": "나그네새, 해마다 수백 마리 · 겨울에도 드물게 기록",
   "habitat": "늪, 습지, 물에 뜬 식물이 많은 강",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "5–6월과 9–10월 이동기에 주로 보이고, 겨울에도 드물게 기록된다."
   },
   "summary": "늪과 습지, 물에 떠 있는 식물이 많은 강에 사는 제비갈매기류이다. 몸무게는 100g이다. 아프리카, 프랑스, 러시아, 중국에 분포한다.",
   "points": [
@@ -33,8 +40,13 @@
     "alike": true,
     "text": "암수 생김새가 비슷하며, 수컷의 부리와 날개가 암컷보다 아주 조금 더 길다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 겨울깃 어른새처럼 이마와 아랫면이 희지만, 등과 어깨깃이 갈색 바탕에 굵은 무늬와 황갈색 깃 가장자리로 얼룩덜룩하고 정수리 뒤쪽이 거무스름하며, 허리는 희지 않다.",
+  "similar": [
+    {
+      "ko": "흰죽지제비갈매기",
+      "how": "흰죽지제비갈매기는 몸과 부리가 더 작고, 겨울깃과 어린새는 허리와 뒷목이 희며 눈 뒤 검은 무늬가 귀깃 아래로 둥글게 내려온다."
+    }
+  ],
   "art": {
     "subject": "Whiskered Tern (Chlidonias hybrida), adult in breeding plumage, as seen on Korean marshes in May: black cap from the forehead and lores to the nape, sharply bordered below by a white stripe (the whiskers) running from the gape under the eye back to the sides of the nape; chin and throat whitish shading into grey; upperparts, wings and tail medium grey; breast grey darkening to sooty grey on the belly; undertail coverts white; short dark red bill; dark eye; short dark red legs.",
     "pose": "perched on floating vegetation, side view",
@@ -74,6 +86,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Whiskered Tern",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018800",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Whiskered Tern",
+      "url": "https://singaporebirds.com/species/whiskered-tern/",
+      "used": "어린새, 비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – White-winged Tern",
+      "url": "https://singaporebirds.com/species/white-winged-tern/",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 6 (1929) – Chlidonias leucopareia indica",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 구레나룻제비갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481121&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2005년 5월 – Whiskered Tern(금강 하구)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2007년 9월 – Whiskered Tern(군산 옥구저수지)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-09.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

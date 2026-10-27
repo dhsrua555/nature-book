@@ -5,15 +5,21 @@
   "author": "Blyth, 1842",
   "en": "Grey-headed Lapwing",
   "ktsn": 120000001670,
-  "origin": "nibr",
   "length": "36cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "논, 밭, 개울가 풀숲, 모래밭, 초습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 3월 하순~6월 상순에 알을 낳는다."
+    "note": "번식지에서는 3월 하순~6월 상순에 알을 낳으며, 국내에서는 주로 4~5월에 서해 섬의 논에서 보인다. 국내에서 기록된 달이다."
   },
   "summary": "우리나라에서는 해마다 10건 미만으로 기록되는 길잃은새로, 논, 밭, 개울가 풀숲, 모래밭, 초습지 등에 찾아온다. 번식기가 아닐 때는 무리 지어 지낸다. 곤충, 지렁이, 파충류, 물고기 등을 먹고, 풀숲이나 잔디, 자갈밭의 오목한 곳에 둥지를 지어 알 3~4개를 27~30일 동안 품는다. 시베리아 남부, 몽골, 중국, 일본에 분포한다.",
   "points": [
@@ -43,10 +49,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "머리와 몸 윗면이 칙칙한 갈색이고 윗면 깃 가장자리가 옅어 비늘무늬처럼 보이며, 가슴의 검은 띠가 거의 없고 눈이 어둡다.",
   "similar": [],
   "art": {
     "subject": "Grey-headed Lapwing (Vanellus cinereus), adult in breeding plumage, as seen in Korean rice fields in spring (March–April): head, neck and upper breast plain ash-grey; a broad blackish band across the lower breast; back, scapulars and wing coverts plain light brown; primaries black; belly, flanks and undertail white; rump white; tail white with a broad black subterminal band; bill yellow with a black tip; a small yellow wattle in front of the eye; iris red; legs long, yellow.",
@@ -96,6 +102,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Grey-headed Lapwing",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/010100",
+      "used": "어린새"
+    },
+    {
+      "title": "영어 위키백과(인용 도감 확인용) – Grey-headed lapwing(Hayman 외 Shorebirds 인용)",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_lapwing",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Baekryeong Island, April 17-30(2021)",
+      "url": "https://www.birdskoreablog.org/?p=24578",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Baengnyeong Island, April 25-May 14(2026)",
+      "url": "https://www.birdskoreablog.org/?p=31704",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Baengnyeong: May 26th-June 1st(2026)",
+      "url": "https://www.birdskoreablog.org/?p=31756",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "むなかた電子博物館 – ケリ",
+      "url": "https://munahaku.jp/%e3%82%b1%e3%83%aa",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

@@ -5,15 +5,19 @@
   "author": "Pallas, 1811",
   "en": "Spectacled Guillemot",
   "ktsn": 120000155159,
-  "origin": "nibr",
   "length": "37cm",
   "status": "겨울철새, 해마다 수십 마리",
   "habitat": "해안의 암초와 바위틈, 앞바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
     "breed": [],
-    "note": "산란기는 4월 중순~5월이나, 번식 장소는 원문에 없다."
+    "note": "4–6월에도 드물게 기록되며, 원문은 산란기를 4월 중순~5월로 적었으나 국내 번식 장소는 밝혀져 있지 않다."
   },
   "summary": "우리나라에서는 강원도 해안, 경상남도 낙동강 하구, 부산 앞바다 등지에서 겨울을 난다. 잠수할 때는 날개를 펴고 물속을 날듯이 헤엄치며, 날 때는 날개를 세차게 퍼덕이며 바다 위를 스치듯 낮게 난다. 암초에서 쉴 때는 몸을 곧추세우고 부척을 굽혀 바닥에 대며, 암초나 바위의 틈을 잠자리로 쓴다. 둥지를 짓지 않고 해안 암초의 틈이나 바위 위에 바로 알을 2~3개 낳으며, 작은 물고기와 갑각류 등을 먹는다.",
   "points": [
@@ -91,10 +95,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰눈썹바다오리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481318&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Marine Bird Survey, Goseong County, April and May Summary(2016) – 흰눈썹바다오리(Spectacled Guillemot)",
+      "url": "https://www.birdskoreablog.org/?p=18112",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Various Sites, February 7-12(2017) – 흰눈썹바다오리(Spectacled Guillemot)",
+      "url": "https://www.birdskoreablog.org/?p=19106",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "'날개 18~20cm가량'은 날개 편 길이가 아니라 날개 길이로 보여 wingspan 에 넣지 않았다"
+    "'날개 18~20cm가량'은 날개 편 길이가 아니라 날개 길이로 보여 wingspan 에 넣지 않았다",
+    "어린새는 일본어 위키백과(첫 겨울깃은 어른 겨울깃과 비슷하나 눈테가 흐리다) 한 곳에서만 확인되어 비워 두었다"
   ],
   "occurrence": {
     "code": "W5",

@@ -5,8 +5,7 @@
   "author": "Vieillot, 1818",
   "en": "Black-tailed Gull",
   "ktsn": 120000001757,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "43–51cm",
   "status": "여름철새 10만 마리 이상 · 겨울철새 수만 마리",
   "habitat": "무인도서(번식), 해안, 강, 하구, 하천",
   "protect": [],
@@ -25,8 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO",
-    "note": "이른 봄부터 번식지에 모여들어 8월까지 번식한다."
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "3–4월에 번식지 섬으로 모여들고 5월 초에서 6월 초 사이에 알을 낳으며, 8월 말이면 새끼가 자라 번식지를 떠난다."
   },
   "summary": "우리나라 무인도에서 번식하고 겨울도 나는 흔한 여름철새이자 겨울철새로, 해안과 강, 하구, 하천에서 볼 수 있다. 서해안과 남해안의 무인도에 큰 무리를 이루어 번식하며, 이른 봄부터 모여들어 8월까지 번식을 이어 간다. 물고기 떼가 모이는 곳에 잘 모이고 물고기, 곤충, 물풀 등을 먹는다. 고양이 울음과 비슷한 소리를 낸다고 해서 이 이름이 붙었다.",
   "points": [
@@ -56,8 +60,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "어린새는 온몸이 갈색이고 다리가 분홍색이며, 부리는 분홍색에 끝이 검다.",
   "similar": [],
@@ -103,11 +107,59 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Black-tailed Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016900",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Goéland à queue noire(Black-tailed Gull)",
+      "url": "https://www.oiseaux.net/oiseaux/goeland.a.queue.noire.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – ウミネコ",
+      "url": "https://www.birdfan.net/larus_crassirostris/",
+      "used": "몸길이"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Larus crassirostris(황해도 서도 도래·산란·이소 기록)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "コトバンク(日本大百科全書・ブリタニカ) – ウミネコ",
+      "url": "https://kotobank.jp/word/%E3%82%A6%E3%83%9F%E3%83%8D%E3%82%B3",
+      "used": "번식기"
+    },
+    {
+      "title": "국립공원공단 외(earticle) – 한려해상국립공원 홍도에서 번식하는 괭이갈매기의 서식 범위 첫 보고",
+      "url": "https://m.earticle.net/Article/A411502",
+      "used": "번식기"
+    },
+    {
+      "title": "환경영향평가 22(5)(2013) – 국가환경시료은행 괭이갈매기 알 시료 채취 절차(백령도·홍도 5월 초 산란)",
+      "url": "https://koreascience.kr/article/JAKO201302757909361.page",
+      "used": "번식기"
+    },
+    {
+      "title": "Chochi 외(2002) Ornithological Science 1:163–166 – Black-tailed Gull 외부 계측의 암수 차이(리시리섬)",
+      "url": "https://www.gull-research.org/papers/05chochi.pdf",
+      "used": "암수 구별"
+    },
+    {
+      "title": "일본동물원수족관협회지 35(1)(2022) – 니가타현 북부 괭이갈매기 외부 계측의 암수 차이",
+      "url": "https://www.jstage.jst.go.jp/article/jaczs/35/1/35_27/_article/-char/en",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus crassirostris",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "암수 구별"
     }
   ],
-  "todo": [
-    "번식 시작이 '이른 봄'으로만 적혀 있어 months.breed 를 TODO 로 두었다."
-  ],
+  "todo": [],
   "occurrence": {
     "code": "S1, W2",
     "bs": "1",

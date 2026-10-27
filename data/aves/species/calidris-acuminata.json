@@ -5,15 +5,19 @@
   "author": "Horsfield, 1821",
   "en": "Sharp-tailed Sandpiper",
   "ktsn": 120000001737,
-  "origin": "nibr",
   "length": "약 21cm",
   "status": "나그네새, 해마다 수백 마리",
   "habitat": "간척지, 염전, 하구, 삼각주, 논",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9
+    ],
     "breed": [],
-    "note": "봄과 가을에 국내를 지나간다."
+    "note": "봄(4~5월)에 많이 지나가고 가을에는 훨씬 적다."
   },
   "summary": "봄과 가을에 우리나라를 흔하게 지나가는 나그네새로, 간척지·염전·하구·삼각주·논 등에 내려앉는다. 갑각류와 곤충을 먹고 때로는 식물성 먹이도 먹는다. 시베리아 동북부의 툰드라와 캄차카에서 번식하고 오스트레일리아, 뉴질랜드 등에서 겨울을 난다.",
   "points": [
@@ -43,10 +47,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리꼭대기가 밝은 적갈색이고 흰 눈썹선이 뚜렷하며, 등과 어깨깃에 적갈색과 흰색 테가 있다. 가슴은 무늬가 거의 없는 주황빛 황갈색이고 앞쪽과 옆쪽에만 가는 세로줄이 있다.",
   "similar": [],
   "art": {
     "subject": "Sharp-tailed Sandpiper (Calidris acuminata), adult in breeding plumage, as seen on Korean flooded paddies in late April-May: bright rufous cap finely streaked black, contrasting with a whitish supercilium that is broadest behind the eye; thin white eye-ring; face and neck buff-white with fine dark streaks; mantle, scapulars and tertials black-centred with rufous, buff and whitish fringes; breast buff, densely marked with dark spots that become bold dark arrowhead (chevron) marks on the lower breast and along the flanks to the undertail coverts; belly white; bill dark grey-black with a paler greyish-olive base; dark eye; greenish-yellow to olive legs.",
@@ -85,6 +89,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Siberian Pectoral Sandpiper(Calidris acuminata)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Hartert, Die Vögel der paläarktischen Fauna 2권(1912–1921) – Erolia acuminata",
+      "url": "https://archive.org/details/dievgelderpal02hart",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India: Birds 6권 2판(1929) – Erolia acuminata",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 24권(1896) – Heteropygia acuminata",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 메추라기도요",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Calidris%20acuminata",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

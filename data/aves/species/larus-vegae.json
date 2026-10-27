@@ -5,8 +5,7 @@
   "author": "Palmén, 1887",
   "en": "Vega Gull",
   "ktsn": 120000528952,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 60cm",
   "status": "겨울철새 수만 마리 · 나그네새 수만 마리 · 여름철새 수십 마리",
   "habitat": "강, 하구, 해안, 간척지, 바닷가 모래밭",
   "protect": [],
@@ -50,8 +49,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
   "young": "어린새는 온몸이 갈색이고, 흐릿한 세로무늬가 고르게 나 있으며 꼬리 끝에 검은 띠가 있다.",
   "similar": [],
@@ -94,6 +93,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "コトバンク(ブリタニカ・日本大百科全書・図鑑NEO) – セグロカモメ",
+      "url": "https://kotobank.jp/word/%E3%82%BB%E3%82%B0%E3%83%AD%E3%82%AB%E3%83%A2%E3%83%A1",
+      "used": "몸길이"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus vegae",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "Ridgway, The Birds of North and Middle America 8부(1919) – Larus vegae",
+      "url": "https://archive.org/details/cu31924022528107",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

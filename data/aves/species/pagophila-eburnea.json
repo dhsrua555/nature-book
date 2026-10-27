@@ -5,14 +5,13 @@
   "author": "Phipps, 1774",
   "en": "Ivory Gull",
   "ktsn": 120000001775,
-  "origin": "nibr",
   "length": "TODO",
   "status": "TODO",
   "habitat": "TODO",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "몸 전체가 흰 갈매기로, 몸 크기는 괭이갈매기보다 작은 편이다. 유라시아 대륙과 북아메리카의 북극권에 분포한다.",
   "points": [
@@ -41,7 +40,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어린새는 흰 바탕의 등과 날개 윗면에 검은 점이 흩어져 있고 첫째날개깃과 꽁지에도 검은 점이 있으며, 눈앞 등 얼굴이 거무스름하다.",
   "similar": [
     {
       "ko": "괭이갈매기",
@@ -82,16 +81,33 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Ivory Gull",
+      "url": "https://www.audubon.org/field-guide/bird/ivory-gull",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Ivory Gull 소개",
+      "url": "https://birdsoftheworld.org/bow/species/ivogul/cur/introduction",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "번식 기록"
     }
   ],
   "todo": [
     "원문 생김새(등·날개의 검은 반점, 검은 눈앞)가 어느 나이의 깃인지 밝히지 않아 art 에 나이를 적지 않았다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 2022 목록은 1995년 10월 23일 울릉도의 어린새 추정 기록(Park 2022에 실림)을 근거가 부족하다며 목록에서 뺐다. 이 기록을 확인할 다른 자료를 찾지 못해 국내 상태·사는 곳·관찰 시기를 비워 두었다",
+    "몸길이: Audubon 43cm 한 곳뿐이라(위키백과는 Olsen & Larsson 인용 40–43cm) 비워 두었다",
+    "암수 구별: 암수 차이를 밝힌 자료를 찾지 못했다"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

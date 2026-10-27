@@ -5,15 +5,19 @@
   "author": "Pallas, 1811",
   "en": "Rhinoceros Auklet",
   "ktsn": 120000001814,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "35–38cm",
   "status": "겨울철새, 해마다 수천 마리",
   "habitat": "바닷가의 섬, 바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
     "breed": [],
-    "note": "알은 4월 상순~6월 상순에 1개를 낳는다."
+    "note": "번식지에서는 4월 상순~6월 상순에 알을 1개 낳으며, 국내에서는 12–2월에 가장 많고 5월 중순까지 남는 무리도 드물게 있다."
   },
   "summary": "바닷가의 섬이나 바다에서 생활하며, 헤엄치고 잠수하면서 먹이를 찾는다. 4월 상순~6월 상순에 광택 없는 회백색 바탕에 연한 갈색이나 어두운 회색 줄무늬와 점이 드문드문 있는 알을 1개 낳는다. 부위별 길이는 날개 172~182mm, 꽁지 45~62mm, 발목 28~32mm, 부리 32~39mm이다. 한국의 평안북도 엽도와 강원도 통천, 알래스카 남부, 캘리포니아, 아무르, 사할린, 일본 북부 등지에 분포한다.",
   "points": [
@@ -42,7 +46,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃과 비슷하나 머리의 흰 장식깃이 없고, 부리가 더 작고 어두운 색이다.",
   "similar": [],
   "art": {
     "subject": "Rhinoceros Auklet (Cerorhinca monocerata), adult in non-breeding plumage as seen off the Korean east coast in winter: head, back, wings and tail dark sooty grey-brown; face and neck sides slightly paler grey-brown, the white facial plumes absent or only faintly indicated; throat, breast and flanks dusky grey-brown, blending into the white belly; no horn on the bill. Bill thick and deep, dull yellowish-orange to brownish-yellow; pale yellow iris.",
@@ -90,11 +94,60 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Rhinoceros Auklet",
+      "url": "https://www.oiseaux.net/birds/rhinoceros.auklet.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Rhinoceros Auklet",
+      "url": "https://www.audubon.org/field-guide/bird/rhinoceros-auklet",
+      "used": "몸길이"
+    },
+    {
+      "title": "Ridgway (1887) A Manual of North American Birds – 흰수염바다오리(Rhinoceros Auklet)",
+      "url": "https://archive.org/details/manualofnorthame00ridg",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Wikipedia(일본어) – ウトウ (北海道野鳥図鑑 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%88%E3%82%A6",
+      "used": "몸길이"
+    },
+    {
+      "title": "コトバンク(日本大百科全書·ブリタニカ国際大百科事典) – ウトウ",
+      "url": "https://kotobank.jp/word/%E3%81%86%E3%81%A8%E3%81%86-2793395",
+      "used": "몸길이"
+    },
+    {
+      "title": "Bent (1919) Life Histories of North American Diving Birds – 흰수염바다오리(Rhinoceros Auklet)",
+      "url": "https://archive.org/details/cu31924090252846",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Rhinoceros Auklet",
+      "url": "https://www.birdweb.org/birdweb/bird/rhinoceros_auklet",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰수염바다오리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481324&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – East Coast and Taebaek, January 11-15(2016) – 흰수염바다오리(Rhinoceros Auklet)",
+      "url": "https://www.birdskoreablog.org/?p=17608",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Marine Bird Survey, Goseong County, April and May Summary(2016) – 흰수염바다오리(Rhinoceros Auklet)",
+      "url": "https://www.birdskoreablog.org/?p=18112",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문 첫 문장이 '기러기목 오리과의 여름철새'라고 해 분류(도요목 바다오리과)부터 틀렸으므로, 같은 문장의 국내 상태(여름철새)도 확인 전까지 TODO 로 두었다",
-    "원문에 몸길이가 없고 부위별 길이만 있다"
+    "원문 첫 문장이 '기러기목 오리과의 여름철새'라고 해 분류(도요목 바다오리과)부터 틀렸으므로, 같은 문장의 국내 상태(여름철새)도 확인 전까지 TODO 로 두었다"
   ],
   "occurrence": {
     "code": "W3",

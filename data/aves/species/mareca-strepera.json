@@ -5,14 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Gadwall",
   "ktsn": 120000528789,
-  "origin": "nibr",
   "length": "약 51cm",
   "status": "겨울철새, 해마다 수만 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "강, 하구, 저수지, 호수, 물 고인 논, 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "주로 10월부터 4월까지 머물며, 9월 하순이나 5월 초순에 보이기도 한다."
   },
   "summary": "전국에서 볼 수 있는 흔한 겨울철새로, 강과 하구, 저수지, 호수에서 지낸다. 수면성 오리로 낮에는 물 위에서 자맥질해 물속 수초를 뜯거나 수면 가까운 수초와 식물 씨앗을 먹고, 해 질 녘에는 물 고인 논이나 습지로 옮겨 씨앗을 먹는다. 유라시아와 북아메리카의 아한대에서 번식하고 유럽 남부, 북아프리카, 인도, 중국 동부, 한국, 일본에서 겨울을 난다.",
   "points": [
@@ -42,8 +50,13 @@
     "male": "전체가 짙은 회색이고 회흑색 반점이 흩어져 있으며, 부리와 아래꼬리덮깃이 검다. 가슴 깃은 가장자리가 검어 비늘무늬처럼 보인다. 변환깃은 암컷과 비슷하다.",
     "female": "전체가 갈색이고, 부리는 윗면이 검고 가장자리가 주황색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 가슴과 배에 갈색 반점이 촘촘해 줄무늬처럼 보이고, 흰 날개거울이 회색빛을 띠어 덜 뚜렷하다. 어린 수컷도 첫 깃에서는 암컷과 거의 같고, 겨울 동안 차츰 회색 수컷 깃으로 바뀌어 봄에 어른 깃을 갖춘다.",
+  "similar": [
+    {
+      "ko": "청둥오리",
+      "how": "암컷끼리 견주면 알락오리 암컷은 청둥오리 암컷보다 작고 이마가 가파르며, 부리 가장자리가 주황색이고 날 때 흰 날개거울과 흰 배가 보인다."
+    }
+  ],
   "art": {
     "subject": "Gadwall (Mareca strepera), adult male in winter, as seen on Korean reservoirs from October to March: head grey-brown, finely speckled, darker on the crown; breast densely marked with black crescents, giving a scaly look; back and flanks grey with fine dark vermiculations, appearing plain grey at a distance; long grey scapulars; upper and undertail coverts black, giving a black rear end; a small white speculum patch showing at the rear of the closed wing. Bill dark grey-black; dark eye; orange-yellow legs.",
     "pose": "swimming in shallow water in full side view, head held up above the water, the white speculum patch showing at the rear of the closed wing",
@@ -83,6 +96,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – Gadwall",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Gadwall",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Gadwall",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Anas strepera",
+      "url": "https://animaldiversity.org/accounts/Anas_strepera/",
+      "used": "어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Gadwall",
+      "url": "https://www.audubon.org/field-guide/bird/gadwall",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Wikipedia(영어) – Gadwall (Dunn & Alderfer 인용)",
+      "url": "https://en.wikipedia.org/wiki/Gadwall",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

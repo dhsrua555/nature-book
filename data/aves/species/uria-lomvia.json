@@ -5,16 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "Thick-billed Murre",
   "ktsn": 120000001802,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 45cm",
   "status": "겨울철새, 해마다 수십 마리",
-  "habitat": "TODO",
+  "habitat": "앞바다, 먼바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "해마다 수십 마리가 찾아오는 드문 겨울철새로, 12월부터 3월 사이 강원 고성과 경북 포항 구룡포 등 동해 앞바다에서 관찰된다. 북극해와 북태평양·북대서양의 바닷가 절벽에 무리 지어 번식하며, 좁은 바위 턱에 알을 1개 낳는다. 잠수해 대구·열빙어·까나리 같은 물고기와 새우 같은 갑각류를 잡아먹는다.",
   "points": [
     {
       "ko": "바다오리보다 검은 얼굴(겨울깃)",
@@ -38,11 +42,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새 겨울깃과 비슷하나 등이 조금 더 갈색을 띠고 멱의 흰 부분에 검은 얼룩이 많으며, 부리가 더 작고 가늘다.",
+  "similar": [
+    {
+      "ko": "바다오리",
+      "how": "부리가 더 굵고 짧으며 윗부리 가장자리를 따라 흰 줄이 있고, 겨울깃에서도 얼굴의 검은 부분이 눈 아래까지 넓게 남는다."
+    }
+  ],
   "art": {
     "subject": "Thick-billed Murre (Uria lomvia), adult in winter plumage, as seen off the Korean east coast from December to March: crown, hindneck and upperparts blackish, the dark cap extending down over the face to well below the eye; chin, throat and foreneck white; breast and belly white; narrow white tips to the secondaries form a thin white line on the closed wing. Bill black, stout and fairly short, with a thin whitish line along the base of the upper mandible's cutting edge; dark eye.",
     "pose": "swimming low on the sea, about to dive",
@@ -93,10 +102,45 @@
       "title": "Dickschnabellumme - Wikipedia (de, cites Bauer, Bezzel & Fiedler 2005)",
       "url": "https://de.wikipedia.org/wiki/Dickschnabellumme",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Animal Diversity Web – Uria lomvia",
+      "url": "https://animaldiversity.org/accounts/Uria_lomvia/",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Wikipedia(일본어) – ハシブトウミガラス",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%96%E3%83%88%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A9%E3%82%B9",
+      "used": "몸길이·해설·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – East Coast and Taebaek, January 11-15(2016) – 큰부리바다오리(Thick-billed Murre)",
+      "url": "https://www.birdskoreablog.org/?p=17608",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 큰부리바다오리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481339&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Bent (1919) Life Histories of North American Diving Birds – 큰부리바다오리(Thick-billed Murre)",
+      "url": "https://archive.org/details/cu31924090252846",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920–24) – 큰부리바다오리(Thick-billed Murre)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Marine Bird Survey, Goseong County, April and May Summary(2016) – 큰부리바다오리(Thick-billed Murre)",
+      "url": "https://www.birdskoreablog.org/?p=18112",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

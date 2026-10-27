@@ -5,14 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Common Shelduck",
   "ktsn": 120000001429,
-  "origin": "nibr",
   "length": "약 61cm",
   "status": "겨울철새, 해마다 수만 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "연안과 하구의 갯벌",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월에 찾아와 이듬해 4월까지 머물며, 5월이나 여름에 남은 개체가 드물게 보인다."
   },
   "summary": "주로 바닷가와 하구의 갯벌에서 먹이를 찾는 흔한 겨울철새다. 위로 굽은 부리를 펄에 대고 훑어 갯벌에 붙은 해조류와 갑각류 등을 먹는다. 국내에서는 낙동강, 간월호, 금강 하구, 순천만 등지에서 큰 무리를 지어 겨울을 난다. 유럽에서 동쪽으로 몽골, 중국 동북부에 걸쳐 번식하고, 유럽 남부, 북아프리카, 인도 북부, 중국 동부, 한국, 일본에서 겨울을 난다.",
   "points": [
@@ -42,10 +50,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "부리가 선명한 붉은색이고 부리 기부에 둥근 혹이 있으며, 이 혹은 봄 번식기에 커진다. 암컷보다 몸이 조금 크다.",
+    "female": "부리 기부의 혹이 없거나 아주 작고 부리 색이 흐리며, 머리의 녹색 광택과 몸 색도 수컷보다 덜 선명하다. 얼굴과 멱에 흰 얼룩이나 갈색 기가 섞이기도 한다."
   },
-  "young": "TODO",
+  "young": "어린새는 가슴의 적갈색 띠와 몸의 검은 줄이 없고, 머리와 뒷목은 광택 없는 검은 갈색이며 이마와 눈앞에서 멱까지 희다. 등과 어깨깃은 회갈색, 아랫면은 희고, 부리는 어른새보다 흐린 회색빛 분홍색이다.",
   "similar": [],
   "art": {
     "subject": "Common Shelduck (Tadorna tadorna), adult male in winter, as seen on Korean estuary mudflats from November to March: head and upper neck blackish with a green gloss; lower neck and most of the body white; a broad chestnut band encircling the upper breast and upper back; a black stripe down the centre of the belly; scapulars black, forming a black stripe along each side of the back; primaries black; green speculum; inner tertials partly chestnut; undertail coverts pale cinnamon-orange. Bill bright red, with a rounded knob at the base that swells towards spring; dark eye; pink legs and feet.",
@@ -86,6 +95,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 1권(1922) – Common Sheldrake",
+      "url": "https://archive.org/details/naturalhistoryof01phi",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Sheld-Duck",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Sheldrake",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Ageing and Sexing(Aragon/Aranzadi) – Common Shelduck",
+      "url": "https://www.blascozumeta.com/specie_files/01730_ENG_Tadorna_tadorna_aranzadi.pdf",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – ツクシガモ",
+      "url": "https://www.birdfan.net/tadorna_tadorna/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Wikipedia(영어) – Common shelduck (Cramp 1986, Svensson 외 2023 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_shelduck",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

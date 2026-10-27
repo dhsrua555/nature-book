@@ -5,15 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Woodcock",
   "ktsn": 120000001691,
-  "origin": "nibr",
   "length": "약 34cm",
   "status": "나그네새·겨울철새, 해마다 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "낙엽활엽 관목 숲, 잡목 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 4월 상순~6월 하순에 알을 낳는다."
+    "note": "10월에 와서 이듬해 4월까지 보이고 9월이나 여름철에도 드물게 기록되며, 번식지에서는 4월 상순~6월 하순에 알을 낳는다."
   },
   "summary": "봄과 가을에 한반도를 드물게 지나가는 나그네새이지만, 겨울을 나는 개체도 드물지 않다. 홀로 또는 암수가 함께 지내며 밤에 활동한다. 낙엽활엽 관목 숲이나 잡목 숲의 나무뿌리 근처 오목한 땅에 낙엽과 마른풀로 접시 모양 둥지를 만들고 알 3~4개를 낳는다. 모족류, 곤충, 다족류, 갑각류, 연체동물과 열매를 먹으며, 유라시아 중북부에서 번식하고 아프리카 북부, 인도, 중국 남부, 한국, 일본 등지에서 겨울을 난다.",
   "points": [
@@ -82,9 +89,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 갤러리 – 멧도요",
+      "url": "http://www.birdskorea.or.kr/Gallery/Species/BK-GA-Scolopax-rusticola.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird News 2005년 2월 – 멧도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-02.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird News 2014년 8월 – 멧도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-08.shtml",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새: 어른새와 무엇이 다른지 실은 믿을 만한 자료를 찾지 못했다."
+  ],
   "occurrence": {
     "code": "P4, W4, SV2",
     "bs": "0",

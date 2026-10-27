@@ -5,16 +5,18 @@
   "author": "Pallas, 1769",
   "en": "Tufted Puffin",
   "ktsn": 120000533843,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "36–41cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "먼바다, 바닷가",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2014년 6월 전북 고창, 1933년 두만강 부근 기록은 달이 알려지지 않았다)."
   },
-  "summary": "TODO",
+  "summary": "지금까지 기록이 10건이 안 되는 길잃은새로, 1933년 함경북도 두만강 부근에서 처음 채집되었고 2014년 6월 전북 고창의 들판에서 탈진한 개체가 구조되었다. 북태평양의 오호츠크해·베링해 연안과 알래스카에서 캘리포니아에 이르는 섬에서 번식하며, 섬의 가파른 풀밭 비탈이나 벼랑 위에 굴을 파고 무리 지어 둥지를 튼다. 잠수해 까나리 같은 작은 물고기를 주로 잡고, 연체동물과 성게 같은 무척추동물도 먹는다.",
   "points": [
     {
       "ko": "흰 얼굴(여름깃)",
@@ -38,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃과 비슷하나 노란 장식깃이 없고, 부리가 더 작고 가늘며 홈이 없다. 부리 색은 어른새보다 칙칙한 노란빛 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Tufted Puffin (Fratercula cirrhata), adult in breeding plumage: body entirely black, slightly browner on the underparts; face white like a mask from the bill base to behind the eye; long straw-yellow plumes springing from behind the eye and curving down the back of the head; huge, deep, laterally compressed bill, orange-red over most of its length with a pale yellowish-olive plate at the base of the upper mandible; pale iris surrounded by a red orbital ring; legs and feet bright orange-red.",
@@ -91,11 +93,52 @@
       "title": "USGS Patuxent Bird ID: Tufted Puffin",
       "url": "https://www.mbr-pwrc.usgs.gov/id/htmid/h0120id.html",
       "used": "교차 확인 (겨울깃: 어두운 얼굴, 깃 다발 없음, 부리 기부 노란 판 없음)"
+    },
+    {
+      "title": "Oiseaux.net – Tufted Puffin",
+      "url": "https://www.oiseaux.net/birds/tufted.puffin.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Ridgway (1887) A Manual of North American Birds – 댕기바다오리(Tufted Puffin)",
+      "url": "https://archive.org/details/manualofnorthame00ridg",
+      "used": "몸길이·해설·어린새"
+    },
+    {
+      "title": "Wikipedia(일본어) – エトピリカ (レッドデータブック2014·日本動物大百科 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%88%E3%83%94%E3%83%AA%E3%82%AB",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Tufted Puffin",
+      "url": "https://www.audubon.org/field-guide/bird/tufted-puffin",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Bent (1919) Life Histories of North American Diving Birds – 댕기바다오리(Tufted Puffin)",
+      "url": "https://archive.org/details/cu31924090252846",
+      "used": "사는 곳·해설·어린새"
+    },
+    {
+      "title": "국립생물자원관(Google Arts & Culture) – 댕기바다오리 표본",
+      "url": "https://artsandculture.google.com/asset/%EB%8C%95%EA%B8%B0%EB%B0%94%EB%8B%A4%EC%98%A4%EB%A6%AC/RAGgIHisHa3Hug",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Nakdong Estuary, July 8(2014) – 댕기바다오리(Tufted Puffin)",
+      "url": "https://www.birdskoreablog.org/?p=13131",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "Animal Diversity Web – Fratercula cirrhata",
+      "url": "https://animaldiversity.org/accounts/Fratercula_cirrhata/",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "1933년 두만강 부근 채집 기록의 달과, 2014년 고창 개체가 스스로 날아온 야생 개체인지(Birds Korea 는 6월 내륙 들판의 빈사 개체라 이례적이라고 적음) 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

@@ -5,14 +5,27 @@
   "author": "Linnaeus, 1758",
   "en": "Black Grouse",
   "ktsn": 120000001405,
-  "origin": "nibr",
   "length": "수컷 약 54cm, 암컷 약 41cm",
-  "status": "TODO",
+  "status": "북한 백두산 일대에 사는 텃새, 남한 기록 없음",
   "habitat": "백두산 고산 지대",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "북한 백두산 일대에서 한 해 내내 산다."
   },
   "summary": "국내에서는 백두산의 고산 지대에서만 사는 새다. 이곳의 아종 usuriensis 는 우수리와 중국 동북 지방 등지에도 분포하며, 종 전체로는 북유럽과 북아시아 등지에 산다.",
   "points": [
@@ -46,7 +59,7 @@
     "male": "온몸이 검고 머리·목·배에 푸른 광택이 있으며, 목둘레와 아래쪽 등, 허리에는 옅은 녹색 빛이 돈다. 날개에 흰 띠가 있고 아랫배와 넓적다리에는 회백색이 섞이며, 날개 아랫덮깃은 희다.",
     "female": "배는 회색을 띤 암갈색이고 깃털마다 검은 가로무늬와 얼룩무늬가 있다. 몸길이는 수컷보다 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 몸이 작다.",
   "similar": [],
   "art": {
     "subject": "Black Grouse (Lyrurus tetrix), adult male: all black with a strong blue gloss on the head, neck and breast; a bare red comb swelling above the eye; a white spot at the bend of the closed wing and a narrow white wing bar; pure white undertail coverts; the long outer tail feathers curve outward to form a lyre shape. Short, stout black bill; dark eye; legs feathered greyish brown down to the toes.",
@@ -83,17 +96,31 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Mori 1929, 鳥(Japanese Journal of Ornithology) 6(27) – 멧닭 한국 아종 기재(백두산 동쪽)",
+      "url": "https://www.jstage.jst.go.jp/article/jjo1915/6/27/6_27_100/_article/-char/en",
+      "used": "국내 상태, 번식 여부, 관찰 시기"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Black Grouse (Tetrao tetrix)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130527",
+      "used": "어린새"
+    },
+    {
+      "title": "NatureGate(Luontoportti) – Black Grouse",
+      "url": "https://luontoportti.com/suomi/en/linnut/black-grouse",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "원문 분포에 북아메리카가 들어 있으나 이 종은 북아메리카에 살지 않는 것으로 보여 summary에서 뺌, 확인 필요",
-    "‘둘째날개깃 기부와 끝은 흰색, 꼬리는 두 갈래’가 암컷 설명 뒤에 붙어 있어 암수 어느 쪽 특징인지 확인 필요",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "‘둘째날개깃 기부와 끝은 흰색, 꼬리는 두 갈래’는 Naturalis·NatureGate(암컷은 흰 날개띠와 살짝 갈라진 꼬리)로 보아 암컷 특징이다 — sexes.female 로 옮길지 검토",
+    "번식기(months.breed): 한국·중국 동북부의 산란 시기 자료를 찾지 못함(허베이 위창 연구는 번식기를 4~7월로만 제시)"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "남한 번식 기록 없음 · 북한 백두산 일대에 텃새로 산다"
 }

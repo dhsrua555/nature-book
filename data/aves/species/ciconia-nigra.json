@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Black Stork",
   "ktsn": 120000001510,
-  "origin": "nibr",
   "length": "약 95cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "농경지, 강 하구, 저수지, 하천, 풀이 우거진 습지",
@@ -14,8 +13,18 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다. 가을 이동기인 10~11월 기록이 가장 많고, 겨울을 나는 개체도 있다."
   },
   "summary": "아주 드물게 찾아와 겨울을 나거나 지나가는 황새류로, 농경지, 강 하구, 저수지, 하천, 풀이 무성한 습지에 산다. 논이나 하천, 얕은 물가에 내려 어류와 양서·파충류를 주로 잡아먹고, 그 밖의 시간에는 나무 위나 절벽에서 쉰다. 알은 3~5개 낳으며, 유라시아 대륙의 온대와 남아프리카에서 번식하고 인도와 중국 남부에서 겨울을 난다. 국내에서는 서해안을 매우 드물게 지나가며, 겨울에 주남저수지, 내성천, 대동댐 등지에서 기록되었다.",
   "points": [
@@ -80,6 +89,11 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 먹황새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481909&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

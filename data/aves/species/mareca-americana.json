@@ -5,15 +5,19 @@
   "author": "J.F.Gmelin, 1789",
   "en": "American Wigeon",
   "ktsn": 120000528783,
-  "origin": "nibr",
   "length": "약 48cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "논, 호수, 소택지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~7월에 알을 낳는다."
+    "note": "국내에서 기록된 달로, 홍머리오리 무리에 섞인 개체가 1월에 가장 많이 관찰되었다."
   },
   "summary": "겨울에 아주 드물게 찾아오는 오리로, 강원도 속초 청초호와 고성군, 제주도 성산포, 낙동강 하구 등지에서 겨울을 난다. 논, 호수, 소택지에서 지내며, 낮에는 소택지 풀숲에서 쉬다가 저녁부터 새벽까지 먹이를 찾는다. 물풀을 즐겨 먹고 물속 곤충과 조개류도 먹는다. 북아메리카 대륙 중서부에서 번식하며, 호수 가운데의 작은 섬이나 물가에서 떨어진 풀밭의 오목한 땅에 마른풀로 둥지를 짓고 크림빛 흰 알 8~13개를 24~25일 동안 품는다.",
   "points": [
@@ -39,7 +43,7 @@
     "male": "이마와 정수리 가운데가 희고, 양 눈 뒤에서 뒷머리까지 짙은 녹색 띠가 지나 뒤에서 만난다. 얼굴은 갈색빛 흰색에 검은 잔점이 있다.",
     "female": "홍머리오리 암컷과 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하다. 머리와 목은 어린 홍머리오리보다 붉은 기 없이 연한 크림빛 바탕에 검은 잔점이 있어 더 희끄무레하다.",
   "similar": [
     {
       "ko": "홍머리오리",
@@ -84,6 +88,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – American Widgeon",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – American Wigeon",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
     }
   ],
   "todo": [],

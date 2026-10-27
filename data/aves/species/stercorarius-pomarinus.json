@@ -5,16 +5,20 @@
   "author": "Temminck, 1815",
   "en": "Pomarine Jaeger",
   "ktsn": 120000001797,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "46–51cm",
   "status": "나그네새, 해마다 수백 마리 · 겨울에도 드물게 기록(10건 미만)",
-  "habitat": "TODO",
+  "habitat": "앞바다, 먼바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      8,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "6월과 겨울에도 드물게 기록된다."
   },
-  "summary": "TODO",
+  "summary": "해마다 수백 마리가 지나가는 나그네새로, 주로 8–10월에 동해 남부와 서해 섬 주변의 바다에서 관찰되며 겨울에도 드물게 기록된다. 북극권 툰드라에서 번식하며, 번식기에는 레밍 같은 작은 설치류를 주로 잡아먹는다. 바다에서는 갈매기류나 슴새류 같은 다른 바닷새를 쫓아가 먹이를 토하게 해서 빼앗거나 스스로 물고기를 잡고, 번식을 마치면 남반구 바다까지 내려가 겨울을 난다.",
   "points": [
     {
       "ko": "끝이 굽은 크고 무거운 부리",
@@ -42,11 +46,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 암컷은 가슴의 갈색 띠가 더 넓고 옆구리 무늬가 많은 경향이 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 대개 짙은 갈색이고 윗면 깃 끝에 담황색 테가 있으며, 위·아래꼬리덮깃과 아랫날개덮깃에 굵은 가로무늬가 뚜렷하다. 머리는 무늬 없이 어둡고, 가운데 꼬리깃은 짧고 끝이 둥글어 조금만 튀어나온다.",
+  "similar": [
+    {
+      "ko": "북극도둑갈매기",
+      "how": "넓적꼬리는 몸이 더 크고 육중하며, 어른새의 가운데 꼬리깃이 넓고 끝이 둥글게 비틀려 있고 검은 머리 모자가 부리 기부 아래까지 내려온다."
+    }
+  ],
   "art": {
     "subject": "Pomarine Jaeger (Stercorarius pomarinus), adult pale morph in breeding plumage, as seen off Korean coasts during spring passage in April-May: blackish-brown cap extending down below the gape over the face; cheeks and neck sides washed yellow; throat and belly white; a broad dark brown breast band, often mottled, and dark barring on the flanks; vent and undertail coverts dark brown; upperparts and wings uniform dark brown, with white shafts on the outer primaries forming a small white flash at the base of the primaries above and a larger white patch below; central tail feathers elongated into broad, blunt, twisted spoons; bill heavy, pale pinkish-grey on the basal two-thirds with a dark hooked tip; dark eye; black legs and feet.",
     "pose": "flying low over the sea in steady, gull-like flight, side view with the spoon-shaped tail projections visible",
@@ -102,10 +111,60 @@
       "title": "Wikipedia (de): Spatelraubmöwe (Birds of North America 인용)",
       "url": "https://de.wikipedia.org/wiki/Spatelraubmöwe",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Pomarine Jaeger",
+      "url": "https://www.oiseaux.net/birds/pomarine.jaeger.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Wikipedia(일본어) – トウゾクカモメ (山渓ハンディ図鑑7 新版 日本の野鳥 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%BE%E3%82%AF%E3%82%AB%E3%83%A2%E3%83%A1",
+      "used": "몸길이·해설·어린새"
+    },
+    {
+      "title": "コトバンク(ブリタニカ国際大百科事典·小学館の図鑑NEO) – トウゾクカモメ",
+      "url": "https://kotobank.jp/word/%E3%81%A8%E3%81%86%E3%81%9E%E3%81%8F%E3%81%8B%E3%82%82%E3%82%81-3160756",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 넓적꼬리도둑갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481609&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – Labbe pomarin",
+      "url": "https://www.oiseaux.net/oiseaux/labbe.pomarin.html",
+      "used": "해설"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920–24) – 넓적꼬리도둑갈매기(Pomarine Jaeger)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Pomarine Jaeger",
+      "url": "https://www.birdweb.org/birdweb/bird/pomarine_jaeger",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Bent (1921) Life Histories of North American Gulls and Terns – 넓적꼬리도둑갈매기(Pomarine Jaeger)",
+      "url": "https://archive.org/details/lifehistoriesof00bent",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Various West Coast Locations, June 9-13(2013) – 넓적꼬리도둑갈매기(Pomarine Jaeger)",
+      "url": "https://www.birdskoreablog.org/?p=9234",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Parasitic Jaeger",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019100",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

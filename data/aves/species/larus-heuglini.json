@@ -5,13 +5,21 @@
   "author": "Bree, 1876",
   "en": "Lesser Black-backed Gull (heuglini)",
   "ktsn": 120000001766,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "51–61cm",
   "status": "나그네새 수천 마리 · 겨울철새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "바닷가, 특히 갯벌",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
     "note": "국내에서는 겨울을 나며, 번식깃으로 꽤 늦게 갈아입고 한국재갈매기보다 한 달 이상 늦게 번식한다."
   },
@@ -35,10 +43,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 온몸이 짙은 갈색이고 셋째날개깃이 무늬 없이 짙으며 가장자리만 가늘게 희고, 큰날개덮깃에 짙은 띠가 있다. 날 때 안쪽 첫째날개깃에 옅은 창이 거의 없고 흰 허리와 넓은 검은 꼬리띠가 대비되며, 부리는 1월까지도 대개 검다.",
   "similar": [
     {
       "ko": "재갈매기",
@@ -92,6 +100,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Lesser Black-backed Gull(heuglini·taimyrensis)",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/017700",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Oiseaux.net – Goéland de Sibérie(Larus fuscus heuglini)",
+      "url": "https://www.oiseaux.net/oiseaux/goeland.de.siberie.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Moores(2003) – The 'Herring Gull' Assemblage in South Korea 1쪽: Taimyr Gull·Heuglin's Gull",
+      "url": "https://web.archive.org/web/20060829033228/http://www.birdskorea.org/lwhgid.asp",
+      "used": "어린새, 관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – Lesser Black-backed Gull(L. fuscus, heuglini·taimyrensis 포함)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481174&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Ridgway, The Birds of North and Middle America 8부(1919) – Larus affinis(Siberian Gull)",
+      "url": "https://archive.org/details/cu31924022528107",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus affinis",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

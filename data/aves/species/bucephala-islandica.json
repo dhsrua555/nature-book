@@ -5,7 +5,6 @@
   "author": "Gmelin, 1789",
   "en": "Barrow's Goldeneye",
   "ktsn": 120000001468,
-  "origin": "nibr",
   "length": "42–51cm",
   "status": "드문 미조",
   "habitat": "해안(겨울), 호숫가의 숲(번식지)",
@@ -42,7 +41,7 @@
     "male": "눈 앞에 흰 점이 있다.",
     "female": "머리는 갈색, 목은 흰색, 몸은 회색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷해, 첫해 수컷도 갈색 머리에 회색 몸으로 암컷처럼 보인다.",
   "similar": [
     {
       "ko": "흰뺨오리",
@@ -82,15 +81,26 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Sea Duck Joint Venture, Sea Duck Information Series – Barrow's Goldeneye",
+      "url": "https://seaduckjv.org/wp-content/uploads/2015/01/bago_sppfactsheet.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Bucephala islandica",
+      "url": "https://animaldiversity.org/accounts/Bucephala_islandica/",
+      "used": "어린새, 번식 여부"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "국내 기록(날짜·장소)을 찾지 못하고 iNaturalist 한국 관찰도 없어 관찰 시기(months.seen)를 채우지 못했다"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

@@ -5,8 +5,7 @@
   "author": "Temminck, 1836",
   "en": "Japanese Murrelet",
   "ktsn": 120000001810,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "24–26cm",
   "status": "여름철새 수백 마리 · 텃새 수십 마리",
   "habitat": "일부 섬(번식지)",
   "protect": [
@@ -28,7 +27,13 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "note": "국내 번식지에서는 2월 하순부터 5월 상순 사이에 알을 낳고, 새끼는 깬 지 1–2일 만에 어미를 따라 바다로 나간다."
   },
   "summary": "우리나라의 일부 섬에서 번식하는 텃새로, 국내 번식 집단은 아주 작은 것으로 알려져 있다. 주된 번식지는 일본 동남부이다. 갑각류나 작은 물고기 등을 즐겨 먹으며, 먹이 부족과 다른 종의 포식이 개체 수가 줄어드는 원인이 되고 있다.",
   "points": [
@@ -41,8 +46,13 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새 겨울깃과 비슷해 댕기가 없고 멱이 희며, 머리와 윗면이 더 갈색을 띤다.",
+  "similar": [
+    {
+      "ko": "바다쇠오리",
+      "how": "번식깃에서 머리에 검은 댕기가 있고 머리 옆 흰 줄이 눈 앞까지 이어지며, 멱 아래쪽이 검지 않고 부리가 조금 더 길다."
+    }
+  ],
   "art": {
     "subject": "Japanese Murrelet (Synthliboramphus wumizusume), adult in breeding plumage, as seen at sea around Korean breeding islets from about February to May: head black with a short, loose tuft of black crest plumes on the crown, angled back towards the nape; a broad white stripe starts above each eye and runs back along the sides of the crown to meet the other on the nape, so the black crown is framed by white; face and chin black, but the lower throat and foreneck white, not black; upperparts dark bluish-grey; underparts white; short, thick pale bluish-grey bill; dark brown eye.",
     "pose": "swimming on the sea, side view",
@@ -85,9 +95,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Japanese Murrelet",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019400",
+      "used": "몸길이·어린새·비슷한 종"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Japanese Murrelet, 소개",
+      "url": "https://birdsoftheworld.org/bow/species/japmur1/cur/introduction",
+      "used": "몸길이·어린새·번식기"
+    },
+    {
+      "title": "コトバンク(ブリタニカ国際大百科事典·朝日キーワード) – カンムリウミスズメ",
+      "url": "https://kotobank.jp/word/%E3%81%8B%E3%82%93%E3%82%80%E3%82%8A%E3%81%86%E3%81%BF%E3%81%99%E3%81%9A%E3%82%81-3148305",
+      "used": "몸길이·번식기·관찰 시기"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 신안 구굴도 바닷새류(뿔쇠오리·바다제비·슴새) 번식지",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005664",
+      "used": "번식기·관찰 시기"
+    },
+    {
+      "title": "Wikipedia(일본어) – カンムリウミスズメ (小野 2014 등 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%A0%E3%83%AA%E3%82%A6%E3%83%9F%E3%82%B9%E3%82%BA%E3%83%A1",
+      "used": "번식기·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "서울신문(2023.2.24) – 뿔쇠오리, 마라도 둥지 잃으면 돌아오지 않는다",
+      "url": "https://m.seoul.co.kr/news/2023/02/24/20230224500006",
+      "used": "번식기"
+    },
+    {
+      "title": "Ridgway (1887) A Manual of North American Birds – 뿔쇠오리(Japanese Murrelet)",
+      "url": "https://archive.org/details/manualofnorthame00ridg",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "암수 구별을 직접 적은 자료를 두 곳 이상 찾지 못해 비워 두었다"
+  ],
   "occurrence": {
     "code": "S4, R5",
     "bs": "1",

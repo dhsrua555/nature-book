@@ -5,16 +5,22 @@
   "author": "Lönnberg, 1931",
   "en": "Relict Gull",
   "ktsn": 120000528808,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "39–45cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하구 바깥쪽의 모래·펄 갯벌, 바닷가 모래밭",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "11월 하순부터 이듬해 3월 초까지 보이며, 4월까지 남는 개체도 드물게 있다."
   },
   "summary": "동아시아 전역에 사는 갈매기과 철새로, 적호갈매기라고도 부른다. 카자흐스탄, 러시아, 몽골의 일부 지역에서 번식하는데, 번식지의 물 양이 달라지면서 번식 성공률이 낮다. 러시아와 중국에서는 사람의 방해와 나쁜 날씨로 번식지 여건이 나빠지고 있다.",
   "points": [
@@ -35,7 +41,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 머리가 거의 희고 뒷목에 짙은 줄무늬 띠가 있으며, 등은 옅은 회색이고 셋째날개깃 가운데가 어둡고 날개덮깃에 갈색 기가 돈다. 날 때는 바깥쪽 첫째날개깃과 꼬리 끝의 띠가 짙은 갈색으로 보인다.",
   "similar": [],
   "art": {
     "subject": "Relict Gull (Ichthyaetus relictus), adult in winter plumage, as seen on Korean west-coast tidal flats in winter: head white with fine dusky grey streaking on the rear crown and nape; dark eye; neck, underparts and tail white; mantle and upperwings pale grey; outer primaries black with white tips and small white mirrors; bill short and thick, dark red; legs dark red.",
@@ -77,9 +83,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Relict Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016700",
+      "used": "몸길이, 사는 곳, 어린새"
+    },
+    {
+      "title": "Oiseaux.net – Mouette relique(Relict Gull)",
+      "url": "https://www.oiseaux.net/oiseaux/mouette.relique.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Moores(2005) – Relict Gull: A Little Known Tidal-flat Specialist",
+      "url": "http://www.birdskorea.org/Birds/Miscellaneous/BK-BM-Relict-Gull.shtml",
+      "used": "사는 곳, 어린새, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 Moores(2017) – Globally Threatened Bird Forum: Relict Gull",
+      "url": "https://www.birdskoreablog.org/?p=19511",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 고대갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=8179135&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "암수 구별: 일본 도감을 옮긴 위키백과(일본어)에만 '雌雄同色'으로 나오고 이를 확인할 독립 자료 두 곳을 찾지 못해 TODO로 둠"
+  ],
   "occurrence": {
     "code": "WV1",
     "bs": "0",

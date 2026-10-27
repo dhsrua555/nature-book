@@ -5,13 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Black-legged Kittiwake",
   "ktsn": 120000001779,
-  "origin": "nibr",
   "length": "41cm",
   "status": "나그네새 수만 마리 · 겨울철새 수천 마리",
   "habitat": "강원도 동해안(월동지), 섬 해안과 암초의 절벽(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식지에서는 5~6월에 알을 낳는다."
   },
@@ -43,10 +49,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새(첫겨울)는 회색 윗날개에 검은 'M'자 무늬가 뚜렷하고 뒷목에 검은 띠가 있으며, 부리가 검다.",
   "similar": [],
   "art": {
     "subject": "Black-legged Kittiwake (Rissa tridactyla), adult in winter, as seen off the Gangwon coast from November to March: white head with a dark grey smudge behind the eye and a grey wash on the hindneck; back and upperwings medium grey, paling towards the outer wing; wingtips solid black as if dipped in ink, with no white mirrors; underparts and tail white. Bill plain pale yellow, unmarked. Dark eye. Short black legs.",
@@ -88,6 +94,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Black-legged Kittiwake",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016000",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Black-legged Kittiwake",
+      "url": "https://www.audubon.org/field-guide/bird/black-legged-kittiwake",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Black-legged Kittiwake",
+      "url": "https://www.birdweb.org/Birdweb/bird/black-legged_kittiwake",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 세가락갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481205&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 조류 소식 정리 – Black-legged Kittiwake",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2004년 10월 – Black-legged Kittiwake(소청도)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-10.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

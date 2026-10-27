@@ -5,15 +5,22 @@
   "author": "Güldenstädt, 1774",
   "en": "Terek Sandpiper",
   "ktsn": 120000001721,
-  "origin": "nibr",
   "length": "23cm",
   "status": "나그네새 수만 마리 · 여름철새 수백 마리",
   "habitat": "간석지, 염전, 논, 하구 삼각주, 습지의 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 하순~6월 중순에 알을 낳는다."
+    "note": "4–5월과 7–10월에 지나가고 여름에도 일부가 머물며, 번식지에서는 5월 하순~6월 중순에 알을 낳는다."
   },
   "summary": "봄과 가을에 국내를 흔하게 지나가는 나그네새로, 갯벌·염전·논·하구 삼각주와 습지 풀밭에서 지낸다. 무리를 지어 다니며 게를 비롯한 갑각류를 주로 먹는다. 유라시아 대륙 북부에서 번식해 알 4개를 낳고, 인도·동남아시아·호주에서 겨울을 난다.",
   "points": [
@@ -42,7 +49,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 윗면이 더 어둡고 갈색을 띠며 깃 가장자리가 가늘게 담황색이고, 어른새처럼 어깨깃에 검은 무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Terek Sandpiper (Xenus cinereus), adult in breeding plumage, as seen on Korean tidal flats during spring migration (late April–May): head, neck and upperparts pale brownish-grey with fine dark shaft streaks; a bold blackish line along each side of the back formed by the black centres of the upper scapulars; faint whitish supercilium in front of the eye; neck sides and upper breast washed grey-brown with fine dark streaks; rest of the underparts clean white. Bill long and black with a dull yellowish-orange base. Dark eye with no eye-ring. Short orange-yellow legs.",
@@ -83,6 +90,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩관조회(HKBWS) The Avifauna of Hong Kong – 뒷부리도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0100/014300",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – 뒷부리도요",
+      "url": "https://www.oiseaux.net/birds/terek.sandpiper.html",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 갤러리 – 뒷부리도요",
+      "url": "http://www.birdskorea.or.kr/Gallery/Species/BK-GA-Xenus-cinereus.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird News 2005년 6월 – 뒷부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-06.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

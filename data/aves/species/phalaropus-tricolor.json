@@ -5,14 +5,13 @@
   "author": "Vieillot, 1819",
   "en": "Wilson's Phalarope",
   "ktsn": 120000001749,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "22–24cm",
   "status": "TODO",
   "habitat": "온화한 내륙 물가, 얕은 민물 늪, 호수, 연못, 염분 있는 호수",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "몸이 가늘고 다리가 긴 중소형 도요새이다. 대초원 같은 탁 트인 곳의 얕은 민물 늪이나 온화한 내륙 물가에서 번식하고, 호수나 연못에서 겨울을 난다. 이동할 때나 겨울에는 소금기 있거나 알칼리성인 호수에 모인다. 미시간, 온타리오 서부, 미네소타, 캘리포니아 동부, 오리건 중부, 워싱턴, 브리티시컬럼비아, 콜로라도 남부, 애리조나 중부 등지에서 번식하고, 아마존강 부근을 뺀 남아메리카와 아르헨티나 등에서 겨울을 난다.",
   "points": [
@@ -46,7 +45,7 @@
     "male": "정수리가 어둡고 윗면은 회갈색이며, 윗가슴에 밤색 기가 조금 돌고 아랫면은 흰색이다.",
     "female": "수컷보다 밝은 색을 띤다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 흑갈색이고 깃마다 담황색 가장자리가 있어 비늘무늬처럼 보이며, 아랫면은 희다.",
   "similar": [],
   "art": {
     "subject": "Wilson's Phalarope (Phalaropus tricolor), adult female in breeding plumage, as seen in spring: crown and hindneck pale silvery grey; a black stripe from the bill base through the eye and down the side of the neck, turning deep wine-chestnut on the lower neck; white throat, with a warm orange-buff wash on the foreneck; back and scapulars grey with two long wine-chestnut stripes; wings grey-brown; underparts white; rump white. Long, needle-thin black bill; dark eye; black legs.",
@@ -80,16 +79,46 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "New Zealand Birds Online – 큰지느러미발도요",
+      "url": "https://www.nzbirdsonline.org.nz/species/wilsons-phalarope",
+      "used": "몸길이·어린새·번식기"
+    },
+    {
+      "title": "Animal Diversity Web – 큰지느러미발도요",
+      "url": "https://animaldiversity.org/accounts/Phalaropus_tricolor/",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – 큰지느러미발도요",
+      "url": "https://www.oiseaux.net/birds/wilson.s.phalarope.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 큰지느러미발도요",
+      "url": "https://www.audubon.org/field-guide/bird/wilsons-phalarope",
+      "used": "어린새"
+    },
+    {
+      "title": "영어 위키백과 – 큰지느러미발도요",
+      "url": "https://en.wikipedia.org/wiki/Wilson%27s_phalarope",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 조류목록 개정 제안(큰지느러미발도요 1996년 기록)",
+      "url": "https://www.birdskoreablog.org/?p=16251",
+      "used": "번식기"
     }
   ],
   "todo": [
     "원문 번식지 목록 첫머리의 '남아메리카 중앙·서부'는 월동지(남아메리카)와 겹치고 나머지 번식지(미시간·온타리오·캘리포니아 등)와 맞지 않아 요약에서 뺐다(북아메리카의 잘못으로 보임).",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "국내 상태·관찰 시기: 국내 기록은 1996년 10월 22일 부산 낙동강 하구 을숙도의 2마리 사진 기록 1건뿐인데, 새와 생명의 터는 사진이 애매해 판정을 보류(목록 6군)했다. 이를 뒷받침하거나 다른 기록을 실은 두 번째 자료를 찾지 못해 비워 두었다."
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

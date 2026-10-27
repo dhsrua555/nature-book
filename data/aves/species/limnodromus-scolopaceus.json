@@ -5,14 +5,24 @@
   "author": "Say, 1822",
   "en": "Long-billed Dowitcher",
   "ktsn": 120000001701,
-  "origin": "nibr",
   "length": "30cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "연안 갯벌, 내륙의 낮은 물가, 습지, 강 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달로, 봄(4–5월)과 가을(9–11월) 이동기에 주로 보이고 한겨울 기록도 있다."
   },
   "summary": "연안 갯벌과 내륙의 낮은 물가, 습지, 강 하구에서 관찰되는 도요새이다. 시베리아, 알래스카, 캐나다 등지에서 번식하고, 서태평양 해안과 일본에서 겨울을 난다.",
   "points": [
@@ -42,11 +52,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어깨깃·큰날개덮깃·셋째날개깃의 가운데가 무늬 없이 거무스름하고 가장자리만 가늘고 또렷하게 담황색을 띠어, 윗면이 어둡고 비늘무늬처럼 보인다.",
+  "similar": [
+    {
+      "ko": "큰부리도요",
+      "how": "큰부리도요는 몸이 훨씬 크고 다리가 검으며 부리 전체가 검고 굵다."
+    }
+  ],
   "art": {
     "subject": "Long-billed Dowitcher (Limnodromus scolopaceus), adult in winter (non-breeding) plumage, as seen on Korean wetlands in late autumn: crown and upperparts plain dark grey with narrow paler feather edges; a clear whitish supercilium above a dark loral stripe; face, neck and breast fairly uniform pale grey-brown; breast sides and flanks with some dark bars; belly white; undertail coverts barred dark; bill blackish with a dull greenish-buff base; dark eye; legs yellowish-green.",
     "pose": "standing at the water's edge, side view",
@@ -87,6 +102,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩관조회(HKBWS) The Avifauna of Hong Kong – 긴부리도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0100/013800",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – 긴부리도요",
+      "url": "https://www.audubon.org/field-guide/bird/long-billed-dowitcher",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "영어 위키백과 – 긴부리도요",
+      "url": "https://en.wikipedia.org/wiki/Long-billed_dowitcher",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "New Zealand Birds Online – 큰부리도요",
+      "url": "https://www.nzbirdsonline.org.nz/species/asiatic-dowitcher",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird Review 2003 – 긴부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird Review 2004 – 긴부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird Review 2006 – 긴부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird Review 2007 – 긴부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Bird Review 2008 – 긴부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

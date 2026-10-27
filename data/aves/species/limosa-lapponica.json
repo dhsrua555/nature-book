@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Bar-tailed Godwit",
   "ktsn": 120000155076,
-  "origin": "nibr",
   "length": "38.5–41cm",
   "status": "나그네새 수만 마리 · 여름철새 수십 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "해안 모래밭, 갯벌, 강 하구, 물 고인 논, 하천가",
@@ -13,9 +12,18 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 우리나라를 지나간다."
+    "note": "4~5월에 가장 많고, 번식하지 않는 수십 마리는 여름에도 머문다."
   },
   "summary": "봄과 가을에 흔하게 지나가는 나그네새이다. 해안의 모래밭, 갯벌, 강 하구, 물이 고인 논, 하천가에서 대개 큰 무리를 이루어 지내며 갑각류, 갯지렁이, 물속 곤충 등 여러 무척추동물을 잡아먹는다. 유라시아 대륙 북부와 알래스카 서부에서 번식하고 유럽, 아프리카, 중동, 동남아시아, 호주에서 겨울을 난다.",
   "points": [
@@ -49,8 +57,13 @@
     "male": "여름깃은 머리에서 배까지 적갈색이고 몸 윗면은 적갈색 반점이 있는 흑갈색이다.",
     "female": "수컷보다 크고 부리도 길며, 여름깃의 적갈색이 연하고 몸 윗면이 어둡게 보인다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "겨울깃 어른새와 비슷하나 전체가 담황색을 띠고, 어깨깃과 날개덮깃의 옅은 깃 가장자리가 넓어 얼룩덜룩해 보인다.",
+  "similar": [
+    {
+      "ko": "흑꼬리도요",
+      "how": "부리가 위로 휘었고, 날 때 날개띠가 거의 없으며 꼬리에 가로줄이 있다."
+    }
+  ],
   "art": {
     "subject": "Bar-tailed Godwit (Limosa lapponica), adult male in breeding plumage, as seen on Korean tidal flats during spring migration (April–May): head, neck and entire underparts to the belly deep rufous-chestnut, the crown finely streaked dark; mantle and scapulars blackish-brown with rufous notches and fringes; wing coverts greyer brown. Bill long (about one and a half times the head length), slightly upturned, mostly dark with a pinkish base. Dark eye. Long blackish legs.",
     "pose": "standing on a tidal flat, side view, the long slightly upturned bill shown in full",
@@ -91,6 +104,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Bar-tailed Godwit",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/011900",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Bar-tailed godwit",
+      "url": "https://www.nzbirdsonline.org.nz/species/bar-tailed-godwit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Bar-tailed Godwit",
+      "url": "http://www.oiseaux-birds.com/card-bar-tailed-godwit.html",
+      "used": "어린새"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Black-tailed godwit",
+      "url": "https://www.nzbirdsonline.org.nz/species/black-tailed-godwit",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

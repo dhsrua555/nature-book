@@ -5,16 +5,18 @@
   "author": "Montagu, 1813",
   "en": "Roseate Tern",
   "ktsn": 120000001784,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "33–41cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하구, 바닷가와 연안 바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2008년 6월 낙동강 하구에서 처음 기록된, 지금까지 기록이 10건이 안 되는 길잃은새이다. 바다 위를 날다가 물속으로 뛰어들어 작은 물고기를 잡는다. 바위나 모래로 된 작은 섬에서 무리 지어 번식하며, 동아시아에서는 일본 남서제도와 중국 동·남부 해안, 홍콩 등지에 여름에 와서 번식한다.",
   "points": [
     {
       "ko": "뒷목까지 내려오는 검은 머리(여름깃)",
@@ -42,11 +44,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 정수리와 뒷머리, 눈 뒤가 거무스름하고 이마에 얼룩이 있으며, 등과 어깨깃에 회갈색의 굵은 가로무늬가 있다.",
+  "similar": [
+    {
+      "ko": "제비갈매기",
+      "how": "긴꼬리제비갈매기는 몸빛이 더 희고, 앉았을 때 흰 꼬리깃이 날개 끝보다 훨씬 길게 나온다."
+    }
+  ],
   "art": {
     "subject": "Roseate Tern (Sterna dougallii), adult in breeding plumage, as a summer vagrant: glossy black cap from the bill base to the nape; upperparts and wings very pale silvery grey, paler than in other Sterna terns, the outermost two or three primaries darker grey and forming a narrow dark edge to the folded wingtip; rump and tail white, the outer tail feathers forming very long white streamers; underparts white with a delicate pink flush on the breast and belly. Bill long and slender, mostly red in summer, with black mainly along the upper mandible and at the tip (blackish only early in the season); dark eye; legs bright orange-red.",
     "pose": "standing on a rock with the long tail streamers clear of the wingtips, side view",
@@ -97,10 +104,41 @@
       "title": "RSPB — Roseate tern",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/roseate-tern",
       "used": "동정 포인트"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Common Tern",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018700",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Audubon Guide to North American Birds(Kaufman) – Roseate Tern",
+      "url": "https://www.audubon.org/field-guide/bird/roseate-tern",
+      "used": "사는 곳, 해설, 암수 구별"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN – ベニアジサシ",
+      "url": "https://www.birdfan.net/sterna_dougallii/",
+      "used": "해설"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 6 (1929) – Sterna dougalli korustes",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류 소식 2008년 6월 – Roseate Tern 첫 기록(낙동강 하구)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2008-06.shtml",
+      "used": "사는 곳, 해설, 관찰 시기, 비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 소식 정리 – Roseate Tern",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "해설, 관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 해설과 생김새는 국내외 자료로 채웠다",
+    "국내 기록 날짜는 2008년 6월 29일 낙동강 하구(2마리) 밖에 찾지 못했다(새와 생명의 터 2022 목록: 기록 1–9건)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

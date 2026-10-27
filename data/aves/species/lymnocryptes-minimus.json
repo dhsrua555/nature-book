@@ -5,8 +5,7 @@
   "author": "Brünnich, 1764",
   "en": "Jack Snipe",
   "ktsn": 120000001693,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "17–19cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "바닷가나 호숫가의 풀밭, 논, 하천, 습지",
   "protect": [],
@@ -96,10 +95,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "영국왕립조류보호협회(RSPB) – 꼬마도요",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/jack-snipe",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – 꼬마도요",
+      "url": "https://www.oiseaux.net/birds/jack.snipe.html",
+      "used": "몸길이"
     }
   ],
   "todo": [
-    "원문에 몸길이가 없고 날개길이 99~110mm, 꼬리길이 42~51mm, 부리 39~47mm만 있다"
+    "어린새: '어른새와 거의 같아 손에 잡아야 가려진다'는 자료(Oiseaux.net) 하나뿐이라 두 번째 자료가 필요하다.",
+    "관찰 시기: iNaturalist 한국 기록이 없고, 새와 생명의 터 소식의 2003년 5월 덕적도(주장 기록)·2014년 10월(가능성 기록) 말고는 확인된 국내 기록 달을 찾지 못했다."
   ],
   "occurrence": {
     "code": "V2",

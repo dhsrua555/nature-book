@@ -5,14 +5,21 @@
   "author": "Pallas, 1773",
   "en": "Pallas's Gull",
   "ktsn": 120000528803,
-  "origin": "nibr",
   "length": "60–72cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "해안, 강, 하구 등의 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
   "summary": "러시아와 중국에서 번식하고 미얀마 등지에서 겨울을 나는 큰 갈매기로, 우리나라에서는 미조로 이따금 관찰된다. 해안과 강, 하구 같은 습지에서 살며, 염습지 안의 작은 섬에서 번식한다. 죽은 물고기, 곤충, 작은 포유류, 새알, 파충류 등을 먹는다. 몸무게는 0.9~1kg이다.",
   "points": [
@@ -30,10 +37,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 머리가 희고 눈 둘레에서 뒤쪽으로 짙은 얼룩이 있으며, 회색 등과 갈색 날개덮깃이 대비된다. 흰 꼬리 끝에 넓은 검은 띠가 있고, 부리는 기부가 회색이며 끝쪽이 검다.",
   "similar": [],
   "art": {
     "subject": "Pallas's Gull (Ichthyaetus ichthyaetus), adult in breeding plumage, which it acquires in mid to late winter, as seen at Korean estuaries in February–March: jet-black hood over the head and throat, with bold white crescents above and below the eye; neck, underparts and tail white; mantle and upperwings pale grey; outer primaries largely white with a black subterminal band and small white tips; bill heavy, yellow at the base with a black subterminal band and an orange-red tip; dark eye; legs yellow.",
@@ -74,6 +81,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권 14–18부(1920–24) – Great Black-headed Gull",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Pallas's Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016800",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds 6권(1929) – Larus ichthyaetus",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 큰검은머리갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=8028588&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Southeast and South, December 27th–29th(고흥 기록)",
+      "url": "https://www.birdskoreablog.org/?p=28281",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Welcome Shorebirds: Songdo, March 7",
+      "url": "https://www.birdskoreablog.org/?p=14625",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Saunders, Catalogue of the Birds in the British Museum 25권(1896) – Larus ichthyaetus",
+      "url": "https://archive.org/details/catalogueofbirds25brit",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

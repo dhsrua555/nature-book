@@ -5,15 +5,18 @@
   "author": "Pallas, 1811",
   "en": "Long-billed Murrelet",
   "ktsn": 120000001807,
-  "origin": "nibr",
   "length": "25cm",
   "status": "겨울철새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "먼바다",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      12
+    ],
     "breed": [],
-    "note": "번식기는 4~6월이다."
+    "note": "번식지에서는 4–6월에 번식하며, 국내에서는 3–4월에도 드물게 보인다."
   },
   "summary": "국내에는 매우 드물게 찾아오는 겨울새로, 주로 먼바다에서 지내 해안에서는 보기 어렵다. 혼자 지내거나 10~15마리가 작은 무리를 이룬다. 번식기는 4~6월이며 고산 지대의 땅 위에 알을 1개 낳는다. 동해안 일대의 정치망 어업과 기름 유출로 인한 해양 오염 같은 외부 위협이 많다.",
   "points": [
@@ -90,9 +93,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 알락쇠오리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5229287&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – East Coast and Taebaek, January 11-15(2016) – 알락쇠오리(Long-billed Murrelet)",
+      "url": "https://www.birdskoreablog.org/?p=17608",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새와 암수 구별은 이 종(옛 마블드머렛 B. marmoratus 의 아종으로 다뤄지던 무리)을 따로 다룬 자료를 두 곳 이상 찾지 못해 비워 두었다"
+  ],
   "occurrence": {
     "code": "W5, SV2",
     "bs": "0",

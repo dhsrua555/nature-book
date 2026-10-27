@@ -5,16 +5,15 @@
   "author": "J.F.Gmelin, 1789",
   "en": "Cotton Pygmy Goose",
   "ktsn": 120000533848,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "30–34cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "물풀이 우거진 저수지와 연못",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건이 안 되는 길잃은새다. 물풀이 우거진 연못과 저수지, 수로에서 짝이나 작은 무리로 지내며, 땅 위로는 잘 나오지 않고 물 위에서 지내다가 이따금 나무에 앉는다. 물가 나무의 구멍에 둥지를 틀고 우기에 맞춰 번식한다. 인도와 스리랑카에서 동남아시아와 중국을 거쳐 뉴기니, 오스트레일리아 북동부까지 분포한다.",
   "points": [
     {
       "ko": "짧고 뭉툭한 부리",
@@ -42,10 +41,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "정수리가 어두운 갈색이고 얼굴과 목은 희며, 목 아래에 녹색 광택이 도는 검은 목테가 있고 등과 날개는 녹색 광택이 도는 어두운 갈색이다. 날 때 첫째날개깃의 넓은 흰 띠가 드러나며, 번식기가 지나 목테가 없어지고 암컷과 비슷해져도 이 흰 띠는 남는다.",
+    "female": "정수리가 갈색이고 눈을 지나는 갈색 눈선이 있으며, 목테가 없고 얼굴과 목에 갈색 잔무늬가 있다. 날개에 넓은 흰 띠가 없고 둘째날개깃 끝만 희다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 아랫면과 옆구리에 갈색 무늬가 많아 덜 희어 보인다.",
   "similar": [],
   "art": {
     "subject": "Cotton Pygmy Goose (Nettapus coromandelianus), adult male in breeding plumage, as on a lowland pond in early summer: forehead and crown blackish; face, head and neck white; a black, green-glossed collar around the base of the neck; back, scapulars and wings dark glossy green; breast and underparts white, the flanks finely vermiculated pale grey; tail blackish. Bill very short, stubby and black; legs and feet dark grey.",
@@ -91,11 +91,31 @@
       "title": "Wikipedia — Cotton pygmy goose (Rasmussen & Anderton 2005 인용)",
       "url": "https://en.wikipedia.org/wiki/Cotton_pygmy_goose",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 1권(1922) – Indian Pygmy Goose or Cotton Teal",
+      "url": "https://archive.org/details/naturalhistoryof01phi",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Cotton-Teal",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "몸길이·암수 구별·어린새·해설"
+    },
+    {
+      "title": "Whistler, Popular Handbook of Indian Birds 4판(1949) – Cotton-Teal",
+      "url": "https://archive.org/details/popularhandbooko033226mbp",
+      "used": "몸길이·암수 구별·사는 곳·해설"
+    },
+    {
+      "title": "Wikipedia(한국어) – 흰얼굴아기오리 (경남신문 2019 인용)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%9D%B0%EC%96%BC%EA%B5%B4%EC%95%84%EA%B8%B0%EC%98%A4%EB%A6%AC",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.seen: 2024년 5월 6일 신안 흑산도 사진 기록(iNaturalist 2건, 같은 개체)만 확인되고 다른 자료로 교차 확인하지 못함. 2019년 창원 주남저수지 수컷 기록(경남신문 2019-06-04 보도, 한국어 위키백과)은 관찰 달을 확인하지 못함"
   ],
   "occurrence": {
     "code": "V2",

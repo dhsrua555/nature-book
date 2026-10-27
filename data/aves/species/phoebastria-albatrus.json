@@ -5,7 +5,6 @@
   "author": "Pallas, 1769",
   "en": "Short-tailed Albatross",
   "ktsn": 120000001485,
-  "origin": "nibr",
   "length": "90cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
   "habitat": "해안, 거친 땅의 움푹한 곳이나 맨땅(번식지)",
@@ -33,7 +32,7 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
+  "young": "어린새는 온몸이 짙은 초콜릿빛 갈색이며, 자라면서 얼굴과 아랫면부터 차츰 흰 부분이 넓어져 어른 깃이 되기까지 여러 해가 걸린다.",
   "similar": [],
   "art": {
     "subject": "Short-tailed Albatross (Phoebastria albatrus), adult: head, neck and body white, with a golden-yellow wash over the crown, nape and hindneck; back white. Upperwing with black primaries and secondaries and a large white patch on the inner wing coverts joining the white back; tail white with a black tip. Underwing white with narrow black margins. Huge bright pink bill with a pale bluish hooked tip and a thin dark line around its base; dark eye; pale legs and webbed feet.",
@@ -73,9 +72,37 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Short-tailed Albatross",
+      "url": "https://www.audubon.org/field-guide/bird/short-tailed-albatross",
+      "used": "어린새"
+    },
+    {
+      "title": "U.S. Fish & Wildlife Service – Short-tailed albatross",
+      "url": "https://www.fws.gov/species/short-tailed-albatross-phoebastria-albatrus",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판(桐原 2000·高野 2007·真木·大西 2000 인용 부분) – アホウドリ(알바트로스)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%82%A6%E3%83%89%E3%83%AA",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Short-tailed Albatross",
+      "url": "https://www.birdweb.org/Birdweb/bird/short-tailed_albatross",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Diomedea albatrus",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "국내 기록(확인용, 칸은 비움)"
     }
   ],
-  "todo": [],
+  "todo": [
+    "관찰 시기: 국내 기록은 1885년 6월 2일 부산 앞 대한해협 표본(Austin 1948, Clark 1910 인용) 등 2000년 이전 것뿐이고 새와 생명의 터 2024 목록에서 검토 범주(R2A: 2000년 이전 기록만 있음)여서 비워 둠",
+    "암수 구별: 믿을 만한 자료 두 곳에서 확인하지 못해 비워 둠"
+  ],
   "wingspan": "2.1m",
   "occurrence": {
     "code": "V2",

@@ -5,14 +5,17 @@
   "author": "Gould, 1848",
   "en": "Oriental Plover",
   "ktsn": 120000155056,
-  "origin": "nibr",
   "length": "약 22.5cm",
   "status": "나그네새, 해마다 수십 마리",
   "habitat": "고원 호숫가의 자갈밭, 흐르는 냇가(번식지)",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      4
+    ],
+    "breed": [],
+    "note": "봄 이동기인 3월 중순~4월에 제주도 등 섬의 풀밭과 밭에서 주로 보인다."
   },
   "summary": "우리나라에서는 제주도, 강화도 등지에서 보인다. 번식지에서는 고원 호숫가의 자갈밭이나 흐르는 냇가에 살며, 땅 위를 가볍고 재빠르게 달리며 먹이를 찾고 칼새처럼 빠르고 힘차게 난다. 곤충을 즐겨 먹는다. 몽골과 바이칼 등지에서 번식하고 오스트레일리아에서 겨울을 난다.",
   "points": [
@@ -42,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "여름깃은 뒷머리의 갈색 부분을 빼고 머리와 목이 거의 흰색이며, 가슴의 밤색 띠 아래쪽에 넓은 검은 테가 있다.",
+    "female": "여름깃도 겨울깃과 비슷하게 머리가 갈색을 띤 담황색이고, 가슴은 밤색이 아닌 갈색이며 검은 테가 없다."
   },
-  "young": "TODO",
+  "young": "겨울깃 어른새와 비슷하나 몸 윗면 깃의 담황색 테가 더 넓고 뚜렷하며, 가슴에 얼룩무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Oriental Plover (Charadrius veredus), adult male in breeding plumage, as seen on Korean islands on spring passage (March–May): crown and hindcrown pale brown; forehead, lores, cheeks, chin and throat white, rear ear-coverts pale brown, a pale buff supercilium, so the whole head looks pale and white-faced; back, wings and tail pale grey-brown, the tail tipped white; a broad rusty-chestnut band across the upper breast bordered below by a black band; belly, flanks and undertail pure white. Slender black bill; dark eye; long dull yellow legs.",
@@ -85,10 +89,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "호주 정부 SPRAT 종 설명(Living Wonders 재수록) – Oriental Plover",
+      "url": "https://livingwonders.org.au/evidence/charadrius-veredus/",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Oriental Plover",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/011200",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Spring Migration, Jeju Island March – April(2022)",
+      "url": "https://www.birdskoreablog.org/?p=25815",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Mara-do, Jeju, March 15(2014)",
+      "url": "https://www.birdskoreablog.org/?p=11817",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "영어 위키백과(인용 도감 확인용) – Oriental plover(HANZAB 인용)",
+      "url": "https://en.wikipedia.org/wiki/Oriental_plover",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "원문에 국내 상태(텃새·철새 구분)가 없어 status 를 TODO 로 두었다"
+    "habitat 이 번식지 환경(고원 호숫가 자갈밭·냇가)만 적혀 있어, 국내에서 보이는 환경(제주도 등 섬의 풀밭·밭)으로 고칠 필요",
+    "summary 첫 문장에 국내 상태(해마다 수십 마리 지나가는 나그네새)가 없어 보완 필요"
   ],
   "occurrence": {
     "code": "P5",

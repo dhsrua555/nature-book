@@ -5,14 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Pintail",
   "ktsn": 120000001443,
-  "origin": "nibr",
   "length": "수컷 약 75cm, 암컷 약 53cm",
   "status": "겨울철새 수만 마리 · 나그네새 수천 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "강, 하구, 저수지 등의 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월부터 4월까지 머물며, 9월 하순이나 5월 초순에 보이기도 한다."
   },
   "summary": "겨울철 전국의 습지에서 볼 수 있는 흔한 겨울철새다. 강이나 하구, 저수지에 흔히 큰 무리를 이루며, 자맥질하여 물속 수초와 식물 씨앗을 먹는다. 유라시아 대륙 북부와 북아메리카에서 번식하고, 유라시아와 북아메리카의 온대에서 열대, 북아프리카에 걸쳐 겨울을 난다.",
   "points": [
@@ -42,7 +50,7 @@
     "male": "머리에서 뒷목까지 어두운 밤색이고 목 아래와 가슴은 희다. 몸은 회색, 아래꼬리덮깃은 검으며 그 경계가 연한 노란색이고, 검은 가운데 꼬리깃이 매우 길다.",
     "female": "전체적으로 갈색이며 부리가 검다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 아랫면 전체에 갈색 줄무늬와 반점이 많고 등의 깃 무늬가 덜 가지런하다. 어린 수컷은 날개거울이 어른 수컷처럼 빛나 암컷과 구별되며, 가을부터 차츰 수컷 깃이 난다.",
   "similar": [],
   "art": {
     "subject": "Northern Pintail (Anas acuta), adult male in winter, as seen on Korean reservoirs from October to March: head and hindneck dark chocolate-brown; a narrow white stripe running from the white foreneck up the side of the neck into the rear of the head; foreneck and breast white; mantle and flanks finely vermiculated grey; long black-and-cream scapulars drooping over the sides; a creamy-yellow patch on the rear flank in front of the black undertail coverts; very long, needle-like black central tail feathers. Bill blue-grey with a black central stripe and black tip; dark eye; grey legs.",
@@ -82,6 +90,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – Pintail",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Pintail",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Pintail",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Anas acuta",
+      "url": "https://animaldiversity.org/accounts/Anas_acuta/",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Northern pintail (Collins Bird Guide 인용)",
+      "url": "https://en.wikipedia.org/wiki/Northern_pintail",
+      "used": "어린새"
     }
   ],
   "todo": [],

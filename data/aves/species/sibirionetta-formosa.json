@@ -5,14 +5,22 @@
   "author": "Georgi, 1775",
   "en": "Baikal Teal",
   "ktsn": 120000528788,
-  "origin": "nibr",
   "length": "약 40cm",
   "status": "겨울철새, 해마다 10만 마리 이상 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "저수지, 강 등의 습지, 주변 농경지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "9월 하순부터 찾아오기 시작해 3월까지 머문다."
   },
   "summary": "국지적으로 흔한 겨울철새로, 대표적인 월동지에 큰 무리가 모이며 세계 월동 집단의 대부분이 한국에서 겨울을 난다. 낮에는 저수지나 강 같은 습지에서 쉬고, 밤이 되면 둘레의 농경지로 옮겨가 벼 낟알 등을 먹는다. 겨울에는 무리 짓는 성질이 강해 수만에서 수십만 마리가 큰 떼를 이룬다.",
   "points": [
@@ -94,8 +102,13 @@
     "male": "얼굴에 노란색, 녹색, 검은색이 어우러진 독특한 무늬가 있고 부리 기부에서 정수리까지 검다. 앞가슴은 황갈색, 몸 옆은 푸른빛 회색이며, 가슴 옆에 흰 세로줄이 있고 어깨깃이 길게 늘어진다. 아래꼬리덮깃은 검다.",
     "female": "전체가 갈색이고 부리 기부에 둥근 흰 점이 있으며, 목과 멱이 더 희다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 무늬가 더 흐릿하고 대비가 약하다. 어린 수컷은 가을부터 초겨울 사이에 몸깃이 수컷 깃으로 바뀌지만, 얼굴 무늬는 늦겨울까지 흐릿하게 남는다.",
+  "similar": [
+    {
+      "ko": "쇠오리",
+      "how": "암컷끼리 견주면 가창오리 암컷은 쇠오리보다 조금 크고 부리 기부에 둥근 흰 점이 뚜렷하다."
+    }
+  ],
   "art": {
     "subject": "Baikal Teal (Sibirionetta formosa), adult male in breeding plumage (worn through the Korean winter): crown and forehead black; face creamy yellow, split by a black stripe that drops from the eye to the black chin; a broad glossy green crescent from behind the eye to the nape, edged by a thin white line; breast pinkish-buff with small dark spots, ended by a vertical white bar at the side of the breast; flanks finely vermiculated blue-grey with a second vertical white bar at the rear; long drooping scapulars striped black, rufous and cream; black undertail coverts; dark grey bill; dark eye; grey legs.",
     "pose": "resting on open water within a large, tight flock, side view",
@@ -135,6 +148,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – Formosan Teal",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web – Anas formosa",
+      "url": "https://animaldiversity.org/accounts/Anas_formosa/",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(일본어) – トモエガモ",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A2%E3%82%A8%E3%82%AC%E3%83%A2",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Baikal teal (Dunn & Alderfer 2006 인용)",
+      "url": "https://en.wikipedia.org/wiki/Baikal_teal",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – トモエガモ",
+      "url": "https://www.birdfan.net/anas_formosa/",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

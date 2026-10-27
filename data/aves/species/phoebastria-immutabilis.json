@@ -5,16 +5,15 @@
   "author": "Rothschild, 1893",
   "en": "Laysan Albatross",
   "ktsn": 120000230685,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "79–81cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "육지에서 먼 바다",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 지금까지 기록이 10건이 안 되는 길잃은새이다. 번식기가 끝난 7~11월에는 북태평양을 넓게 떠돌며 일본 앞바다에서 베링해까지 이르고, 주로 대륙붕 바깥의 찬 바다에서 지낸다. 물 위를 헤엄치며 수면 가까이의 오징어를 주로 잡아먹고 물고기와 갑각류도 먹는다. 하와이 제도 북서부의 낮은 환초에서 대부분 번식하며, 일본 오가사와라 제도에서도 적은 수가 번식한다.",
   "points": [
     {
       "ko": "눈 둘레의 검은 얼룩",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같으나 부리가 회색빛을 띤다.",
   "similar": [],
   "art": {
     "subject": "Laysan Albatross (Phoebastria immutabilis), adult: head, neck, rump and underparts white; a dusky grey smudge in front of and around the eye gives a shadowed look; mantle, back and upperwings uniform blackish-brown; tail dark grey; underwing white with broad dark leading and trailing margins and variable dark blotches and streaks across the coverts. Bill pinkish to pale yellowish-pink with a dark grey tip; feet pinkish-flesh.",
@@ -96,11 +95,37 @@
       "title": "Laysan Albatross Identification – All About Birds (Cornell Lab)",
       "url": "https://www.allaboutbirds.org/guide/Laysan_Albatross/id",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Phoebastria immutabilis",
+      "url": "https://animaldiversity.org/accounts/Phoebastria_immutabilis/",
+      "used": "몸길이, 암수 구별, 해설"
+    },
+    {
+      "title": "위키백과 일본어판(Harrison 1985 Seabirds·三省堂 世界鳥名事典 인용 부분) – コアホウドリ(레이산알바트로스)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A2%E3%83%9B%E3%82%A6%E3%83%89%E3%83%AA",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Laysan Albatross",
+      "url": "https://www.birdweb.org/Birdweb/bird/laysan_albatross",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Laysan Albatross",
+      "url": "https://www.audubon.org/field-guide/bird/laysan-albatross",
+      "used": "사는 곳, 암수 구별, 해설"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Laysan Albatross(소개)",
+      "url": "https://birdsoftheworld.org/bow/species/layalb/cur/introduction",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록(날짜·곳)을 찾지 못해 비워 둠(새와 생명의 터 2022·2024 목록에는 기록 10건 미만, GBIF·iNaturalist 에 국내 관찰 없음)"
   ],
   "occurrence": {
     "code": "V2",

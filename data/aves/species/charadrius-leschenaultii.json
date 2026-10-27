@@ -5,15 +5,19 @@
   "author": "Lesson, 1826",
   "en": "Greater Sand Plover",
   "ktsn": 120000155055,
-  "origin": "nibr",
   "length": "약 21cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "해안 모래사장, 사구, 하구, 삼각주",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9
+    ],
     "breed": [],
-    "note": "번식지에서는 6월 상순경에 알을 낳는다."
+    "note": "주로 4~5월과 8~9월에 지나가고 여름에도 드물게 보이며, 번식지에서는 6월 상순쯤 알을 낳는다."
   },
   "summary": "매우 드물게 한반도를 지나가는 나그네새로, 해안 모래사장, 사구, 하구, 삼각주 등에 찾아온다. 작은 무리나 큰 무리를 짓거나 다른 물떼새 무리에 섞여, 몸을 위아래로 흔들며 걷거나 달리면서 먹이를 찾는다. 곤충과 작은 게 같은 동물성 먹이를 먹는다. 번식지에서는 호숫가 모래땅, 사막, 자갈 섞인 땅의 잔돌 사이에 접시 모양 둥지를 틀고 한배에 알 3개를 낳는다.",
   "points": [
@@ -43,11 +47,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "여름깃은 눈을 지나는 가면과 이마 띠가 검고, 뒷목과 가슴의 띠가 주황빛 밤색이다.",
+    "female": "가면과 이마 띠가 검지 않고 짙은 회갈색이며, 머리와 가슴의 밤색이 수컷보다 옅어 칙칙하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "겨울깃 어른새와 비슷하나 몸 윗면 깃에 가는 담황색이나 흰빛 테가 있고, 가슴에 담황색 기운이 돈다.",
+  "similar": [
+    {
+      "ko": "왕눈물떼새",
+      "how": "몸이 더 크고 부리가 길고 굵으며 다리가 길고, 다리 색이 대개 더 옅다."
+    }
+  ],
   "art": {
     "subject": "Greater Sand Plover (Charadrius leschenaultii), adult male in breeding plumage, as seen on Korean beaches on spring passage (April–May): forehead white with a black bar above it; a black mask through the lores, eye and ear-coverts; crown sides, hindcrown and hindneck rusty-orange, the centre of the crown grey-brown; cheeks below the mask, chin and throat white; a fairly narrow rusty-orange band across the upper breast, usually without a black upper border; back, wings and tail grey-brown, the outer tail feathers white-edged; belly, flanks and undertail white. Long, heavy black bill; dark eye; legs olive to greenish-grey.",
     "pose": "walking on sand with a bobbing motion, searching for food",
@@ -86,6 +96,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "호주 정부 SPRAT 종 설명(Living Wonders 재수록) – Greater Sand Plover",
+      "url": "https://livingwonders.org.au/evidence/charadrius-leschenaultii/",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Greater Sand Plover",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/011100",
+      "used": "어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "영어 위키백과(인용 도감 확인용) – Greater sand plover(Collins 인용)",
+      "url": "https://en.wikipedia.org/wiki/Greater_sand_plover",
+      "used": "암수 구별"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Greater sand plover",
+      "url": "https://www.nzbirdsonline.org.nz/species/greater-sand-plover",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

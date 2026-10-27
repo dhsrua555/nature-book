@@ -5,14 +5,24 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Shoveler",
   "ktsn": 120000528781,
-  "origin": "nibr",
   "length": "약 50cm",
   "status": "겨울철새, 해마다 수천 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "늪지대, 초원, 호수, 저수지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "9월 하순에 찾아오기 시작해 5월 초순까지 머문다."
   },
   "summary": "흔한 겨울철새로, 늪지대와 초원, 호수, 저수지에서 지낸다. 넓적한 부리로 물을 걸러 플랑크톤과 물속 곤충, 물풀 등을 먹는 수면성 오리다. 유라시아 대륙 북부와 북아메리카 북부에서 번식하고, 유럽 남부, 북아프리카, 인도, 동남아시아, 중국 남부, 한국, 북아메리카 남부 등지에서 겨울을 난다.",
   "points": [
@@ -46,7 +56,7 @@
     "male": "금속광택이 도는 청록색 머리에 등은 검고 가슴은 희며, 배 부분이 붉다. 부리는 검고 넓적하며 다리는 주황색이다. 변환깃에서는 부리 색이 암컷과 같아지지만 선명한 노란 눈과 밝은 날개덮깃으로 암컷과 구별된다.",
     "female": "다른 오리 암컷처럼 수수한 갈색이며, 눈은 갈색이고 부리는 검은빛 도는 갈색이다. 넓적한 부리로 다른 종과 쉽게 구별된다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 등의 깃 가장자리 무늬가 적어 고르게 보이고, 아랫면에 가는 갈색 줄무늬가 있다. 어린 수컷은 어린 암컷보다 날개덮깃이 푸르고 날개거울이 밝아 구별된다.",
   "similar": [],
   "art": {
     "subject": "Northern Shoveler (Spatula clypeata), adult male in breeding plumage, as seen on Korean reservoirs from November to April: head glossy dark bottle-green with a metallic blue-green sheen; bright golden-yellow eye; lower neck and breast white; flanks and belly rich chestnut; a white patch in front of the black undertail and rump; back black, the long scapulars striped black and white; tail dark with white sides. Very long, broad, spoon-shaped black bill; orange legs.",
@@ -87,6 +97,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 3권(1925) – Shoveller",
+      "url": "https://archive.org/details/naturalhistoryof31925phil",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Shoveler",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Shoveller",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
     }
   ],
   "todo": [],

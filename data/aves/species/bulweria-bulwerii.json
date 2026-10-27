@@ -5,16 +5,15 @@
   "author": "Jardine & Selby, 1828",
   "en": "Bulwer's Petrel",
   "ktsn": 120000001495,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "26–28cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "육지에서 먼 바다",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 지금까지 기록이 10건이 안 되는 길잃은새이다. 열대·아열대 바다에 널리 사는 작은 바닷새로, 번식기가 아니면 육지에서 먼 바다에서 홀로 지내며 수면 가까이 낮게 날다가 오징어와 작은 물고기를 잡는다. 섬의 바위틈이나 구멍에 무리 지어 둥지를 틀고 알을 1개 낳으며, 번식지에는 밤에 드나든다. 대서양 동부와 태평양 중·서부의 섬에서 번식하고, 가까이는 일본 남부와 타이완, 중국 동남부의 섬에서도 번식한다.",
   "points": [
     {
       "ko": "온몸 짙은 그을음빛 갈색",
@@ -88,11 +87,34 @@
       "title": "Bulwer's petrel - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Bulwer%27s_petrel",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Hawaii Birding Trails(하와이 주) – ʻOu, Bulwer's petrel",
+      "url": "https://hawaiibirdingtrails.hawaii.gov/bird/bulwers-petrel/",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 일본어판 – アナドリ(검은슴새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%89%E3%83%AA",
+      "used": "몸길이"
+    },
+    {
+      "title": "하와이 주 토지자연자원부(DLNR) 야생동물 행동계획(SWAP 2015) – ʻOu or Bulwer's Petrel",
+      "url": "https://dlnr.hawaii.gov/wildlife/files/2019/03/SWAP-2015-Bulwers-Petrel-Final.pdf",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "Birds of the World(Cornell) – Bulwer's Petrel(소개)",
+      "url": "https://birdsoftheworld.org/bow/species/bulpet/cur/introduction",
+      "used": "사는 곳, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설은 국외 종 설명 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록(날짜·곳)을 찾지 못해 비워 둠(GBIF·iNaturalist 에 국내 관찰 없음)",
+    "암수 구별: 하와이 주 야생동물 행동계획('암수 모두 온몸이 검은 갈색') 한 곳에서만 확인되어 비워 둠",
+    "어린새: 믿을 만한 자료를 찾지 못해 비워 둠"
   ],
   "occurrence": {
     "code": "V2",

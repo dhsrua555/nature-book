@@ -5,14 +5,13 @@
   "author": "Gmelin, 1789",
   "en": "Greater Yellowlegs",
   "ktsn": 120000001717,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "28–38cm",
   "status": "TODO",
   "habitat": "저지대 습지 주변, 툰드라, 아고산대 관목림, 물가",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": []
   },
   "summary": "저지대 습지 주변에서 툰드라, 아고산대 관목림까지 여러 곳에 사는 도요새이다. 물가에서 곤충, 연체동물, 십각류 등을 잡아먹는다. 물가 근처의 얕게 파인 곳에 둥지를 짓고 알 4개를 낳는다. 캐나다, 남아메리카 남부, 알래스카에 분포한다.",
   "points": [
@@ -26,11 +25,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면이 어른 겨울깃보다 짙은 흑갈색이고 깃 가장자리에 연한 황갈색·흰색 점무늬가 있으며, 목과 가슴에 갈색 세로줄이 더 굵고 촘촘하다.",
+  "similar": [
+    {
+      "ko": "청다리도요",
+      "how": "크기와 생김새가 청다리도요와 비슷하지만 다리가 선명한 노란색이다."
+    }
+  ],
   "art": {
     "subject": "Greater Yellowlegs (Tringa melanoleuca), adult in breeding plumage, as seen in spring: head and neck heavily streaked black on white; back and wing coverts dark grey-brown, spangled with black centres and neat white spots and notches; breast and flanks boldly marked with black spots and chevron bars; belly white. Square white rump; white tail finely barred grey. Long blackish bill; dark eye; long bright yellow legs.",
     "pose": "wading at the water's edge, picking insects from the surface",
@@ -64,10 +68,41 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "National Audubon Society Guide to North American Birds – Greater Yellowlegs",
+      "url": "https://www.audubon.org/field-guide/bird/greater-yellowlegs",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Tringa melanoleuca",
+      "url": "https://animaldiversity.org/accounts/Tringa_melanoleuca/",
+      "used": "몸길이, 번식기, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 24권(1896) – Totanus melanoleucus",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Greater Yellowshank(Tringa melanoleuca)",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Birds of the World(Cornell) 소개 – Greater Yellowlegs",
+      "url": "https://birdsoftheworld.org/bow/species/greyel/cur/introduction",
+      "used": "번식기"
+    },
+    {
+      "title": "Hartert, Die Vögel der paläarktischen Fauna 2권(1912–1921) – Tringa melanoleuca",
+      "url": "https://archive.org/details/dievgelderpal02hart",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록(2022·2024)에 실리지 않은 종이라 국내 상태·번식 여부를 대조하지 못했다",
+    "iNaturalist 에 2026년 3–5월과 9–10월 전북 고창 갯벌 관찰 18건(한 개체가 머문 것으로 보임)이 있으나 다른 자료로 확인하지 못해 관찰 시기·국내 상태를 비워 두었다"
   ],
   "occurrence": {
     "code": null,

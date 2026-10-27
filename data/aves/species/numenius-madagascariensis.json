@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1766",
   "en": "Far Eastern Curlew",
   "ktsn": 120000001710,
-  "origin": "nibr",
   "length": "58.5–61.5cm",
   "status": "나그네새 수천 마리 · 여름철새 수백 마리 · 겨울에도 드물게 기록",
   "habitat": "서남 해안 갯벌, 강 하구, 물 고인 농경지, 습초지",
@@ -13,9 +12,18 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 지나간다."
+    "note": "3~5월과 7~10월에 지나가며, 번식하지 않는 일부는 여름 동안 머문다."
   },
   "summary": "봄과 가을에 비교적 흔히 지나가는 나그네새이지만, 세계적으로는 매우 드문 새이다. 서남해안 갯벌과 강 하구, 물 고인 농경지와 습한 풀밭에 내려앉아 주로 게를 잡고 다른 갑각류와 갯지렁이도 즐겨 먹는다. 세계자연보전연맹 적색목록에 취약(VU)으로 올라 있고 전 세계 개체수는 32,000마리쯤으로 추정되는데, 서식지 파괴와 오염으로 크게 줄고 있으며 국내 갯벌 매립으로 중간 기착지가 줄어든 것도 위협이 된다. 시베리아 동북부와 중국 동북부에서 번식하고 필리핀, 뉴기니, 호주에서 겨울을 난다.",
   "points": [
@@ -37,7 +45,7 @@
     "male": "부리가 암컷보다 짧다.",
     "female": "부리가 수컷보다 길다."
   },
-  "young": "TODO",
+  "young": "어른새와 비슷하나 몸 윗면 깃에 흰 가장자리와 톱니 무늬가 많아 깔끔해 보이고, 아랫면의 세로줄이 가늘다.",
   "similar": [
     {
       "ko": "마도요",
@@ -84,6 +92,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Eastern curlew",
+      "url": "https://www.nzbirdsonline.org.nz/species/eastern-curlew",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Far Eastern Curlew",
+      "url": "http://www.oiseaux-birds.com/card-far-eastern-curlew.html",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Hwaseong Wetlands FNS and Adjacent Wetlands, July 21-25(2021)",
+      "url": "https://www.birdskoreablog.org/?p=25113",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,15 +5,19 @@
   "author": "Naumann, 1840",
   "en": "Glaucous-winged Gull",
   "ktsn": 120000001759,
-  "origin": "nibr",
   "length": "60–68cm",
   "status": "겨울철새, 해마다 수십 마리",
   "habitat": "해안의 염수 지역, 만, 강어귀, 섬, 바닷가, 개펄",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 말~7월에 알을 낳는다."
+    "note": "1월에 가장 많고, 11월과 4월에도 드물게 기록된다."
   },
   "summary": "해안의 짠물 지역과 만, 강어귀, 섬, 바닷가, 개펄에 사는 큰 갈매기이다. 알래스카에서는 큰 둥지를, 그 남쪽 지역에서는 그보다 작은 둥지를 틀고 5월 말~7월에 담황색 알 2~3개를 낳는다. 알은 26~28일 만에 깨고, 새끼는 깨어난 뒤 35~54일이면 날 수 있으며, 완전한 어른이 되기까지 4년이 걸리고 수명은 20년이다. 북태평양의 알래스카에서 워싱턴주에 걸쳐 분포한다.",
   "points": [
@@ -39,7 +43,7 @@
     "male": "암컷보다 몸이 크다.",
     "female": "수컷보다 몸이 작다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 온몸이 고른 회갈색에 연한 얼룩이 있고, 첫째날개깃과 꼬리도 몸과 비슷한 회갈색이어서 날개 끝이 검게 보이지 않는다. 부리는 온통 검고, 겨울이 지나며 깃이 바래 매우 옅어지기도 한다.",
   "similar": [],
   "art": {
     "subject": "Glaucous-winged Gull (Larus glaucescens), adult in winter plumage, as seen on Korean coasts from December to March: head and neck white with diffuse grey-brown smudging, heaviest on the hindneck; mantle and upperwing pale grey; primaries the same pale grey as the mantle or slightly darker, with white tips and small white mirrors and no black anywhere on the wingtip; underparts and tail white. Bill large, deep and yellow with a red spot near the tip of the lower mandible; iris dark brown; orbital ring purplish-pink; legs deep pink.",
@@ -81,12 +85,40 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Glaucous-winged Gull",
+      "url": "https://www.audubon.org/field-guide/bird/glaucous-winged-gull",
+      "used": "날개 편 길이"
+    },
+    {
+      "title": "Animal Diversity Web – Larus glaucescens",
+      "url": "https://animaldiversity.org/accounts/Larus_glaucescens/",
+      "used": "날개 편 길이, 어린새"
+    },
+    {
+      "title": "Oiseaux.net – Goéland à ailes grises(Glaucous-winged Gull)",
+      "url": "https://www.oiseaux.net/oiseaux/goeland.a.ailes.grises.html",
+      "used": "날개 편 길이"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Glaucous-winged Gull",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/017300",
+      "used": "어린새"
+    },
+    {
+      "title": "Ridgway, The Birds of North and Middle America 8부(1919) – Larus glaucescens",
+      "url": "https://archive.org/details/cu31924022528107",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 수리갈매기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481196&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [
-    "원문의 날개 편 길이 '약 137mm'는 몸길이 60~68cm인 새로서 단위가 틀린 것으로 보여 TODO 로 두었다."
-  ],
-  "wingspan": "TODO",
+  "todo": [],
+  "wingspan": "130–150cm",
   "occurrence": {
     "code": "W5",
     "bs": "0",

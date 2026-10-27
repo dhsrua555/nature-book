@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Black-throated Loon",
   "ktsn": 120000001479,
-  "origin": "nibr",
   "length": "72–78cm",
   "status": "겨울철새, 해마다 수천 마리 · 여름에도 드물게 기록",
   "habitat": "먼바다, 연안, 강 하류",
@@ -40,7 +39,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 겨울깃 어른새와 비슷하나 뒷목과 등이 더 갈색을 띠고, 등과 어깨깃에 옅은 깃 가장자리가 있어 흐린 비늘무늬처럼 보인다.",
   "similar": [
     {
       "ko": "회색머리아비",
@@ -85,6 +84,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "위키백과 영어판(HBW Alive, Carboneras & Garcia 2017 인용 부분) – Black-throated loon(큰회색머리아비)",
+      "url": "https://en.wikipedia.org/wiki/Black-throated_loon",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판(渡辺修治 2006, BIRDER 20(12) 인용 부분) – オオハム(큰회색머리아비)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%A0",
+      "used": "어린새"
     }
   ],
   "todo": [],

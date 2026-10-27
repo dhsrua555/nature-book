@@ -5,7 +5,6 @@
   "author": "Horsfield, 1821",
   "en": "Great Knot",
   "ktsn": 120000001729,
-  "origin": "nibr",
   "length": "28cm",
   "status": "나그네새 수만 마리 · 여름철새 수십 마리",
   "habitat": "갯벌, 하구, 염전",
@@ -13,9 +12,17 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 국내를 지나간다."
+    "note": "4~5월과 8~10월에 많이 지나가며, 여름에도 수십 마리가 남아 지낸다."
   },
   "summary": "봄과 가을에 국내를 비교적 흔하게 지나가는 나그네새로, 전국의 갯벌·하구·염전에서 보인다. 대개 무리를 지어 움직이고 혼자 지내는 일은 거의 없으며, 갯지렁이·조개·갑각류를 먹는다. 산악 암석지의 이끼 낀 오목한 곳에 둥지를 틀고 한배에 알 4개를 낳는다. 예전에는 서해안 갯벌에 아주 많은 수가 들렀으나 최근 크게 줄었고, 세계 집단이 290,000여 개체로 추정되지만 서식지 파괴로 감소가 심각해 세계자연보전연맹 적색목록에 취약종(VU)으로 올라 있다.",
   "points": [
@@ -45,11 +52,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 여름깃 암컷은 윗면의 적갈색 무늬가 조금 적은 편이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면이 흑갈색이고 깃 가장자리에 흰색~연한 황갈색 테가 뚜렷해 비늘무늬처럼 보이며, 가슴에 검은 반점이 촘촘하다.",
+  "similar": [
+    {
+      "ko": "붉은가슴도요",
+      "how": "붉은가슴도요는 몸이 작고 부리가 짧으며 여름깃 가슴이 적갈색이지만, 붉은어깨도요는 가슴에 검은 반점이 빽빽하다."
+    }
+  ],
   "art": {
     "subject": "Great Knot (Calidris tenuirostris), adult in breeding plumage, as seen on Korean west-coast tidal flats in April–May: head and hindneck whitish, densely streaked blackish; chin, throat and foreneck with small black spots; mantle blackish with whitish fringes; scapulars blackish with bright chestnut-rufous markings forming a contrasting rufous patch on each shoulder; wing coverts greyer; breast densely covered with large black spots merging into a dark breast band, with black chevron spots continuing along the flanks; belly and undertail white. Bill black. Dark eye. Legs dull dark grey-green.",
     "pose": "feeding in a dense flock on wet mudflat, probing for worms and shellfish",
@@ -90,6 +102,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe, Catalogue of the Birds in the British Museum 24권(1896) – Tringa crassirostris",
+      "url": "https://archive.org/details/catalogueofbirds24brit",
+      "used": "어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Hartert, Die Vögel der paläarktischen Fauna 2권(1912–1921) – Erolia tenuirostris",
+      "url": "https://archive.org/details/dievgelderpal02hart",
+      "used": "어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그, Various Sites, October 22nd-Nov 3rd(2018) – Great Knot",
+      "url": "https://birdskoreablog.org/?p=21313",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 한국 관찰 기록 – 붉은어깨도요",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_name=Calidris%20tenuirostris",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,14 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Wigeon",
   "ktsn": 120000528330,
-  "origin": "nibr",
   "length": "약 49cm",
   "status": "겨울철새 수만 마리 · 나그네새 수천 마리 · 여름에도 드물게 기록",
   "habitat": "해안, 강, 호수",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월부터 4월까지 많고 5월에도 지나가는 무리가 보이며, 여름에도 드물게 기록된다."
   },
   "summary": "흔한 겨울철새이자 나그네새로, 전국의 해안, 강, 호수에서 보인다. 수면성 오리로 낮에는 호수나 강 한가운데에서 쉬거나 물 위에서 식물 씨앗과 풀줄기 등을 먹고, 해안 가까이 사는 개체는 해초를 즐겨 먹는다. 유라시아 대륙 북부에서 번식하고 유라시아 대륙의 온대~아한대와 북아프리카에서 겨울을 난다.",
   "points": [
@@ -46,8 +55,13 @@
     "male": "머리는 적갈색, 이마는 노란색, 가슴은 분홍빛 갈색이며 몸은 대체로 회색이다. 흰 날개덮깃이 앉았을 때 흰 가로줄로 보이고 아래꼬리덮깃은 검다.",
     "female": "전체가 어두운 갈색이고 다른 오리 암컷보다 붉은 기가 돈다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암수 모두 암컷과 비슷하다. 어린 수컷은 첫 겨울에 머리와 몸이 수컷 깃으로 바뀌어도 날개덮깃은 어린 깃이 남아 회색빛을 띠므로, 어른 수컷의 큰 흰 날개 무늬는 이듬해 봄 이후에야 온전해진다.",
+  "similar": [
+    {
+      "ko": "아메리카홍머리오리",
+      "how": "아메리카홍머리오리 수컷은 이마가 희고 머리가 회백색 바탕에 눈 뒤로 녹색 띠가 있으며, 암컷은 머리가 더 잿빛이고 날 때 겨드랑이깃이 순백색이어서 잔무늬가 있는 홍머리오리 암컷과 다르다."
+    }
+  ],
   "art": {
     "subject": "Eurasian Wigeon (Mareca penelope), adult male in winter, as seen on Korean lakes and coasts from October to March: head and neck chestnut-red with a creamy-yellow forehead and crown stripe; breast pinkish-grey; back and flanks finely vermiculated grey; a white band along the side formed by the white wing coverts; a white patch on the rear flank in front of the black undertail coverts; tail dark grey, pointed. Short bill blue-grey with a black tip; dark eye; grey legs.",
     "pose": "swimming on open water, picking seeds and plant stems from the surface",
@@ -86,6 +100,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Phillips, A Natural History of the Ducks 2권(1923) – Widgeon·American Widgeon",
+      "url": "https://archive.org/details/naturalhistoryof02phil",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – Wigeon·American Wigeon",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Ageing and Sexing(Aragon/Aranzadi) – Eurasian Wigeon",
+      "url": "https://www.blascozumeta.com/specie_files/01790_ENG_Mareca_penelope_aranzadi.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Indian Ducks and Their Allies(1908) – Wigeon",
+      "url": "https://archive.org/details/indianduckstheir00bake",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web – Anas americana",
+      "url": "https://animaldiversity.org/accounts/Anas_americana/",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

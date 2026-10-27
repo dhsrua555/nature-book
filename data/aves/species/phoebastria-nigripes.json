@@ -5,16 +5,15 @@
   "author": "Audubon, 1839",
   "en": "Black-footed Albatross",
   "ktsn": 120000533850,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "68–74cm",
   "status": "길잃은새, 2022년 10월 이후 처음 기록되어 2024년 목록에 오름",
-  "habitat": "TODO",
+  "habitat": "육지에서 먼 바다",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "2022년 10월 이후 우리나라에서 처음 기록되어 2024년 목록에 오른 길잃은새이다. 북태평양 먼바다를 넓게 떠돌며 대륙붕이나 용승 해역에 많고, 배를 따라다니며 버려진 먹이를 줍기도 한다. 헤엄치면서 수면의 날치 알, 물고기, 오징어 등을 잡아먹는다. 대부분 하와이 제도 북서부에서 번식하고, 일본 도리시마와 오가사와라 제도 등에서도 적은 수가 번식한다.",
   "points": [
     {
       "ko": "부리 기부를 두른 흰 깃",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 온몸이 고르게 갈색이고 부리가 연한 갈색을 띠기도 한다. 나이를 먹을수록 부리 둘레의 흰 무늬가 넓어지고 꼬리덮깃에도 흰색이 생긴다.",
   "similar": [],
   "art": {
     "subject": "Black-footed Albatross (Phoebastria nigripes), adult: plumage almost entirely dark sooty brown; a white band encircling the base of the bill and a white crescent below and behind the eye; older birds show white on the uppertail coverts and undertail coverts; underwing dark brown. Bill dark grey-brown to blackish; legs and feet black.",
@@ -96,11 +95,32 @@
       "title": "クロアシアホウドリ - Wikipedia (ja)",
       "url": "https://ja.wikipedia.org/wiki/クロアシアホウドリ",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Phoebastria nigripes",
+      "url": "https://animaldiversity.org/accounts/Phoebastria_nigripes/",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Black-footed albatross",
+      "url": "https://nzbirdsonline.org.nz/species/black-footed-albatross",
+      "used": "몸길이, 어린새, 암수 구별, 해설"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Black-footed Albatross",
+      "url": "https://www.birdweb.org/Birdweb/bird/black-footed_albatross",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은발알바트로스(2024년 7월 14일 마라도, 확인용)",
+      "url": "https://www.gbif.org/occurrence/5584511401",
+      "used": "국내 기록(확인용, 칸은 비움)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록은 eBird 의 2024년 7월 14일 마라도 1마리만 찾았고 다른 자료(새와 생명의 터 기록 등)로 날짜를 확인하지 못해 비워 둠"
   ],
   "occurrence": {
     "code": "NEW24",

@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Bufflehead",
   "ktsn": 120000230684,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "32–40cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 석호, 잔잔한 만과 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2013년 1월 강원 속초 영랑호에서 수컷 한 마리가 처음 기록되었고, 2014–2015년 겨울까지 같은 곳에서 거듭 관찰된 길잃은새이다. 북아메리카에서 가장 작은 잠수성 오리로, 알래스카와 캐나다의 숲속 호수와 연못에서 번식하며 딱다구리가 파 놓은 나무 구멍에 둥지를 튼다. 겨울에는 주로 바닷가의 잔잔한 만과 하구에서 지내며, 작은 무리가 한꺼번에 잠수해 갑각류와 연체동물, 물속 곤충 등을 먹는다.",
   "points": [
     {
       "ko": "녹색·자주 광택의 검은 머리(수컷)",
@@ -34,10 +36,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리는 초록·보라 광택이 도는 검은색이고 눈 뒤에서 뒷머리까지 큰 흰 무늬가 있으며, 등은 검고 가슴과 옆구리, 배는 희다.",
+    "female": "몸이 회갈색이고 머리는 어두운 갈색이며, 눈 뒤 아래쪽에 작은 흰 무늬가 있다. 날개의 흰 무늬도 수컷보다 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷해 어두운 갈색 머리에 작은 흰 귀 무늬가 있다. 첫해 수컷도 암컷처럼 보이나 머리의 흰 무늬가 조금 더 크다.",
   "similar": [],
   "art": {
     "subject": "Bufflehead (Bucephala albeola), adult male in winter plumage, as worn from November to April: head black with a green and purple gloss, crossed by a large white patch that runs from just behind the eye over the back of the head; neck, breast, flanks and underparts white; back black; tail grey. Bill short, blue-grey; iris dark; legs and feet pink.",
@@ -87,10 +90,25 @@
       "title": "Ducks Unlimited Waterfowl ID – Bufflehead",
       "url": "https://www.ducks.org/hunting/waterfowl-id/bufflehead",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Kim et al. 2020, Journal of Species Research 9(4):532–535 – 국내 신기록 조류(꼬마오리)",
+      "url": "https://koreascience.kr/article/JAKO202034465347071.pdf",
+      "used": "사는 곳, 해설, 관찰 시기, 암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web – Bucephala albeola",
+      "url": "https://animaldiversity.org/accounts/Bucephala_albeola/",
+      "used": "몸길이, 해설, 어린새"
+    },
+    {
+      "title": "Sea Duck Joint Venture, Sea Duck Information Series – Bufflehead",
+      "url": "https://seaduckjv.org/wp-content/uploads/2015/01/buff_sppfactsheet.pdf",
+      "used": "어린새, 암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 본문은 국외 도감과 국내 신기록 논문(Kim et al. 2020)으로 채웠다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

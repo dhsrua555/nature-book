@@ -5,13 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Smew",
   "ktsn": 120000001470,
-  "origin": "nibr",
   "length": "약 42cm",
   "status": "겨울철새, 해마다 수천 마리",
   "habitat": "호수, 하천, 하구, 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": []
   },
   "summary": "겨울철 전국의 호수, 하천, 하구 같은 습지에서 흔히 보이는 겨울철새로, 작은 무리를 지어 지낸다. 잠수해 물고기, 조개류, 갑각류 등을 잡아먹는다. 유라시아 대륙의 아한대에서 번식하고 유럽, 카스피해, 인도 북부, 중국 동부, 한국, 일본에서 월동한다.",
@@ -46,7 +51,7 @@
     "male": "대체로 흰색이며 눈 둘레가 검고, 등과 가슴에 검은 줄이 있으며 머리 위에 짧은 댕기가 있다.",
     "female": "몸은 회색, 머리는 갈색이고 뺨과 앞목은 흰색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷처럼 머리꼭대기에서 뒷목까지 적갈색이고 뺨과 멱이 희나, 눈앞이 검지 않고 날개의 흰 무늬가 갈색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Smew (Mergellus albellus), adult male in breeding plumage, as seen on Korean lakes and rivers from November to March: mostly white plumage; a black patch around the eye extending forward to the bill base; a short white crest with a black V-shaped line at its rear on the nape; two thin black lines curving across the side of the breast; black back; scapulars white marked with black lines; flanks pale grey finely vermiculated; tail grey. Short dark grey bill with a slight hook; dark eye; grey legs.",
@@ -86,6 +91,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Smew (Mergellus albellus)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130454",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(독일어) – Zwergsäger",
+      "url": "https://de.wikipedia.org/wiki/Zwergs%C3%A4ger",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Smew (Madge & Burn 인용)",
+      "url": "https://en.wikipedia.org/wiki/Smew",
+      "used": "어린새"
     }
   ],
   "todo": [],

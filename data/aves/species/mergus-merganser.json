@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Common Merganser",
   "ktsn": 120000001472,
-  "origin": "nibr",
   "length": "약 65cm",
   "status": "겨울철새 수만 마리 · 텃새 수십 마리",
   "habitat": "호수, 댐, 하천, 저수지, 하구, 산간계곡",
@@ -64,7 +63,7 @@
     "male": "머리와 윗목은 녹색을 띤 검은색, 몸은 흰색, 등은 검은색이다.",
     "female": "머리와 윗목은 갈색이고 턱밑은 희며, 목의 흰 띠가 갈색 머리와 회색 몸을 가른다. 머리에 뒤로 뻗은 댕기깃이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 댕기가 짧고 머리의 적갈색이 옅으며, 가슴과 윗면의 회색도 더 칙칙하다.",
   "similar": [],
   "art": {
     "subject": "Common Merganser (Mergus merganser), adult male in winter, as seen on Korean rivers from November to March: head and upper neck black with a green gloss, the head smooth and rounded with a slight bulge at the nape but no crest; lower neck, breast, flanks and belly white, often with a faint salmon-pink tinge; mantle black; rump and tail grey. Long, slender, serrated red bill with a black hooked tip; dark eye; orange-red legs.",
@@ -104,6 +103,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Goosander (Mergus merganser)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130457",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Common merganser (HBW 1권·Madge & Burn 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_merganser",
+      "used": "어린새"
     }
   ],
   "todo": [],

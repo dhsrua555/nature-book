@@ -5,18 +5,27 @@
   "author": "Temminck, 1836",
   "en": "Streaked Shearwater",
   "ktsn": 120000001490,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 48cm",
   "status": "여름철새, 해마다 수만 마리",
   "habitat": "바다, 땅속에 판 굴(둥지)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "breed": [
       6,
       7
     ],
-    "note": "6~7월에 알을 낳는다."
+    "note": "3월 중순 무렵 번식하는 섬으로 돌아와 6~7월에 알을 낳고, 새끼는 10~11월에 둥지를 떠난다."
   },
   "summary": "우리나라에 해마다 수만 마리가 찾아와 번식하는 여름철새로, 바다에서 무리를 지어 지내며 울릉도와 제주도에서 관찰된다. 날개가 길어 제자리에서 바로 날아오르지 못하고, 나무나 벼랑 위에서 뛰어내리거나 달려가다가 떠오른다. 땅속에 굴을 파서 둥지를 만들고 6~7월에 흰 알 1개를 낳아 암수가 번갈아 품는다. 물고기, 오징어, 낙지, 해조류 등을 먹으며, 국외에서는 중국 해안에 분포한다.",
   "points": [
@@ -94,9 +103,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Streaked shearwater",
+      "url": "https://nzbirdsonline.org.nz/species/streaked-shearwater",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 일본어판(일본 도감 인용 부분) – オオミズナギドリ(슴새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%9F%E3%82%BA%E3%83%8A%E3%82%AE%E3%83%89%E3%83%AA",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판(Howell & Zufelt 2019 인용 부분) – Streaked shearwater",
+      "url": "https://en.wikipedia.org/wiki/Streaked_shearwater",
+      "used": "몸길이"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 슴새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481519&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Puffinus leucomelas(칠발도·서도 도래·이소 기록)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새: 호주조류표지연구회(ABSA) Bird in the Hand(HANZAB 인용)의 '어린새는 정수리가 더 희고 윗면 깃 끝의 흰 테가 넓다' 한 곳에서만 확인되어 비워 둠"
+  ],
   "occurrence": {
     "code": "S2",
     "bs": "1",

@@ -5,15 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "Black-tailed Godwit",
   "ktsn": 120000155073,
-  "origin": "nibr",
   "length": "36.5–38.5cm",
   "status": "나그네새, 해마다 수천 마리 · 여름에도 드물게 기록 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "물이 얕게 고인 논, 강 하구, 갯벌",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 우리나라를 지나간다."
+    "note": "5월과 9월에 가장 많고, 여름과 겨울에도 드물게 기록된다."
   },
   "summary": "봄과 가을에 흔하게 지나가는 나그네새이다. 물이 얕게 고인 논, 강 하구, 갯벌에서 무리 지어 먹이를 찾으며, 갯지렁이와 갑각류 같은 여러 무척추동물을 먹고 농경지에서는 볍씨도 먹는다. 유라시아 대륙 중부에서 번식하고 아프리카, 유럽 남부, 인도, 동남아시아, 호주에서 겨울을 난다.",
   "points": [
@@ -47,8 +52,13 @@
     "male": "번식깃은 몸 윗면에 검은색과 적갈색 반점이 있고 머리에서 앞가슴까지 적갈색이다.",
     "female": "수컷보다 크고 부리가 더 길며, 머리와 가슴의 붉은색이 수컷보다 연하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "겨울깃 어른새와 비슷하나 머리와 목, 가슴에 따뜻한 담황색(옅은 주황색) 기운이 돌고, 날개덮깃에 옅은 깃 가장자리가 있다.",
+  "similar": [
+    {
+      "ko": "큰뒷부리도요",
+      "how": "부리가 거의 곧고, 날 때 넓은 흰 날개띠와 흰 허리, 검은 꼬리가 뚜렷하다."
+    }
+  ],
   "art": {
     "subject": "Black-tailed Godwit (Limosa limosa), adult male in breeding plumage as seen in flooded Korean rice fields in April and May: head, neck and upper breast rich rufous-chestnut, the crown finely streaked dark and a paler supercilium in front of the eye; mantle and scapulars spotted and barred black and rufous, mixed with some plain grey feathers; wing coverts mostly plain grey-brown; lower breast and flanks white crossed by black bars; belly and vent white. Bill very long and straight, pinkish-orange on the basal half and black towards the tip; dark eye; legs long and blackish.",
     "pose": "wading in a shallow flooded rice field, side view, the long straight bill shown in full",
@@ -89,6 +99,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Black-tailed Godwit",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/012000",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "영어 위키백과(인용 도감 확인용) – Black-tailed godwit(Collins 인용)",
+      "url": "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Black-tailed Godwit",
+      "url": "http://www.oiseaux-birds.com/card-black-tailed-godwit.html",
+      "used": "어린새"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Black-tailed godwit",
+      "url": "https://www.nzbirdsonline.org.nz/species/black-tailed-godwit",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

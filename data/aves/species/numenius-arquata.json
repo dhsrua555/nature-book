@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Curlew",
   "ktsn": 120000001709,
-  "origin": "nibr",
   "length": "50–60cm",
   "status": "나그네새 수천 마리 · 겨울철새 수천 마리 · 여름철새 수백 마리",
   "habitat": "해안 갯벌, 하구, 물가",
@@ -49,7 +48,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같으나 가슴과 옆구리의 세로줄이 더 가늘고 적다.",
   "similar": [
     {
       "ko": "알락꼬리마도요",
@@ -95,6 +94,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "호주 정부 SPRAT 종 설명(Living Wonders 재수록) – Eurasian Curlew",
+      "url": "https://livingwonders.org.au/evidence/numenius-arquata/",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Eurasian Curlew",
+      "url": "http://www.oiseaux-birds.com/card-eurasian-curlew.html",
+      "used": "어린새"
     }
   ],
   "todo": [],

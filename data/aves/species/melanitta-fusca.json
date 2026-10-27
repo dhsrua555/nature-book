@@ -5,16 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "Velvet Scoter",
   "ktsn": 120000071195,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "51–58cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 앞바다, 만",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2021년 1월 경북 포항 영일만에서 검둥오리사촌 무리에 섞인 수컷 한 마리가 처음 확인된 길잃은새로, 동아시아 바닷가에서는 기록이 손꼽을 만큼 드물다. 유럽 북부에서 서시베리아에 걸친 북방의 물가에서 번식하고, 서유럽 바닷가와 흑해·카스피해 등지의 바다에서 무리를 지어 겨울을 난다. 바닷속으로 잠수해 조개 같은 연체동물과 작은 게 등 갑각류를 주로 먹는다.",
   "points": [
     {
       "ko": "눈 밑·뒤의 작은 흰 무늬(수컷)",
@@ -42,8 +46,9 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "온몸이 검고 눈 바로 아래에 작은 흰 초승달 무늬가 있으며, 검은 부리의 옆면이 노랗고 부리 기부에 작은 혹이 있다.",
+    "female": "온몸이 어두운 갈색이고 머리 옆에 흰빛 얼룩이 두 개 있으며, 부리는 검은빛이다. 날 때 보이는 둘째날개깃의 흰 무늬는 수컷과 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -111,11 +116,32 @@
       "title": "White-winged scoter - Wikipedia (bill knob comparison, cites Garner 2014; Reeber 2015)",
       "url": "https://en.wikipedia.org/wiki/White-winged_scoter",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Velvet Scoter (Melanitta fusca)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130449",
+      "used": "몸길이, 사는 곳, 해설, 암수 구별"
+    },
+    {
+      "title": "Borzée & Moores 2022, Nature Conservation Research 7(1) – 한국 첫 기록(노랑부리검둥오리사촌)",
+      "url": "https://doi.org/10.24189/ncr.2022.001",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "Birds Korea 블로그(2021-01-28, Nial Moores) – 포항 Velvet Scoter 기록",
+      "url": "https://www.birdskoreablog.org/?p=24045",
+      "used": "사는 곳, 해설, 관찰 시기, 암수 구별"
+    },
+    {
+      "title": "Birds Korea 블로그(2024-01-02) – 구룡포항 Velvet Scoter 추정 기록",
+      "url": "https://www.birdskoreablog.org/?p=28281",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 본문은 국외 도감과 국내 첫 기록 논문·Birds Korea 기록으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "어린새: Naturalis(Birds of Europe)에 '어린새는 암컷과 비슷하나 배가 더 희다'는 설명 하나만 찾아 두 번째 자료 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

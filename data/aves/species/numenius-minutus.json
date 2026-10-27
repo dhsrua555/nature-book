@@ -5,7 +5,6 @@
   "author": "Gould, 1841",
   "en": "Little Curlew",
   "ktsn": 120000001707,
-  "origin": "nibr",
   "length": "약 33cm",
   "status": "나그네새, 해마다 수십 마리",
   "habitat": "해안 갯벌, 하구, 내륙 물가의 트인 땅",
@@ -51,8 +50,13 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 정수리가 거의 흑갈색이어서 가운데 줄이 흐리고, 몸 윗면 깃의 담황색 무늬가 작고 옅어 잔 점무늬처럼 보이며, 가슴과 옆구리의 줄무늬가 옅다.",
+  "similar": [
+    {
+      "ko": "중부리도요",
+      "how": "몸이 훨씬 작고 부리가 짧고 덜 굽었으며, 날 때 등과 허리에 흰색이 없다."
+    }
+  ],
   "art": {
     "subject": "Little Curlew (Numenius minutus), adult as seen in Korea on spring passage (April–May; plumage similar all year): crown blackish-brown with a narrow buff central stripe; broad pale buff supercilium; pale lores and a thin dark brown stripe behind the eye; cheeks, neck sides and hindneck pale buff with fine dark streaks; chin and throat pale buff; upperparts blackish-brown with buff notches and fringes; breast buff finely streaked dark, belly whitish-buff with little marking; rump and tail brown, the tail barred blackish-brown; undertail coverts pale buff barred brown. Short, slightly decurved dark bill with a pinkish base to the lower mandible; dark eye; legs bluish-grey.",
     "pose": "walking on open ground near water, side view",
@@ -91,6 +95,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HANZAB 3권 발췌(New Zealand Birds Online) – Little Whimbrel",
+      "url": "https://www.nzbirdsonline.org.nz/assets/95597/1691911577-206_little-20whimbrel.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "호주 정부 SPRAT 종 설명(Living Wonders 재수록) – Little Curlew(Geering 외 2007 인용)",
+      "url": "https://livingwonders.org.au/evidence/numenius-minutus/",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Little Curlew",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/011600",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "New Zealand Birds Online(Te Papa) – Little whimbrel",
+      "url": "https://www.nzbirdsonline.org.nz/species/little-whimbrel",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
