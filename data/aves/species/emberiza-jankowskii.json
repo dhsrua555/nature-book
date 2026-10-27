@@ -5,9 +5,8 @@
   "author": "Taczanowski, 1888",
   "en": "Jankowski's Bunting",
   "ktsn": 120000002217,
-  "origin": "nibr",
-  "length": "TODO",
-  "status": "TODO",
+  "length": "16–17cm",
+  "status": "북한 북동부 두만강 가까이의 옛 기록뿐인 매우 드문 새, 남한 기록 없음",
   "habitat": "트인 곳의 작은 둔덕, 산기슭 덤불, 낮은 산골짜기, 강기슭 풀숲",
   "protect": [],
   "months": {
@@ -67,15 +66,44 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Oiseaux.net – Bruant de Jankowski(점박이멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.de.jankowski.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Taczanowski (1891) Faune ornithologique de la Sibérie orientale 1권 – Emberiza Jankowskii",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "몸길이"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Emberiza jankowskii",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "국내 상태·번식"
+    },
+    {
+      "title": "Tomek (2002) The birds of North Korea. Passeriformes, Acta Zoologica Cracoviensia 45 – Emberiza jankowskii",
+      "url": "https://azc.isez.pan.krakow.pl/article/116",
+      "used": "국내 상태·번식"
+    },
+    {
+      "title": "Yamashina (1957) Notes on Emberiza jankowskii, 北海道大學理學部紀要 13 – 점박이멧새",
+      "url": "https://hdl.handle.net/2115/27220",
+      "used": "국내 상태·번식"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "months.seen: 국내 기록은 1929년 10월 함경북도(만포/밤포) 표본 6점과 날짜 없는 삼지연 기록뿐이고 지금 상태를 알 수 없어(Tomek 2002) 볼 수 있는 달을 정하지 못했다",
+    "sexes: 암컷 생김새(배의 밤색 반점이 작거나 없음)는 Oiseaux.net 한 곳에서만 확인되었다(Taczanowski 1891·Dresser 1902는 수컷만 기재)",
+    "young: 어린새 생김새는 Oiseaux.net 한 곳에서만 확인되었다",
+    "지금 해설·번식기(5월)의 '4월에 찾아와 5월 하순에 알을 낳는다'는 국내 관찰이 아니라 만주 동부(둔닝) 번식지 기록(Yamashina 1957)과 같은 내용으로 보인다; 두만강 유역 번식 여부 확인 필요"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "남한 번식 기록 없음 · 북한에서의 번식은 확인된 기록이 없다"
 }

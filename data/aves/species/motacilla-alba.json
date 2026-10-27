@@ -5,13 +5,25 @@
   "author": "Linnaeus, 1758",
   "en": "White Wagtail",
   "ktsn": 120000002172,
-  "origin": "nibr",
   "length": "약 21cm",
   "status": "나그네새 10만 마리 이상 · 여름철새 수만 마리 · 겨울철새 수천 마리",
   "habitat": "지붕과 옥상, 냇가와 하천, 농경지, 구릉",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       4,
       5
@@ -42,10 +54,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "여름깃은 뒷머리에서 등·허리까지 새까맣다.",
+    "female": "등이 수컷보다 칙칙하거나 회색 깃이 섞이고, 첫 여름에는 머리꼭대기의 검은색에도 회색이 섞인다. 겨울깃에서는 암수 모두 등이 회색을 띠며 암컷이 더 회색이다."
   },
-  "young": "TODO",
+  "young": "머리꼭대기까지 등처럼 올리브빛이 도는 연한 회색이고 검은색이 없으며, 얼굴과 아랫면에 노란 기가 돌고 가슴의 검은 무늬가 작고 흐릿하다.",
   "similar": [
     {
       "ko": "백할미새",
@@ -92,6 +105,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – White Wagtail leucopsis(알락할미새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/053810",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – White Wagtail leucopsis(알락할미새)",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – White Wagtail leucopsis(알락할미새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%82%AF%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe (1885) Catalogue of the Birds in the British Museum 10권 – White Wagtail leucopsis(알락할미새)",
+      "url": "https://archive.org/details/catalogueofbirds10brit",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – White Wagtail leucopsis(알락할미새)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=9687165&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – White Wagtail leucopsis(알락할미새)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

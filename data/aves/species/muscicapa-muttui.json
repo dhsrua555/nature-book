@@ -5,16 +5,19 @@
   "author": "E.L. Layard, 1854",
   "en": "Brown-breasted Flycatcher",
   "ktsn": 120000505666,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 나무숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 제주 마라도에서 2022년 5월과 2024년 4월에 관찰된 기록이 있는 길잃은새이다. 숲 아래층의 낮은 가지에 조용히 앉아 있다가 날아올라 곤충을 잡으며, 번식지에서는 그늘진 숲의 개울가를 즐겨 찾는다. 인도 동북부와 미얀마 북부에서 중국 남서부·남부에 걸쳐 번식하고 인도 남서부와 스리랑카에서 겨울을 난다.",
   "points": [
     {
       "ko": "뚜렷한 눈테와 연한 눈앞",
@@ -38,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 갈색 윗면에 황갈색 점무늬가 있고, 가슴깃 가장자리가 검어 비늘무늬처럼 보인다. 첫해 개체는 큰날개덮깃 끝의 담황색 무늬가 어른새보다 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Brown-breasted Flycatcher (Muscicapa muttui), adult (sexes alike), a vagrant spring migrant in Korean island woodland: crown and face grey-brown with a whitish eye-ring and a whitish line from the bill to the eye; upperparts warm olive-brown, the rump and uppertail coverts more rufous; wings dark brown with rufous-buff fringes to the greater coverts and broad rufous edges to the tertials and secondaries; throat white; breast and flanks washed plain brown; belly white; tail warm brown with a rufous tinge. Bill fairly large and broad, upper mandible dark, lower mandible wholly pale yellowish; eye dark; legs pale pinkish-yellow.",
@@ -87,11 +90,37 @@
       "title": "Wikipedia: Brown-breasted flycatcher (cites Oates 1890; Rasmussen & Anderton 2005, Birds of South Asia)",
       "url": "https://en.wikipedia.org/wiki/Brown-breasted_flycatcher",
       "used": "동정 포인트·도해 모습 (연한 눈앞과 뚜렷한 눈테, 적갈색 날개깃 가장자리, 연갈색 가슴·옆구리, 연한 다리·아랫부리)"
+    },
+    {
+      "title": "Oiseaux.net – Gobemouche muttui(갈색솔딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/gobemouche.muttui.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "싱가포르 조류협회(Birds of Singapore) – Brown-breasted Flycatcher",
+      "url": "https://singaporebirds.com/species/brown-breasted-flycatcher/",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds 2권(1924) – Alseonax muttui",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "해설·암수 구별·어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록, 마라도 2022년 5월 12일(Muscicapa muttui)",
+      "url": "https://www.gbif.org/occurrence/4245649218",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록, 마라도 2024년 4월 17일(Muscicapa muttui)",
+      "url": "https://www.gbif.org/occurrence/5677577407",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 eBird 두 건(2022년 5월 12일·2024년 4월 17일, 마라도)만 확인했다. 국내 첫 기록 문헌(학술지·Birds Korea) 확인 필요",
+    "sexes: 암수가 같다고 분명히 적은 자료는 찾지 못했고, 종 설명들(Baker, 홍콩, 싱가포르)이 암수 구별 없이 한 가지 깃만 적은 것을 근거로 했다"
   ],
   "occurrence": {
     "code": "V2",

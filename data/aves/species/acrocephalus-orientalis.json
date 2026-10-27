@@ -5,14 +5,26 @@
   "author": "Temminck & Schlegel, 1847",
   "en": "Oriental Reed Warbler",
   "ktsn": 120000155413,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "17–19cm",
   "status": "여름철새 10만 마리 이상 · 나그네새 수천 마리",
   "habitat": "습지 가장자리의 갈대밭과 풀숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "4월 말에 오기 시작해 10월에 떠나며, 5월 중순~7월에 둥지를 틀고 새끼를 기른다."
   },
   "summary": "습지 가장자리의 갈대와 풀숲에 사는 여름철새로, 전국에 산다. 갈대나 부들 줄기를 서로 엮어 둥지를 만든다. 주로 갈대나 풀 속에서 지내다가 울 때는 갈대 끝에 올라 큰 소리로 우는데, 한곳에 여러 마리가 있기도 해서 한창 울 때는 수컷들의 소리가 많이 들린다. 국외에서는 러시아 연해주, 중국 동남부, 일본, 동남아시아에 분포한다.",
   "points": [
@@ -33,8 +45,13 @@
     "alike": true,
     "text": "암수는 깃 색으로 구별하기 어렵다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 위쪽이 더 붉은 기를 띠고, 아랫면 전체가 더 짙은 황갈색이며 멱과 윗가슴에 가는 세로줄이 없다.",
+  "similar": [
+    {
+      "ko": "큰부리개개비",
+      "how": "큰부리개개비는 뚜렷한 눈썹선이 없어 얼굴이 밋밋하고, 부리가 더 짧고 두툼하다."
+    }
+  ],
   "art": {
     "subject": "Oriental Reed Warbler (Acrocephalus orientalis), adult in summer (sexes alike): upperparts plain warm olive-brown with no streaks; a prominent whitish-buff supercilium, strongest in front of and just behind the eye; a dark eye-stripe; whitish throat; faint fine greyish streaks on the lower throat and upper breast; breast sides and flanks washed buff; belly whitish; wings and tail plain brown; long, stout bill with a dark upper mandible and a pinkish-yellow lower mandible; orange-red mouth lining when singing; dark eye; bluish-grey legs.",
     "pose": "singing loudly from the top of a reed stem, bill open",
@@ -74,6 +91,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Oriental Reed Warbler(개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/040600",
+      "used": "몸길이"
+    },
+    {
+      "title": "バードリサーチ Bird Research News 4권 8호(2007) 생태도감 – オオヨシキリ(개개비)",
+      "url": "https://www.bird-research.jp/1_newsletter/dl/BRNewsVol4No8.pdf",
+      "used": "몸길이·번식기"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – 개개비",
+      "url": "https://www.birdfan.net/acrocephalus_orientalis/",
+      "used": "몸길이"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 개개비",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새·번식기"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 개개비",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 개개비",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5817100&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2판 2권 – 개개비",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "번식기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Oriental Reed Warbler(개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/041200",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – 개개비",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

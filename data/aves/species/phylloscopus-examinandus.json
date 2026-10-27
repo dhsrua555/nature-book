@@ -5,16 +5,21 @@
   "author": "Stresemann, 1913",
   "en": "Kamchatka Leaf Warbler",
   "ktsn": 120000528323,
-  "origin": "nibr",
   "length": "TODO",
   "status": "나그네새, 해마다 수백 마리",
-  "habitat": "TODO",
+  "habitat": "숲, 섬의 나무숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "5월 중순~6월 초와 9~10월에 주로 지나가며, 8월 말과 11월 초에도 드물게 기록된다."
   },
-  "summary": "TODO",
+  "summary": "봄(5월 중순~6월 초)과 가을(9~10월)에 우리나라를 지나가는 나그네새로, 해마다 수백 마리가 기록된다. 쇠솔새와 생김새가 거의 같아 주로 울음소리와 지저귐으로 가려 본다. 캄차카반도 일대에서 번식하고 인도네시아·필리핀 등지에서 겨울을 난다.",
   "points": [
     {
       "ko": "길고 흰 눈썹선",
@@ -38,11 +43,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "쇠솔새",
+      "how": "생김새가 거의 같아 울음소리와 지저귐으로 가려 본다."
+    }
+  ],
   "art": {
     "subject": "Kamchatka Leaf Warbler (Phylloscopus examinandus), adult, as seen in Korean woodland during passage in late May-June and September: upperparts olive-green, the crown the same colour; a long yellowish-white supercilium that stops short of the forehead; a dark eye-stripe running right to the bill base; one narrow whitish wing-bar on the greater coverts, sometimes a trace of a second; underparts whitish with a faint yellowish wash and greyish-olive flanks; bill fairly long and strong, dark above with a pale orange-yellow lower mandible tipped dark; dark eye; pale straw to pinkish-brown legs.",
     "pose": "gleaning among leaves in a tree canopy, side view",
@@ -96,10 +106,61 @@
       "title": "Nordsångare – Wikipedia (sv), cites Svensson et al. 2009 'Fågelguiden', Brazil 2018",
       "url": "https://sv.wikipedia.org/wiki/Nordsångare",
       "used": "동정 포인트"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014-06 – 큰솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-06.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013-06 – 큰솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-06.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 리뷰 – 큰솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 큰솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5845801&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – 큰솔새",
+      "url": "https://www.birdfan.net/phylloscopus_xanthodryas/",
+      "used": "해설·비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Kamchatka Leaf Warbler(큰솔새)",
+      "url": "https://en.wikipedia.org/wiki/Kamchatka_leaf_warbler",
+      "used": "해설"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 큰솔새",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 큰솔새",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014-08 – 큰솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Oates (1889) The Fauna of British India, Birds 1권(Phylloscopus·Acanthopneuste 속 설명) – 큰솔새",
+      "url": "https://archive.org/details/birdsindia01oaterich",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "몸길이를 이 종에 맞게 적은 자료를 두 곳 이상 찾지 못해 비워 두었다(Taczanowski 1893 의 캄차카 표본 전장 138–147mm 한 곳)",
+    "어린새 설명을 이 종에 맞게 다룬 자료를 찾지 못해 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

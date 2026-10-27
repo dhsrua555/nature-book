@@ -5,7 +5,6 @@
   "author": "Gould, 1852",
   "en": "Vinous-throated Parrotbill",
   "ktsn": 120000155445,
-  "origin": "nibr",
   "length": "약 13cm",
   "status": "텃새, 해마다 10만 마리 이상",
   "habitat": "풀밭, 관목 숲과 덤불, 갈대밭",
@@ -57,8 +56,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -104,9 +103,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Paradoxornis de Webb(붉은머리오목눈이)",
+      "url": "https://www.oiseaux.net/oiseaux/paradoxornis.de.webb.html",
+      "used": "암수 구별"
+    },
+    {
+      "title": "영어 위키백과 – Vinous-throated parrotbill(붉은머리오목눈이)",
+      "url": "https://en.wikipedia.org/wiki/Vinous-throated_parrotbill",
+      "used": "암수 구별"
+    },
+    {
+      "title": "일본어 위키백과 – ダルマエナガ(붉은머리오목눈이)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB%E3%83%9E%E3%82%A8%E3%83%8A%E3%82%AC",
+      "used": "암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새: oiseaux.net('어른새보다 어둡고 아랫면이 고른 담황색, 분홍 기와 줄무늬가 적다') 한 곳에서만 확인해 비워 두었다"
+  ],
   "occurrence": {
     "code": "R1",
     "bs": "1",

@@ -5,15 +5,21 @@
   "author": "Linnaeus, 1758",
   "en": "Lapland Longspur",
   "ktsn": 120000002235,
-  "origin": "nibr",
   "length": "15cm",
   "status": "겨울철새 수천 마리 · 나그네새 수백 마리",
   "habitat": "잔디밭, 구릉, 관목림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~6월에 알을 낳는다."
+    "note": "11월~2월에 가장 많이 보이며, 번식지에서는 5~6월에 알을 낳는다."
   },
   "summary": "봄과 가을에 한국을 지나가는 나그네새이자 이곳에서 겨울을 나는 겨울철새로, 잔디밭과 구릉, 관목림에서 지낸다. 주로 식물 씨앗과 열매를 먹고, 여름철에는 곤충을 먹는다. 한배에 알 4~6개를 낳는다. 전국에서 볼 수 있으며 국외에서는 캄차카, 오호츠크해, 사할린, 쿠릴 열도, 만주, 중국, 일본에 분포한다.",
   "points": [
@@ -35,10 +41,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "겨울깃 수컷은 뒷목의 밤색 띠가 비교적 또렷하고, 머리꼭대기·얼굴·멱 아래·윗가슴의 검은 무늬가 담황색 깃 끝 사이로 비친다.",
+    "female": "암컷은 머리와 가슴의 검은색이 적고 갈색을 띠며, 뒷목의 밤색 띠가 흐릿해 겨울깃 수컷보다 칙칙하다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 온몸이 담황색을 띠고 등·머리·가슴에 검은 세로줄이 빽빽하며 뒷목의 밤색 띠가 없다. 첫겨울 수컷은 가슴 깃의 검은 무늬가 크고 뒷목이 밤색을 띠어 어른 수컷에 가깝고, 첫겨울 암컷은 얼굴과 가슴의 검은색이 더 적다.",
   "similar": [],
   "art": {
     "subject": "Lapland Longspur (Calcarius lapponicus), adult male in breeding plumage, as seen in Korea just before it leaves in late March and April: crown, face, chin, throat and upper breast solid black; a buff-white stripe running from behind the eye down the side of the neck to the breast side, framing the black face; nape and hindneck bright chestnut; mantle and back brown streaked black and buff; greater coverts edged rufous, forming a chestnut panel between two thin white wing-bars; rest of the underparts white with bold black streaks on the flanks; tail dark brown with white outer feathers. Bill short and conical, yellow with a dark tip; iris dark brown; legs dark brown.",
@@ -86,6 +93,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Lapland Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Calcarius lapponicus",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Lapland Longspur",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/055600",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux-birds.com – Lapland Longspur(긴발톱멧새)",
+      "url": "https://www.oiseaux-birds.com/card-lapland-longspur.html",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – ツメナガホオジロ(긴발톱멧새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A1%E3%83%8A%E3%82%AC%E3%83%9B%E3%82%AA%E3%82%B8%E3%83%AD",
+      "used": "암수 구별"
+    },
+    {
+      "title": "GBIF – 긴발톱멧새 한국 eBird 기록",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2491678&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Calcarius lapponicus",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

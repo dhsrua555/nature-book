@@ -5,14 +5,22 @@
   "author": "S.G.Gmelin, 1771",
   "en": "Pine Bunting",
   "ktsn": 120000002215,
-  "origin": "nibr",
   "length": "약 17cm",
   "status": "나그네새 수백 마리 · 겨울철새 수십 마리",
-  "habitat": "TODO",
+  "habitat": "농경지, 강가 들판, 나무와 덤불이 있는 트인 곳, 바닷가 섬",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10~11월과 3월 이동기에 주로 보이고, 일부는 겨울을 난다."
   },
   "summary": "보기 드문 겨울철새이다. 유럽 동부와 동아시아의 북위 50~67° 지역에서 번식하고, 몽골, 중국 북부, 우수리 남부, 중앙아시아, 인도 북부, 이라크 등지에서 겨울을 난다. 수컷은 겨울이 되면 이마와 머리꼭대기가 흰 줄무늬가 있는 갈색으로 바뀌고 밤색이 거의 사라진다.",
   "points": [
@@ -42,8 +50,13 @@
     "male": "여름에는 머리꼭대기와 뺨선이 희고 눈썹선과 멱은 밤색이며, 가슴을 가로지르는 밤색 띠가 있다.",
     "female": "머리가 회갈색에 검은 줄무늬가 있고, 연한 갈색 가슴에 거무스름한 줄무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 겨울 암컷과 비슷하나 전체적으로 더 황갈색을 띠고, 멱과 가슴·옆구리에 검은 갈색 세로줄이 많으며 머리꼭대기에 흰 기가 거의 없다. 첫겨울 새는 어른새보다 칙칙하고, 첫겨울 수컷은 얼굴의 밤색과 흰 무늬가 담황색 깃 끝에 가려 흐릿하다.",
+  "similar": [
+    {
+      "ko": "노랑멧새",
+      "how": "암컷과 어린새는 노랑멧새와 아주 비슷하지만, 흰머리멧새는 머리와 아랫면에 노란 기가 전혀 없다."
+    }
+  ],
   "art": {
     "subject": "Pine Bunting (Emberiza leucocephalos), adult male in early spring (March–April passage): white crown centre bordered by black at the sides of the crown and forehead; chestnut lores and supercilium around the eye; a white cheek patch outlined in black; chestnut chin and throat, cut off below by a white crescent across the upper breast; a chestnut band and chestnut streaks across the breast and on the flanks; belly white; mantle rufous-brown streaked black; rump chestnut; wings brown with buff edges; tail dark brown with white outer feathers; bill grey above, paler below; dark eye; pinkish legs.",
     "pose": "perched, side view",
@@ -91,6 +104,61 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Bruant à calotte blanche(흰머리멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.a.calotte.blanche.html",
+      "used": "사는 곳·어린새·비슷한 종"
+    },
+    {
+      "title": "Oiseaux-birds.com – Pine Bunting(흰머리멧새)",
+      "url": "https://www.oiseaux-birds.com/card-pine-bunting.html",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Pine-Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza leucocephala",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – 흰머리멧새 한국 eBird 기록",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2491472&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Emberiza leucocephalos",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 1월 새 소식 – 흰머리멧새(철원, 국내 최대 무리 54마리)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-01.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 3월 새 소식 – 흰머리멧새(임진각 100마리)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-03.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2013년 11월 새 소식 – 흰머리멧새(백령도·울릉도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-11.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 리뷰 – 흰머리멧새(4월 어청도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2011년 12월 새 소식 – 흰머리멧새(철원)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2011-12.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,15 +5,20 @@
   "author": "Blyth, 1847",
   "en": "Rosy Pipit",
   "ktsn": 120000002181,
-  "origin": "nibr",
   "length": "약 15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "고산 지대, 번식기에는 해발 2,400~4,600m 고지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      10,
+      11
+    ],
     "breed": [],
-    "note": "번식 시기는 6~7월이며, 이때는 해발 2,400~4,600m 고지에서만 지낸다."
+    "note": "국내에서 기록된 달이며, 번식지에서는 6~7월에 해발 2,400~4,600m 고지에서 번식한다."
   },
   "summary": "높은 산에 사는 새로, 번식기인 6~7월에는 해발 2,400~4,600m 고지에서만 지낸다. 한배에 알을 보통 3~4개, 드물게 5개까지 낳는다. 가을에는 아랫부리 기부가 살구빛이 도는 노란색을 띤다.",
   "points": [
@@ -46,7 +51,7 @@
     "alike": true,
     "text": "암수 깃 색이 거의 같고, 암컷이 조금 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 몸 어디에도 분홍빛이 없고 눈썹선이 누런 갈색이며, 가슴 전체에 굵은 검은 세로줄이 빽빽하고 이 줄이 무늬 없는 멱 양옆으로 이어진다.",
   "similar": [],
   "art": {
     "subject": "Rosy Pipit (Anthus roseatus), adult in spring (breeding) plumage, as a vagrant would appear in Korea in April–May: crown, nape and ear coverts greyish olive with fine dark streaks on the crown; lores dusky, forming a dark line in front of the eye; a long, broad pinkish-buff supercilium; mantle olive-brown with bold blackish-brown streaks; wings dark brown with bright olive-yellow fringes to the flight feathers and coverts and two pale wing bars; chin, throat and breast pale vinaceous-pink, the breast unstreaked or with a few fine dark streaks, the flanks lightly streaked; belly whitish; tail dark brown with olive edges and whitish outer feathers. Bill horn-black, paler at the base of the lower mandible; eye dark brown; legs pink.",
@@ -96,6 +101,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 2판 3권 – 한국밭종다리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207295",
+      "used": "어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – 한국밭종다리",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 한국밭종다리(Rosy Pipit)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/054400",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 한국밭종다리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490290&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2005년 5월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 한국밭종다리",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Common Redstart",
   "ktsn": 120000529782,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
-  "habitat": "TODO",
+  "habitat": "서해 섬(국내 기록), 트인 숲과 숲 가장자리, 공원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2024년 5월 어청도)."
   },
-  "summary": "TODO",
+  "summary": "2024년 5월 14일 서해 어청도에서 사진으로 기록된 길잃은새로, 새와 생명의 터는 국내 기록을 아직 검토하고 있다. 유럽과 북아프리카에서 바이칼호에 이르는 지역에서 번식하고, 아프리카 사헬 지대와 아라비아에서 겨울을 난다. 트인 숲과 숲 가장자리, 공원에 살며 나무 구멍이나 벽 틈에 둥지를 틀고, 파리·나비 같은 곤충과 거미를 주로 먹는다.",
   "points": [
     {
       "ko": "흰 이마(수컷)",
@@ -42,10 +44,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "이마와 눈 위가 희고 머리꼭대기·등은 청회색이며, 얼굴과 멱은 검고 가슴과 옆구리는 주황빛 적갈색이다.",
+    "female": "윗면은 회갈색이고 눈테가 희미하게 밝으며, 아랫면은 연한 담황색이다. 허리와 꼬리의 적갈색은 수컷과 같다."
   },
-  "young": "TODO",
+  "young": "갓 둥지를 떠난 어린새는 윗면에 담황색 반점, 아랫면에 갈색 비늘무늬가 있고 적갈색 꼬리는 어른새와 같다. 첫 털갈이 뒤에는 암컷과 비슷해지며, 어린 수컷은 윗면이 더 회색이고 멱이 거뭇해지기 시작한다.",
   "similar": [],
   "art": {
     "subject": "Common Redstart (Phoenicurus phoenicurus), adult male in spring: white forehead extending back as a short white line above the eye; crown, nape and back blue-grey; face and throat black; breast and flanks bright orange-red, fading to whitish on the belly and undertail; wings plain grey-brown with no white patch; rump and tail rufous-orange, the central tail feathers dark brown. Thin black bill; dark eye; black legs.",
@@ -95,11 +98,31 @@
       "title": "Wikipedia — Common redstart (HBW 10; BWP 인용)",
       "url": "https://en.wikipedia.org/wiki/Common_redstart",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Rougequeue à front blanc(흰이마딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/rougequeue.a.front.blanc.html",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Saunders (1899) An Illustrated Manual of British Birds – Redstart",
+      "url": "https://archive.org/details/cu31924000047815",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Redstart",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰이마딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5739317&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 2024년 5월 14일 어청도 1건(eBird 3건·iNaturalist 1건, 같은 개체)만 확인했고, 새와 생명의 터 목록에서도 '기록을 검토하는 중'이다. 다른 국내 기록이 있는지, 검토 결과가 나왔는지 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

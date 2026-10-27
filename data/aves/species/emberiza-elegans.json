@@ -5,7 +5,6 @@
   "author": "Temminck, 1836",
   "en": "Yellow-throated Bunting",
   "ktsn": 120000002224,
-  "origin": "nibr",
   "length": "16cm",
   "status": "겨울철새 10만 마리 이상 · 텃새 10만 마리 이상 · 나그네새 수만 마리",
   "habitat": "산림, 경작지, 습지 주변의 관목과 덤불",
@@ -62,7 +61,7 @@
     "male": "턱밑과 눈 위에서 뒷머리까지 짙은 노란색이고 눈선과 윗가슴은 검어, 얼굴이 노랑과 검정으로 얼룩덜룩해 보인다.",
     "female": "윗가슴과 눈선에 검은색이 없고 노란 부분도 흐릿하다."
   },
-  "young": "TODO",
+  "young": "어린새는 겨울 암컷보다 칙칙하고 머리깃이 아주 짧으며, 눈썹선과 멱에 노란색이 거의 없이 엷은 황갈색이다. 수컷의 검은 가슴 무늬도 없고, 엷은 담황색 가슴과 옆구리에 흐린 세로줄이 있다.",
   "similar": [],
   "art": {
     "subject": "Yellow-throated Bunting (Emberiza elegans), adult male in breeding plumage, as seen in Korean scrub and woodland edges in spring: black crown and an erectile black crest; bright yellow supercilium running from above the eye back to the hindcrown; black lores and ear-coverts forming a black face mask; bright yellow chin and throat; a black triangular patch on the upper breast; greyish nape; mantle and scapulars chestnut-brown streaked black; belly white; flanks streaked chestnut; wings brown with two whitish wing bars; tail dark brown with white outer feathers. Short, stout conical bill dark grey; dark eye; pinkish legs.",
@@ -103,6 +102,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Taczanowski (1891) Faune ornithologique de la Sibérie orientale 1권 – Emberiza elegans",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza elegans",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds.com – Yellow-throated Bunting(노랑턱멧새)",
+      "url": "https://www.oiseaux-birds.com/card-yellow-throated-bunting.html",
+      "used": "어린새"
     }
   ],
   "todo": [],

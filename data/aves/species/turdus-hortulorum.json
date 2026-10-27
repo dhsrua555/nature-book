@@ -5,18 +5,27 @@
   "author": "Sclater, 1863",
   "en": "Grey-backed Thrush",
   "ktsn": 120000002094,
-  "origin": "nibr",
   "length": "약 23cm",
   "status": "여름철새 10만 마리 이상 · 나그네새 수만 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "숲, 참나무가 있는 숲속",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "breed": [
       5,
       6
     ],
-    "note": "5~6월에 알을 낳는다."
+    "note": "3월 하순부터 오기 시작해 11월 초까지 머물며 5~6월에 알을 낳고, 제주 등지에서는 겨울을 나는 개체도 드물게 있다."
   },
   "summary": "봄과 가을의 이동 무렵 우리나라 숲에 머물렀다 떠나는 여름철새이다. 숲속 참나무 등의 가지에 밥그릇 모양 둥지를 짓고, 5~6월에 녹청색 바탕에 적갈색 반점이 있는 알을 6~7개 낳는다. 흰배지빠귀와 비슷한 소리로 지저귄다. 한국, 중국, 러시아 등에 분포한다.",
   "points": [
@@ -46,7 +55,7 @@
     "male": "머리, 등, 멱, 윗가슴이 회색이고 아랫가슴과 배는 흰색, 옆구리는 주황색이다. 날개와 꼬리는 어두운 회색이다.",
     "female": "등이 갈색이고 배는 흰색이며, 옆구리는 주황색이고 가슴과 옆구리에 검은 반점이 있다."
   },
-  "young": "TODO",
+  "young": "어린새와 첫해 수컷은 암컷처럼 가슴에 검은 반점이 있다. 첫해 수컷은 회색 윗면에 갈색 기가 섞이고 큰날개덮깃 끝이 옅다.",
   "similar": [
     {
       "ko": "흰눈썹붉은배지빠귀",
@@ -92,6 +101,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Merula hortulorum",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus hortulorum",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Grey-backed Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/046700",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 되지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490733&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010 연간 조류 기록 정리 – Grey-backed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006 연간 조류 기록 정리 – Grey-backed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

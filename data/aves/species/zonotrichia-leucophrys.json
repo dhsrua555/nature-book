@@ -5,16 +5,18 @@
   "author": "Forster, 1772",
   "en": "White-crowned Sparrow",
   "ktsn": 120000002239,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "15–16cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하구의 풀밭과 덤불 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2003년 2월 3일 낙동강 하구 을숙도)."
   },
-  "summary": "TODO",
+  "summary": "북아메리카에서 번식하는 새로, 우리나라에서는 2003년 2월 낙동강 하구 을숙도에서 첫겨울 어린새 한 마리가 처음 기록된 길잃은새이다. 알래스카와 캐나다, 미국 북부와 서부에서 번식하고 미국 남서부와 멕시코에서 겨울을 나며, 일본에서도 여러 차례 길잃은새로 기록되었다. 덤불 가까운 땅 위를 뛰어다니며 풀씨와 곤충을 먹고, 번식기가 아닐 때는 무리를 지어 지낸다.",
   "points": [
     {
       "ko": "굵은 흑백 줄무늬 머리",
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "첫겨울 어린새는 머리의 줄무늬가 검은색과 흰색 대신 갈색과 연한 황갈색이고 몸빛도 더 갈색을 띤다. 둥지를 갓 떠난 어린새는 가슴과 배에 진한 세로줄이 있다.",
+  "similar": [
+    {
+      "ko": "노랑정수리북미멧새",
+      "how": "흰정수리북미멧새는 머리에 흰색과 검은색(어린새는 연한 황갈색과 갈색) 줄무늬가 있고 부리가 분홍빛이나 주황빛이지만, 노랑정수리북미멧새는 정수리 앞쪽이 노랗고 부리가 거무스름하다."
+    }
+  ],
   "art": {
     "subject": "White-crowned Sparrow (Zonotrichia leucophrys), adult in winter, a vagrant in Korean farmland hedgerows: crown boldly striped black and white — a broad white central stripe between black lateral stripes; a white supercilium; a black stripe behind the eye, the lores pale grey as in the Alaskan form gambelii; face, neck, throat and breast plain grey; belly whitish, flanks buff-brown; mantle brown with dark streaks and greyish edges; wings brown with two white wing bars; tail long and plain brown. Bill pinkish-orange; eye dark; legs pinkish.",
     "pose": "foraging on the ground beside a hedge, side view",
@@ -87,11 +94,56 @@
       "title": "White-crowned Sparrow – Audubon Guide to North American Birds",
       "url": "https://www.audubon.org/field-guide/bird/white-crowned-sparrow",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Field Guide – Golden-crowned Sparrow(노랑정수리북미멧새)",
+      "url": "https://www.audubon.org/field-guide/bird/golden-crowned-sparrow",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "BirdWeb(Seattle Audubon) – White-crowned Sparrow",
+      "url": "https://www.birdweb.org/birdweb/bird/white-crowned_sparrow",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "BirdWeb(Seattle Audubon) – Golden-crowned Sparrow",
+      "url": "https://www.birdweb.org/birdweb/bird/golden-crowned_sparrow",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web – Zonotrichia leucophrys",
+      "url": "https://animaldiversity.org/accounts/Zonotrichia_leucophrys/",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 흰정수리북미멧새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Bruant à couronne blanche(흰정수리북미멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.a.couronne.blanche.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 일본어판 – ミヤマシトド(흰정수리북미멧새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A4%E3%83%9E%E3%82%B7%E3%83%88%E3%83%89",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 연간 리뷰 – White-crowned Sparrow(을숙도, 국내 첫 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2003년 2월 – White-crowned Sparrow",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-02.shtml",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 2003년 2월 을숙도 1건만 확인했다(새와 생명의 터 자료 두 곳, eBird·iNaturalist 국내 기록 없음). '지금까지 기록 10건 미만'의 다른 기록 시기 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Crested Myna",
   "ktsn": 120000230696,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "25–27cm",
   "status": "이동기에 드물게 찾아옴, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬, 도시 공원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "이동기에 드물게 나타나는 새로, 지금까지 국내 기록이 10건이 안 되며 5월에 백령도와 대구의 공원 등에서 관찰되었다. 원래 중국 남부와 타이완, 인도차이나 북부에 사는 텃새로, 농경지와 물가, 마을 주변 같은 트인 저지대를 좋아하고 숲과 산지는 피한다. 무리를 지어 땅 위를 걸으며 곤충과 씨앗, 열매, 우렁이 같은 고둥 등을 가리지 않고 먹고, 나무 구멍이나 건물과 벼랑의 틈에 둥지를 튼다. 사람 말을 흉내 내는 새장 새로 오래 길러져 왔기 때문에, 원래 분포지 밖에서는 놓아 기르던 새가 퍼진 무리도 있다.",
   "points": [
     {
       "ko": "이마의 곧추선 깃뭉치",
@@ -42,10 +44,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같으나 수컷이 조금 크고 이마의 깃털 다발이 더 두드러진다."
   },
-  "young": "TODO",
+  "young": "어린새는 전체가 칙칙한 검은 갈색이고 이마의 깃털 다발이 아주 작거나 없다.",
   "similar": [],
   "art": {
     "subject": "Crested Myna (Acridotheres cristatellus), adult (sexes alike, plumage similar year-round): entire plumage black with a slight dull gloss; a short bushy tuft of feathers rising from the forehead above the bill base; a white patch at the base of the primaries, showing as a small white mark on the folded wing; undertail coverts black with narrow white tips; tail black with narrow white tips to the outer feathers; bill ivory to pale yellowish; iris pale orange-yellow; legs dull orange-yellow.",
@@ -90,11 +92,37 @@
       "title": "Wikipedia – Crested myna (Feare & Craig, Starlings and Mynas 인용)",
       "url": "https://en.wikipedia.org/wiki/Crested_myna",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "코토뱅크(世界大百科事典·日本大百科全書) – ハッカチョウ(검은뿔찌르레기)",
+      "url": "https://kotobank.jp/word/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%81%E3%83%A7%E3%82%A6",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "위키백과 일본어판 – ハッカチョウ(검은뿔찌르레기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%81%E3%83%A7%E3%82%A6",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "위키백과 중국어판 – 八哥(검은뿔찌르레기)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%93%A5",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록 – 검은뿔찌르레기(2016년 5월 11일 대구 달성공원)",
+      "url": "https://www.gbif.org/occurrence/3279959680",
+      "used": "사는 곳·관찰 시기·해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록 – 검은뿔찌르레기(2024년 5월 16일 백령도)",
+      "url": "https://www.gbif.org/occurrence/5376143702",
+      "used": "사는 곳·관찰 시기·해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.seen: 국내 기록은 eBird 2건(2016년 5월 11일 대구 달성공원, 2024년 5월 16일 백령도 2마리)만 확인했다. 다른 국내 기록의 날짜·장소 확인 필요",
+    "대구 달성공원은 동물원이 있는 공원이라 이 기록이 사육하던 새가 달아난 개체인지 확인 필요"
   ],
   "occurrence": {
     "code": "PV2",

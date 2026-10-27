@@ -5,16 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Wheatear",
   "ktsn": 120000002128,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–16cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 채석장과 맨땅, 풀이 짧은 트인 곳",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(5월 가거도·어청도, 10월 홍도 등)."
   },
-  "summary": "TODO",
+  "summary": "서해·남해 섬에서 드물게 관찰되는 길잃은새로, 2000년 5월 처음 기록된 뒤 봄(5월)과 가을(10월)에 몇 차례 기록되었다. 유라시아 북부를 가로질러 알래스카와 캐나다 동북부·그린란드까지 번식하며, 어느 번식지의 개체든 아프리카 사하라 이남으로 건너가 겨울을 난다. 돌이나 흙더미 위에 곧게 서서 꼬리를 까딱이다가 땅으로 내려가 딱정벌레 같은 곤충을 잡는다.",
   "points": [
     {
       "ko": "흰 눈썹선과 검은 눈선(수컷)",
@@ -42,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "여름깃은 머리꼭대기와 등이 청회색이고 흰 눈썹선 아래로 눈을 지나는 검은 띠가 있으며, 날개는 검고 멱과 가슴은 담황색이다. 가을 털갈이 뒤에는 암컷과 비슷해진다.",
+    "female": "무늬 배치는 수컷과 같으나 윗면이 갈색을 띠고 날개는 흑갈색이며, 눈가의 검은 띠가 흐리거나 없다."
   },
-  "young": "TODO",
+  "young": "갓 둥지를 떠난 어린새는 암수 모두 회갈색에서 담황갈색 바탕에 윗면에는 담색 반점, 가슴에는 갈색 얼룩이 있고 눈가의 검은 띠가 없다. 첫 겨울에는 암컷 겨울깃과 비슷해 암수를 가리기 어렵다.",
   "similar": [],
   "art": {
     "subject": "Northern Wheatear (Oenanthe oenanthe), adult male in breeding plumage, a spring migrant (May) on a Korean offshore island: crown, nape and back clean blue-grey; a narrow white band on the forehead continuing as a white supercilium; a black mask from the lores through the eye over the ear coverts; wings blackish without pale panels; throat and breast warm peachy-buff, fading to white on the belly and undertail coverts; rump and uppertail coverts white; tail white with black central feathers and a black terminal band forming a black inverted T. Bill black and slender; eye dark; legs black.",
@@ -101,11 +105,41 @@
       "title": "Audubon Guide to North American Birds: Northern Wheatear",
       "url": "https://www.audubon.org/field-guide/bird/northern-wheatear",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Traquet motteux(사막딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/traquet.motteux.html",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Saunders (1899) An Illustrated Manual of British Birds – Wheatear",
+      "url": "https://archive.org/details/cu31924000047815",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Wheatear",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 5월 새 소식 – 5월의 국내 첫 기록(2000년 사막딱새)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-05.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2011년 5월 새 소식 – 가거도 채석장의 국내 세 번째 사막딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2011-05.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 사막딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231240&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 두 번째 기록(2000–2011년 사이)의 날짜·장소는 찾지 못함"
   ],
   "occurrence": {
     "code": "V2",

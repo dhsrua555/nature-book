@@ -5,7 +5,6 @@
   "author": "Gould, 1836",
   "en": "Russet Sparrow",
   "ktsn": 120000528893,
-  "origin": "nibr",
   "length": "13cm",
   "status": "텃새 수백 마리 · 나그네새 수십 마리",
   "habitat": "주택지 가까운 곳, 큰키나무 구멍",
@@ -60,7 +59,7 @@
     "male": "윗면은 진한 적갈색에 검은 세로줄무늬가 있고 아랫면은 흰빛에 가까운 황갈색이며 뺨이 희다. 겨울깃에는 뒷머리에 흰빛이 도는 회갈색 띠가 있다.",
     "female": "윗면이 갈색이고 회백색 눈썹선이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 암수 모두 암컷과 비슷하게 윗면이 갈색이고 담색 눈썹선이 뚜렷하며, 수컷의 적갈색 머리와 검은 턱밑은 아직 없다.",
   "similar": [],
   "art": {
     "subject": "Russet Sparrow (Passer cinnamomeus), adult male in breeding plumage (spring and summer): crown, nape, mantle and back rich chestnut, the mantle streaked black; a narrow black line from the bill to the eye; cheeks and ear coverts plain whitish, without any dark spot; a small black bib on the chin and upper throat; underparts whitish-buff, washed pale grey on the breast and flanks; wing coverts chestnut with a bold white wing bar, flight feathers dark brown with buff edges; tail brown; bill black; dark eye; pinkish-brown legs.",
@@ -102,6 +101,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Moineau rutilant(섬참새)",
+      "url": "https://www.oiseaux.net/oiseaux/moineau.rutilant.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Passer cinnamomeus",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
     }
   ],
   "todo": [],

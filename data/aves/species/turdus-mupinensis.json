@@ -5,16 +5,19 @@
   "author": "Laubmann, 1920",
   "en": "Chinese Thrush",
   "ktsn": 120000002105,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 23cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 숲과 덤불, 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "국내 기록은 대부분 4~5월 서해 섬에서 나왔고, 2023년 2월 제주에서 겨울 기록이 있다."
   },
-  "summary": "TODO",
+  "summary": "봄 이동기에 서해 섬에서 해마다 드물게 관찰되는 나그네새로, 국내에서는 2003년 5월 소청도에서 처음 기록되었다. 기록은 대부분 4~5월 소청도·어청도·홍도·외연도 같은 서해 섬에서 나왔고, 2023년 2월에는 제주에서 겨울을 나던 개체도 관찰되었다. 중국 중부의 산지 숲에서 베이징 부근까지 번식하는 중국 고유에 가까운 새로, 중국 밖 기록은 드물다.",
   "points": [
     {
       "ko": "잿빛 뺨",
@@ -87,11 +90,48 @@
       "title": "Shanghai Birding – Chinese Thrush ID (Craig Brelsford)",
       "url": "https://www.shanghaibirding.com/tag/chinese-thrush/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Chinese Thrush",
+      "url": "https://www.oiseaux.net/birds/chinese.thrush.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Hartert(1910) Die Vögel der paläarktischen Fauna 1권 – Turdus auritus",
+      "url": "https://archive.org/details/dievgelderpal01hart",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003-05 월간 새 소식 – Chinese Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-05.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005 연간 조류 기록 정리 – Chinese Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007 연간 조류 기록 정리 – Chinese Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009 연간 조류 기록 정리 – Chinese Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 큰점지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490739&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설은 국외 종 설명(홍콩조류학회 등)으로, 관찰 시기는 국내 기록(Birds Korea, eBird, iNaturalist)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별: 홍콩조류학회·Hartert(1910)·Shanghai Birding 모두 암수를 나누지 않고 한 가지 깃만 기재해 암수가 같은 것으로 보이나, 이를 밝힌 자료를 찾지 못했다",
+    "어린새: Hartert(1910)가 Pleske를 인용한 어린 깃 설명(머리꼭대기·등·어깨깃에 황갈색 깃대 반점, 배의 반점이 잚)과 홍콩조류학회의 첫겨울깃 설명(날개덮깃 끝의 흰 반점이 넓음)이 서로 다른 시기를 다뤄 교차 확인이 되지 않았다"
   ],
   "occurrence": {
     "code": "PV1",

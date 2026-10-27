@@ -5,15 +5,23 @@
   "author": "Temminck, 1831",
   "en": "Dusky Thrush",
   "ktsn": 120000002103,
-  "origin": "nibr",
   "length": "23cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수천 마리",
   "habitat": "평지와 산지의 숲속",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~6월에 알을 낳는다."
+    "note": "4월 이동기에 가장 많이 지나가고 남부에서는 겨울을 나며, 번식지에서는 5~6월에 알을 낳는다."
   },
   "summary": "우리나라에서 겨울을 나는 지빠귀로, 평지나 산지의 숲속에 산다. 주로 식물의 열매를 먹고 지렁이와 벌레도 좋아한다. 시베리아 북부와 캄차카반도에서 번식하며, 5~6월에 나뭇가지 위에 잔 모양 둥지를 틀고 알을 4~7개 낳는다.",
   "points": [
@@ -35,10 +43,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리꼭대기와 귀깃이 검은 갈색이고 크림빛 흰 눈썹선이 굵으며, 날개에 적갈색이 넓게 드러난다. 가슴에 검은 얼룩 띠가 있고 옆구리에도 검은 점이 뚜렷하다.",
+    "female": "윗면과 머리가 수컷보다 갈색을 띠고 날개의 적갈색이 좁고 엷으며, 턱밑과 멱에 점이 더 많다. 수컷과 구별하기 어려운 개체도 있다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 윗면에 황갈색 줄무늬가 많고 아랫면은 검은 점으로 얼룩지며, 어른새의 검은 가슴띠가 없다. 첫겨울 개체는 어른 암컷과 비슷하나, 새로 간 안쪽 큰날개덮깃과 묵은 바깥쪽 덮깃의 색이 달라 보이는 일이 많다.",
   "similar": [],
   "art": {
     "subject": "Dusky Thrush (Turdus eunomus), adult male in fresh winter plumage, as seen in Korean woodland from October to March: crown, nape and ear-coverts blackish-brown, forming a dark cap and cheek patch; long, broad creamy-white supercilium; whitish chin and throat bordered by a thin blackish malar stripe; mantle and back dark brown with blackish feather centres; wing coverts and flight-feather edges extensively rufous-chestnut, forming a rufous panel on the closed wing (the amount of rufous varies between individuals); underparts white with a band of dense black spots across the breast, a whiter gap below it, and bold black spots along the flanks; belly and undertail coverts white; tail dark brown. Bill blackish with a yellow base to the lower mandible; dark brown eye; pale pinkish-brown legs.",
@@ -79,6 +88,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 1권(1920) – Dusky Thrush",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Grive à ailes rousses(개똥지빠귀)",
+      "url": "https://www.oiseaux.net/oiseaux/grive.a.ailes.rousses.html",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Dusky Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/047200",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(Turdus eunomus)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=9615912&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Turdus naumanni eunomus",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

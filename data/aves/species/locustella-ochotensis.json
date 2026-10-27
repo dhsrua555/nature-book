@@ -5,15 +5,20 @@
   "author": "Middendorff, 1853",
   "en": "Middendorff's Grasshopper Warbler",
   "ktsn": 120000002031,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–15cm",
   "status": "나그네새, 해마다 수백 마리",
   "habitat": "풀숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 6월 하순~7월 상순에 알을 낳는다."
+    "note": "5~6월과 8~10월 이동기에 지나가고 11월 기록도 드물게 있으며, 번식지에서는 6월 하순~7월 상순에 알을 낳는다."
   },
   "summary": "봄과 가을에 한반도를 드물게 지나가는 나그네새이다. 풀 사이를 몰래 누비며 먹이를 찾고, 때때로 풀줄기에 앉아 지저귄다. 곤충을 주로 먹는다. 오호츠크해 서안, 샨타르섬, 캄차카, 사할린, 쿠릴 열도, 홋카이도 등지에서 번식하며 6월 하순~7월 상순에 한배에 5~6개, 흔히 5개의 알을 낳고, 중국 동부, 일본, 타이완, 필리핀, 보르네오, 셀레베스 등지에서 겨울을 난다.",
   "points": [
@@ -43,11 +48,20 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 온몸에 노란 기가 돌아 윗면이 더 어두운 올리브 갈색이고 얼굴과 아랫면이 노르스름한 담황색을 띠며, 멱과 가슴에 흐린 얼룩이 있다.",
+  "similar": [
+    {
+      "ko": "섬개개비",
+      "how": "섬개개비는 더 크고 부리와 꼬리가 길며, 윗면이 붉은 기 없이 잿빛을 띤 올리브 갈색이다."
+    },
+    {
+      "ko": "북방개개비",
+      "how": "북방개개비는 머리와 등에 검은 세로무늬가 뚜렷하고 흰 눈썹선이 또렷하다."
+    }
+  ],
   "art": {
     "subject": "Middendorff's Grasshopper Warbler (Locustella ochotensis), adult, as seen in Korean grassland during passage in May-June and August-September: upperparts plain, unstreaked rusty olive-brown, the crown slightly darker; a short, rather indistinct greyish-white to buff supercilium and greyish-white lores; olive-buff cheeks and ear coverts with fine dark brown tips; underparts buffy-white with a brownish wash across the breast and flanks; undertail coverts buff; tail rounded, dark brown with pale greyish-white tips to the outer feathers; bill with a horn-brown upper mandible and a paler pinkish to yellowish-horn lower mandible; dark brown eye; pale pinkish legs.",
     "pose": "perched on a grass stem, singing",
@@ -86,6 +100,66 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Middendorff's Grasshopper Warbler(알락꼬리쥐발귀)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041700",
+      "used": "몸길이·비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Locustelle de Middendorff(알락꼬리쥐발귀)",
+      "url": "https://www.oiseaux.net/oiseaux/locustelle.de.middendorff.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Locustella ochotensis",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Locustella ochotensis",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "McGregor(1909) A Manual of Philippine Birds – Locustella ochotensis",
+      "url": "https://archive.org/details/manualofphilippi00mcgr",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Styan's Grasshopper Warbler(섬개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041800",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Taczanowski(1889) Description d'une nouvelle Locustella de la Corée, Proc. Zool. Soc. London – Locustella pleskei",
+      "url": "https://archive.org/details/proceedingsofgen89scie",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "환경성 제5차 레드데이터북(2026) – ウチヤマセンニュウ(섬개개비)",
+      "url": "https://www.env.go.jp/nature/kisho/5th-rl-2026/BI0117_RDB5th.pdf",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Austin & Kuroda(1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – Locustella ochotensis",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "GBIF 한국 기록 – Locustella ochotensis(eBird 등)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493553",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2007년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2002년 10월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2002-10.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

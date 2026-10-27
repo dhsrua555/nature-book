@@ -5,17 +5,26 @@
   "author": "Pallas, 1776",
   "en": "Black-faced Bunting",
   "ktsn": 120000002230,
-  "origin": "nibr",
   "length": "약 16cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "습한 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       6
     ],
-    "note": "6월 무렵 알을 낳는다."
+    "note": "4–5월과 10월 이동기에 가장 많고 겨울에도 남부에 남으며, 여름에는 드물어 6월 무렵 알을 낳는 소수만 기록된다."
   },
   "summary": "대부분은 봄과 가을에 한반도를 지나가는 흔한 나그네새이지만, 일부는 우리나라에서 번식한다. 습한 풀밭에 살며 번식도 그곳에서 하고, 6월 무렵 알을 보통 5개 낳는다. 잡초 씨와 조·벼 같은 낟알, 곤충의 어른벌레와 애벌레를 먹는다. 전국에서 볼 수 있고, 국외에서는 시베리아 남부, 러시아 알타이, 트란스바이칼리아, 아무르, 우수리, 만주에 분포한다.",
   "points": [
@@ -45,11 +54,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 목, 가슴이 올리브빛 잿빛이고 눈앞과 부리 둘레, 턱이 검어 얼굴이 거무스름하며, 배는 연한 노란색이고 옆구리에 갈색 줄무늬가 있다.",
+    "female": "머리가 갈색 도는 잿빛으로 얼굴에 검은색이 없고, 흐린 눈썹선과 연한 노란 뺨선, 거무스름한 턱선이 있으며 아랫면은 연한 노란빛 흰색에 옆구리 줄무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 윗면이 더 갈색이고 멱과 가슴에 어두운 점무늬가 많다. 첫겨울 수컷은 잿빛 정수리에 갈색 줄무늬가 섞이고 얼굴의 검은색이 없어 암컷처럼 보인다.",
+  "similar": [
+    {
+      "ko": "섬촉새",
+      "how": "촉새 수컷은 머리부터 가슴까지 올리브빛 잿빛이지만, 섬촉새 수컷은 멱과 가슴, 배가 노랗다."
+    }
+  ],
   "art": {
     "subject": "Black-faced Bunting (Emberiza spodocephala), adult male in spring, as seen on Korean passage in April–May: whole head, nape and breast greenish-grey; lores, the area around the bill base, below the eye and the chin sooty-black, forming a dark face; mantle buff-brown streaked black; lower breast and belly pale yellow, becoming whitish towards the vent; flanks streaked dark olive-brown; wings brown with two pale buff wing bars; tail dark with white outer feathers. Bill with a dark horn upper mandible and a pale pinkish-brown lower mandible tipped dark; dark brown eye; pale pinkish-brown legs.",
     "pose": "foraging on the ground in damp grass, picking up seeds",
@@ -89,6 +104,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 촉새·섬촉새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 촉새",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 촉새(Black-faced Bunting)",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/057200",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Black-faced bunting(촉새)",
+      "url": "https://en.wikipedia.org/wiki/Black-faced_bunting",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Seebohm (1890) The Birds of the Japanese Empire – 촉새·섬촉새",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 촉새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2491522&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 촉새",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,15 +5,17 @@
   "author": "La Touche, 1923",
   "en": "Baikal Bush Warbler",
   "ktsn": 120000528899,
-  "origin": "nibr",
   "length": "108–113mm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6
+    ],
     "breed": [],
-    "note": "2000년 5월 어청도와 상왕등도 인근 해상에서 성조 3마리가 확인되었다."
+    "note": "주로 5월 하순~6월 초 서해 북부 섬(소청도·백령도)에서 노랫소리로 확인되며, 2000년 5월 어청도와 상왕등도 인근 해상에서 성조 3마리가 확인된 기록도 있다."
   },
   "summary": "주로 숲 가장자리에서 발견되는 작은 새로, 우리나라에서는 함경북도에서 번식한다. 2000년 5월 전라북도 서해안의 어청도와 상왕등도 인근 바다에서 다 자란 새 3마리가 확인된 기록이 있다. 부리 길이는 10.7~11.5mm, 날개 길이는 52.0~54.5mm, 꽁지 길이는 42.5~45.5mm, 부척은 18.6~19.4mm이다.",
   "points": [
@@ -42,8 +44,13 @@
     "alike": null,
     "text": "TODO"
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 아랫면이 누런 기 도는 담황색이고, 멱과 앞목에 흐린 갈색 얼룩이 있으며 가슴과 윗배가 갈색으로 흐리게 얼룩진다.",
+  "similar": [
+    {
+      "ko": "땅개개비",
+      "how": "땅개개비는 아래꼬리덮깃 끝의 흰 무늬가 좁고 흐려 줄무늬처럼 보이지 않으며, 머리 무늬가 더 밋밋하다."
+    }
+  ],
   "art": {
     "subject": "Baikal Bush Warbler (Locustella davidi), adult in spring (May): upperparts uniform dark olive-brown without any streaks; narrow greyish-white supercilium; grey-brown ear-coverts; throat whitish with a variable band of small dark spots across the lower throat and upper breast; breast and flanks washed grey-brown, centre of the belly whitish; long undertail coverts brown with broad whitish tips that look scaly; tail plain dark brown. Bill fine and dark; dark eye; legs pinkish.",
     "pose": "perched low in shrubs at a forest edge, side view",
@@ -98,10 +105,46 @@
       "title": "Thaibirding (N. Upton): Spotted Bush Warbler, identification vs Baikal Bush Warbler",
       "url": "https://www.thaibirding.com/ornithology/spotted-bush-warbler.htm",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Taczanowski(1891) Faune ornithologique de la Sibérie orientale 1권 – Dumeticola thoracica(동시베리아 개체군)",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Lusciniola thoracica",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF 한국 기록 – Locustella davidi(eBird 등)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=7515214",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 리뷰 – Baikal Bush Warbler",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 리뷰 – Spotted Bush Warbler",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Chinese Bush Warbler(땅개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/042100",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Chinese Bush Warbler: Baegnyeong Island, May 26th 2023",
+      "url": "https://www.birdskoreablog.org/?p=27375",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별: Taczanowski(1891)는 암컷의 멱 점무늬가 작고 덜 이어진다고 했으나 다른 자료로 확인하지 못해 비워 두었다"
   ],
   "occurrence": {
     "code": "V1",

@@ -5,16 +5,18 @@
   "author": "Martens, Eck, Päckert, Sun, 1999",
   "en": "Martens's Warbler",
   "ktsn": 120000533855,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "11–12cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 섬의 숲과 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "중국 중부(쓰촨·후베이·산시 등)의 산지에서 번식하고 동남아시아에서 겨울을 나는 솔새로, 우리나라에서는 2021년 5월 8–9일 백령도에서 처음 기록되었고 2022년 5월 같은 곳에서 두 번째로 기록된 길잃은새다. 숲 아래층의 덤불 속을 낮게 옮겨 다니며 짧게 날아올라 곤충을 잡는다. 눈 둘레에 노란 테가 있는 회색머리노랑솔새 등과 생김새가 매우 비슷해, 가늘고 짧은 한 음절 울음소리로 가려낸다.",
   "points": [
     {
       "ko": "녹색 기가 거의 없는 회색 정수리",
@@ -46,7 +48,12 @@
     "text": "TODO"
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "회색머리노랑솔새",
+      "how": "생김새가 거의 같아 울음소리로 가리며, 회색머리노랑솔새는 두 음절로 굴리는 '츄룹' 소리를 내고 눈테 뒤쪽이 조금 끊긴다."
+    }
+  ],
   "art": {
     "subject": "Martens's Warbler (Phylloscopus omeiensis), adult (sexes alike), a vagrant on a Korean offshore island in May: crown centre grey with at most a faint greenish tinge, bordered on each side by a black lateral crown stripe from above the eye to the nape; a yellow eye-ring; cheeks yellowish-green; upperparts olive-green; wings and tail olive-green with darker centres, sometimes with a faint, narrow pale wing-bar on the greater coverts; some white on the inner webs of the outer tail feathers; entire underparts bright yellow. Broad-based bill, dark above with a pale orange lower mandible; dark eye; pale yellowish legs.",
     "pose": "perched on a thin twig in the understorey, side view, alert",
@@ -92,11 +99,42 @@
       "title": "iNaturalist 연구 등급 사진 – Phylloscopus omeiensis",
       "url": "https://www.inaturalist.org/observations/136380829",
       "used": "그림용 형태 정보·동정 포인트 사진 확인(눈테, 가는 날개띠, 부리·다리 색)"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Martens's Warbler(회색정수리노랑솔새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/039400",
+      "used": "몸길이·사는 곳·해설·비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot de Martens(회색정수리노랑솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.martens.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 국내 첫 회색정수리노랑솔새(백령도, 2021년 5월)",
+      "url": "https://www.birdskoreablog.org/?p=24729",
+      "used": "사는 곳·해설·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 백령도 2022년 4월 30일~5월 8일",
+      "url": "https://www.birdskoreablog.org/?p=25831",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 회색정수리노랑솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=9606404&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Grey-crowned Warbler(회색머리노랑솔새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/039100",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별·어린새: 이 종의 암수·어린새 깃을 다룬 자료를 두 곳 이상 찾지 못해 비워 둠(조사 중)",
+    "그림용 형태 정보(art)가 비어 있음: HKBWS(Leader & Carey 2016·Alström 2020 인용)와 새와 생명의 터 블로그(2021) 사진으로 채울 수 있음"
   ],
   "occurrence": {
     "code": "V2",

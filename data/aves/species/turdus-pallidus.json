@@ -5,7 +5,6 @@
   "author": "Gmelin, 1789",
   "en": "Pale Thrush",
   "ktsn": 120000002098,
-  "origin": "nibr",
   "length": "약 23cm",
   "status": "여름철새 10만 마리 이상 · 나그네새 수만 마리 · 텃새 수천 마리",
   "habitat": "숲",
@@ -60,7 +59,7 @@
     "male": "머리꼭대기가 올리브색 띤 석판 잿빛이고, 뺨과 귀깃, 멱이 잿빛이다.",
     "female": "머리꼭대기에서 위꽁지덮깃까지 수컷보다 붉은 기가 조금 적은 올리브 갈색으로, 머리와 등의 색 차이가 없다."
   },
-  "young": "TODO",
+  "young": "첫해 새는 암컷과 비슷하게 머리의 회색이 흐리고 멱 양옆에 줄무늬가 있으며, 큰날개덮깃 끝에 흰 반점이 있다.",
   "similar": [],
   "art": {
     "subject": "Pale Thrush (Turdus pallidus), adult male (no spring moult, so the plumage is the same on spring and autumn passage): crown and nape slate-grey with an olive tinge; lores and eye surround dark grey; chin white; cheeks, ear-coverts and throat grey; mantle, back and wings plain olive-brown; upper breast and breast sides olive grey-brown; flanks pale pinkish-brown; centre of the belly and the undertail coverts white; tail dark grey-brown, the outer feathers with broad white tips; upper mandible and tip of the lower mandible brown, base of the lower mandible yellow; brown eye; pale yellowish legs.",
@@ -101,6 +100,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Merula pallida",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus pallidus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Pale Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/046900",
+      "used": "어린새"
     }
   ],
   "todo": [],

@@ -5,16 +5,19 @@
   "author": "Thayer & Bangs, 1909",
   "en": "Zappey's Flycatcher",
   "ktsn": 120000155529,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "16–18cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬과 바닷가의 숲, 공원의 나무숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "봄 이동기에 서해 섬을 중심으로 드물게 기록되는 길잃은새로, 중국의 번식지로 가다가 지나쳐 온 개체로 여겨진다. 2008년 4월 어청도, 2010년 4월 제주 서귀포와 소청도, 5월 부천 등에서 수컷이 관찰되었으며, 암컷과 어린 수컷은 큰유리새와 구별하기 어려워 기록이 수컷에 치우친다. 중국 중부와 중동부에서 번식하고 말레이반도·수마트라·자와에서 겨울을 나며, 숲의 중간층과 나무 위에서 먹이를 찾는다.",
   "points": [
     {
       "ko": "청록빛 파란 윗면과 더 옅은 정수리(수컷)",
@@ -34,10 +37,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리·윗면·날개·꼬리가 청록빛 파란색이고, 얼굴·멱·윗가슴도 검지 않고 윗면보다 조금 어두운 청록색이며 눈앞만 더 어둡다. 아랫가슴부터 배까지는 희고, 꼬리 기부 양옆에 흰 무늬가 있다.",
+    "female": "윗면이 회갈색이고 날개·허리·꼬리에 적갈색이 돌며, 멱이 희고 가슴은 칙칙한 갈색, 배는 흰색이다. 큰유리새 암컷과는 야외에서 구별하기 어렵다."
   },
-  "young": "TODO",
+  "young": "첫겨울 수컷은 암컷처럼 몸이 갈색이지만 날개·허리·꼬리가 파랗다. 이 무렵에는 큰유리새 어린 수컷과 구별하기 어렵지만, 일부는 12월 무렵부터 멱·가슴·얼굴에 청록색 깃이 돋는다.",
   "similar": [],
   "art": {
     "subject": "Zappey's Flycatcher (Cyanoptila cumatilis), adult male, as seen on Korean islands during spring migration: crown bright turquoise-blue; upperparts, wings and tail deep blue with a slight turquoise tone; face, chin, throat and upper breast deep blue, a little darker and duller than the crown but never black, continuous with the blue of the head; lower breast and belly clean white, sharply divided from the blue; white bases to the outer tail feathers. Bill black; dark eye; legs black.",
@@ -87,11 +91,31 @@
       "title": "Zappey's flycatcher – Wikipedia (MacKinnon & Phillipps 2000 인용)",
       "url": "https://en.wikipedia.org/wiki/Zappey%27s_flycatcher",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "싱가포르 조류협회(Birds of Singapore) – Zappey's Flycatcher",
+      "url": "https://singaporebirds.com/species/zappeys-flycatcher/",
+      "used": "몸길이·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Birds Korea 2010년 리뷰 – Zappey's Flycatcher",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Birds Korea 2008년 리뷰 – Blue-and-White Flycatcher cumatilis",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(Cyanoptila cumatilis)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=7810001&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 상태 V1(해마다 10건 미만)과 Birds Korea 2010년 리뷰의 '해마다는 아닌(less than annual)' 기록 빈도가 다르다 — 최근 기록으로 확인 필요"
   ],
   "occurrence": {
     "code": "V1",

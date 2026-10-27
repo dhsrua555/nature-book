@@ -5,16 +5,21 @@
   "author": "Gmelin, 1789",
   "en": "Savannah Sparrow",
   "ktsn": 120000002241,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "하구와 바닷가 섬의 풀밭, 밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2,
+      4,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(1998년 2월 낙동강 하구, 10–11월 서해·남해 섬, 2025년 4월 제주)."
   },
-  "summary": "TODO",
+  "summary": "북아메리카에서 번식하는 새로, 우리나라에서는 1998년 2월 낙동강 하구에서 처음 기록된 뒤 가거도·백령도·흑산도·제주도 등에서 가을과 봄에 몇 차례 기록된 길잃은새이다. 탁 트인 풀밭과 농경지, 바닷가 초지에서 주로 땅 위를 걷거나 뛰어다니며 풀씨와 곤충을 먹는다. 알래스카와 캐나다, 미국 북부에서 멕시코와 과테말라에 걸쳐 번식하고 북쪽 무리는 겨울에 멕시코와 중앙아메리카, 서인도 제도 등으로 내려가며, 일본에서도 드문 겨울철새나 나그네새로 기록된다.",
   "points": [
     {
       "ko": "가는 흰 정수리 중앙선",
@@ -34,10 +39,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 더 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 전체적으로 담황색을 더 띠고 가슴과 옆구리의 세로줄이 더 굵고 많으며, 멱과 앞목에도 작은 검은 점이 있다.",
   "similar": [],
   "art": {
     "subject": "Savannah Sparrow (Passerculus sandwichensis), adult (sexes alike), a vagrant in Korean coastal grassland in autumn: crown streaked brown and black with a thin pale central stripe; a supercilium that is yellow in front of and above the eye and whitish behind; brown ear coverts outlined by a dark eye-stripe and a thin dark moustache, with a whitish submoustachial stripe and a dark malar stripe; upperparts grey-brown with bold dark streaks; wings brown with pale-fringed coverts and tertials; underparts white with crisp dark-brown streaks across the breast and along the flanks, often merging into a small central breast spot; tail short, notched, brown. Bill small, conical, pinkish with a darker culmen; eye dark; legs pink.",
@@ -83,10 +88,44 @@
       "title": "Wikipedia – Savannah sparrow (Byers, Olsson & Curson 1995, Sparrows and Buntings 인용)",
       "url": "https://en.wikipedia.org/wiki/Savannah_sparrow",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Animal Diversity Web – Passerculus sandwichensis",
+      "url": "https://animaldiversity.org/accounts/Passerculus_sandwichensis/",
+      "used": "몸길이·사는 곳·해설·암수 구별·어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – サバンナシトド(초원멧새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B5%E3%83%81%E3%83%92%E3%83%A1%E3%83%89%E3%83%AA",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 초원멧새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2003년 2월 – Savannah Sparrow(1998년 2월 낙동강 하구 첫 기록 언급)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-02.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2003년 11월 – Savannah Sparrow(2000·2001년 11월 가거도 언급)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-11.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 초원멧새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231142&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(대한민국) – 초원멧새",
+      "url": "https://www.inaturalist.org/observations?place_id=6891&taxon_id=9981",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

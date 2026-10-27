@@ -5,7 +5,6 @@
   "author": "Tunstall, 1771",
   "en": "Grey Wagtail",
   "ktsn": 120000002171,
-  "origin": "nibr",
   "length": "20cm",
   "status": "나그네새 수만 마리 · 여름철새 수천 마리 · 텃새 수십 마리",
   "habitat": "계곡, 하천, 연못 등 습지 주변",
@@ -25,7 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "봄 이동기인 4~5월에 가장 많이 보이고, 번식기는 일본 자료(혼슈에서는 4월부터 둥지를 틀고 북쪽에서는 6~7월에 번식)를 따랐다."
   },
   "summary": "계곡, 하천, 연못 같은 습지 주변에 살며 우리나라에서 흔히 번식하는 여름철새이다. 돌 틈이나 건물 틈에 가는 줄기와 뿌리로 둥지를 짓는다. 땅에서 걸을 때 다른 할미새류처럼 꼬리를 위아래로 까딱이고, 날 때는 물결 모양으로 오르내리며, 나무 꼭대기나 전깃줄, 지붕, 바위 위에 앉아 운다. 국내 전역에 살고 국외에서는 러시아, 중국, 일본, 인도차이나에 분포한다.",
   "points": [
@@ -59,7 +64,7 @@
     "male": "전체적으로 색이 더 짙고 아랫면의 노란색이 더 선명하며, 턱밑과 멱에 검은 반점이 있다.",
     "female": "수컷보다 색이 엷고 턱밑과 멱에 검은 반점이 없다."
   },
-  "young": "TODO",
+  "young": "겨울깃 어른새와 비슷하나 멱과 가슴이 담황색을 띠고 멱 양옆에 회흑색 얼룩이 조금 있으며, 허리의 노란색도 칙칙하다.",
   "similar": [],
   "art": {
     "subject": "Grey Wagtail (Motacilla cinerea), adult male in breeding plumage, as seen along Korean mountain streams from April to August: blue-grey crown, nape, mantle and back; a narrow white supercilium and a white submoustachial stripe framing grey ear-coverts; chin and throat black; rump yellowish-green; wings blackish with whitish edges to the tertials; underparts bright lemon-yellow, most intense on the vent and undertail coverts; long black tail with white outer tail feathers. Long, thin dark grey bill; dark eye; pink legs.",
@@ -99,9 +104,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Grey Wagtail(노랑할미새)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 3권(2판) – Grey Wagtail(노랑할미새)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207295",
+      "used": "어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – Grey Wagtail(노랑할미새)",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – Grey Wagtail(노랑할미새)",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 영어판 – Grey Wagtail(노랑할미새)",
+      "url": "https://en.wikipedia.org/wiki/Grey_wagtail",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식기(알 낳는 때~둥지 떠나는 때)를 밝힌 자료를 찾지 못해 일본(Austin & Kuroda 1953)과 일반 자료(4~7월)로 채웠다(국내 자료로 확인 필요)"
+  ],
   "occurrence": {
     "code": "P2, S3, R5",
     "bs": "1",

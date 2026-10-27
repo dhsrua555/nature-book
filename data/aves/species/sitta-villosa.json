@@ -5,7 +5,6 @@
   "author": "Verreaux, 1865",
   "en": "Chinese Nuthatch",
   "ktsn": 120000002075,
-  "origin": "nibr",
   "length": "약 12cm",
   "status": "겨울에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "산지의 침엽수림",
@@ -55,11 +54,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리꼭대기가 광택 있는 검은색이고, 흰 눈썹선과 검은 눈선이 뚜렷하다.",
+    "female": "머리꼭대기가 검지 않고 등과 같은 청회색이어서, 수컷과 달리 검은 모자가 없다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "동고비",
+      "how": "동고비는 몸이 더 크고 옆구리와 아래꼬리덮깃에 밤색이 있으며 흰 눈썹선이 거의 없지만, 쇠동고비는 흰 눈썹선이 뚜렷하고 아랫면이 고른 담황색이다."
+    }
+  ],
   "art": {
     "subject": "Chinese Nuthatch (Sitta villosa), adult male in winter: glossy black crown and nape; a narrow white supercilium from the forehead to the side of the nape; a long, narrow blackish eye-stripe from the lores through the eye to the neck sides; cheeks, ear-coverts and throat creamy, the chin and centre of the throat almost white; hindneck, back, rump, wing-coverts, tertials and central tail feathers uniform dark blue-grey; flight feathers dark grey-brown with narrow blue-grey edges; breast, belly and undertail coverts pale cream-buff without any chestnut; outermost tail feathers black on the basal two-thirds. Bill slender, dark grey with a paler base below; dark eye; legs grey.",
     "pose": "clinging to a dead tree trunk beside a self-excavated nest hole",
@@ -98,9 +103,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – 쇠동고비·나무발발이",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Chinese nuthatch(쇠동고비)",
+      "url": "https://en.wikipedia.org/wiki/Chinese_nuthatch",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – 굴뚝새·상모솔새·동고비·나무발발이·동박새·한국동박새·쇠동고비",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "young: 쇠동고비 어린새는 위키백과 영어판(어린 수컷은 머리꼭대기가 어른 수컷보다 덜 검고 아랫면이 더 계피색) 한 곳에서만 확인되어 비워 두었다"
+  ],
   "occurrence": {
     "code": "WV1",
     "bs": "0",

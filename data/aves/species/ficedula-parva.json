@@ -5,15 +5,22 @@
   "author": "Bechstein, 1792",
   "en": "Red-breasted Flycatcher",
   "ktsn": 120000002143,
-  "origin": "nibr",
   "length": "약 11cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "봄과 가을에 중부 이북을 지나가며, 번식지에서는 5월 중순~6월에 알을 낳는다."
+    "note": "국내에서 기록된 달이다. 주로 4~5월과 10~11월에 섬에서 보이고 도심 공원에서 겨울을 나기도 하며, 번식지에서는 5월 중순~6월에 알을 낳는다."
   },
   "summary": "봄과 가을에 한반도 중부 이북에 드물게 나타나는 길잃은새로, 숲속에서 번식한다. 홀로 또는 암수가 함께 지내며 곤충을 주로 먹지만 장미과 열매도 먹는다. 5월 중순~6월에 한 해 한 번, 한배에 알 4~7개를 낳는다. 시베리아, 알타이, 몽골 북부, 아무르, 우수리에서 번식하고 중국 남부, 하이난섬, 인도차이나, 인도, 말레이반도 등지에서 겨울을 난다.",
   "points": [
@@ -47,8 +54,13 @@
     "male": "겨울깃은 이마에서 허리까지 고른 잿빛 갈색이고, 턱밑과 멱은 오렌지 황갈색이다.",
     "female": "겨울깃의 등 쪽은 수컷 겨울깃과 같으나 갈색기가 다소 많은 편이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면 깃 가운데가 적갈빛 담황색이고 가장자리가 어두워 점무늬처럼 보이며, 가슴에 갈색 얼룩이 있다. 첫겨울에는 암수 모두 어른 암컷처럼 멱이 담황색이고, 셋째날개깃과 큰날개덮깃 끝에 담황색 점이 남는다.",
+  "similar": [
+    {
+      "ko": "흰꼬리딱새",
+      "how": "흰꼬리딱새는 위꼬리덮깃이 꼬리보다 검고 부리가 온통 검으며, 번식기 수컷의 주황빛 붉은색이 멱에만 있고 그 아래에 회색 가슴띠가 있다."
+    }
+  ],
   "art": {
     "subject": "Red-breasted Flycatcher (Ficedula parva), adult male, as seen on spring or autumn migration: forehead, crown, nape, back and rump uniform grey-brown; uppertail coverts dark brown; lores, cheeks, ear-coverts and neck sides ash-grey; a narrow dull white eye-ring; chin, throat and upper breast orange-red, bordered by grey on the breast sides and flanks; lower breast and belly creamy white; wings dark brown with narrow pale fringes; tail blackish with large white patches at the base of the outer feathers. Bill dark brown with a pale pinkish base to the lower mandible; dark brown iris; slender dark legs.",
     "pose": "perched on a low branch in the forest, side view",
@@ -87,6 +99,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Red-breasted Flycatcher",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Sharpe(1879) Catalogue of the Birds in the British Museum 4권 – Muscicapa parva",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India – Birds 2권(1924) – Siphia parva",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Muscicapa parva·M. albicilla",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은가슴흰꼬리딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2492605&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2009",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2007",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2003",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Red-breasted Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050800",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Red-throated Flycatcher(흰꼬리딱새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050700",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

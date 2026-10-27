@@ -5,16 +5,24 @@
   "author": "Vieillot, 1817",
   "en": "Common Chiffchaff",
   "ktsn": 120000002042,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "11–12cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 덤불, 저수지와 습지 주변의 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2004년 4월 하태도에서 처음 기록된 뒤 거의 해마다 봄·가을 이동기에 서해와 남해의 섬에서 기록되고, 겨울에 저수지나 습지 주변에서 겨울을 나는 개체도 드물게 보이는 길잃은새다. 국내에 오는 것은 시베리아에서 번식하고 인도 쪽에서 겨울을 나는 아종 tristis 로, 몸에 노란빛이 거의 없고 다리가 검다. 덤불과 낮은 나무 사이를 부지런히 옮겨 다니며 곤충을 잡고, 먹이를 찾을 때 꼬리를 아래로 까딱이는 버릇이 있다.",
   "points": [
     {
       "ko": "담황백색 눈썹선",
@@ -42,11 +50,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 첫 털갈이를 마치면 어른새와 거의 같아 가을·겨울에는 가려보기 어렵고, 갓 깃이 난 어린새는 윗면에 초록빛이 없이 갈색을 띤다.",
+  "similar": [
+    {
+      "ko": "연노랑솔새",
+      "how": "연노랑솔새는 다리가 연한 분홍빛 갈색이고 날개끝이 길게 나오며 아랫면이 더 노랗지만, 검은다리솔새는 다리가 검고 날개끝이 짧다."
+    }
+  ],
   "art": {
     "subject": "Common Chiffchaff (Phylloscopus collybita), adult of the Siberian race tristis, as seen in Korea in late autumn: upperparts cold grey-brown with a faint olive-green tinge only on the rump and the edges of the wing and tail feathers; buffish-white supercilium and a dark eye-stripe; a thin pale crescent below the eye; ear-coverts and breast sides warm buff; underparts off-white with buff flanks; no wing-bars; a small yellow patch only at the bend of the wing and on the underwing. Bill fine and blackish; dark eye; legs black.",
     "pose": "flitting through low bare twigs with the tail dipped downward, side view",
@@ -101,10 +114,80 @@
       "title": "tristis and abietinus Chiffchaffs – Birds of Saudi Arabia",
       "url": "https://www.birdsofsaudiarabia.com/2015/03/tristis-and-abietinus-chiffchaffs.html",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot véloce(검은다리솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.veloce.html",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas(Aranzadi) – Common Chiffchaff(검은다리솔새)",
+      "url": "https://www.blascozumeta.com/specie_files/13110_ENG_Phylloscopus_collybita_aranzadi.pdf",
+      "used": "몸길이·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 12월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-12.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은다리솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493091&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 솔새류(Phylloscopus)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "사는 곳·해설·어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판(Clement 1995·BWP 인용 부분) – Common chiffchaff(검은다리솔새)",
+      "url": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+      "used": "해설·어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2012년 10월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2012-10.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 11월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-11.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot fitis(연노랑솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.fitis.html",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

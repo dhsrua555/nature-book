@@ -5,16 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Meadow Pipit",
   "ktsn": 120000002177,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "강가와 하천 둘레의 풀밭, 농경지, 섬과 바닷가의 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에는 아주 드물게 찾아오는 길잃은새로, 2006년 12월 흑산도에서 처음 기록된 뒤 한강 팔당·미사리와 인천, 제주 등지에서 겨울부터 봄 사이에 몇 차례 기록되었다. 트인 풀밭과 농경지의 땅 위를 걸어 다니며 곤충과 그 애벌레, 거미 따위를 주로 먹고 가끔 풀씨도 먹는다. 유럽 북부와 아이슬란드에서 서시베리아 북부에 걸쳐 번식하고, 겨울에는 유럽 남부와 북아프리카, 중동으로 내려간다.",
   "points": [
     {
       "ko": "검은 세로줄 있는 올리브갈색 윗면",
@@ -38,11 +44,20 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새와 거의 같으나 윗면의 어두운 무늬가 더 또렷하고, 아랫면에 누런빛이 더 돈다.",
+  "similar": [
+    {
+      "ko": "나무밭종다리",
+      "how": "나무밭종다리는 몸이 조금 더 크고 뒷발톱이 짧고 많이 굽었으며, 옆구리의 세로줄이 가슴보다 훨씬 가늘다."
+    },
+    {
+      "ko": "붉은가슴밭종다리",
+      "how": "붉은가슴밭종다리는 허리와 위꼬리덮깃에도 검은 줄무늬가 뚜렷하지만, 풀밭종다리는 허리에 줄무늬가 거의 없다."
+    }
+  ],
   "art": {
     "subject": "Meadow Pipit (Anthus pratensis), adult in winter (sexes alike), a vagrant in Korean farmland: upperparts olive-brown with dark streaks on the crown and mantle, the rump plain and unstreaked; face rather plain with a faint pale supercilium, a pale eye-ring and a thin dark malar stripe; wings brown with two narrow pale wing bars and pale-fringed tertials; underparts whitish with a buff wash on the breast and flanks, the breast densely marked with fine dark streaks that continue as thinner streaks along the flanks; outer tail feathers white. Bill thin and dark with a pale base to the lower mandible; eye dark; legs pinkish.",
     "pose": "walking among short grass, side view",
@@ -96,11 +111,56 @@
       "title": "Meadow Pipit – BTO BirdFacts",
       "url": "https://www.bto.org/understanding-birds/birdfacts/meadow-pipit",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net 종 설명 – 풀밭종다리(Meadow Pipit)",
+      "url": "https://www.oiseaux.net/oiseaux/pipit.farlouse.html",
+      "used": "몸길이·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판 – 풀밭종다리",
+      "url": "https://ja.wikipedia.org/wiki/マキバタヒバリ",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 12월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-12.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 1월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-01.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 풀밭종다리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490266&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 풀밭종다리",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "사는 곳·해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "Hartert (1903–10) Die Vögel der paläarktischen Fauna 1권 – 풀밭종다리",
+      "url": "https://archive.org/details/dievgelderpal01hart",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 풀밭종다리(Meadow Pipit)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/054500",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "몸길이: 믿을 만한 독립 자료가 Oiseaux.net 한 곳뿐이다(위키백과 값은 같은 계열)"
   ],
   "occurrence": {
     "code": "V2",

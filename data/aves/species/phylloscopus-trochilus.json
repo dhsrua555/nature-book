@@ -5,16 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "Willow Warbler",
   "ktsn": 120000002041,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "11–12.5cm",
   "status": "이동기에 드물게 찾아옴, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 숲 가장자리와 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      9
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "유라시아 북부에서 번식하고 아프리카에서 겨울을 나는 솔새로, 우리나라에서는 2006년 9월 홍도에서 처음 확인된 뒤 봄·가을 이동기에 서해와 남해의 섬에서 몇 차례만 기록되었다. 국내 기록은 시베리아 중부·동부에서 번식하는 아종 yakutensis 로 여겨진다. 숲 가장자리와 덤불에서 나뭇잎 사이의 곤충을 잡아먹으며, 번식지에서는 땅 위 덤불이나 풀숲에 지붕 덮인 둥지를 짓는다.",
   "points": [
     {
       "ko": "길고 엷은 눈썹선",
@@ -34,11 +38,20 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "가을의 첫해 어린새는 어른새보다 멱에서 배까지 아랫면이 고르게 노랗고 아래꼬리덮깃도 노랗다.",
+  "similar": [
+    {
+      "ko": "검은다리솔새",
+      "how": "검은다리솔새는 다리가 검고 날개끝이 짧지만, 연노랑솔새는 다리가 연한 분홍빛 갈색이고 날개끝이 길게 나온다."
+    },
+    {
+      "ko": "노랑가슴솔새",
+      "how": "노랑가슴솔새는 조금 크고 날개끝이 더 길며, 노란 멱·윗가슴과 순백색 배가 뚜렷하게 나뉜다."
+    }
+  ],
   "art": {
     "subject": "Willow Warbler (Phylloscopus trochilus), adult on autumn passage, of the greyish eastern form that reaches East Asia: upperparts plain greyish olive-brown with a faint greenish tinge on the rump and on the edges of the wing and tail feathers; a long pale yellowish-white supercilium from the bill base to well behind the eye and a dusky eye-stripe; ear-coverts mottled; underparts whitish with a faint pale yellow wash on the throat and breast and greyish-buff breast sides; no wing-bars; fine bill, dark with a pale pinkish-yellow base to the lower mandible; dark eye; pale pinkish-brown legs.",
     "pose": "foraging among willow leaves, side view, reaching for an insect",
@@ -88,10 +101,65 @@
       "title": "Willow Warbler – Birds of Kazakhstan",
       "url": "https://kz.birding.day/v2taxon.php?s=486&l=en",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot fitis(연노랑솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.fitis.html",
+      "used": "몸길이·어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2007년 10월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-10.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·네이처링) – 연노랑솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493052",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2012년 5월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2012-05.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "위키백과 독일어판 – Fitis(연노랑솔새)",
+      "url": "https://de.wikipedia.org/wiki/Fitis",
+      "used": "해설"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 솔새류(Phylloscopus)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas(Aranzadi) – Willow Warbler(연노랑솔새)",
+      "url": "https://www.blascozumeta.com/specie_files/13120_ENG_Phylloscopus_trochilus_aranzadi.pdf",
+      "used": "어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 11월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-11.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot siffleur(노랑가슴솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.siffleur.html",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,15 +5,23 @@
   "author": "Pallas, 1811",
   "en": "Pallas's Leaf Warbler",
   "ktsn": 120000002046,
-  "origin": "nibr",
   "length": "약 9cm",
   "status": "나그네새 수천 마리 · 여름철새 수백 마리 · 겨울에도 드물게 기록",
   "habitat": "산지 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 중순~7월 상순에 알을 낳는다."
+    "note": "4월 하순에 가장 많이 지나가고 가을에는 10월에 많으며, 번식지에서는 5월 중순~7월 상순에 알을 낳고 남부와 제주도에서는 겨울에도 드물게 기록된다."
   },
   "summary": "우리나라 북부 지역에서 봄과 가을에 드물지 않게 지나가는 나그네새로, 중부 이남에서는 볼 수 없다. 솔새 가운데 가장 작으며, 산지 숲에 살면서 주로 침엽수나 낙엽활엽수의 꼭대기 가까이에 앉고 곤충을 주로 먹는다. 사할린, 아무르, 우수리, 바이칼호, 알타이, 만주 북부, 몽골 북부 등지에서 번식하며 5월 중순~7월 상순에 한배에 5~6개, 때로는 7개의 알을 낳는다. 중국 남부, 인도차이나, 하이난섬 등지에서 겨울을 난다.",
   "points": [
@@ -38,8 +46,13 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새와 비슷하나 윗면이 갈색을 띠고 머리 가운데 선과 눈썹선이 흐리며 아랫면이 연한 잿빛 흰색이다. 첫겨울깃은 어른새와 거의 같다.",
+  "similar": [
+    {
+      "ko": "노랑눈썹솔새",
+      "how": "노랑눈썹솔새는 머리 가운데 선이 흐리고 허리가 등과 같은 색이지만, 노랑허리솔새는 머리 가운데에 뚜렷한 노란 선이 있고 허리가 노랗다."
+    }
+  ],
   "art": {
     "subject": "Pallas's Leaf Warbler (Phylloscopus proregulus), adult on passage (sexes alike): a pale yellow central crown stripe between dark olive lateral crown stripes; a long, broad supercilium, bright yellow in front of the eye and paler behind; a dark olive eye-stripe; upperparts dark olive-green; a clear pale lemon-yellow rump patch; wings dark with two yellowish-white wing-bars and pale-edged tertials; tail dark olive; underparts whitish with a faint yellowish wash; tiny, fine dark bill; dark eye.",
     "pose": "perched near the top of a conifer, side view",
@@ -80,6 +93,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 솔새류(Phylloscopus)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 독일어판(K. Baker 1997 인용 부분) – Goldhähnchen-Laubsänger(노랑허리솔새)",
+      "url": "https://de.wikipedia.org/wiki/Goldh%C3%A4hnchen-Laubs%C3%A4nger",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 영어판(Svensson 외·K. Baker 1997 인용 부분) – Pallas's leaf warbler(노랑허리솔새)",
+      "url": "https://en.wikipedia.org/wiki/Pallas%27s_leaf_warbler",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 노랑허리솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493090&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "위키백과 일본어판(山溪ハンディ図鑑 인용) – キマユムシクイ(노랑눈썹솔새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9E%E3%83%A6%E3%83%A0%E3%82%B7%E3%82%AF%E3%82%A4",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Pallas's Leaf Warbler(노랑허리솔새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038100",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

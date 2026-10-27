@@ -5,15 +5,30 @@
   "author": "Blyth, 1842",
   "en": "Dusky Warbler",
   "ktsn": 120000002043,
-  "origin": "nibr",
   "length": "평균 134mm",
   "status": "나그네새 수천 마리 · 여름철새 수백 마리 · 겨울철새 수백 마리",
   "habitat": "자작나무 숲, 버드나무 숲, 낙엽침엽수 혼합림, 풀이 무성한 툰드라",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "5월 말에 수컷의 지저귐이 가장 활발하다."
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      6,
+      7
+    ],
+    "note": "4월 하순~5월 하순과 9월 하순~11월 초순 이동기에 가장 많으며, 여름에는 북동부에서 적은 수가 번식하고(5월 말에 수컷의 지저귐이 가장 활발하다) 겨울에는 남서부를 중심으로 일부가 겨울을 난다."
   },
   "summary": "우리나라에서는 주로 이동 시기에 볼 수 있는 나그네새이며, 북부 지역에서는 적은 수가 번식하기도 한다. 자작나무 숲과 버드나무 숲, 낙엽침엽수 혼합림, 풀이 우거진 툰드라를 좋아하고, 5월 말에 수컷의 지저귐이 가장 활발하며 2m쯤 되는 분비나무나 신갈나무 꼭대기에서 노래하는 모습이 자주 보인다. 둥지는 주로 볏과 식물 줄기 밑동이나 눈잣나무, 매발톱나무 줄기에 마른 풀줄기를 성글게 엮어 옆에 작은 입구를 낸 긴 공 모양으로 짓고, 흰 알을 낳는다. 겨울은 아시아에서 난다.",
   "points": [
@@ -39,11 +54,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새와 거의 같으나 윗면에 올리브빛이 조금 돌고 가슴이 더 잿빛이며, 첫겨울깃은 멱과 배 가운데가 더 노르스름하다.",
+  "similar": [
+    {
+      "ko": "긴다리솔새사촌",
+      "how": "긴다리솔새사촌은 조금 크고 부리가 짧고 굵으며 다리가 굵고 연한 색이고, 눈썹선은 눈 앞쪽이 흐린 담황색이고 뒤쪽이 희다."
+    }
+  ],
   "art": {
     "subject": "Dusky Warbler (Phylloscopus fuscatus), adult in spring (sexes alike), singing: upperparts plain dark earthy brown with no green or yellow tones and no wing-bars; a sharp whitish supercilium, brightest and most clear-cut in front of the eye and becoming buffier behind it; a dark brown eye-stripe from the bill to the nape; ear-coverts brown; throat whitish; breast and belly dirty off-white, with a buff-brown wash on the breast sides, flanks and undertail coverts; fine thin bill, dark with a yellowish base to the lower mandible; dark eye; slender brownish legs.",
     "pose": "perched at the top of a small fir, singing",
@@ -81,6 +101,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 솔새류(Phylloscopus)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·번식기·암수 구별"
+    },
+    {
+      "title": "위키백과 영어판 – Dusky warbler(솔새사촌)",
+      "url": "https://en.wikipedia.org/wiki/Dusky_warbler",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "위키백과 독일어판 – Dunkellaubsänger(솔새사촌)",
+      "url": "https://de.wikipedia.org/wiki/Dunkellaubs%C3%A4nger",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 솔새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493075&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "번식기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Radde's Warbler(긴다리솔새사촌)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038300",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판(Witherby 인용 부분) – Radde's warbler(긴다리솔새사촌)",
+      "url": "https://en.wikipedia.org/wiki/Radde%27s_warbler",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
@@ -88,7 +158,8 @@
     "원문의 둥지 크기(바깥지름 11.5~12.0mm, 깊이 6.5~9.0mm, 입구 3.3~4.0mm)는 단위가 틀린 것으로 보여 싣지 않음",
     "원문은 번식지를 알래스카 북부·서부라 하여 다른 종 설명이 섞인 것으로 보여 번식지 분포는 싣지 않음",
     "원문에 생김새 설명이 없음",
-    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)",
+    "번식기(6–7월)는 국내 자료가 없어 Witherby(1920, 6월 중순)와 Baker(1924, 아무르 지역 알 7월)의 국외 번식지 기록으로 썼다"
   ],
   "occurrence": {
     "code": "P3, S4, W4",

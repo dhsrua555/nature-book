@@ -5,17 +5,23 @@
   "author": "Hay, 1845",
   "en": "Yellow-rumped Flycatcher",
   "ktsn": 120000002140,
-  "origin": "nibr",
   "length": "13cm",
   "status": "여름철새 수만 마리 · 나그네새 수천 마리",
   "habitat": "도시 공원, 정원, 평지와 구릉의 작은 숲, 활엽수림과 혼효림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       5
     ],
-    "note": "알 낳는 시기는 5월 무렵이다."
+    "note": "4월에 찾아와 9월까지 머물고 10월에도 드물게 보이며, 알은 5월 무렵에 낳는다."
   },
   "summary": "전국에서 번식하는 흔하지 않은 여름철새로, 도시 공원과 정원, 평지와 구릉의 작은 숲, 활엽수림이나 혼효림이 있는 곳에서 지낸다. 주로 전나무 가지 위에 둥지를 짓거나 나무 구멍과 인공 둥지 상자를 쓰며, 5월 무렵 알 5~6개를 낳는다. 곤충과 거미를 잡아먹는다. 국외에서는 구북구 동부, 만주, 중국 동부에서 번식하고 말레이반도, 수마트라 등지에서 겨울을 난다.",
   "points": [
@@ -49,8 +55,13 @@
     "male": "윗면이 검고 눈썹선은 희며, 아랫면은 선명한 노란색이다.",
     "female": "윗면은 녹회색이고 아랫면은 흰빛에 가까운 옅은 노란색이며, 눈썹선은 짧고 흐릿하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새(8~9월)는 암컷처럼 윗면이 올리브빛 갈색이고 머리에 무늬가 없으며, 아랫면은 노란 기가 돌고 가슴이 얼룩덜룩하며 날개에 옅은 줄이 두 개 있다. 이때도 노란 허리와 안쪽 큰날개덮깃·셋째날개깃의 흰 무늬가 있어 다른 황금새 무리와 구별되고, 첫겨울 수컷은 암컷과 거의 구별되지 않는다.",
+  "similar": [
+    {
+      "ko": "황금새",
+      "how": "황금새 수컷은 눈썹선이 노랗고 멱이 짙은 주황색이며, 암컷과 어린새는 허리가 노랗지 않고 꼬리가 적갈색이다."
+    }
+  ],
   "art": {
     "subject": "Yellow-rumped Flycatcher (Ficedula zanthopygia), adult male in breeding plumage, as seen in Korean woodland from May to August: crown, nape, mantle and scapulars black; a white supercilium above and behind the eye; lores black; wings black with a long white patch on the inner wing coverts; rump bright yellow, contrasting with the black back and black tail; chin, throat, breast and belly bright yellow, richest on the throat and breast; undertail coverts white. Short black bill; dark eye; dark brown legs.",
     "pose": "perched on a broadleaf branch, side view",
@@ -90,6 +101,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Moores 2005) – Narcissus Flycatchers types: notes on their Identification and Status",
+      "url": "https://www.birdskorea.org/Birds/Identification/ID_Notes/BK-ID-Narcissus-Flycatchers-types.shtml",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Yellow-rumped Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/049900",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Sharpe(1879) Catalogue of the Birds in the British Museum 4권 – Xanthopygia tricolor·X. narcissina",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰눈썹황금새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231276&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,16 +5,18 @@
   "author": "La Touche, 1922",
   "en": "Claudia's Leaf Warbler",
   "ktsn": 120000528741,
-  "origin": "nibr",
   "length": "TODO",
   "status": "이동기에 드물게 찾아옴, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "이동기에 드물게 찾아오는 종으로, 2009년 4월 소청도에서 처음 기록되었고 지금까지 국내 기록은 10건 미만이다. 국내 기록은 모두 4월에 서해와 제주의 섬에서 나왔다. 중국의 온대 산지 숲에서 번식한다.",
   "points": [
     {
       "ko": "연한 정수리 가운데줄과 짙은 옆머리띠",
@@ -82,10 +84,45 @@
       "title": "Avifauna of Hong Kong (HKBWS): Hartert's Warbler (sister species of Claudia's)",
       "url": "https://avifauna.hkbws.org.hk/species/0320/040400",
       "used": "동정 포인트·도해 모습 (연한 가운데 정수리줄과 뒤로 갈수록 짙은 옆머리띠, 넓은 눈썹선, 노르스름한 날개띠 두 줄, 연주황 아랫부리, 줄기에 붙어 먹이 찾기)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009-04 – 히말라야산솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-04.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2010-04 – 히말라야산솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-04.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 리뷰 – 히말라야산솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 리뷰 – 히말라야산솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 히말라야산솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5789205&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판 – Claudia's Leaf Warbler(히말라야산솔새)",
+      "url": "https://en.wikipedia.org/wiki/Claudia%27s_leaf_warbler",
+      "used": "해설"
+    },
+    {
+      "title": "Oiseaux.net – Claudia's Leaf Warbler(히말라야산솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.claudia.html",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "몸길이, 암수 구별, 어린새는 이 종을 다룬 자료를 두 곳 이상 찾지 못해 비워 두었다",
     "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
   ],
   "occurrence": {

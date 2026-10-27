@@ -5,16 +5,18 @@
   "author": "La Touche, 1907",
   "en": "Fujian Niltava",
   "ktsn": 120000002149,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "18cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 나무숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2010년 11월 13일 제주 마라도에서 암컷 한 마리가 그물에 걸려 사진으로 기록된 것이 국내 첫 기록인 길잃은새로, 생김새와 몸 치수에 DNA 분석을 더해 종을 확인했다. 국외에서는 그늘진 늘푸른넓은잎나무 숲에 살며, 낮은 가지에 조용히 앉아 있다가 곤충을 잡는다. 중국 중부·남부와 베트남의 산지 숲에서 번식하고, 일부는 겨울에 중국 남부와 홍콩, 라오스, 베트남, 캄보디아로 옮겨 간다.",
   "points": [
     {
       "ko": "밝은 파란 정수리(수컷)",
@@ -91,11 +93,27 @@
       "title": "Fujian niltava – Wikipedia (사진 설명만)",
       "url": "https://en.wikipedia.org/wiki/Fujian_niltava",
       "used": "도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Gobemouche de David(붉은가슴딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/gobemouche.de.david.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Birds Korea 2010년 리뷰 – Fujian Niltava 국내 첫 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(Niltava davidi)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2492652&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
+    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)",
+    "sexes·young: 홍콩조류학회 종 설명 한 곳에서만 확인했다(수컷 파란 머리꼭대기·검푸른 멱·주황빛 적갈색 가슴, 암컷 갈색에 아랫멱의 흰 반달무늬, 첫겨울 수컷은 아랫부리 기부가 희고 날개깃이 갈색) — 두 번째 자료 필요",
+    "국내 기록 논문(Kim H-J 외 2010, 한국조류학회지 19(2): 127–131, 형태와 DNA 바코드로 동정)을 직접 보지 못했다"
   ],
   "occurrence": {
     "code": "V2",

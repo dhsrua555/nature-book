@@ -5,18 +5,25 @@
   "author": "Radde, 1863",
   "en": "Radde's Warbler",
   "ktsn": 120000002045,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12.5–14cm",
   "status": "나그네새 수백 마리 · 여름철새 수십 마리",
   "habitat": "침엽수림, 숲 가장자리, 숲 가까운 초지, 관목이 무성한 초지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       6,
       7
     ],
-    "note": "산란기는 6월 상순~7월 하순이다."
+    "note": "5월과 9월 하순~10월 초순 이동기에 주로 보이고, 북동부 산지에서 번식하는 개체는 6월 상순~7월 하순에 알을 낳는다."
   },
   "summary": "백두산과 묘향산 고지대에서 드물지 않게 번식하는 여름철새이며, 중부 이북을 지나가는 나그네새이기도 하다. 침엽수림 속이나 숲 가장자리, 숲 가까운 초지에 둥지를 틀며, 특히 관목이 우거진 초지에 산다. 번식기에는 암수가 함께 지내고, 6월 상순~7월 하순에 한배에 4~5개의 알을 낳는다. 곤충과 거미류를 즐겨 먹으며, 시베리아, 사할린, 우수리, 만주, 한국 북부 등지에서 번식하고 중국과 인도차이나에서 겨울을 난다.",
   "points": [
@@ -38,11 +45,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새와 비슷하나 아랫면이 훨씬 노르스름하다.",
+  "similar": [
+    {
+      "ko": "솔새사촌",
+      "how": "솔새사촌보다 조금 크고 부리가 짧고 굵으며 다리가 굵고 연한 색이고, 눈썹선은 눈 앞쪽이 담황색으로 흐리고 뒤쪽이 희다(솔새사촌은 대개 반대)."
+    }
+  ],
   "art": {
     "subject": "Radde's Warbler (Phylloscopus schwarzi), adult, as seen in Korean shrubby grassland and forest edge: upperparts plain olive-brown, without wing-bars; a long, broad supercilium, buffy-yellowish in front of the eye and creamy-white behind it, set off by a dark brown eye-stripe; cheeks mottled buff-brown; underparts creamy-white, washed buff on the breast sides and flanks and warmer buff on the undertail coverts; tail plain brown; bill rather short and thick for a leaf warbler, dark brown above with a pale yellowish-pink lower mandible; dark eye; stout yellowish-peach legs.",
     "pose": "perched low in a shrub, side view",
@@ -81,6 +93,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Radde's Warbler(긴다리솔새사촌)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038300",
+      "used": "몸길이·어린새·비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot de Schwarz(긴다리솔새사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.schwarz.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "위키백과 독일어판 – Bartlaubsänger(긴다리솔새사촌)",
+      "url": "https://de.wikipedia.org/wiki/Bartlaubs%C3%A4nger",
+      "used": "어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 솔새류(Phylloscopus)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 긴다리솔새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493063&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판(Witherby 인용 부분) – Radde's warbler(긴다리솔새사촌)",
+      "url": "https://en.wikipedia.org/wiki/Radde%27s_warbler",
+      "used": "암수 구별·비슷한 종"
     }
   ],
   "todo": [],

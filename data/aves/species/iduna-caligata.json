@@ -5,16 +5,19 @@
   "author": "M.H.K. Lichtenstein, 1823",
   "en": "Booted Warbler",
   "ktsn": 120000525702,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "11.5–12cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 섬의 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      9
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "한국에서는 2011년 9월과 2018년 5월 어청도 등에서 몇 차례만 기록된 길잃은새이다. 러시아 서부에서 시베리아 서남부, 카자흐스탄 북부, 몽골 서북부에 걸쳐 번식하고 인도에서 겨울을 난다. 물가의 덤불이나 메마른 초원의 관목 사이를 낮게 오가며 곤충을 잡아먹는다.",
   "points": [
     {
       "ko": "뚜렷하지만 짧은 흰 눈썹선",
@@ -38,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같아 가을에는 나이를 가리기 어렵다. 첫가을 어린새는 깃이 덜 닳았고 얼굴과 가슴, 옆구리에 엷은 담황색 기가 돈다.",
   "similar": [],
   "art": {
     "subject": "Booted Warbler (Iduna caligata), adult (sexes alike) in autumn: upperparts plain pale greyish-brown with a sandy tinge; a short whitish supercilium reaching a little behind the eye, often with a faint darker line above its front part; thin dusky eye-stripe; underparts whitish with a buff wash on the breast sides and flanks; wings plain brown with pale edges to the tertials; tail plain brown, the outer feathers edged whitish; short fine bill, dark above, the lower mandible pale with a dusky tip; dark eye; pale pinkish-grey legs.",
@@ -92,11 +95,47 @@
       "title": "Focus on Booted Warbler – BirdGuides (검색 요약으로 확인)",
       "url": "https://www.birdguides.com/articles/focus-on-booted-warbler",
       "used": "동정 포인트"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Booted Warbler(쇠덤불개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/041300",
+      "used": "몸길이·어린새·해설"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Booted Warbler(쇠덤불개개비)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130899",
+      "used": "몸길이·사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2013년 9월 – 2011년 9월 쇠덤불개개비 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-09.shtml",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Trip Report: Eocheong Island, May 2018",
+      "url": "https://www.birdskoreablog.org/?p=21727",
+      "used": "관찰 시기·사는 곳·해설"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Hypolais caligata",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Hypolais rama·caligata",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Hypolaïs bottée(쇠덤불개개비)",
+      "url": "https://www.oiseaux.net/oiseaux/hypolais.bottee.html",
+      "used": "암수 구별·어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "2011년 9월 기록의 장소를 확인하지 못했다"
   ],
   "occurrence": {
     "code": "V2",

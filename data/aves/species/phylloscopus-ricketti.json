@@ -5,16 +5,18 @@
   "author": "H.H.Slater, 1897",
   "en": "Sulphur-breasted Warbler",
   "ktsn": 120000525703,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "10–11cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 덤불과 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2015년 4월 흑산도에서 처음 확인된 길잃은새로, 지금까지 기록이 10건 미만이다. 중국 중남부의 낮은 산지 숲에서 번식하고 라오스·태국·캄보디아 등 인도차이나에서 겨울을 난다.",
   "points": [
     {
       "ko": "굵은 검은 머리옆선",
@@ -90,10 +92,30 @@
       "title": "Shanghai Birding – Sulphur-breasted Warbler (Craig Brelsford)",
       "url": "https://www.shanghaibirding.com/tag/sulphur-breasted-warbler/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Sulphur-breasted Warbler(노랑배솔새)",
+      "url": "https://www.oiseaux.net/birds/sulphur-breasted.warbler.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "한겨레 (2015-05-03) – 흑산도에서 국내 미기록종 철새 ‘노랑배솔새’ 발견",
+      "url": "https://www.hani.co.kr/arti/society/environment/689533.html",
+      "used": "몸길이·사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 노랑배솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493078&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판 – Sulphur-breasted Warbler(노랑배솔새)",
+      "url": "https://en.wikipedia.org/wiki/Sulphur-breasted_warbler",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "암수 구별과 어린새는 이 종을 다룬 자료를 두 곳 이상 찾지 못해 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

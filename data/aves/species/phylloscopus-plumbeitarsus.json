@@ -5,15 +5,24 @@
   "author": "Swinhoe, 1861",
   "en": "Two-barred Warbler",
   "ktsn": 120000002050,
-  "origin": "nibr",
   "length": "약 11cm",
   "status": "나그네새 수백 마리 · 여름철새 수십 마리",
   "habitat": "산지의 침엽수림, 강가의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "6~7월에 알을 낳는다고 하나 번식 장소가 국내인지는 원문에 분명하지 않다."
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      6,
+      7
+    ],
+    "note": "5월과 9~10월 이동기에 서해 섬 등에서 주로 보이고, 설악산 등 강원도 높은 산(해발 1,100m 이상)에서는 여름 내내 노래하는 개체가 있어 번식한다."
   },
   "summary": "봄과 가을에 드물게 지나가는 나그네새이다. 여름에는 산지 침엽수림이나 강가 숲속에 살며 번식하고, 6~7월에 알을 5~6개 낳는다. 주로 곤충을 먹는다. 국내에서는 중부 이북에 살고, 국외에서는 시베리아, 몽골, 아무르, 우수리, 중국 등지에 분포한다.",
   "points": [
@@ -43,8 +52,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -87,10 +96,45 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 버들솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=4408813&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014-07 – 버들솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-07.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014-08 – 버들솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 버들솔새",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 버들솔새",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "번식기·암수 구별"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2판 2권 – 버들솔새",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "번식기"
+    },
+    {
+      "title": "Oates (1889) The Fauna of British India, Birds 1권(Phylloscopus·Acanthopneuste 속 설명) – 버들솔새",
+      "url": "https://archive.org/details/birdsindia01oaterich",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "원문이 나그네새라 하면서 '여름철 산지 침엽수림·강가 숲에 살며 번식도 한다', '중부 이북에 서식'이라 해 국내 번식 여부가 분명하지 않아 months.breed 를 TODO로 두었다"
+    "어린새는 Taczanowski(1893) 한 곳(가을 어린새는 위쪽이 더 어둡고 갈색을 띠며 눈썹선과 두 날개띠가 녹색 기를 띰)에서만 확인되어 비워 두었다"
   ],
   "occurrence": {
     "code": "P4, S5",

@@ -5,17 +5,21 @@
   "author": "Pallas, 1773",
   "en": "Yellow-breasted Bunting",
   "ktsn": 120000002225,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–15.5cm",
   "status": "나그네새, 해마다 수백 마리",
-  "habitat": "TODO",
+  "habitat": "논과 농경지, 바닷가 갈대밭, 바닷가 섬의 풀밭과 덤불",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 우리나라를 지나간다."
+    "note": "4~5월과 9~10월에 우리나라를 지나가며, 5월에 가장 많이 보인다."
   },
   "summary": "봄과 가을에 우리나라를 지나가는 드문 나그네새이다. 기온 변화와 여러 개발로 서식지가 사라지고 식용 등을 목적으로 대량으로 포획되면서 개체 수가 심각하게 줄고 있다.",
   "points": [
@@ -41,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "수컷은 얼굴과 멱이 검고 머리꼭대기·등과 가슴의 좁은 띠가 밤색이며, 날개 어깨에 큰 흰 무늬가 있고 아랫면이 샛노랗다.",
+    "female": "암컷은 얼굴이 검지 않고 굵은 담황색 눈썹선과 어두운 테두리의 귀깃이 있으며, 아랫면은 연한 노란색이고 밤색 가슴 띠와 큰 흰 날개 무늬가 없다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 더 담황색을 띠고 가슴과 옆구리에 가는 검은 갈색 세로줄이 있으며 허리에도 세로줄이 많다. 첫겨울 수컷은 어른 수컷보다 밤색이 적고 아랫면의 노란색이 옅으며, 가슴 띠와 날개의 흰 무늬가 작다.",
   "similar": [],
   "art": {
     "subject": "Yellow-breasted Bunting (Emberiza aureola), adult male in breeding plumage (May passage): forehead, face, chin and throat black; crown, nape, mantle and back deep chestnut, the mantle faintly streaked dark; a large white patch on the shoulder (lesser and median coverts) and a narrow white bar below it on the folded wing; rump chestnut; underparts bright yellow, crossed by a narrow chestnut band on the upper breast; flanks streaked chestnut-brown; undertail coverts pale yellowish-white; tail dark brown with white outer feathers; bill pinkish-grey with a darker culmen; dark eye; pinkish-brown legs.",
@@ -94,6 +99,46 @@
       "title": "Yellow-breasted Bunting – eBird (Cornell Lab)",
       "url": "https://ebird.org/species/yebbun",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "코토뱅크(平凡社 世界大百科事典·小学館 日本大百科全書·ブリタニカ) – シマアオジ(검은머리촉새)",
+      "url": "https://kotobank.jp/word/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%AA%E3%82%B8",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux-birds.com – Yellow-breasted Bunting(검은머리촉새)",
+      "url": "https://www.oiseaux-birds.com/card-yellow-breasted-bunting.html",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Bruant auréole(검은머리촉새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.aureole.html",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Yellow-breasted Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 리뷰 – 검은머리촉새(바닷가 섬과 해안 갈대밭의 나그네새)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 9월 새 소식 – 검은머리촉새(논)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-09.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – 검은머리촉새 한국 eBird 기록",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2491518&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Emberiza aureola",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

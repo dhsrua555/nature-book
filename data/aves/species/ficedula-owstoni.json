@@ -5,16 +5,18 @@
   "author": "Bangs, 1901",
   "en": "Ryukyu Flycatcher",
   "ktsn": 120000533852,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서남해 섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "지금까지 기록이 10건이 안 되는 길잃은새로, 2001년 4월 가거도에서 2년차 수컷 두 마리가 사진으로 확인되었고 그 뒤에도 주로 4월에 가거도 등 서남해 섬에서 몇 차례 기록되었다. 일본 남서제도(다네가시마·야쿠시마에서 이리오모테섬까지)의 상록활엽수림에서만 번식하는 고유종으로, 북쪽 섬의 무리는 여름철새이고 남쪽 섬의 무리는 텃새다.",
   "points": [
     {
       "ko": "노란 눈썹선(수컷)",
@@ -34,11 +36,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "황금새 수컷과 비슷하나 머리와 등이 녹색 기 도는 검은색이고, 노란 눈썹선이 부리 기부까지 이어진다. 멱은 주황색이 아닌 노란색이고, 셋째날개깃 바깥으로 흰 무늬가 조금 이어진다.",
+    "female": "황금새 암컷과 비슷하게 윗면이 올리브 갈색이나 녹색 기가 더 돌고, 아랫면에 노란 기와 어두운 얼룩이 있는 개체가 많다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "첫겨울 새는 윗면이 녹색 기 도는 올리브 갈색이고, 노란 기가 도는 아랫면에 어두운 얼룩이 짙다. 수컷은 황금새보다 늦게 어른 깃을 갖춰, 이듬해 봄과 여름에도 암컷과 비슷한 깃에 노란 무늬가 조금 섞인 개체가 많다.",
+  "similar": [
+    {
+      "ko": "황금새",
+      "how": "황금새 수컷은 머리와 등이 순수한 검은색이고 멱이 짙은 주황색이며, 노란 눈썹선이 부리 기부까지 닿지 않는다."
+    }
+  ],
   "art": {
     "subject": "Ryukyu Flycatcher (Ficedula owstoni), adult male, a spring vagrant in Korean island woodland: crown, nape and back olive-green; a broad yellow supercilium running from the bill to behind the eye; rump yellow; wings blackish with a white patch on the inner greater coverts; tail blackish; throat yellow with an orange tinge, breast yellow, fading to whitish on the lower belly and undertail coverts. Bill short and dark; eye dark; legs dark grey.",
     "pose": "perched on a mossy branch in the shaded mid-storey, side view",
@@ -93,10 +101,31 @@
       "title": "Wikipedia – Ryukyu flycatcher (Brazil 2009 인용)",
       "url": "https://en.wikipedia.org/wiki/Ryukyu_flycatcher",
       "used": "동정 포인트"
+    },
+    {
+      "title": "새와 생명의 터(Moores 2005) – Narcissus Flycatchers types: notes on their Identification and Status",
+      "url": "https://www.birdskorea.org/Birds/Identification/ID_Notes/BK-ID-Narcissus-Flycatchers-types.shtml",
+      "used": "사는 곳·해설·암수 구별·어린새·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2009",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Bird News April 2014",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-04.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "일본 환경성 제5차 레드데이터북(2026) – リュウキュウキビタキ(남방황금새)",
+      "url": "https://www.env.go.jp/nature/kisho/5th-rl-2026/BI0122_RDB5th.pdf",
+      "used": "해설·암수 구별·비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "length: 홍콩조류학회(12–13.5cm) 한 곳에서만 수치를 찾음(일본 환경성 레드데이터북에는 날개·꼬리 길이만 있음)",
+    "months.seen: 2000년 5월 가거도·2004년 5월 10일 어청도·2010년 5월 기록은 '추정'이라 넣지 않음",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

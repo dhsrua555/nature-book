@@ -5,16 +5,18 @@
   "author": "Vigors, 1831",
   "en": "White-capped Redstart",
   "ktsn": 120000002122,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "18–19cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "남해 섬(국내 기록), 산지 계류의 바위와 자갈밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2003년 11월 홍도)."
   },
-  "summary": "TODO",
+  "summary": "2003년 11월 3일 전남 홍도에서 국내 처음으로 기록된 길잃은새로, 지금까지 국내 기록은 10건이 채 안 된다. 중앙아시아와 히말라야에서 중국 대부분 지역과 미얀마·인도차이나 북부까지 산지의 물살 빠른 계류를 따라 살며, 겨울에는 낮은 곳으로 내려온다. 물가 바위에 내려앉으면 몸을 숙이며 펼친 꼬리를 흔들고, 하루살이·파리·각다귀 같은 물가 곤충을 주로 잡아먹는다.",
   "points": [
     {
       "ko": "흰 머리꼭대기와 뒷머리 위쪽",
@@ -38,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 무늬 배치가 같으나, 흰 머리꼭대기의 깃 끝이 검어 비늘무늬가 있고 검은 부분이 갈색을 띤다. 등과 아랫면 깃에는 적갈색 테가 있으며, 이 테가 닳으면서 차츰 어른새처럼 검어진다.",
   "similar": [],
   "art": {
     "subject": "White-capped Redstart (Chaimarrornis leucocephalus), adult (sexes alike, plumage similar year-round): a pure white cap over the crown and upper nape; forehead, face, throat, upper breast, back, scapulars and wings glossy black; lower breast, belly, vent, rump and uppertail coverts deep chestnut-red; tail chestnut-red with a broad black terminal band; black bill; dark eye; black legs.",
@@ -91,11 +93,41 @@
       "title": "White-capped redstart – Wikipedia",
       "url": "https://en.wikipedia.org/wiki/White-capped_redstart",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Rougequeue à calotte blanche(흰머리바위딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/rougequeue.a.calotte.blanche.html",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – White-capped Redstart",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·해설·어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – White-capped Redstart",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Chimarrhornis leucocephalus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 11월 새 소식 – 흰머리바위딱새 국내 첫 기록(홍도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-11.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 연간 리뷰 – White-capped Water Redstart",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.seen: 날짜를 확인한 국내 기록은 2003년 11월 3일 홍도 1건뿐이다. 새와 생명의 터 목록의 '지금까지 10건 미만' 가운데 나머지 기록의 달은 찾지 못했다(GBIF·eBird·iNaturalist 남한 기록 0건)"
   ],
   "occurrence": {
     "code": "V2",

@@ -5,14 +5,17 @@
   "author": "Linnaeus, 1758",
   "en": "Pine Grosbeak",
   "ktsn": 120000002201,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "20–25cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "소나무 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달로, 2013년 10월 하순부터 11월 중순까지 독도 동도에 수컷 한 마리가 머물렀다."
   },
   "summary": "소나무 숲을 좋아하는 새로, 해바라기 씨를 즐겨 먹고 단풍나무·자작나무·느릅나무의 싹도 먹는다. 온순하고 움직임이 적은 편이며, 목에 있는 작은 주머니에 좋은 먹이를 채워 넣기 때문에 비슷한 크기의 새보다 먹는 데 훨씬 오래 머문다. 세계적으로는 아시아 북부, 유럽 북부, 북아메리카 등지에 분포한다.",
   "points": [
@@ -85,11 +88,39 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전) – ギンザンマシコ(솔양진이)",
+      "url": "https://kotobank.jp/word/%E3%82%AE%E3%83%B3%E3%82%B6%E3%83%B3%E3%83%9E%E3%82%B7%E3%82%B3",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판 – Pine grosbeak(솔양진이)",
+      "url": "https://en.wikipedia.org/wiki/Pine_grosbeak",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe(1888) Catalogue of the Birds in the British Museum 12권 – Pinicola enucleator",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터 Bird News 2013년 11월 – 독도의 솔양진이 국내 첫 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-11.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 Bird News 2014년 10월 – 10월의 국내 첫 기록(솔양진이 2013)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-10.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "데일리벳 – 희귀 새 '솔양진이' 독도에서 발견, 국내 첫 공식 보고(2013년 11월, 대구지방환경청 발표)",
+      "url": "https://www.dailyvet.co.kr/?p=15246",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [
-    "원문에 몸길이 대신 날개 길이(약 10cm)만 있어 length 를 TODO 로 두었다."
-  ],
+  "todo": [],
   "occurrence": {
     "code": "V2",
     "bs": "0",

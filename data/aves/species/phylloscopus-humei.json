@@ -5,16 +5,21 @@
   "author": "Brooks, 1878",
   "en": "Hume's Leaf Warbler",
   "ktsn": 120000002048,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "10–11cm",
   "status": "나그네새, 해마다 수십 마리",
-  "habitat": "TODO",
+  "habitat": "서해 섬의 숲과 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      10,
+      11
+    ],
+    "breed": [],
+    "note": "4월 하순~5월 초순과 10월 하순~11월 초순에 주로 기록된다."
   },
-  "summary": "TODO",
+  "summary": "봄(4월 하순~5월 초순)과 가을(10월 하순~11월 초순)에 서해의 섬을 해마다 적은 수가 지나가는 나그네새로, 국내에서는 2000년에 처음 기록되었다. 노랑눈썹솔새와 매우 비슷해 지나치기 쉬우며, 나뭇가지 사이를 쉴 새 없이 옮겨 다니며 나무 아래층과 덤불에서도 곤충을 잡는다. 국내를 지나는 무리는 중국 중부에서 번식하는 아종(mandellii)이고, 인도 북동부·인도차이나 북부·중국 남서부에서 겨울을 난다.",
   "points": [
     {
       "ko": "흐릿한 정수리 중앙선",
@@ -42,11 +47,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "노랑눈썹솔새",
+      "how": "노랑눈썹솔새보다 전체가 칙칙한 잿빛을 띠고 부리와 다리가 더 어두우며, 가운데날개덮깃 끝의 둘째 날개띠가 흐리고 울음소리가 다르다."
+    }
+  ],
   "art": {
     "subject": "Hume's Leaf Warbler (Phylloscopus humei), adult in fresh autumn plumage (sexes alike), as seen on Korean islands on passage: crown dull greyish-olive with at most a faint paler central stripe; long buffy-white supercilium and a dark eye-stripe; upperparts greyish-olive, less green than in Yellow-browed Warbler; wings dark with one clear whitish-buff wing-bar on the greater coverts, a shorter and fainter second bar on the median coverts, and whitish tertial edges; underparts dull off-white. Bill fine, mostly dark with only a little pale at the base of the lower mandible; dark eye; legs dark brown.",
     "pose": "flitting through the outer twigs of a small tree, flicking its wings while gleaning insects",
@@ -91,10 +101,66 @@
       "title": "Wikipedia — Hume's leaf warbler",
       "url": "https://en.wikipedia.org/wiki/Hume%27s_leaf_warbler",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot de Hume(연노랑눈썹솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.hume.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 독일어판(Glutz von Blotzheim·HBW 인용 부분) – Tienschan-Laubsänger(연노랑눈썹솔새)",
+      "url": "https://de.wikipedia.org/wiki/Tienschan-Laubs%C3%A4nger",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 연노랑눈썹솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=7341522&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "어린새: 독일어 위키백과(Glutz von Blotzheim·HBW 인용) 한 곳에서만 설명을 찾아 교차 확인하지 못해 비워 둠(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

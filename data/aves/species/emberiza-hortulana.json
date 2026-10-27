@@ -5,16 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Ortolan Bunting",
   "ktsn": 120000002218,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 16cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 풀밭과 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 지금까지 기록이 10건이 안 되는 길잃은새로, 2000년 5월과 11월 가거도, 2008년 5월 외연도 등 바닷가 섬에서 관찰되었다. 스페인에서 몽골에 이르는 유라시아의 나무가 드문 트인 땅에서 번식하고, 사하라 사막 남쪽 아프리카에서 겨울을 나는 먼 거리 철새이다. 번식기에는 곤충을, 이동기와 겨울에는 주로 씨앗을 먹는다.",
   "points": [
     {
       "ko": "녹회색 머리와 윗가슴(수컷)",
@@ -42,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "수컷은 머리와 윗가슴이 올리브빛 회색이고 멱과 뺨선이 노르스름하며, 노란 눈테가 또렷하다.",
+    "female": "암컷은 머리가 갈색을 띠고 머리꼭대기에 세로줄이 있으며, 멱과 윗가슴이 크림색 바탕에 가는 갈색 세로줄이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷보다 더 칙칙하고 가슴 전체에 검은 세로줄이 뚜렷하며, 흰 눈테와 흰 뺨선이 잘 보인다. 첫겨울 새는 등과 허리에 세로줄이 많고 날개띠가 엷으며 부리가 분홍색이다.",
   "similar": [],
   "art": {
     "subject": "Ortolan Bunting (Emberiza hortulana), adult male in spring, a migrant on a Korean offshore island: head, nape and breast band plain olive-grey; a conspicuous pale yellowish-white eye-ring; moustachial stripe and throat pale yellow, separated by a thin olive-grey malar line; mantle brown with dark streaks; rump plain greyish-brown; wings brown with rufous-buff fringes and two buff wing bars; belly, flanks and undertail coverts warm cinnamon-orange; tail dark brown with white on the outer feathers. Bill pink and conical; eye dark; legs pink.",
@@ -100,11 +104,42 @@
       "title": "Ortolan bunting – Wikipedia (Cramp & Perrins 1994 인용)",
       "url": "https://en.wikipedia.org/wiki/Ortolan_bunting",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Bruant ortolan(회색머리멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.ortolan.html",
+      "used": "몸길이·사는 곳·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza hortulana",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Ortolan Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·암수 구별·어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 리뷰 – 회색머리멧새(5월 외연도, 2000년 5·11월 가거도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 5월 새 소식 – 5월의 국내 첫 기록(2000년 회색머리멧새)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-05.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 11월 새 소식 – 11월의 희귀 기록(가거도 회색머리멧새)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-11.shtml",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "2008년 이후 국내 기록 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

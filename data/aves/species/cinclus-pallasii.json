@@ -5,7 +5,6 @@
   "author": "Temminck, 1820",
   "en": "Brown Dipper",
   "ktsn": 120000002152,
-  "origin": "nibr",
   "length": "22cm",
   "status": "텃새, 해마다 수천 마리",
   "habitat": "낮은 산지 계곡의 물가, 폭포, 계류",
@@ -64,7 +63,7 @@
     "alike": true,
     "text": "암수 깃털 색이 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 흐린 흑갈색이고, 머리·멱과 아랫면, 등의 깃 끝이 희끄무레해 온몸에 흰 얼룩과 비늘무늬가 있다. 날개덮깃과 날개깃 끝에도 흰 테가 있으며, 늦여름 털갈이를 거쳐 어른새와 비슷해진다.",
   "similar": [],
   "art": {
     "subject": "Brown Dipper (Cinclus pallasii), adult (sexes alike): entire plumage dark chocolate-brown, darkest blackish-brown on the back and wings, without any white bib; fine white feathers on the eyelids, showing as a thin white flash when the bird blinks; belly sides with a faint rusty tinge; rump and uppertail coverts faintly greyer brown; short dark brown tail; bill blackish, slender and straight; brown eye; stout slate-grey legs and feet.",
@@ -104,6 +103,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Cincle de Pallas(물까마귀)",
+      "url": "https://www.oiseaux.net/oiseaux/cincle.de.pallas.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – Brown Dipper",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Cinclus pallasi",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
     }
   ],
   "todo": [],

@@ -5,16 +5,15 @@
   "author": "Salvadori, 1887",
   "en": "Grey-sided Thrush",
   "ktsn": 120000230697,
-  "origin": "nibr",
   "length": "TODO",
   "status": "이동기에 드물게 찾아옴, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "산지의 숲(국내에서는 서해 섬에서 기록)",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2016년 5월 26일 인천 옹진군 소청도에서 한 마리가 관찰된 것이 첫 기록인 드문 나그네새다. 중국 북동부의 산지 숲에서 번식하고, 인도 북동부와 미얀마, 태국 북부 등 인도차이나의 산지 숲에서 겨울을 난다. 번식지와 월동지의 숲이 줄고 조각나 세계적으로 취약(VU) 종으로 분류된다.",
   "points": [
     {
       "ko": "흰 눈썹선",
@@ -38,8 +37,9 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "윗면이 적갈색 기 도는 올리브 갈색이고 흰 눈썹선과 눈 밑의 흰 반달무늬가 있으며, 멱과 가슴, 옆구리가 회색이다.",
+    "female": "멱이 희고 양옆과 윗가슴에 갈색 줄무늬가 있으며, 가슴과 옆구리는 갈색 기 도는 회색이다."
   },
   "young": "TODO",
   "similar": [],
@@ -87,11 +87,29 @@
       "title": "Birda species guide — Grey-sided Thrush (검색 발췌)",
       "url": "https://app.birda.org/species-guide/30077/Grey-sided_Thrush",
       "used": "동정 포인트"
+    },
+    {
+      "title": "한국조류학회지 28(2): 128–131(2021) – 한국에서 갈색지빠귀(Turdus feae)와 대륙점지빠귀(Turdus viscivorus)의 첫 관찰기록 보고",
+      "url": "https://www.dbpia.co.kr/Journal/ArticleDetail/NODE10897438",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2권 – Turdus feae (Fea's Thrush)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "사는 곳·해설·암수 구별"
+    },
+    {
+      "title": "Shanghai Birding(Craig Brelsford) – Grey-sided Thrush",
+      "url": "https://www.shanghaibirding.com/tag/grey-sided-thrush/",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 사는 곳·해설·암수 구별은 국외 종 설명(Baker 1924, BirdLife 등)과 한국조류학회지 첫 기록 논문으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "몸길이: Oiseaux.net(22–24cm) 말고는 믿을 만한 두 번째 자료를 찾지 못했다(BirdForum의 22–23.5cm 는 열어 보지 못함)",
+    "어린새: 어린 깃을 설명한 자료를 찾지 못했다",
+    "관찰 시기: 국내 첫 기록(2016년 5월 26일 소청도)은 한국조류학회지 논문 한 곳에서만 확인되었고, 그 뒤 기록의 날짜는 찾지 못했다(iNaturalist·eBird 한국 기록 0건)"
   ],
   "occurrence": {
     "code": "PV2",

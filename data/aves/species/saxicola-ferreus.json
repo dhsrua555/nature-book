@@ -5,14 +5,18 @@
   "author": "J.E.& G.R.Gray, 1846",
   "en": "Grey Bush Chat",
   "ktsn": 120000002125,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–15cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "해안의 경작지, 초지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달로, 3월 하순부터 5월 하순까지 서해·남해 섬에서 주로 기록되고 4월 기록이 가장 많다."
   },
   "summary": "해안의 경작지나 초지에서 사는 새이다. 수컷은 흰 눈썹선과 검은 뺨이 눈에 띄고, 암컷은 멱과 배를 빼면 온몸이 갈색이다. 국외에서는 동남아시아, 인도, 방글라데시, 파키스탄 등지에 분포한다.",
   "points": [
@@ -42,7 +46,7 @@
     "male": "이마와 등은 회색에 검은 세로 줄무늬가 많고, 눈썹선은 희며 뺨은 검다. 아랫면은 희고 날개에 흰 줄이 있다.",
     "female": "멱과 배를 뺀 온몸이 갈색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 적갈색 바탕에 담황색 세로무늬와 얼룩이 있고, 가슴과 옆구리 깃 가장자리가 어두워 비늘처럼 보인다. 수컷은 날개깃과 꼬리깃이 처음부터 검어 암컷과 가려지고, 첫 겨울 수컷은 어른 수컷과 비슷하나 윗면에 갈색 기가 돈다.",
   "similar": [],
   "art": {
     "subject": "Grey Bush Chat (Saxicola ferreus), adult male in spring: crown, nape and mantle grey with heavy blackish streaks; long white supercilium; broad black mask from the lores through the cheeks and ear-coverts; throat white; breast and flanks pale grey, belly and undertail coverts whitish; wings blackish with a white patch on the inner wing-coverts that shows as a white stripe on the folded wing; rump grey; tail blackish. Bill black; dark eye; legs black.",
@@ -81,6 +85,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Grey Bush Chat",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/051700",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Tarier gris(검은뺨딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/tarier.gris.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – Dark-grey Bush-Chat",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – Dark-grey Bush-Chat",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Grey Bushchat",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰 – Grey Bushchat",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은뺨딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5788854&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

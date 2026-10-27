@@ -5,16 +5,33 @@
   "author": "Vigors, 1831",
   "en": "Plumbeous Water Redstart",
   "ktsn": 120000002120,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–13cm",
   "status": "드물게 기록되는 새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바위가 드러난 하천과 계곡, 도심 하천",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "국내에서 기록된 달이다. 대부분 11월~이듬해 3월에 하천에서 겨울을 나는 개체이고, 2006~2011년에는 경남 등에서 여름까지 머물거나 번식을 시도한 개체도 있었다."
   },
-  "summary": "TODO",
+  "summary": "2006년 1월 대전에서 처음 기록된 드문 새로, 해마다 몇 건씩 주로 겨울철에 바위가 드러난 하천과 도심 하천에서 보인다. 2006~2008년에는 경남의 한 하천에 한 쌍이 머물며 둥지 구멍에 먹이를 나르는 모습이 관찰되어 국내에서 번식을 시도한 것으로 보인다. 물가 바위에 앉아 꼬리를 부채처럼 자주 펴며, 히말라야에서 중국 중·남부와 대만에 걸친 산지 계류에서 번식한다.",
   "points": [
     {
       "ko": "온몸이 짙은 청회색(수컷)",
@@ -38,10 +55,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "온몸이 어두운 납빛 청회색이고, 허리·위아래꼬리덮깃·꼬리가 짙은 밤색이다.",
+    "female": "윗면은 청회색 기 도는 회갈색이고 날개덮깃 끝에 흰 점이 있다. 아랫면은 회색 바탕에 흰 비늘무늬가 촘촘하고, 위꼬리덮깃은 희며 꼬리는 검은 갈색에 기부가 넓게 희다."
   },
-  "young": "TODO",
+  "young": "갓 둥지를 떠난 어린새는 윗면이 회갈색이고 깃마다 담황색이나 흰 점이 있으며, 아랫면은 얼룩덜룩한 회갈색에 흰 반점이 섞인다. 꼬리는 암컷처럼 기부가 희고, 첫 털갈이 뒤에는 암컷과 비슷한 깃이 된다.",
   "similar": [],
   "art": {
     "subject": "Plumbeous Water Redstart (Rhyacornis fuliginosa), adult male: entire head and body dark slate-blue (plumbeous), slightly paler on the belly; wings dark brownish-grey; rump, uppertail coverts, undertail coverts and the whole tail deep chestnut-rufous. Bill short and black; dark eye; legs dark brown to blackish. The female, if shown, is blue-grey above, white below with dense grey scaling, with white spots on the wing-coverts and a white base to the tail.",
@@ -90,10 +108,61 @@
       "title": "Plumbeous water redstart – Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Plumbeous_water_redstart",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Rougequeue fuligineux(부채꼬리바위딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/rougequeue.fuligineux.html",
+      "used": "몸길이·해설·어린새·번식기"
+    },
+    {
+      "title": "Baker, The Fauna of British India – Birds 2권(1924) – Rhyacornis fuliginosa",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "해설·암수 구별·어린새·번식기"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Rhyacornis fuliginosus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·암수 구별·어린새"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2006",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2007",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2008",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Review of 2010",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 – Bird News August 2007",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-08.shtml",
+      "used": "해설·번식기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 부채꼬리바위딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=7340992&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록 – 거창, 2008년 9월(2008–2011년 여름마다 머문 수컷)",
+      "url": "https://www.inaturalist.org/observations/70142368",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "length: 홍콩조류학회·Oiseaux.net 은 12–13cm, Baker(1924)·영어 위키백과는 약 14cm",
+    "months.breed: 국내 번식 시도는 2007년 경남 한 하천의 1건뿐(새와 생명의 터 연간 리뷰는 2월 27일, 월간 소식은 4월에 둥지 구멍으로 먹이를 나름이라 적어 날짜가 엇갈리고, 새끼는 확인되지 않음). 번식기 달은 국외 자료(Baker 1924: 4월~6월 초, 두 번째 번식은 7월까지; Oiseaux.net: 4~6월)와 함께 정함",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

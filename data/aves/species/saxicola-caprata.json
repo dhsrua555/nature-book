@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1766",
   "en": "Pied Bush Chat",
   "ktsn": 120000223789,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–14cm",
   "status": "TODO",
   "habitat": "TODO",
   "protect": [],
@@ -38,10 +37,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "온몸이 검고 허리, 위·아래꼬리덮깃, 날개 안쪽 덮깃만 희어 접은 날개에 흰 줄이 보인다. 가을에는 검은 깃 끝에 갈색 테가 생겨 갈색빛이 돈다.",
+    "female": "윗면은 회갈색에 어두운 세로줄이 있고 위꼬리덮깃은 적갈색이며, 아랫면은 갈색으로 가슴과 옆구리에 희미한 줄무늬가 있다."
   },
-  "young": "TODO",
+  "young": "갓 깃이 난 어린새는 온몸이 어두운 갈색 바탕에 담황색 얼룩이 흩어져 있다. 어린 수컷은 처음부터 날개의 흰 무늬가 나타나고, 암컷과 비슷하나 더 짙은 색에 아랫면의 세로줄이 굵다.",
   "similar": [],
   "art": {
     "subject": "Pied Bush Chat (Saxicola caprata), adult male in spring: head, back, wings, breast and belly black with a faint gloss; a long white stripe on the inner wing coverts of the folded wing; rump and uppertail coverts pure white; vent and undertail coverts white; tail entirely black; bill black; eye dark; legs black.",
@@ -92,12 +92,33 @@
       "title": "BirdForum Opus – Pied Bush Chat",
       "url": "https://birdforum.net/opus/Pied_Bush_Chat",
       "used": "수컷 흰 허리(검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "Oiseaux.net – Tarier pie(흰죽지검은딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/tarier.pie.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – Pied Bush-Chat(Saxicola caprata)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – Common Pied Bush-Chat",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Pratincola caprata",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "암수 구별"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "status·breeding·habitat·months·summary: 국가생물종목록(2025)에는 '자생종'으로 실려 있으나, 남한 기록(날짜·장소)을 새와 생명의 터 소식(2002–2015)·GBIF·eBird·iNaturalist(모두 0건)·웹 검색 어디에서도 찾지 못해 비워 두었다. 목록에 오른 근거 기록 확인 필요"
   ],
   "occurrence": {
     "code": null,

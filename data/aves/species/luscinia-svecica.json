@@ -5,15 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Bluethroat",
   "ktsn": 120000002111,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–14cm",
   "status": "나그네새, 해마다 수십 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "관목이 흩어진 기복 심한 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      10,
+      11
+    ],
     "breed": [],
-    "note": "번식지에서는 5~7월에 알을 낳는다."
+    "note": "4–5월과 10–11월에 지나가고 겨울에도 드물게 머무는 개체가 있으며, 번식지에서는 5~7월에 알을 낳는다."
   },
   "summary": "매우 드물게 지나가는 나그네새로, 관목이 드문드문 자라고 땅의 높낮이가 심한 습지에서 지낸다. 겨울에는 홀로, 여름에는 암수가 함께 주로 땅 위에서 생활한다. 곤충, 환형동물, 복족류 같은 동물성 먹이와 여러 식물의 열매를 먹으며, 산란기는 5~7월이고 한배에 알을 5~7개, 때로는 8~9개 낳는다. 국외에서는 동남아시아, 러시아, 중국, 알래스카 서부에 분포한다.",
   "points": [
@@ -47,7 +51,7 @@
     "male": "봄철 수컷은 턱밑·멱·앞목이 푸르고, 그 가운데보다 조금 아래쪽에 짙은 붉은 녹슨색의 큰 얼룩이 있다.",
     "female": "윗면은 수컷과 같다. 턱밑과 멱은 흰 바탕에 붉은 녹슨빛 얼룩점이 조금 있고, 그 아래로 검은 띠와 흰 띠가 차례로 놓이며 다소 푸른빛을 띤다. 가슴에는 얼룩무늬가 있다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 꼬까울새 어린새처럼 온몸이 갈색 바탕에 엷은 황갈색 줄무늬·점무늬가 촘촘하지만, 꼬리 기부의 적갈색은 어른새와 같다. 첫겨울 암컷은 멱이 희고 검은 뺨선과 가슴띠만 있으며, 첫겨울 수컷은 가슴에 파란색이 조금 더 비친다.",
   "similar": [],
   "art": {
     "subject": "Bluethroat (Luscinia svecica), adult male in spring, red-spotted form, as seen in Korean marshes in April and May: plain earth-brown upperparts, the crown and nape sepia-brown with darker feather centres; a long creamy-buff supercilium; black lores and rusty-brown ear coverts; chin, throat and foreneck bright cobalt-blue with a large rusty-red spot in the lower centre of the blue; below the blue a narrow black band, a thin white band and a broad rusty-chestnut band across the upper breast; rest of the underparts dull white with buff flanks; tail dark brown with bright rufous bases to the outer feathers; bill black; dark eye; legs dark brown.",
@@ -87,6 +91,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Bluethroat",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/049300",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "영국왕립조류보호협회(RSPB) – Bluethroat",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/bluethroat",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Gorgebleue à miroir(흰눈썹울새)",
+      "url": "https://www.oiseaux.net/oiseaux/gorgebleue.a.miroir.html",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 1권(1920) – Lapland Bluethroat",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(Luscinia svecica)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=4408732&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Birds Korea 2004년 리뷰 – Bluethroat",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

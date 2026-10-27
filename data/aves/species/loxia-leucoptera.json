@@ -5,7 +5,6 @@
   "author": "Gmelin, 1789",
   "en": "Two-barred Crossbill",
   "ktsn": 120000002204,
-  "origin": "nibr",
   "length": "약 15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
   "habitat": "소나무 숲, 침엽수림",
@@ -47,7 +46,7 @@
     "male": "몸깃의 붉은색이 솔잣새보다 엷은 장밋빛이다.",
     "female": "수컷처럼 날개에 흰 띠 두 줄이 있고, 솔잣새 암컷보다 바탕색이 옅으며 등과 아랫면의 세로무늬가 뚜렷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 솔잣새 어린새처럼 온몸에 짙은 세로줄무늬가 많지만, 날개에 가는 흰 날개띠가 두 줄 있어 구별된다.",
   "similar": [
     {
       "ko": "솔잣새",
@@ -101,9 +100,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1919) A Practical Handbook of British Birds 1권 – Two-barred Crossbill",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Bec-croisé bifascié(흰죽지솔잣새)",
+      "url": "https://www.oiseaux.net/oiseaux/bec-croise.bifascie.html",
+      "used": "어린새"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 기록의 달을 두 곳 이상에서 확인하지 못해 관찰 시기(months.seen)를 TODO 로 두었다. 새와 생명의 터 2005년 리뷰의 2005년 10월 23일 소청도 수컷(날아가는 모습만 봄, '두 번째 기록')은 2022 목록의 '2000년 이후 확인된 기록 없음'과 맞지 않고, 첫 기록의 날짜는 찾지 못했다."
+  ],
   "occurrence": {
     "code": "V2",
     "bs": "0",

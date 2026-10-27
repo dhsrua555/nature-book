@@ -5,14 +5,17 @@
   "author": "Brandt, 1841",
   "en": "Red-headed Bunting",
   "ktsn": 120000002228,
-  "origin": "nibr",
   "length": "17cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "관목림, 농경지 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      9
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2007·2009년 5월 홍도·어청도, 2009년 9월 가거도)."
   },
   "summary": "관목림과 농경지 주변에 사는 새로, 아시아와 인도에 분포한다. 나무 위나 관목림의 덤불 속에 둥지를 틀고 알 3~5개를 낳는다. 주로 식물 씨앗을 먹는다.",
   "points": [
@@ -38,8 +41,13 @@
     "male": "머리와 가슴이 적갈색이고 등은 녹색을 띠며 배는 노랗다.",
     "female": "수컷보다 색이 엷으며 등은 회갈색, 머리는 갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷처럼 수수한 회갈색이고 등에 갈색 줄무늬가 있으며, 가을 어린새는 노란색이 아래꼬리덮깃에만 남는다. 검은머리멧새의 암컷·어린새와 매우 비슷해 현장에서 가려내기 어렵다.",
+  "similar": [
+    {
+      "ko": "검은머리멧새",
+      "how": "수컷은 머리와 가슴이 붉은 밤색이고 등이 녹황색이라 바로 구별되지만, 암컷과 어린새는 아주 비슷해 정수리 줄무늬가 흐리고 등 줄무늬가 더 뚜렷하며 허리에 밤색 기가 없는 점으로 가린다."
+    }
+  ],
   "art": {
     "subject": "Red-headed Bunting (Emberiza bruniceps), adult male in breeding plumage, a spring vagrant in Korea: whole head, throat and upper breast chestnut-red, forming a hood; mantle and scapulars yellowish-green with fine dark streaks; rump yellowish; wings dark brown with pale greyish fringes; underparts from the lower breast to the undertail bright yellow; tail plain dark brown without white outer feathers. Bill large, conical, grey; eye dark; legs pinkish-brown.",
     "pose": "perched on top of a shrub, side view",
@@ -78,10 +86,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 3권 – 붉은머리멧새(Emberiza icterica)",
+      "url": "https://archive.org/details/BakerFbiBirds3",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 붉은머리멧새(Red-headed Bunting)",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/057000",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 검은머리멧새(Black-headed Bunting)",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/056900",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 붉은머리멧새(Emberiza luteola)·검은머리멧새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2007년 5월 – Red-headed Bunting(홍도, 5월 14일)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰 – Red-headed Bunting",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰 – Red-headed Bunting",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 9월 – Red-headed Bunting(가거도, 9월)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-09.shtml",
+      "used": "어린새·관찰 시기"
     }
   ],
   "todo": [
-    "원문에 국내 상태·기록이 없다"
+    "지금 해설에 국내 상태·기록이 없다: 새와 생명의 터 기록으로는 2007년 무렵까지 3~4건, 그 뒤 2007년 5월 홍도, 2009년 5월 어청도, 2009년 9월 가거도 기록이 있다(해설 보완 필요)",
+    "months.seen 의 근거가 모두 새와 생명의 터 자료이고(eBird·iNaturalist 국내 기록 없음), 2005년 독도 기록(중앙일보 2005-07-06 보도)의 관찰 달은 확인하지 못했다"
   ],
   "occurrence": {
     "code": "V2",

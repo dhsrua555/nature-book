@@ -5,15 +5,20 @@
   "author": "Temminck, 1840",
   "en": "Lanceolated Warbler",
   "ktsn": 120000002029,
-  "origin": "nibr",
   "length": "약 11cm",
   "status": "나그네새, 해마다 수천 마리",
   "habitat": "습지와 소택지의 풀밭, 버드나무와 관목, 물가의 갈대밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "알은 6월 중순~7월 하순에 낳는다."
+    "note": "5~6월과 8~10월 이동기에 지나가며 11월 초까지 늦게 남기도 하고, 번식지에서는 6월 중순~7월 하순에 알을 낳는다."
   },
   "summary": "봄과 가을에 작은 무리를 지어 우리나라 전역을 지나가는 나그네새로, 습지나 소택지의 풀, 버드나무와 관목 덤불, 물가 갈대밭 등지에서 지낸다. 몸을 숨긴 채 좀처럼 모습을 드러내지 않으며 주로 곤충을 먹는다. 둥지는 풀 밑이나 땅에서 30cm 높이의 덤불 속에 짓는데 둘레가 흔히 풀로 가려져 있고, 6월 중순~7월 하순에 한배에 3~5개의 알을 낳는다. 한국을 비롯해 시베리아 동부, 캄차카, 만주, 사할린, 홋카이도, 혼슈 등지에서 번식하고 인도, 미얀마, 수마트라, 보르네오, 자바 등지에서 겨울을 난다.",
   "points": [
@@ -39,11 +44,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 윗면이 조금 더 어둡고 아랫면에 노르스름한 기가 돌며, 턱과 멱에 점무늬가 많고 가슴의 세로무늬가 더 굵다.",
+  "similar": [
+    {
+      "ko": "북방개개비",
+      "how": "북방개개비는 더 크고 허리가 붉은 갈색이며 꼬리 끝에 흰 무늬가 있고, 가슴의 세로무늬가 적다."
+    }
+  ],
   "art": {
     "subject": "Lanceolated Warbler (Locustella lanceolata), adult on spring or autumn passage (sexes alike): upperparts olive-tinged brown, every feather of the crown, mantle and back with a broad blackish-brown centre, giving bold dense streaking; narrow, indistinct buffy-white supercilium; lores mottled buffy-white and dark brown; ear-coverts mixed olive-brown and buff; wings brown, the tertials dark-centred with pale edges; chin, throat and breast yellowish-white, finely marked with small triangular blackish-brown spots that form neat streaks continuing along the buff flanks; belly yellowish-white; undertail coverts buff with dark streaks; thin dark bill with a pale pinkish base below; dark eye; pinkish legs.",
     "pose": "creeping low through grass stems, side view, the whole bird in clear view",
@@ -82,6 +92,61 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – The Lanceolated Warbler",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Locustella lanceolata",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새"
+    },
+    {
+      "title": "McGregor(1909) A Manual of Philippine Birds – Locustella lanceolata",
+      "url": "https://archive.org/details/manualofphilippi00mcgr",
+      "used": "암수 구별"
+    },
+    {
+      "title": "환경성 제5차 레드데이터북(2026) – マキノセンニュウ(쥐발귀개개비)",
+      "url": "https://www.env.go.jp/nature/kisho/5th-rl-2026/BI0118_RDB5th.pdf",
+      "used": "암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Lanceolated Warbler(쥐발귀개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041900",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Seebohm(1890) The Birds of the Japanese Empire – Locustella lanceolata",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "GBIF 한국 기록 – Locustella lanceolata(eBird 등)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493550",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin(1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Locustella lanceolata(5–6월·9–10월 표본)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2007년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2014년 6월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-06.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2009년 11월 – 늦게 남은 쥐발귀개개비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-11.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

@@ -5,15 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Brambling",
   "ktsn": 120000002187,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–16cm",
   "status": "나그네새·겨울철새, 해마다 10만 마리 이상",
   "habitat": "자작나무·전나무·소나무 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~6월에 알을 낳는다."
+    "note": "10월 중순 무렵 찾아와 이듬해 5월 중순까지 머물며, 번식지에서는 5~6월에 알을 낳는다."
   },
   "summary": "자작나무·전나무·소나무 숲에 사는 흔한 겨울철새로, 전국에서 볼 수 있다. 주로 식물성 먹이를 먹고 여름에는 곤충의 어른벌레와 애벌레를 먹는다. 번식지에서는 알을 6~7개 낳는다. 세계적으로는 구북구 전역에 분포한다.",
   "points": [
@@ -47,7 +55,7 @@
     "male": "여름깃은 머리와 등이 검고, 겨울깃은 머리가 연한 흑갈색에 회색 줄 두 개가 있다.",
     "female": "수컷 겨울깃과 비슷하나 머리가 연한 갈색이고, 멱·가슴·어깨의 황갈색이 수컷보다 연하다. 등은 수컷처럼 황갈색에 검은 반점이 있다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 암컷과 비슷하나 허리와 배에 노란 기가 돌고, 날개덮깃 끝의 담황백색 테가 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Brambling (Fringilla montifringilla), adult male in winter plumage, as seen in Korean woodland from October to March: head and nape dark brownish-black, heavily fringed grey-brown, with greyish sides to the nape forming two pale stripes; mantle blackish with buff fringes; narrow white rump; throat, breast and shoulders bright orange; belly white; rear flanks orange-buff with small black spots; wings black with an orange-buff upper wing bar, a paler buff to whitish lower bar and a small white patch at the base of the primaries; tail black, notched. Conical bill pale yellow with a dark tip; dark eye; pinkish-brown legs.",
@@ -88,6 +96,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 되새(Brambling)",
+      "url": "https://avifauna.hkbws.org.hk/species/0450/054900",
+      "used": "몸길이"
+    },
+    {
+      "title": "Animal Diversity Web – 되새",
+      "url": "https://animaldiversity.org/accounts/Fringilla_montifringilla/",
+      "used": "몸길이"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 되새",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 되새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net 종 설명 – 되새(Brambling)",
+      "url": "https://www.oiseaux.net/oiseaux/pinson.du.nord.html",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 되새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2494441&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 되새",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

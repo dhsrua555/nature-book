@@ -5,7 +5,6 @@
   "author": "Rafinesque, 1810",
   "en": "Zitting Cisticola",
   "ktsn": 120000002011,
-  "origin": "nibr",
   "length": "12.5cm",
   "status": "여름철새 수천 마리 · 텃새 수십 마리",
   "habitat": "초원, 개울가 풀밭, 보리밭, 하천부지",
@@ -57,10 +56,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 깃 색이 거의 같다. 번식기 수컷은 정수리의 줄무늬가 거의 없어 머리가 갈색 민무늬로 보이고 입 안이 검어 암컷과 구별된다."
   },
-  "young": "TODO",
+  "young": "어른새와 비슷하나 깃털이 더 부스스하고 아랫면에 노란 기가 돈다. 둥지를 갓 떠난 새끼는 입가가 노랗고 등의 검은 줄무늬가 더 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Zitting Cisticola (Cisticola juncidis), adult in summer (May–August): crown buff-brown streaked blackish; face plain buff with a faint pale supercilium; hindneck buff with only fine streaks; mantle and back boldly streaked blackish-brown with pale buff to whitish feather edges; rump plain warm rufous-buff; wings brown with buff fringes; chin and upper throat white; lower throat and breast washed buff, the flanks warmer buff; belly white; tail brown, each feather with a black subterminal spot and a whitish tip, best seen from below; thin, slightly curved bill, brown above and pinkish below; pink legs.",
@@ -101,6 +100,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe(1883) Catalogue of the Birds in the British Museum 7권 – Cisticola cisticola",
+      "url": "https://archive.org/details/catalogueofbirds07brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Seebohm(1890) The Birds of the Japanese Empire – Cisticola cisticola(일본 개체군 여름 수컷)",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "암수 구별"
+    },
+    {
+      "title": "일본어 위키백과 – セッカ(개개비사촌)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%83%E3%82%AB",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Cisticole des joncs(개개비사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/cisticole.des.joncs.html",
+      "used": "어린새"
     }
   ],
   "todo": [],

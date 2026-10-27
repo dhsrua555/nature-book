@@ -5,15 +5,22 @@
   "author": "Pallas, 1776",
   "en": "Rustic Bunting",
   "ktsn": 120000002223,
-  "origin": "nibr",
   "length": "약 15cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수만 마리",
   "habitat": "경작지 주변, 구릉, 소림, 낙엽활엽수림, 침엽수림, 혼효림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5~7월에 알을 낳는다."
+    "note": "11월~3월에 가장 많고 5월에 늦게 남은 개체가 보이기도 하며, 번식지에서는 5~7월에 알을 낳는다."
   },
   "summary": "경작지 주변과 구릉, 성긴 숲, 낙엽활엽수림·침엽수림·혼효림에서 지내는 흔한 겨울철새로, 전국에서 볼 수 있다. 겨울에는 주로 풀씨를 먹고, 여름에는 곤충의 애벌레와 어른벌레를 먹는다. 한배에 알을 4~6개 낳는다. 국외에서는 캄차카, 일본, 중국 동부에 분포한다.",
   "points": [
@@ -43,7 +50,7 @@
     "male": "머리꼭대기와 뺨의 색이 암컷보다 또렷하고 아랫면 줄무늬도 진하다.",
     "female": "머리꼭대기와 뺨의 색이 탁하고 아랫면 줄무늬가 더 연하다."
   },
-  "young": "TODO",
+  "young": "어린새는 첫겨울 암컷과 비슷하나 가슴과 옆구리가 황갈색을 띠고 검은 갈색 세로줄이 더 많다. 첫겨울 새는 어른 겨울깃과 거의 같으나 가슴에 얼룩이 더 많다.",
   "similar": [],
   "art": {
     "subject": "Rustic Bunting (Emberiza rustica), adult male in winter plumage, as seen on Korean field margins from November to March: crown brown with fine dark streaks, often raised into a short peak; broad whitish-buff supercilium; brown ear-coverts with a pale spot at the rear corner; whitish throat bordered by a dark malar stripe; nape rufous; mantle rufous-brown streaked black; rump rufous; underparts white with a band of rufous-chestnut spots across the breast and bold rufous streaks along the flanks; wings brown with two narrow whitish wing bars; tail dark brown with white outer feathers. Conical bill pink with a darker culmen; dark eye; pink legs.",
@@ -84,6 +91,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – 쑥새 한국 eBird 기록",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2491582&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Emberiza rustica",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 5월 새 소식 – '매우 늦은' 쑥새 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2008-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Rustic-Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza rustica",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux-birds.com – Rustic Bunting(쑥새)",
+      "url": "https://www.oiseaux-birds.com/card-rustic-bunting.html",
+      "used": "어린새"
     }
   ],
   "todo": [],

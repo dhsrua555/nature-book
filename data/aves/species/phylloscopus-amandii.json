@@ -6,21 +6,26 @@
   "en": "Yellow-streaked Warbler",
   "ktsn": 120000533856,
   "origin": "nibr",
-  "length": "TODO",
+  "length": "12–14cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 섬의 덤불과 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "주로 4월 하순~5월에 기록되고, 가을에는 10월 하순 기록이 있다."
   },
-  "summary": "TODO",
+  "summary": "봄과 가을 이동기에 서해의 섬에 드물게 찾아오는 솔새로, 2007년 5월 소청도에서 처음 기록된 뒤 소청도·백령도·연평도 등에서 거의 해마다 몇 차례씩 기록된다. 덤불의 낮은 곳에서 곤충을 찾으며, 긴다리솔새사촌과 생김새가 매우 비슷해 금속성의 짧은 울음소리로 가려낸다. 중국 북동부에서 중부·남서부에 걸쳐 번식하고 중국 남서부와 인도차이나 북부에서 겨울을 난다.",
   "points": [],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "첫해 어린새는 아랫면이 담황색이나 노르스름한 담황색을 띠고, 멱과 가슴의 가는 노란 세로줄이 거의 보이지 않는다.",
   "similar": [],
   "art": {
     "subject": "Yellow-streaked Warbler (Phylloscopus amandii, correctly Phylloscopus armandii), adult, as seen in Korea on spring migration: upperparts plain olive-brown; long pale buffish-white supercilium; dark brown eye-stripe; mottled ear-coverts; underparts dull whitish with fine, faint yellowish streaks on the throat and breast, buff-brown flanks and buffish undertail coverts; wings and tail plain brown without wing-bars. Bill fairly short and pointed, dark above and pale below; dark eye; legs pale yellowish-brown.",
@@ -46,10 +51,60 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "위키백과 러시아어판(Birds of the World 인용 부분) – Пеночка Арманда(쇠긴다리솔새사촌)",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D0%BE%D1%87%D0%BA%D0%B0_%D0%90%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Yellow-streaked Warbler(쇠긴다리솔새사촌)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038200",
+      "used": "몸길이·사는 곳·해설·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot de Milne-Edwards(쇠긴다리솔새사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.milne-edwards.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 국내 첫 회색정수리노랑솔새(백령도, 2021년 5월)",
+      "url": "https://www.birdskoreablog.org/?p=24729",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 쇠긴다리솔새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493086&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 백령도 2025년 4월 24일~5월 7일",
+      "url": "https://www.birdskoreablog.org/?p=30573",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 10월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-10.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV1",

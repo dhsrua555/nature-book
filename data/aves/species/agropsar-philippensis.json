@@ -5,15 +5,22 @@
   "author": "Pennant, 1781",
   "en": "Chestnut-cheeked Starling",
   "ktsn": 120000528897,
-  "origin": "nibr",
   "length": "약 20cm",
   "status": "나그네새 수백 마리 · 여름철새 수십 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "인가 부근, 시가지의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 대개 5~6월에 알을 낳고, 7월부터 무리를 지어 다닌다."
+    "note": "4월 중순~5월 초와 9월 중순~10월 초에 가장 많이 지나가며, 여름에도 일부가 머문다."
   },
   "summary": "작은 무리가 드물게 한반도를 지나가는 나그네새이다. 인가 부근이나 시가지 숲에서 번식하는데, 대개 한배에 알을 4~6개 낳고 번식기에는 암수가 함께 지내다가 번식이 끝나면 무리를 지어 다닌다. 거미와 곤충을 주로 먹고 벚나무, 감, 포도 같은 나무 열매도 즐겨 먹는다. 구북구 동부에서 번식하고 한국, 중국 동부, 우수리, 타이완 등지를 거쳐 오키나와, 필리핀, 보르네오 등지에서 겨울을 난다.",
   "points": [
@@ -43,11 +50,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 멱이 크림빛 흰색이고 뺨과 귀깃에 짙은 밤색 얼룩이 있으며, 등은 광택 있는 자줏빛 검은색이고 날개에 흰 줄이 있다.",
+    "female": "머리에서 등까지 잿빛 갈색이고 뺨의 밤색 얼룩이 없으며, 아랫면은 잿빛 흰색이고 날개와 꼬리도 갈색을 띤다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하게 머리에서 등까지 갈색이고 날개도 갈색이며, 가운데날개덮깃 끝이 담황빛 흰색이다. 북방쇠찌르레기 어린새와 매우 비슷하나 어깨깃에 흰 줄이 없다.",
+  "similar": [
+    {
+      "ko": "북방쇠찌르레기",
+      "how": "북방쇠찌르레기 수컷은 머리가 잿빛이고 뒷머리에 자줏빛 검은 얼룩이 있으며 어깨깃 끝이 넓게 희지만, 쇠찌르레기 수컷은 머리가 크림빛 흰색이고 뺨에 밤색 얼룩이 있다."
+    }
+  ],
   "art": {
     "subject": "Chestnut-cheeked Starling (Agropsar philippensis), adult male in late spring: forehead, crown and hindneck creamy white; lores, chin and throat pale buff; a rich chestnut patch on the ear coverts and cheeks, sometimes extending to the neck sides and upper breast; mantle and back glossy purplish-black; wings glossy green-black with a white stripe along the shoulder; tail black with a strong green gloss, slightly notched; breast and flanks grey, belly white; bill black with a greyish base to the lower mandible; brown iris; dark olive-grey legs.",
     "pose": "perched on a branch of a fruiting cherry tree, side view",
@@ -96,6 +109,66 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 쇠찌르레기",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045600",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판(『日本の野鳥590』 등 인용) – コムクドリ(쇠찌르레기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A0%E3%82%AF%E3%83%89%E3%83%AA",
+      "used": "암수 구별"
+    },
+    {
+      "title": "코토뱅크(ブリタニカ国際大百科事典) – コムクドリ(쇠찌르레기)",
+      "url": "https://kotobank.jp/word/%E3%82%B3%E3%83%A0%E3%82%AF%E3%83%89%E3%83%AA",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Étourneau à joues marron(쇠찌르레기)",
+      "url": "https://www.oiseaux.net/oiseaux/etourneau.a.joues.marron.html",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – 찌르레기·붉은부리찌르레기·북방쇠찌르레기·쇠찌르레기·잿빛쇠찌르레기·분홍찌르레기",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 8월(『Birds of East Asia』 인용)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-08.shtml",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 쇠찌르레기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=6100939&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2002년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2002-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2008년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2008-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 북방쇠찌르레기",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045500",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

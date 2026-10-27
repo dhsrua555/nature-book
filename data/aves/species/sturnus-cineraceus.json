@@ -5,7 +5,6 @@
   "author": "Temminck, 1835",
   "en": "White-cheeked Starling",
   "ktsn": 120000002086,
-  "origin": "nibr",
   "length": "약 24cm",
   "status": "나그네새 수만 마리 · 겨울철새 수천 마리 · 텃새 수천 마리",
   "habitat": "나무 구멍, 건물 지붕과 틈, 돌담 틈(둥지 자리)",
@@ -58,11 +57,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 멱, 가슴이 검은빛이 도는 짙은 잿빛이어서 회갈색 몸과 대비가 뚜렷하다.",
+    "female": "수컷보다 전체적으로 갈색을 띠고 가슴과 배가 옅으며, 검은색이 머리꼭대기에 그치고 얼굴의 흰 부분이 더 넓다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 전체가 갈색을 띠고, 머리와 가슴이 어른새처럼 검지 않고 회갈색이며, 뺨이 희끄무레하다.",
+  "similar": [
+    {
+      "ko": "붉은부리찌르레기",
+      "how": "붉은부리찌르레기 수컷은 머리 전체가 희끄무레하고 부리가 붉으며 허리에 흰 띠가 없고 날 때 첫째날개깃 기부에 흰 무늬가 보이지만, 찌르레기는 머리가 검고 뺨이 희며 허리에 흰 띠가 있다."
+    }
+  ],
   "art": {
     "subject": "White-cheeked Starling (Sturnus cineraceus), adult male, as seen in Korea in spring: head and throat blackish with a slight green gloss and long, narrow willow-leaf-shaped feathers; the amount of white on the face varies a lot between individuals: this one is a white-faced bird, with the forehead, lores, cheeks and ear coverts largely white, finely streaked black, clearly contrasting with the black crown, nape and throat; upperparts dull grey-brown; breast dark grey-brown, belly paler grey; vent and undertail coverts whitish; a pale whitish band across the rump; wings dark brown with narrow pale edges to the secondaries; tail dark brown with white tips to the outer feathers. Bill orange with a dark tip. Brown iris. Orange legs.",
     "pose": "perched at the entrance of a tree-hole nest",
@@ -102,6 +107,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 찌르레기",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045300",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판 – ムクドリ(찌르레기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%89%E3%83%AA",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – 찌르레기·붉은부리찌르레기·북방쇠찌르레기·쇠찌르레기·잿빛쇠찌르레기·분홍찌르레기",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판(MacKinnon & Phillipps 2000 등 인용) – White-cheeked starling(찌르레기)",
+      "url": "https://en.wikipedia.org/wiki/White-cheeked_starling",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "코토뱅크(世界大百科事典) – ムクドリ(찌르레기)",
+      "url": "https://kotobank.jp/word/%E3%83%A0%E3%82%AF%E3%83%89%E3%83%AA",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 붉은부리찌르레기",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045200",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

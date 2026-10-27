@@ -5,15 +5,20 @@
   "author": "Pallas, 1811",
   "en": "Pallas's Grasshopper Warbler",
   "ktsn": 120000002030,
-  "origin": "nibr",
   "length": "약 13cm",
   "status": "나그네새, 해마다 수천 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "하천 바닥, 강가 초지, 키 큰 풀숲, 관목림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 6월에 알을 낳는다."
+    "note": "5~6월과 8~10월 이동기에 지나가고 겨울에도 드물게 기록되며, 번식지에서는 6월에 알을 낳는다."
   },
   "summary": "작은 무리를 지어 한반도 전역을 지나가는 흔하지 않은 나그네새이다. 하천 바닥이나 강가 초지에 살며 특히 키 큰 풀숲이나 관목림을 좋아하고, 작은 곤충과 그 유충을 먹는다. 초습지의 풀 사이 땅 위에 둥지를 틀고 6월에 한배에 4~6개의 알을 낳는다. 시베리아와 동아시아 북부에서 번식하고 중국, 인도차이나, 미얀마, 말레이반도 등지에서 겨울을 난다.",
   "points": [
@@ -27,11 +32,20 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 아랫면에 노란 기가 돌고, 멱 아래와 윗가슴에 점 같은 짧은 검은 갈색 세로무늬가 있다. 꼬리 끝의 흰 무늬는 어른새보다 작고 흐리다.",
+  "similar": [
+    {
+      "ko": "쥐발귀개개비",
+      "how": "쥐발귀개개비는 더 작고 가슴과 옆구리에 가는 세로무늬가 촘촘하며, 꼬리 끝에 흰 무늬가 없다."
+    },
+    {
+      "ko": "알락꼬리쥐발귀",
+      "how": "알락꼬리쥐발귀는 머리와 등에 검은 세로무늬가 거의 없는 민무늬이고 흰 눈썹선도 흐리다."
+    }
+  ],
   "art": {
     "subject": "Pallas's Grasshopper Warbler (Locustella certhiola), adult on passage (sexes alike): crown and mantle yellowish- to rufous-brown, heavily streaked black; a long, fairly prominent greyish-white supercilium and a dark brown eye-stripe; rump and uppertail coverts warmer rufous-brown with fewer streaks; wings brown, the tertials blackish-centred with whitish tips; tail dark brown becoming blackish towards the end, all but the central feathers tipped greyish-white; underparts greyish-white, washed buff-brown on the breast sides, flanks and long undertail coverts; bill dark with a pale base to the lower mandible; dark eye; pinkish legs.",
     "pose": "skulking low in tall grass, side view",
@@ -70,6 +84,61 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Pallas's Grasshopper-Warbler",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Locustella certhiola",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Pallas's Grasshopper Warbler(북방개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041600",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Lanceolated Warbler(쥐발귀개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041900",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Middendorff's Grasshopper Warbler(알락꼬리쥐발귀)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/041700",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Austin & Kuroda(1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – Locustella ochotensis·certhiola",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Seebohm(1890) The Birds of the Japanese Empire – Locustella ochotensis·lanceolata",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "GBIF 한국 기록 – Locustella certhiola(eBird 등)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493556",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin(1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Locustella certhiola minor(5–6월·8–9월 표본)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2007년 8월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 월간 새 소식 2014년 3월 – 서울 월동 북방개개비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-03.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

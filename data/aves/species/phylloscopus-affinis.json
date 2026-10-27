@@ -5,16 +5,19 @@
   "author": "Tickell, 1833",
   "en": "Tickell's Leaf Warbler",
   "ktsn": 120000002044,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 11cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 섬과 제주도의 덤불, 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "주로 5월에 기록되고 4월 하순에도 기록이 있다."
   },
-  "summary": "TODO",
+  "summary": "5월을 중심으로 서해의 섬에 드물게 찾아오는 솔새로, 2005년 5월 소청도에서 처음 기록된 뒤 백령도·가거도·어청도·제주도 등에서 거의 해마다 기록된다. 국내에 오는 것은 중국 중서부 고산에서 번식하는 아종 occisinensis 로, 한때 별개의 종으로 다루어졌다. 번식지에서는 해발 3,000m 넘는 높은 산의 버드나무·관목 덤불과 바위 사이에 살며, 덤불 속을 옮겨 다니며 곤충을 잡아먹는다.",
   "points": [
     {
       "ko": "길고 샛노란 눈썹선",
@@ -42,7 +45,12 @@
     "text": "TODO"
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "담황턱솔새",
+      "how": "담황턱솔새는 몸이 조금 작고 부리가 짧으며 부리 끝의 검은 부분이 넓고, 아랫면과 눈썹선이 맑은 노란색이 아니라 담황갈색을 띤다."
+    }
+  ],
   "art": {
     "subject": "Tickell's Leaf Warbler (Phylloscopus affinis), adult, as seen in Korea on spring migration: crown and upperparts dark olive-green with a slight brownish tone, no crown stripe; long, bright yellow supercilium from the bill base to the rear of the ear-coverts; dark olive eye-stripe; cheeks yellowish-olive; wings and tail darker olive-brown with green edges and no wing-bars; underparts bright lemon-yellow from chin to undertail, slightly olive on the flanks. Bill fine, the upper mandible dark and the lower mandible orange-yellow; dark eye; legs pale orange-brown.",
     "pose": "foraging low in a leafy shrub, side view",
@@ -88,10 +96,66 @@
       "title": "Sichuan Birding Resource – Leaf warblers in Sichuan: Tickell's Leaf Warbler",
       "url": "https://sichuanbirding.cloudaccess.net/sichuan-birding-resource/warblers-sichuan.html?start=15",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot de Tickell(노랑배솔새사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.de.tickell.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 솔새류(Phylloscopus·Herbivocula·Seicercus)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 백령도 2025년 4월 24일~5월 7일",
+      "url": "https://www.birdskoreablog.org/?p=30573",
+      "used": "사는 곳·비슷한 종"
+    },
+    {
+      "title": "Martens, Sun & Päckert (2008) Vertebrate Zoology 58: 233–265 – Phylloscopus occisinensis(노랑배솔새사촌 occisinensis)",
+      "url": "https://doi.org/10.3897/vz.58.e30935",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "위키백과 영어판 – Tickell's leaf warbler(노랑배솔새사촌)",
+      "url": "https://en.wikipedia.org/wiki/Tickell%27s_leaf_warbler",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 노랑배솔새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493068&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 국내 첫 담황턱솔새(백령도, 2020년 10월)",
+      "url": "https://birdskoreablog.org/?p=23832",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Buff-throated warbler(담황턱솔새)",
+      "url": "https://en.wikipedia.org/wiki/Buff-throated_warbler",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별·어린새: 국내에 오는 아종 occisinensis 의 암수·어린새 깃을 다룬 자료를 두 곳 이상 찾지 못해 비워 둠(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,16 +5,19 @@
   "author": "Jerdon, 1845",
   "en": "Paddyfield Warbler",
   "ktsn": 120000155418,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲 가장자리 덤불과 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2004년 4월 홍도에서 처음 기록된 길잃은새로, 같은 해 10월 소청도에서도 기록되는 등 지금까지 기록이 10건 미만이다. 흑해 연안에서 중앙아시아를 거쳐 몽골과 중국 서북부에 걸쳐 번식하고, 인도 등 남아시아에서 겨울을 난다. 갈대밭, 물가의 풀숲, 논 같은 낮은 풀숲에서 곤충을 잡아먹는다.",
   "points": [
     {
       "ko": "눈 뒤로 넓어지는 흰 눈썹선",
@@ -42,11 +45,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 위쪽 빛깔이 더 밝고, 아랫면이 더 짙은 황갈색을 띤다.",
+  "similar": [
+    {
+      "ko": "우수리개개비",
+      "how": "우수리개개비는 부리가 더 길고 굵으며, 아랫부리 끝에 검은 무늬가 거의 없다."
+    }
+  ],
   "art": {
     "subject": "Paddyfield Warbler (Acrocephalus agricola), adult (sexes alike) in autumn: upperparts warm sandy-brown with a rufous tinge, brightest on the rump; a prominent whitish supercilium, broadest and most striking behind the eye, bordered above by a diffuse dark brown line along the side of the crown; dark brown eye-stripe; throat white; breast and belly whitish with warm buff flanks; wings and tail plain brown; short bill with dark upper mandible and pale pinkish lower mandible with a clear dark tip; dark eye; pinkish-brown legs.",
     "pose": "clinging to a reed stem with tail slightly cocked, side view",
@@ -100,10 +108,44 @@
       "title": "Birds of Europe (Naturalis, Linnaeus NG): Acrocephalus agricola",
       "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130892",
       "used": "동정 포인트·도해 모습 (적갈색 허리, 흰 멱, 옆구리 색, 눈썹선 위 짙은 경계)"
+    },
+    {
+      "title": "위키백과 영어판 – Paddyfield Warbler(북방쇠개개비)",
+      "url": "https://en.wikipedia.org/wiki/Paddyfield_warbler",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Paddyfield Warbler(북방쇠개개비)",
+      "url": "https://www.oiseaux.net/birds/paddyfield.warbler.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2판 2권 – 북방쇠개개비",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·해설·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004-04 – 북방쇠개개비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-04.shtml",
+      "used": "사는 곳·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004-10 – 북방쇠개개비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-10.shtml",
+      "used": "사는 곳·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 리뷰 – 북방쇠개개비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – 북방쇠개개비",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·어린새·암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

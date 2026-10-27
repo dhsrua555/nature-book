@@ -5,16 +5,19 @@
   "author": "S.F.Baird, 1869",
   "en": "Eurasian Bullfinch (cassinii)",
   "ktsn": 120000528676,
-  "origin": "nibr",
   "length": "TODO",
   "status": "TODO",
-  "habitat": "TODO",
+  "habitat": "낮은 산의 숲과 숲 가장자리, 수목원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      2,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달로, 2005년 12월과 2006년 2월 광릉 국립수목원 등의 기록이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 멋쟁이새가 많이 내려온 2005–2006년 겨울에 광릉 국립수목원 등에서 멋쟁이새 무리에 섞인, 이 아종으로 보이는 개체가 몇 차례 사진에 담긴 드문 아종이다. 옛 기록으로는 1929년 11월 함경북도에서 채집된 수컷 표본이 있다. 시베리아 동부에 분포하는 아종이다.",
   "points": [
     {
       "ko": "검은 모자와 짧고 뭉툭한 검은 부리",
@@ -42,11 +45,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리꼭대기와 턱은 검고, 뺨에서 멱·가슴·배까지 장밋빛 붉은색이 진하게 이어지며 아랫배와 아래꼬리덮깃은 희다.",
+    "female": "검은 모자는 수컷과 같으나 붉은빛이 없고 몸이 회갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 머리에 검은 모자가 없고 온몸이 갈색을 띠며, 가을에 털갈이를 마치면 어른새와 같은 깃이 된다.",
+  "similar": [
+    {
+      "ko": "멋쟁이새",
+      "how": "수컷은 붉은빛이 배까지 진하게 이어지고 아랫배의 흰 부분이 넓어, 가슴과 배가 회색 바탕에 분홍빛만 도는 멋쟁이새(아종 rosacea)와 다르다."
+    }
+  ],
   "art": {
     "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula cassinii), adult male in winter, as seen in Korea from November to March: glossy black cap covering the forehead, crown and the area around the bill base and chin, the eye at its lower edge; cheeks, ear-coverts, throat, breast and belly rich rosy pink-red; nape and mantle clean grey; wings glossy blue-black with a broad pale grey band across the greater coverts; rump pure white; vent and undertail coverts white; tail glossy blue-black, often with a white wedge on the inner web of the outermost feathers; bill black, short and swollen; eye dark; legs dark brown.",
     "pose": "perched on a bare twig, plump and slightly hunched, nibbling a bud, side view",
@@ -98,11 +107,57 @@
       "title": "Swarth (1927), bullfinches of Kamchatka and Siberia – BioStor",
       "url": "https://archive.org/download/biostor-78052/biostor-78052.pdf",
       "used": "아종 확인"
+    },
+    {
+      "title": "새와 생명의 터 2005년 리뷰 – Eurasian Bullfinch(presumed cassinii 사진 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 2006년 리뷰 – Eurasian Bullfinch(광릉의 griseiventris·cassini·rosacea)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "사는 곳, 해설, 번식기, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 Bird News 2005년 12월 – 광릉 국립수목원의 cassinii(?)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-12.shtml",
+      "used": "관찰 시기, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터 Bird News 2006년 2월 – cassinii 형 멋쟁이새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-02.shtml",
+      "used": "사는 곳, 관찰 시기"
+    },
+    {
+      "title": "Austin(1948) The Birds of Korea(Bull. Mus. Comp. Zool. 101) – Pyrrhula pyrrhula cassini 표본",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "해설, 번식기, 암수 구별"
+    },
+    {
+      "title": "새와 생명의 터 Birds Korea Checklist 2022 – Eurasian Bullfinch(번식 기록 0)",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 일본어판 – ウソ(아종 ベニバラウソ)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BD",
+      "used": "해설, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Bouvreuil pivoine(멋쟁이새)",
+      "url": "https://www.oiseaux.net/oiseaux/bouvreuil.pivoine.html",
+      "used": "어린새"
+    },
+    {
+      "title": "Witherby 외(1919) A Practical Handbook of British Birds 1권 – Bullfinch",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "국립생물자원관 종 설명이 없어 사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 채웠다(출처 목록)",
+    "[새와 생명의 터] 2022 목록의 멋쟁이새 아종(cineracea·griseiventris·rosacea)에 cassinii 가 없고, 2005–2006년 국내 기록도 '이 아종으로 보이는(presumed)' 개체로만 보고되어 국내 상태(status)를 정하지 못했다",
+    "아종 cassinii 만의 몸길이를 실은 자료를 찾지 못해 length 를 TODO 로 두었다(종 전체로는 약 16cm, 이 아종이 조금 크다는 표본 기록이 있다)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
@@ -110,5 +165,5 @@
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

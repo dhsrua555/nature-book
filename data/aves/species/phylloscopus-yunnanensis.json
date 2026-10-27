@@ -5,16 +5,20 @@
   "author": "La Touche, 1922",
   "en": "Chinese Leaf Warbler",
   "ktsn": 120000525180,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "9–10cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해 섬의 숲, 도시의 공원과 나무",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      10,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "중국 중부와 북부의 산지 숲에서만 번식하는 솔새로, 우리나라에서는 2004년 10월 소청도에서 처음 기록된 뒤 2020년 5월 백령도, 2025년 12월 인천 미추홀구 등에서 기록된 길잃은새다. 노랑허리솔새처럼 나뭇가지 끝의 잎 사이를 옮겨 다니며 곤충을 잡지만 그보다 덜 부산하다. 겨울은 중국 윈난 남부와 타이·미얀마·라오스 북부에서 나는 것으로 알려져 있다.",
   "points": [
     {
       "ko": "앞쪽이 흐린 옅은 정수리 중앙선",
@@ -38,7 +42,12 @@
     "text": "TODO"
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "노랑허리솔새",
+      "how": "노랑허리솔새보다 전체가 칙칙하고 부리가 가늘며, 머리 가운데 선이 이마 쪽에서 흐려지고 허리의 노란 띠가 작고 흐리다."
+    }
+  ],
   "art": {
     "subject": "Chinese Leaf Warbler (Phylloscopus yunnanensis), adult (sexes alike) in spring: a pale greyish-yellow median crown stripe, diffuse and fading towards the forehead, between greyish-olive lateral crown stripes; a long, well-defined whitish supercilium with no yellow tinge, a little buffier towards the rear; a dark olive eye-stripe; rather plain ear-coverts; upperparts olive-green with a pale yellowish-white band across the rump; wings dark with two yellowish-white wing-bars, the lower one more distinct, and pale-edged tertials; underparts whitish with a faint yellowish tinge; fine dark bill with a pale base to the lower mandible; dark eye; very dark brown, almost blackish legs.",
     "pose": "flitting among pine twigs, side view, wings slightly drooped to show the pale rump band",
@@ -84,10 +93,42 @@
       "title": "Wikipedia — Chinese leaf warbler (Alström et al. 1992; Baker 1997 인용)",
       "url": "https://en.wikipedia.org/wiki/Chinese_leaf_warbler",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot du Sichuan(연노랑허리솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.du.sichuan.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·Xeno-canto·iNaturalist) – 연노랑허리솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=7807833",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 연노랑허리솔새 관찰(인천 미추홀구, 2025년 12월 8일)",
+      "url": "https://www.inaturalist.org/observations/330312656",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "위키백과 영어판(Svensson 외·K. Baker 1997 인용 부분) – Pallas's leaf warbler(노랑허리솔새)",
+      "url": "https://en.wikipedia.org/wiki/Pallas%27s_leaf_warbler",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별: 영어 위키백과(K. Baker 1997 인용 추정) 한 곳에서만 '암수가 비슷하다'를 찾아 비워 둠(조사 중)",
+    "어린새: 교차 확인할 수 있는 종 설명을 찾지 못해 비워 둠(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

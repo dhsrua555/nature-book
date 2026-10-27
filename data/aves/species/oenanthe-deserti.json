@@ -5,16 +5,20 @@
   "author": "Temminck, 1825",
   "en": "Desert Wheatear",
   "ktsn": 120000002130,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "해안 바위 지대, 섬의 바위 능선과 맨땅",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2008년 1월 포항, 2009년 5월 어청도·10월 가거도)."
   },
-  "summary": "TODO",
+  "summary": "2008년 1월 경북 포항에서 처음 기록된 길잃은새로, 2009년 5월 어청도와 10월 가거도에서도 관찰되었다. 북아프리카에서 중동·중앙아시아를 거쳐 몽골과 중국 서부까지 사막과 건조한 초원에서 번식하며, 아시아 개체군은 모두 남쪽으로 옮겨 가 겨울을 난다. 주로 맨땅에서 개미·딱정벌레와 그 애벌레를 잡아먹고, 때로는 날아오르며 곤충을 낚아챈다.",
   "points": [
     {
       "ko": "흰 눈썹선(수컷)",
@@ -38,10 +42,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "윗면은 모래빛 갈색이고 흰 눈썹선이 있으며, 얼굴과 멱의 검은색이 목옆을 따라 검은 날개와 이어진다.",
+    "female": "얼굴과 멱이 검지 않고 담황색이며, 윗면은 수컷보다 흐린 회갈색, 날개는 흑갈색이다. 꼬리가 거의 검은 점은 수컷과 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하지만 윗면 깃 가운데가 희고 끝이 갈색이어서 얼룩져 보이며, 멱과 가슴에도 담황갈색 깃 끝이 있다. 첫 겨울 수컷은 멱의 검은 깃 끝이 희어 검은색이 일부 가려진다.",
   "similar": [],
   "art": {
     "subject": "Desert Wheatear (Oenanthe deserti), adult male in spring, a vagrant on a Korean coastal dune: crown, nape, mantle and scapulars pale sandy-buff; a whitish supercilium; face, chin and throat solid black, the black continuing down the sides of the neck to join the black wing at the shoulder; wing coverts and flight feathers black, the inner wing coverts edged white, forming a whitish line between the sandy scapulars and the black wing; breast and belly creamy buff-white; rump and uppertail coverts white; tail almost entirely black, with white only at the base. Bill black; eye dark; legs black.",
@@ -89,11 +94,51 @@
       "title": "Wikipedia – Desert wheatear (Witherby, Handbook of British Birds 인용)",
       "url": "https://en.wikipedia.org/wiki/Desert_wheatear",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Traquet du désert(검은꼬리사막딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/traquet.du.desert.html",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Saunders (1899) An Illustrated Manual of British Birds – Desert-Wheatear",
+      "url": "https://archive.org/details/cu31924000047815",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Desert-Wheatear",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Saxicola deserti",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 연간 리뷰 – Desert Wheatear 국내 첫 기록(포항)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰 – Desert Wheatear(어청도·가거도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 5월 새 소식 – 어청도 해안 바위의 검은꼬리사막딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-05.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 10월 새 소식 – 가거도의 국내 세 번째 검은꼬리사막딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-10.shtml",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "2010년 이후 국내 기록(있다면)의 달은 확인하지 못함(GBIF·eBird·iNaturalist 남한 기록 0건)"
   ],
   "occurrence": {
     "code": "V2",

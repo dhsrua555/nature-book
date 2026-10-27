@@ -5,16 +5,19 @@
   "author": "Temminck & Schlegel), 1848",
   "en": "Japanese Accentor",
   "ktsn": 120000213514,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "낮은 산의 덤불과 숲 가장자리, 바닷가 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2001년 3월 부산 몰운대와 2009년 4월 경주에서 기록된 길잃은새이다. 일본(혼슈 중부 이북, 홋카이도 등)과 남쿠릴에서 번식하는 새로, 여름에는 높은 산의 눈잣나무·자작나무 관목 숲에서 지내고, 가을부터 낮은 산과 남쪽으로 내려와 산기슭의 조릿대 덤불 등에서 혼자 또는 작은 무리로 땅 위를 다니며 먹이를 찾는다.",
   "points": [
     {
       "ko": "갈색 정수리와 윗면",
@@ -30,8 +33,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -75,11 +78,57 @@
       "title": "コトバンク – カヤクグリ(ブリタニカ国際大百科事典・世界大百科事典・日本大百科全書)",
       "url": "https://kotobank.jp/word/%E3%82%AB%E3%83%A4%E3%82%AF%E3%82%B0%E3%83%AA",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기, 해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004년 3월 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-03.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국, 2001년 3월 부산 몰운대) – Japanese Accentor(쇠바위종다리)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231769",
+      "used": "관찰 시기, 사는 곳"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "해설, 사는 곳"
+    },
+    {
+      "title": "위키백과 일본어판 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%AF%E3%82%B0%E3%83%AA",
+      "used": "몸길이, 사는 곳, 해설, 암수 구별"
+    },
+    {
+      "title": "Seebohm (1890) The Birds of the Japanese Empire – Japanese Accentor(쇠바위종다리)",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "해설"
+    },
+    {
+      "title": "Sharpe (1883) Catalogue of the Birds in the British Museum 7권 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://archive.org/details/catalogueofbirds07brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Japanese Accentor(쇠바위종다리)",
+      "url": "https://www.oiseaux.net/birds/japanese.accentor.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Japanese Accentor(쇠바위종다리)",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 해설·사는 곳·관찰 시기는 새와 생명의 터 기록과 관찰 자료(eBird·iNaturalist), 국외 자료로 썼다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "어린새: 어른새와 다른 점을 밝힌 자료를 두 곳에서 찾지 못해 비워 둠(Birds of the World 는 구독 전용)"
   ],
   "occurrence": {
     "code": "V2",

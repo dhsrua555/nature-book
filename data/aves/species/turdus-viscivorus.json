@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1758",
   "en": "Mistle Thrush",
   "ktsn": 120000506934,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "27–28cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "숲 가장자리, 과수원, 나무가 드문드문한 탁 트인 곳",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2020년 11월 21일 인천 옹진군 소청도에서 한 마리가 관찰된 것이 첫 기록인 길잃은새다. 유럽과 북서아프리카에서 바이칼호 부근까지 분포하며, 북쪽 번식 집단은 겨울에 남쪽으로 내려간다. 숲 가장자리와 과수원, 탁 트인 곳에서 지렁이·달팽이·곤충을 먹고, 가을과 겨울에는 겨우살이를 비롯한 나무 열매를 즐겨 먹는다.",
   "points": [
     {
       "ko": "연한 회갈색 윗면",
@@ -34,11 +33,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 등과 어깨깃에 크림색이나 담황색 세로 반점이 흩어지고 깃 끝이 검어, 어른새보다 윗면이 훨씬 얼룩덜룩하다.",
+  "similar": [
+    {
+      "ko": "호랑지빠귀",
+      "how": "호랑지빠귀는 온몸에 검은 비늘무늬가 있고 날개 아랫면에 검고 흰 띠가 있으나, 대륙점지빠귀는 아랫면에 둥근 검은 점이 흩어지고 날개 아랫면이 희다."
+    }
+  ],
   "art": {
     "subject": "Mistle Thrush (Turdus viscivorus), adult (sexes alike) in winter: upperparts plain pale greyish-brown; face pale with dark marks around the ear-coverts; underparts whitish with a slight buff wash on the breast, densely covered with bold round to wedge-shaped black spots on the breast, flanks and belly; wings with whitish fringes to the coverts and tertials; tail greyish-brown with white tips to the outer feathers; bill dark with a yellowish base to the lower mandible; dark eye; pale pinkish-yellow legs.",
     "pose": "standing upright on short grass, side view",
@@ -82,11 +86,49 @@
       "title": "RSPB: Mistle Thrush",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/mistle-thrush",
       "used": "교차 확인 (차가운 회갈색 윗면, 크고 짙은 가슴 반점, 날 때 흰빛 꼬리 가장자리)"
+    },
+    {
+      "title": "한국조류학회지 28(2): 128–131(2021) – 한국에서 갈색지빠귀(Turdus feae)와 대륙점지빠귀(Turdus viscivorus)의 첫 관찰기록 보고",
+      "url": "https://www.dbpia.co.kr/Journal/ArticleDetail/NODE10897438",
+      "used": "해설"
+    },
+    {
+      "title": "Oiseaux.net – Mistle Thrush",
+      "url": "https://www.oiseaux.net/birds/mistle.thrush.html",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus viscivorus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Mistle-Thrush",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "해설·어린새·비슷한 종"
+    },
+    {
+      "title": "Hartert(1910) Die Vögel der paläarktischen Fauna 1권 – Turdus viscivorus",
+      "url": "https://archive.org/details/dievgelderpal01hart",
+      "used": "어린새"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Turdus viscivorus",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Shanghai Birding(Craig Brelsford) – Mistle Thrush",
+      "url": "https://www.shanghaibirding.com/birds-of-china/mistle-thrush/",
+      "used": "사는 곳·해설·암수 구별·비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명(Dresser 1902, Witherby 1920 등)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 첫 기록(2020년 11월 21일 소청도)은 한국조류학회지 논문 한 곳에서만 확인되었고, 그 뒤 기록의 날짜는 찾지 못했다(iNaturalist·eBird 한국 기록 0건)",
+    "사는 곳은 국내 기록 장소의 환경을 확인하지 못해 이 종이 일반적으로 사는 환경으로 적었다",
+    "국내 기록 개체의 아종(유럽·서시베리아의 viscivorus 또는 중앙아시아의 더 크고 옅은 bonapartei)을 확인하지 못했다. 몸길이는 기아종 기준이다"
   ],
   "occurrence": {
     "code": "V2",

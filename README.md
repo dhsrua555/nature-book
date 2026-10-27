@@ -130,6 +130,11 @@ IOC 의 목·과를 찾아 자동으로 묶고, 목·과·종의 차례도 IOC �
 4. `uv run tools/nibr_entries.py check cache/work/out-NN.json` — 몸길이 같은 수와 국내 상태 낱말이 원문에 실제로 있는지 대조한다.
 5. `uv run tools/nibr_entries.py merge` → `uv run tools/occurrence.py --write` → `uv run tools/build.py`.
    (`merge` 는 이미 있는 종 파일을 덮어쓰지 않는다. 다시 만들 때만 `--force`.)
+6. 원문에 없어 TODO 로 남은 칸(몸길이·관찰 시기·번식기·암수 구별·어린새·사는 곳·해설·비슷한 종)은 2026년 10월에 국내외 자료로 더 채웠다.
+   **독립된 자료 두 곳 이상이 맞아떨어지는 값만** 쓰고(자료가 엇갈리거나 한 곳뿐이면 TODO 로 두고 `todo` 에 까닭), 쓴 자료는 종마다 `sources` 에 더했다.
+   주로 쓴 자료: 새와 생명의 터 기록(월간 소식·연간 리뷰·블로그), 국내 학회지의 첫 기록 논문, 홍콩조류협회(HKBWS) 종 설명, 일본 조류 단체·백과·적색자료집,
+   저작권이 끝난 옛 핸드북(Witherby, Baker, Sharpe, Dresser, Austin 1948 등), iNaturalist·eBird(GBIF)의 한국 관찰. 위키백과는 실마리로만 썼다.
+   이렇게 채운 종은 `origin` 표시를 지웠다(동정 포인트·그림 재료가 아직 없는 종은 build.py 검사 때문에 남겨 둠).
 
 ### 국내 상태(흔하기)
 

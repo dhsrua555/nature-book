@@ -5,16 +5,25 @@
   "author": "Linnaeus, 1766",
   "en": "Common Myna",
   "ktsn": 120000085486,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "23–26cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
-  "habitat": "TODO",
+  "habitat": "바닷가 도시의 공원, 섬, 저수지 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2020년 이후 관찰 기록)."
   },
-  "summary": "TODO",
+  "summary": "2020년 이후 군산 옥도면의 섬과 부산, 제주도, 울산 등지에서 몇 차례 관찰된 길잃은새로, 배를 타고 들어왔을 가능성 등 기원이 분명하지 않아 새와 생명의 터가 기록을 검토하고 있다. 원래 중앙아시아와 인도 아대륙에서 인도차이나, 중국 남부에 이르는 지역의 텃새이고, 사람이 옮겨 놓아 세계 여러 곳에 퍼졌다. 농경지와 마을, 도시의 트인 곳에서 무리 지어 땅 위를 걸으며 곤충과 열매 등 무엇이든 먹고, 지붕이나 건물 틈 같은 인공 구조물에 둥지를 트는 일이 많다.",
   "points": [
     {
       "ko": "눈 뒤·아래의 노란 맨살",
@@ -42,10 +51,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 칙칙하고 갈색을 띠며, 머리와 멱이 검지 않고 광택 없는 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Common Myna (Acridotheres tristis), adult (sexes alike): head, neck and upper breast glossy black, sharply set off from the warm chocolate-brown body; a bare, bright yellow patch of skin behind and below the eye; back and wings brown, with a white patch at the base of the primaries showing as a small white mark on the closed wing; tail black with white tips to the outer feathers; lower belly, vent and undertail coverts white. Bright yellow bill; dark eye; bright yellow legs.",
@@ -90,11 +99,42 @@
       "title": "Common Myna 家八哥 - Avifauna of Hong Kong (HKBWS)",
       "url": "https://avifauna.hkbws.org.hk/species/0380/045100",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Martin triste(검은머리갈색찌르레기)",
+      "url": "https://www.oiseaux.net/oiseaux/martin.triste.html",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·iNaturalist 등) – 검은머리갈색찌르레기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2489005",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2024 – Moores & Ha",
+      "url": "https://birdskoreablog.org/wp-content/uploads/2024/08/Birds-Korea-checklist-Kor-2024-final-with-quick-fix-20240827.pdf",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록 – 검은머리갈색찌르레기(2021년 2월 19일 부산 유엔기념공원)",
+      "url": "https://www.gbif.org/occurrence/4179885685",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록 – 검은머리갈색찌르레기(2023년 5월 30일 울산 대왕암공원)",
+      "url": "https://www.gbif.org/occurrence/4626487950",
+      "used": "사는 곳"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록 – 검은머리갈색찌르레기(2023년 4월 23일 제주 대정 서림수원지)",
+      "url": "https://www.gbif.org/occurrence/4620822412",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 GBIF(eBird·iNaturalist·국내 관찰 자료)로만 확인했다: 2020년 5·11월 군산 옥도면, 2021년 2·3월·2022년 2·12월 부산 유엔기념공원(같은 개체가 오래 머문 것일 수 있음), 2023년 4–5월 제주 대정, 2023년 5·9·10월 울산 대왕암공원 일대",
+    "새와 생명의 터 2024 목록은 이 종을 검토군 R1D(기원 불명, 배를 타고 들어온 개체 가능성)로 두었다. 정식 목록 반영 여부 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

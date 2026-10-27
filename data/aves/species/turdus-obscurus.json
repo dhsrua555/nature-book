@@ -5,15 +5,20 @@
   "author": "Gmelin, 1789",
   "en": "Eyebrowed Thrush",
   "ktsn": 120000002097,
-  "origin": "nibr",
   "length": "약 22cm",
   "status": "나그네새, 해마다 수천 마리",
   "habitat": "소나무 숲, 일본잎갈나무 숲(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
     "breed": [],
-    "note": "번식지에서는 6~7월에 알을 낳는다."
+    "note": "봄에는 4월 하순~5월, 가을에는 9월 하순~11월 중순에 지나가며, 번식지에서는 6~7월에 알을 낳는다."
   },
   "summary": "봄과 가을에 해마다 수천 마리가 한반도를 지나가는 나그네새이다. 소나무나 일본잎갈나무 숲에 둥지를 틀고, 여름에는 암수가 함께 지내며 6~7월에 알을 4~6개, 흔히 4개 낳는다. 곤충, 복족류, 다족류 등을 주로 먹고 장미과 열매도 즐긴다. 동북아시아에 분포하며 중국 남부와 동남아시아 등지에서 겨울을 난다.",
   "points": [
@@ -43,7 +48,7 @@
     "male": "머리꼭대기가 잿빛을 띤 어두운 올리브 갈색으로 깃 중앙이 거무스름하다.",
     "female": "머리꼭대기와 뒷목이 등과 같은 올리브 갈색이고 깃 중앙만 조금 어둡다. 가슴과 옆구리의 녹슨 갈색이 수컷보다 조금 엷다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면에 황갈색 깃대 무늬와 반점이 있고, 흰 아랫면의 멱과 가슴에 갈색 얼룩이 있으며 눈썹선이 흐리다. 첫해 새는 큰날개덮깃 끝에 담황색 반점이 남아 어른새와 구별된다.",
   "similar": [],
   "art": {
     "subject": "Eyebrowed Thrush (Turdus obscurus), adult male on spring passage (late April–May): head, neck and throat grey, the crown greyish with an olive-brown tinge and darker feather centres; a bold white supercilium; dark lores; a white crescent below the eye; back, wings and tail plain olive-brown; breast and flanks rich yellowish rusty-orange; centre of the belly and undertail coverts white; bill yellow-orange with a dark culmen and a dark tip; brown eye; yellowish-brown to pale orange-brown legs.",
@@ -84,6 +89,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Merula obscura",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus obscurus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eyebrowed Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/046800",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰눈썹붉은배지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490728&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009 연간 조류 기록 정리 – Eyebrowed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010 연간 조류 기록 정리 – Eyebrowed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

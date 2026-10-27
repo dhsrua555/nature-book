@@ -5,16 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Yellowhammer",
   "ktsn": 120000002214,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "16–17cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "농경지, 덤불이 있는 들판, 바닷가 섬",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 지금까지 기록이 10건이 안 되는 길잃은새로, 2002·2003년 가을 가거도와 서산, 2014년 3월 임진각의 섬과 농경지에서 관찰되었다. 유럽에서 러시아·중앙아시아·몽골에 걸쳐 번식하며, 아시아의 무리는 겨울에 남쪽으로 옮겨 가 주로 농경지에서 지낸다. 땅 위에서 풀씨와 곡식 낟알을 주로 먹고, 새끼는 곤충으로 기른다. 우랄산맥과 시베리아 서부처럼 흰머리멧새와 번식지가 겹치는 곳에서는 두 종 사이에 잡종이 흔히 생긴다.",
   "points": [
     {
       "ko": "검은 줄이 조금 있는 노란 머리(수컷)",
@@ -42,11 +45,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "수컷은 머리와 아랫면이 샛노랗고 머리옆과 귀깃 둘레에 올리브색 줄이 있으며, 가슴에 올리브색과 밤색이 섞인 띠가 있다.",
+    "female": "암컷은 노란색이 옅고 머리꼭대기가 거무스름한 녹갈색이며, 가슴과 옆구리가 갈색을 띠고 세로줄이 더 많다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암컷과 비슷하나 더 칙칙하고 노란색이 적으며, 가슴과 옆구리의 검은 세로줄이 굵고 많다. 허리의 밤색도 어른새보다 엷다.",
+  "similar": [
+    {
+      "ko": "흰머리멧새",
+      "how": "암컷과 어린새가 흰머리멧새와 아주 비슷하지만, 노랑멧새는 머리와 아랫면에 노란 기가 있다."
+    }
+  ],
   "art": {
     "subject": "Yellowhammer (Emberiza citrinella), adult male in winter, a vagrant in Korean farmland usually among Pine Buntings: head yellow, partly veiled by olive-green fringes, with olive streaks bordering the crown and an olive surround to the ear coverts; throat yellow; a band of chestnut and olive mottling across the breast; rest of the underparts yellow, the flanks streaked chestnut; mantle and scapulars rufous-brown with blackish streaks; rump bright rufous-chestnut and unstreaked; wings brown with rufous fringes and two pale wing bars; tail long, dark, with white outer feathers. Bill grey with a darker upper mandible; eye dark; legs pinkish.",
     "pose": "perched on a bare hedgerow twig, side view",
@@ -95,11 +104,62 @@
       "title": "Yellowhammer – RSPB",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/yellowhammer",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Bruant jaune(노랑멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.jaune.html",
+      "used": "몸길이·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux-birds.com – Yellowhammer(노랑멧새)",
+      "url": "https://www.oiseaux-birds.com/card-yellowhammer.html",
+      "used": "몸길이·사는 곳·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza citrinella",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – Yellow Bunting",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – キアオジ(노랑멧새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A2%E3%82%AA%E3%82%B8",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2002년 10월 새 소식 – 노랑멧새(가거도, 국내 두 번째 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2002-10.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 리뷰 – 노랑멧새(가을 서산)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 3월 새 소식 – 노랑멧새(임진각)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-03.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – Bruant à calotte blanche(흰머리멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.a.calotte.blanche.html",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Oiseaux-birds.com – Pine Bunting(흰머리멧새)",
+      "url": "https://www.oiseaux-birds.com/card-pine-bunting.html",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 첫 기록(2002년 10월 기록이 '두 번째'로 적혀 있음)의 날짜·장소와 2014년 이후 기록 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

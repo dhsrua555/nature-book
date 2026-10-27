@@ -5,15 +5,17 @@
   "author": "Holbøll, 1843",
   "en": "Redpoll (hornemanni)",
   "ktsn": 120000528860,
-  "origin": "nibr",
   "length": "약 11–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "목초지, 길가, 툰드라",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      2,
+      10
+    ],
     "breed": [],
-    "note": "겨울에는 목초지나 길가에서, 여름에는 툰드라에서 지낸다."
+    "note": "국내에서 기록된 달로, 2002년 10월 어청도와 2009년 2월 흑산도의 기록이다."
   },
   "summary": "겨울에는 목초지나 길가에서, 여름에는 툰드라 지역에서 지내는 작은 새이다. 나무의 새싹이나 작은 열매를 쪼아 먹는다. 바위 밑이나 수풀이 우거진 곳에 엷은 푸른빛 바탕에 밝은 갈색 반점이 있는 알을 5~6개 낳는다. 북극 해안 지역에 분포한다.",
   "points": [
@@ -55,10 +57,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "온몸이 희끗한 가운데 가슴과 허리에 옅은 분홍빛이 돈다.",
+    "female": "분홍빛이 없고 목옆과 가슴이 옅은 모래빛 담황색을 띠며, 옆구리 줄무늬가 조금 더 많다."
   },
-  "young": "TODO",
+  "young": "어린새는 홍방울새 어린새와 비슷하게 이마에 붉은빛이 없고 줄무늬가 많으나, 위쪽이 조금 더 희끗하고 배가 더 희며 어른새와 달리 허리에 줄무늬가 있다.",
   "similar": [
     {
       "ko": "홍방울새",
@@ -105,6 +108,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1919) A Practical Handbook of British Birds 1권 – Hornemann's Redpoll·Coues's Redpoll",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Sizerin blanchâtre(쇠홍방울새)",
+      "url": "https://www.oiseaux.net/oiseaux/sizerin.blanchatre.html",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "Sharpe(1888) Catalogue of the Birds in the British Museum 12권 – Acanthis exilipes",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "새와 생명의 터 2005년 리뷰 – Arctic Redpoll(2002년 10월 어청도, 국내 첫 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 2009년 리뷰 – Arctic Redpoll(흑산도 두 번째 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터 Bird News 2009년 2월 – 흑산도의 쇠홍방울새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-02.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

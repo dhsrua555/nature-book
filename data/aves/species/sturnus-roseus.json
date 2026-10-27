@@ -5,16 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Rosy Starling",
   "ktsn": 120000002084,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "19–22cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬, 농경지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2,
+      3,
+      4,
+      5,
+      9,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "우리나라에는 드물게 찾아오는 길잃은새로, 2002년 9월 어청도에서 처음 기록된 뒤 홍도와 제주도, 강화도 등지의 섬과 농경지에서 어린새와 어른새가 관찰되었다. 동유럽 남동부에서 중앙아시아, 중국 서북부에 걸친 초원과 반사막에서 번식하고 주로 인도 아대륙에서 겨울을 난다. 큰 무리를 지어 다니며 메뚜기 같은 곤충을 즐겨 먹고, 겨울에는 열매와 꽃꿀, 곡식도 먹는다. 국내에서는 붉은부리찌르레기 같은 다른 찌르레기 무리에 섞여 지내기도 한다.",
   "points": [
     {
       "ko": "뒷머리의 긴 댕기(수컷)",
@@ -42,10 +49,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 비슷하나, 암컷은 색이 덜 선명하고 뒷머리의 긴 깃(관우)이 짧다."
   },
-  "young": "TODO",
+  "young": "어린새는 관우가 없고 전체가 옅은 모래빛 갈색이며 아랫면이 더 밝고, 부리가 노르스름하다. 날개와 꼬리는 어두운 갈색에 옅은 깃 가장자리가 뚜렷하다.",
   "similar": [],
   "art": {
     "subject": "Rosy Starling (Sturnus roseus), adult male in breeding plumage, as seen in Korea in late spring: head, shaggy crest, neck, throat and upper breast glossy black with a purple sheen; mantle, back, rump, lower breast, belly and flanks pale rose-pink; wings and tail black glossed green and purple; undertail coverts black. Bill pink, darker at the base of the lower mandible; dark eye; legs pinkish-orange.",
@@ -95,10 +102,54 @@
       "title": "The Avifauna of Hong Kong (HKBWS) – Rosy Starling 粉紅椋鳥",
       "url": "https://avifauna.hkbws.org.hk/species/0380/045900",
       "used": "어린새 모습·검은 아래꼬리덮깃"
+    },
+    {
+      "title": "위키백과 일본어판(『フィールドガイド日本の野鳥』 인용) – バライロムクドリ(분홍찌르레기)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%82%A4%E3%83%AD%E3%83%A0%E3%82%AF%E3%83%89%E3%83%AA",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Étourneau roselin(분홍찌르레기)",
+      "url": "https://www.oiseaux.net/oiseaux/etourneau.roselin.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – 찌르레기·붉은부리찌르레기·북방쇠찌르레기·쇠찌르레기·잿빛쇠찌르레기·분홍찌르레기",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2002년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2002.shtml",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 11월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-11.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·iNaturalist 등) – 분홍찌르레기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5845386",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Wren·Goldcrest·Nuthatch·Tree-Creeper·Rose-coloured Starling",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

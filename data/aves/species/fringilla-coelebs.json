@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Chaffinch",
   "ktsn": 120000525704,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–16cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 숲 가장자리와 덤불",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "우리나라에는 2016년 11월 흑산도에서 가락지 조사를 하던 중 어린 암컷 1마리가 처음 확인된 길잃은새이다. 유럽과 북아프리카 서북부, 서아시아에서 시베리아에 걸쳐 번식하고 북쪽 무리는 겨울에 남쪽으로 옮겨 가며, 동아시아에서는 일본 리시리섬에도 1990년 4월 기록이 있다. 번식기에는 곤충과 그 애벌레를 주로 잡아먹고, 번식기가 아닐 때는 무리를 지어 땅 위에서 풀씨와 낟알을 먹는다.",
   "points": [
     {
       "ko": "청회색 정수리·뒷목(수컷)",
@@ -42,11 +41,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "이마가 검고 정수리에서 뒷목까지 청회색이며, 얼굴과 멱, 가슴은 붉은 갈색, 등은 밤색이다.",
+    "female": "윗면이 칙칙한 회갈색이고 아랫면은 연한 회갈색이며, 날개의 흰 띠와 녹색 허리는 수컷과 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새 암컷과 비슷하나 더 칙칙하고, 뒷목에 희끄무레한 점이 있으며 등은 녹색 기가 없는 갈색이다.",
+  "similar": [
+    {
+      "ko": "되새",
+      "how": "되새는 허리가 희고 어깨와 가슴이 주황색이지만, 푸른머리되새는 허리가 녹색이고 날개에 흰 띠가 두 줄 뚜렷하며 바깥꼬리깃이 희다."
+    }
+  ],
   "art": {
     "subject": "Eurasian Chaffinch (Fringilla coelebs), adult male in winter, a vagrant in Korean woodland edge usually among Bramblings: a narrow black band on the forehead; crown and nape blue-grey, partly veiled by brownish fringes; face, throat and breast rusty pink, fading to whitish on the lower belly; mantle chestnut-brown; rump olive-green; wings black with a large white shoulder patch, a white bar across the greater coverts and yellowish edges to the flight feathers; tail blackish with white outer feathers. Bill pale greyish-horn in winter; eye dark; legs pinkish-brown.",
     "pose": "foraging on the ground among fallen seeds, side view",
@@ -96,11 +101,51 @@
       "title": "Chaffinch – RSPB",
       "url": "https://www.rspb.org.uk/birds-and-wildlife/chaffinch",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net 종 설명 – 푸른머리되새(Eurasian Chaffinch)",
+      "url": "https://www.oiseaux.net/oiseaux/pinson.des.arbres.html",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – 푸른머리되새",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "위키백과 영어판 – Eurasian Chaffinch(푸른머리되새)",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_chaffinch",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "위키백과 일본어판 – 푸른머리되새",
+      "url": "https://ja.wikipedia.org/wiki/ズアオアトリ",
+      "used": "몸길이·해설·암수 구별"
+    },
+    {
+      "title": "환경부·국립공원관리공단 보도자료 '국내 미기록종 푸른머리되새, 흑산도에서 확인'(2016.12.1, 인천광역시 게재)",
+      "url": "https://www.incheon.go.kr/IC010101/view?nttNo=9199",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 푸른머리되새",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "사는 곳·해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Kosugi (1990) The First Record of the Chaffinch from Japan, Japanese Journal of Ornithology 39(2)",
+      "url": "https://www.jstage.jst.go.jp/article/jjo1986/39/2/39_2_65/_article/-char/en",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014년 1월",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-01.shtml",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.seen: 국내 기록으로 확인한 것은 2016년 11월 10일 흑산도 1건(환경부·국립공원관리공단 보도자료) 뿐이고 이를 뒷받침할 다른 독립 자료(eBird·iNaturalist·GBIF 기록 0건)를 찾지 못해 비워 두었다"
   ],
   "occurrence": {
     "code": "V2",

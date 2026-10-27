@@ -5,7 +5,6 @@
   "author": "Sharpe, 1885",
   "en": "Japanese Wagtail",
   "ktsn": 120000002173,
-  "origin": "nibr",
   "length": "21cm",
   "status": "텃새, 해마다 수천 마리",
   "habitat": "물가 돌담, 풀숲, 지붕 틈새(둥지 자리)",
@@ -25,8 +24,14 @@
       11,
       12
     ],
-    "breed": "TODO",
-    "note": "산란기는 3월 중순~7월이다(국내 번식인지는 원문에 없다)."
+    "breed": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "산란기는 3월 중순~7월로 길고, 한 해에 두 번 번식하기도 한다."
   },
   "summary": "한반도 남부에서 드물지 않게 볼 수 있는 텃새이다. 암수가 함께 지내고, 번식을 마치면 어린 새를 데리고 작은 무리를 이룬다. 물속 곤충이 늘어나는 이른 봄부터 번식에 들어가, 물가 돌담이나 풀숲, 지붕 틈새에 둥지를 틀고 3월 중순~7월에 한배에 알 4~6개를 낳는다. 갑충, 파리, 나비, 거미, 조개, 가재 등을 잡아먹고 농작물 낟알도 먹으며, 일본과 우리나라 일부 내륙 지방에 분포한다.",
   "points": [
@@ -52,11 +57,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 암컷은 등이 검은색 대신 아주 짙은 잿빛을 띤다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "머리·가슴·등이 모두 회색이고 뺨도 회색이며, 첫 가을 털갈이로 검은 깃이 난다.",
+  "similar": [
+    {
+      "ko": "백할미새",
+      "how": "백할미새는 뺨이 희고 눈을 지나는 검은 눈선만 있으나, 검은등할미새는 눈 아래와 뺨까지 검어 흰 눈썹선 아래가 온통 검다."
+    }
+  ],
   "art": {
     "subject": "Japanese Wagtail (Motacilla grandis), adult in winter: head, nape, back and rump black; a white forehead joined to a broad white supercilium; small white chin; throat and breast black, forming a solid bib; lower breast, belly and undertail coverts white; wings black with a very large white panel across the coverts and inner flight feathers; tail long and black with white outer feathers; bill black; dark eye; black legs.",
     "pose": "walking along the water's edge, picking at insects",
@@ -96,11 +106,39 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm (1890) The Birds of the Japanese Empire – Japanese Wagtail(검은등할미새)",
+      "url": "https://archive.org/details/birdsofjapanesee00seeb",
+      "used": "암수 구별, 어린새, 비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판 – Japanese Wagtail(검은등할미새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%B0%E3%83%AD%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+      "used": "암수 구별, 어린새, 번식기, 비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Japanese Wagtail(검은등할미새)",
+      "url": "https://en.wikipedia.org/wiki/Japanese_wagtail",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Sharpe (1885) Catalogue of the Birds in the British Museum 10권 – Japanese Wagtail(검은등할미새)",
+      "url": "https://archive.org/details/catalogueofbirds10brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – Japanese Wagtail(검은등할미새)",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 일본어판 – Japanese Wagtail(검은등할미새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [
-    "겨울새라 하면서 산란기(3월 중순~7월)와 둥지를 적었으나 국내에서 번식하는지 밝히지 않아 months.breed 를 TODO로 두었다."
-  ],
+  "todo": [],
   "occurrence": {
     "code": "R3",
     "bs": "1",

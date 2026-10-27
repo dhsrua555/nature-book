@@ -5,16 +5,20 @@
   "author": "Swinhoe, 1863",
   "en": "Japanese Leaf Warbler",
   "ktsn": 120000528322,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–13cm",
   "status": "길잃은새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 해마다 10건 미만 기록되는 길잃은새로, 주로 5월과 9~10월에 서해의 섬에서 울음소리로 확인된다. 일본 혼슈·시코쿠·규슈의 높은 산 아고산대 숲에서 번식하고, 타이완·필리핀 등 동남아시아에서 겨울을 난다. 쇠솔새·큰솔새와 생김새가 매우 비슷하나 아랫면이 더 노랗고, 울음소리가 더 낮고 탁하다.",
   "points": [
     {
       "ko": "길고 옅은 눈썹선",
@@ -42,11 +46,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "쇠솔새",
+      "how": "쇠솔새는 아랫면이 더 희고 노란 기가 적으며, 울음소리가 솔새보다 높다."
+    }
+  ],
   "art": {
     "subject": "Japanese Leaf Warbler (Phylloscopus xanthodryas), adult, as seen on Korean islands during spring migration: crown and upperparts fairly bright olive-green with a yellowish tone; long yellowish-white supercilium that stops short of the forehead; dark olive eye-stripe running to the bill base; ear-coverts mottled olive and yellow; wings darker with green edges and a narrow yellowish-white bar on the greater coverts, sometimes a second faint bar on the median coverts; underparts whitish washed pale yellow, the yellow strongest on the throat, flanks and undertail coverts. Bill dark with a pale orange-yellow lower mandible; dark eye; legs pale pinkish-brown.",
     "pose": "foraging among fresh leaves in the canopy, side view",
@@ -105,10 +114,50 @@
       "title": "Arctic Warbler 極北柳鶯 – Avifauna of Hong Kong (HKBWS)",
       "url": "https://avifauna.hkbws.org.hk/species/0320/040100",
       "used": "동정 포인트"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – 솔새",
+      "url": "https://www.birdfan.net/phylloscopus_xanthodryas/",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014-05 – 솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-05.shtml",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013-05 – 솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-05.shtml",
+      "used": "사는 곳·해설·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판 – 솔새",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%9C%E3%82%BD%E3%83%A0%E3%82%B7%E3%82%AF%E3%82%A4",
+      "used": "해설"
+    },
+    {
+      "title": "Seebohm (1881) Catalogue of the Birds in the British Museum 5권 – 솔새",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "해설·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5845803&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013-09 – 솔새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-09.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Oates (1889) The Fauna of British India, Birds 1권(Phylloscopus·Acanthopneuste 속 설명) – 솔새",
+      "url": "https://archive.org/details/birdsindia01oaterich",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "어린새는 Birds of the World 를 옮긴 영어 위키백과(어른새와 비슷하나 더 칙칙하고 회갈색) 한 곳에서만 확인되어 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

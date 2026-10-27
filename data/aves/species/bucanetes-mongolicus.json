@@ -5,8 +5,7 @@
   "author": "Swinhoe, 1870",
   "en": "Mongolian Finch",
   "ktsn": 120000525706,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–15cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건이 안 되는 길잃은새이다. 터키 동부와 캅카스에서 중앙아시아를 거쳐 중국 서부·몽골까지 분포하며, 바위가 많은 산비탈과 돌이 깔린 사막·반사막에 산다. 흔히 무리 지어 땅 위를 다니며 풀씨를 먹고, 쑥류와 솔장다리류의 눈과 어린순도 먹는다.",
   "points": [
     {
       "ko": "분홍빛 도는 얼굴(수컷)",
@@ -38,10 +37,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "얼굴과 가슴, 옆구리에 분홍빛이 돌고, 날개에 분홍색과 흰색이 섞인 무늬가 뚜렷하다.",
+    "female": "수컷보다 칙칙하고 분홍빛이 훨씬 옅으며, 날개의 흰 무늬도 흐리다."
   },
-  "young": "TODO",
+  "young": "어린새는 몸이 모래빛 갈색이고 분홍빛이 전혀 없으며, 날개에 흰 무늬 대신 담황색 날개띠가 있다.",
   "similar": [],
   "art": {
     "subject": "Mongolian Finch (Bucanetes mongolicus), adult male in spring, a vagrant on a dry rocky hillside in Korea: crown, nape and ear coverts plain sandy grey-brown; lores, the area around the eye and a faint supercilium washed pink; mantle sandy brown with faint diffuse dark streaks; throat and breast sandy-buff washed rose-pink, the pink extending onto the flanks; belly whitish; wings brown with pink edges to the flight feathers and a pale whitish panel formed by the pale-edged greater coverts and secondaries; tail dark brown with pale feather edges. Bill stout, conical, pale yellowish-horn; eye dark; legs pink to orange-pink.",
@@ -92,10 +92,26 @@
       "title": "Wikipedia (독일어) – Mongolengimpel (Svensson et al. 인용)",
       "url": "https://de.wikipedia.org/wiki/Mongolengimpel",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Roselin de Mongolie(바위양진이)",
+      "url": "https://www.oiseaux.net/oiseaux/roselin.de.mongolie.html",
+      "used": "몸길이, 해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Sharpe(1888) Catalogue of the Birds in the British Museum 12권 – Erythrospiza mongolica",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Mongolian Desert Bullfinch(Bucanetes mongolicus)",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새, 암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 채웠다(출처 목록)",
+    "국내 기록의 날짜와 장소를 찾지 못해 사는 곳(habitat)과 관찰 시기(months.seen)를 TODO 로 두었다(새와 생명의 터 목록에는 V2 로만 실려 있다)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

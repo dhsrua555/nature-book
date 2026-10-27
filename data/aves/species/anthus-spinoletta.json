@@ -5,15 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Water Pipit",
   "ktsn": 120000002184,
-  "origin": "nibr",
   "length": "약 16cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "추수 끝난 논, 해안 평지, 물 빠진 못, 갯벌, 하구",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 6~7월에 알을 낳는다."
+    "note": "국내에서 기록된 달로 대개 11월 초부터 이듬해 4월 중순 사이에 보이며, 번식지에서는 6~7월에 알을 낳는다."
   },
   "summary": "우리나라에 드물게 찾아오는 길잃은새로, 추수가 끝난 논, 해안 평지, 물이 빠진 못, 갯벌, 하구에 산다. 여름에는 암수가 함께 지내고, 이동할 때나 겨울에는 10마리 안팎의 무리를 짓는 일이 많다. 겨울에는 주로 식물성 먹이를, 여름에는 곤충을 먹으며, 둥지 둘레가 풀로 덮인 때가 많고 알을 4~5개 낳는다. 국내에서는 거제도와 진도에서 기록되었고, 세계적으로는 유럽·아시아·북아메리카의 온대와 툰드라에 분포한다.",
   "points": [
@@ -43,10 +50,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같으나, 여름깃에서는 암컷의 가슴 분홍빛이 수컷보다 옅고 옆구리 줄무늬가 조금 더 남는다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃과 비슷하나 머리와 등의 어두운 무늬가 더 뚜렷하고, 가슴과 옆구리의 세로줄이 더 진하다.",
   "similar": [
     {
       "ko": "붉은가슴밭종다리",
@@ -99,6 +106,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 옅은밭종다리",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Hartert (1903–10) Die Vögel der paläarktischen Fauna 1권 – 옅은밭종다리",
+      "url": "https://archive.org/details/dievgelderpal01hart",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net 종 설명 – 옅은밭종다리(Water Pipit)",
+      "url": "https://www.oiseaux.net/oiseaux/pipit.spioncelle.html",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 옅은밭종다리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490255&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

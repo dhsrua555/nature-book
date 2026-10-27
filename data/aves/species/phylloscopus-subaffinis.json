@@ -5,16 +5,19 @@
   "author": "Ogilvie-Grant, 1900",
   "en": "Buff-throated Warbler",
   "ktsn": 120000533854,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "10.5–11cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 풀숲과 낮은 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "중국 중남부의 산지에서 번식하는 솔새로, 우리나라에서는 2020년 10월 31일 백령도에서 처음 기록되었고 2025년 4월 29일 같은 섬에서 두 번째로 기록된 길잃은새다. 풀이 무성한 곳과 낮은 덤불 속을 옮겨 다니며 먹이를 찾고 몸을 잘 드러내지 않아, 벌레 소리 같은 짧은 두 음절 울음소리로 찾아내는 경우가 많다. 겨울은 중국 남부의 낮은 지대와 인도차이나 북부에서 난다.",
   "points": [
     {
       "ko": "눈 앞쪽이 흐린 담황색 눈썹선",
@@ -42,7 +45,12 @@
     "text": "TODO"
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "노랑배솔새사촌",
+      "how": "노랑배솔새사촌은 몸이 조금 크고 부리가 길며, 아랫면과 눈썹선이 담황갈색이 아니라 맑은 노란색이다."
+    }
+  ],
   "art": {
     "subject": "Buff-throated Warbler (Phylloscopus subaffinis), adult (sexes alike): upperparts plain dull olive-brown; a yellowish-buff supercilium, weaker and less contrasting than in Tickell's Leaf Warbler; a dusky eye-stripe; underparts dull yellow strongly washed buff, most ochraceous on the throat, breast and flanks; no wing-bars; plain dark olive-brown wings and tail; small, fine bill, dark with a pale yellowish base to the lower mandible; dark eye; pale pinkish-brown legs.",
     "pose": "perched low in a dense shrub, side view",
@@ -91,10 +99,31 @@
       "title": "Birds Korea blog: first record of Buff-throated Warbler on the Korean Peninsula (Baekryeong Island, 2020)",
       "url": "https://birdskoreablog.org/?p=23832",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Pouillot subaffin(담황턱솔새)",
+      "url": "https://www.oiseaux.net/oiseaux/pouillot.subaffin.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판 – Buff-throated warbler(담황턱솔새)",
+      "url": "https://en.wikipedia.org/wiki/Buff-throated_warbler",
+      "used": "사는 곳·해설·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 백령도 2025년 4월 24일~5월 7일",
+      "url": "https://www.birdskoreablog.org/?p=30573",
+      "used": "해설·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 담황턱솔새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493094&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별·어린새: 이 종의 암수·어린새 깃을 다룬 자료를 두 곳 이상 찾지 못해 비워 둠(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

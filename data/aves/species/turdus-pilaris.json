@@ -5,16 +5,22 @@
   "author": "Linnaeus, 1758",
   "en": "Fieldfare",
   "ktsn": 120000230698,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "24–28cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "도시 공원, 열매 달린 나무가 있는 농경지 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2020년 1~2월 인천 송도의 공원과 서울, 2021년 3월 철원, 2025년 11월~2026년 2월 경기 시흥·부천 등에서 기록된 길잃은새다. 북유럽에서 시베리아 중부(예니세이강)까지 번식하고 더 동쪽에서도 드물게 번식하며, 겨울에는 유럽 남부와 북아프리카, 서남아시아로 내려간다. 번식기에는 흔히 여러 쌍이 모여 둥지를 짓고, 겨울에는 무리를 지어 농경지와 공원의 풀밭에서 먹이를 찾거나 열매 달린 나무에 모인다.",
   "points": [
     {
       "ko": "청회색 머리·뒷목",
@@ -42,10 +48,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 암컷은 머리와 허리의 회색에 갈색 기가 돌아 수컷보다 조금 칙칙하다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 칙칙하고 머리와 등에 흰색·담황색 세로 반점이 있으며, 아랫면은 담황색 바탕에 둥근 검은 반점이 촘촘하다. 첫 가을 털갈이 뒤에는 어른새와 거의 같아 구별하기 어렵다.",
   "similar": [],
   "art": {
     "subject": "Fieldfare (Turdus pilaris), adult in winter (sexes similar): head and nape blue-grey with a faint whitish supercilium and dark lores; mantle and scapulars rich chestnut-brown; rump pale blue-grey; wings brown; tail blackish; throat and breast washed golden-buff and heavily marked with black arrowhead spots and streaks; flanks white with dense black chevrons; belly white; bill yellow with a dark tip; dark eye; dark brown legs.",
@@ -101,11 +107,67 @@
       "title": "Woodland Trust – Fieldfare",
       "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/birds/fieldfare/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Fieldfare",
+      "url": "https://www.oiseaux.net/birds/fieldfare.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2권 – Arceuthornis pilaris (Fieldfare)",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "몸길이·해설·어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus pilaris",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Fieldfare",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Turdus pilaris",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Shanghai Birding(Craig Brelsford) – Fieldfare",
+      "url": "https://www.shanghaibirding.com/birds-of-china/fieldfare/",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 회색머리지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490737&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 회색머리지빠귀 인천 연수구 관찰(2020년 1월)",
+      "url": "https://www.inaturalist.org/observations/256163966",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 회색머리지빠귀 경기 시흥 관찰(2025년 11월)",
+      "url": "https://www.inaturalist.org/observations/328214607",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 회색머리지빠귀 경기 시흥 관찰(2025년 12월)",
+      "url": "https://www.inaturalist.org/observations/329646151",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 회색머리지빠귀 경기 부천 관찰(2026년 2월)",
+      "url": "https://www.inaturalist.org/observations/338852941",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명(Witherby 1920, Dresser 1902, Baker 1924 등)으로, 관찰 시기는 국내 기록(eBird, iNaturalist)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "2020년 이전 국내 기록(Birds Korea 2002–2015 소식에는 없음)과 첫 기록 시점을 확인하지 못했다"
   ],
   "occurrence": {
     "code": "V2",

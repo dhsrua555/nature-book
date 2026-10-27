@@ -5,16 +5,18 @@
   "author": "Swinhoe, 1871",
   "en": "Chinese Bush Warbler",
   "ktsn": 120000533857,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "13–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 사진·표본 없이 관찰 기록만 있음",
-  "habitat": "TODO",
+  "habitat": "섬의 풀과 덤불이 우거진 비탈",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "한국에서는 백령도에서 2019년 5월 처음 관찰되고 2023년 5월 노랫소리와 사진으로 확인된 길잃은새이다. 바이칼호 남부에서 중국 동북부, 몽골 동부에서 중국 서남부에 이르는 지역에서 번식하고, 중국 남부와 미얀마·타이 북부 등지에서 겨울을 나는 것으로 알려져 있다. 풀숲과 덤불 아래 땅 위를 걸어 다니며 몸을 잘 드러내지 않고, 수컷은 덤불 속에서 거칠게 지글거리는 노래를 몇 초씩 이어 부른다.",
   "points": [
     {
       "ko": "희미한 담황색 눈썹선",
@@ -42,11 +44,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 비슷하나 아랫면, 특히 멱과 배 가운데가 노르스름한 담황색을 띤다.",
+  "similar": [
+    {
+      "ko": "점무늬가슴쥐발귀",
+      "how": "점무늬가슴쥐발귀는 아래꼬리덮깃 끝의 흰 무늬가 넓어 줄무늬처럼 보이고, 번식기에는 멱 아래에 검은 점무늬가 뚜렷하다."
+    }
+  ],
   "art": {
     "subject": "Chinese Bush Warbler (Locustella tacsanowskia), adult in spring, a rare migrant in Korean grassy scrub in May: upperparts plain, unstreaked grey-brown with an olive tinge from crown to tail; a faint, indistinct pale buff supercilium; throat whitish, unmarked or with a few small, faint brown spots on the lower throat; breast sides and flanks washed brownish, the centre of the belly whitish, the underparts often with a faint yellowish tinge; long undertail coverts buff-brown with indistinct paler tips; wings and tail plain brown. Fine pointed bill, dark above with a paler pinkish lower mandible; dark eye; legs pale pink.",
     "pose": "creeping low on a grass stem at the edge of dense scrub, side view",
@@ -96,11 +103,51 @@
       "title": "iNaturalist 연구 등급 사진 – Locustella tacsanowskia",
       "url": "https://www.inaturalist.org/observations/399922874",
       "used": "그림용 형태 정보 사진 확인(분홍 다리, 옅은 아랫부리)"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Chinese Bush Warbler(땅개개비)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/042100",
+      "used": "몸길이·사는 곳·해설·비슷한 종"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2판 2권 – Tribura taczanowskia",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Taczanowski(1891) Faune ornithologique de la Sibérie orientale 1권 – Locustella taczanowskii",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "몸길이·사는 곳·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Locustelle de Taczanowski(땅개개비)",
+      "url": "https://www.oiseaux.net/oiseaux/bouscarle.de.taczanowski.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Chinese Bush Warbler: Baegnyeong Island, May 26th 2023",
+      "url": "https://www.birdskoreablog.org/?p=27375",
+      "used": "관찰 시기·사는 곳·해설·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Late Spring Highlights, Baekryeong Island, May 23rd-30th 2019",
+      "url": "https://www.birdskoreablog.org/?p=22048",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "GBIF – Locustella tacsanowskia eBird 기록(2023년 5월 26일 백령도)",
+      "url": "https://www.gbif.org/occurrence/4835266775",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Baikal Bush Warbler(점무늬가슴쥐발귀)",
+      "url": "https://avifauna.hkbws.org.hk/species/0340/042200",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "[새와 생명의 터] 2022년 목록의 '사진·표본 없이 관찰 기록만 있음'은 2023년 5월 백령도 사진·녹음 기록으로 바뀌었을 수 있다(2024년 간소화 목록은 1범주)"
   ],
   "occurrence": {
     "code": "V2",

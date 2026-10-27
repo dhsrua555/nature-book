@@ -5,8 +5,7 @@
   "author": "Blyth, 1849",
   "en": "Blyth's Reed Warbler",
   "ktsn": 120000471471,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건 미만인 길잃은새이다. 유럽 동북부에서 시베리아 남부와 중앙아시아에 걸쳐 번식하고, 인도·스리랑카 등 남아시아에서 겨울을 난다. 다른 개개비 무리와 달리 갈대밭보다 물가 덤불, 숲 가장자리, 정원 같은 곳에서 많이 지낸다.",
   "points": [
     {
       "ko": "눈 앞쪽에만 짧은 흰 눈썹선",
@@ -38,8 +37,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -92,10 +91,36 @@
       "title": "Blyth's Reed-warbler – Birds of Uzbekistan (Ryabitsev 2000 인용)",
       "url": "https://uzbekistan.birding.day/v2taxon.php?l=en&s=339",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Blyth's Reed Warbler(덤불개개비)",
+      "url": "https://www.oiseaux.net/birds/blyth.s.reed.warbler.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – 덤불개개비",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Blyth's Reed Warbler(덤불개개비)",
+      "url": "https://www.oiseaux.net/oiseaux/rousserolle.des.buissons.html",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2판 2권 – 덤불개개비",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "해설"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 덤불개개비",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "관찰 시기와 사는 곳: 국내 기록은 2023년 10월 22·26일 백령도(eBird, 같은 개체로 보임) 한 건만 확인되어 비워 두었다",
+    "어린새는 Witherby 외(1920) 한 곳(날개깃과 꼬리깃 가장자리가 녹슨 갈색)에서만 확인되어 비워 두었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

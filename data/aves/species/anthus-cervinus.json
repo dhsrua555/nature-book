@@ -5,15 +5,19 @@
   "author": "pallas, 1811",
   "en": "Red-throated Pipit",
   "ktsn": 120000002182,
-  "origin": "nibr",
   "length": "15cm",
   "status": "나그네새, 해마다 수천 마리 · 겨울에도 드물게 기록",
   "habitat": "습지, 농경지, 해안 근처, 축축한 풀밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 지나가며, 번식지에서는 6~7월에 알을 낳는다."
+    "note": "4~5월과 9~10월에 지나가며 남부에서는 겨울에도 드물게 보이고, 번식지에서는 6~7월에 알을 낳는다."
   },
   "summary": "봄과 가을에 우리나라를 드물지 않게 지나가는 나그네새이다. 주로 곤충을 먹지만 겨울에는 풀씨를 먹으며, 여름에는 암수가 함께 지내다가 겨울에는 무리를 짓는다. 스칸디나비아반도와 동아시아의 툰드라에서 번식하는데, 습지·농경지·해안 근처나 축축한 풀밭의 살짝 팬 곳에 둥지를 틀고 알을 5~6개 낳는다. 겨울은 동남아시아에서 난다.",
   "points": [
@@ -31,10 +35,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "봄·여름에는 얼굴과 멱, 윗가슴이 벽돌빛 붉은색으로 넓게 물들고, 겨울에도 멱 둘레에 붉은 기가 남는다.",
+    "female": "붉은빛이 옅고 좁아 멱만 분홍빛을 띠는 일이 많고 가슴에 세로줄이 많으며, 겨울에는 멱이 담황백색이라 붉은 기가 거의 없다."
   },
-  "young": "TODO",
+  "young": "어린새는 얼굴과 멱, 가슴에 붉은빛이 없고 아랫면이 연한 누런색이며, 멱 가운데는 무늬가 없으나 목옆에서 가슴 전체와 옆구리까지 굵은 검은 세로줄이 빽빽하다.",
   "similar": [],
   "art": {
     "subject": "Red-throated Pipit (Anthus cervinus), adult in spring (April–May): face, supercilium, throat and upper breast brick-pink to rusty-orange (strongest in males, paler in some females); crown, nape and back buff-brown boldly streaked black; rump also streaked; wings dark with pale-edged coverts forming two thin wing-bars; lower breast and belly pale yellowish-white; flanks with long black streaks; tail dark with whitish outer feathers; bill dark with a yellowish base; dark eye; pinkish-brown legs.",
@@ -76,6 +81,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 붉은가슴밭종다리",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 2판 3권 – 붉은가슴밭종다리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207295",
+      "used": "어린새"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – 붉은가슴밭종다리",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은가슴밭종다리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490283&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 붉은가슴밭종다리",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 리뷰",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net 종 설명 – 붉은가슴밭종다리(Red-throated Pipit)",
+      "url": "https://www.oiseaux.net/oiseaux/pipit.a.gorge.rousse.html",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe (1885) Catalogue of the Birds in the British Museum 10권 – 붉은가슴밭종다리",
+      "url": "https://archive.org/details/catalogueofbirds10brit",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1758",
   "en": "Redwing",
   "ktsn": 120000002104,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "20–24cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "열매 달린 나무가 있는 숲 가장자리와 농경지",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2006년 11월 소청도에서 개똥지빠귀 무리에 섞여 날아가는 한 마리가 처음 확인되었고, 2009년 1월 철원에서 사진으로 기록된 길잃은새다. 아이슬란드와 북유럽에서 시베리아를 거쳐 동쪽으로 번식하나 예니세이강 동쪽에서는 드물고, 겨울에는 유럽 남부와 북아프리카, 서남아시아로 내려간다. 겨울에는 무리를 지어 다른 지빠귀들과 함께 열매 달린 나무와 덤불에 모인다.",
   "points": [
     {
       "ko": "길고 진한 크림색 눈썹선",
@@ -38,11 +37,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 등과 어깨깃에 담황색 세로 반점이 있고 아랫면이 얼룩덜룩하며, 옆구리와 날개아랫덮깃의 적갈색이 어른새보다 흐리다. 첫겨울깃은 어른새와 비슷하나 큰날개덮깃과 셋째날개깃 끝에 옅은 반점이 있다.",
+  "similar": [
+    {
+      "ko": "개똥지빠귀",
+      "how": "개똥지빠귀는 날개깃과 날개덮깃에 적갈색이 많고 가슴과 옆구리에 검은 비늘무늬가 있으나, 붉은날개지빠귀는 날개가 갈색이고 아랫면에 세로줄 무늬가 있으며 옆구리가 적갈색이다."
+    }
+  ],
   "art": {
     "subject": "Redwing (Turdus iliacus), adult in winter (sexes alike): upperparts plain warm olive-brown; a long creamy-white supercilium; dark brown ear-coverts bordered below by a whitish submoustachial stripe and a dark malar stripe; underparts whitish with dense dark brown streaks arranged in lines on the throat sides, breast and flanks; a deep rusty-red patch on the flanks extending onto the underwing coverts; undertail coverts white; bill dark with a yellow base to the lower mandible; dark eye; pinkish-brown legs.",
     "pose": "feeding on red berries in a bare shrub, side view",
@@ -91,11 +95,52 @@
       "title": "Redwing – Shanghai Birding (Birds of China)",
       "url": "https://www.shanghaibirding.com/birds-of-china/redwing/",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Redwing",
+      "url": "https://www.oiseaux.net/birds/redwing.html",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2권 – Turdus iliacus",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "몸길이·사는 곳·해설·어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Turdus iliacus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – Redwing",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006-11 월간 새 소식 – Eurasian Redwing",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-11.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009-01 월간 새 소식 – Eurasian Redwing",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-01.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006 연간 조류 기록 정리 – Redwing",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009 연간 조류 기록 정리 – Redwing",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명(Witherby 1920, Dresser 1902, Baker 1924 등)과 Birds Korea 기록으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록(2006년 11월 6일 소청도, 2009년 1월 8일 철원)은 Birds Korea 자료 한 곳에서만 확인되었고(iNaturalist·eBird 한국 기록 0건), 2010년 이후 기록은 찾지 못해 비워 두었다"
   ],
   "occurrence": {
     "code": "V2",

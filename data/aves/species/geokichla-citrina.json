@@ -5,16 +5,20 @@
   "author": "Latham, 1790",
   "en": "Orange-headed Thrush",
   "ktsn": 120000528907,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "20–23cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲 가장자리, 마을 주변의 덤불과 개울가",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2004년 5월 홍도에서 처음 기록된 뒤 2010년 소청도, 2013년 외연도 등 서해 섬에서 봄에만 몇 차례 관찰된 길잃은새다. 히말라야와 인도에서 중국 남부, 인도차이나, 말레이반도를 거쳐 자바·발리까지 분포하며, 중국에서는 주로 양쯔강 이남에서 번식한다. 겁이 많아 우거진 숲 바닥의 낙엽 사이에서 곤충과 열매를 찾고, 새벽과 해 질 녘에 더 활발하다.",
   "points": [
     {
       "ko": "주황색 머리와 아랫면",
@@ -38,10 +42,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 가슴, 배가 짙은 주황색이고 등과 날개, 꼬리는 푸른 회색이며, 가운데날개덮깃 끝의 흰 무늬가 날개에 흰 점줄을 만든다.",
+    "female": "수컷보다 전체 색이 칙칙하고, 등과 날개가 푸른 회색 대신 올리브 갈색을 띤다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리와 등이 갈색을 띠고 등과 어깨깃에 옅은 세로 반점이 있으며, 아랫면은 흐린 주황빛 흰색 바탕에 검은 가로무늬가 있다. 날개덮깃 끝의 무늬도 흰색이 아니라 담황색이다.",
   "similar": [],
   "art": {
     "subject": "Orange-headed Thrush (Geokichla citrina), adult male in spring, of the East Asian form with a barred face: crown, nape, breast and belly bright orange, the colour meeting the blue-grey of the mantle cleanly on the lower nape; cheeks and throat paler, whitish-buff, crossed by two dark vertical bars, one running down from below the eye and one at the rear of the ear-coverts; vent and undertail coverts white; back, rump, wing coverts and tail uniform blue-grey, the flight feathers darker grey; a narrow white bar on the median coverts; dark bill; dark eye; pinkish legs.",
@@ -87,11 +92,57 @@
       "title": "Wikipedia — Orange-headed thrush (Clement et al. 2000 Thrushes; Robson 2004 인용)",
       "url": "https://en.wikipedia.org/wiki/Orange-headed_thrush",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Orange-headed Thrush",
+      "url": "https://www.oiseaux.net/birds/orange-headed.thrush.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2권 – Geocichla citrina citrina",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Geocichla citrina",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004 연간 조류 기록 정리 – Orange-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010 연간 조류 기록 정리 – Orange-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010-05 월간 새 소식 – Orange-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-05.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2013-05 월간 새 소식 – Orange-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-05.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 귤빛지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=6100882&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist – 귤빛지빠귀 외연도 관찰(2013년 6월)",
+      "url": "https://www.inaturalist.org/observations/59419731",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국외 종 설명(홍콩조류학회, Baker 1924 등)으로, 관찰 시기는 국내 기록(Birds Korea, eBird, iNaturalist)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내에 온 개체의 아종은 확인하지 못했다(2004년 첫 기록은 Birds Korea가 aurimacula 가능성을 언급)"
   ],
   "occurrence": {
     "code": "V2",

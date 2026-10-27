@@ -5,19 +5,25 @@
   "author": "Gmelin, 1789",
   "en": "Forest Wagtail",
   "ktsn": 120000002167,
-  "origin": "nibr",
   "length": "16cm",
   "status": "나그네새·여름철새, 해마다 수백 마리",
   "habitat": "산지 숲, 계곡, 낙엽활엽수림",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       5,
       6,
       7
     ],
-    "note": "5~7월에 알을 낳는다."
+    "note": "4월 하순에 와서 9월까지 머물며, 5~7월에 알을 낳는다."
   },
   "summary": "산지 숲과 계곡, 낙엽활엽수림에 살며 전국에서 번식하는 흔치 않은 여름철새이다. 암수가 함께 지낼 때가 많고, 5~7월에 알 4개를 낳는다. 국내 전역에 살고 국외에서는 일본, 사할린, 중국에 분포한다.",
   "points": [
@@ -47,10 +53,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어른새와 거의 같아 구별하기 어렵다. 다만 아랫면에 노란 기가 더 돌고, 첫해 새는 윗면이 조금 더 갈색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Forest Wagtail (Dendronanthus indicus), adult (sexes alike) in summer: crown, nape, back and rump plain olive-brown with a greenish tinge; a narrow whitish supercilium; wings blackish crossed by two broad yellowish-white wing bars, with pale edges to the tertials, giving a boldly banded look; underparts white with a black band across the upper breast joined by a short central black bar to a second, broken black band below it, forming a T-like pattern; tail olive-brown in the centre with white outer feathers; upper mandible dark brown, lower mandible flesh-pink; dark eye; pale brown legs.",
@@ -90,9 +96,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1885) Catalogue of the Birds in the British Museum 10권 – Forest Wagtail(물레새)",
+      "url": "https://archive.org/details/catalogueofbirds10brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 일본어판(山溪カラー名鑑 인용 부분) – Forest Wagtail(물레새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%9F%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 영어판(Baker 1926 인용 부분) – Forest Wagtail(물레새)",
+      "url": "https://en.wikipedia.org/wiki/Forest_wagtail",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 3권(2판) – Forest Wagtail(물레새)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207295",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Forest Wagtail(물레새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/053300",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·iNaturalist 등) – Forest Wagtail(물레새)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490317",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Forest Wagtail(물레새)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새의 세부(아랫면의 노란 기는 Baker 1926, 첫해 새 윗면의 갈색은 HKBWS)는 각각 한 곳에서만 확인됨"
+  ],
   "occurrence": {
     "code": "P4, S4",
     "bs": "1",

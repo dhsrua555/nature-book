@@ -5,15 +5,17 @@
   "author": "Temminck, 1832",
   "en": "Brown-headed Thrush",
   "ktsn": 120000002099,
-  "origin": "nibr",
   "length": "24cm",
   "status": "나그네새, 해마다 수백 마리",
   "habitat": "우거진 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 상순~8월 상순에 알을 낳는다."
+    "note": "4월 초~5월 중순에 주로 서남부 섬을 지나가고 가을 기록은 드물며, 번식지에서는 5월 상순~8월 상순에 알을 낳는다."
   },
   "summary": "봄과 가을에 한반도를 지나가는 드문 나그네새로, 우거진 숲속에서 지낸다. 곤충과 여러 식물의 열매를 즐겨 먹는다. 사할린과 일본 중북부에서 번식하며, 5월 상순~8월 상순에 알을 3~5개 낳는다. 겨울은 일본 남부, 중국 남부, 필리핀에서 난다.",
   "points": [
@@ -39,7 +41,7 @@
     "male": "머리와 목, 몸 윗면이 어두운 회갈색이고, 가슴과 옆구리는 적갈색, 배는 흰색이다.",
     "female": "아랫면이 수컷보다 옅고, 멱에 흰 줄무늬가 조금 있다."
   },
-  "young": "TODO",
+  "young": "첫해 새는 암컷과 비슷하게 멱이 희고 양옆에 짙은 줄무늬가 있으며, 얼굴에 옅은 얼룩이 있고 큰날개덮깃 끝이 옅다.",
   "similar": [],
   "art": {
     "subject": "Brown-headed Thrush (Turdus chrysolaus), adult male on spring or autumn passage: head, neck and throat dark grey-brown, darkest on the face, with no supercilium; mantle, back, wings and tail olive-brown; breast and flanks warm rufous-orange, unspotted; centre of the belly and the undertail coverts white; bill yellow with a dark culmen and tip; dark eye; pale yellowish-brown legs.",
@@ -79,6 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seebohm(1881) Catalogue of the Birds in the British Museum 5권 – Merula chrysolaus",
+      "url": "https://archive.org/details/catalogueofbirds05brit",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Brown-headed Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/047000",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은배지빠귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490725&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004 연간 조류 기록 정리 – Brown-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009 연간 조류 기록 정리 – Brown-headed Thrush",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

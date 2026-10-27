@@ -5,16 +5,18 @@
   "author": "Taczanowski, 1874",
   "en": "Godlewski's Bunting",
   "ktsn": 120000533858,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 17cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬, 바위가 드러난 산비탈과 덤불(번식지)",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2010년 4월 소청도에서 처음 기록된 길잃은새로, 국내 기록은 지금까지 10건이 안 된다. 중국 북부·서부와 몽골, 바이칼호 남부, 티베트 동남부에 걸친 산지의 바위 비탈과 덤불에 살며, 북쪽 무리는 겨울에 낮은 곳이나 남쪽으로 옮겨 간다. 겨울에는 주로 풀씨를 먹는다.",
   "points": [
     {
       "ko": "정수리 양옆의 밤색 줄",
@@ -96,11 +98,44 @@
       "title": "Indian BIRDS 9(2) — Sharma, Godlewski's Bunting 기록 (검색 발췌)",
       "url": "https://indianbirds.in/pdfs/IB.9.2.Sharma_GodlewskiasBunting.pdf",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Bruant de Godlewski(바위멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.de.godlewski.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza godlewskii",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Taczanowski (1891) Faune ornithologique de la Sibérie orientale 1권 – Emberiza Godlewskii",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "몸길이·사는 곳·해설"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 3권 – Emberiza cia godlewskii",
+      "url": "https://archive.org/details/BakerFbiBirds3",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 리뷰 – 바위멧새 국내 첫 기록(4월 15일 소청도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 4월 새 소식 – 바위멧새(소청도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-04.shtml",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "sexes: 암컷 생김새를 이 종에 대해 직접 적은 자료를 두 곳 이상 찾지 못했다(Sharpe 1888·Taczanowski 1891은 어른 수컷만, Baker 1926은 노랑배멧새(E. cia) 무리와 비슷하다고만 적음)",
+    "young: 어린새를 설명한 자료를 두 곳 이상 찾지 못했다(Baker 1926은 '모든 나이에서 머리옆줄이 밤색'이라고만 적음)",
+    "2010년 4월 소청도 기록 뒤의 국내 기록(새와 생명의 터 목록 V2) 날짜·장소 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

@@ -5,14 +5,23 @@
   "author": "Pallas, 1773",
   "en": "Red-flanked Bluetail",
   "ktsn": 120000528886,
-  "origin": "nibr",
   "length": "약 14cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "아고산대와 고산대의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "4월과 10~11월 이동기에 가장 많이 지나가고, 겨울을 나는 개체도 있다."
   },
   "summary": "그리 흔하지 않은 나그네새 또는 겨울철새이다. 아고산대와 고산대 숲에서 번식하며, 바위나 언덕 벼랑의 굴, 큰 나무뿌리나 쓰러진 나무 밑에 부드러운 식물 줄기로 오목한 둥지를 짓는다. 알은 흰 바탕에 엷은 적갈색 반점이 있고 보통 3~6개를 낳는다. 아시아 동부와 중부에 분포하고 주로 대만 등지에서 겨울을 난다.",
   "points": [
@@ -42,7 +51,7 @@
     "male": "머리와 등, 꼬리가 짙은 청색이고 배는 희며 옆구리는 황갈색이다.",
     "female": "등은 옅은 황갈색이고 허리와 꼬리는 청색을 띠며, 배는 희고 옆구리는 주황색을 띤다."
   },
-  "young": "TODO",
+  "young": "첫해 수컷은 암컷처럼 윗면이 올리브 갈색이고 허리와 꼬리만 파래서 야외에서 암컷과 가리기 어렵다. 수컷은 윗면 전체가 파란 깃을 갖추기까지 한 해 넘게 걸려, 암컷과 비슷한 깃으로 번식하기도 한다.",
   "similar": [],
   "art": {
     "subject": "Red-flanked Bluetail (Tarsiger cyanurus), adult male in fresh plumage, as seen in Korean forest on autumn migration (October): crown, nape, ear-coverts, back, wings and tail rich cobalt blue, with brighter blue on the shoulder; a short, narrow white supercilium from the forehead to above the eye; chin and throat white, bordered by the blue sides of the neck and breast; centre of the breast greyish-white; flanks bright orange; belly and undertail coverts white. Thin black bill; large dark eye; dark grey legs.",
@@ -82,6 +91,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Red-flanked Bluetail",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/049600",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Nemura cyanura",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe(1879) Catalogue of the Birds in the British Museum 4권 – Tarsiger cyanurus",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 유리딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2492509&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

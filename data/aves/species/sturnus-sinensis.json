@@ -5,15 +5,25 @@
   "author": "Gmelin, 1788",
   "en": "White-shouldered Starling",
   "ktsn": 120000002083,
-  "origin": "nibr",
   "length": "약 18cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록",
   "habitat": "나무 위, 큰 나무 밑동의 굴과 건물 틈(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "번식지에서는 5~6월에 알을 낳는다."
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "봄(4~5월)과 가을(9~10월)에 섬 지역을 지나가며, 제주도(2020년)와 강릉(2026년)에서는 5~7월에 번식한 기록이 있다."
   },
   "summary": "주로 나무 위에서 지내는 찌르레기로, 봄에 도래지에 오면 짝을 짓고 번식기에는 암수가 함께 지내다가 번식이 끝나면 무리를 이룬다. 큰 나무 밑동이 패어 생긴 굴이나 건물 틈에 둥지를 틀며, 여러 쌍이 한 건물에 함께 둥지를 짓기도 한다. 5~6월에 한배에 알을 4~5개 낳고, 먹이는 쇠찌르레기와 비슷하다. 동양구, 중국 남부, 인도차이나 북부에서 번식하고 인도차이나, 타이, 말레이반도, 하이난섬, 타이완 등지에서 겨울을 난다.",
   "points": [
@@ -43,10 +53,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리는 크림빛 도는 흰색, 가슴은 연한 잿빛, 등은 은회색이며, 어깨깃과 날개덮깃이 넓게 희어 검은 날개에 큰 흰 무늬가 있다.",
+    "female": "수컷과 비슷하나 전체적으로 더 칙칙하고, 밝은 부분과 어두운 부분의 대비가 약하다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷보다 더 갈색을 띠고, 날개에 어른새와 같은 큰 흰 무늬가 없다.",
   "similar": [],
   "art": {
     "subject": "White-shouldered Starling (Sturnus sinensis), adult male, as seen in Korea on spring passage: head pale greyish-white with a faint buffy-brown tinge on the forehead and face; throat greyish-white; back pale grey; rump and uppertail coverts greyish-white; breast pale grey, belly and undertail coverts white; wings black with a bronze gloss and a large white patch on the wing coverts forming a white shoulder; tail black with narrow pale tips to the feathers. Bill slender and blue-grey, bluish at the base; iris whitish; legs bluish-grey.",
@@ -87,6 +98,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 잿빛쇠찌르레기",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045700",
+      "used": "암수 구별·어린새·번식기"
+    },
+    {
+      "title": "위키백과 영어판 – White-shouldered starling(잿빛쇠찌르레기)",
+      "url": "https://en.wikipedia.org/wiki/White-shouldered_starling",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – 찌르레기·붉은부리찌르레기·북방쇠찌르레기·쇠찌르레기·잿빛쇠찌르레기·분홍찌르레기",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 잿빛쇠찌르레기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=6091856&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "이투데이(2020) – 희귀 나그네새 잿빛쇠찌르레기, 국내 번식 최초 확인(국립생물자원관 발표)",
+      "url": "https://www.etoday.co.kr/news/view/1908953",
+      "used": "관찰 시기·번식기"
+    },
+    {
+      "title": "YTN(2026-07-22) – 잿빛쇠찌르레기 강릉 번식(국내 두 번째 번식 기록)",
+      "url": "https://www.ytn.co.kr/_ln/0115_202607220128521027",
+      "used": "번식기"
     }
   ],
   "todo": [],

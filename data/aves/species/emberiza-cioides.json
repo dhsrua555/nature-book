@@ -5,8 +5,7 @@
   "author": "Brandt, 1843",
   "en": "Meadow Bunting",
   "ktsn": 120000002216,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 17cm",
   "status": "겨울철새 수만 마리 · 텃새 수천 마리",
   "habitat": "저지대 관목림, 농경지, 풀밭 같은 트인 곳, 인가 주변",
   "protect": [],
@@ -25,7 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "번식기는 4~7월이며, 한 해에 두 번 번식하기도 한다."
   },
   "summary": "흔한 텃새로, 주로 낮은 지대의 관목림이나 농경지, 풀밭 같은 트인 곳에 살아 인가 가까이에서도 자주 보인다. 언뜻 보면 크기와 빛깔이 참새와 비슷하다.",
   "points": [
@@ -43,10 +48,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "수컷은 눈앞과 뺨선(턱선)이 검고 귀깃과 머리꼭대기·가슴의 밤색이 짙어, 흰 눈썹선·뺨과 또렷이 대비된다.",
+    "female": "암컷은 머리꼭대기가 더 갈색이고 귀깃이 엷은 담황갈색이며, 눈썹선이 담황색을 띠고 뺨선이 갈색이며 가슴의 밤색 띠가 흐리다."
   },
-  "young": "TODO",
+  "young": "어린새는 얼굴 무늬가 흐릿하고 온몸이 엷은 갈색을 띠며, 가슴과 옆구리에 검은 갈색 세로줄이 뚜렷하다. 첫겨울 수컷은 어른 암컷과 비슷하다.",
   "similar": [
     {
       "ko": "참새",
@@ -93,6 +99,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Bruant à longue queue(멧새)",
+      "url": "https://www.oiseaux.net/oiseaux/bruant.a.longue.queue.html",
+      "used": "몸길이·번식기·암수 구별·어린새"
+    },
+    {
+      "title": "코토뱅크(平凡社 世界大百科事典·小学館 日本大百科全書) – ホオジロ(멧새)",
+      "url": "https://kotobank.jp/word/%E3%83%9B%E3%82%AA%E3%82%B8%E3%83%AD",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Sharpe (1888) Catalogue of the Birds in the British Museum 12권 – Emberiza cioides",
+      "url": "https://archive.org/details/catalogueofbirds12brit",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – East Siberian Meadow-Bunting(E. c. castaneiceps)·Meadow-Bunting(E. cia)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "번식기·암수 구별·어린새"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Emberiza ciopsis",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "번식기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Emberiza cioides",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 일본어판 – ホオジロ(멧새)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AA%E3%82%B8%E3%83%AD",
+      "used": "번식기·어린새"
     }
   ],
   "todo": [],

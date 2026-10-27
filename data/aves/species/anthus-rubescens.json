@@ -5,15 +5,24 @@
   "author": "Tunstall, 1771",
   "en": "American Pipit",
   "ktsn": 120000002183,
-  "origin": "nibr",
   "length": "약 16cm",
   "status": "나그네새 수만 마리 · 겨울철새 수천 마리",
   "habitat": "논, 초지, 해안, 하천",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "겨울에 찾아와 머물거나 지나간다."
+    "note": "9월 하순에 찾아와 이듬해 5월 중순까지 머물거나 지나가며, 4~5월 이동기에 가장 많다."
   },
   "summary": "겨울에 찾아와 머물거나 지나가는 겨울철새로, 논과 풀밭, 해안, 하천에서 지낸다. 몸집이 작고 날씬하며 꼬리와 다리가 길다. 무리를 지어 다니며 풀씨와 곤충을 먹는다. 북반구 고위도에서 번식하고, 겨울에는 우리나라와 중국 동남부, 일본, 미국 남부, 멕시코 등지에서 지낸다.",
   "points": [
@@ -43,11 +52,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "첫가을 어린새는 어른새보다 윗면이 더 어둡고 갈색을 띠며, 아랫면은 연한 누런빛 바탕에 가슴과 옆구리의 검은 얼룩과 세로줄이 더 굵다.",
+  "similar": [
+    {
+      "ko": "옅은밭종다리",
+      "how": "옅은밭종다리는 아랫면이 더 희고 가슴 줄무늬가 갈색으로 흐리며 다리가 검은빛을 띠지만, 밭종다리는 가슴과 옆구리에 검은 세로줄이 굵고 뚜렷하며 다리가 살구빛이다."
+    }
+  ],
   "art": {
     "subject": "American Pipit (Anthus rubescens) of the Asian subspecies japonicus (Buff-bellied Pipit), adult in winter plumage, as seen in Korea from November to March: crown and upperparts grey-brown with only faint dark streaks; a whitish supercilium and pale lores giving an open-faced look; a bold blackish malar stripe broadening into a dark patch on the side of the throat; two whitish wing-bars; underparts white with a faint buff wash, the breast and flanks boldly streaked black; dark brown tail with white outer tail feathers. Thin dark bill with a pinkish base to the lower mandible; dark eye; reddish flesh-coloured legs.",
     "pose": "walking on a paddy bund, picking seeds and insects, a small flock nearby",
@@ -87,6 +101,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Taczanowski (1891) Faune ornithologique de la Sibérie orientale 1부 – 밭종다리",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Oates (1890) The Fauna of British India, Birds 2권 – 밭종다리",
+      "url": "https://archive.org/details/faunaofbritishin02euge",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1926) The Fauna of British India, Birds 2판 3권 – 밭종다리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207295",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 밭종다리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2490241&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1919–20) A Practical Handbook of British Birds 1권 – 밭종다리",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 밭종다리(American Pipit)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/054700",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Hartert (1903–10) Die Vögel der paläarktischen Fauna 1권 – 밭종다리",
+      "url": "https://archive.org/details/dievgelderpal01hart",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

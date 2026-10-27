@@ -5,7 +5,6 @@
   "author": "Holandre, 1825",
   "en": "White's Thrush",
   "ktsn": 120000002092,
-  "origin": "nibr",
   "length": "약 29.5cm",
   "status": "나그네새 수만 마리 · 여름철새 수만 마리 · 텃새 수백 마리",
   "habitat": "낙엽활엽수림, 잡목림",
@@ -57,10 +56,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 거의 같으나 깃 바탕의 황갈색이 더 짙고, 아랫면의 검은 무늬가 더 가늘다.",
   "similar": [],
   "art": {
     "subject": "White's Thrush (Zoothera aurea), adult (sexes alike), as seen in Korean forest from April to September: upperparts golden olive-brown, every feather tipped with a black crescent, giving a boldly scaled look; face pale buff-white with a dark crescent on the rear ear coverts; throat white; breast and flanks white to buffy-white, densely marked with black crescentic scales; belly centre and undertail coverts white; tail olive-brown with dark outer feathers tipped white. Bill dark brown with a paler base to the lower mandible. Large dark eye. Pinkish legs.",
@@ -100,6 +99,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – White's Thrush (Turdus dauma aureus)",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – White's Thrush (Turdus varius)",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2권 – Oreocincla aurea / O. dauma",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – White's thrush",
+      "url": "https://en.wikipedia.org/wiki/White%27s_thrush",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

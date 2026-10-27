@@ -5,15 +5,19 @@
   "author": "Temminck, 1836",
   "en": "Mugimaki Flycatcher",
   "ktsn": 120000002142,
-  "origin": "nibr",
   "length": "13cm",
   "status": "나그네새, 해마다 수천 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "침엽수 가지(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "봄과 가을에 지나가며, 번식지에서는 6월 상순~7월에 알을 낳는다."
+    "note": "5월과 10월에 가장 많이 지나가고 11월과 겨울에도 드물게 보이며, 번식지에서는 6월 상순~7월에 알을 낳는다."
   },
   "summary": "봄과 가을에 우리나라 전역을 지나가는 흔한 나그네새이다. 홀로 또는 암수가 함께 지내며 곤충을 주로 먹는다. 침엽수 가지 위에 이끼나 마른 잎으로 사발 모양 둥지를 짓고, 6월 상순~7월에 한배에 알 4~8개를 낳는다. 구북구 동부, 시베리아 알타이 북동부, 아무르, 사할린, 우수리, 만주 동북부에서 번식하고 중국 남부와 동남아시아에서 겨울을 난다.",
   "points": [
@@ -35,10 +39,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 윗면이 검은빛 도는 회색이고 눈 뒤에 짧은 흰 눈썹선이 있으며, 날개에 흰 무늬, 바깥 꼬리깃 기부에 흰색이 있다. 멱과 가슴은 짙은 주황색이고 배는 희다.",
+    "female": "윗면이 회갈색이고 멱과 가슴은 수컷보다 옅은 주황색이다. 날개에 옅은 줄이 있을 뿐 흰 날개 무늬와 꼬리의 흰색이 없다."
   },
-  "young": "TODO",
+  "young": "첫해 어린새는 암컷처럼 윗면이 회갈색이고 날개에 흰 줄이 두 개 있으며, 멱과 가슴은 옅은 주황색이다. 첫해 수컷은 바깥 꼬리깃 기부가 희어 암컷과 가려진다.",
   "similar": [],
   "art": {
     "subject": "Mugimaki Flycatcher (Ficedula mugimaki), adult male on spring passage (May): forehead, crown, face, nape, back, rump and uppertail coverts black to blackish-grey (in fresh autumn plumage the black is veiled by grey fringes); a short white stripe behind the eye only; a white patch on the wing coverts; flight feathers black; tail black with white bases to the outer feathers; chin, throat and breast rich orange, merging on the lower breast into the white belly and undertail coverts; small black bill; dark eye; dark legs.",
@@ -86,6 +91,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Mugimaki Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050400",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Sharpe(1879) Catalogue of the Birds in the British Museum 4권 – Poliomyias luteola",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – Muscicapa luteola",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 노랑딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231268&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

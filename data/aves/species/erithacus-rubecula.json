@@ -5,16 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "European Robin",
   "ktsn": 120000002108,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬과 도시 하천가 공원의 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2006년 3월 하순 전남 신안 홍도에서 처음 기록되고, 2014년 1~2월 서울 한강 가의 공원에서 오래 머문 개체가 관찰된 길잃은새이다. 땅 위에서 지렁이와 곤충 같은 작은 동물을 잡고, 나무 열매와 씨앗도 먹는다. 유럽에서 우랄산맥 너머 서시베리아까지 번식하고, 북쪽 무리는 겨울에 지중해 연안과 이란 등지로 내려간다.",
   "points": [
     {
       "ko": "이마·얼굴·가슴의 주황빛 붉은색",
@@ -34,10 +38,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 얼굴과 가슴에 주황색이 없고, 온몸이 갈색 바탕에 황갈색 점무늬가 촘촘하다. 가슴 쪽 깃이 다른 곳보다 조금 더 붉은 기를 띠며, 첫 털갈이 뒤에 주황색 가슴이 드러난다.",
   "similar": [],
   "art": {
     "subject": "European Robin (Erithacus rubecula), adult (sexes alike, plumage similar year-round): forehead, face, throat and breast orange-red, bordered on the sides of the neck and breast by a band of blue-grey; crown, nape, back, wings and tail plain olive-brown; belly whitish; flanks buffish-brown; thin dark bill; large dark eye; slender brownish-pink legs.",
@@ -87,10 +91,39 @@
       "title": "Eurasian Robin – BirdForum Opus",
       "url": "https://birdforum.net/opus/Eurasian_Robin",
       "used": "동정 포인트"
+    },
+    {
+      "title": "영국왕립조류보호협회(RSPB) – Robin",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/robin",
+      "used": "몸길이·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Rougegorge familier(꼬까울새)",
+      "url": "https://www.oiseaux.net/oiseaux/rougegorge.familier.html",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 1권(1920) – Continental Robin, British Robin",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·암수 구별·어린새"
+    },
+    {
+      "title": "Birds Korea 2006년 리뷰 – European Robin 국내 첫 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Birds Korea 새 소식 2014년 1월 – European Robin(서울 암사생태공원)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-01.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird·iNaturalist 한국 관찰 기록(Erithacus rubecula)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2492462&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

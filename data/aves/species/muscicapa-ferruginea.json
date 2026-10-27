@@ -5,16 +5,19 @@
   "author": "Hodgson, 1845",
   "en": "Ferruginous Flycatcher",
   "ktsn": 120000002138,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–13cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해와 남해 섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "봄 이동기에 서해와 남해의 섬에서 드물게 기록되는 길잃은새로, 2002년 4월 어청도에서 처음 관찰된 뒤 주로 4월 중순부터 5월 중순 사이에 어청도·홍도·마라도 등지의 숲에서 기록되었다. 숲속의 드러난 가지에 혼자 조용히 앉아 있다가 날아올라 곤충을 잡고 같은 자리로 돌아오곤 한다. 네팔에서 히말라야를 따라 중국 중남부와 타이완에 이르는 산지 숲에서 번식하고 동남아시아에서 겨울을 난다.",
   "points": [
     {
       "ko": "갈색 등과 대비되는 잿빛 머리",
@@ -42,10 +45,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새(유조)는 머리와 등에 황갈색 줄무늬가 있고 어깨깃에 큰 주황빛 담황색 점이 있으며, 날개덮깃 가장자리가 적갈색이고 멱 양옆과 가슴에 어두운 비늘무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Ferruginous Flycatcher (Muscicapa ferruginea), adult (sexes alike), a spring migrant in Korean island woodland: head slate-grey, contrasting with the brown back, with a prominent white eye-ring; throat white; mantle and back warm brown, becoming bright rufous on the rump and uppertail coverts; wings dark brown with rufous fringes to the greater coverts and tertials, forming a rufous wing bar; breast and flanks orange-rufous, centre of the belly whitish, undertail coverts rufous-buff; tail rufous-brown. Bill short and dark; eye large and dark.",
@@ -101,11 +104,41 @@
       "title": "BirdForum Opus: Ferruginous Flycatcher (search excerpt)",
       "url": "https://www.birdforum.net/opus/Ferruginous_Flycatcher",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Gobemouche ferrugineux(회색머리딱새)",
+      "url": "https://www.oiseaux.net/oiseaux/gobemouche.ferrugineux.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds 2권(1924) – Hemichelidon cinereiceps(Ferruginous Flycatcher)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Birds Korea 2002년 리뷰 – Ferruginous Flycatcher 국내 첫 기록",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2002.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "Birds Korea 2004년 리뷰 – Ferruginous Flycatcher",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "Birds Korea 2010년 리뷰 – Ferruginous Flycatcher",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird·iNaturalist 한국 관찰 기록(Muscicapa ferruginea)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2492579&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "status '지금까지 기록 10건 미만'은 기록이 10건 안팎으로 늘었을 수 있다(Birds Korea 리뷰 2002–2010 5건, eBird·iNaturalist 2017–2026 6건 이상) — 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

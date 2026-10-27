@@ -5,14 +5,21 @@
   "author": "pallas, 1776",
   "en": "Siberian Accentor",
   "ktsn": 120000002164,
-  "origin": "nibr",
   "length": "15cm",
   "status": "겨울철새, 해마다 수만 마리",
   "habitat": "산지의 숲, 농경지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "10월 하순에 와서 3월까지 머물고, 드물게 4월까지 남는 개체도 있다."
   },
   "summary": "전국에서 흔히 겨울을 나는 겨울새로, 산지의 숲이나 농경지에서 지낸다. 보통 홀로 또는 암수가 함께 지내며, 벼과 식물의 씨를 즐겨 먹고 여름철에는 곤충도 즐겨 먹는다. 시베리아 툰드라 일대에서 번식하는데, 나무 밑이나 풀숲에 잔가지와 풀줄기로 밥그릇 모양 둥지를 짓고 한배에 알 4~6개를 낳는다. 중국 동북 지방과 한국에서 겨울을 난다.",
   "points": [
@@ -38,10 +45,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나 암컷은 색이 조금 칙칙하고 옅다."
   },
-  "young": "TODO",
+  "young": "어른새보다 칙칙한 흙갈색이고 눈썹선이 희끄무레하며, 멱과 가슴에 굵은 갈색 얼룩이 흩어져 있다.",
   "similar": [],
   "art": {
     "subject": "Siberian Accentor (Prunella montanella), adult in winter, as seen in Korea from November to March: crown blackish-brown; a very broad deep ochre-buff supercilium running from the bill base over the eye to the nape; black ear-coverts forming a dark mask below the supercilium; grey patch on the side of the neck; back and scapulars warm brown boldly streaked blackish-brown; wings brown with rufous fringes and a thin pale wing-bar; throat and breast deep ochre-buff, belly paler buff; flanks streaked chestnut. Thin, sharply pointed dark bill; dark eye; orange-pink legs.",
@@ -82,6 +89,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1883) Catalogue of the Birds in the British Museum 7권 – Siberian Accentor(멧종다리)",
+      "url": "https://archive.org/details/catalogueofbirds07brit",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Siberian Accentor(멧종다리)",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 영어판 – Siberian Accentor(멧종다리)",
+      "url": "https://en.wikipedia.org/wiki/Siberian_accentor",
+      "used": "암수 구별, 어린새"
+    },
+    {
+      "title": "Taczanowski (1891–93) Faune ornithologique de la Sibérie orientale 1권 – Siberian Accentor(멧종다리)",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – Siberian Accentor(멧종다리)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5231759&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Siberian Accentor(멧종다리)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

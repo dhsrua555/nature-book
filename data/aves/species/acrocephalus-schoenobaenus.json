@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Sedge Warbler",
   "ktsn": 120000230695,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "11.5–13cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건 미만인 길잃은새이다. 유럽에서 시베리아 서부에 걸쳐 번식하고, 사하라 사막을 건너 아프리카에서 겨울을 난다. 물가의 갈대밭과 덤불에 살며 곤충을 주로 잡아먹고, 수컷은 다른 새 소리를 흉내 내며 빠르게 지저귄다.",
   "points": [
     {
       "ko": "검은 줄 있는 짙은 정수리",
@@ -42,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어른새와 비슷하나 위쪽 깃 가장자리가 더 누르스름하고, 멱 아래와 윗가슴에 작은 갈색 점무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Sedge Warbler (Acrocephalus schoenobaenus), adult (sexes alike) in autumn: crown dark brown with fine darker streaks, looking dark-capped, with no pale central crown stripe; a long, broad, creamy-white supercilium; dark brown eye-stripe; mantle and scapulars buff-brown with diffuse dark streaks; rump and uppertail coverts unstreaked warm tawny-brown; wings brown with darker-centred coverts and tertials; throat white; underparts whitish with a buff wash on the breast sides and flanks; tail plain dark brown; bill dark with a pale yellowish base to the lower mandible; dark eye; greyish-brown legs.",
@@ -100,10 +99,25 @@
       "title": "Sedge Warbler – BTO BirdFacts",
       "url": "https://www.bto.org/understanding-birds/birdfacts/sedge-warbler",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Sedge Warbler(풀쇠개개비)",
+      "url": "https://www.oiseaux.net/birds/sedge.warbler.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Sedge Warbler(풀쇠개개비)",
+      "url": "https://www.oiseaux.net/oiseaux/phragmite.des.joncs.html",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "Witherby 외 (1920) A Practical Handbook of British Birds 1권 – 풀쇠개개비",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "해설·어린새·암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국내 기록의 날짜와 장소를 찾지 못해 관찰 시기와 사는 곳을 비워 두었다(Birds Korea 2002–2015 새 소식, eBird·iNaturalist 한국 기록에 없음)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
