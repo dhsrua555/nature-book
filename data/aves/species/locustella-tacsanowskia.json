@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "희미한 담황색 눈썹선",
+      "en": "faint, indistinct pale buff supercilium"
+    },
+    {
+      "ko": "줄무늬 없는 회갈색 윗면",
+      "en": "plain, unstreaked olive grey-brown upperparts"
+    },
+    {
+      "ko": "흰 멱(아래쪽에 희미한 작은 점)",
+      "en": "whitish throat, at most a few faint small spots on the lower throat"
+    },
+    {
+      "ko": "노란 기 도는 아랫면과 갈색 옆구리",
+      "en": "underparts often tinged yellowish, with brownish flanks"
+    },
+    {
+      "ko": "끝이 흐리게 옅은 아래꼬리덮깃",
+      "en": "long buff-brown undertail coverts with indistinct pale tips"
+    },
+    {
+      "ko": "분홍빛 다리",
+      "en": "pale pink legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -23,13 +48,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": [],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "subject": "Chinese Bush Warbler (Locustella tacsanowskia), adult in spring, a rare migrant in Korean grassy scrub in May: upperparts plain, unstreaked grey-brown with an olive tinge from crown to tail; a faint, indistinct pale buff supercilium; throat whitish, unmarked or with a few small, faint brown spots on the lower throat; breast sides and flanks washed brownish, the centre of the belly whitish, the underparts often with a faint yellowish tinge; long undertail coverts buff-brown with indistinct paler tips; wings and tail plain brown. Fine pointed bill, dark above with a paler pinkish lower mandible; dark eye; legs pale pink.",
+    "pose": "creeping low on a grass stem at the edge of dense scrub, side view",
+    "scene": "rank grass and low shrubs at the edge of farmland on a Korean offshore island in May, during spring migration; no people, buildings or text",
+    "views": [
+      "adult spring, side view perched low on a grass stem: plain olive grey-brown upperparts without streaks, faint pale buff supercilium, whitish throat, brownish breast sides and flanks with a faint yellowish tinge below, long buff-brown undertail coverts with indistinct pale tips, long rounded tail, bill dark above and pinkish below, pale pink legs",
+      "adult, head and breast in front view: whitish throat with a few faint small brown spots on the lower throat, brownish wash across the breast sides, faint buff supercilium, fine bill with a pale pinkish lower mandible"
+    ],
+    "build": "Small, skulking bush warbler, about the length of a sparrow but much slimmer, with a long tail. Rounded head and short neck; short rounded wings, the wingtips reaching only a little past the base of the tail. Bill thin, pointed and straight, shorter than the head. Legs fairly long, pale pink, with strong feet for gripping grass stems. Tail long, broad and graduated, rounded at the tip, with long undertail coverts reaching far along its underside. Creeps low in grass and dense shrubs and rarely flies far.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint a distinct band of dark spots across the throat, a dark lower mandible or boldly white-tipped undertail coverts; those mark Baikal Bush Warbler (Locustella davidi).",
+      "Do not streak the back or crown; that is Lanceolated or Pallas's Grasshopper Warbler.",
+      "Do not add wing-bars or a bold white supercilium.",
+      "Do not paint dark legs; they are pale pink."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -46,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia(스웨덴어) – Kinesisk smygsångare (HBW Alive·Baker 1997 요약, 실마리)",
+      "url": "https://sv.wikipedia.org/wiki/Kinesisk_smygsångare",
+      "used": "그림용 형태 정보·동정 포인트: 회갈색 윗면, 노란 기 아랫면, 멱 아래 점, 끝이 옅은 아래꼬리덮깃"
+    },
+    {
+      "title": "Wikipedia(러시아어) – Сибирская пестрогрудка (Dementiev 외 1954 요약, 실마리)",
+      "url": "https://ru.wikipedia.org/wiki/Сибирская_пестрогрудка",
+      "used": "그림용 형태 정보·동정 포인트: 올리브 갈색 윗면, 흐린 담황색 눈썹선, 흰 멱·배, 갈색 가슴 옆·옆구리, 가슴의 작은 점"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Locustella tacsanowskia",
+      "url": "https://www.inaturalist.org/observations/399922874",
+      "used": "그림용 형태 정보 사진 확인(분홍 다리, 옅은 아랫부리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
   ],
   "occurrence": {
     "code": "V2",

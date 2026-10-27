@@ -60,17 +60,24 @@
   "young": "어린새는 눈이 노란빛이 도는 갈색이다.",
   "similar": [],
   "art": {
-    "subject": "Common Buzzard (Buteo buteo), adult: uniform dark brown upperparts, pale brown underparts with darker brown belly and flanks, dark brown wingtips and dark brown patches on the underwing, dark brown eye",
+    "subject": "Common Buzzard (Buteo buteo), adult of the common intermediate brown type shared by the nominate race and the Steppe Buzzard (B. b. vulpinus), as a rare winter vagrant on Korean farmland: head and upperparts uniform dark brown, the head as dark as the back, the throat slightly paler and streaked; underparts pale buff-brown, heavily mottled brown on the breast and crossed by a paler U-shaped band across the lower breast; belly, flanks and thighs dark brown with fine pale bars, darker than the breast; upperwing plain dark brown; tail grey-brown with many narrow dark bars and a broader dark subterminal band. Underwing: pale flight feathers with a sharp dark trailing edge and dark brown tips, a dark brown carpal patch and brown coverts. Eye dark brown; cere and legs yellow; bill dark grey with a black hooked tip.",
     "pose": "soaring with wings held slightly raised in a shallow V",
     "scene": "Korean winter farmland bordered by a woodland edge and low forested hills; no people, buildings or text",
     "views": [
-      "adult, flight view from below: pale brown underparts, dark brown belly and flanks, dark brown underwing patches and wingtips",
-      "adult, side view perched: uniform dark brown upperparts, dark brown eye",
-      "juvenile, head detail: yellowish-brown eye"
+      "adult brown type, side view perched upright on a post: uniform dark brown head and upperparts, dark brown eye, pale buff-brown underparts mottled brown on the breast with a paler U-shaped band across the lower breast, dark brown barred belly, flanks and thighs, wingtips nearly reaching the tip of the finely barred tail, bare yellow legs",
+      "adult brown type, in flight seen squarely from below, broad rounded wings spread straight out to the sides to their full span: pale flight feathers with a dark trailing edge, dark brown wingtips and carpal patches, brown wing linings, pale-banded breast, dark brown belly and flanks, finely barred tail with a dark subterminal band",
+      "juvenile, head and breast in side view: like the adult but with a pale yellowish-brown eye, and the breast and belly streaked brown rather than barred"
     ],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "build": "Medium-large, compact buzzard, 52–56cm, about the size of a Large-billed Crow but bulkier, the female larger than the male. Rounded head, short neck, short hooked bill much smaller than an eagle's. Sits upright and rather hunched on posts and bare trees. Legs short and yellow, the tarsus mostly bare (feathered for less than half its length, unlike the Eastern Buzzard). At rest the wingtips almost reach the tail tip. Broad, rounded wings with five fingered primaries; soars with the wings raised in a shallow V and often hovers. Tail medium length, fan-shaped when spread.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint a pale buff-white head with a thin dark eye-line and solid dark flank patches on clean pale underparts — that is Eastern Buzzard (Buteo japonicus), the common buzzard of Korea.",
+      "Do not paint a white tail with a broad black terminal band or legs feathered to the toes — that is Rough-legged Buzzard (Buteo lagopus).",
+      "Do not paint a pale or yellow eye on the adult; the adult's eye is dark brown.",
+      "Do not paint a crest, a long eagle bill or a long tail."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -92,6 +99,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "James, A.H. 1988. Geographic variation in the Buzzard Buteo buteo: japonicus-group. Beaufortia 38(4): 57–74",
+      "url": "https://repository.naturalis.nl/pub/505223/BEAU1988038004001.pdf",
+      "used": "그림용 형태 정보: buteo·vulpinus 무리(어른새 아랫면 가로무늬, 정강이 깃이 덜 덮임)와 말똥가리(japonicus 무리)의 차이"
+    },
+    {
+      "title": "Wikipedia – Common buzzard (Ferguson-Lees·Forsman 요약, 실마리)",
+      "url": "https://en.wikipedia.org/wiki/Common_buzzard",
+      "used": "그림용 형태 정보: 갈색형 깃 무늬, 날개 아랫면, 꼬리띠, vulpinus 분포"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Buteo buteo",
+      "url": "https://www.inaturalist.org/observations/190551903",
+      "used": "그림용 형태 정보 사진 확인"
     }
   ],
   "todo": [],

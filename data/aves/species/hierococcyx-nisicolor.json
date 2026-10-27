@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "진회색 머리와 노란 눈테",
+      "en": "dark slate-grey head with a bright yellow eye-ring"
+    },
+    {
+      "ko": "어두운 회색 윗면",
+      "en": "slate-grey upperparts"
+    },
+    {
+      "ko": "적갈색 줄무늬나 얼룩이 있는 흰 가슴",
+      "en": "white breast with rufous-orange streaks or smudges"
+    },
+    {
+      "ko": "흰 배와 아래꼬리덮깃",
+      "en": "white belly and undertail coverts"
+    },
+    {
+      "ko": "검은 띠와 적갈색 끝이 있는 회색 꼬리",
+      "en": "grey tail with narrow black bars, a broad black subterminal band and a rufous tip"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -23,13 +44,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": [],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "subject": "Hodgson's Hawk-Cuckoo (Hierococcyx nisicolor), adult (sexes alike), as a rare spring vagrant in a Korean forest in May: head, nape and upperparts dark slate-grey, the wings tinged brownish; throat whitish; breast white with variable rufous-orange streaks and smudges, in some birds almost washed rufous on the upper breast, fading to a white belly; undertail coverts white; tail grey with three or four narrow black bars, a broad black subterminal band and a rufous tip. Bright yellow eye-ring; short bill, dark with a yellowish base; legs yellow.",
+    "pose": "perched upright on a branch inside the forest, side view",
+    "scene": "Korean broadleaf forest on an offshore island in May, during spring migration, fresh green leaves and dappled light; no people, buildings or text",
+    "views": [
+      "adult, side view perched on a branch: dark slate-grey head and upperparts, bright yellow eye-ring, dark bill with a yellowish base, whitish throat, white breast with rufous-orange streaks and smudges, white belly and undertail coverts, long grey tail with narrow black bars, a broad black subterminal band and a rufous tip, yellow legs",
+      "adult, side view perched with the tail hanging down: slate-grey back and brownish-grey wings, grey tail crossed by three or four narrow black bars, a broad black subterminal band and a rufous tip, white undertail coverts",
+      "juvenile, side view perched: brown upperparts barred rufous, whitish underparts with bold dark streaks edged rufous on the breast sides and neck, yellow eye-ring, barred tail with a pale tip, yellow legs"
+    ],
+    "build": "Medium-sized, slim hawk-cuckoo, a little smaller and slimmer than a Common Cuckoo and clearly smaller than the Northern Hawk-Cuckoo, shaped like a small sparrowhawk: rounded head, rather short rounded wings and a long, broad, slightly rounded tail that extends well beyond the wingtips at rest. Bill short and slightly decurved, not hooked. Legs short and yellow, with two toes forward and two back. Perches upright to slightly hunched inside the canopy.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not wash the whole breast and belly plain rufous-orange like Northern Hawk-Cuckoo (Hierococcyx hyperythrus); here the breast is white with rufous streaks or smudges and the belly is white.",
+      "Do not paint dark bars across the belly and flanks; the underparts are streaked, not barred (barred flanks mark Large Hawk-Cuckoo, Hierococcyx sparverioides).",
+      "Do not paint a hooked raptor bill or strong talons; it is a cuckoo with a small bill and weak feet.",
+      "Do not paint a plain tail without the broad black band and rufous tip."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -41,11 +73,27 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Singapore Birds Project – Hodgson's Hawk-Cuckoo",
+      "url": "https://singaporebirds.com/species/hodgsons-hawk-cuckoo/",
+      "used": "그림용 형태 정보·동정 포인트: 어른새·어린새 깃, 큰매사촌·말레이매사촌과의 차이"
+    },
+    {
+      "title": "Wikipedia(스웨덴어) – Visselhökgök (HBW Alive 요약, 실마리)",
+      "url": "https://sv.wikipedia.org/wiki/Visselhökgök",
+      "used": "그림용 형태 정보·동정 포인트: 윗면·아랫면·꼬리·눈테, 매사촌과의 차이"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Hierococcyx nisicolor",
+      "url": "https://www.inaturalist.org/observations/1626098",
+      "used": "그림용 형태 정보 사진 확인"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": null,

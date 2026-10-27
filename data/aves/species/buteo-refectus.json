@@ -41,11 +41,27 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "James, A.H. 1988. Geographic variation in the Buzzard Buteo buteo: japonicus-group. Beaufortia 38(4): 57–74",
+      "url": "https://repository.naturalis.nl/pub/505223/BEAU1988038004001.pdf",
+      "used": "히말라야 무리(refectus)의 표본 깃 설명, burmanicus 이름의 내력"
+    },
+    {
+      "title": "Wikipedia – Himalayan buzzard (실마리)",
+      "url": "https://en.wikipedia.org/wiki/Himalayan_buzzard",
+      "used": "분포, 옛 이름 Buteo burmanicus 에서 바뀐 내력"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "한국 기록 대조(목록에 없음)"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "그림 재료: 국내 기록과 생김새를 교차 확인하지 못해 비워 둠(옛 이름 Buteo burmanicus 는 대륙에서 오는 말똥가리 무리의 이름이기도 해 목록 항목 확인 필요)"
   ],
   "occurrence": {
     "code": null,

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "겨울에 가는 줄무늬가 남는 흰 머리",
+      "en": "white head with fine grey-brown streaks in winter, densest on the hindneck"
+    },
+    {
+      "ko": "옅은 홍채와 붉은 눈테",
+      "en": "pale iris with a red orbital ring"
+    },
+    {
+      "ko": "붉은 점이 있는 노란 부리",
+      "en": "yellow bill with a red gonys spot"
+    },
+    {
+      "ko": "재갈매기보다 짙은 회색 등과 날개",
+      "en": "back and wings darker grey than a Vega Gull's"
+    },
+    {
+      "ko": "흰 점이 있는 검은 날개 끝",
+      "en": "black wingtips with small white spots"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -23,13 +48,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": [],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "subject": "Lesser Black-backed Gull of the Taimyr form (Larus fuscus taimyrensis), the form behind most Korean records, adult in winter as seen on Korean coasts from November to March: white head with fine grey-brown streaks on the crown, around the eye and densest on the hindneck, kept into early spring; mantle and folded wings medium-dark grey, clearly darker than a Vega or Mongolian Gull's but paler than the slate-grey of Heuglin's Gull; white tertial crescent and white tips to the secondaries; black wingtip with small white mirrors and small white primary tips; underparts, rump and tail white. Bill yellow, deep at the gonys, with a red gonys spot that can spread onto the upper mandible; pale iris; red orbital ring; legs yellow.",
+    "pose": "standing on a sandy beach among resting gulls, side view",
+    "scene": "Korean coast in winter (January): a sandy beach and dark rocks at the waterline under a pale sky; no people, buildings or text",
+    "views": [
+      "adult winter, side view standing: white head with fine grey-brown streaks densest on the hindneck, medium-dark grey back and wings, darker than a Vega Gull's, long black wingtips with small white spots projecting beyond the tail, yellow bill with a red gonys spot, yellow legs",
+      "adult in spring (March–April), head close-up in side view: white head with a few fine streaks left on the hindneck, pale iris, red orbital ring, deep yellow bill with a red gonys spot spreading slightly onto the upper mandible",
+      "adult in flight seen squarely from above, wings spread straight out to the sides to their full span and bent slightly at the wrist: medium-dark grey upperwing with a white trailing edge, black wingtips with small white mirrors, white head, body and square white tail"
+    ],
+    "build": "Large, long-winged gull of the Vega Gull size class but less bulky than a Mongolian Gull, much larger than a Black-tailed Gull. Fairly flat crown and strong neck; bill yellow, deep and thick-based, with a marked angle at the gonys. Legs medium length and fairly thick, yellow, brightest in spring and duller, sometimes flesh-tinged, in winter. At rest the long black primaries project well beyond the tail. In flight the medium-dark grey upperwing shows a white trailing edge and a black wingtip with small white mirrors; tail square and all white in adults.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint pink legs; this gull's legs are yellow (pink legs mark Vega Gull, Larus vegae).",
+      "Do not paint the back blackish or dark slate like Slaty-backed or Heuglin's Gull; it is a medium-dark grey only a few shades darker than a Vega Gull's.",
+      "Do not paint a pure white, unstreaked head on the winter adult; fine streaks stay on the hindneck into spring (Mongolian Gull is white-headed by then).",
+      "Do not paint a black tail band or a black-and-red bill tip (Black-tailed Gull)."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -46,10 +82,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Moores, N. – An Introduction to the Three Widespread Herring-type Gulls in East Asia (Shanghai Birding)",
+      "url": "https://www.shanghaibirding.com/gulls-moores/",
+      "used": "그림용 형태 정보·동정 포인트: 몽골·재갈매기보다 짙은 등, 늦게까지 남는 머리 줄무늬, 노란 다리, 위부리까지 번지는 붉은 점, 굵은 부리, 긴 날개"
+    },
+    {
+      "title": "Gull Research Organisation – Taimyr Gull, South Korea, December (Aves Korea 사진)",
+      "url": "https://gull-research.org/heuglini/heug5cy/taimyr29.html",
+      "used": "그림용 형태 정보·동정 포인트: 짙은 회색 윗면, 노란 다리, 붉은 눈테, 점박이 홍채, 줄무늬 머리(한국 12월 어른새)"
+    },
+    {
+      "title": "Wikipedia – Heuglin's gull (Olsen 2004 요약, 실마리)",
+      "url": "https://en.wikipedia.org/wiki/Heuglin%27s_gull",
+      "used": "taimyrensis 가 heuglini 보다 등이 옅다는 점"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Larus fuscus taimyrensis (한국)",
+      "url": "https://www.inaturalist.org/observations/267889506",
+      "used": "그림용 형태 정보 사진 확인"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P3, W4, SV2",

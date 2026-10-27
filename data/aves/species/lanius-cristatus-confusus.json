@@ -15,7 +15,32 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "넓은 흰 이마와 흰 눈썹선",
+      "en": "broad white forehead joining a white supercilium"
+    },
+    {
+      "ko": "부리 기부에서 귀깃까지 검은 눈선",
+      "en": "black mask from the bill base through the eye to the ear-coverts"
+    },
+    {
+      "ko": "등과 같은 옅은 회갈색 정수리",
+      "en": "pale grey-brown crown, the same tone as the back"
+    },
+    {
+      "ko": "적갈색 허리와 긴 꼬리",
+      "en": "rufous-brown rump and long tail"
+    },
+    {
+      "ko": "흰 아랫면과 담황색 옆구리",
+      "en": "white underparts with buff flanks"
+    },
+    {
+      "ko": "흰 무늬 없는 갈색 날개",
+      "en": "plain brown wings without a white patch"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -23,13 +48,24 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": [],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "subject": "Brown Shrike of the race confusus (Lanius cristatus confusus), adult male, as seen in Korea on spring passage in May: forehead white, the white band broad and running back into a white supercilium; crown, nape, mantle and back plain pale grey-brown, the crown the same tone as the back, neither grey nor rufous; rump and long tail warmer rufous-brown; a bold black mask from the bill base through the eye over the ear-coverts; cheeks, chin and throat white; underparts white with a pale buff wash on the breast sides and flanks; wings dark brown with pale brown fringes and no white patch. Stout black hooked bill; dark eye; dark grey legs.",
+    "pose": "perched upright on top of a shrub, scanning the ground for insects, side view",
+    "scene": "Korean island scrub and field edge with shrubs in May, during spring passage, fresh green leaves; no people, buildings or text",
+    "views": [
+      "adult male, side view perched on a twig: broad white forehead joining a white supercilium, black mask through the eye over the ear-coverts, plain pale grey-brown crown and back of one tone, rufous-brown rump and long graduated tail, white throat and underparts with buff flanks, plain brown wings without a white patch, black hooked bill, dark legs",
+      "adult male, head in profile: broad white forehead band running into a long white supercilium above the black mask, pale grey-brown crown, white cheeks and throat, stout black hooked bill",
+      "adult female, side view perched: like the male but duller, the mask dark brown rather than black, fine dark crescent barring on the buff breast sides and flanks"
+    ],
+    "build": "Medium-small shrike, clearly larger and longer-tailed than a sparrow and a little smaller than a Brown-eared Bulbul; sits upright on exposed twigs and wires with the tail hanging down. Large rounded head on a short thick neck, no crest. Bill black, stout and deep, shorter than the head, the upper mandible ending in a strong hook. Legs short, dark grey, with strong toes. Wings short and rounded: at rest the wingtips reach only just past the base of the tail. Tail long, narrow and graduated, rounded at the tip.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint a clean pale grey crown contrasting with a browner back; that marks the race lucionensis. In confusus the crown is grey-brown like the back.",
+      "Do not paint warm rufous-chestnut crown and upperparts; those mark the nominate race cristatus and superciliosus.",
+      "Do not add a white patch at the base of the primaries (Bull-headed Shrike, Lanius bucephalus).",
+      "Do not paint chestnut upperparts with black scalloping (Tiger Shrike) or a straight bill without a hook."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -46,10 +82,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia(일본어) – アカモズ (일본 도감 요약: ウスアカモズ, 실마리)",
+      "url": "https://ja.wikipedia.org/wiki/アカモズ",
+      "used": "그림용 형태 정보·동정 포인트: 회갈색 머리·윗면, 조금 넓은 흰 이마, 암컷 옆구리 비늘무늬"
+    },
+    {
+      "title": "Wikipedia(중국어) – 红尾伯劳 (Rasmussen & Anderton·Worfolk 요약, 실마리)",
+      "url": "https://zh.wikipedia.org/wiki/红尾伯劳",
+      "used": "그림용 형태 정보·동정 포인트: 넓은 흰 눈썹선과 옅은 윗면, 암컷의 가는 가로무늬"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Lanius cristatus confusus",
+      "url": "https://www.inaturalist.org/observations/143916584",
+      "used": "그림용 형태 정보 사진 확인"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
   ],
   "occurrence": {
     "code": "P3, S5",

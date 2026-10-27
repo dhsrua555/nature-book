@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈선 없는 흰 얼굴",
+      "en": "white face without a dark eye-stripe"
+    },
+    {
+      "ko": "검은 머리꼭대기와 뒷목",
+      "en": "black crown and nape"
+    },
+    {
+      "ko": "잿빛 등",
+      "en": "plain grey back"
+    },
+    {
+      "ko": "검은 멱과 윗가슴(번식깃)",
+      "en": "black chin, throat and upper breast (breeding plumage)"
+    },
+    {
+      "ko": "날개덮깃의 넓은 흰 무늬",
+      "en": "broad white panel on the wing coverts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -23,13 +44,23 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "TODO",
-    "pose": "TODO",
-    "scene": "TODO",
-    "views": [],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "subject": "White Wagtail of the race baicalensis (Motacilla alba baicalensis, Baikal Wagtail), adult male in breeding plumage, a rare spring migrant on a Korean riverbank in March–April: forehead, face and ear-coverts white with no dark eye-stripe; crown and nape black; mantle, back and rump plain grey; chin, throat and upper breast black, forming a bib separated from the black nape by the white sides of the neck; belly and undertail white, flanks washed grey; wing coverts largely white, forming a broad white panel on the closed wing; flight feathers blackish edged white; long black tail with white outer feathers. Thin black bill; dark eye; black legs.",
+    "pose": "walking on a pebbly riverbank pumping its tail, side view",
+    "scene": "pebbly river shoal in Korea in early spring (March–April) with dry reeds and bare willows, clear light; no people, buildings or text",
+    "views": [
+      "adult male breeding (spring), side view walking on a gravel bank: white face with no eye-stripe, black crown and nape, plain grey back, black chin, throat and upper breast bib separated from the nape by white neck sides, white belly, broad white wing panel, long black tail with white edges, black legs",
+      "adult non-breeding (autumn and winter), side view standing: white face and throat without an eye-stripe, black crown, grey back, a black crescent band across the upper breast, white underparts, white wing panel, black legs"
+    ],
+    "build": "Slim, long-tailed wagtail, longer than a sparrow and the same size as the White Wagtails common in Korea; horizontal stance, walks briskly and pumps its long tail up and down. Bill black, thin and straight, shorter than the head. Legs black, fairly long and slender. The long, square-ended tail projects far beyond the wingtips. Flight deeply undulating, showing much white in the wing and white tail sides.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint a black line through the eye; a white face with a black eye-stripe marks East Siberian Wagtail (Motacilla alba ocularis).",
+      "Do not paint a black back or a white throat above a separate black breast patch on the breeding male; those mark Amur Wagtail (Motacilla alba leucopsis), the race that breeds in Korea.",
+      "Do not join the black throat to the black nape so that black encloses the white face; that is Masked Wagtail (Motacilla alba personata).",
+      "Do not paint any yellow in the plumage or pale legs."
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -46,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – White wagtail 아종표 (Tyler 2004 HBW 요약, 실마리)",
+      "url": "https://en.wikipedia.org/wiki/White_wagtail",
+      "used": "그림용 형태 정보·동정 포인트: leucopsis 와 닮았으나 등이 회색이고 머리·날개의 흰색이 적음"
+    },
+    {
+      "title": "iNaturalist 연구 등급 사진 – Motacilla alba baicalensis (몽골·러시아·한국)",
+      "url": "https://www.inaturalist.org/observations/143342420",
+      "used": "그림용 형태 정보·동정 포인트 사진 확인(눈선 없는 흰 얼굴, 검은 멱, 흰 날개 무늬)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
   ],
   "occurrence": {
     "code": "V1",

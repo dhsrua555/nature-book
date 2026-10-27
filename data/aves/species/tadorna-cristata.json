@@ -49,16 +49,31 @@
   "young": "TODO",
   "similar": [],
   "art": {
-    "subject": "Crested Shelduck (Tadorna cristata), adult male: black forehead, crown and nape to mid-hindneck glossed dark green, long drooping black crest, white below the crest, dark green upper breast and scapulars, grey belly, orange near the undertail coverts, grey back tinged rufous, broad white wing patch, white wing coverts and axillaries, yellowish legs",
+    "subject": "Crested Shelduck (Tadorna cristata), adult male, as last recorded at Korean river mouths in winter: forehead, crown, nape and a broad stripe down the hindneck black glossed dark green, the elongated nape feathers forming a long drooping crest; face, cheeks and foreneck pale grey-white below the black cap; upper breast and scapulars blackish with a dark green gloss; belly and flanks dark grey, finely vermiculated; back grey tinged rufous; undertail coverts orange-brown; upper and under wing coverts white, forming a large white patch on the closed wing; speculum glossy green; tertials chestnut on the outer web; primaries and tail black. Short, nearly straight pinkish bill; yellowish legs.",
     "pose": "standing on a riverbank, side view",
-    "scene": "Korean river-mouth delta at the Nakdong estuary; no people, buildings or text",
+    "scene": "Nakdong river estuary in winter: wide sandbars, mudflats and dry reeds under a pale sky; no people, buildings or text",
     "views": [
-      "adult male, side view standing: green-glossed black cap with drooping crest, white face, dark green breast, grey belly, broad white wing patch",
-      "adult female, side view standing: brown body, white head with black crest and black eye-ring"
+      "adult male, side view standing: black cap glossed dark green from the forehead to mid-hindneck ending in a long drooping crest, pale grey-white face and foreneck, blackish-green upper breast, dark grey finely vermiculated belly and flanks, large white wing patch, green speculum, pinkish bill, yellowish legs",
+      "adult female, side view standing: black cap and long drooping crest, white face with a white spectacle around the eye edged below by a dark band running back towards the nape, dark brown body finely vermiculated white, large white wing patch, chestnut tertials, yellowish legs"
     ],
-    "build": "TODO",
-    "confidence": "low",
-    "basis": "형태: 조류 도감 일반 지식(현장 식별 특징)과 국립생물자원관 종 설명 · tools/ART_RULES.md"
+    "build": "Large, goose-like shelduck, about 64cm, about the size of a Common Shelduck and a little larger than a Mallard, with an upright stance on fairly long legs. Rounded head with a long, drooping crest of nape feathers in both sexes; medium-length neck. Bill short and broad, almost straight along the culmen, shorter than the head. Legs set near the middle of the body, feet webbed. At rest the white wing coverts form a large white patch along the side. Tail short, black and slightly graduated. In flight the broad white forewing contrasts with black flight feathers and a green speculum.",
+    "confidence": "medium",
+    "basis": "형태: 국내외 종 설명 교차 확인(출처 목록) · tools/ART_RULES.md",
+    "avoid": [
+      "Do not paint a white body with a chestnut breast-band and a red bill knob — that is Common Shelduck (Tadorna tadorna).",
+      "Do not paint an orange-chestnut body with a pale head — that is Ruddy Shelduck (Tadorna ferruginea).",
+      "Do not paint the crest erect or short; it is a long tuft of nape feathers hanging down the back of the neck.",
+      "Do not give the female a black eye-ring on a plain white face; the eye sits in a white spectacle bordered below by a dark band."
+    ],
+    "marks": [
+      "long, drooping black crest",
+      "male: black cap to mid-hindneck glossed dark green",
+      "female: white face with a white spectacle around the eye, edged below by a dark band",
+      "male: blackish-green upper breast, grey belly",
+      "broad white wing patch",
+      "yellowish legs"
+    ],
+    "checked": "실제 사진(iNaturalist)과 견줌"
   },
   "sources": [
     {
@@ -80,6 +95,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Kuroda, N. 1917. One new genus and three new species of birds from Corea and Tsushima. Tori 1(5): en1–en6 (원기재)",
+      "url": "https://doi.org/10.3838/jjo1915.1.5_en1",
+      "used": "그림용 형태 정보: 암컷(기준표본)의 검은 머리꼭대기·늘어진 댕기, 눈가의 흰 안경 무늬와 그 아래 검은 띠, 흰 얼굴, 흰 무늬가 촘촘한 짙은 갈색 몸, 흰 날개덮깃, 녹색 날개거울, 밤색 셋째날개깃, 주황갈색 아래꼬리덮깃, 곧은 부리, 조금 쐐기진 꼬리"
+    },
+    {
+      "title": "Wikipedia – Crested shelduck (Madge & Burn 1988·Kear 2005 요약, 실마리)",
+      "url": "https://en.wikipedia.org/wiki/Crested_shelduck",
+      "used": "그림용 형태 정보: 흰 날개덮깃, 녹색 날개거울, 검은 첫째날개깃·꼬리, 암컷의 흰 눈테, 분홍빛 부리, 청둥오리보다 조금 큰 크기"
+    },
+    {
+      "title": "Wikimedia Commons – 원앙사촌 표본 사진(수컷·암컷)",
+      "url": "https://commons.wikimedia.org/wiki/File:Shiryou_k.jpg",
+      "used": "그림용 형태 정보 확인: 수컷의 옅은 회백색 얼굴·검은 가슴, 암컷의 안경 무늬"
     }
   ],
   "todo": [
