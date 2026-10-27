@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Skylark",
   "ktsn": 120000155370,
-  "origin": "nibr",
   "length": "18cm",
   "status": "겨울철새 수백 마리 · 텃새 수십 마리",
   "habitat": "저지대의 경작지, 초지, 풀밭",
@@ -25,7 +24,12 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ]
   },
   "summary": "전국 저지대의 경작지와 초지 등에서 번식하는 흔한 텃새이자 겨울철새이다. 풀밭에 마른 풀이나 가는 뿌리로 밥그릇 모양 둥지를 틀고 알을 3~6개 낳는다. 영국에서 일본까지, 북위 30° 이북의 유럽과 아시아에 걸쳐 분포한다.",
   "points": [
@@ -51,10 +55,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면 깃마다 흰색이나 연한 황갈색 깃끝과 그 안쪽의 검은 줄이 있어 비늘무늬처럼 보이고, 가슴의 세로무늬가 어른새보다 옅고 방울 모양이다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Skylark (Alauda arvensis), adult (sexes alike, same plumage all year), as seen on Korean lowland farmland: crown warm brown with dark streaks, raised into a short rounded crest; buff-white supercilium and pale eye-ring; cheeks brown with a darker rim; upperparts warm brown to rufous-brown, heavily streaked blackish; lesser and median coverts rufous-toned; breast buff with fine dark streaks ending fairly sharply; belly and flanks whitish; tail dark brown with white outer feathers; bill stout, pointed, horn-brown with a darker ridge; dark eye; pinkish-brown legs with a long, straight hind claw.",
@@ -94,10 +98,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Sky-Lark",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·번식기·암수 구별"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – Alauda arvensis",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Alauda arvensis",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Alauda arvensis(경기도 1910년 5월 20일 둥지와 알, 4월 구애 비행)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "白木 외(2022) 北海道の山岳地域における繁殖期のヒバリの生息状況, Strix 38 – ヒバリ",
+      "url": "https://www.wbsj.org/nature/public/strix/38/strix38_03.pdf",
+      "used": "번식기"
+    },
+    {
+      "title": "Animal Diversity Web – Alauda arvensis",
+      "url": "https://animaldiversity.org/accounts/Alauda_arvensis/",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "머리·등·작은/가운데날개덮깃이 '무늬 없는' 적갈색이라는 서술은 확인 필요(points·art 에서 '무늬 없음'은 뺐다)"
+    "머리·등·작은/가운데날개덮깃이 '무늬 없는' 적갈색이라는 서술은 확인 필요(points·art 에서 '무늬 없음'은 뺐다)",
+    "번식기(4~7월): 국내 자료는 Austin(1948)의 알 기록(5월 20일)과 구애 비행(4월 11일)뿐이고, 영국(4월 하순~7월)·홋카이도 평지(4~8월) 자료로 보완했다. 국내 번식 기간과 8월 포함 여부 확인 필요"
   ],
   "occurrence": {
     "code": "W4, R5",

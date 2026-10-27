@@ -5,13 +5,20 @@
   "author": "Linnaeus, 1758",
   "en": "Western Cattle Egret",
   "ktsn": 120000001539,
-  "origin": "nibr",
   "length": "약 50cm",
   "status": "여름철새, 해마다 수천 마리",
   "habitat": "논, 논둑, 수로, 밭, 하천가, 초지, 목초지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       4,
       5,
@@ -19,7 +26,7 @@
       7,
       8
     ],
-    "note": "번식기는 4~8월이다."
+    "note": "4월에 와서 10월에 떠나며(3월 말·11월과 겨울에도 드물게 기록), 번식기는 4~8월이다."
   },
   "summary": "전국에 찾아와 번식하는 흔한 여름철새로, 논, 논둑, 수로, 밭, 하천가, 초지, 목초지에서 산다. 다른 백로과 새들과 함께 집단번식지에서 번식한다. 다른 백로류보다 무리를 이루는 일이 잦고, 메뚜기, 개구리, 미꾸라지 따위를 주로 잡는다. 세계적으로는 모든 대륙의 열대에서 온대까지 분포한다.",
   "points": [
@@ -48,8 +55,13 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새 겨울깃처럼 온몸이 흰색이고 주황색 장식깃이 없으며, 다리는 검은빛을 띤다.",
+  "similar": [
+    {
+      "ko": "쇠백로",
+      "how": "쇠백로는 부리가 가늘고 길며 검은색이고 발이 노랗지만, 황로는 부리와 목이 짧고 굵으며 겨울에도 부리가 노랗다."
+    }
+  ],
   "art": {
     "subject": "Eastern Cattle Egret (Bubulcus ibis coromandus, the form breeding in Korea), adult in breeding plumage, May to August: whole head, neck and upper breast washed rich golden orange-buff, the colour extending well down the neck; loose orange-buff plumes on the crown, lower foreneck and back, the back plumes lying over the folded wings; rest of the body, wings and tail pure white. Bill short and stout, yellow to orange-yellow (deep orange only briefly in early courtship), with the feathering reaching far forward under the lower mandible. Iris yellow; lores yellowish. Legs and feet dark greyish-black with a greenish tinge.",
     "pose": "walking through a paddy field in a loose flock, catching grasshoppers",
@@ -88,6 +100,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 황로",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 황로",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/cattle-egret/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 황로",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Ardea%20coromanda",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(국립생태원·국립중앙과학관 조사 자료 포함) – 황로",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480830",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 황로",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 황로",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023000",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

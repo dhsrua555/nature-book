@@ -5,16 +5,18 @@
   "author": "Swinhoe, 1861",
   "en": "Swinhoe's Minivet",
   "ktsn": 120000522668,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "18–19cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2022년 5월 제주 마라도, 2025년 5월 군산 옥도면의 섬 등 봄철 서해와 남해의 섬에서 드물게 기록된 길잃은새다. 중국 중부와 남부에서 번식하고 인도차이나와 중국 남서부에서 겨울을 난다. 이동 시기에는 주로 바닷가 섬에서 한두 마리씩 보인다.",
   "points": [
     {
       "ko": "눈 뒤로 이어지는 흰 이마(수컷)",
@@ -38,11 +40,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "이마와 앞머리가 희고 흰색이 눈 뒤까지 이어지며, 굵은 검은 눈선이 있다. 뒷머리에서 등까지는 갈색 기가 도는 회색이다.",
+    "female": "수컷보다 연한 회갈색이고 이마의 흰색이 좁아, 눈 뒤로는 거의 이어지지 않는다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "할미새사촌",
+      "how": "뒷머리와 뒷목이 검고 이마의 흰색이 눈 위에서 끝나며, 허리가 회색이고 아랫면이 깨끗한 흰색이다."
+    }
+  ],
   "art": {
     "subject": "Swinhoe's Minivet (Pericrocotus cantonensis), adult male: forehead and forecrown white, the white reaching back to just over the eye; lores and a stripe through the eye black; rear crown, nape, mantle and back brownish-grey; rump and uppertail coverts paler buffy-brown; wings blackish with a pale buffy-white patch at the base of the flight feathers visible on the folded wing; underparts whitish, with a buff-grey wash on the breast sides and flanks; tail long, black in the centre with white outer feathers. Bill and legs black.",
     "pose": "perched upright on an outer twig in a treetop, side view",
@@ -86,11 +94,42 @@
       "title": "Shanghai Birding (C. Brelsford): Swinhoe's Minivet",
       "url": "https://www.shanghaibirding.com/birds-of-china/swinhoes-minivet/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 갈색할미새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2486817&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록 – 갈색할미새사촌(2025년 5월 군산 옥도면)",
+      "url": "https://www.inaturalist.org/observations/345139503",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – Minivet de Swinhoe(갈색할미새사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/minivet.de.swinhoe.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Minivet cendré(할미새사촌)",
+      "url": "https://www.oiseaux.net/oiseaux/minivet.cendre.html",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Baker, The Fauna of British India – Birds 2권(1924) – 갈색할미새사촌(Swinhoe's Minivet)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Wikipedia(영어) – Swinhoe's minivet",
+      "url": "https://en.wikipedia.org/wiki/Swinhoe%27s_minivet",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별은 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "어린새: 홍콩조류학회 한 곳(첫겨울 깃은 어른 암컷과 비슷하나 더 흐리고 머리 무늬가 약하며 옆구리에 흐린 가로무늬)만 확인해 두 번째 자료 필요"
   ],
   "occurrence": {
     "code": "V2",

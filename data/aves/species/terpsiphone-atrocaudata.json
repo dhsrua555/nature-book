@@ -5,16 +5,26 @@
   "author": "Eyton, 1839",
   "en": "Black Paradise Flycatcher",
   "ktsn": 120000001951,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "수컷 약 45cm, 암컷 약 18cm",
   "status": "여름철새, 해마다 수천 마리",
   "habitat": "활엽수림",
   "protect": [
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5월 초~하순에 와서 9월까지 머물고, 4월 하순과 10월 초에도 드물게 보인다."
   },
   "summary": "전국에 분포하는 여름철새로, 해마다 수천 마리가 찾아오며 제주도와 남부 지역에 많은 수가 산다. 활엽수림을 좋아하며 큰 나무에 컵 모양 둥지를 짓는다. 과거에는 삼광조라고도 불렸다. 개발과 기온 변화로 서식지가 훼손되고 있다.",
   "points": [
@@ -32,11 +42,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 댕기, 멱, 윗가슴이 자줏빛 광택이 도는 검은색이고 등은 자줏빛 밤색, 꼬리는 검다. 번식기에는 가운데 꼬리깃 두 개가 나머지 꼬리보다 최대 25cm쯤 더 길게 늘어나며, 넓은 눈테와 부리가 코발트빛 파란색이다.",
+    "female": "수컷보다 작고 꼬리깃이 늘어나지 않는다. 머리와 가슴은 광택이 적은 자줏빛 검은색, 등은 붉은 갈색, 꼬리는 갈색이며 허리가 적갈색으로 보이기도 한다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른 암컷과 비슷하나 머리에 광택이 없고 눈테가 가늘며 청회색이고, 부리는 회색에 기부가 옅다. 어린 수컷은 등이 암컷보다 짙은 밤색이다.",
+  "similar": [
+    {
+      "ko": "북방긴꼬리딱새",
+      "how": "북방긴꼬리딱새는 머리가 광택 있는 검은색이고 회색 가슴이 배 쪽으로 흐릿하게 이어지며 등과 꼬리가 밝은 적갈색이지만, 긴꼬리딱새는 수컷의 등이 자줏빛 밤색이고 꼬리가 검으며 암컷과 어린새도 가슴과 흰 배의 경계가 뚜렷하다."
+    }
+  ],
   "art": {
     "subject": "Black Paradise Flycatcher (Terpsiphone atrocaudata), adult male in breeding plumage (May–August): head, short bushy crest and throat glossy blue-black with a purple sheen; a broad bare cobalt-blue eye-ring; back, scapulars and wing coverts dark purplish-maroon; flight feathers blackish; black tail with the two central feathers extended into very long, narrow black streamers; the black throat shades through dark slate-grey on the breast into a clean white belly and white undertail coverts; broad, flat, bright cobalt-blue bill; dark eye; short dark legs.",
     "pose": "perched on a branch of a large tree near a cup-shaped nest",
@@ -76,6 +92,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 긴꼬리딱새(Japanese Paradise Flycatcher)",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/033100",
+      "used": "몸길이·암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 북방긴꼬리딱새",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/033000",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "코토뱅크(世界大百科事典·日本大百科全書) – 긴꼬리딱새(サンコウチョウ)",
+      "url": "https://kotobank.jp/word/%E3%82%B5%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "일본어 위키백과 – 긴꼬리딱새(サンコウチョウ)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1879) Catalogue of the Birds in the British Museum 4권 – 긴꼬리딱새(Terpsiphone princeps)",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 긴꼬리딱새",
+      "url": "https://encykorea.aks.ac.kr/Article/E0075077",
+      "used": "번식기"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – 긴꼬리딱새",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "번식기"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 긴꼬리딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Terpsiphone%20atrocaudata",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 제주의 여름 탐조(2025)",
+      "url": "https://www.birdskoreablog.org/?p=30946",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 6월 새 소식 – 긴꼬리딱새·북방긴꼬리딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-06.shtml",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

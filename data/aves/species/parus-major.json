@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1758",
   "en": "Great Tit",
   "ktsn": 120000001975,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–14cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "숲, 공원과 정원, 과수원",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건이 안 되는 길잃은새다. 유럽에서 중동과 중앙아시아를 거쳐 시베리아 동부까지 번식하며, 숲과 공원, 정원, 과수원 등에 산다. 나무 구멍이나 벽 틈에 이끼와 털로 둥지를 틀고, 번식기에는 곤충, 특히 나방 애벌레를 주로 먹으며 그 밖의 때에는 씨앗과 열매도 먹는다.",
   "points": [
     {
       "ko": "검은 머리와 큰 흰 뺨",
@@ -34,10 +33,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "배 가운데의 검은 세로줄이 굵고 다리 사이에서 넓게 퍼지며, 머리와 멱의 검은색에 푸른 광택이 강하다.",
+    "female": "검은 세로줄이 가늘고 덜 짙으며, 머리와 멱의 검은색에 광택이 적고 전체 색이 조금 흐리다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리와 멱의 검은색이 광택 없이 칙칙하고 뺨이 노르스름하며, 등도 칙칙한 갈색 기가 돈다. 배의 검은 세로줄은 가늘거나 거의 없고 아랫면은 흐린 노란색이다.",
   "similar": [],
   "art": {
     "subject": "Great Tit (Parus major), adult male of the yellow-bellied form, in winter: glossy blue-black cap; large white cheek patches; a small white nape spot; black bib continuing as a broad black stripe down the centre of the breast and belly, widening between the legs; the rest of the underparts bright yellow; mantle olive-green; rump grey; wings blue-grey with one white wing-bar and white edges to the tertials; tail blue-grey with white outer feathers. Bill black, short and pointed; dark eye; legs blue-grey.",
@@ -93,11 +93,33 @@
       "title": "Birds Korea Blog (N. Moores, 2012) — Is this a really, really Great Tit?",
       "url": "https://birdskoreablog.org/?p=6448",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Great Tit",
+      "url": "https://www.oiseaux.net/birds/great.tit.html",
+      "used": "몸길이·사는 곳·해설"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – Parus major",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Parus major",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Great Titmouse",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·어린새·암수 구별"
     }
   ],
   "todo": [
-    "원문은 아랫면이 흰색이고 전국에 사는 텃새라 하여 국명 '노랑배박새'와 맞지 않음. 박새 설명으로 보여 모든 값을 TODO 로 둠",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 원문(아랫면 흰색, 전국 텃새)은 박새 설명으로 보여 쓰지 않고 국외 종 설명으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록의 날짜·장소를 확인하지 못했다(iNaturalist·GBIF의 eBird 한국 기록 0건). Birds Korea 목록 V2 의 근거 기록과 한국에 온 아종(kapustini 등) 확인 필요",
+    "사는 곳은 국내 기록 장소를 몰라 이 종이 일반적으로 사는 환경으로 적었다"
   ],
   "occurrence": {
     "code": "V2",

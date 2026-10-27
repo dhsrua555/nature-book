@@ -5,8 +5,7 @@
   "author": "Horsfield, 1821",
   "en": "Chinese Sparrowhawk",
   "ktsn": 120000001602,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "25–35cm",
   "status": "나그네새 수천 마리 · 여름철새 수백 마리",
   "habitat": "평지, 농가와 인가 주변의 숲",
   "protect": [
@@ -14,8 +13,15 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": "TODO",
+    "note": "4월 말에 일찍 도착하거나 10월까지 남는 개체도 드물게 있다."
   },
   "summary": "여름철새로, 평지나 농가, 인가 주변의 숲에 산다. 먹이가 되는 개구리 등이 줄어들면서 개체 수가 영향을 받고 있다.",
   "points": [
@@ -33,11 +39,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "윗면이 청회색이고 가슴이 옅은 분홍빛 주황색으로 무늬가 거의 없으며, 홍채가 검붉다.",
+    "female": "수컷보다 조금 크고 윗면이 더 갈색을 띠며, 가슴과 배가 더 짙은 주황빛 갈색에 가로무늬가 있고 홍채가 노랗다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면이 짙은 갈색에 옅은 깃 가장자리가 있고 얼굴이 회색이며, 흰 아랫면의 가슴에는 적갈색 세로무늬, 옆구리와 다리깃에는 가로무늬가 있다. 어른새와 달리 날개 끝의 검은색이 뚜렷하지 않다.",
+  "similar": [
+    {
+      "ko": "조롱이",
+      "how": "붉은배새매는 날개가 가늘고 뾰족하며, 날 때 날개 아랫면이 거의 무늬 없이 희고 날개 끝만 검다."
+    }
+  ],
   "art": {
     "subject": "Chinese Sparrowhawk (Accipiter soloensis), adult male, as seen in Korean lowland countryside from May to September: crown, nape, back and upperwings blue-grey, the head slightly darker; cheeks pale grey; throat whitish; breast and upper flanks plain pale orange-pink, unbarred or with only faint wavy bars, fading into a white lower belly, thighs and undertail coverts. Tail grey with faint narrow darker bars. Underwing almost unmarked whitish to pale buff, with sharply black tips to the outer primaries. Iris very dark red-brown; cere conspicuously swollen and orange; bill short, grey at the base and black at the tip; legs orange-yellow.",
     "pose": "perched on a branch at a woodland edge, watching for frogs",
@@ -78,9 +90,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Chinese Sparrowhawk(붉은배새매)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025300",
+      "used": "몸길이, 어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Japanese Sparrowhawk(조롱이)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025400",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Chinese Sparrowhawk(붉은배새매)",
+      "url": "https://singaporebirds.com/species/chinese-sparrowhawk/",
+      "used": "몸길이, 어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "위키백과 영어판 – Chinese sparrowhawk(붉은배새매)",
+      "url": "https://en.wikipedia.org/wiki/Chinese_sparrowhawk",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – アカハラダカ(붉은배새매)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%8F%E3%83%A9%E3%83%80%E3%82%AB",
+      "used": "암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은배새매",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=tachyspiza%20soloensis",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "months.breed: 국내 산란·이소 시기를 두 자료에서 확인하지 못해 비워 둠(국내 연구는 6~7월 번식 세력권 관찰만, 한국환경생태학회지 26(2) 2012)"
+  ],
   "occurrence": {
     "code": "P3, S4",
     "bs": "1",

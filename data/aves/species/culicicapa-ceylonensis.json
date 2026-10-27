@@ -5,16 +5,15 @@
   "author": "Swainson, 1820",
   "en": "Grey-headed Canary-flycatcher",
   "ktsn": 120000230694,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "12–13cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "숲과 숲 가장자리",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 지금까지 기록이 10건이 안 되는 길잃은새다. 히말라야에서 중국 남부와 인도차이나, 인도, 순다 열도에 걸쳐 살며, 북쪽 번식 집단은 겨울에 남쪽으로 옮겨 간다. 숲속 횃대에 곧추앉아 있다가 날아올라 날벌레를 잡고, 이끼와 지의류로 반원뿔 모양의 둥지를 지어 이끼 낀 나무줄기나 바위에 붙인다.",
   "points": [
     {
       "ko": "크고 모난 잿빛 머리",
@@ -34,8 +33,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -84,11 +83,29 @@
       "title": "Wikipedia — Grey-headed canary-flycatcher (Clement, HBW Alive 인용)",
       "url": "https://en.wikipedia.org/wiki/Grey-headed_canary-flycatcher",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Grey-headed Canary-flycatcher",
+      "url": "https://www.oiseaux.net/birds/grey-headed.canary-flycatcher.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – Culicicapa ceylonensis",
+      "url": "https://archive.org/details/BakerFbiBirds2",
+      "used": "사는 곳·해설·암수 구별"
+    },
+    {
+      "title": "Sharpe (1879) Catalogue of the Birds in the British Museum 4권 – Culicicapa ceylonensis",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별은 국외 종 설명(홍콩조류학회, Baker 1924 등)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록의 날짜·장소를 확인하지 못했다(iNaturalist·GBIF의 eBird 한국 기록 0건, Birds Korea 2002–2015 소식에도 없음)",
+    "어린새: Baker(1924)에 '아직 기재되지 않음'으로 되어 있고 다른 자료에서도 확인하지 못했다",
+    "사는 곳은 국내 기록 장소를 몰라 이 종이 일반적으로 사는 환경(홍콩·인도 자료)으로 적었다"
   ],
   "occurrence": {
     "code": "V2",

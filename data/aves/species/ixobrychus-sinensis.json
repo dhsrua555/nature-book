@@ -5,20 +5,26 @@
   "author": "Gmelin, 1789",
   "en": "Yellow Bittern",
   "ktsn": 120000001524,
-  "origin": "nibr",
   "length": "37cm",
   "status": "여름철새, 해마다 수백 마리",
   "habitat": "갈대밭, 물가의 풀숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       5,
       6,
       7,
       8
     ],
-    "note": "산란기는 5월 하순~8월 상순이다."
+    "note": "5월에 와서 10월까지 머물며, 알은 5월 하순~8월 상순에 낳는다."
   },
   "summary": "우리나라에서 드물게 번식하는 여름철새로, 갈대밭이나 물가 풀숲에서 홀로 또는 암수가 함께 지낸다. 물가 풀숲이나 관목림의 갈대, 줄풀 줄기 사이에 접시 모양 둥지를 틀고, 알 5~6개를 낳아 17~19일 동안 품는다. 물고기를 주로 먹고 개구리와 새우 같은 갑각류도 먹는다. 온대에서 열대에 걸쳐 번식하며 한국과 유라시아 대륙 동남부에 분포한다.",
   "points": [
@@ -52,8 +58,13 @@
     "male": "이마에서 뒷머리까지 검은색이다.",
     "female": "이마에서 뒷머리까지 적갈색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른 암컷과 비슷하나 머리꼭대기가 검지 않고 머리·목·등·날개덮깃에 짙은 갈색 세로줄무늬가 많으며, 아랫면의 세로줄무늬도 더 진하다.",
+  "similar": [
+    {
+      "ko": "큰덤불해오라기",
+      "how": "큰덤불해오라기 수컷은 등이 어두운 밤색이고 날개의 검은색과 담황색 대비가 약하지만, 덤불해오라기는 등이 옅은 황갈색이고 날 때 담황색 날개덮깃과 검은 날개깃이 뚜렷이 대비된다."
+    }
+  ],
   "art": {
     "subject": "Yellow Bittern (Ixobrychus sinensis), adult male in summer, as seen in Korean reed beds from May to August: crown black from the forehead to the nape; face, ear coverts and neck sides pale rufous-buff; chin and sides of the throat white; foreneck and underparts buffy-white with faint buff stripes; mantle and back warm brown; wing coverts pale yellowish-buff, contrasting with blackish flight feathers; tail black. Bill long and dagger-shaped, yellow with a dark upper ridge; bare lores yellow-green; iris yellow; legs and feet pale greenish-yellow.",
     "pose": "clinging to reed stems above the water, side view",
@@ -91,6 +102,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 덤불해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022100",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 덤불해오라기",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 덤불해오라기",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 덤불해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/yellow-bittern/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 덤불해오라기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Botaurus%20sinensis",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – 덤불해오라기",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 덤불해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022200",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

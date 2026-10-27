@@ -5,16 +5,26 @@
   "author": "Swinhoe, 1870",
   "en": "Yellow-bellied Tit",
   "ktsn": 120000528892,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "10–11cm",
   "status": "나그네새 수백 마리 · 겨울철새 수백 마리 · 여름철새 수십 마리",
-  "habitat": "TODO",
+  "habitat": "숲, 공원과 마을 주변의 나무숲, 섬의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "10월에 가장 많이 들어와 이듬해 4~5월까지 머물며, 여름(6~8월)에도 소수가 남아 번식하지만 관찰은 드물다."
   },
-  "summary": "TODO",
+  "summary": "봄·가을 이동기와 겨울에 수백 마리가 찾아오고 여름에도 수십 마리가 남아 번식하는 작은 박새류로, 서해의 섬과 남부 지역, 도시 공원의 숲에서 주로 보인다. 국내에서는 2005년 10월 소청도 기록이 첫 확인 기록이며, 2012년 가을에는 부산과 가거도, 제주 등 여러 곳에 무리가 들어왔다. 주로 중국 중부·동부의 산지 숲에서 번식하고, 겨울에는 해안 쪽으로 무리 지어 몰려 내려오기도 한다. 진박새 등 다른 박새류와 섞여 다니며, 씨앗을 발로 붙잡고 부리로 쪼아 먹는다.",
   "points": [
     {
       "ko": "검은 머리와 턱받이(수컷)",
@@ -87,11 +97,45 @@
       "title": "위키백과: 노랑배진박새",
       "url": "https://ko.wikipedia.org/wiki/노랑배진박새",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – Yellow-bellied Tit",
+      "url": "https://www.oiseaux.net/birds/yellow-bellied.tit.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – Parus venustulus",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 희귀종 보고 – Yellow-bellied Tit(소청도·군산, 2005년 10~11월)",
+      "url": "https://www.birdskorea.org/Birds/Significant_Records/Rarity_Reports/BK-RR-Yellow-bellied-Tit-2005-10.shtml",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 2월 – Yellow-bellied Tit(송도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-02.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "Birds Korea 블로그 – A Winter to Remember(2012년 가을 노랑배진박새 대량 도래)",
+      "url": "https://www.birdskoreablog.org/?p=7495",
+      "used": "해설"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird 등) Pardaliparus venustulus",
+      "url": "https://www.gbif.org/occurrence/search?taxon_key=2487872&country=KR",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기는 국내외 기록과 종 설명으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "번식기(months.breed): Birds Korea 목록은 2000년 이후 번식 확인으로 두나 국내 번식 기록(날짜·장소)과 번식기를 확인하지 못했다",
+    "암수 구별: 홍콩조류학회 자료(암컷은 검은 부분이 짙은 올리브색, 멱이 흼)뿐이라 교차 확인하지 못했다",
+    "어린새: Birds Korea 2005년 보고에 첫해 수컷(턱받이 없이 뺨선 쪽에 검은 얼룩, 정수리에 녹회색이 섞임) 관찰 기재가 있으나 다른 자료로 확인하지 못했다",
+    "관찰 시기: eBird 에 1996년 10월 기록이 있어 '2005년 첫 기록'과 어긋남(확인 필요). 9월은 2019–2023년 해마다 몇 건씩 기록되어 넣었다"
   ],
   "occurrence": {
     "code": "P4, W4, S5",

@@ -5,14 +5,19 @@
   "author": "Linnaeus, 1766",
   "en": "Sooty Tern",
   "ktsn": 120000528816,
-  "origin": "nibr",
   "length": "약 40cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "해안, 바다의 섬",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [],
+    "note": "6월 중순~9월 초에 기록되었고 죽거나 지친 채 발견된 개체가 많으며, 국내에서 기록된 달이다."
   },
   "summary": "한반도에서는 해마다 10건 미만으로 기록되는 길잃은새다. 해안이나 바다의 섬에서 살며, 모래 위 오목한 자리에 적갈색 얼룩이 있는 흰 알을 1개 낳는다. 우리나라를 비롯해 말레이시아, 타이완, 일본 등지에 분포한다.",
   "points": [
@@ -34,11 +39,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 온몸이 검은 갈색이고 등과 날개덮깃의 깃 끝에 흰 점이 줄지어 있으며, 가슴까지 어둡고 배 아래쪽만 희끄무레하다.",
+  "similar": [
+    {
+      "ko": "에위니아제비갈매기",
+      "how": "검은등제비갈매기는 조금 더 크고 윗면이 더 검고 고르며, 이마의 흰 무늬가 눈 뒤로 이어지지 않는다."
+    }
+  ],
   "art": {
     "subject": "Sooty Tern (Onychoprion fuscatus), adult, as seen on Korean offshore islands: black crown and nape continuous with the blackish-brown back, upperwings and tail; broad white forehead patch reaching back only to the eye; black line from the bill to the eye; cheeks, throat and underparts white; outer tail streamers edged white; bill long, slender and black; dark eye; legs short and black.",
     "pose": "standing on sand, side view",
@@ -77,6 +87,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2002년 조류 기록 정리 – 검은등제비갈매기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2002.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 검은등제비갈매기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 검은등제비갈매기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – 검은등제비갈매기 한국 기록(2020-07-28 시료 등)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5789284",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 검은등제비갈매기",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Sooty Tern",
+      "url": "https://www.audubon.org/field-guide/bird/sooty-tern",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 검은등제비갈매기",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018400",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "New Zealand Birds Online – Sooty tern",
+      "url": "https://www.nzbirdsonline.org.nz/species/sooty-tern",
+      "used": "어린새"
+    },
+    {
+      "title": "New Zealand Birds Online – Bridled tern",
+      "url": "https://www.nzbirdsonline.org.nz/species/bridled-tern",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

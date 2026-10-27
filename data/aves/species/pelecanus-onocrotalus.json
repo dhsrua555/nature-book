@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1758",
   "en": "Great White Pelican",
   "ktsn": 120000001556,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "148–175cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
-  "habitat": "TODO",
+  "habitat": "큰 호수와 늪, 강 하구와 석호의 얕은 물",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "국내에서는 1978년 제주 가파도에서 채집된 표본 1점이 이 종으로 확인되었을 뿐, 2000년 이후에는 확인된 기록이 없는 길잃은새다. 얕은 물에서 여러 마리가 반원을 이루어 물고기를 몰고, 아랫부리의 큰 주머니로 떠서 먹는다. 유럽 남동부에서 중앙아시아에 걸친 큰 호수와 늪에서 무리 지어 번식하며, 아프리카와 인도 북서부 등지에서 겨울을 난다.",
   "points": [
     {
       "ko": "노르스름한 큰 부리와 목주머니",
@@ -34,11 +33,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 깃 색은 같고, 수컷이 암컷보다 훨씬 크며 부리도 길다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 머리와 목에 칙칙한 갈색 기가 돌고 등과 날개덮깃은 가장자리가 옅은 갈색이며, 아랫면은 때 묻은 듯한 흰색이다.",
+  "similar": [
+    {
+      "ko": "사다새",
+      "how": "사다새는 몸이 은빛 도는 회백색이고 뒷머리 깃이 곱슬곱슬하며 다리가 납빛 회색이지만, 큰사다새는 몸이 희거나 분홍빛을 띠고 다리가 분홍색이며 날 때 날개 아랫면의 검은 날개깃이 흰 덮깃과 뚜렷이 대비된다."
+    }
+  ],
   "art": {
     "subject": "Great White Pelican (Pelecanus onocrotalus), adult outside the breeding season, on a Korean coastal lagoon: body and wing coverts white, sometimes faintly tinged pink; a short shaggy crest on the nape; at rest the black primaries and blackish secondaries show as a dark edge along the folded wing; bare facial skin around the eye pinkish-yellow, the feathered forehead ending in a point at the bill base; bill very long, bluish-grey with pinkish edges and a reddish hooked nail at the tip; pouch yellow; legs and feet pink.",
     "pose": "swimming on open water with the neck upright, side view",
@@ -82,11 +86,46 @@
       "title": "Naturalis Biodiversity Center, Birds of Europe – Pelecanus onocrotalus",
       "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130366",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Great White Pelican(큰사다새)",
+      "url": "https://www.oiseaux.net/birds/great.white.pelican.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – Pelecanus onocrotalus",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "사는 곳·해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Pelecanus onocrotalus·P. crispus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "사는 곳·해설·어린새·비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Pelecanus onocrotalus",
+      "url": "https://animaldiversity.org/accounts/Pelecanus_onocrotalus/",
+      "used": "사는 곳·어린새·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Dalmatian Pelican(1978년 가파도 표본은 큰사다새)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰 – Dalmatian Pelican / Great White Pelican",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Dalmatian Pelican",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023800",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "관찰 시기: 국내 기록은 1978년 가파도 채집 표본(채집 달 미상)뿐이고, 2007년 6월 26일 인천 영종대교 아래에서 차 안에서 본 사다새류 4마리는 종과 출처가 확인되지 않아(Birds Korea 2007) 비워 두었다"
   ],
   "occurrence": {
     "code": "V2",

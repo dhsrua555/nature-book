@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Eagle-Owl",
   "ktsn": 120000001859,
-  "origin": "nibr",
   "length": "약 70cm",
   "status": "텃새, 해마다 수천 마리",
   "habitat": "개활지·물가에 인접한 암벽 지대, 바위산",
@@ -28,7 +27,14 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "note": "알은 주로 1~3월에 낳고, 새끼는 부화한 뒤 7~8주 무렵 둥지를 떠난다."
   },
   "summary": "숲으로만 이루어진 산보다 개활지나 물가에 닿은 암벽 지대와 바위산에 주로 사는, 올빼미과에서 몸이 가장 큰 새이다. 무리 짓지 않고 홀로 지내며, 밤에 활동하지만 낮에도 움직인다. 둥지를 짓지 않고 암벽의 선반 같은 곳이나 평평한 바위, 바위틈에 흰 알을 2~3개 낳으며, 암컷이 알을 품는 동안 수컷이 먹이를 날라 준다. 쥐, 두더지, 토끼, 개구리, 뱀, 비둘기, 꿩 따위를 먹고, 전국에 살며 국외에서는 구북구 전역과 북아프리카에 분포한다.",
   "points": [
@@ -54,10 +60,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 수컷보다 크다."
   },
-  "young": "TODO",
+  "young": "둥지를 떠날 무렵의 어린새는 솜털처럼 부드러운 깃으로 덮여 있고, 온몸이 칙칙한 황갈색 바탕에 갈색 가로무늬가 촘촘하다. 첫겨울에는 어른새와 같아진다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Eagle-Owl (Bubo bubo), adult as seen in Korea year-round: long, broad ear tufts angled outwards; facial disc tawny-buff, finely barred, with a dark rim; whitish throat patch; crown, hindneck, back and wing coverts tawny-buff with heavy black and dark brown streaks and mottling; breast tawny-buff with broad black streaks that become narrower down the belly, crossed by fine dark wavy bars; legs and toes thickly feathered pale brown. Bill black and hooked; large orange-yellow eyes; claws black.",
@@ -97,9 +103,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – The Eagle-Owl",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "위키백과 영어판 – Eurasian eagle-owl(수리부엉이)",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_eagle-owl",
+      "used": "어린새"
+    },
+    {
+      "title": "신동만·백운기(2008) 수리부엉이(Bubo bubo)의 번식생태 및 교미행동에 관한 연구, 한국환경생태학회지 22(1): 59–65",
+      "url": "https://koreascience.kr/article/JAKO200817154059482.page",
+      "used": "번식기"
+    },
+    {
+      "title": "헤럴드경제(2026-04-01) – 울주군 암벽 수리부엉이 번식(1월 4일 포란, 2월 28일 부화)",
+      "url": "https://www.heraldk.com/article/2026040117041742696",
+      "used": "번식기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Bubo bubo tenuipes(1917년 4월 서울 부근 솜털 새끼, 경기·전남 둥지)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eurasian Eagle-Owl(수리부엉이)",
+      "url": "https://avifauna.hkbws.org.hk/species/0190/027300",
+      "used": "번식기"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Eagle Owl (Bubo bubo)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130726",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Bubo bubo",
+      "url": "https://animaldiversity.org/accounts/Bubo_bubo/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 일본어판 – ワシミミズク(수리부엉이)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF",
+      "used": "암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "번식기: 국내 산란·이소 달을 적은 학술 자료를 찾지 못해 울산 관찰 보도(1월 포란·2월 말 부화), Austin(1948)의 4월 솜털 새끼, 신동만·백운기(2008)의 '부화 뒤 7~8주에 둥지를 떠남'으로 정함 — 국내 문헌 확인 필요"
+  ],
   "occurrence": {
     "code": "R3",
     "bs": "1",

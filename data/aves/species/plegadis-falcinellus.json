@@ -5,16 +5,20 @@
   "author": "Linnaeus, 1766",
   "en": "Glossy Ibis",
   "ktsn": 120000230687,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "48–66cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "논, 얕은 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      6
+    ],
+    "breed": [],
+    "note": "2018년 4월, 2021년 5~6월, 2025년 5월에 기록되었다. 국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2018년 이후 봄(4~6월)에 제주, 울산, 경남 고성 등지의 논에서 몇 차례 기록된 길잃은새다. 얕은 물이나 젖은 땅에서 아래로 굽은 긴 부리로 진흙 속을 더듬어 곤충, 개구리, 작은 물고기, 고둥 따위를 잡는다. 남유럽과 아프리카, 중앙아시아·남아시아, 오스트레일리아, 아메리카 남동부 등지에 띄엄띄엄 분포한다.",
   "points": [
     {
       "ko": "아래로 고르게 굽은 긴 부리",
@@ -34,10 +38,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새 겨울깃과 비슷하나 광택이 약하고, 머리와 목이 칙칙한 갈색이며 이마와 멱 둘레에 흰 무늬가 섞인다.",
   "similar": [],
   "art": {
     "subject": "Glossy Ibis (Plegadis falcinellus), adult in breeding plumage, as seen in spring: head, neck, breast, belly and upper back deep chestnut-maroon; wings, scapulars and tail dark with a strong metallic green and purple gloss; bare lores dark, bordered by thin pale blue-white lines running from the bill base above and below the eye. Bill long, decurved, olive-brown to dark horn; iris dark brown; legs and feet dark olive-brown.",
@@ -92,10 +96,35 @@
       "title": "Wikipedia – Glossy ibis",
       "url": "https://en.wikipedia.org/wiki/Glossy_ibis",
       "used": "얼굴 선·몸 색(보조 확인)"
+    },
+    {
+      "title": "New Zealand Birds Online – Glossy ibis",
+      "url": "https://www.nzbirdsonline.org.nz/species/glossy-ibis",
+      "used": "몸길이, 사는 곳"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Glossy Ibis",
+      "url": "http://www.oiseaux-birds.com/card-glossy-ibis.html",
+      "used": "해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 6 (1929) – Plegadis falcinellus",
+      "url": "https://archive.org/details/BakerFbiBirds6",
+      "used": "어린새"
+    },
+    {
+      "title": "위키트리(2025-05-16, 오마이뉴스·국가철새연구센터 인용) – 고성에 나타난 적갈색따오기",
+      "url": "https://www.wikitree.co.kr/articles/1049523",
+      "used": "관찰 시기, 사는 곳, 해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 적갈색따오기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480773&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·해설·생김새는 국내외 종 설명(출처 목록)으로 채웠다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

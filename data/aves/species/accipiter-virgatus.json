@@ -5,16 +5,18 @@
   "author": "Temminck, 1822",
   "en": "Besra",
   "ktsn": 120000471472,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "24–36cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 기록이 10건이 안 되는 길잃은새로, 2022년 5월 제주 마라도에서 관찰된 기록이 있다. 인도와 히말라야에서 중국 남부, 인도차이나, 필리핀, 순다 열도에 걸쳐 숲에 사는 텃새이며 일부는 철새로 이동한다. 숨어 있던 횃대에서 갑자기 날아올라 작은 새를 주로 덮치고, 도마뱀과 큰 곤충, 작은 포유류도 잡는다.",
   "points": [
     {
       "ko": "흰 멱 가운데의 굵은 검은 세로줄",
@@ -42,11 +44,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "윗면이 짙은 청회색이고 멱 가운데 검은 세로줄이 있으며, 아랫면에 적갈색 가로무늬가 굵고 홍채가 붉다.",
+    "female": "수컷보다 크고 윗면이 더 갈색을 띠며, 가슴에 굵은 검은 세로무늬가 있고 배와 옆구리에 적갈색 가로무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면이 갈색에 담황색 깃 가장자리가 있고, 흰 아랫면의 가슴에 굵은 검은 물방울 모양 세로무늬, 옆구리에 갈색 가로무늬가 있으며 멱 가운데 검은 줄이 굵다.",
+  "similar": [
+    {
+      "ko": "조롱이",
+      "how": "작은새매는 꼬리가 더 길고 꼬리의 검은 띠가 옅은 띠만큼 굵으며, 멱의 검은 세로줄이 더 굵고 앉았을 때 날개 끝이 꼬리 중간에 못 미친다."
+    }
+  ],
   "art": {
     "subject": "Besra (Accipiter virgatus), adult male: crown, nape and upperparts dark slate-grey, the head darkest; throat white with a bold black stripe down its centre; upper breast washed rufous, with only diffuse, narrow greyish shaft streaks; lower breast, belly, flanks and thighs broadly barred rufous-brown and white; undertail coverts white; tail grey-brown crossed by broad dark bars. Bill dark grey, short and hooked; legs and feet yellow, long and slender.",
     "pose": "perched upright on a shaded branch inside the forest, side view",
@@ -102,11 +110,36 @@
       "title": "Wikipedia – Besra",
       "url": "https://en.wikipedia.org/wiki/Besra",
       "used": "동정 포인트·도해 모습(보조 확인)"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Japanese Sparrowhawk(조롱이)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025400",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Besra(작은새매)",
+      "url": "https://singaporebirds.com/species/besra/",
+      "used": "몸길이, 해설, 어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Besra(작은새매)",
+      "url": "https://www.oiseaux.net/birds/besra.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록: 작은새매, 2022-05-21 제주 마라도(관찰자 1)",
+      "url": "https://www.gbif.org/occurrence/4257370398",
+      "used": "관찰 시기, 사는 곳, 해설"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록: 작은새매, 2022-05-21 제주 마라도(관찰자 2)",
+      "url": "https://www.gbif.org/occurrence/4615723804",
+      "used": "관찰 시기, 사는 곳"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 2022년 5월 21일 마라도 eBird 관찰(관찰자 2명) 하나만 확인했다 — 새와 생명의 터 목록(V2)의 근거 기록과 날짜 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

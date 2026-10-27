@@ -5,15 +5,26 @@
   "author": "Linnaeus, 1758",
   "en": "Dunlin",
   "ktsn": 120000001739,
-  "origin": "nibr",
   "length": "17–21cm",
   "status": "나그네새 10만 마리 이상 · 겨울철새 수만 마리 · 여름에도 드물게 기록",
   "habitat": "갯벌, 강 하구, 간척지, 염전",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 중순~6월 중순에 알을 낳는다."
+    "note": "봄(3~5월)과 가을(8~11월)에 많이 지나가고 겨울에도 많이 머물며 6월에는 드물고, 번식지에서는 5월 중순~6월 중순에 알을 낳는다."
   },
   "summary": "국내를 흔히 지나가는 나그네새이며, 일부는 무리를 지어 갯벌과 강 하구에서 겨울을 난다. 갯벌·간척지·염전 등에 찾아오며, 우리나라에서 겨울을 나는 도요새 가운데 가장 대표적인 종이다. 조개, 달팽이, 갑각류, 지렁이, 거미, 곤충을 먹는다. 유라시아와 북아메리카 대륙의 한대에서 번식해 관목이나 풀뿌리 사이 오목한 곳의 접시 모양 둥지에 알 4개를 낳고, 우리나라 서남해 연안과 섬, 일본, 중국에서 겨울을 난다.",
   "points": [
@@ -39,11 +50,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 더 크며 부리가 더 길다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면 깃에 붉은 갈색~담황색 가장자리가 있고, 담황색 가슴에 가는 줄무늬가 있으며, 배와 옆구리에 검은 점무늬가 흩어져 있다(배 한가운데의 큰 검은 반점은 없다).",
+  "similar": [
+    {
+      "ko": "붉은갯도요",
+      "how": "민물도요는 다리가 짧고 부리 끝만 살짝 굽으며 허리 가운데가 검어, 다리가 길고 부리가 고르게 굽었으며 허리가 흰 붉은갯도요와 다르다."
+    }
+  ],
   "art": {
     "subject": "Dunlin (Calidris alpina), adult in winter (non-breeding) plumage, as seen on Korean tidal flats from October to March: plain grey-brown upperparts with fine dark shaft streaks, head and neck grey-brown with a faint whitish supercilium, a soft grey-brown wash and fine streaks across the breast, the rest of the underparts clean white; black bill; dark eye; black legs.",
     "pose": "walking on wet mud at the edge of a dense winter flock, head raised in side view so the whole bill is clearly visible; every bird in the flock is in the same plain grey winter plumage",
@@ -85,6 +101,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 민물도요",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2481759",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 민물도요",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "New Zealand Birds Online – Dunlin",
+      "url": "https://www.nzbirdsonline.org.nz/species/dunlin",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web – Calidris alpina",
+      "url": "https://animaldiversity.org/accounts/Calidris_alpina/",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 민물도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/013300",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

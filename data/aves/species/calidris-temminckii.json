@@ -5,15 +5,20 @@
   "author": "Leisler, 1812",
   "en": "Temminck's Stint",
   "ktsn": 120000001734,
-  "origin": "nibr",
   "length": "약 14cm",
   "status": "나그네새, 해마다 수십 마리",
   "habitat": "하천 부지, 해안의 풀 습지, 간척지, 삼각주",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 6월 상순~7월 상순에 알을 낳는다."
+    "note": "4~5월과 8~10월에 지나가며 9월에 가장 많고 3월이나 한겨울 기록은 드물며, 번식지에서는 6월 상순~7월 상순에 알을 낳는다."
   },
   "summary": "해마다 봄과 가을에 수십 마리가 지나가는 나그네새로, 중부 서해안 바닷가와 한강 같은 물가에서 작은 무리를 볼 수 있다. 하천 부지, 해안의 풀 습지, 간척지, 삼각주 등에 내려앉아 단각류 같은 갑각류, 지렁이, 곤충과 바닷가의 작은 무척추동물을 잡아먹는다. 해안 초원이나 호숫가 풀숲, 바다에서 멀리 떨어진 고원 산지의 오목한 땅에 둥지를 틀고 한배에 알 4개를 낳는다. 구북구 전역에서 번식하고 일본, 쿠릴 열도, 타이완 등에서 겨울을 난다.",
   "points": [
@@ -39,11 +44,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면 깃 가장자리가 따뜻한 담황색이고 그 안쪽에 검은 갈색 띠가 있어 비늘무늬처럼 보이며, 가슴은 잿빛 바탕에 담황색 기가 돈다.",
+  "similar": [
+    {
+      "ko": "종달도요",
+      "how": "흰꼬리좀도요는 윗면이 무늬가 적은 회갈색이고 날 때 바깥 꽁지깃이 희게 보이며, 종달도요는 윗면 깃에 붉은 갈색 가장자리가 뚜렷하고 목이 더 길다."
+    }
+  ],
   "art": {
     "subject": "Temminck's Stint (Calidris temminckii), adult in breeding plumage, as seen on Korean riversides and wet fields in late April and May: crown and nape grey-brown with fine dark streaks; face plain grey-brown with an indistinct pale supercilium; mantle and scapulars mostly plain grey-brown with a scattering of feathers showing black centres and rusty-buff fringes; neck and breast grey-brown washed buff and finely streaked darker, forming a breast band cleanly cut off from the white belly; chin and throat white; undertail white. Bill short, fine and blackish; dark eye; legs dull yellowish-green to yellowish-brown.",
     "pose": "foraging in a small group along a muddy riverbank",
@@ -91,11 +101,44 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 흰꼬리좀도요",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2481740",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 기록 정리 – 흰꼬리좀도요(3월의 이른 기록)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 기록 정리 – 흰꼬리좀도요(첫 한겨울 기록)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 흰꼬리좀도요",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Wikipedia(일본어) – オジロトウネン(山溪ハンディ図鑑7 日本の野鳥 등 인용)",
+      "url": "https://ja.wikipedia.org/wiki/オジロトウネン",
+      "used": "암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 흰꼬리좀도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/012800",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 종달도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/012900",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [
-    "원문은 나그네새라 하면서 월동지에 한국을 넣는다(국내 월동 여부 확인 필요)."
-  ],
+  "todo": [],
   "occurrence": {
     "code": "P5",
     "bs": "0",

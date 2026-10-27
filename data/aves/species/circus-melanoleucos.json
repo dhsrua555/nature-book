@@ -5,8 +5,7 @@
   "author": "Pennant, 1769",
   "en": "Pied Harrier",
   "ktsn": 120000001600,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "43–50cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "강 하류, 갈대밭, 습지",
   "protect": [
@@ -14,8 +13,13 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "4월과 여름에도 드물게 기록된다."
   },
   "summary": "우리나라를 드물게 지나가는 나그네새로, 일부 지역에서 이따금 관찰된다. 강 하류, 갈대밭, 습지에서 지내며 천천히 날아다니면서 먹이를 사냥한다. 여러 개발로 사는 곳이 줄어드는 것이 위협이 되고 있다.",
   "points": [
@@ -45,11 +49,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 가슴, 등이 검고 아랫배는 희며, 은회색 날개에 검은 띠(가운데날개덮깃)와 검은 날개 끝이 있다.",
+    "female": "윗면이 갈색이고 날개 앞쪽 어깨가 희끄무레하며, 회색 날개깃과 꼬리에 가로줄이 있고 가슴에 갈색 세로무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면이 따뜻한 갈색에 깃 가장자리가 옅고, 아랫면과 날개 아랫면 덮깃이 고른 적갈색(계피색)이며 허리가 희다.",
+  "similar": [
+    {
+      "ko": "개구리매",
+      "how": "개구리매 어린새는 얼굴과 가슴에 크림색 무늬가 있으나, 알락개구리매 어린새는 얼굴이 밋밋하고 아랫면이 고른 적갈색이다."
+    }
+  ],
   "art": {
     "subject": "Pied Harrier (Circus melanoleucos), adult male, as seen over Korean river-mouth reedbeds on spring and autumn passage: head, throat, upper breast, mantle and back solid black; on the folded wing a black band across the median coverts bordered by white lesser coverts and pale silvery-grey greater coverts and secondaries; primaries black; lower breast, belly, thighs and undertail white, sharply divided from the black breast; rump white; tail silvery-grey. Short hooked black bill with a yellow cere; yellow iris; long slender yellow legs.",
     "pose": "flying slowly and low over a reed bed, hunting",
@@ -114,6 +124,26 @@
       "title": "Circus melanoleucos - MyBIS Malaysia Biodiversity Information System",
       "url": "https://www.mybis.gov.my/sp/21120",
       "used": "도해 모습(수컷 날개·꼬리 은회색)"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eastern Marsh Harrier(개구리매)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025800",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Pied Harrier(알락개구리매)",
+      "url": "https://singaporebirds.com/species/pied-harrier/",
+      "used": "몸길이, 어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "위키백과 일본어판 – マダラチュウヒ(알락개구리매)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%80%E3%83%A9%E3%83%81%E3%83%A5%E3%82%A6%E3%83%92",
+      "used": "암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 알락개구리매",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5229171&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

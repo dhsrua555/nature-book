@@ -5,16 +5,19 @@
   "author": "Dumont, 1820",
   "en": "Black Baza",
   "ktsn": 120000471321,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "28–35cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 숲과 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2006년 5월과 2019년 10월 서해 소청도에서 관찰된 기록이 있는 길잃은새로, 2019년 기록이 국내 첫 공식 기록으로 보고되었다. 높은 나뭇가지에 앉아 있다가 날아올라 곤충을 잡아먹으며, 이동할 때와 겨울에는 무리를 짓기도 한다. 히말라야 동부와 중국 남부, 인도차이나에서 번식하고, 북쪽 무리는 겨울에 말레이반도와 수마트라 등지로 내려간다.",
   "points": [
     {
       "ko": "길게 곧추선 검은 댕기",
@@ -38,10 +41,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 거의 같으나 검은 부분이 더 칙칙하고 갈색빛을 띤다.",
   "similar": [],
   "art": {
     "subject": "Black Baza (Aviceda leuphotes), adult: head, long erect crest, neck, upperparts and tail glossy black; white and chestnut patches on the scapulars and secondaries; a broad white band across the upper breast below the black throat, bordered below by a black band; lower breast and belly buff with broad chestnut bars; vent and undertail coverts black. Bill short, dark grey, with two small tooth-like notches on the upper mandible; legs short, grey.",
@@ -97,10 +100,44 @@
       "title": "NParks Biome (Singapore): Aviceda leuphotes",
       "url": "https://biome.nparks.gov.sg/Help/SpeciesDetail/?sId=517",
       "used": "도해 모습 (날 때 날개아랫면의 회색 부분)"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Black Baza",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/024200",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net – Black Baza(검은댕기수리)",
+      "url": "https://www.oiseaux.net/birds/black.baza.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Oiseaux.net(프랑스어) – Baza huppard(검은댕기수리)",
+      "url": "https://www.oiseaux.net/oiseaux/baza.huppard.html",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "이현정 외 (2019) 한국 미기록종 검은댕기수리(Aviceda leuphotes)의 관찰 보고, 한국조류학회지 26(2):83–86 – 2019년 10월 7일 소청도",
+      "url": "https://doi.org/10.30980/kjo.2019.12.26.2.83",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Black Baza(소청도 5월 19–20일)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 5월 – Black Baza(소청도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Baza leuphotes",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

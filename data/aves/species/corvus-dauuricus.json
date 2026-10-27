@@ -5,15 +5,21 @@
   "author": "Pallas, 1776",
   "en": "Daurian Jackdaw",
   "ktsn": 120000001964,
-  "origin": "nibr",
   "length": "33cm",
   "status": "겨울철새 수천 마리 · 나그네새 수백 마리",
   "habitat": "평지 및 산지의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "원문은 5~9월에 알을 낳는다고 적었으나 국내 번식은 말하지 않는다."
+    "note": "10월 하순부터 3월까지 주로 떼까마귀 무리에 섞여 지내고 4~5월에도 드물게 보이며, 원문의 5~9월 산란은 번식지 이야기로 국내 번식 기록은 없다."
   },
   "summary": "평지와 산지 숲에서 볼 수 있는 흔하지 않은 겨울철새로, 늘 큰 무리를 지어 다닌다. 무엇이든 먹는 잡식성이며, 5~9월에 알 4~6개를 낳는다. 장진호와 풍산에 살며, 국외에서는 시베리아, 아무르, 우수리, 만주, 몽골, 중국, 티베트에 분포한다.",
   "points": [
@@ -46,7 +52,7 @@
     "alike": true,
     "text": "암수 같은 색이며 암컷이 더 작다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 대부분 온몸이 거무스름하고 귀깃과 뒷머리에 가는 은회색 줄무늬가 있으며, 어른새의 흰 목둘레와 배가 없거나 칙칙한 회색을 띤다. 홍채가 어둡고, 얼룩무늬 어른 깃은 이듬해 여름부터 나타난다.",
   "similar": [],
   "art": {
     "subject": "Daurian Jackdaw (Corvus dauuricus), pied adult in winter (October–March): forehead, crown, face and nape black with a purple gloss; silvery greyish-white streaks on the feathers behind the eye and over the rear ear-coverts; chin and throat black glossed blue; a broad creamy greyish-white collar wraps round the neck and joins the greyish-white breast and belly; back, wings and tail glossy black; underwing coverts, axillaries and undertail coverts slate-black; short stubby black bill; dark grey-brown iris; black legs and feet.",
@@ -88,6 +94,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 갈까마귀",
+      "url": "https://avifauna.hkbws.org.hk/species/0260/033700",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – 갈까마귀",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Daurian Jackdaw(갈까마귀)",
+      "url": "https://www.oiseaux.net/birds/daurian.jackdaw.html",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 갈까마귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=6100955",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin(1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 갈까마귀",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

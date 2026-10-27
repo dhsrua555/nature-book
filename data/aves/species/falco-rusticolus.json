@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Gyrfalcon",
   "ktsn": 120000001577,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "50–63cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "내륙의 큰 강 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2010년 3월 20일 경북 상주의 낙동강에서 한 마리가 관찰되어 처음 기록된 길잃은새다. 북극권을 빙 둘러 툰드라와 바닷가·강가의 절벽 지대에서 번식하는 가장 큰 매류로, 깃털 색은 흰색형·회색형·짙은색형으로 나뉜다. 뇌조류와 오리, 갈매기 같은 중대형 새를 주로 잡고 레밍이나 토끼 같은 포유류도 먹으며, 겨울에는 어린새를 중심으로 남쪽으로 내려오는 개체가 있다.",
   "points": [
     {
       "ko": "굵은 검은 두건·뺨선 없는 머리",
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 훨씬 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새보다 윗면이 짙은 갈색이고 아랫면에 굵은 갈색 세로줄무늬가 있으며, 납막과 다리가 노란색이 아니라 푸른빛이 도는 회색이다.",
+  "similar": [
+    {
+      "ko": "매",
+      "how": "몸이 더 크고 날개 폭이 넓으며, 매처럼 머리를 덮는 검은 두건 무늬와 뚜렷한 뺨선이 없다."
+    }
+  ],
   "art": {
     "subject": "Gyrfalcon (Falco rusticolus), adult grey morph in winter: upperparts slate-grey to grey-brown with pale grey-blue bars and feather edges; head greyish with an indistinct pale supercilium and a thin, weak dark moustachial stripe; underparts white with dark drop-shaped spots on the breast becoming bars on the flanks and thighs; tail grey with fine pale bars. Bill bluish-grey with a dark tip; cere, bare eye-ring, legs and feet yellow; iris dark brown.",
     "pose": "perched upright on a snow-dusted rock, watching over open ground",
@@ -101,10 +108,45 @@
       "title": "Gyrfalcon – Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Gyrfalcon",
       "used": "동정 포인트"
+    },
+    {
+      "title": "한국조류학회지 17(3):285–287(2010) – 한국미기록종 흰매(Falco rusticolus)의 첫 관찰(KRIBB 저장소 초록)",
+      "url": "https://oak.kribb.re.kr/handle/201005/11977",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 리뷰 – 흰매",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "The Peregrine Fund – Gyrfalcon",
+      "url": "https://peregrinefund.org/explore-raptors-species/falcons/gyrfalcon",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Gyrfalcon",
+      "url": "https://www.audubon.org/field-guide/bird/gyrfalcon",
+      "used": "몸길이·해설·비슷한 종"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Gyrfalcon",
+      "url": "https://www.birdweb.org/birdweb/bird/gyrfalcon",
+      "used": "해설·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web – Falco rusticolus",
+      "url": "https://animaldiversity.org/accounts/Falco_rusticolus/",
+      "used": "해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Witherby 외, A Practical Handbook of British Birds 2권(1920) – 흰매(Gyr-Falcon)",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새·암수 구별·비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

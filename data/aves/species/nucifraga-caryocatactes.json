@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Nutcracker",
   "ktsn": 120000001960,
-  "origin": "nibr",
   "length": "약 34.5cm",
   "status": "텃새, 해마다 수십 마리 · 드물게 기록되는 새, 지금까지 기록 10건 미만",
   "habitat": "고지대, 겨울에는 평지",
@@ -62,7 +61,7 @@
     "alike": true,
     "text": "암수 같은 색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 몸깃의 갈색이 옅고 깃이 성기며, 흰 반점이 작고 경계가 흐려 덜 뚜렷하다. 큰날개덮깃 끝이 희어 날개에 옅은 띠가 보인다.",
   "similar": [
     {
       "ko": "까마귀",
@@ -107,6 +106,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – 잣까마귀",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – 잣까마귀",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Cassenoix moucheté(잣까마귀)",
+      "url": "https://www.oiseaux.net/oiseaux/cassenoix.mouchete.html",
+      "used": "어린새"
     }
   ],
   "todo": [],

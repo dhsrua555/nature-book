@@ -5,15 +5,22 @@
   "author": "Cabanis, 1873",
   "en": "Chinese Grey Shrike",
   "ktsn": 120000001939,
-  "origin": "nibr",
   "length": "31cm",
   "status": "나그네새·겨울철새, 해마다 수십 마리 · 한 해 내내 또는 여름에도 드물게 기록(10건 미만)",
   "habitat": "나뭇가지 위(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "산란기는 5월 상순~6월 상순이며, 국내 번식은 원문에 없다."
+    "note": "9월에 와서 이듬해 3월까지 머물고 여름에도 드물게 기록된다. 산란기는 5월 상순~6월 상순으로 알려져 있으나 국내 번식은 아직 추정 단계이다."
   },
   "summary": "전국에 적은 수가 찾아와 겨울을 나는 드문 겨울철새이다. 주로 홀로 또는 암수가 함께 지내며, 작은 설치류, 개구리 같은 양서류, 파충류, 딱정벌레, 나비목 애벌레, 거미를 즐겨 잡아먹는다. 둥지는 나뭇가지 위에 마른 가지와 풀로 밥그릇 모양으로 짓고, 5월 상순~6월 상순에 한배에 알 6~9개를 낳는다. 중국 중부·남부와 한국 전역에 분포한다.",
   "points": [
@@ -39,8 +46,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -83,9 +90,32 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 물때까치(Lanius sphenocercus)",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "암수 구별"
+    },
+    {
+      "title": "일본어 위키백과 – 물때까치(オオカラモズ)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%A9%E3%83%A2%E3%82%BA",
+      "used": "암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 물때까치",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Lanius%20sphenocercus",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 물때까치",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새 생김새는 믿을 만한 자료 두 곳에서 확인하지 못해 비워 두었다(조사 중)",
+    "암수 구별은 Taczanowski(한국산 수컷 2·암컷 1 표본이 모든 점에서 같다)와 일본어 위키백과(雌雄同色) 두 곳에 기대므로, 현대 도감으로 한 번 더 확인 필요"
+  ],
   "occurrence": {
     "code": "P5, W5, R/SV2",
     "bs": "2",

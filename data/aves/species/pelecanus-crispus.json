@@ -5,15 +5,16 @@
   "author": "Bruch, 1832",
   "en": "Dalmatian Pelican",
   "ktsn": 120000001557,
-  "origin": "nibr",
   "length": "140–178cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
   "habitat": "호숫가, 습지의 갈대밭, 갯벌(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      11
+    ],
     "breed": [],
-    "note": "번식지에서는 3~7월에 알을 낳는다."
+    "note": "국내에서 기록된 달(인천 채집 기록)이며, 번식지에서는 3~7월에 알을 낳는다."
   },
   "summary": "우리나라에서는 1914년 인천에서 한 번 채집된 기록만 있는 새이다. 아랫부리에 늘어나는 큰 주머니가 있어 작은 물고기나 새우 따위를 빨아들여 삼킨다. 호숫가나 습지의 갈대밭, 갯벌에 나뭇가지, 수초, 풀로 접시 모양 둥지를 짓고 흰 알을 보통 2~3개 낳는다. 유럽, 아시아, 페르시아만, 카스피해, 몽골, 중국에서 번식하고 중국 남부, 인도 북부, 이집트에서 겨울을 난다.",
   "points": [
@@ -35,11 +36,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 작다."
   },
   "young": "어린새는 온몸이 갈색이다.",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "큰사다새",
+      "how": "큰사다새는 몸이 희거나 분홍빛을 띠고 다리가 분홍색이며 날 때 날개 아랫면의 검은 날개깃이 흰 덮깃과 뚜렷이 대비되지만, 사다새는 몸이 은빛 도는 회백색이고 다리가 납빛 회색이며 날개 아랫면이 거의 희다."
+    }
+  ],
   "art": {
     "subject": "Dalmatian Pelican (Pelecanus crispus), adult in winter at a Korean coastal wetland: plumage silvery greyish-white overall, with curly, untidy crest feathers on the hindcrown and nape; at rest the black primaries show at the rear of the folded wing; a small bare patch around the eye; iris pale yellow; bill enormous and grey, with a small hooked nail; pouch on the lower mandible orange-yellow (brighter orange-red in early spring); legs and feet leaden-grey.",
     "pose": "swimming on calm water, side view, neck raised, the long bill and pouch in clear view",
@@ -79,9 +85,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Pelecanus crispus(인천 11월 채집)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Dalmatian Pelican",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Pelecanus crispus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – Pelecanus crispus",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Dalmatian Pelican",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023800",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "관찰 시기(11월)는 Austin(1948)의 인천 채집 기록에서 왔고 Birds Korea 리뷰(2006·2007)도 Austin 을 따른 것이다. 채집 연도도 자료마다 달라(Austin 1914년 11월 3일, Birds Korea 1913년 11월 13일, 원문 1914년) 원 자료(Kuroda 1916)로 확인 필요"
+  ],
   "occurrence": {
     "code": "V2",
     "bs": "0",

@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Spoon-billed Sandpiper",
   "ktsn": 120000528817,
-  "origin": "nibr",
   "length": "15cm",
   "status": "나그네새, 해마다 수십 마리",
   "habitat": "해안의 간척지, 염전, 소택지, 하구, 모래가 섞인 갯벌",
@@ -13,9 +12,15 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 6월 하순~7월 중순에 알을 낳는다."
+    "note": "4월 중순~5월 하순과 8월 초~10월 중순에 지나가며, 번식지에서는 6월 하순~7월 중순에 알을 낳는다."
   },
   "summary": "봄과 가을에 아주 적은 수가 서해안과 남동 해안을 지나가는 나그네새다. 해안의 간척지, 염전, 소택지, 하구 등에 들르며, 특히 모래가 섞인 갯벌을 좋아한다. 갯지렁이와 작은 새우 같은 바다 무척추동물을 주로 잡아먹는다. 동북 시베리아 북극권과 알래스카에 분포하며, 번식지에서는 한배에 알 4개를 낳는다.",
   "points": [
@@ -45,11 +50,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 더 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 윗면 깃 가운데가 검고 흰색~담황색 가장자리가 넓어 비늘무늬가 뚜렷하며, 이마는 희고 정수리 가운데와 눈앞이 어두워 머리가 거무스름해 보이고, 가슴 옆에 담황색 기와 검은 줄무늬가 있다.",
+  "similar": [
+    {
+      "ko": "좀도요",
+      "how": "넓적부리도요는 부리 끝이 주걱처럼 넓적하지만 옆에서는 잘 보이지 않으므로, 부리 끝에 진흙이 묻은 좀도요와 헷갈리지 않게 앞이나 위에서 부리 모양을 확인한다."
+    }
+  ],
   "art": {
     "subject": "Spoon-billed Sandpiper (Calidris pygmaea), adult in breeding plumage, as seen on Korean west-coast tidal flats in May: face, throat, neck and upper breast bright rufous-orange; crown rufous with fine dark streaks; mantle and scapulars with black centres and rufous to buff fringes; lower edge of the rufous breast and the breast sides marked with small dark spots; rest of the underparts white. Bill black, narrowing behind the tip and then broadening into a flat, round-ended spatula; dark eye; black legs.",
     "pose": "standing on a sandy mudflat in three-quarter view, the spoon-shaped bill tip clearly visible",
@@ -89,6 +99,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 넓적부리도요",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=10658506",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 넓적부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 기록 정리 – 넓적부리도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Animal Diversity Web – Eurynorhynchus pygmeus",
+      "url": "https://animaldiversity.org/accounts/Eurynorhynchus_pygmeus/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 넓적부리도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/013000",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Spoon-billed Sandpiper",
+      "url": "https://singaporebirds.com/species/spoon-billed-sandpiper/",
+      "used": "암수 구별·비슷한 종"
+    },
+    {
+      "title": "Wikipedia(일본어) – ヘラシギ(花輪 1996 日本動物大百科 인용)",
+      "url": "https://ja.wikipedia.org/wiki/ヘラシギ",
+      "used": "어린새"
     }
   ],
   "todo": [],

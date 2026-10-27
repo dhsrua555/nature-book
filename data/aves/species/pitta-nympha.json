@@ -5,7 +5,6 @@
   "author": "Temminck & Schlegel, 1850",
   "en": "Fairy Pitta",
   "ktsn": 120000001922,
-  "origin": "nibr",
   "length": "약 18cm",
   "status": "여름철새, 해마다 수천 마리",
   "habitat": "해안·섬·내륙 비탈의 잡목림과 활엽수림",
@@ -14,9 +13,19 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "5~7월에 알을 낳는다."
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "5월 중순 무렵 찾아와 5~7월에 알을 낳고, 9월 무렵 남쪽으로 떠난다."
   },
   "summary": "제주도와 남해안 섬에 사는 새로, 해안이나 섬, 내륙 비탈의 잡목림과 활엽수림에서 지낸다. 땅 위를 걸어 다니며 곤충 따위 먹이를 찾고, 경계심이 강해 가까이 다가가기 어렵다. 바위틈을 둥지로 쓰거나 나무줄기 사이에 타원형 둥지를 짓고, 5~7월에 얼룩무늬가 있는 유백색 알 4~6개를 낳는다. 국외에서는 일본, 중국 동부, 타이완, 보르네오섬 등에 분포한다.",
   "points": [
@@ -50,7 +59,12 @@
     "text": "암수 같은 색이다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "푸른날개팔색조",
+      "how": "날개의 파란 무늬와 흰 무늬가 더 크고 머리 옆이 담황색이며, 아랫면의 황갈색이 더 짙다."
+    }
+  ],
   "art": {
     "subject": "Fairy Pitta (Pitta nympha), adult as seen in Korean southern island woods from May to September: crown chestnut-brown with a black central stripe; long creamy-buff supercilium reaching the nape; broad black band from the lores through the cheeks and ear-coverts to the nape; throat white; back, scapulars and upper rump deep blue-green; lesser wing coverts shining azure-blue; flight feathers black with a white patch at the base of the primaries; lower rump bright blue; uppertail coverts black tipped blue; neck and breast sides green; breast and flanks buff; lower belly and vent scarlet-red. Bill black; dark eye; legs pale pinkish.",
     "pose": "walking on the forest floor, searching the leaf litter for insects",
@@ -89,9 +103,47 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 팔색조",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2489521&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004년 8월 – 팔색조",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-08.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004년 9월 – 팔색조",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-09.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Wikipedia(일본어) – ヤイロチョウ (日本の鳥550·日本産鳥類の繁殖分布 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%A4%E3%83%AD%E3%83%81%E3%83%A7%E3%82%A6",
+      "used": "번식기"
+    },
+    {
+      "title": "Wikipedia(영어) – Fairy pitta (김은미 2014 인용)",
+      "url": "https://en.wikipedia.org/wiki/Fairy_pitta",
+      "used": "번식기·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Fairy Pitta",
+      "url": "https://avifauna.hkbws.org.hk/species/0220/030500",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Blue-winged Pitta",
+      "url": "https://avifauna.hkbws.org.hk/species/0220/030400",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새: 어린새의 생김새를 적은 믿을 만한 자료를 두 곳 이상 찾지 못함",
+    "months.breed 5–7은 국내·일본의 산란기(5–7월)와 6–7월 이소 기록에 따른 값이다. 7월에 낳은 둥지의 이소가 8월까지 이어지는지 국내 번식 연구(김은미 2006 등)로 확인 필요(Birds Korea 2004년 8월 3일 한라산 둥지 관찰 기록 있음)"
+  ],
   "occurrence": {
     "code": "S3",
     "bs": "1",

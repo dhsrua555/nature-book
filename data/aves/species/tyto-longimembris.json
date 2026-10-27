@@ -5,16 +5,18 @@
   "author": "Jerdon, 1839",
   "en": "Eastern Grass Owl",
   "ktsn": 120000155189,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "32–38cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬, 키 큰 풀이 우거진 초원과 갈대밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2003년 12월 25일 신안 대흑산도)."
   },
-  "summary": "TODO",
+  "summary": "우리나라에서는 2003년 12월 25일 신안 대흑산도에서 센 바람이 분 뒤 갓 죽은 채 발견된 것이 첫 기록인 길잃은새이다. 키 큰 풀이 우거진 초원과 갈대밭에 살며, 해 질 녘 풀밭 위를 낮고 조용히 날며 들쥐 같은 작은 포유류를 주로 잡고 개구리와 곤충도 먹는다. 둥지는 땅 위 키 큰 풀숲에 풀을 깔아 만든다. 인도와 중국 남동부, 대만, 동남아시아를 거쳐 뉴기니와 오스트레일리아까지 띄엄띄엄 분포한다.",
   "points": [
     {
       "ko": "어두운 테 두른 엷은 하트형 얼굴판",
@@ -102,11 +104,38 @@
       "title": "The Owl Pages – Eastern Grass Owl",
       "url": "https://owlpages.com/species.php?s=220",
       "used": "그림용 형태 정보(부척 위 2/3만 깃, 아래쪽과 발가락은 맨살, 검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 조류 기록 정리 – 가면올빼미(대흑산도 첫 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "사는 곳, 해설, 관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2004년 1월 – 가면올빼미 첫 기록 사진",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2004-01.shtml",
+      "used": "해설, 관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – Eastern Grass Owl(가면올빼미)",
+      "url": "https://www.oiseaux.net/birds/eastern.grass.owl.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 4 (1927) – Tyto longimembris",
+      "url": "https://archive.org/details/BakerFbiBirds4",
+      "used": "사는 곳, 해설"
+    },
+    {
+      "title": "위키백과 영어판(Duncan 2003·BirdLife 인용 부분) – Eastern grass owl(가면올빼미)",
+      "url": "https://en.wikipedia.org/wiki/Eastern_grass_owl",
+      "used": "몸길이, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 해설·사는 곳은 새와 생명의 터 기록과 홍콩조류학회·Baker(1927) 자료로 썼다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "어린새·암수 구별: 믿을 만한 자료 두 곳에서 확인하지 못해 비워 둠(위키백과 영어판의 '암컷이 더 크다'는 Owl Pages 인용, Baker 는 솜털 새끼만 적음)",
+    "2003년 첫 기록 뒤의 국내 기록(목록 코드 V2, 10건 미만)과 그 달을 확인하지 못해 관찰 시기는 첫 기록의 달만 넣었다"
   ],
   "occurrence": {
     "code": "V2",

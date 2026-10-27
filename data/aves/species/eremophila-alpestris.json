@@ -5,16 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Horned Lark",
   "ktsn": 120000002008,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "14–17cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 모래언덕, 섬과 강가의 농경지, 고원의 밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2007년 10월 보령 소황사구에서 처음 기록된 뒤 지금까지 기록이 10건이 안 되는 길잃은새로, 늦가을부터 봄 사이에 바닷가 모래땅이나 섬·강가의 농경지, 고원의 밭에서 드물게 보였다. 유라시아와 북아메리카 북부의 툰드라와 고산, 초원에서 번식하고, 겨울에는 남쪽의 트인 땅과 바닷가로 옮겨 간다. 땅 위를 걸어 다니며 풀씨와 곤충을 먹고, 땅의 오목한 곳에 마른 풀로 둥지를 짓는다.",
   "points": [
     {
       "ko": "노란 이마·눈썹선·멱",
@@ -38,10 +45,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "이마와 멱이 노랗고, 정수리 앞쪽의 검은 띠와 양옆의 짧은 깃뿔, 눈 밑으로 휘는 검은 얼굴 무늬와 가슴의 검은 띠가 뚜렷하다.",
+    "female": "깃뿔이 짧고 머리의 검은 부분이 좁고 흐리며, 이마와 멱의 노란색이 칙칙하고 윗면의 세로무늬가 더 짙다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리와 가슴의 검은 무늬가 없고, 흑갈색 윗면에 노르스름한 흰 점이 촘촘히 박혀 얼룩덜룩하며 가슴도 거무스름한 얼룩으로 덮인다. 8월에 깃갈이를 마치므로 겨울에 오는 새는 어른새와 비슷하다.",
   "similar": [],
   "art": {
     "subject": "Horned Lark (Eremophila alpestris), adult male in winter of the yellow-faced northern form (flava) seen in Korea from November to March: forehead, broad supercilium and throat pale yellow; a black band across the forecrown ending in two short black feather tufts ('horns') at the rear sides of the crown, partly veiled by pale feather tips in winter; a broad black mask from the bill base through the lores, curving down below the eye onto the cheek; a broad black crescent across the upper breast, separated from the mask by yellow; crown and nape grey-brown with a faint pinkish-cinnamon tinge; mantle and wing coverts sandy grey-brown with diffuse dark streaks; rest of the underparts white, with a grey-brown wash and faint streaks on the breast sides and flanks; dark tail with pale brown central feathers and white outer edges; short grey-black bill; dark eye; blackish legs.",
@@ -93,10 +101,50 @@
       "title": "Cornell Lab, Land Trust Bird Guide: Horned Lark",
       "url": "https://www.birds.cornell.edu/landtrust/horned-lark-hola",
       "used": "교차 확인 (검은 가면·가슴띠, 갈색 윗면, 흰 아랫면, 암컷이 더 흐림)"
+    },
+    {
+      "title": "Oiseaux.net – Horned Lark",
+      "url": "https://www.oiseaux.net/birds/horned.lark.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – Otocorys alpestris",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Shore-Lark(E. a. flava)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Otocorys alpestris",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 연간 리뷰 – Horned Lark(2007년 10월 보령 소황사구 첫 기록, 2009년 4월 홍도)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 3월 – Horned Lark(백령도 농경지)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-03.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2014년 10월 – Horned Lark(만경강)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-10.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird·iNaturalist) Eremophila alpestris(2021년 1~2월 태백 매봉산)",
+      "url": "https://www.gbif.org/occurrence/search?taxon_key=9415596&country=KR",
+      "used": "사는 곳·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 국내 기록(Birds Korea·eBird)과 국외 종 설명으로 채웠다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

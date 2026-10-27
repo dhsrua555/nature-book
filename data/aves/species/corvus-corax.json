@@ -5,16 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Raven",
   "ktsn": 120000001968,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "58–69cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 사진·표본 없이 관찰 기록만 있음",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬, 산지, 해안 낭떠러지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(남한은 2009년 10월 소청도 한 건이며, 북한 기록의 달은 확인하지 못했다)."
   },
-  "summary": "TODO",
+  "summary": "남한에서는 2009년 10월 21일 서해 소청도에서 한 마리가 관찰된 것이 첫 기록인 길잃은새로, 사진이 흐려 관찰 기록으로만 남아 있다. 그 전에는 북한 최북단 지방에서 세 차례 기록되었다. 북반구에 널리 분포하며, 일본에는 겨울에 적은 수가 홋카이도에 찾아온다. 동물 사체를 비롯해 손쉽게 구할 수 있는 것은 무엇이든 먹고, 공중에서 재주넘기하듯 날며 다투기도 한다.",
   "points": [
     {
       "ko": "크고 굽은 두꺼운 부리",
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새보다 칙칙하여 깃의 광택이 거의 없고 갈색 기가 돌며, 멱의 깃이 어른새처럼 길고 뾰족한 버들잎 모양이 아니어서 수염처럼 보이지 않는다.",
+  "similar": [
+    {
+      "ko": "큰부리까마귀",
+      "how": "큰까마귀는 큰부리까마귀보다 훨씬 크고 날개가 길며, 멱의 깃이 길게 늘어져 수염처럼 보인다."
+    }
+  ],
   "art": {
     "subject": "Northern Raven (Corvus corax), adult (sexes alike): entire plumage black with a blue-purple gloss on the back and wings; long, shaggy, pointed throat feathers forming a beard; thick black nasal bristles covering the base of the bill. Massive black bill with a strongly arched upper ridge; dark brown eye; black legs and feet.",
     "pose": "perched on a rocky outcrop, side view, throat feathers slightly fluffed",
@@ -91,11 +98,52 @@
       "title": "Common raven – Wikipedia (HBW 인용)",
       "url": "https://en.wikipedia.org/wiki/Common_raven",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Northern Raven(큰까마귀)",
+      "url": "https://www.oiseaux.net/birds/northern.raven.html",
+      "used": "몸길이·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "コトバンク(ブリタニカ国際大百科事典·日本大百科全書·小学館の図鑑NEO) – ワタリガラス",
+      "url": "https://kotobank.jp/word/%E3%83%AF%E3%82%BF%E3%83%AA%E3%82%AC%E3%83%A9%E3%82%B9",
+      "used": "몸길이·사는 곳·해설"
+    },
+    {
+      "title": "Animal Diversity Web – Corvus corax(큰까마귀)",
+      "url": "https://animaldiversity.org/accounts/Corvus_corax/",
+      "used": "몸길이·해설·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 큰까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 10월 – 큰까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-10.shtml",
+      "used": "해설·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "영국조류학회(BTO) BirdFacts – Raven(큰까마귀)",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/raven",
+      "used": "해설"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – 큰까마귀",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – 큰까마귀",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.seen: 북한 최북단 기록 3건(Tomek 2000–2002, 새와 생명의 터 2009 정리 인용)의 달은 확인하지 못함"
   ],
   "occurrence": {
     "code": "V2",

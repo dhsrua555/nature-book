@@ -5,7 +5,6 @@
   "author": "Boddaert, 1783",
   "en": "Black-capped Kingfisher",
   "ktsn": 120000001892,
-  "origin": "nibr",
   "length": "약 28cm",
   "status": "여름철새, 해마다 수십 마리",
   "habitat": "하천가, 산 중턱의 벼랑",
@@ -13,7 +12,14 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "breed": [
       4,
       5,
@@ -50,7 +56,7 @@
     "male": "가슴이 황갈빛 흰색이다.",
     "female": "수컷과 비슷하나 가슴 깃 가장자리가 늘 옅은 검은색이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 윗면의 푸른색이 흐리고, 멱 옆과 가슴에 거무스름한 비늘 모양 잔무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Black-capped Kingfisher (Halcyon pileata), adult (sexes similar), as seen along Korean rivers in summer: whole head jet-black down to below the eye, sharply cut off from the white throat; broad white collar around the neck; chin, throat and upper breast white to buffy white; lower breast, belly, flanks and undertail rich orange-rufous; wing coverts black, forming a black shoulder; mantle, back, rump, outer edges of the flight feathers and tail deep glossy violet-blue. Bill very large, straight and dagger-like, bright coral-red; dark eye; legs and feet red.",
@@ -98,6 +104,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 청호반새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5228310&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2003년 4월 – 청호반새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-04.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 4월 – 청호반새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-04.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2007년 9월 – 청호반새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-09.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Singapore Birds Project – Black-capped Kingfisher(청호반새)",
+      "url": "https://singaporebirds.com/species/black-capped-kingfisher/",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Black-capped Kingfisher(청호반새)",
+      "url": "https://avifauna.hkbws.org.hk/species/0200/028100",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 영어판(Baker 1927, Fauna of British India 인용 부분) – Black-capped kingfisher(청호반새)",
+      "url": "https://en.wikipedia.org/wiki/Black-capped_kingfisher",
+      "used": "어린새"
     }
   ],
   "todo": [],

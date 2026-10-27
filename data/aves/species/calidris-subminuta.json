@@ -5,15 +5,20 @@
   "author": "Middendorff, 1853",
   "en": "Long-toed Stint",
   "ktsn": 120000001735,
-  "origin": "nibr",
   "length": "약 15cm",
   "status": "나그네새, 해마다 수백 마리",
   "habitat": "하구, 염전, 호수, 해안 조간대, 해안·내륙 초원(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 5월 하순~6월 하순에 알을 낳는다."
+    "note": "4~5월과 8~9월에 가장 많이 지나가며, 번식지에서는 5월 하순~6월 하순에 알을 낳는다."
   },
   "summary": "봄과 가을에 한반도를 흔히 지나가는 나그네새로, 낙동강 하구, 시흥 소래 염전, 속초 청초호, 인천과 남해안 부근의 조간대 등을 거쳐 간다. 작은 조개, 물고기, 거미, 곤충 같은 동물성 먹이를 주로 먹고 식물 열매도 조금 먹는다. 해안이나 내륙 초원의 움푹한 땅에 접시 모양 둥지를 틀고 한배에 알 4개를 낳는다. 아한대에서 번식하며, 번식지는 시베리아 북동부이다.",
   "points": [
@@ -46,8 +51,13 @@
     "alike": true,
     "text": "여름깃은 암수가 같은 모습이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 여름깃 어른새처럼 정수리와 윗면 깃에 붉은 갈색 가장자리가 있으나 덜 화려하고, 윗면에 흰 가장자리가 섞여 흰 줄이 보이며 얼굴과 가슴의 따뜻한 색이 옅다.",
+  "similar": [
+    {
+      "ko": "좀도요",
+      "how": "종달도요는 다리가 누르스름한 녹색이고 발가락이 길며 목이 길고 몸이 가늘어, 다리가 검고 땅딸막한 좀도요와 다르다."
+    }
+  ],
   "art": {
     "subject": "Long-toed Stint (Calidris subminuta), adult in breeding plumage, as seen on Korean salt pans and estuary margins in late April-May: crown dark brown-black with rufous fringes, the dark cap reaching the bill base; a long whitish supercilium; dark loral stripe reaching the bill; ear coverts and neck sides buff-white streaked brown; chin and throat white; mantle, scapulars and tertials black-centred with bright rufous fringes, sometimes with a whitish V on the mantle; breast washed buff with fine dark streaks; belly white; fine black bill, sometimes paler at the base of the lower mandible; dark eye; yellowish-green to yellowish-brown legs with noticeably long toes.",
     "pose": "foraging at the edge of a shallow pool, side view",
@@ -85,6 +95,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 종달도요",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2481750",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 종달도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/012900",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Singapore Birds Project – Long-toed Stint",
+      "url": "https://singaporebirds.com/species/long-toed-stint/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Wikipedia(영어) – Long-toed stint",
+      "url": "https://en.wikipedia.org/wiki/Long-toed_stint",
+      "used": "어린새"
+    },
+    {
+      "title": "New Zealand Birds Online – Red-necked stint",
+      "url": "https://www.nzbirdsonline.org.nz/species/red-necked-stint",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

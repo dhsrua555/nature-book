@@ -5,14 +5,16 @@
   "author": "Vieillot, 1819",
   "en": "Buff-breasted Sandpiper",
   "ktsn": 120000528823,
-  "origin": "nibr",
   "length": "20cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "초지, 내륙의 물가",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      9
+    ],
+    "breed": [],
+    "note": "알려진 국내 기록은 모두 9월이며, 국내에서 기록된 달이다."
   },
   "summary": "우리나라에서는 미조로 기록된 도요로, 풀밭과 내륙의 물가에서 지낸다. 알래스카 극지방과 북극 툰드라, 캐나다 북서부에서 번식하며 한배에 갈색 반점이 있는 알 4개를 낳는다. 겨울은 아르헨티나에서 난다.",
   "points": [
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 수컷이 조금 더 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 등과 어깨깃의 검은 갈색 깃에 크림색~흰색 가장자리가 깔끔하게 둘려 비늘무늬가 뚜렷하고, 담황색 가슴 양옆에 검은 점이 있다.",
+  "similar": [
+    {
+      "ko": "목도리도요",
+      "how": "누른도요는 목도리도요 어린새와 색이 비슷하지만 더 작고 부리가 짧고 가늘며, 무늬 없는 밝은 얼굴에 검은 눈이 두드러진다."
+    }
+  ],
   "art": {
     "subject": "Buff-breasted Sandpiper (Calidris subruficollis), juvenile in its first autumn, as a vagrant in September: crown buff with fine dark streaks; face plain warm buff with a large dark eye set in a thin whitish eye-ring; neck and breast warm buff, the breast sides marked with small dark spots; mantle, scapulars, tertials and wing coverts blackish-brown with neat pale buff-white fringes, giving a crisp scaly pattern; belly buff, fading to whitish on the vent. Bill short, thin, straight and black. Legs bright ochre-yellow.",
     "pose": "walking in short grass, side view",
@@ -81,6 +88,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 조류 기록 정리 – 누른도요(첫 기록)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 누른도요(두 번째 기록)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2013년 9월 조류 소식 – 누른도요",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-09.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 누른도요",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=8292425",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – 누른도요",
+      "url": "https://archive.org/details/practicalhandboo21418with",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "New Zealand Birds Online – Buff-breasted sandpiper",
+      "url": "https://www.nzbirdsonline.org.nz/species/buff-breasted-sandpiper",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 누른도요",
+      "url": "https://avifauna.hkbws.org.hk/species/0090/013500",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

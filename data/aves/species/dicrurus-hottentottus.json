@@ -5,14 +5,18 @@
   "author": "Linnaeus, 1766",
   "en": "Hair-crested Drongo",
   "ktsn": 120000001947,
-  "origin": "nibr",
   "length": "약 25cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "숲이 우거진 저지대, 무성한 관목림, 개활지와 정원·인가 부근의 나무",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      11
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이며, 대부분 5월에 서해와 남해의 섬에서 관찰되었다."
   },
   "summary": "국내에서는 미조로만 관찰된 새이다. 인도에서는 비교적 우거진 저지대 숲이나 무성한 관목림에, 중국에서는 개활지와 정원, 인가 근처 나무에서 볼 수 있다. 중국, 인도, 미얀마, 인도차이나 등지에 분포한다.",
   "points": [
@@ -34,10 +38,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나 암컷이 광택이 덜하고 대개 조금 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 갈색을 띠고 광택이 적으며, 이마의 털 같은 깃과 목·가슴의 장식깃이 짧고 겨드랑이깃과 아래날개덮깃 끝이 희다.",
   "similar": [],
   "art": {
     "subject": "Hair-crested Drongo (Dicrurus hottentottus), adult, as seen in Korea on spring or autumn migration: entirely black with a strong metallic gloss; crown, neck and breast covered with small iridescent spangles that shine blue-green to deep purplish-indigo, densest on the breast; a few very fine, hair-like plumes rise from the forehead and trail back over the crown (thin and easily overlooked); back, wings and tail glossy black with a green-blue sheen; belly duller black. Bill black, long and heavy, gently arched; legs and feet black.",
@@ -77,6 +81,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker, The Fauna of British India – Birds 2권(1924) – 바람까마귀(Hair-crested Drongo)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Hair-crested Drongo",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/032600",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Drongo à crinière(바람까마귀)",
+      "url": "https://www.oiseaux.net/oiseaux/drongo.a.criniere.html",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 바람까마귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2493967&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록 – 바람까마귀(2015년 4월 태안)",
+      "url": "https://www.inaturalist.org/observations/59419199",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2003년 5월 – 바람까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 5월 – 바람까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 11월 – 바람까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-11.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

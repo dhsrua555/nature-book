@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Crested Lark",
   "ktsn": 120000002004,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "17–19cm",
   "status": "드물게 기록되는 새, 해마다 10건 미만",
   "habitat": "자갈이 많은 건조한 개활지",
   "protect": [
@@ -27,7 +26,11 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6
+    ]
   },
   "summary": "우리나라에서는 매우 드물게 기록되는 새로, 자갈이 많고 메마른 트인 땅에 산다. 곤충이나 식물 씨앗을 주로 먹는다. 우리나라를 비롯해 세계 곳곳에서 개체 수가 줄고 있다.",
   "points": [
@@ -37,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고, 암컷이 조금 작으며 댕기가 평균적으로 조금 짧다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면 깃끝에 흰 점과 그 안쪽의 검은 무늬가 있어 얼룩덜룩해 보이고, 댕기가 짧고 둥글다. 가슴의 무늬도 세로줄이 아닌 작은 점이며 어른새보다 옅다.",
   "similar": [],
   "art": {
     "subject": "Crested Lark (Galerida cristata), adult (sexes alike, plumage similar all year), as seen on dry open ground in Korea: a long, spiky, pointed crest of dark-streaked feathers on the rear crown, visible even when partly lowered; face pale buff with a weak pale supercilium and brownish ear-coverts; upperparts sandy grey-brown with diffuse darker streaks; wings plain grey-brown; breast buff-white with neat fine dark streaks; belly and flanks unstreaked whitish-buff; tail dark brown with cinnamon-buff outer feathers. Bill long and strong, dark grey-horn above and pinkish below; dark eye; legs pale pinkish-brown.",
@@ -81,9 +84,42 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux.net – Crested Lark",
+      "url": "https://www.oiseaux.net/birds/crested.lark.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1890) Catalogue of the Birds in the British Museum 13권 – Galerita cristata",
+      "url": "https://archive.org/details/catalogueofbirds13brit",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Crested Lark",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새·번식기·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Corydus cristatus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Galerida cristata coreensis(평안남도 1938년 5월 26일 알, 서울 둥지)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
+    },
+    {
+      "title": "Wikipedia(한국어) – 뿔종다리(4월부터 산란, 2007년 서산 번식 기록)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%BF%94%EC%A2%85%EB%8B%A4%EB%A6%AC",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "번식기(4~6월): 국내 근거는 한국어 위키백과(4월부터 산란, 출처 미확인)와 Austin(1948)의 5월 26일 알 기록뿐이고 유럽 번식기(4월 말~6월 초, Witherby)로 보완했다. 국내 원 자료(국립생물자원관 멸종위기종 자료 등) 확인 필요",
+    "몸길이: 대영박물관 도록은 수컷 7인치(약 18cm)·암컷 6.5인치(약 16.5cm)로 Oiseaux.net(17–19cm)보다 하한이 조금 작다"
+  ],
   "occurrence": {
     "code": "V1",
     "bs": "1",

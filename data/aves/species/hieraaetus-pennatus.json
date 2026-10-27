@@ -5,16 +5,20 @@
   "author": "Gmelin, 1788",
   "en": "Booted Eagle",
   "ktsn": 120000001620,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "45–55cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬과 간척지 같은 탁 트인 곳",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      3,
+      6,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2006년 10월 흑산도에서 처음 사진으로 확인된 뒤 2007년 3월 군산, 2012년 6월 인천 등에서 몇 차례 기록된 길잃은새다. 아랫면이 흰 밝은형과 온몸이 짙은 갈색인 어두운형이 있으며, 어느 형이든 날개 윗면 어깨에 작은 흰 점이 있고 위꼬리덮깃이 옅다. 숲과 탁 트인 곳이 섞인 곳에서 작은 포유류와 새를 사냥하며, 유럽 남부와 북아프리카에서 중앙아시아와 인도에 걸쳐 번식한다.",
   "points": [
     {
       "ko": "앞날개 기부의 작은 흰 점",
@@ -34,10 +38,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 머리와 아랫면이 더 붉은 갈색을 띠는 편이다.",
   "similar": [],
   "art": {
     "subject": "Booted Eagle (Hieraaetus pennatus), adult pale morph: head buff-brown with a darker streaked crown; upperparts dark brown with a broad pale buff band across the upperwing coverts and pale buff uppertail coverts forming a U at the base of the tail; small white patches where the forewing meets the body; underparts and underwing coverts creamy white, lightly streaked on the breast, contrasting with blackish flight feathers; inner primaries paler, forming a pale wedge; tail grey-brown and unbarred. Bill dark grey with a yellow cere; legs feathered to the toes, feet yellow.",
@@ -93,10 +97,49 @@
       "title": "BirdForum Opus – Booted Eagle (검색 발췌)",
       "url": "https://birdforum.net/opus/Booted_Eagle",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Booted Eagle(흰점어깨수리)",
+      "url": "https://www.oiseaux.net/birds/booted.eagle.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Hieraaetus pennatus",
+      "url": "https://animaldiversity.org/accounts/Hieraaetus_pennatus/",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Bird Society of Singapore, Birds of Singapore – Booted Eagle",
+      "url": "https://singaporebirds.com/species/booted-eagle",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Booted Eagle(흑산도 10월 30일, 첫 사진 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰 – Booted Eagle(군산 3월 30일)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2012년 6월 – Booted Eagle(인천공항 부근 6월 17일)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2012-06.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Hieraetus pennatus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Hieraetus pennatus",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "어린새·암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

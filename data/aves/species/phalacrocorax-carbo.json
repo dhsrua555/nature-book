@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Great Cormorant",
   "ktsn": 120000001565,
-  "origin": "nibr",
   "length": "약 82cm",
   "status": "여름철새 10만 마리 이상 · 텃새 수만 마리",
   "habitat": "해안, 하구, 강, 호수",
@@ -95,8 +94,13 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 몸 윗면이 갈색이고 몸 아랫면이 희끄무레하며 갈색 얼룩이 있고, 겨울을 지나며 아랫면이 차츰 어두워진다.",
+  "similar": [
+    {
+      "ko": "가마우지",
+      "how": "가마우지는 부리 기부의 노란 맨살 뒤끝이 V자로 뾰족하게 꺾이고(민물가마우지는 거의 곧은 선), 눈 뒤의 흰 뺨이 더 넓다."
+    }
+  ],
   "art": {
     "subject": "Great Cormorant (Phalacrocorax carbo), adult in non-breeding plumage (Korean winter): black with a blue-green gloss on the head, neck and underparts; mantle, scapulars and wing coverts bronze-brown, each feather edged black, giving a scaly look; a patch of bare yellow skin at the base of the bill and around the gape, bordered behind by a white cheek and throat patch whose rear edge is rounded; no white plumes on the head and no white thigh patch at this season; bill dark grey with a paler lower mandible and a hooked tip; emerald-green eye; black legs and feet.",
     "pose": "swimming low in the water, about to dive for food",
@@ -137,9 +141,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Great Cormorant",
+      "url": "https://avifauna.hkbws.org.hk/species/0160/021500",
+      "used": "어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Ageing and sexing(Aranzadi) – Great Cormorant",
+      "url": "https://www.blascozumeta.com/specie_files/00720_ENG_Phalacrocorax_carbo_aranzadi.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Phalacrocorax carbo",
+      "url": "https://animaldiversity.org/accounts/Phalacrocorax_carbo/",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Japanese Cormorant",
+      "url": "https://avifauna.hkbws.org.hk/species/0160/021400",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "バードリサーチ生態図鑑(일본 바드리서치) – ウミウ(綿貫豊)",
+      "url": "https://www.bird-research.jp/1_shiryo/seitai/umiu.pdf",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식기(산란~이소)는 자료마다 '3월경 산란'(대구 수성못 보도)과 '4월 말~7월 초 산란'(언론 보도)으로 엇갈리고 조사 보고서를 찾지 못해 비워 두었다"
+  ],
   "occurrence": {
     "code": "S1, R2",
     "bs": "1",

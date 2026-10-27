@@ -5,16 +5,23 @@
   "author": "Vieillot, 1817",
   "en": "House Crow",
   "ktsn": 120000082978,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "40–43cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 기록을 검토하는 중",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬 마을, 해안 공원, 항구 도시",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2010년 5월 7일~9월 25일 문갑도, 2023년 4월 27일~6월 5일 울산, 2025년 6월 강원)."
   },
-  "summary": "TODO",
+  "summary": "2010년 5월 인천 옹진군 문갑도에서 처음 기록된 길잃은새로, 이 개체는 9월 하순까지 섬에 머물렀고 큰 뱃길과 인천항이 가까워 배를 타고 왔을 것으로 본다. 2023년 4~6월에는 울산 대왕암공원 일대에 한 마리가 머물렀다. 원래 인도아대륙과 그 둘레의 도시와 마을에 붙어 사는 텃새로, 배를 타고 옮겨 가 세계 여러 항구 도시로 퍼졌다. 사람이 버린 음식 찌꺼기를 비롯해 가리지 않고 먹는다.",
   "points": [
     {
       "ko": "검은 이마·정수리·멱",
@@ -30,8 +37,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [],
@@ -83,11 +90,42 @@
       "title": "Singapore Birds Project: House Crow",
       "url": "https://singaporebirds.com/species/house-crow/",
       "used": "동정 포인트"
+    },
+    {
+      "title": "Oiseaux.net – House Crow(집까마귀)",
+      "url": "https://www.oiseaux.net/birds/house.crow.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe(1877) Catalogue of the Birds in the British Museum 3권 – 집까마귀",
+      "url": "https://archive.org/details/catalogueofbirds03brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 집까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird·iNaturalist 한국 관찰 기록 – 집까마귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2482499",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2010년 5월 – 집까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-05.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "Oates(1889) The Fauna of British India, Birds 1권 – 집까마귀",
+      "url": "https://archive.org/details/birdsindia01oaterich",
+      "used": "해설·암수 구별"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별은 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "young: 어린새 설명(어른새와 비슷하나 칙칙하고 검은 부분에 광택이 없음)은 홍콩조류학회 한 곳에서만 확인해 비워 둠"
   ],
   "occurrence": {
     "code": "V2",

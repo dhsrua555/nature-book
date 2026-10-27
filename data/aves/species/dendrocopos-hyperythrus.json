@@ -5,15 +5,16 @@
   "author": "Vigors, 1831",
   "en": "Rufous-bellied Woodpecker",
   "ktsn": 120000090055,
-  "origin": "nibr",
   "length": "약 24cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "침엽수림, 울창한 숲속의 나무 구멍(둥지)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5
+    ],
     "breed": [],
-    "note": "산란기는 3~5월이다."
+    "note": "봄 이동기인 5월에 주로 보이며, 4월(2006년 서울)과 9~10월(2002년 어청도 등)에도 드물게 기록이 있다. 번식지에서는 3~5월에 알을 낳는다."
   },
   "summary": "우리나라에서는 주로 백두산 고지대에서 드물게 번식하는 텃새이고, 남한에는 이동기에 드물게 찾아오며 경기도에서 2회 채집된 기록이 있다. 침엽수림에 살며 울창한 숲속의 나무 구멍에 둥지를 틀고 한배에 알을 3~4개 낳는다. 곤충을 주로 먹는다. 국외에서는 히말라야에서 만주에 걸친 동아시아와 미얀마 북부, 타이에 분포한다.",
   "points": [
@@ -87,10 +88,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 붉은배오색딱다구리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2478150&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2005년 5월 – 붉은배오색딱다구리",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2005-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2010년 5월 – 붉은배오색딱다구리",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2010-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2006년 5월 – 붉은배오색딱다구리",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2002년 9월 – 붉은배오색딱다구리",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2002-09.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 국내 번식 기록이 없어 국립생물자원관 설명의 번식 달([3, 4, 5])을 달력에서 뺐다"
+    "[새와 생명의 터] 국내 번식 기록이 없어 국립생물자원관 설명의 번식 달([3, 4, 5])을 달력에서 뺐다",
+    "어린새 생김새를 믿을 만한 자료에서 찾지 못함"
   ],
   "occurrence": {
     "code": "PV1",

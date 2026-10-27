@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Black Woodpecker",
   "ktsn": 120000001916,
-  "origin": "nibr",
   "length": "45–57cm",
   "status": "텃새, 해마다 수천 마리",
   "habitat": "참나무·소나무 등 고목과 노거수가 있는 울창한 숲",
@@ -28,8 +27,12 @@
       11,
       12
     ],
-    "breed": "TODO",
-    "note": "3~5월에 알을 낳는다."
+    "breed": [
+      4,
+      5,
+      6
+    ],
+    "note": "알은 봄(3~5월)에 낳으며, 가야산의 한 둥지에서는 5월 7일까지 알 4개를 낳고 부화 24일 만인 6월 중순에 새끼가 둥지를 떠났다."
   },
   "summary": "강원도, 경기도, 경상북도, 충청남·북도에 사는 딱다구리로, 수령이 오랜 참나무나 소나무 같은 고목과 노거수가 있는 울창한 숲에서 지낸다. 몸을 곧추세워 나무줄기에 붙은 채 나선을 그리며 올라가 이웃 나무로 옮기고, 부리로 줄기를 두드려 구멍을 파서 곤충 애벌레를 잡아먹는다. 곤충을 주로 먹고 식물 열매도 먹는다. 암수가 함께 땅에서 4~25m 높이의 나무줄기에 구멍을 파 둥지를 만들고 3~5월에 흰 알 3~6개를 낳으며, 국외에서는 스칸디나비아, 프랑스, 스페인, 캄차카반도, 일본에 분포한다.",
   "points": [
@@ -59,7 +62,7 @@
     "male": "이마에서 머리꼭대기를 지나 뒷머리까지 광택 있는 어두운 붉은색이다.",
     "female": "뒷머리만 붉다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 검은 깃에 광택이 적고 흐리며, 머리의 붉은색이 덜 선명하고 멱과 부리가 더 연한 잿빛을 띤다.",
   "similar": [],
   "art": {
     "subject": "Black Woodpecker (Dryocopus martius), adult male as seen in Korean old-growth forests: whole plumage black with a slight gloss and no white anywhere; forehead, crown and nape glossy crimson-red, forming a complete red cap. Bill long, strong and chisel-tipped, pale ivory-grey with a black culmen and tip; pale yellowish-white iris; legs and feet sturdy and grey.",
@@ -99,9 +102,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "권영수 외(2012) Breeding Status of the Black Woodpecker (Dryocopus martius) in Gayasan National Park. Journal of Forest and Environmental Science 28(4) – 까막딱다구리",
+      "url": "https://koreascience.kr/article/JAKO201212656357968.page",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 영어판(Perrins 1987 인용 부분) – Black woodpecker(까막딱다구리)",
+      "url": "https://en.wikipedia.org/wiki/Black_woodpecker",
+      "used": "어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon's Birds(Ibercaja Aula en Red) – Black Woodpecker(까막딱다구리)",
+      "url": "https://web.archive.org/web/20160314154653/http://aulaenred.ibercaja.es/wp-content/uploads/290_BlackWoodpeckerDmartius.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 독일어판 – Schwarzspecht(까막딱다구리)",
+      "url": "https://de.wikipedia.org/wiki/Schwarzspecht",
+      "used": "어린새"
     }
   ],
-  "todo": [],
+  "todo": [
+    "번식기: 국립생물자원관은 3~5월 산란으로 적으나 가야산 조사(2012)는 5월 초 산란이라 3월은 달력에 넣지 않음 — 국내 다른 번식 기록으로 확인 필요"
+  ],
   "occurrence": {
     "code": "R3",
     "bs": "1",

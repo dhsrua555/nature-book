@@ -5,15 +5,17 @@
   "author": "Linnaeus, 1758",
   "en": "Snowy Owl",
   "ktsn": 120000528916,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "53–66cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
   "habitat": "늪, 해변, 개활지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      2,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서는 4~6월에 알을 낳는다."
+    "note": "국내에서 기록된 달(1888년 2월 원산 부근, 1912년 12월 충남 예산)이며, 번식지에서는 4~6월에 알을 낳는다."
   },
   "summary": "늪과 해변, 탁 트인 땅에서 지내는 새이다. 국내에서는 충청남도와 함경남도에서 보인 적이 있으나, 지금까지 기록이 10건이 안 되는 길잃은새이다. 홀로 지내며 땅 위나 언덕, 바위, 말뚝에 가만히 앉아 가까이 나타나는 먹이를 기다린다. 쥐, 두더지, 새, 족제비, 곤충 따위를 잡아먹는다. 시베리아, 알래스카, 캐나다, 스칸디나비아반도에 분포하며, 번식지에서는 4~6월에 무늬 없는 흰 알을 낳는다.",
   "points": [
@@ -43,7 +45,7 @@
     "male": "날개 길이가 약 40cm로 암컷보다 작다.",
     "female": "날개 길이가 약 45cm로 수컷보다 몸집이 크고, 등 쪽에 검은 갈색 가로무늬가 있다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 수컷도 어른 암컷처럼 갈색 가로무늬가 많고, 어린 암컷은 가로무늬가 더 굵고 촘촘해 가장 어둡게 보인다. 갓 둥지를 떠난 새끼는 짙은 회갈색 깃에 얼굴만 희다.",
   "similar": [],
   "art": {
     "subject": "Snowy Owl (Bubo scandiacus), adult male in winter: almost pure white all over, with only a few small, sparse blackish-brown spots and bars on the back, the tips of the flight feathers and the tail, and a few fine dark flecks on the crown and nape. Round head with no visible ear-tufts and a white face without a sharply rimmed facial disc. Black bill, largely hidden in the white facial feathers; bright golden-yellow eyes; legs and toes buried in dense white feathering, black claws.",
@@ -84,11 +86,46 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Snowy Owl (Bubo scandiacus)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130727",
+      "used": "몸길이"
+    },
+    {
+      "title": "코토뱅크(세계대백과사전·니포니카) – シロフクロウ(흰올빼미)",
+      "url": "https://kotobank.jp/word/%E3%82%B7%E3%83%AD%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판(Dementiev·Eckert 등 인용 부분) – Snowy owl(흰올빼미)",
+      "url": "https://en.wikipedia.org/wiki/Snowy_owl",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – The Snowy Owl",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새, 관찰 시기(번식지 산란기)"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Nyctea scandiaca",
+      "url": "https://animaldiversity.org/accounts/Nyctea_scandiaca/",
+      "used": "어린새"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb – Snowy Owl",
+      "url": "https://www.birdweb.org/Birdweb/bird/snowy_owl",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Nyctea scandiaca(1888년 2월 원산 부근 관찰, 1912년 12월 예산 표본)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문은 몸길이 대신 날개 길이(수컷 약 40cm, 암컷 약 45cm)만 주어 length 는 TODO 로 두었다",
-    "원문의 '턱 모양의 깃'은 '털 모양의 깃'의 오기로 보여 옮기지 않았다"
+    "원문의 '턱 모양의 깃'은 '털 모양의 깃'의 오기로 보여 옮기지 않았다",
+    "1948년 이후 2000년 전까지의 국내 기록(목록 코드 V2)과 그 달을 확인하지 못해 관찰 시기는 Austin(1948)의 두 기록 달만 넣었다"
   ],
   "occurrence": {
     "code": "V2",

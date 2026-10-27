@@ -5,14 +5,20 @@
   "author": "Scopoli, 1769",
   "en": "Little Owl",
   "ktsn": 120000001866,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 22cm",
   "status": "겨울철새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "촌락 부근, 성벽, 벼랑, 강가의 무너진 흙더미, 고목 부근",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "10월부터 이듬해 2월까지 보이며, 여름에도 드물게 기록된다."
   },
   "summary": "올빼미 가운데 가장 작은 종으로, 깊은 숲에는 살지 않고 마을 가까이나 성벽, 벼랑, 강가의 무너져 내린 흙더미, 오래된 나무 둘레에 산다. 한배에 알을 3~7개 낳아 26~28일 동안 품는다. 울음소리는 고양이나 갓난아기가 우는 소리를 닮았고, 작은 포유류, 새, 파충류, 양서류, 곤충 따위를 잡아먹는다. 날개 길이는 14.8~15.8cm이며, 한국 중부 이북과 중국, 몽골에 분포한다.",
   "points": [
@@ -46,7 +52,7 @@
     "male": "암컷보다 몸이 조금 작다.",
     "female": "수컷보다 몸이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 몸빛이 더 옅고 칙칙하며, 머리꼭대기의 흰 점이 적고 무늬가 흐릿하다.",
   "similar": [],
   "art": {
     "subject": "Little Owl (Athene noctua), adult male in winter, as seen around Korean villages, banks and old trees: crown greyish-brown densely spotted with small buff-white dots; broad whitish eyebrows giving a frowning look; upperparts greyish buff-brown with larger whitish spots; white chin and a white band across the throat; underparts buffy-white with broad dark buff-brown streaks on the breast, flanks and belly. Bill pale yellow; eyes bright lemon-yellow; legs and toes feathered whitish, claws dark brown.",
@@ -86,9 +92,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Little Owl (Athene noctua)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130733",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판 – Little owl(금눈쇠올빼미)",
+      "url": "https://en.wikipedia.org/wiki/Little_owl",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Oiseaux.net – Little Owl(금눈쇠올빼미)",
+      "url": "https://www.oiseaux.net/birds/little.owl.html",
+      "used": "몸길이, 어린새"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – The Little Owl",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – コキンメフクロウ(금눈쇠올빼미)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대학) – Athene noctua",
+      "url": "https://animaldiversity.org/accounts/Athene_noctua/",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Athene noctua plumipes(안주 1931년 11월·1932년 2월 표본)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 금눈쇠올빼미",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2497266&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "번식기: 새와 생명의 터 목록은 2000년 이후 국내 번식 확인으로 적었으나 국내(또는 중국 동북부) 번식 시기 자료를 찾지 못해 비워 둠"
+  ],
   "occurrence": {
     "code": "W5, SV2",
     "bs": "1",

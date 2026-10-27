@@ -5,15 +5,16 @@
   "author": "Linnaeus, 1758",
   "en": "Northern Hawk-Owl",
   "ktsn": 120000001864,
-  "origin": "nibr",
-  "length": "TODO",
-  "status": "TODO",
+  "length": "35–45cm",
+  "status": "길잃은새, 북한 함경남도 표본 1건(1935년) · 남한 기록 없음",
   "habitat": "산지 혼합림",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "알은 3~5월에 낳는다."
+    "seen": [
+      1
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달(1935년 1월 13일 함경남도)이며, 번식지에서는 3~5월에 알을 낳는다."
   },
   "summary": "산지의 혼합림에 사는 올빼미로, 낮에 활동하며 작은 새, 곤충, 쥐, 두더지 따위를 잡아먹는다. 딱따구리나 매가 쓰던 둥지를 이용하고, 알 자리에는 제 가슴 털을 조금 뽑아 깐다. 3~5월에 알을 3~10개 낳으며, 한국, 일본, 만주, 시베리아에 분포한다. 날개 길이는 23cm, 꼬리 길이는 18cm, 몸무게는 290g이다.",
   "points": [
@@ -39,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "첫겨울 어린새는 어른새와 거의 같으나, 날개깃과 꼬리깃 끝이 더 닳아 있고 꼬리깃 끝이 뾰족하다.",
   "similar": [],
   "art": {
     "subject": "Northern Hawk-Owl (Surnia ulula), adult (sexes alike, plumage the same all year), as seen in winter in Korea: forehead and crown blackish-brown, densely speckled with small white spots; whitish-grey facial disc framed on each side by a bold black crescent running from the crown sides down behind the cheeks; whitish eyebrows meeting above the bill; a black patch on each side of the hindneck, forming a dark V on the nape; upperparts dark brown spotted white, the scapulars with large white spots forming a pale band across the shoulders; wings dark brown with rows of white spots; underparts white, closely and evenly barred with narrow grey-brown bars from the breast to the vent; long graduated tail dark grey-brown crossed by narrow white bars; bill pale yellow; iris bright yellow; legs and toes densely feathered whitish.",
@@ -85,15 +86,46 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Surnia ulula ulula(1935년 1월 13일 함경남도 표본, Mori 1935 인용)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "국내 상태, 번식 여부, 관찰 시기, 번식기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록 검색 – Surnia ulula(긴꼬리올빼미)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2497894",
+      "used": "국내 상태"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – The European Hawk-Owl",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새, 암수 구별, 관찰 시기(번식지 산란기)"
+    },
+    {
+      "title": "위키백과 영어판 – Northern hawk-owl(긴꼬리올빼미)",
+      "url": "https://en.wikipedia.org/wiki/Northern_hawk-owl",
+      "used": "몸길이, 어린새, 암수 구별"
+    },
+    {
+      "title": "National Audubon Society, Guide to North American Birds – Northern Hawk Owl",
+      "url": "https://www.audubon.org/field-guide/bird/northern-hawk-owl",
+      "used": "몸길이, 암수 구별"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe 3.1 – Hawk Owl (Surnia ulula)",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130729",
+      "used": "몸길이"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "원문의 분포 '한국'과 '산지 혼합림에 서식, 3~5월 산란'은 국외 번식지 자료로 보이며 국내 기록은 Austin(1948)이 정리한 1935년 1월 함경남도 표본 1건뿐이다 — 사는 곳·해설을 국내 상태에 맞게 고칠지 검토",
+    "1948년 이후 북한·중국 국경 지역의 기록이 있는지 확인하지 못했다"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

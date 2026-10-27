@@ -5,14 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Bearded Reedling",
   "ktsn": 120000002059,
-  "origin": "nibr",
   "length": "약 16.5cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "민물 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      5,
+      10
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
   "summary": "민물 습지에 사는 새로, 온대 지역 일부에 분포한다. 대부분 일부일처로 지내며, '칭- 칭-' 하고 조용히 우는 등 여러 가지 소리를 낸다. 여름에는 곤충, 겨울에는 씨앗을 먹고 모기 애벌레나 활짝 핀 애기부들 등도 먹으며, 날벌레를 찾을 때는 거꾸로 매달린 채 머리를 빙빙 돌린다. 영국 남동부와 아시아 등지에 분포한다.",
   "points": [
@@ -42,7 +46,7 @@
     "male": "머리는 회색 기가 도는 파란색이고 몸은 적갈색이나 갈색이며, 항문 부위가 검다.",
     "female": "전체가 조금 흐린 황갈색과 적갈색을 띤다."
   },
-  "young": "TODO",
+  "young": "어린새는 암컷과 비슷하나 등 가운데가 넓게 검고 바깥꽁지깃에도 검은 부분이 많다. 어린 수컷은 눈앞이 검고 부리가 노란 편이어서, 눈앞이 회색이고 부리가 어두운 어린 암컷과 구별된다.",
   "similar": [],
   "art": {
     "subject": "Bearded Reedling (Panurus biarmicus), adult male (plumage similar year-round): head pale blue-grey; a long black moustache patch, a flat tapering wedge of black feathers running from the lores under the eye down the cheek towards the side of the throat; back, rump and tail warm tawny-cinnamon; wings boldly striped with long black, white and rufous-buff bands; throat white, breast pale pinkish-grey to white, flanks tawny-buff; undertail coverts black; long tawny tail with white edges to the outer feathers; bill orange-yellow; iris orange-yellow; black legs.",
@@ -91,11 +95,37 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Panurus biarmicus",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – Panurus biarmicus",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Bearded Reedling",
+      "url": "https://www.oiseaux.net/birds/bearded.reedling.html",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 연간 리뷰 – Bearded Reedling(흑산도 5월 1~3일, 국내 두 번째 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird) Panurus biarmicus(2017년 10월 백령도, 2020년 1월 서산, 2023년 1월 화성)",
+      "url": "https://www.gbif.org/occurrence/search?taxon_key=2493367&country=KR",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
     "원문의 '혀로 털을 정리한다', '태평양 북부 분포' 같은 서술은 의심스러워 요약에 넣지 않았다(확인 필요)",
-    "원문에 국내 상태와 시기가 없다"
+    "원문에 국내 상태와 시기가 없다(시기는 Birds Korea·eBird 기록으로 채움)",
+    "국내 첫 기록(2006년 흑산도 기록이 두 번째)의 날짜·장소를 확인하지 못했다"
   ],
   "occurrence": {
     "code": "V2",

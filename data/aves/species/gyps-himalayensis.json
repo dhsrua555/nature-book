@@ -5,16 +5,18 @@
   "author": "Hume, 1869",
   "en": "Himalayan Vulture",
   "ktsn": 120000001592,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "독수리 무리가 모이는 먹이터 주변",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      2
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2007년 2월 경남 진주에서 독수리 무리에 섞여 있던 어린새 1마리가 처음 확인된 길잃은새다. 히말라야와 티베트고원의 높은 산지에 살며 주로 동물의 사체를 먹고, 어린새는 겨울에 남쪽 저지대로 멀리 흩어지기도 한다. 벼랑에 무리 지어 둥지를 틀고 한 번에 알을 1개 낳는다.",
   "points": [
     {
       "ko": "흰 솜털로 덮인 머리와 긴 목(어린새)",
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 몸 윗면과 아랫면이 짙은 갈색에 흰 세로줄무늬가 뚜렷하고 날개깃과 꼬리가 거의 검어, 몸이 연한 황갈색인 어른새보다 훨씬 어둡게 보인다.",
+  "similar": [
+    {
+      "ko": "독수리",
+      "how": "독수리는 온몸이 고른 흑갈색이지만, 고산대머리수리는 머리가 희끄무레한 솜털로 덮이고 목둘레 깃이 밝은 황갈색이며 몸에 흰 세로줄무늬가 있다."
+    }
+  ],
   "art": {
     "subject": "Himalayan Vulture (Gyps himalayensis), juvenile in its first winter, the age that wanders east in winter: body, back and wing coverts dark brown, boldly streaked buff-white on the underparts and with pale streaks on the upperwing coverts; a ruff of long, pointed brown feathers at the base of the neck; head and neck covered with whitish-grey down; flight feathers and tail blackish. Bill blackish; legs and feet grey.",
     "pose": "soaring on broad, deeply fingered wings held in a shallow V, seen from below",
@@ -87,11 +94,51 @@
       "title": "Wikipedia – Himalayan vulture (Rasmussen & Anderton, Birds of South Asia; Alström 1997 인용)",
       "url": "https://en.wikipedia.org/wiki/Himalayan_vulture",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2007년 2월 – Himalayan Griffon Vulture(진주, 2월 5–11일)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-02.shtml",
+      "used": "사는 곳·해설·관찰 시기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 연간 리뷰 – Himalayan Vulture(국내 첫 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2007년 1월 – 진주 도축장 주변 독수리 무리",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2007-01.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Gyps himalayensis",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "해설·어린새"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Gyps himalayensis",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Gyps himalayensis",
+      "url": "https://animaldiversity.org/accounts/Gyps_himalayensis/",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Bird Society of Singapore, Birds of Singapore – Himalayan Vulture",
+      "url": "https://singaporebirds.com/species/himalayan-vulture",
+      "used": "해설·어린새·비슷한 종"
+    },
+    {
+      "title": "Bird Society of Singapore, Birds of Singapore – Cinereous Vulture",
+      "url": "https://singaporebirds.com/species/cinereous-vulture",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "length: 자료마다 몸길이가 크게 달라(Oiseaux.net 116–150cm, 싱가포르 조류학회 115–125cm, ADW 95–130cm, 영어 위키백과가 인용한 Rasmussen & Anderton·Ferguson-Lees 103–115cm) 비워 두었다"
   ],
   "occurrence": {
     "code": "V2",

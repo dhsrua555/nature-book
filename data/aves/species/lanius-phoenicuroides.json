@@ -5,16 +5,21 @@
   "author": "Schalow, 1875",
   "en": "Red-tailed Shrike",
   "ktsn": 120000533844,
-  "origin": "nibr",
-  "length": "TODO",
-  "status": "TODO",
-  "habitat": "TODO",
+  "length": "약 18cm",
+  "status": "길잃은새, 2024년 12월 김포에서 국내 처음 기록",
+  "habitat": "논과 습지 가장자리의 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2024년 12월~2025년 3월 김포에서 겨울을 난 한 개체)."
   },
-  "summary": "TODO",
+  "summary": "2024년 12월 22일 경기도 김포 하성면의 습지 부근에서 처음 발견되어 2025년 3월 초까지 머문 첫해 어린새 한 마리가 국내 유일한 기록인 길잃은새이다. 중앙아시아와 이란·아프가니스탄의 메마른 덤불 지대에서 번식하고, 겨울에는 서남아시아와 아라비아반도, 아프리카 동북부로 내려간다. 가시덤불 꼭대기에 앉아 있다가 메뚜기 같은 곤충을 덮쳐 잡는다.",
   "points": [
     {
       "ko": "적갈색 정수리",
@@ -42,11 +47,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "몸 윗면이 짙은 갈색이고 정수리가 적갈색이며, 흰 눈썹선과 검은 눈선이 뚜렷하고 허리와 꼬리는 짙은 적갈색이다. 아랫면은 거의 희고 날개에 작은 흰 점이 있다.",
+    "female": "수컷과 비슷하나 색이 흐리고 대비가 약하며, 눈선이 갈색이고 눈썹선이 덜 뚜렷하다. 가슴 옆과 옆구리에 희미한 비늘무늬가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새와 첫 겨울새는 옆구리와 허리·위꼬리덮깃에 가는 물결무늬가 있고, 남아 있는 어린 날개덮깃에 작고 어두운 무늬가, 꼬리 끝 가까이에 작은 검은 무늬가 있다. 정수리가 등보다 따뜻한 색이고 허리가 적갈색이다.",
+  "similar": [
+    {
+      "ko": "덤불때까치",
+      "how": "덤불때까치는 몸 윗면이 옅은 모래빛 회갈색으로 고르고 아랫면이 크림빛 담황색이지만, 붉은꼬리때까치는 윗면이 더 짙은 갈색에 정수리가 적갈색이고 흰 눈썹선이 뚜렷하며 아랫면이 더 희다."
+    }
+  ],
   "art": {
     "subject": "Red-tailed Shrike (Lanius phoenicuroides), female-type bird (first-winter or adult female) in winter, as the bird that wintered in Korean farmland in January and February: crown and nape warm rufous-brown, brightest on the forehead; mantle, back and scapulars plain grey-brown; a narrow whitish supercilium above a dark brown mask from the eye to the ear-coverts, the lores paler; throat and cheeks white; breast and flanks creamy buff with fine dark crescent-shaped scaling on the breast sides and flanks; belly whitish; wings dark brown with pale buff fringes to the coverts and tertials; rump, uppertail coverts and tail bright rufous; bill dark grey and hooked, with a paler base to the lower mandible; iris dark; legs dark grey.",
     "pose": "perched upright on a bare shrub top, side view, scanning the ground below",
@@ -91,11 +102,51 @@
       "title": "Red-tailed shrike – Wikipedia (en), cites Worfolk 2000, Dutch Birding 22: 323–362",
       "url": "https://en.wikipedia.org/wiki/Red-tailed_shrike",
       "used": "동정 포인트"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 붉은꼬리때까치 국내 첫 기록, 김포(2025)",
+      "url": "https://www.birdskoreablog.org/?p=30051",
+      "used": "국내 상태·번식 여부·해설·어린새·관찰 시기·번식기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 김포 들판의 붉은꼬리때까치(2025년 1월)",
+      "url": "https://www.birdskoreablog.org/?p=30040",
+      "used": "국내 상태·사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 한강 하구 조사(2025년 2월)",
+      "url": "https://www.birdskoreablog.org/?p=30159",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "Oiseaux.net – 붉은꼬리때까치(Pie-grièche du Turkestan)",
+      "url": "https://www.oiseaux.net/oiseaux/pie-grieche.du.turkestan.html",
+      "used": "몸길이·해설·암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "Baker (1924) The Fauna of British India, Birds 2권 – 붉은꼬리때까치(Lanius cristatus phoenicuroides)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "번식 여부·해설·암수 구별·어린새·번식기"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – 붉은꼬리때까치",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "몸길이·해설·암수 구별"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(2025년 1월 김포) – 붉은꼬리때까치",
+      "url": "https://www.inaturalist.org/observations/303737986",
+      "used": "국내 상태"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(2025년 3월 김포 하성면) – 붉은꼬리때까치",
+      "url": "https://www.inaturalist.org/observations/265279713",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "국립생물자원관 종 설명이 없어 본문은 국외 도감과 새와 생명의 터 기록으로 채웠다",
+    "[새와 생명의 터] 2024년 목록에는 없고, 2025년 1월 블로그 글(국가 첫 기록, 다음 목록 개정 때 추가 예정)과 iNaturalist 관찰로 국내 상태를 적었다 — 새 목록의 상태 코드 확인 필요",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
@@ -103,5 +154,5 @@
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

@@ -5,7 +5,6 @@
   "author": "Gmelin, 1789",
   "en": "Pacific Reef Heron",
   "ktsn": 120000001547,
-  "origin": "nibr",
   "length": "약 60cm",
   "status": "텃새, 해마다 수백 마리",
   "habitat": "섬과 해안의 바위, 바닷가 바위 지대의 웅덩이, 가까운 습지",
@@ -25,7 +24,14 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "제주도에서는 3월 초~5월 초에 알을 낳고 5월 중순~7월 말에 새끼가 둥지를 떠나며, 실패하면 5~6월에 다시 낳기도 한다."
   },
   "summary": "섬이나 해안의 바위에 사는 드문 텃새로, 해안과 섬 지역에서 드물게 볼 수 있다. 바닷가 바위 지대의 웅덩이나 가까운 습지에서 물고기, 게, 새우 따위를 주로 잡으며, 홀로 또는 작은 무리가 서로 거리를 두고 지낸다. 번식은 무인도나 바닷가 절벽 등에서 한다. 흑색형과 백색형이 있으나 국내에서는 아직 백색형이 기록되지 않았다.",
   "points": [
@@ -50,7 +56,7 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어른새보다 옅은 그을음빛 갈색~회갈색이고 날개덮깃 가장자리가 조금 옅으며, 뒷머리·가슴·등의 장식깃이 없다.",
   "similar": [],
   "art": {
     "subject": "Pacific Reef Heron (Egretta sacra), adult dark morph (the only morph recorded in Korea), without breeding plumes: plumage uniform dark slate-grey with a bluish tinge, looking almost blackish in shade; often a small white streak on the chin and upper throat. Bill long and rather heavy, dark brownish horn, often paler on the lower mandible; bare lores greenish-yellow; iris yellow; legs dull greenish-yellow to yellow, feet yellow.",
@@ -90,6 +96,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 흑로",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 흑로",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023600",
+      "used": "어린새·번식기"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 흑로",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/eastern-reef-heron/",
+      "used": "어린새"
+    },
+    {
+      "title": "오홍식·김원택·김완병 (2007) 한국환경생태학회지 21(1): 93–100, 제주도에서 번식하는 흑로의 산란수·알크기·번식주기 – 흑로",
+      "url": "https://koreascience.or.kr/article/JAKO200716419424034.page",
+      "used": "번식기·관찰 시기"
+    },
+    {
+      "title": "일본 환경성 생물다양성센터, 제6회 자연환경보전기초조사 조류 번식분포 – 흑로",
+      "url": "https://www.biodic.go.jp/reports2/6th/6_bird_species/pdf/kurosagi.pdf",
+      "used": "번식기"
     }
   ],
   "todo": [],

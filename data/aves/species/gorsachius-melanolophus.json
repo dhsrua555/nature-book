@@ -5,16 +5,18 @@
   "author": "Raffles, 1822",
   "en": "Malayan Night Heron",
   "ktsn": 120000001531,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "48–51cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "울창하고 습한 숲, 숲속 개울가, 숲 가까운 풀밭과 논밭",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "국내에서는 2006년 6월 전북 군산 시내에서 고양이에게 다친 채 발견된 한 마리가 첫 기록인 길잃은새이다. 인도, 중국 남부, 타이완, 동남아시아, 필리핀, 일본 류큐 제도 남부에 걸쳐 살며, 북쪽 무리 가운데 일부는 겨울에 남쪽으로 옮겨 간다. 주로 해 질 녘부터 새벽 사이에 숲 바닥이나 풀밭을 천천히 걸으며 지렁이를 즐겨 잡고 개구리, 두꺼비, 곤충 따위도 먹는다. 낮에는 빽빽한 숲이나 대숲 속에 숨어 쉰다.",
   "points": [
     {
       "ko": "검은 정수리와 댕기",
@@ -38,11 +40,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다. 번식기에는 수컷의 댕기가 조금 더 길고 눈앞 피부가 더 짙은 파란색을 띤다는 보고가 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새와 전혀 달리 몸 윗면이 어두운 갈색 바탕에 흰 점과 담황색 물결무늬가 촘촘하고, 검은 머리꼭대기와 댕기에도 흰 점이 있으며, 아랫면은 흰 바탕에 갈색 점과 가로무늬가 빽빽하다. 자라면서 눈 둘레에 옅은 파란 피부가 드러난다.",
+  "similar": [
+    {
+      "ko": "붉은해오라기",
+      "how": "붉은해오라기는 머리꼭대기가 적갈색이고 눈앞이 파랗지 않으며 날개깃 끝이 적갈색이지만, 푸른눈테해오라기는 머리꼭대기와 댕기가 검고 눈 둘레가 파라며 첫째날개깃 끝이 희다."
+    }
+  ],
   "art": {
     "subject": "Malayan Night Heron (Gorsachius melanolophus), adult: crown and short crest black; sides of the head and neck rich rufous-chestnut; back and wing coverts chestnut-brown finely vermiculated with black; throat white with a black stripe down the centre of the foreneck; underparts buffy-rufous with bold black-and-white streaks and spots down the centre; flight feathers black, the primaries tipped white. Bill short, thick and dark; bare lores and skin around the eye vivid blue; iris yellow; legs and feet greenish.",
     "pose": "standing still on a shaded forest floor with the neck drawn in, side view",
@@ -92,10 +99,46 @@
       "title": "Malayan Night Heron – IUCN-SSC Heron Specialist Group",
       "url": "https://heronconservation.org/herons-of-the-world/list/malayan-night-heron/",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 푸른눈테해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/malayan-night-heron/",
+      "used": "몸길이·사는 곳·해설·어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 푸른눈테해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "강정훈 외 (2008) 한국조류학회지 15(1): 95–97, 푸른눈테해오라기 국내 첫 기록 – 푸른눈테해오라기",
+      "url": "https://vufind.katalog.k.utb.cz/SummonRecord/FETCH-LOGICAL-n632-30170d3ab5f9803705588938c77fafffff3541fe1eaca4e1478bfceac56e60973",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 푸른눈테해오라기",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 푸른눈테해오라기",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 푸른눈테해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022500",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – 푸른눈테해오라기",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 국내외 종 설명(HKBWS·HSG·Baker·Sharpe)과 국내 첫 기록 논문(강정훈 외 2008)으로 채웠다",
+    "BK 목록 코드 V2(기록 10건 미만)이나 2006년 6월 군산 말고 다른 국내 기록의 날짜를 찾지 못해 관찰 시기는 6월만 넣었다(2008년 5월 소청도의 Gorsachius 한 마리는 붉은해오라기 2년째 새로 보았으나 이 종일 가능성도 남는다고 BK 2008이 적음)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,15 +5,18 @@
   "author": "Gmelin, 1789",
   "en": "Cinnamon Bittern",
   "ktsn": 120000001526,
-  "origin": "nibr",
   "length": "40cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "논, 갈대밭, 습지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7
+    ],
     "breed": [],
-    "note": "번식지에서는 5~8월에 알을 낳는다."
+    "note": "국내 기록은 대부분 5월 하순~6월 초 서남해 섬에 몰려 있고 7월까지 이어지며(9월·12월 기록도 한 번씩 있다), 번식지에서는 5~8월에 알을 낳는다."
   },
   "summary": "우리나라에서는 미조로 알려져 있고, 제주도 용담동에 서식한다. 논, 갈대밭, 습지에서 홀로 또는 암수가 함께 지내며, 얕은 물속이나 진흙 위를 느릿느릿 걸으며 물고기, 개구리 따위를 잡아먹는다. 갈대밭이나 물 위 수초 줄기 사이에 풀잎과 갈대 줄기로 접시 모양 둥지를 짓고 알을 5~6개 정도 낳는다. 세계적으로는 일본 오키나와를 비롯한 동아시아에 분포하며, 한쪽 날개 길이는 14~15cm이다.",
   "points": [
@@ -43,8 +46,13 @@
     "male": "몸 윗면이 붉은 갈색이고, 번식기에는 눈앞이 붉어진다.",
     "female": "몸 윗면이 수컷보다 짙은 갈색이고, 뚜렷한 검은 갈색 세로무늬가 여러 줄 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른 암컷과 비슷하나 몸 윗면이 더 갈색이고 날개덮깃에 모래빛 반점과 가는 줄무늬가 많으며, 앞목과 아랫면의 짙은 갈색 세로줄무늬가 더 굵고 뚜렷하다.",
+  "similar": [
+    {
+      "ko": "큰덤불해오라기",
+      "how": "큰덤불해오라기는 날 때 검은 날개깃과 옅은 담황색 날개덮깃이 대비되지만, 열대붉은해오라기 수컷은 날개깃까지 온통 계피색이다."
+    }
+  ],
   "art": {
     "subject": "Cinnamon Bittern (Ixobrychus cinnamomeus), adult male in summer: crown, hindneck, back, wings and tail uniform bright cinnamon-rufous, with no black in the wings or crown; sides of the neck and underparts paler cinnamon-buff, yellowish-buff on the belly; a single dark brown stripe down the centre of the throat and foreneck; bill yellow with a darker culmen; bare lores yellow, flushed red in the breeding season; yellow iris; legs greenish-yellow.",
     "pose": "walking slowly over mud in shallow water, hunting",
@@ -84,6 +92,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 열대붉은해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022300",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 열대붉은해오라기",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 열대붉은해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/cinnamon-bittern/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 기록 정리 – 열대붉은해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 열대붉은해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 열대붉은해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 열대붉은해오라기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Botaurus%20cinnamomeus",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 조류 기록 정리 – 열대붉은해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 열대붉은해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022200",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

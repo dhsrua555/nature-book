@@ -5,16 +5,25 @@
   "author": "Temminck & Schlegel, 1845",
   "en": "Eastern Buzzard",
   "ktsn": 120000528837,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "47–59cm",
   "status": "나그네새·겨울철새, 해마다 수천 마리 · 여름에도 드물게 기록(10건 미만)",
-  "habitat": "TODO",
+  "habitat": "농경지, 하천과 물가의 트인 땅, 낮은 산의 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "12~2월에 가장 많고, 6~9월에도 드물게 기록된다."
   },
-  "summary": "TODO",
+  "summary": "해마다 수천 마리가 찾아오는 나그네새이자 겨울철새로, 10월부터 이듬해 4월까지 전국의 농경지와 물가의 트인 땅, 낮은 산의 숲 가장자리에서 흔히 보인다. 나무나 전봇대 같은 높은 곳에 앉아 들판을 살피거나 정지비행을 하다가 내려앉아 들쥐 같은 작은 포유류를 주로 잡고, 곤충이나 작은 새도 먹는다. 시베리아 남동부와 몽골 북부, 중국 북부, 사할린, 일본에서 번식하며, 일본에서 번식하는 무리는 대부분 한 해 내내 머문다.",
   "points": [
     {
       "ko": "옅은 황백색 머리",
@@ -38,8 +47,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
   "young": "TODO",
   "similar": [],
@@ -77,11 +86,37 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eastern Buzzard(말똥가리)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/026500",
+      "used": "몸길이, 사는 곳, 해설"
+    },
+    {
+      "title": "日本野鳥の会 BIRD FAN 野鳥図鑑 – ノスリ(말똥가리)",
+      "url": "https://www.birdfan.net/buteo_buteo/",
+      "used": "몸길이, 사는 곳, 해설"
+    },
+    {
+      "title": "코토뱅크(세계대백과사전·니포니카·브리태니커) – ノスリ(말똥가리)",
+      "url": "https://kotobank.jp/word/%E3%83%8E%E3%82%B9%E3%83%AA",
+      "used": "몸길이, 사는 곳, 해설, 암수 구별"
+    },
+    {
+      "title": "위키백과 일본어판(日本鳥類目録 改訂第8版 인용 부분) – ノスリ(말똥가리)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B9%E3%83%AA",
+      "used": "해설, 암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 말똥가리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=5844385&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)"
+    "국립생물자원관 종 설명이 없어 해설·사는 곳은 홍콩조류학회·日本野鳥の会·코토뱅크 자료와 국내 관찰 기록(새와 생명의 터 목록, eBird, iNaturalist)으로 썼다",
+    "동정 포인트는 국립생물자원관 원문에 생김새 설명이 없어 그림용 형태 정보(art.subject·build, 조류 도감 일반 지식)에서 옮겼다(확인 필요)",
+    "어린새: 홍콩조류학회('어린새는 날개 뒷가장자리의 어두운 띠가 흐릿하다') 한 곳에서만 확인되어 비워 둠"
   ],
   "occurrence": {
     "code": "P3, W3, SV2",

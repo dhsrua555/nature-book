@@ -5,14 +5,23 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Bittern",
   "ktsn": 120000001522,
-  "origin": "nibr",
   "length": "약 76cm",
   "status": "겨울철새·나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "갈대밭, 풀이 우거진 습지, 호수",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "주로 11월부터 이듬해 3월까지 겨울을 나고 4~5월과 10월에 지나가는 개체가 보이며, 여름에도 드물게 기록된다."
   },
   "summary": "갈대밭, 풀이 무성한 습지, 호수 등에서 홀로 지내는 겨울철새이다. 주로 밤에 움직이지만 낮에 활동할 때도 있다. 유럽, 시베리아, 중국 북부 등지에서 번식하고 한국, 일본, 중국 남부, 보르네오섬, 말레이시아 등지에서 겨울을 난다.",
   "points": [
@@ -45,7 +54,7 @@
     "alike": true,
     "text": "암수가 같은 무늬다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 전체적으로 빛깔이 옅고 무늬가 흐리며, 정수리와 뺨선이 새까맣지 않고 갈색 줄무늬로 되어 있다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Bittern (Botaurus stellaris), adult as seen in Korean reedbeds in winter (plumage the same all year): forehead and crown black; a broad blackish moustachial stripe from the bill base down the side of the throat; cheeks and neck sides golden-buff; throat whitish-buff with a thin dark brown central stripe and further rufous-brown stripes down the foreneck; hindneck buff barred dark; back and scapulars black with jagged buff edges, the rest of the upperparts golden-brown densely mottled and vermiculated black; breast and belly buff boldly streaked blackish-brown. Thick dagger-shaped bill yellow with a darker ridge; yellow iris; legs yellowish-green.",
@@ -85,6 +94,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Eurasian Bittern",
+      "url": "http://www.oiseaux-birds.com/card-eurasian-bittern.html",
+      "used": "어린새"
+    },
+    {
+      "title": "영어 위키백과(Witherby 1943 Handbook of British Birds 인용) – Eurasian bittern",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_bittern",
+      "used": "어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Ageing and sexing(Aranzadi) – Eurasian Bittern",
+      "url": "https://www.blascozumeta.com/specie_files/00950_ENG_Botaurus_stellaris_aranzadi.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 알락해오라기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480910&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

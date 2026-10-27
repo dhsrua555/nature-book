@@ -5,15 +5,19 @@
   "author": "Linnaeus, 1758",
   "en": "Indian Paradise Flycatcher",
   "ktsn": 120000001950,
-  "origin": "nibr",
   "length": "수컷 22cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "산지의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      9
+    ],
     "breed": [],
-    "note": "번식기는 5~7월이다(원문은 번식지를 인도·동남아시아·중국 등으로 적었다)."
+    "note": "국내에서 기록된 달이다. 1910~30년대에는 평안북도에서 5월 하순~6월 초 봄 이동기에 드물지 않게 채집되었고, 남한에서는 5월과 9월에 드물게 기록된다."
   },
   "summary": "산지의 숲에서 생활하는 새이다. 나뭇가지에 둥지를 틀고 5~7월에 한배에 알 3~4개를 낳아 암수가 함께 품는다. 인도, 동남아시아, 중국 등지에서 번식하며, 북쪽에서 번식하는 무리는 남쪽으로 내려가 겨울을 난다.",
   "points": [
@@ -43,11 +47,17 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "머리와 댕기, 멱이 광택 있는 청흑색이고 가슴은 회색, 배는 희며, 등과 꼬리는 밝은 적갈색이다. 번식기에는 가운데 꼬리깃 두 개가 길게 늘어나고, 눈테와 부리가 푸르다.",
+    "female": "수컷보다 작고 꼬리깃이 길게 늘어나지 않는다. 머리의 광택이 덜하고 댕기가 짧으며 눈테가 가늘고, 몸 윗면은 밤색이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른 암컷과 비슷하나 더 칙칙하고 눈테가 흐리며, 부리는 어두운 갈색에 아랫부리 기부가 옅다. 어린 수컷은 등이 암컷보다 짙은 밤색이고 아랫면 대부분이 회색이다.",
+  "similar": [
+    {
+      "ko": "긴꼬리딱새",
+      "how": "긴꼬리딱새는 수컷의 등이 자줏빛 밤색이고 꼬리가 검으며 암컷과 어린새도 머리에 광택이 없고 가슴과 흰 배의 경계가 뚜렷하지만, 북방긴꼬리딱새는 머리가 광택 있는 검은색이고 회색 가슴이 배 쪽으로 흐릿하게 이어지며 등과 꼬리가 밝은 적갈색이다."
+    }
+  ],
   "art": {
     "subject": "Indian Paradise Flycatcher (Terpsiphone paradisi; the northern population incei, Amur Paradise Flycatcher), adult male rufous morph in late spring and summer: head, crest and throat glossy blue-black, shading into dark grey on the breast and flanks; belly and undertail coverts white; back, scapulars, wings, rump, uppertail coverts and the very long tail streamers bright rufous-chestnut, the flight feathers with darker brown inner webs. Bill bright cobalt blue; a wide bare cobalt-blue eye-ring around the dark eye; legs dark grey.",
     "pose": "perched on a branch inside the forest, long tail hanging down",
@@ -95,6 +105,56 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 북방긴꼬리딱새(Amur Paradise Flycatcher)",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/033000",
+      "used": "암수 구별·어린새·비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 긴꼬리딱새",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/033100",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Sharpe (1879) Catalogue of the Birds in the British Museum 4권 – 북방긴꼬리딱새(Terpsiphone incei)",
+      "url": "https://archive.org/details/catalogueofbirds04brit",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 북방긴꼬리딱새",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 5월 새 소식 – 북방긴꼬리딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2013년 5월 새 소식 – 북방긴꼬리딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 북방긴꼬리딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 6월 새 소식 – 긴꼬리딱새·북방긴꼬리딱새",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-06.shtml",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(2025년 9월 제주 대정) – 북방긴꼬리딱새",
+      "url": "https://www.inaturalist.org/observations/317229327",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF 한국 기록(박물관 표본 포함) – 북방긴꼬리딱새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&scientific_name=Terpsiphone%20incei",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

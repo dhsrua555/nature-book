@@ -5,7 +5,6 @@
   "author": "Swinhoe, 1860",
   "en": "Chinese Egret",
   "ktsn": 120000001548,
-  "origin": "nibr",
   "length": "약 68cm",
   "status": "여름철새, 해마다 수백 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "해안의 만, 하구, 간석지, 갯벌, 논",
@@ -14,8 +13,21 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "4월 중순에 돌아와 10월 중순까지 머물며, 11월에 남는 개체와 겨울 기록도 드물게 있다."
   },
   "summary": "해안의 만, 하구, 간석지, 갯벌, 논 등에 사는 드문 여름철새이다. 갯벌이나 바다 가까운 습지에서 물고기, 게와 새우 같은 갑각류, 갯지렁이 따위를 주로 잡고, 썰물에 드러난 갯벌, 염전, 농경지, 저수지에서도 먹이를 찾는다. 여름에는 강화 남단 갯벌, 한강 하구, 안산 섬 지역, 안면도, 천수만 등에서 먹이를 찾는 모습이 종종 보인다. 세계 개체군의 대부분이 서해안의 무인도에서 번식한다.",
   "points": [
@@ -48,8 +60,13 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새 겨울깃처럼 온몸이 흰색이고 장식깃이 없다. 윗부리는 거무스름하고 아랫부리 기부 쪽이 주황빛~노란빛이며, 다리는 칙칙한 황록색이다.",
+  "similar": [
+    {
+      "ko": "쇠백로",
+      "how": "쇠백로는 부리가 사철 검고 뒷머리 장식깃이 두 가닥이지만, 노랑부리백로는 번식기에 부리가 노랗고 눈앞이 파라며 뒷머리 장식깃이 덥수룩하다."
+    }
+  ],
   "art": {
     "subject": "Chinese Egret (Egretta eulophotes), adult in breeding plumage, as seen on Korean west-coast tidal flats from May to July: plumage entirely white; a bushy, shaggy crest of many long white plumes on the nape; long lacy plumes on the back reaching past the tail, and shorter plumes on the lower foreneck. Bill bright orange-yellow; bare lores bright blue; iris yellow; legs black, feet yellow to greenish-yellow.",
     "pose": "walking across a tidal mudflat, hunting fish and crabs",
@@ -88,6 +105,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 노랑부리백로",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/chinese-egret/",
+      "used": "어린새·번식기·비슷한 종"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 핵심종 글 Moores (2003) The Tidal-flat Egret – 노랑부리백로",
+      "url": "http://www.birdskorea.org/Birds/Key_Species/BK-KS-Chinese-Egret.shtml",
+      "used": "어린새·관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 노랑부리백로",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023700",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 노랑부리백로",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2480887",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 노랑부리백로",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 기록 정리 – 노랑부리백로",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 노랑부리백로",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "번식기"
     }
   ],
   "todo": [],

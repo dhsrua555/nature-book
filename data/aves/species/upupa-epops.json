@@ -5,13 +5,25 @@
   "author": "Linnaeus, 1758",
   "en": "Common Hoopoe",
   "ktsn": 120000001899,
-  "origin": "nibr",
   "length": "약 28cm",
   "status": "나그네새 수천 마리 · 여름철새 수천 마리 · 겨울철새 수백 마리",
   "habitat": "농촌, 농경지, 구릉지, 야산 노거수의 구멍",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       4,
       5,
@@ -47,10 +59,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나, 암컷이 조금 작고 몸빛이 약간 흐리다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른 암컷과 비슷하나 몸빛이 더 칙칙하고, 둥지를 갓 떠났을 때는 부리가 짧고 덜 굽었다.",
   "similar": [],
   "art": {
     "subject": "Common Hoopoe (Upupa epops), adult as seen in Korean farmland from April to September: head, neck and breast soft pinkish-buff, the chin and upper throat edged whitish; a large fan-shaped erectile crest of long pinkish-buff feathers, each tipped black, the rear feathers with a white band before the black tip; mantle pinkish- to greyish-brown; wings black boldly barred with broad creamy-white bands; lower back and upper rump banded creamy white and blackish-brown; uppertail coverts black; tail black with a broad white band across the middle; belly whitish, the flanks lightly streaked dark. Bill long, slender, gently decurved and black; brown iris; legs grey.",
@@ -91,6 +103,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 후투티",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2498415&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eurasian Hoopoe(후투티)",
+      "url": "https://avifauna.hkbws.org.hk/species/0200/027600",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 독일어판 – Wiedehopf(후투티)",
+      "url": "https://de.wikipedia.org/wiki/Wiedehopf",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 일본어판 – ヤツガシラ(후투티)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%84%E3%82%AC%E3%82%B7%E3%83%A9",
+      "used": "암수 구별"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon's Birds(Ibercaja Aula en Red) – Hoopoe(후투티)",
+      "url": "https://web.archive.org/web/20141202064847/http://aulaenred.ibercaja.es/wp-content/uploads/286_HoopoeUepops.pdf",
+      "used": "어린새"
+    },
+    {
+      "title": "위키백과 중국어판(Beaman & Madge 인용 부분) – 戴胜(후투티)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%88%B4%E8%83%9C",
+      "used": "어린새"
     }
   ],
   "todo": [],

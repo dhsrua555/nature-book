@@ -5,16 +5,15 @@
   "author": "Linnaeus, 1766",
   "en": "Red-footed Booby",
   "ktsn": 120000001561,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 70cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "먼바다, 섬 앞바다",
   "protect": [],
   "months": {
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "열대 바다에 사는 가장 작은 얼가니새로, 국내에서는 1986년에 처음 채집되었고 2009년 7월 흑산도 앞바다에서 어린새가 관찰되는 등 기록이 아주 드문 길잃은새다. 바다 위를 날다가 내리꽂듯 잠수하거나 날면서 날치와 오징어를 잡는다. 땅에 둥지를 트는 다른 얼가니새와 달리 열대 섬의 나무나 덤불 위에 나뭇가지로 둥지를 짓는다. 인도양, 태평양, 대서양 서부의 열대 바다에 널리 퍼져 산다.",
   "points": [
     {
       "ko": "검은 첫째·둘째날개깃의 흰 몸(백색형)",
@@ -34,10 +33,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 온몸이 갈색이나 잿빛 갈색이고 아랫면이 조금 옅으며 가슴에 짙은 띠가 있고, 다리는 잿빛이나 분홍빛 도는 회색이다.",
   "similar": [],
   "art": {
     "subject": "Red-footed Booby (Sula sula), adult white morph: plumage white, sometimes with a faint golden-yellow wash on the head and neck; primaries and secondaries black, forming a black rear half of the wing; a black patch on the underwing at the base of the primaries; tail white. Bill pale blue-grey with a pink base; bare facial skin pink and blue around the bill base and eye; legs and feet bright red.",
@@ -88,11 +87,27 @@
       "title": "Audubon Field Guide – Red-footed Booby",
       "url": "https://www.audubon.org/field-guide/bird/red-footed-booby",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "New Zealand Birds Online(HBW·Marchant & Higgins 바탕) – Red-footed booby",
+      "url": "https://www.nzbirdsonline.org.nz/species/red-footed-booby",
+      "used": "몸길이, 해설, 어린새, 암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Sula sula",
+      "url": "https://animaldiversity.org/accounts/Sula_sula/",
+      "used": "몸길이, 해설, 암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Birdnews 2009 Review – Red-footed Booby(2009년 7월 25일 흑산도 앞바다, 국내 두 번째 기록)",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳, 해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·해설·생김새는 국내외 종 설명(출처 목록)으로 채웠다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "국내 기록은 1986년 채집(달 모름)과 2009년 7월 25일 흑산도 앞바다 관찰(새와 생명의 터)뿐이라, 기록 달을 두 곳 이상에서 확인하지 못해 볼 수 있는 달은 비워 두었다"
   ],
   "occurrence": {
     "code": "V2",

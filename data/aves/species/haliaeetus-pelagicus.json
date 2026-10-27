@@ -5,7 +5,6 @@
   "author": "Pallas, 1811",
   "en": "Steller's Sea Eagle",
   "ktsn": 120000001588,
-  "origin": "nibr",
   "length": "88–102cm",
   "status": "겨울철새, 해마다 수십 마리",
   "habitat": "해안가의 절벽과 언덕, 나무 위",
@@ -14,7 +13,13 @@
     "멸종위기 야생생물 Ⅰ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "breed": [],
     "note": "번식기는 4~5월이다."
   },
@@ -46,11 +51,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 더 크다."
   },
   "young": "어린새는 온몸이 검게 보인다. 꼬리는 흰색이지만 가장자리가 갈색이고, 첫째날개깃과 날개덮깃에 군데군데 흰색이 있다.",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "흰꼬리수리",
+      "how": "흰꼬리수리 어른새는 이마와 어깨, 다리깃이 희지 않고 꼬리만 희며, 부리가 참수리보다 작다."
+    }
+  ],
   "art": {
     "subject": "Steller's Sea Eagle (Haliaeetus pelagicus), adult in Korean winter (December–March): body, head and neck blackish-brown; forehead and forecrown white; lesser and median upperwing coverts white, forming a large white patch on the shoulder of the folded wing; thighs (feathered 'trousers'), undertail coverts, rump and uppertail coverts white; tail entirely white, long and wedge-shaped; flight feathers blackish-brown. Enormous, deep, strongly arched bill and cere bright orange-yellow; pale yellow iris; feet yellow with black talons.",
     "pose": "perched on a cliff-top tree overlooking the sea",
@@ -90,6 +100,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 참수리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480445&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전·세계대백과사전·일본대백과전서) – オオワシ(참수리)",
+      "url": "https://kotobank.jp/word/%E3%82%AA%E3%82%AA%E3%83%AF%E3%82%B7",
+      "used": "암수 구별, 비슷한 종"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전·세계대백과사전·일본대백과전서) – オジロワシ(흰꼬리수리)",
+      "url": "https://kotobank.jp/word/%E3%82%AA%E3%82%B8%E3%83%AD%E3%83%AF%E3%82%B7",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Animal Diversity Web – Haliaeetus pelagicus(참수리)",
+      "url": "https://animaldiversity.org/accounts/Haliaeetus_pelagicus/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "위키백과 영어판(Ferguson-Lees & Christie 인용 부분) – Steller's sea eagle(참수리)",
+      "url": "https://en.wikipedia.org/wiki/Steller%27s_sea_eagle",
+      "used": "암수 구별"
     }
   ],
   "todo": [],

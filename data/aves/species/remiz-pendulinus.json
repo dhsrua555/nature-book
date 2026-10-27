@@ -5,19 +5,27 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Penduline Tit",
   "ktsn": 120000001983,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "10–11cm",
   "status": "나그네새 수천 마리 · 겨울철새 수백 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "강가의 갈대밭, 강가와 호숫가의 숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
     "breed": [
       5,
       6,
       7
     ],
-    "note": "알은 5월 하순~7월 중순에 낳는다."
+    "note": "10월 하순부터 이듬해 5월까지 강가 갈대밭에서 보이고 여름에는 드물게 기록되며, 번식하는 곳에서는 5월 하순~7월 중순에 알을 낳는다."
   },
   "summary": "봄과 가을에 작은 무리를 지어 규칙적으로 우리나라를 지나가는 나그네새이다. 겨울에는 무리 지어 강가 갈대밭에서 지내고, 여름에는 강가나 호숫가 숲에서 번식하며 물 위로 늘어진 버드나무 가지 끝에 둥지를 매달고 한배에 5~10개, 흔히 7개의 알을 낳는다. 곤충의 유충을 주로 먹고 새끼는 나비목 유충을 먹고 자라며, 겨울에는 풀씨를 먹는다. 한국 일부 지역과 만주, 내몽골, 중국 서북부 윈난 성, 일본 등지에서 번식한다.",
   "points": [
@@ -47,10 +55,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "이마에서 눈 뒤까지 검은 눈가림 무늬가 뚜렷하고 머리는 연한 회색이며, 윗등에 적갈색 띠가 있다.",
+    "female": "눈가림 무늬가 갈색으로 작고 흐리며, 윗면은 연한 담갈색, 아랫면은 모래색을 띤다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리의 검은 눈가림 무늬와 윗등의 밤색이 없고, 첫겨울에도 눈가림 무늬가 흐릿해 전체가 수수한 담갈색으로 보인다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Penduline Tit (Remiz pendulinus), adult male of the eastern form consobrinus that occurs in Korea, in autumn and winter: forehead, lores, cheeks and ear-coverts form a brownish-black mask; crown and nape greyish with fine dark shaft streaks; a dull white supercilium above the mask; a chestnut band across the upper mantle that spreads onto the sides of the breast; rest of the back, rump and uppertail coverts greyish-buff; wings dark brown with buff and rufous fringes; tail dark brown with pale buff edges; chin white; throat, breast and undertail coverts creamy buff; fine, sharply pointed grey bill with a darker culmen; dark brown eye; dark blue-grey legs.",
@@ -92,6 +101,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Chinese Penduline Tit",
+      "url": "https://avifauna.hkbws.org.hk/species/0270/035000",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Chinese Penduline Tit",
+      "url": "https://www.oiseaux.net/birds/chinese.penduline.tit.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Aegithalus pendulinus(consobrinus 포함)",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird 등) Remiz consobrinus",
+      "url": "https://www.gbif.org/occurrence/search?taxon_key=2487384&country=KR",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

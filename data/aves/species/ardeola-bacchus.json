@@ -5,14 +5,26 @@
   "author": "Bonaparte, 1855",
   "en": "Chinese Pond Heron",
   "ktsn": 120000001537,
-  "origin": "nibr",
   "length": "약 45cm",
   "status": "나그네새 수백 마리 · 여름철새 수십 마리 · 겨울에도 드물게 기록",
   "habitat": "호수, 연못, 논, 해안의 암석지",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "breed": [
+      5,
+      6,
+      7
+    ],
+    "note": "4월 하순~5월 봄 이동기에 서해 섬에서 가장 많고, 11월~이듬해 2월에도 드물게 기록된다."
   },
   "summary": "드물게 지나가는 나그네새이며, 매우 드물게 여름철새로 머물기도 한다. 호수, 연못, 논, 바닷가 암석 지대 등에 살며 작은 척추동물, 곤충, 물고기 따위를 주로 잡아먹는다. 한국, 중국 동북부, 우수리, 베트남, 미얀마 등지에서 번식하고, 중국 남부, 대만, 동남아시아 등에서 겨울을 난다.",
   "points": [
@@ -45,7 +57,7 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어른새 겨울깃과 비슷하게 머리·목·가슴에 굵은 갈색 세로줄무늬가 있고 등은 칙칙한 갈색이며, 첫해에는 흰 날개와 꼬리 끝에 옅은 갈색 얼룩이 섞인다.",
   "similar": [],
   "art": {
     "subject": "Chinese Pond Heron (Ardeola bacchus), adult in breeding plumage, as seen in Korean rice paddies from May to August: head, neck and breast deep maroon-chestnut, with long chestnut plumes hanging from the hindneck and over the breast; mantle and back slate blue-grey, covered by long hair-like plumes; wings, rump, tail and belly pure white; at rest the white wings are largely covered by the dark back plumes and show only along the lower edge of the folded wing. Bill yellow with a black tip; lores greenish-yellow; iris yellow; legs yellowish-green.",
@@ -86,9 +98,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 흰날개해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022900",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 흰날개해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/chinese-pond-heron/",
+      "used": "어린새·번식기"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 흰날개해오라기",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 흰날개해오라기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2480907",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 흰날개해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기·번식기"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 흰날개해오라기",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2007년 조류 기록 정리 – 흰날개해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2007.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 흰날개해오라기",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식 시기를 직접 다룬 자료가 없어 번식기는 중국 자료(4~7월 번식, 5월 산란)와 BK 2006 군산 기록(5월 초 도착, 여름 동안 번식 성공)으로 적었다"
+  ],
   "occurrence": {
     "code": "P4, S5, WV1",
     "bs": "1",

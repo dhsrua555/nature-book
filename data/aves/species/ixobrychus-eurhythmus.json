@@ -5,7 +5,6 @@
   "author": "Swinhoe, 1873",
   "en": "Von Schrenck's Bittern",
   "ktsn": 120000001525,
-  "origin": "nibr",
   "length": "약 38cm",
   "status": "여름철새, 해마다 수십 마리",
   "habitat": "갈대밭, 작은 물웅덩이, 풀이 우거진 습지",
@@ -13,13 +12,20 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       5,
       6,
       7
     ],
-    "note": "5~7월에 알을 낳는다."
+    "note": "5월에 와서 10월까지 머물며, 5~7월에 알을 낳는다."
   },
   "summary": "갈대밭, 작은 물웅덩이, 풀이 무성한 습지에 사는 드문 여름철새로, 서남해안에 서식한다. 물고기, 개구리, 곤충 따위를 주로 잡아먹는다. 물가의 갈대 줄기 위나 풀이 우거진 땅 위에 풀잎과 줄기로 둥지를 짓고 알 5~6개를 낳는다. 세계적으로는 동아시아에 분포한다.",
   "points": [
@@ -53,8 +59,13 @@
     "male": "이마에서 어깨까지 어두운 밤색이다.",
     "female": "이마와 머리꼭대기는 수컷과 같으나, 어두운 밤색 등과 어깨에 작고 둥근 흰 점이 흩어져 있다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른 암컷과 비슷하게 몸 윗면이 어두운 밤갈색 바탕에 흰색~담황색 점이 촘촘히 흩어져 있고, 아랫면에는 갈색 세로줄무늬가 굵게 나 있다.",
+  "similar": [
+    {
+      "ko": "덤불해오라기",
+      "how": "덤불해오라기는 등이 옅은 황갈색이고 날개덮깃이 밝은 담황색이지만, 큰덤불해오라기 수컷은 등과 어깨가 어두운 밤색이고 부리가 더 굵다."
+    }
+  ],
   "art": {
     "subject": "Von Schrenck's Bittern (Ixobrychus eurhythmus), adult male in the breeding season, as seen in Korean reedbeds from May to August: crown, hindneck, back and scapulars uniformly dark chestnut-maroon; ear-coverts and neck sides deep reddish-chestnut; chin and sides of the throat creamy white; foreneck, breast and belly buff, with a single dark brown stripe running from the chin down the centre to the breast; breast sides and flanks washed brown; the folded wing is mostly covered by the chestnut scapulars, so the buff wing coverts and blackish flight feathers show mainly in flight; rump paler chestnut-brown. Bill with a dark upper ridge and a paler yellowish lower mandible; yellow iris; legs yellowish-green.",
     "pose": "standing motionless among reeds at the water's edge, side view",
@@ -94,6 +105,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 큰덤불해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022200",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 큰덤불해오라기",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 큰덤불해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/schrenks-bittern/",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 큰덤불해오라기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Botaurus%20eurhythmus",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 큰덤불해오라기",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – 큰덤불해오라기",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

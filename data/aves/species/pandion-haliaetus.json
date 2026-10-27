@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Osprey",
   "ktsn": 120000001581,
-  "origin": "nibr",
   "length": "54–64cm",
   "status": "나그네새 수백 마리 · 겨울철새 수십 마리 · 텃새 수십 마리",
   "habitat": "해안, 호수, 강 하구",
@@ -53,10 +52,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같으나 암컷이 조금 크고, 가슴의 갈색 띠가 더 짙고 뚜렷한 편이다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 등과 날개덮깃 끝에 흰색~연한 황갈색 테가 있어 윗면이 비늘무늬처럼 보이고, 머리에 어두운 세로줄이 더 많다.",
   "similar": [],
   "art": {
     "subject": "Osprey (Pandion haliaetus), adult, as seen on Korean south-coast estuaries in winter and on passage: head white with fine dark streaks on the crown and a short shaggy nape crest; a broad blackish-brown stripe from the eye down the side of the neck to the mantle; upperparts dark brown; underparts white with a band of brown streaks across the upper breast; underwing with white coverts, a blackish carpal patch at the wrist and finely barred flight feathers; tail brown and barred. Bill black and strongly hooked, with a blue-grey cere; iris bright yellow; legs and feet pale blue-grey, with long curved black talons.",
@@ -96,6 +95,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외 (1920–24) A Practical Handbook of British Birds 2권 – The Osprey",
+      "url": "https://archive.org/details/practicalhandboo2913with",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Pandion haliaetus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Osprey",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/023900",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Pandion haliaetus",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "어린새"
+    },
+    {
+      "title": "Bird Society of Singapore, Birds of Singapore – Osprey",
+      "url": "https://singaporebirds.com/species/osprey",
+      "used": "어린새"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Pandion haliaetus",
+      "url": "https://animaldiversity.org/accounts/Pandion_haliaetus/",
+      "used": "어린새·암수 구별"
     }
   ],
   "todo": [],

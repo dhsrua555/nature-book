@@ -5,14 +5,27 @@
   "author": "Linnaeus, 1758",
   "en": "Lesser Spotted Woodpecker",
   "ktsn": 120000001909,
-  "origin": "nibr",
-  "length": "TODO",
-  "status": "TODO",
+  "length": "14–16cm",
+  "status": "북한 북동부 고원에 사는 텃새, 남한 기록 없음",
   "habitat": "트인 숲, 잡목 숲, 나무가 있는 초원, 뜰, 과수원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "북한 함경북도 고원에서 한 해 내내 산다."
   },
   "summary": "트인 숲과 잡목 숲, 나무가 섞인 초원, 뜰, 과수원에서 볼 수 있는 아주 작은 딱다구리로, 날개 길이는 9.2~9.4cm이다. 높은 곳에 둥지를 틀고 먹이도 높은 곳에서 찾으며 조용한 편이라, 날개를 치며 내는 소리로 있는 곳을 알아채는 일이 많다. 가지를 따라 기어오르거나 가지 사이를 날고 빈터는 물결치듯 날아 건너며, 작은 가지 속의 애벌레나 거미 같은 먹이를 찾아 나무 꼭대기까지 오르기도 한다. 섬에서는 번식하지 않으며, 영국 잉글랜드 북부 등지에 분포하고 영국에 사는 딱따구리 3종 가운데 가장 드물다.",
   "points": [
@@ -30,7 +43,7 @@
     "male": "정수리가 밝은 빨간색이다.",
     "female": "수컷과 달리 정수리가 밝은 빨간색이 아니다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 몸빛이 흐리고 뒷목이 광택 없는 검은 갈색을 띠며, 수컷뿐 아니라 암컷도 정수리에 붉은 깃이 조금 섞이기도 한다.",
   "similar": [],
   "art": {
     "subject": "Lesser Spotted Woodpecker (Dendrocopos minor), adult male (plumage the same all year), as resident in Korean woodland: forehead buffy-white; crown bright red, bordered black at the rear; nape and hindneck black; face and ear-coverts white, with a black moustachial stripe running from the bill base back and down to the side of the breast; back and wings black crossed by broad white bars, giving a ladder-barred look, with no white shoulder patch; underparts whitish with fine black streaks on the breast sides and flanks; undertail coverts whitish, without any red; tail black in the centre, the outer feathers white barred black; bill short, slate-grey; legs grey.",
@@ -66,16 +79,42 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Dryobates minor)"
+    },
+    {
+      "title": "위키백과 독일어판(Gorman 2004 인용 부분) – Kleinspecht(쇠오색딱다구리)",
+      "url": "https://de.wikipedia.org/wiki/Kleinspecht",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "위키백과 영어판(RSPB 인용 부분) – Lesser spotted woodpecker(쇠오색딱다구리)",
+      "url": "https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "위키백과 일본어판 – コアカゲラ(쇠오색딱다구리)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%B2%E3%83%A9",
+      "used": "몸길이"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon's Birds(Ibercaja Aula en Red) – Lesser Spotted Woodpecker(쇠오색딱다구리)",
+      "url": "https://web.archive.org/web/20141202065731/http://aulaenred.ibercaja.es/wp-content/uploads/294_LesserSpottedWodpeckerminor.pdf",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Austin, O. L. (1948) The Birds of Korea. Bulletin of the Museum of Comparative Zoology 101 – 쇠오색딱다구리(Dendrocopos minor amurensis)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "해설·관찰 시기"
     }
   ],
   "todo": [
-    "원문이 영국 자료로 보인다: 분포를 '영국, 잉글랜드 북부(요크셔, 랭커셔, 웨일즈)'로만 적고(웨일즈는 잉글랜드 북부가 아님) 국내 상태·분포가 없어 status 를 TODO 로 두었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "해설(summary)은 영국 자료로 보인다: 분포를 '영국, 잉글랜드 북부(요크셔, 랭커셔, 웨일즈)'로만 적고(웨일즈는 잉글랜드 북부가 아님) '섬에서는 번식하지 않는다'도 영국 이야기라, 한국 개체군(아종 amurensis, 북한 북동부 고원의 텃새)에 맞게 고쳐 쓸 필요",
+    "국내 상태는 Austin(1948: 함경북도 고원에 국한된 곳에 따라 흔한 텃새)과 IOC 분포(아종 amurensis: 중국 동북부·시베리아·한반도·홋카이도)로 채움. 최근 북한 기록은 확인하지 못함",
+    "번식기(months.breed): 한국·중국 동북부 자료를 찾지 못함(같은 아종이 사는 홋카이도는 4–5월 산란, 독일어 위키백과는 북유럽·시베리아 5–6월 산란으로 적어 자료마다 다름)"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "남한 번식 기록 없음 · 북한 북동부 고원에 텃새로 산다"
 }

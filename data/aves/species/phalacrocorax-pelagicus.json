@@ -5,7 +5,6 @@
   "author": "Pallas, 1811",
   "en": "Pelagic Cormorant",
   "ktsn": 120000001567,
-  "origin": "nibr",
   "length": "약 73cm",
   "status": "겨울철새 수천 마리 · 텃새 수백 마리",
   "habitat": "섬, 해안가 바위와 암벽",
@@ -25,8 +24,13 @@
       11,
       12
     ],
-    "breed": "TODO",
-    "note": "서해 일부 섬에서 무리 지어 번식하고, 겨울에는 해안가 바위에서 볼 수 있다."
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "note": "서해 일부 섬에서 무리 지어 번식하고 겨울에는 해안가 바위에서 보이며, 국내 산란 자료가 적어 번식기는 백령도의 5월 둥지 기록과 번식지의 산란 시기(5~7월)를 따랐다."
   },
   "summary": "해마다 수천 마리가 겨울을 나는 겨울철새이자 비교적 드문 텃새로, 서해 일부 섬에서 무리 지어 번식하고 겨울에는 해안가 바위나 암벽에서 볼 수 있다. 암벽 위나 오목한 자리에 마른 풀과 해초로 둥지를 짓고 한배에 알 3~4개를 낳아 약 31일 동안 품는다. 해마다 같은 자리를 쓰기 때문에 바위가 배설물로 하얗게 덮이기도 한다.",
   "points": [
@@ -55,8 +59,13 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 온몸이 광택 없는 칙칙한 흑갈색으로, 어른새보다 훨씬 수수하다.",
+  "similar": [
+    {
+      "ko": "민물가마우지",
+      "how": "민물가마우지는 훨씬 크고 머리와 부리가 굵으며, 부리 기부의 노란 맨살과 그 둘레의 흰 뺨이 뚜렷하다."
+    }
+  ],
   "art": {
     "subject": "Pelagic Cormorant (Phalacrocorax pelagicus), adult in breeding plumage, as seen on Korean island sea cliffs from February to May: plumage entirely black with a strong metallic gloss, greenish on the body and purplish on the slender neck; two short, ragged tufts, one on the forecrown and one on the hindcrown; a small patch of dull red bare skin on the face around the base of the bill and on the chin; a conspicuous white oval patch on each flank just above the thigh. Back and wings glossy black without brown scaling. Bill very thin and dark. Legs and webbed feet black.",
     "pose": "standing on a ledge of a sea cliff",
@@ -103,9 +112,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Pelagic Cormorant",
+      "url": "https://www.audubon.org/field-guide/bird/pelagic-cormorant",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Pelagic Cormorant",
+      "url": "http://www.oiseaux-birds.com/card-pelagic-cormorant.html",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Baekryeong Island, April 30-May 6(2017, 쇠가마우지 번식 확인)",
+      "url": "https://www.birdskoreablog.org/?p=19433",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Baekryung Island, May 28-31(2015, 둥지 튼 쇠가마우지)",
+      "url": "https://www.birdskoreablog.org/?p=15877",
+      "used": "번식기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Identification Challenge: Korea's Cormorant Conundrum",
+      "url": "https://www.birdskoreablog.org/?p=14250",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Great Cormorant",
+      "url": "https://avifauna.hkbws.org.hk/species/0160/021500",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "번식기(5~8월)는 국내 산란·이소 조사 자료가 없어 백령도 5월 둥지 기록과 번식지 문헌(5~7월 산란, 깬 지 45~55일 뒤 둥지 떠남)으로 정했다(국내 조사로 확인 필요)"
+  ],
   "occurrence": {
     "code": "W3, R4",
     "bs": "1",

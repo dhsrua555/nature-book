@@ -5,14 +5,14 @@
   "author": "Gmelin, 1789",
   "en": "Red-faced Cormorant",
   "ktsn": 120000001568,
-  "origin": "nibr",
   "length": "71–76cm",
-  "status": "TODO",
+  "status": "국내에서 확인된 기록 없음",
   "habitat": "바다 절벽",
   "protect": [],
   "months": {
     "seen": "TODO",
-    "breed": "TODO"
+    "breed": [],
+    "note": "번식지(홋카이도 동부에서 알류샨 열도·알래스카 남부까지)에서는 5~8월에 번식하며 알은 주로 5~6월에 낳는다."
   },
   "summary": "온몸의 깃이 광택 있는 녹청색이고 얼굴이 밝은 붉은색을 띠는 새다. 바다에 면한 절벽에 둥지를 틀고 알 3~4개를 낳는다. 알래스카와 북동아시아에 분포한다.",
   "points": [
@@ -34,11 +34,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 작다."
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "쇠가마우지",
+      "how": "쇠가마우지는 이마까지 깃털로 덮여 얼굴의 붉은 맨살이 좁고, 부리가 거무스름하며 몸집이 조금 작다."
+    }
+  ],
   "art": {
     "subject": "Red-faced Cormorant (Phalacrocorax urile), adult in breeding plumage (late winter to summer): plumage black with a strong iridescent sheen, green to violet on the head and neck and bronzy purple on the back and wings; two short shaggy crests, one on the forehead and one on the nape; a white patch on each flank. Extensive bright red bare skin covering the face around the eye and onto the forehead and the base of the bill; long pale yellowish bill; black legs and webbed feet.",
     "pose": "standing on a ledge of a sea cliff",
@@ -72,15 +77,66 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명 (IOC 학명 Urile urile)"
+    },
+    {
+      "title": "미국 어류야생동물국(USFWS) Alaska Seabird Information Series – Red-faced Cormorant",
+      "url": "https://web.archive.org/web/20170116001144/https://www.fws.gov/alaska/mbsp/mbm/seabirds/pdf/rfco.pdf",
+      "used": "번식기, 번식 기록, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "Oiseaux-birds 종 설명(HBW 등 바탕) – Red-faced Cormorant",
+      "url": "http://www.oiseaux-birds.com/card-red-faced-cormorant.html",
+      "used": "번식기, 암수 구별"
+    },
+    {
+      "title": "コトバンク(日本大百科全書·小学館の図鑑NEO 등) – チシマウガラス",
+      "url": "https://kotobank.jp/word/%E3%83%81%E3%82%B7%E3%83%9E%E3%82%A6%E3%82%AC%E3%83%A9%E3%82%B9",
+      "used": "번식기, 번식 기록"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Red-faced Cormorant",
+      "url": "https://www.audubon.org/field-guide/bird/red-faced-cormorant",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Pelagic Cormorant",
+      "url": "https://www.audubon.org/field-guide/bird/pelagic-cormorant",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "영어 위키백과 – Red-faced cormorant",
+      "url": "https://en.wikipedia.org/wiki/Red-faced_cormorant",
+      "used": "암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) Birdnews 2009년 3월(소청도) – 붉은뺨가마우지는 국내 기록이 없다는 언급",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-03.shtml",
+      "used": "국내 상태"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – Identification Challenge: Korea's Cormorant Conundrum",
+      "url": "https://www.birdskoreablog.org/?p=14250",
+      "used": "국내 상태"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
+      "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
+      "used": "국내 상태, 번식 기록"
+    },
+    {
+      "title": "GBIF – 붉은뺨가마우지 한국 관찰·표본 기록(0건)",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2481874",
+      "used": "국내 상태"
     }
   ],
   "todo": [
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "새와 생명의 터 목록(2022·2024)에 없고 국내에서 확인된 기록이 없어 볼 수 있는 달은 정하지 못했다",
+    "어린새 생김새는 도감 요약 한 곳(Oiseaux-birds: 어른새보다 칙칙한 흑갈색)에서만 확인해 비워 두었다"
   ],
   "occurrence": {
     "code": null,
     "rarity": 9.5,
     "note": "새와 생명의 터 목록(2022·2024)에 없음"
   },
-  "breeding": "TODO"
+  "breeding": "번식 기록 없음"
 }

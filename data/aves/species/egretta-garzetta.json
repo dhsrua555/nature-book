@@ -5,13 +5,25 @@
   "author": "Linnaeus, 1766",
   "en": "Little Egret",
   "ktsn": 120000001546,
-  "origin": "nibr",
   "length": "약 60cm",
   "status": "여름철새 수천 마리 · 겨울철새 수백 마리",
   "habitat": "중대백로·황로 등과 함께 쓰는 집단번식지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "breed": [
       4,
       5,
@@ -19,7 +31,7 @@
       7,
       8
     ],
-    "note": "4월 하순~8월 상순에 알을 낳는다."
+    "note": "한 해 내내 볼 수 있으나 여름에 가장 많고, 4월 하순~8월 상순에 알을 낳는다."
   },
   "summary": "흔한 여름철새로, 흰색 백로류 가운데 가장 작다. 중대백로, 황로 등과 함께 무리 지어 번식하며 4월 하순에서 8월 상순 사이에 알을 3~5개 낳는다. 어류, 개구리, 뱀, 새우와 가재 같은 갑각류, 물속 곤충 따위를 잡아먹는다. 중국, 동남아시아, 인도, 유럽, 아프리카, 뉴기니, 호주에 분포한다.",
   "points": [
@@ -44,8 +56,13 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새 겨울깃처럼 온몸이 흰색이고 장식깃이 없으며, 아랫부리 기부가 분홍빛으로 옅고 끝으로 갈수록 거무스름해진다.",
+  "similar": [
+    {
+      "ko": "노랑부리백로",
+      "how": "노랑부리백로는 번식기에 부리가 노랗고 눈앞이 파라며 장식깃이 덥수룩하지만, 쇠백로는 부리가 검고 뒷머리 장식깃이 두 가닥이다."
+    }
+  ],
   "art": {
     "subject": "Little Egret (Egretta garzetta), adult in breeding plumage, as seen at Korean egret colonies from April to July: plumage uniformly pure white; two long, narrow, ribbon-like white plumes hang from the nape; lacy, filamentous plumes on the lower foreneck and long plumes on the back reaching beyond the tail. Bill slender, pointed and entirely black. Iris yellow. Legs black; toes and feet bright yellow, the yellow sharply set off at the base of the toes.",
     "pose": "perched at the colony, side view, showing its long nape plumes",
@@ -84,6 +101,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 쇠백로",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023500",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 핵심종 글 Moores (2003) The Tidal-flat Egret – 쇠백로",
+      "url": "http://www.birdskorea.org/Birds/Key_Species/BK-KS-Chinese-Egret.shtml",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 쇠백로",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 쇠백로",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2480876",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 쇠백로",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023700",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 쇠백로",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/chinese-egret/",
+      "used": "비슷한 종"
     }
   ],
   "todo": [],

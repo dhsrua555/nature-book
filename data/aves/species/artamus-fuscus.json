@@ -5,16 +5,18 @@
   "author": "Vieillot, 1817",
   "en": "Ashy Woodswallow",
   "ktsn": 120000001925,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 19cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 트인 곳",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2009년 6월 23–24일 인천 옹진군 소청도에서 한 마리가 관찰된 것이 국내 첫 기록인 길잃은새다. 인도와 스리랑카에서 동남아시아, 중국 남부에 걸쳐 대체로 한곳에 머물러 사는 새로, 야자나무가 자라는 트인 땅이나 숲 사이 빈터, 경작지에서 지낸다. 높은 나뭇가지나 전깃줄에 앉아 있다가 날아올라 공중에서 곤충을 잡으며, 여러 마리가 한 가지에 바짝 붙어 앉는 습성이 있다.",
   "points": [
     {
       "ko": "짙은 잿빛 머리와 멱",
@@ -38,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면에 담황갈색 가로무늬가 있고 날개덮깃 끝이 적갈색이며, 아랫면에도 가로무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Ashy Woodswallow (Artamus fuscus), adult: head and throat dark ash-grey, darkest around the lores and eye; mantle and back ash-grey, a little paler than the head; rump and uppertail coverts whitish, forming a pale band above the tail; wings dark grey; underparts pinkish-grey to buff-grey, paler on the belly and vent; tail short, dark grey, narrowly tipped white. Bill thick, conical, pale blue-grey with a dark tip; dark eye; legs dark grey.",
@@ -86,10 +88,30 @@
       "title": "Ashy Woodswallow 灰燕鵙 - Avifauna of Hong Kong (HKBWS)",
       "url": "https://avifauna.hkbws.org.hk/species/0230/030600",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 리뷰 – 회색숲제비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2009년 6월 – 회색숲제비",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-06.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Oates, The Fauna of British India – Birds 1권(1889) – 회색숲제비(Ashy Swallow-Shrike)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207291",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Langrayen brun(회색숲제비)",
+      "url": "https://www.oiseaux.net/oiseaux/langrayen.brun.html",
+      "used": "몸길이·사는 곳·해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

@@ -5,16 +5,18 @@
   "author": "Hodgson, 1836",
   "en": "Crow-billed Drongo",
   "ktsn": 120000083573,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "27–32cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "바닷가 섬의 곰솔숲",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      6
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "2022년 6월 제주 마라도의 곰솔숲에서 첫해 어린새 한 마리가 가락지 조사용 그물에 잡혀 처음 기록된 길잃은새다. 히말라야에서 인도차이나와 중국 남서부에 걸쳐 번식하고, 겨울에는 동남아시아를 거쳐 수마트라와 자와 서부까지 내려간다. 열대·아열대의 넓은잎나무 숲과 상록수림에 살며 곤충 같은 작은 동물을 잡아먹는다.",
   "points": [
     {
       "ko": "기부가 두툼한 굵은 검은 부리",
@@ -38,10 +40,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "첫해 어린새는 가슴에서 아래꼬리덮깃까지 흰 점이나 가로무늬가 있고, 겨드랑이깃과 아래날개덮깃 끝도 희다.",
   "similar": [],
   "art": {
     "subject": "Crow-billed Drongo (Dicrurus annectans), adult: plumage entirely black with a blue-green gloss on the upperparts and breast; tail black, fairly long and shallowly forked, much less deeply than Black Drongo's, the outer feathers curving outward and slightly upward near the tips. Bill black, very heavy, broad and deep at the base, with long rictal bristles; iris dark reddish-brown; legs black.",
@@ -96,11 +98,38 @@
       "title": "Wikipedia – Crow-billed drongo (Ali, The Book of Indian Birds 인용)",
       "url": "https://en.wikipedia.org/wiki/Crow-billed_drongo",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "한국조류학회지 30(2):148–150(2023) – 한국 미기록종 (가칭)큰부리바람까마귀의 국내 첫 기록(DBpia 초록)",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11653689",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록 – 큰부리바람까마귀(2022년 6월 마라도)",
+      "url": "https://www.inaturalist.org/observations/124070776",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Oates, The Fauna of British India – Birds 1권(1889) – 큰부리바람까마귀(Crow-billed Drongo)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207291",
+      "used": "몸길이·해설·어린새·암수 구별"
+    },
+    {
+      "title": "Oiseaux.net – Drongo à gros bec(큰부리바람까마귀)",
+      "url": "https://www.oiseaux.net/oiseaux/drongo.a.gros.bec.html",
+      "used": "몸길이·해설"
+    },
+    {
+      "title": "Wikipedia(중국어) – 鸦嘴卷尾 (中国动物物种编目数据库 인용)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%B8%A6%E5%98%B4%E5%8D%B7%E5%B0%BE",
+      "used": "해설"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "암수 구별: 자료들이 암수 구별 없이 한 가지 어른 깃만 적어 '같다'로 썼다. 도감의 명시적 표기 확인 필요",
+    "links 가 비어 있다(위키데이터 연결 확인 필요)"
   ],
   "occurrence": {
     "code": "V2",

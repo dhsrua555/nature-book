@@ -5,15 +5,21 @@
   "author": "Vieillot, 1808",
   "en": "Northern Shrike",
   "ktsn": 120000528872,
-  "origin": "nibr",
   "length": "약 24.5cm",
   "status": "길잃은새, 해마다 10건 미만",
   "habitat": "교목이나 관목의 가지 위(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
     "breed": [],
-    "note": "번식지에서의 산란기는 4월 하순~6월 상순이다."
+    "note": "국내에서 기록된 달이다. 번식지에서는 4월 하순~6월 상순에 알을 낳는다."
   },
   "summary": "드물게 찾아오는 길잃은새로, 대형 때까치류에 속하며 주로 혼자 또는 암수가 함께 지낸다. 주로 동물성 먹이를 먹어 설치류, 참새류 같은 작은 새, 개구리류와 파충류를 즐겨 잡고 곤충과 거미도 먹는다. 교목이나 관목 가지 위에 둥지를 틀고 한배에 알을 5~7개, 때로는 8~9개 낳는다.",
   "points": [
@@ -47,7 +53,7 @@
     "male": "이마부터 뒷목까지 순잿빛이고 이마 앞끝은 희며, 눈선은 검다.",
     "female": "이마와 정수리, 뒷머리가 잿빛 갈색이고 눈선은 갈색이다."
   },
-  "young": "TODO",
+  "young": "어른새보다 몸 전체가 갈색을 띠어 윗면이 회갈색~붉은 갈색이고, 이마와 정수리가 같은 색이며 눈썹선이 거의 없다. 귀깃에만 짙은 갈색 반점이 있고 눈앞은 어둡지 않으며, 아랫면은 흐린 흰 바탕에 갈색 비늘무늬가 촘촘하고 부리는 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Northern Shrike (Lanius borealis), adult male in winter, as seen in Korean open country from November to February: crown, nape and back pale grey, with a narrow whitish band at the very front of the forehead; a black mask that is thin over the lores and broadens behind the eye over the ear coverts, with only a thin whitish line above it; chin, throat and cheeks white; outer scapulars whitish, forming a pale line along the edge of the back; rump paler grey; wings black with a small white patch at the base of the primaries; tail black with white outer feathers; underparts whitish with fine grey vermiculation across the breast and flanks; bill black with a strong hooked tip; iris dark brown; legs black.",
@@ -97,6 +103,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Taczanowski (1893) Faune ornithologique de la Sibérie orientale 1권 – 재때까치(Lanius major = L. borealis sibiricus)",
+      "url": "https://archive.org/details/fauneornitholog1tacz",
+      "used": "어린새"
+    },
+    {
+      "title": "일본어 위키백과 – 재때까치(オオモズ, 『山渓ハンディ図鑑 新 日本の野鳥』 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%A2%E3%82%BA",
+      "used": "어린새·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 재때까치",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Lanius%20borealis",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 재때까치(Great Grey Shrike sibiricus)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2013년 11월 새 소식 – 재때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-11.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2014년 1월 새 소식 – 재때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2014-01.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

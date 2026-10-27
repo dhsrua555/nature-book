@@ -5,16 +5,18 @@
   "author": "Vigors, 1831",
   "en": "Grey-backed Shrike",
   "ktsn": 120000533846,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "21–23cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "섬의 마을 주변 농경지와 덤불",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다(2021년 5월 8일, 2024년 5월 11~15일 백령도)."
   },
-  "summary": "TODO",
+  "summary": "2021년과 2024년 5월 서해 백령도에서 관찰된 길잃은새로, 국내 기록이 10건이 안 된다. 히말라야에서 중국 서부·서남부에 걸친 높은 고원과 산지에서 번식하고, 겨울에는 산기슭과 평지로 내려와 지낸다. 덤불이나 작은 나무 꼭대기에 눈에 띄게 앉아 있다가 땅으로 내려와 곤충 같은 작은 무척추동물을 잡는다.",
   "points": [
     {
       "ko": "부리 위 이마의 가는 검은 띠",
@@ -30,11 +32,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 어른새보다 칙칙하고 이마의 검은 띠가 없으며 귀깃이 짙은 갈색이다. 아랫면은 희끄무레한 바탕에 갈색 물결 가로무늬가 많고, 위꼬리덮깃에도 가로무늬가 있다.",
+  "similar": [
+    {
+      "ko": "긴꼬리때까치",
+      "how": "긴꼬리때까치는 등 아래쪽부터 적갈색이고 날개에 작은 흰 반점이 있으며 꼬리가 검지만, 회색등때까치는 머리부터 등까지 짙은 회색이고 날개에 흰 반점이 없으며 꼬리가 적갈색 띤 갈색이다."
+    }
+  ],
   "art": {
     "subject": "Grey-backed Shrike (Lanius tephronotus), adult: forehead, crown, nape, mantle and back dark grey, with at most a thin black line across the forehead at the base of the bill; a broad black mask from the bill through the eye to the ear-coverts; rump and uppertail coverts rufous; wings dark brown without any white patch; chin and throat white; breast, flanks and belly extensively washed warm rufous-orange, palest in the centre of the belly; tail long, dark rufous-brown. Bill black and hooked; dark eye; legs blackish.",
     "pose": "perched upright on top of a bush, side view",
@@ -79,10 +86,40 @@
       "title": "Wikipedia — Grey-backed shrike (Yosef 2008, HBW 13 인용)",
       "url": "https://en.wikipedia.org/wiki/Grey-backed_shrike",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – Grey-backed Shrike(회색등때까치)",
+      "url": "https://www.oiseaux.net/birds/grey-backed.shrike.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "Gadow(1883) Catalogue of the Birds in the British Museum 8권 – 회색등때까치",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(2021년 5월 8일 백령도 진촌리) – 회색등때까치",
+      "url": "https://www.gbif.org/occurrence/3559393498",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – 회색등때까치",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "사는 곳·해설·어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록(2024년 5월 11일 백령도) – 회색등때까치",
+      "url": "https://www.gbif.org/occurrence/5401336604",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2판 2권 – 회색등때까치",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "해설·어린새·비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·사는 곳·해설·관찰 시기·암수 구별·어린새는 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

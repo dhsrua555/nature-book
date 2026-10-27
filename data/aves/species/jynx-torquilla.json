@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Eurasian Wryneck",
   "ktsn": 120000001903,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "16–18cm",
   "status": "나그네새, 해마다 수백 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "관목림, 촌락 부근의 수목",
   "protect": [],
@@ -46,10 +45,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 거의 같으나 무늬가 더 흐리고 대비가 약하며, 정수리에서 등으로 이어지는 검은 갈색 띠도 흐릿하다.",
   "similar": [],
   "art": {
     "subject": "Eurasian Wryneck (Jynx torquilla), adult (sexes alike, same plumage all year), as seen in Korean village shrubbery in April-May: upperparts silvery grey-brown, finely vermiculated like tree bark, with a dark brown stripe from the crown down the nape to the centre of the back and dark stripes along the scapulars forming a dark V; a dark brown stripe through the eye down the side of the neck; throat and breast buff-yellowish, finely barred dark; rest of the underparts whitish to buff with small dark arrowhead spots; long grey tail finely vermiculated, crossed by several narrow dark bars; short pointed grey-horn bill; brown eye; pale brownish legs.",
@@ -97,6 +96,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eurasian Wryneck(개미잡이)",
+      "url": "https://avifauna.hkbws.org.hk/species/0210/029100",
+      "used": "몸길이"
+    },
+    {
+      "title": "위키백과 영어판(Svensson et al., Collins Bird Guide 인용 부분) – Eurasian wryneck(개미잡이)",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_wryneck",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze, Identification Atlas of Aragon's Birds(Ibercaja Aula en Red) – Wryneck(개미잡이)",
+      "url": "https://web.archive.org/web/20141202064119/http://aulaenred.ibercaja.es/wp-content/uploads/287_WryneckJtorquilla.pdf",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "위키백과 독일어판 – Wendehals (Vogel)(개미잡이)",
+      "url": "https://de.wikipedia.org/wiki/Wendehals_(Vogel)",
+      "used": "암수 구별·어린새"
     }
   ],
   "todo": [

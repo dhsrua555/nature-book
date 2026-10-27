@@ -5,8 +5,7 @@
   "author": "Sparrman), 1786",
   "en": "Atlantic White Tern",
   "ktsn": 120000213523,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "25–31cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "TODO",
   "protect": [],
@@ -14,7 +13,7 @@
     "seen": "TODO",
     "breed": []
   },
-  "summary": "TODO",
+  "summary": "열대 바다에 사는 제비갈매기로, 국내에서는 지금까지 기록이 10건 미만인 길잃은새다. 작은 물고기를 주로 먹으며, 물 위에서 정지비행하다가 수면으로 내려가 잡는다. 둥지를 만들지 않고 나뭇가지의 오목한 곳이나 갈라진 곳에 알 1개를 그대로 낳는다. 열대·아열대 바다의 섬에서 번식하고 번식기가 아닐 때는 주로 먼바다에서 지낸다.",
   "points": [
     {
       "ko": "온통 순백색 깃",
@@ -34,10 +33,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 온몸이 흰 바탕에 뒷머리·등·날개에 회갈색 얼룩이 있고, 눈 뒤에 검은 반점이 있다.",
   "similar": [],
   "art": {
     "subject": "White Tern (Gygis alba), adult: plumage entirely pure white, with no grey or black on the cap, back or wingtips; a narrow ring of black feathers around the large dark eye, making the eye look even bigger; wings and tail look translucent against the light. Bill black, deep-based and sharply pointed with a slightly upturned look, blue at the base; legs very short and dark.",
@@ -93,10 +92,22 @@
       "title": "Wikipedia – Blue-billed white tern",
       "url": "https://en.wikipedia.org/wiki/Blue-billed_white_tern",
       "used": "그림용 형태 정보(두 갈래 꼬리, 가장 바깥 꼬리깃이 짧음)"
+    },
+    {
+      "title": "Wikipedia(일본어) – シロアジサシ",
+      "url": "https://ja.wikipedia.org/wiki/シロアジサシ",
+      "used": "몸길이·해설·암수 구별·어린새"
+    },
+    {
+      "title": "Wikipedia(영어) – Atlantic white tern (HBW·Houston 1978·Birds of North America 인용)",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_white_tern",
+      "used": "몸길이·해설·어린새"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 몸길이·해설·암수 구별·어린새는 국외 종 설명(New Zealand Birds Online 등)으로 채웠다",
+    "관찰 시기·사는 곳: 국내 기록으로 2014년 8월 4일 태풍 나크리 뒤 충북 영동에서 탈진한 개체(경기일보 2023-07-12 기사, 한국야생조류협회 인용)만 확인했고 두 번째 자료(이 개체를 다룬 국내 첫 기록 논문이 있는 것으로 보임)를 찾지 못해 비워 두었다",
+    "BK 2022 목록은 국내 기록 아종을 candida(?)로 적어, 이 책의 영어 이름 'Atlantic White Tern'(대서양 G. alba)과 맞는지 확인 필요",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

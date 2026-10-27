@@ -5,14 +5,18 @@
   "author": "Linnaeus, 1758",
   "en": "Bearded Vulture",
   "ktsn": 120000001590,
-  "origin": "nibr",
   "length": "약 110cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
   "habitat": "고산 지대의 바위 벽",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달로, 1916·1918년 강원도 채집 기록과 2013년 1~2월 고성 관찰 기록이 있다."
   },
   "summary": "국내에서는 함경남도와 강원도에서 발견된 기록이 있다. 높은 산의 바위 벽 가운데 선반처럼 튀어나온 자리에 둥지를 틀고, 한배에 알 1~2개를 낳지만 대개 1개만 깨어난다. 주로 동물의 사체를 먹는데, 먹이를 높은 데서 떨어뜨려 부서진 뼈에서 골수를 빼 먹으며 거북도 이렇게 깨뜨려 먹는다. 국외에서는 알타이, 중국, 몽골, 에스파냐, 모로코, 북아프리카, 티베트에 분포한다.",
   "points": [
@@ -42,10 +46,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 머리와 목이 검고 몸 윗면은 검은 갈색, 아랫면은 칙칙한 회갈색이어서 어른새의 흰 머리와 주황빛 아랫면이 없으며, 턱밑 수염도 짧아 덜 두드러진다.",
   "similar": [],
   "art": {
     "subject": "Bearded Vulture (Gypaetus barbatus), adult: head and neck creamy white, often stained orange-rust; a black mask runs from the bill base through the eye and ends in a tuft of black bristles hanging below the bill like a beard; breast and underparts rich tawny-orange to rusty-buff; upperparts, wings and tail dark slate-grey looking blackish, with fine white shaft streaks on the mantle and wing coverts. Bill greyish horn; iris pale yellow encircled by a bright red ring; legs feathered rusty-buff down to the toes, feet grey.",
@@ -94,6 +98,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Gypaetus barbatus",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Gypaetus barbatus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Gypaetus barbatus",
+      "url": "https://animaldiversity.org/accounts/Gypaetus_barbatus/",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – Gypaetus barbatus aureus(1912 함경남도, 1916년 12월·1918년 1월 강원도)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 2월 – Bearded Vulture(고성, 1월 30일경~2월)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-02.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 수염수리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480649&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

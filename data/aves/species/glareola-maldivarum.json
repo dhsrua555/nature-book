@@ -5,15 +5,22 @@
   "author": "Forster, 1795",
   "en": "Oriental Pratincole",
   "ktsn": 120000001754,
-  "origin": "nibr",
   "length": "26.5cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "해안가 풀밭, 하천, 농경지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 3~6월에 알을 낳는다."
+    "note": "4월 중순~6월 초에 많이 지나가고 7월 중순~10월 초에는 적은 수가 남쪽으로 지나가며, 번식지에서는 3~6월에 알을 낳는다."
   },
   "summary": "봄과 가을에 매우 적은 수가 국내를 지나가는 나그네새로, 해안가 풀밭과 하천, 농경지에서 보인다. 작은 무리를 지어 다니며 날면서 파리나 벌 무리의 곤충을 잡아먹는데, 가볍고 빠르게 나는 모습이 제비를 닮았다. 둥지를 짓지 않고 맨땅에 알 2~3개를 낳는다. 시베리아 동북부, 몽골 북동부, 중국 동북부, 인도차이나반도, 인도, 필리핀, 대만에서 번식하고 동남아시아에서 호주에 걸쳐 겨울을 난다.",
   "points": [
@@ -43,10 +50,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면 깃 끝에 넓은 담황색 가장자리와 그 안쪽의 검은 띠가 있어 얼룩덜룩하고, 머리와 가슴에도 얼룩이 있으며, 멱을 두르는 검은 선이 없고 부리 기부도 붉지 않다.",
   "similar": [],
   "art": {
     "subject": "Oriental Pratincole (Glareola maldivarum), adult in breeding plumage, as seen in Korea on spring passage: crown, upperparts and wing coverts plain olive grey-brown; flight feathers blackish; lores black; throat pale creamy buff, sharply outlined by a thin black line that runs from the eye down and around the lower throat; upper breast olive-brown merging into a warm orange-buff lower breast and upper belly; lower belly and undertail white. Bill short and arched, black with a bright red base; large dark eye; legs short and blackish.",
@@ -88,9 +95,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 제비물떼새",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2480759",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 조류 기록 정리 – 제비물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2008년 조류 기록 정리 – 제비물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2008.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 조류 기록 정리 – 제비물떼새",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 제비물떼새",
+      "url": "https://avifauna.hkbws.org.hk/species/0100/015600",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Singapore Birds Project – Oriental Pratincole",
+      "url": "https://singaporebirds.com/species/oriental-pratincole/",
+      "used": "암수 구별"
+    },
+    {
+      "title": "New Zealand Birds Online – Oriental pratincole",
+      "url": "https://www.nzbirdsonline.org.nz/species/oriental-pratincole",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "Wikipedia(일본어) – ツバメチドリ",
+      "url": "https://ja.wikipedia.org/wiki/ツバメチドリ",
+      "used": "어린새"
     }
   ],
-  "todo": [],
+  "todo": [
+    "breeding 은 '2000년 이후 번식 확인'인데 months.breed 가 [] 이다(BK: 2004 서산 번식 추정, 2008-06-25 서산·2010-07-02 목포 갓 날기 시작한 어린새). 국내 번식기 확인 필요."
+  ],
   "occurrence": {
     "code": "P5, SV2",
     "bs": "1",

@@ -5,14 +5,17 @@
   "author": "Leisler, 1814",
   "en": "Greater Short-toed Lark",
   "ktsn": 120000002001,
-  "origin": "nibr",
   "length": "약 14cm",
   "status": "나그네새, 해마다 수백 마리",
   "habitat": "풀포기가 우거진 땅 위의 오목한 곳(둥지 자리)",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5
+    ],
+    "breed": [],
+    "note": "4월 초~5월 말 봄 이동기에 주로 서해와 남해의 섬에서 보이며, 가을(9~10월)에는 드물게 기록된다."
   },
   "summary": "땅 위의 풀포기가 우거진 오목한 곳에 둥지를 트는 작은 종다리로, 한배에 누런 갈색 알을 3~5개 낳는다. 여름에는 주로 곤충을 잡아먹고 겨울에는 씨앗을 먹으며, 겨울을 나러 옮겨 간다. 서식지가 파괴되면서 수가 줄고 있고, 중국, 몽골, 티베트, 이라크, 튀니지, 에티오피아 등지에 분포한다.",
   "points": [
@@ -46,7 +49,7 @@
     "male": "암컷보다 몸집이 다소 크다.",
     "female": "수컷보다 몸집이 다소 작다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면 깃마다 흰 깃끝과 그 안쪽의 검은 무늬가 있어 점박이처럼 보이고, 윗가슴에 갈색 점이 띠를 이룬다.",
   "similar": [],
   "art": {
     "subject": "Greater Short-toed Lark (Calandrella brachydactyla), adult (sexes alike in plumage), as seen on Korean fields during passage in April-May: crown sandy-brown, often warm-tinged, finely streaked dark; pale creamy supercilium and pale eye-ring; upperparts sandy grey-brown streaked dark; median coverts dark-centred, forming a dark bar on the wing; long tertials dark-centred with pale edges; underparts whitish with a buff wash on the breast sides and flanks, the breast largely unstreaked; a dark brown patch on each side of the upper breast; tail dark brown with white outer feathers; stout pointed bill, pinkish horn with a greyish ridge; dark eye; pale pinkish-brown legs.",
@@ -95,6 +98,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Short-toed Lark",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Greater Short-toed Lark",
+      "url": "https://www.oiseaux.net/birds/greater.short-toed.lark.html",
+      "used": "어린새"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2004년 연간 리뷰 – Greater Short-toed Lark",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2004.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2010년 연간 리뷰 – Greater Short-toed Lark(4월 초~5월 말)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2010.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "GBIF – 한국 관찰 기록(eBird) Calandrella brachydactyla(dukhunensis)",
+      "url": "https://www.gbif.org/occurrence/search?taxon_key=2490681&country=KR",
+      "used": "관찰 시기"
     }
   ],
   "todo": [],

@@ -5,16 +5,24 @@
   "author": "Stejneger, 1887",
   "en": "Ryukyu Minivet",
   "ktsn": 120000533841,
-  "origin": "nibr",
   "length": "TODO",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "제주도의 상록활엽수림, 숲이 우거진 수목원과 공원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      11,
+      12
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이며, 2019년 이후 제주에서 주로 11–2월에 관찰된다."
   },
-  "summary": "TODO",
+  "summary": "2013년 5월 신안 가거도에서 처음 확인된 길잃은새로 분류되어 있으나, 2019년 이후 제주도의 상록활엽수림과 수목원·공원에서 주로 겨울에 관찰이 이어지고 있다. 본래 일본 류큐 열도에만 살았으나 1970년대부터 규슈로 퍼져 시코쿠와 혼슈 서부까지 사는 곳을 넓혔다. 상록활엽수림을 비롯한 숲에 살며, 녹지가 많은 시가지나 정원에서도 지낸다.",
   "points": [
     {
       "ko": "좁은 흰 이마띠(수컷)",
@@ -42,7 +50,12 @@
     "text": "TODO"
   },
   "young": "TODO",
-  "similar": [],
+  "similar": [
+    {
+      "ko": "할미새사촌",
+      "how": "윗면이 더 옅은 회색이고 이마의 흰 부분이 넓으며, 가슴과 옆구리가 깨끗한 흰색이다."
+    }
+  ],
   "art": {
     "subject": "Ryukyu Minivet (Pericrocotus tegimae), adult male: a narrow white band on the forehead; crown, nape, lores and ear-coverts black; chin and throat white, the white curving up behind the black ear-coverts onto the sides of the neck; mantle, back and rump dark grey, clearly darker than Ashy Minivet's, so they contrast less with the black crown; wings blackish; a grey wash across the breast, darkest at the sides and continuing down the flanks; belly and undertail coverts white; tail long, blackish with white on the outer feathers. Bill and legs black.",
     "pose": "perched on an outer branch in the canopy, side view",
@@ -87,11 +100,45 @@
       "title": "Wikipedia (日本語): サンショウクイ — 亜種リュウキュウサンショウクイ",
       "url": "https://ja.wikipedia.org/wiki/サンショウクイ",
       "used": "교차 확인 (좁은 흰 이마, 가슴~옆구리 암회색, 윗면이 더 검음, 수컷 머리 검정·암컷 회색)"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 5월 – 검은가슴할미새사촌",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-05.shtml",
+      "used": "해설·관찰 시기"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은가슴할미새사촌",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2486816&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "Wikipedia(영어) – Ryukyu minivet (HBW Alive 인용)",
+      "url": "https://en.wikipedia.org/wiki/Ryukyu_minivet",
+      "used": "사는 곳·해설"
+    },
+    {
+      "title": "コトバンク(ブリタニカ国際大百科事典·日本大百科全書) – サンショウクイ",
+      "url": "https://kotobank.jp/word/%E3%81%95%E3%82%93%E3%81%97%E3%82%88%E3%81%86%E3%81%8F%E3%81%84-3153390",
+      "used": "해설·비슷한 종"
+    },
+    {
+      "title": "Wikipedia(일본어) – サンショウクイ (レッドデータおきなわ 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%AF%E3%82%A4",
+      "used": "해설"
+    },
+    {
+      "title": "Oiseaux.net – Minivet cendré(할미새사촌, tegimae 항목)",
+      "url": "https://www.oiseaux.net/oiseaux/minivet.cendre.html",
+      "used": "비슷한 종"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "국립생물자원관 종 설명이 없어 사는 곳·해설은 국내외 자료 두 곳 이상으로 교차 확인해 썼다(출처 목록)",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "몸길이: 자료마다 달라(홍콩조류학회 18–21cm, BirdForum 약 17cm, 일본 자료는 할미새사촌(약 20cm)보다 '조금 작다'고만 적음) 확인 필요",
+    "암수 구별: 홍콩조류학회 한 곳(수컷은 이마의 흰 띠가 좁고 암컷은 거의 없음)만 확인해 두 번째 자료 필요",
+    "어린새: 어린새의 생김새를 적은 자료를 찾지 못함",
+    "국내 상태: 2019년 이후 제주에서 해마다 겨울 기록(eBird 38건, iNaturalist 20여 건)이 있어 '지금까지 기록 10건 미만'은 Birds Korea 의 새 목록으로 확인 필요"
   ],
   "occurrence": {
     "code": "V2",

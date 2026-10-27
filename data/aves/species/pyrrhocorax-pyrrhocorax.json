@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Red-billed Chough",
   "ktsn": 120000001962,
-  "origin": "nibr",
   "length": "39–40cm",
   "status": "길잃은새, 지금까지 기록 10건 미만 · 사진·표본 없이 관찰 기록만 있음",
   "habitat": "낭떠러지의 굴, 바위틈(둥지 자리)",
@@ -33,7 +32,7 @@
     "alike": true,
     "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 깃이 갈색 기 도는 검은색으로 광택이 적고, 부리와 다리가 붉은색이 아니라 노란빛 도는 주황색이다.",
   "similar": [
     {
       "ko": "갈까마귀",
@@ -78,9 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby 외(1920) A Practical Handbook of British Birds 1권 – 붉은부리까마귀",
+      "url": "https://archive.org/details/practicalhandboo118withfo",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser(1902) A Manual of Palaearctic Birds 1권 – 붉은부리까마귀",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Crave à bec rouge(붉은부리까마귀)",
+      "url": "https://www.oiseaux.net/oiseaux/crave.a.bec.rouge.html",
+      "used": "어린새"
     }
   ],
-  "todo": [],
+  "todo": [
+    "months.seen: 국내 기록의 날짜를 찾지 못함. 새와 생명의 터 2022 목록은 제3군(사진 없는 관찰 기록), 2024 목록은 제1군(2000년 이후 사진 등 증거 있음)으로 올렸으나 기록 내용은 공개되지 않음. iNaturalist·eBird 한국 기록 없음(GBIF 에서 한국으로 표시된 기록은 국립과천과학관 소장 몽골 표본)"
+  ],
   "occurrence": {
     "code": "V2",
     "bs": "0",

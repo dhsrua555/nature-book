@@ -5,7 +5,6 @@
   "author": "Linnaeus, 1758",
   "en": "Striated Heron",
   "ktsn": 120000001535,
-  "origin": "nibr",
   "length": "약 52cm",
   "status": "여름철새, 해마다 수천 마리 · 겨울에도 드물게 기록(10건 미만)",
   "habitat": "숲속, 나무 위(둥지)",
@@ -19,7 +18,12 @@
       8,
       9
     ],
-    "breed": "TODO",
+    "breed": [
+      5,
+      6,
+      7,
+      8
+    ],
     "note": "4월에 와서 9월까지 머문다."
   },
   "summary": "4월에 찾아와 9월까지 머무는 흔한 여름철새이다. 다른 백로류와 달리 숲속에서 무리 짓지 않고 따로 번식하며, 나무 위에 접시 모양 둥지를 짓고 청록색 알을 4~5개 낳아 21~25일 동안 품는다.",
@@ -53,7 +57,7 @@
     "alike": true,
     "text": "암수가 비슷하다."
   },
-  "young": "TODO",
+  "young": "몸 윗면이 갈색이고 날개덮깃 끝에 흰색~담황색 점이 있으며, 검은 머리꼭대기에 담황색 줄무늬가 있다. 아랫면은 흰 바탕에 굵은 갈색 세로줄무늬가 있다.",
   "similar": [],
   "art": {
     "subject": "Striated Heron (Butorides striata), adult, as seen in Korea from April to September: crown and long nape feathers glossy blue-black, forming a short, shaggy black crest that projects from the back of the head; sides of the head and neck grey; chin and throat white, continuing as a narrow white-and-dark streaked line down the centre of the foreneck onto the breast. Back and scapulars grey with a greenish sheen and long, narrow plumes; upperwing darker greenish-grey, each covert and tertial neatly fringed whitish, giving a scaly, netted pattern. Underparts plain grey, paler on the belly. Bill blackish, long and pointed. Iris yellow; bare lores yellowish-green. Legs short, greenish-yellow.",
@@ -93,9 +97,51 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 검은댕기해오라기",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022800",
+      "used": "어린새"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 검은댕기해오라기",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 검은댕기해오라기",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 검은댕기해오라기",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/striated-heron/",
+      "used": "어린새"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – 검은댕기해오라기",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "어린새"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – 검은댕기해오라기",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "번식기"
+    },
+    {
+      "title": "위키백과 일본어판(일본 도감 인용) – 검은댕기해오라기",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B5%E3%82%B4%E3%82%A4",
+      "used": "번식기"
+    },
+    {
+      "title": "일본 환경성 생물다양성센터, 제6회 자연환경보전기초조사 조류 번식분포 – 검은댕기해오라기",
+      "url": "https://www.biodic.go.jp/reports2/6th/6_bird_species/pdf/sasagoi.pdf",
+      "used": "번식기"
     }
   ],
-  "todo": [],
+  "todo": [
+    "국내 번식기를 직접 다룬 자료를 찾지 못해 일본 자료(5월 초 둥지 짓기·포란, 8월 말까지 새끼가 둥지를 떠남)로 번식기를 적었다"
+  ],
   "occurrence": {
     "code": "S3, WV2",
     "bs": "1",

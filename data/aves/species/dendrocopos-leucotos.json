@@ -5,7 +5,6 @@
   "author": "Bechstein, 1803",
   "en": "White-backed Woodpecker",
   "ktsn": 120000001910,
-  "origin": "nibr",
   "length": "약 25–28cm",
   "status": "텃새, 해마다 수만 마리",
   "habitat": "낙엽활엽수림, 아고산대의 침엽활엽혼효림",
@@ -25,7 +24,11 @@
       11,
       12
     ],
-    "breed": "TODO",
+    "breed": [
+      4,
+      5,
+      6
+    ],
     "note": "알은 4월 하순부터 낳는다."
   },
   "summary": "전국에서 볼 수 있으나 흔하지 않은 텃새로, 낙엽활엽수림이나 아고산대의 침엽수와 활엽수가 섞인 숲에 산다. 홀로 또는 암수가 함께 지내며, 나무줄기에 손수 구멍을 뚫어 둥지로 쓴다. 4월 하순부터 한배에 알 3~5개를 낳는다. 곤충을 주로 먹고 다족류와 여러 식물의 열매도 먹는다.",
@@ -60,7 +63,7 @@
     "male": "머리꼭대기와 뒷머리가 붉고, 이마는 황갈색 기가 도는 흰색이다.",
     "female": "머리꼭대기와 뒷머리가 붉지 않고 검다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새보다 몸빛이 칙칙하고 흐리며, 암수 모두 머리꼭대기에 어른 수컷보다 어둡고 흐린 붉은 깃이 있다.",
   "similar": [],
   "art": {
     "subject": "White-backed Woodpecker (Dendrocopos leucotos), adult male, as seen in Korean deciduous forest in spring: crown and nape entirely bright red; narrow forehead buffy white; face and ear coverts buffy white, bordered below by a black moustachial stripe from the bill base that continues into black streaks on the breast sides; chin and throat whitish with a faint rusty-yellow wash; mantle black; lower back white; wings black with bold white bars across coverts and flight feathers, no white shoulder patch; underparts buffy white with black streaks on the breast sides and flanks, turning pinkish-red on the lower belly and undertail coverts. Bill lead-grey. Red-brown iris. Dark lead-grey legs.",
@@ -101,6 +104,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "위키백과 일본어판 – オオアカゲラ(큰오색딱다구리)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A2%E3%82%AB%E3%82%B2%E3%83%A9",
+      "used": "번식기·어린새"
+    },
+    {
+      "title": "Animal Diversity Web(University of Michigan) – Dendrocopos leucotos(큰오색딱다구리)",
+      "url": "https://animaldiversity.org/accounts/Dendrocopos_leucotos/",
+      "used": "번식기·어린새"
     }
   ],
   "todo": [],

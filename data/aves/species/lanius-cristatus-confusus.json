@@ -5,16 +5,20 @@
   "author": "Stegmann, 1929",
   "en": "Brown Shrike (confusus)",
   "ktsn": 120000528318,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "17–20cm",
   "status": "나그네새 수천 마리 · 여름철새 수십 마리",
-  "habitat": "TODO",
+  "habitat": "섬과 해안의 덤불, 하천변과 농경지 가장자리의 관목",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      5,
+      8,
+      9
+    ],
+    "breed": "TODO",
+    "note": "봄에는 5월에 가장 많고, 가을(8~9월)에는 어린새가 많아 아종을 가리기 어렵다."
   },
-  "summary": "TODO",
+  "summary": "주로 봄과 가을 이동기에 서해의 섬 등을 지나는 나그네새로, 5월에 특히 많다. 아무르강·우수리강 유역과 중국 동북부에서 번식하는 무리로 알려져 있으며, 북한에서 번식하는 아종으로 보는 견해도 있다. 2005년 6~7월에는 서울 근교에서 이 아종으로 보이는 암컷이 칡때까치 수컷과 짝을 지어 새끼를 길러 낸 기록이 있다. 정수리와 등이 회색 기운 없이 따뜻한 갈색을 띠지만 다른 아종과의 중간형이 많아 야외에서 가려내기 어렵다.",
   "points": [
     {
       "ko": "넓은 흰 이마와 흰 눈썹선",
@@ -42,10 +46,11 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "검은 눈선이 뚜렷하고 아랫면에 물결무늬가 없으며, 아랫면이 짙은 담황색이고 정수리는 대부분 갈색이다(이마에만 회색 기운이 있다).",
+    "female": "수컷과 비슷하나 눈선이 흑갈색이고, 가슴 옆과 옆구리에 갈색 물결무늬가 있다."
   },
-  "young": "TODO",
+  "young": "첫해 어린새는 몸 윗면이 회색 기운 없는 고른 적갈색이고, 가슴과 옆구리(어릴 때는 등까지)에 갈색 물결무늬가 넓게 있으며 부리 기부가 옅다. 눈선은 어른새보다 갈색을 띤다.",
   "similar": [],
   "art": {
     "subject": "Brown Shrike of the race confusus (Lanius cristatus confusus), adult male, as seen in Korea on spring passage in May: forehead white, the white band broad and running back into a white supercilium; crown, nape, mantle and back plain pale grey-brown, the crown the same tone as the back, neither grey nor rufous; rump and long tail warmer rufous-brown; a bold black mask from the bill base through the eye over the ear-coverts; cheeks, chin and throat white; underparts white with a pale buff wash on the breast sides and flanks; wings dark brown with pale brown fringes and no white patch. Stout black hooked bill; dark eye; dark grey legs.",
@@ -97,11 +102,58 @@
       "title": "iNaturalist 연구 등급 사진 – Lanius cristatus confusus",
       "url": "https://www.inaturalist.org/observations/143916584",
       "used": "그림용 형태 정보 사진 확인"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 동정 노트 – 노랑때까치 아종(2004)",
+      "url": "http://www.birdskorea.org/Birds/Identification/ID_Notes/BK-ID-Brown-Shrike.shtml",
+      "used": "사는 곳·해설·암수 구별·어린새·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 노랑때까치 아종 동정(2015)",
+      "url": "https://www.birdskoreablog.org/?p=15752",
+      "used": "사는 곳·해설·암수 구별"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2011년 6월 새 소식 – 넓은이마홍때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2011-06.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2005년 조류 기록 정리 – 노랑때까치×칡때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2005.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 9월 새 소식 – 넓은이마홍때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2009-09.shtml",
+      "used": "어린새·관찰 시기"
+    },
+    {
+      "title": "Austin (1948) The Birds of Korea, Bull. Mus. Comp. Zool. 101 – 노랑때까치(confusus)",
+      "url": "https://archive.org/details/bulletinofmuseum101harv",
+      "used": "해설"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 노랑때까치",
+      "url": "https://avifauna.hkbws.org.hk/species/0240/031700",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "Oiseaux.net – 노랑때까치(Pie-grièche brune)",
+      "url": "https://www.oiseaux.net/oiseaux/pie-grieche.brune.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "GBIF 한국 기록(박물관 표본 포함) – 넓은이마홍때까치",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&scientific_name=Lanius%20cristatus%20confusus",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "그림용 형태 정보·동정 포인트의 글 근거가 도감을 요약한 위키백과 한 곳뿐이라 참고 사진으로 교차 확인했다(다시 확인 필요)"
+    "국립생물자원관 종 설명이 없어 본문은 새와 생명의 터 기록과 국외 자료로 채웠다",
+    "번식기(months.breed): 북한에서 번식하는 아종이라는 견해(Tomek 2002, Birds Korea 2004·2015 인용)와 북부를 지나는 드문 나그네새라는 견해(Austin 1948)가 엇갈리고, 남한의 번식 기록은 칡때까치와의 잡종 번식 1건(2005년)뿐이라 비워 두었다",
+    "국내 상태·번식 여부 문구(나그네새 수천 마리·여름철새 수십 마리, 2000년 이후 번식 확인)는 종(노랑때까치) 전체 값을 옮긴 것으로 보여, 아종 단위 상태(Birds Korea 2014 목록 P3, 지역에 따라 흔한 나그네새)와 견주어 확인 필요",
+    "몸길이는 종 전체 범위(17–20cm)이며 아종 단위 실측값은 찾지 못했다"
   ],
   "occurrence": {
     "code": "P3, S5",

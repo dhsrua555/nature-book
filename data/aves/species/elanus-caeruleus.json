@@ -5,16 +5,24 @@
   "author": "Desfontaines, 1789",
   "en": "Black-winged Kite",
   "ktsn": 120000230691,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "30–37cm",
   "status": "드물게 기록되는 새, 해마다 10건 미만",
-  "habitat": "TODO",
+  "habitat": "강가 습지의 풀밭과 농경지 같은 탁 트인 곳",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO"
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "breed": "TODO",
+    "note": "국내에서 기록된 달로, 주로 가을부터 이듬해 봄 사이에 관찰된다."
   },
-  "summary": "TODO",
+  "summary": "2013년 1월 서울 강서습지생태공원에서 처음 기록된 뒤 해마다 몇 차례씩, 주로 가을부터 이듬해 봄 사이에 관찰되는 드문 새로, 2000년 이후 국내 번식도 확인되었다. 탁 트인 풀밭이나 농경지 위에서 황조롱이처럼 정지비행하거나 높은 곳에 앉아 있다가 내려앉아 쥐 같은 작은 설치류와 곤충을 잡는다. 유럽 남서부와 아프리카에서 인도, 중국 남부, 동남아시아에 걸쳐 텃새로 산다.",
   "points": [
     {
       "ko": "붉은 홍채와 눈 위 검은 무늬",
@@ -38,10 +46,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 정수리와 가슴이 갈색을 띠고 가슴에 가는 갈색 줄무늬가 있으며, 등과 날개덮깃 끝이 희어 비늘무늬처럼 보이고 눈이 붉지 않고 노란빛~주황빛이다.",
   "similar": [],
   "art": {
     "subject": "Black-winged Kite (Elanus caeruleus), adult: crown, back and upperwing pale ash-grey; a large black patch on the lesser and median wing coverts forming a black shoulder at rest; forehead, face and entire underparts white; a short black mark in front of and just above the eye; primaries darker grey above and blackish below; tail short, pale grey and white; bill small, black and strongly hooked, with a yellow cere; striking deep red iris; legs and feet bright yellow.",
@@ -86,11 +94,51 @@
       "title": "Delhi Greens Birdwatcher: Black-winged Kite",
       "url": "https://birdwatcher.delhigreens.com/?p=398",
       "used": "교차 확인 (붉은 눈, 검은 눈썹 무늬, 노란 다리)"
+    },
+    {
+      "title": "HKBWS The Avifauna of Hong Kong – Black-winged Kite",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/024000",
+      "used": "몸길이·어린새"
+    },
+    {
+      "title": "Oiseaux.net – Black-winged Kite(검은어깨매)",
+      "url": "https://www.oiseaux.net/birds/black-winged.kite.html",
+      "used": "몸길이"
+    },
+    {
+      "title": "김화정 외 (2020) Notes on bird species newly recorded in Korea, Journal of Species Research 9(4):532–535 – 검은어깨매(2013년 1월 23일 강서습지생태공원)",
+      "url": "https://accesson.kr/jsr/v.9/4/532/38586",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 새 소식 2013년 2월 – Black-winged Kite(강서생태공원, 국내 첫 기록)",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2013-02.shtml",
+      "used": "사는 곳·해설·관찰 시기"
+    },
+    {
+      "title": "오마이뉴스 (2019-10-25) 국내 희귀종 '검은어깨매'를 카메라에 담다 – 세종 장남평야 2019년 10월 23일 기록",
+      "url": "https://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002581214",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "Baker, The Fauna of British India, Birds Vol. 5 (1928) – Elanus caeruleus vociferus",
+      "url": "https://archive.org/details/BakerFbiBirds5",
+      "used": "해설·어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – Elanus caeruleus",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 검은어깨매",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480372&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)",
+    "months.breed: Birds Korea 2022 목록은 2000년 이후 국내 번식 확인(1*)으로 적었으나 번식 장소와 시기를 적은 국내 자료를 찾지 못해 비워 두었다"
   ],
   "occurrence": {
     "code": "V1",

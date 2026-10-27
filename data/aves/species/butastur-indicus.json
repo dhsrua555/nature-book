@@ -5,13 +5,20 @@
   "author": "Gmelin, 1788",
   "en": "Grey-faced Buzzard",
   "ktsn": 120000001607,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "41–51cm",
   "status": "나그네새 수만 마리 · 여름철새 수백 마리",
   "habitat": "숲, 농경지, 개활지",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "breed": [
       5,
       6
@@ -46,10 +53,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 비슷하다."
   },
-  "young": "TODO",
+  "young": "어린새는 윗면이 덜 붉은 갈색에 옅은 깃 가장자리가 있고 담황색~흰 눈썹선이 뚜렷하며, 아랫면에는 가로무늬 대신 짙은 갈색 세로무늬가 있고 멱의 검은 세로줄은 흐리다.",
   "similar": [],
   "art": {
     "subject": "Grey-faced Buzzard (Butastur indicus), adult, as seen on spring passage in Korea in April–May: crown and upperparts brown, with white feather bases showing on the hindcrown and nape; face and ear-coverts grey; throat white with a single dark stripe down the centre; upper breast plain rusty-brown; lower breast, belly and flanks broadly barred brown and white; undertail coverts white; tail grey-brown with three or four narrow dark bands. Small hooked bill black at the tip, yellow at the base, with a yellow cere; yellow eye; dull yellow legs.",
@@ -91,6 +98,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전·세계대백과사전·일본대백과전서) – サシバ(왕새매)",
+      "url": "https://kotobank.jp/word/%E3%82%B5%E3%82%B7%E3%83%90",
+      "used": "몸길이"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Grey-faced Buzzard(왕새매)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/026400",
+      "used": "몸길이, 어린새, 암수 구별"
+    },
+    {
+      "title": "Singapore Birds Project – Grey-faced Buzzard(왕새매)",
+      "url": "https://singaporebirds.com/species/grey-faced-buzzard/",
+      "used": "몸길이, 어린새, 암수 구별"
+    },
+    {
+      "title": "Bird Research(일본) 鳥類生態図鑑 – サシバ(왕새매)",
+      "url": "https://www.bird-research.jp/1_shiryo/seitai/sashiba.pdf",
+      "used": "어린새, 암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 왕새매",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480477&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [

@@ -5,14 +5,19 @@
   "author": "Vieillot, 1817",
   "en": "Ashy Drongo",
   "ktsn": 120000001946,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "25–29cm",
   "status": "이동기에 드물게 찾아옴, 해마다 10건 미만",
   "habitat": "산림, 덤불, 공원",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "breed": [],
+    "note": "주로 4~5월에 서해·남해의 섬을 지나고 9~10월에도 드물게 기록되며, 제주 서귀포에서는 2025년 11월부터 2026년 1월까지 한 개체가 겨울을 났다."
   },
   "summary": "전라북도 어청도, 전라남도 가거도, 평안북도 등지에 찾아오는 미조이다. 산림과 덤불, 공원에서 지낸다. 국외에서는 중국 화남과 윈난 등지에 분포한다.",
   "points": [
@@ -38,10 +43,10 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같고 암컷이 조금 작다."
   },
-  "young": "TODO",
+  "young": "어른새보다 몸빛이 어둡고 갈색을 띠어 덜 깨끗해 보이며, 얼굴의 흰 무늬가 덜 뚜렷하다. 배에서 아래꼬리덮깃까지 가는 흰 깃 가장자리가 보이고, 날개와 꼬리가 짧으며 홍채는 붉지 않고 갈색이다.",
   "similar": [],
   "art": {
     "subject": "Ashy Drongo (Dicrurus leucophaeus), adult of the pale migratory race leucogenys, as seen on Korean offshore islands during spring and autumn migration: whole body pale ash-grey with a faint bluish tone; a narrow blackish band across the forehead, blackish lores and chin; a large pure white oval patch around the eye and over the cheek and ear-coverts, contrasting with the grey crown; upperparts and wing-coverts pale grey, flight feathers a little darker grey; underparts pale grey becoming whitish on the lower belly and undertail coverts; long grey tail. Bill black, rather stout, with a slightly hooked tip; iris deep red; legs and feet blackish.",
@@ -108,11 +113,55 @@
       "title": "BirdForum Opus – Ashy Drongo (검색 발췌)",
       "url": "https://www.birdforum.net/opus/Ashy_Drongo",
       "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Oiseaux.net – 회색바람까마귀(Drongo cendré)",
+      "url": "https://www.oiseaux.net/oiseaux/drongo.cendre.html",
+      "used": "몸길이·암수 구별·어린새"
+    },
+    {
+      "title": "싱가포르조류학회 Birds of Singapore – 회색바람까마귀",
+      "url": "https://singaporebirds.com/species/ashy-drongo/",
+      "used": "몸길이"
+    },
+    {
+      "title": "Sharpe (1877) Catalogue of the Birds in the British Museum 3권 – 회색바람까마귀(Buchanga leucogenys)",
+      "url": "https://archive.org/details/catalogueofbirds03brit",
+      "used": "몸길이"
+    },
+    {
+      "title": "Vaurie (1949) A revision of the bird family Dicruridae, Bull. AMNH 93 – 회색바람까마귀",
+      "url": "https://digitallibrary.amnh.org/handle/2246/1240",
+      "used": "암수 구별·어린새"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 회색바람까마귀",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&verbatim_scientific_name=Dicrurus%20leucophaeus",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 5월 새 소식 – 회색바람까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2003-05.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2003년 조류 기록 정리 – 회색바람까마귀",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2003.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(2025년 11월 서귀포) – 회색바람까마귀",
+      "url": "https://www.inaturalist.org/observations/333520475",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "iNaturalist 관찰 기록(2026년 1월 서귀포) – 회색바람까마귀",
+      "url": "https://www.inaturalist.org/observations/336238662",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문의 수컷 생김새(금속광택 녹색 몸, 자줏빛 남색 가슴 깃, 이마의 털 모양 관모)는 바람까마귀 원문과 같아 다른 종을 설명한 것으로 보이고, 암컷만 어두운 회색으로 적혀 암수 설명이 서로 맞지 않으므로 생김새·암수 차이를 TODO 로 둠",
-    "원문의 수치는 날개 길이(수컷 16.8cm, 암컷 13.4cm)뿐이라 몸길이는 TODO",
+    "원문의 수컷 생김새(금속광택 녹색 몸, 자줏빛 남색 가슴 깃, 이마의 털 모양 관모)는 바람까마귀 원문과 같아 다른 종을 설명한 것으로 보여 싣지 않았고, 암수 구별과 어린새는 국외 종 설명(Vaurie 1949, Oiseaux.net)으로 채웠다",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {

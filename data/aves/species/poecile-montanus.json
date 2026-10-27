@@ -5,10 +5,9 @@
   "author": "Conrad von Baldenstein, 1827",
   "en": "Willow Tit",
   "ktsn": 120000528888,
-  "origin": "nibr",
   "length": "12.5cm",
   "status": "겨울에 드물게 찾아옴, 지금까지 기록 10건 미만 · 2000년 이후 확인된 기록 없음",
-  "habitat": "TODO",
+  "habitat": "평지에서 산지까지의 숲, 특히 썩은 나무가 있는 숲",
   "protect": [],
   "months": {
     "seen": [
@@ -39,8 +38,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 같다."
   },
   "young": "TODO",
   "similar": [
@@ -88,9 +87,27 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Witherby (1920) A Practical Handbook of British Birds 1권 – Willow-Titmouse(P. a. borealis 등)",
+      "url": "https://archive.org/details/practicalhandboo01withiala",
+      "used": "사는 곳·암수 구별"
+    },
+    {
+      "title": "Dresser (1902) A Manual of Palaearctic Birds 1권 – Parus salicarius·P. baicalensis",
+      "url": "https://archive.org/details/manualofpalarc01dresrich",
+      "used": "사는 곳"
+    },
+    {
+      "title": "Wikipedia(일본어) – コガラ(일본 도감 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AC%E3%83%A9",
+      "used": "사는 곳·암수 구별"
     }
   ],
-  "todo": [],
+  "todo": [
+    "어린새: Witherby(1920)의 '어른새와 같으나 정수리와 턱밑이 그을음빛 흑갈색' 기재뿐이라 교차 확인하지 못했다",
+    "사는 곳: 국내 기록(Austin 1948: 1926년 10월 서울 근처, 1935년 함경북도 표본)에 환경 정보가 없어 이 종이 일반적으로 사는 환경으로 적었다"
+  ],
   "occurrence": {
     "code": "WV2",
     "bs": "0",

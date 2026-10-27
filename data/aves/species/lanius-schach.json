@@ -5,8 +5,7 @@
   "author": "Linnaeus, 1758",
   "en": "Long-tailed Shrike",
   "ktsn": 120000001937,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 25cm",
   "status": "나그네새, 해마다 수십 마리 · 겨울에도 드물게 기록 · 여름에도 드물게 기록",
   "habitat": "관목이 무성한 곳, 경작지",
   "protect": [],
@@ -51,11 +50,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다. 암컷은 눈을 지나는 검은 띠가 조금 갈색을 띠고 덜 또렷하며, 전체적으로 수컷보다 색이 칙칙한 편이다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 이마가 검지 않고 눈을 지나는 검은 띠가 흐리고 좁으며, 몸 윗면은 갈색 띤 회색 바탕에 검은 가로무늬가 촘촘하다. 아랫면은 희거나 옅은 담황색에 가는 물결 가로무늬가 있고, 부리가 갈색을 띤다.",
+  "similar": [
+    {
+      "ko": "회색등때까치",
+      "how": "회색등때까치는 머리부터 등까지 짙은 회색이 이어지고 날개에 흰 반점이 없으며 꼬리가 적갈색 띤 갈색이지만, 긴꼬리때까치는 등 아래쪽부터 적갈색이고 날개에 작은 흰 반점이 있으며 꼬리가 검다."
+    }
+  ],
   "art": {
     "subject": "Long-tailed Shrike (Lanius schach), adult of the grey-crowned Chinese form (sexes similar), as seen on Korean islands and coasts: crown, nape and upper mantle pale to mid grey; a broad black mask from the lores through the eye to the ear coverts, the forehead grey with at most a thin black line at the bill base; lower mantle, scapulars, back and rump rufous-buff; wings black with pale-edged tertials and a small white patch at the base of the primaries; throat and cheeks below the mask white; breast washed pale buff; flanks, lower belly and vent rufous-buff; tail long and graduated, blackish with narrow pale buff edges to the outer feathers. Bill blackish, stout and hooked; dark eye; legs blackish.",
     "pose": "perched on a shrub beside a small lizard spiked on a twig",
@@ -103,9 +107,41 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia(일본어) – タカサゴモズ (日本の鳥550 인용)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AB%E3%82%B5%E3%82%B4%E3%83%A2%E3%82%BA",
+      "used": "몸길이"
+    },
+    {
+      "title": "Gadow(1883) Catalogue of the Birds in the British Museum 8권 – 긴꼬리때까치",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 긴꼬리때까치",
+      "url": "https://avifauna.hkbws.org.hk/species/0240/031900",
+      "used": "몸길이·어린새·암수 구별"
+    },
+    {
+      "title": "Baker(1924) The Fauna of British India, Birds 2판 2권 – 긴꼬리때까치",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207292",
+      "used": "몸길이·어린새·비슷한 종"
+    },
+    {
+      "title": "Oiseaux.net – Pie-grièche schach(긴꼬리때까치)",
+      "url": "https://www.oiseaux.net/oiseaux/pie-grieche.schach.html",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 회색등때까치",
+      "url": "https://avifauna.hkbws.org.hk/species/0240/032000",
+      "used": "비슷한 종"
     }
   ],
-  "todo": [],
+  "todo": [
+    "months.breed: 국내 번식(새와 생명의 터 '2000년 이후 번식 확인')의 시기를 적은 자료를 찾지 못함. 가장 가까운 번식지인 중국 중·남부(홍콩)는 3월 중순~7월(HKBWS)이고 일본·중국 동북부에서는 번식하지 않음"
+  ],
   "occurrence": {
     "code": "P5, WV1, SV1",
     "bs": "1",

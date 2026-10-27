@@ -5,15 +5,20 @@
   "author": "Linnaeus, 1766",
   "en": "Purple Heron",
   "ktsn": 120000001542,
-  "origin": "nibr",
   "length": "79cm",
   "status": "나그네새, 해마다 수십 마리 · 여름에도 드물게 기록(10건 미만)",
   "habitat": "다습한 초원, 논, 못, 늪",
   "protect": [],
   "months": {
-    "seen": "TODO",
+    "seen": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
     "breed": [],
-    "note": "번식지에서는 4~6월에 알을 낳는다."
+    "note": "봄에는 4~6월, 가을에는 9~10월에 지나가고 7·8·11월에도 드물게 기록되며, 번식지에서는 4~6월에 알을 낳는다."
   },
   "summary": "우리나라에서는 보기 드문 나그네새로, 축축한 초원, 논, 못과 늪에서 지낸다. 밤에 활동하며 어류, 들쥐 같은 설치류, 새, 양서류, 갑각류, 곤충 따위를 먹는다. 갈대밭이나 초지에 수초로 접시 모양 둥지를 짓고 한 배에 알 4~5개를 낳는다. 유럽, 아시아, 북아메리카 등지에서 번식하고 열대 지방까지 내려가 겨울을 난다.",
   "points": [
@@ -39,11 +44,16 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 비슷하나 암컷은 색이 조금 칙칙하고 뒷머리 장식깃이 짧으며, 수컷이 더 크다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어른새보다 전체적으로 연한 담황갈색이고 등과 날개덮깃의 깃 가장자리가 담황색이며, 뒷머리 장식깃이 없고 머리와 목 옆의 검은 줄이 흐리거나 없다.",
+  "similar": [
+    {
+      "ko": "왜가리",
+      "how": "왜가리는 목이 희거나 잿빛이지만, 붉은왜가리는 목이 적갈색이고 옆으로 검은 줄이 길게 이어지며 몸과 목이 더 가늘다."
+    }
+  ],
   "art": {
     "subject": "Purple Heron (Ardea purpurea), adult in breeding plumage, as seen on Korean wetlands on spring passage (April–May): crown and two long slender nape plumes black; face, neck sides and hindneck rufous-chestnut, with a black stripe running from the gape down the whole side of the neck and black streaks down the buff-white front of the neck; back and wings dark slate-grey with long, loose chestnut-buff plumes on the scapulars; breast with long chestnut plumes; belly and flanks deep chestnut-maroon to blackish; thighs chestnut. Long, slender yellow bill with a darker upper ridge; yellow iris; long yellowish-brown legs with very long toes.",
     "pose": "standing motionless in a wet meadow, neck extended, watching for prey",
@@ -82,10 +92,45 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – 붉은왜가리",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/023200",
+      "used": "어린새·비슷한 종"
+    },
+    {
+      "title": "IUCN 백로전문가그룹(HSG) Herons of the World(2017 보관본) – 붉은왜가리",
+      "url": "https://web.archive.org/web/2017/http://www.heronconservation.org/herons-of-the-world/purple-heron/",
+      "used": "어린새·암수 구별·비슷한 종"
+    },
+    {
+      "title": "Sharpe (1898) Catalogue of the Birds in the British Museum 26권 – 붉은왜가리",
+      "url": "https://archive.org/details/catalogueofbirds26brit",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Dresser (1903) A Manual of Palaearctic Birds 2권 – 붉은왜가리",
+      "url": "https://archive.org/details/manualofpalarc02dresrich",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "Baker (1929) The Fauna of British India, Birds 6권 – 붉은왜가리",
+      "url": "https://archive.org/details/in.ernet.dli.2015.207299",
+      "used": "어린새·암수 구별"
+    },
+    {
+      "title": "GBIF – eBird 한국 관찰 기록 – 붉은왜가리",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e&taxon_key=2480934",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 붉은왜가리",
+      "url": "http://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문이 번식지에 북아메리카를 넣고 있어 확인 필요"
+    "원문(해설)이 번식지에 북아메리카를 넣었으나 HSG·HKBWS 는 아프리카·유라시아에서만 번식한다고 적는다 — 해설 고칠 필요"
   ],
   "occurrence": {
     "code": "P5, SV2",

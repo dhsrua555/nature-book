@@ -5,8 +5,7 @@
   "author": "Temminck and Schlegel, 1844",
   "en": "Japanese Sparrowhawk",
   "ktsn": 120000001603,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "23–30cm",
   "status": "나그네새 수천 마리 · 텃새 수백 마리",
   "habitat": "울창한 숲",
   "protect": [
@@ -27,7 +26,11 @@
       11,
       12
     ],
-    "breed": "TODO",
+    "breed": [
+      5,
+      6,
+      7
+    ],
     "note": "5월 무렵 알을 낳는다."
   },
   "summary": "작은 새나 곤충 등을 주로 먹는다. 울창한 숲속에 둥지를 틀고 5월 무렵 알 2개를 낳는다. 산지가 훼손되어 사는 곳이 파괴되는 것이 가장 큰 위협이다.",
@@ -54,11 +57,21 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": false,
+    "male": "윗면이 짙은 청회색이고, 가슴에서 옆구리까지 옅은 적갈색을 띠며 홍채가 검붉다.",
+    "female": "수컷보다 크고 윗면이 회갈색이며, 흰 아랫면에 짙은 갈색 가로줄이 촘촘하고 홍채가 노랗다."
   },
-  "young": "TODO",
-  "similar": [],
+  "young": "어린새는 암수 모두 윗면이 짙은 갈색이고 흰 눈썹선이 있으며, 흰 아랫면의 가슴에는 갈색 세로무늬, 배와 옆구리에는 굵은 갈색 반점과 가로무늬가 있다.",
+  "similar": [
+    {
+      "ko": "새매",
+      "how": "새매는 더 크고 꼬리가 길며, 멱 가운데 검은 세로줄이 없고 흰 눈썹선이 뚜렷하다."
+    },
+    {
+      "ko": "작은새매",
+      "how": "조롱이는 꼬리가 더 짧고 꼬리의 검은 띠가 옅은 띠보다 가늘며, 앉았을 때 날개 끝이 꼬리 중간까지 온다."
+    }
+  ],
   "art": {
     "subject": "Japanese Sparrowhawk (Accipiter gularis), adult male, as seen in Korean forests in late spring: crown, nape, back and upperwings dark slate-grey; face grey; throat white with a thin, faint dark central (mesial) stripe; breast and flanks washed warm orange-buff, clearly coloured rather than white, with faint fine barring; belly and undertail coverts white. Tail grey with several distinct dark cross-bands. Underwing whitish with dark barring on the flight feathers. Iris deep red; cere yellow; bill short, dark and sharply hooked; legs long and thin, yellow, with long slender toes.",
     "pose": "perched on a branch inside dense forest, side view",
@@ -98,6 +111,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Japanese Sparrowhawk(조롱이)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025400",
+      "used": "몸길이, 어린새, 암수 구별, 비슷한 종"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Eurasian Sparrowhawk(새매)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025600",
+      "used": "비슷한 종"
+    },
+    {
+      "title": "Bird Research(일본) 鳥類生態図鑑 – ツミ(조롱이), Bird Research News 2(2), 2005",
+      "url": "https://www.bird-research.jp/1_shiryo/seitai/tsumi.pdf",
+      "used": "몸길이, 어린새, 암수 구별, 번식기"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전·세계대백과사전·일본대백과전서) – ツミ(조롱이)",
+      "url": "https://kotobank.jp/word/%E3%83%84%E3%83%9F",
+      "used": "몸길이, 암수 구별, 번식기"
+    },
+    {
+      "title": "Singapore Birds Project – Japanese Sparrowhawk(조롱이)",
+      "url": "https://singaporebirds.com/species/japanese-sparrowhawk/",
+      "used": "어린새, 암수 구별, 비슷한 종"
     }
   ],
   "todo": [

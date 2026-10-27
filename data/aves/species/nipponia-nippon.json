@@ -5,7 +5,6 @@
   "author": "Temminck, 1835",
   "en": "Crested Ibis",
   "ktsn": 120000001516,
-  "origin": "nibr",
   "length": "약 75cm",
   "status": "야생 개체는 2000년 이후 확인된 기록 없음 · 복원 사업으로 들여와 기르고 풀어놓음",
   "habitat": "관목이나 대나무가 빽빽한 소나무 숲",
@@ -14,9 +13,28 @@
     "멸종위기 야생생물 Ⅱ급"
   ],
   "months": {
-    "seen": "TODO",
-    "breed": "TODO",
-    "note": "알 낳는 시기는 3월 중순~5월이다."
+    "seen": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "breed": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "note": "알은 3월 중순~5월에 낳고, 새끼는 깬 지 40~45일쯤 지나 6~7월에 둥지를 떠난다."
   },
   "summary": "관목이나 대나무가 빽빽하게 자란 소나무 숲에 사는 새로, 번식기에는 홀로 또는 짝을 지어 지내고 그 밖의 때에는 작은 무리를 이룬다. 소나무나 밤나무 등에 나뭇가지와 마른 덩굴로 접시 모양 둥지를 짓고, 작은 민물고기, 개구리, 올챙이 따위를 주로 먹는다. 예전에는 비무장지대, 부산, 대전, 서울, 인천 등에 살았으나 오랫동안 관찰되지 않고 있으며, 세계적으로는 중국에 분포한다.",
   "points": [
@@ -49,7 +67,7 @@
     "alike": true,
     "text": "백색형 겨울깃은 암수가 같다."
   },
-  "young": "TODO",
+  "young": "어린새는 얼굴의 맨살이 어른새의 붉은색보다 옅은 주황빛 노란색이고 뺨에 솜깃이 남아 있다. 갓 깬 새끼는 연한 잿빛 솜털로 덮여 있고 다리가 주황빛 붉은색이다.",
   "similar": [],
   "art": {
     "subject": "Crested Ibis (Nipponia nippon), adult in non-breeding plumage (about July to December): white all over, washed with a delicate salmon-pink that is strongest on the flight feathers, wings and tail; a long, shaggy crest of narrow pointed feathers hangs from the nape and hindneck, also pinkish white. Bare skin of the face bright red, from the base of the bill to well around the eye. Bill black with a red tip; legs and feet dull red.",
@@ -89,10 +107,30 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "バードリサーチ生態図鑑(일본 바드리서치, Bird Research News 8(1)) – トキ(永田尚志)",
+      "url": "https://www.bird-research.jp/1_shiryo/seitai/toki.pdf",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "Animal Diversity Web(미시간대) – Nipponia nippon",
+      "url": "https://animaldiversity.org/accounts/Nipponia_nippon/",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "영어 위키백과(HBW·MacKinnon & Phillipps 등 인용) – Crested ibis",
+      "url": "https://en.wikipedia.org/wiki/Crested_ibis",
+      "used": "어린새"
+    },
+    {
+      "title": "GBIF – eBird 관찰 기록(한국) – 따오기",
+      "url": "https://www.gbif.org/occurrence/search?country=KR&taxon_key=2480810&dataset_key=4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "원문은 백색형·회색형이 있다고 하고 회색형도 '겨울깃'으로 적는데, 회색이 색 변이형인지 번식기 깃인지 확인 필요"
+    "원문의 '백색형·회색형'은 색 변이형이 아니라 비번식기 깃(분홍빛 도는 흰색)과 번식기 깃(머리~등이 잿빛, 목의 검은 분비물을 발라 생김)의 차이로 보인다(바드리서치·ADW) — 지금 암수 구별 문구('백색형 겨울깃은 암수가 같다')를 손볼 것"
   ],
   "occurrence": {
     "code": "INT",

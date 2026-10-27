@@ -5,7 +5,6 @@
   "author": "Boddaert, 1783",
   "en": "Black Kite",
   "ktsn": 120000001585,
-  "origin": "nibr",
   "length": "58.5–68.5cm",
   "status": "나그네새 수백 마리 · 겨울철새 수백 마리 · 텃새 수십 마리",
   "habitat": "산림, 섬, 해안가, 시가지의 숲",
@@ -27,7 +26,12 @@
       11,
       12
     ],
-    "breed": "TODO"
+    "breed": [
+      4,
+      5,
+      6,
+      7
+    ]
   },
   "summary": "겨울철새이지만 가끔 텃새로 머물기도 하며, 남해와 서해의 섬, 철원에서 발견된다. 산림이나 섬, 해안가, 시가지 등의 숲속 나무 위에 나뭇가지로 접시 모양 둥지를 짓고 알 2~3개를 낳는다. 곤충을 비롯한 무척추동물, 죽은 동물, 작은 포유류, 물고기 등을 주로 먹는다. 국외에서는 일본, 중국, 티베트, 히말라야에도 분포한다.",
   "points": [
@@ -53,7 +57,7 @@
     "male": "암컷보다 조금 작다.",
     "female": "수컷보다 조금 더 크다."
   },
-  "young": "TODO",
+  "young": "어린새는 어른새와 비슷하나 아랫면에 담황색 세로무늬가 뚜렷하고 윗면 깃 가장자리가 옅으며, 눈 뒤쪽이 검게 보인다.",
   "similar": [],
   "art": {
     "subject": "Black Kite (Milvus migrans), adult of the eastern form found in Korea, most often seen in winter: overall dark brown with a rufous tinge; head and breast paler buff-brown with dark streaks; a dark brown patch behind the eye on the ear coverts; upperparts dark brown with a paler brown diagonal band across the wing coverts; underparts rufous-brown with pale and dark streaks; underwing dark brown with a large whitish patch at the base of the primaries; tail brown, faintly barred, with a shallow fork. Bill black with a yellow cere; iris dark brown; legs yellow.",
@@ -94,6 +98,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "홍콩조류학회(HKBWS) The Avifauna of Hong Kong – Black Kite(솔개)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/026100",
+      "used": "어린새"
+    },
+    {
+      "title": "Oiseaux.net – Black Kite(솔개)",
+      "url": "https://www.oiseaux.net/birds/black.kite.html",
+      "used": "어린새, 번식기"
+    },
+    {
+      "title": "Singapore Birds Project – Black Kite(솔개)",
+      "url": "https://singaporebirds.com/species/black-kite/",
+      "used": "어린새"
+    },
+    {
+      "title": "코토뱅크(브리태니커 국제대백과사전·세계대백과사전·일본대백과전서) – トビ(솔개)",
+      "url": "https://kotobank.jp/word/%E3%83%88%E3%83%93",
+      "used": "번식기"
+    },
+    {
+      "title": "Animal Diversity Web – Milvus migrans(솔개)",
+      "url": "https://animaldiversity.org/accounts/Milvus_migrans/",
+      "used": "번식기"
     }
   ],
   "todo": [],

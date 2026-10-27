@@ -5,16 +5,18 @@
   "author": "Latham, 1801",
   "en": "Brown Shrike (superciliosus)",
   "ktsn": 120000528950,
-  "origin": "nibr",
-  "length": "TODO",
+  "length": "약 20cm",
   "status": "길잃은새, 지금까지 기록 10건 미만",
-  "habitat": "TODO",
+  "habitat": "서해·남해 섬의 덤불과 숲 가장자리",
   "protect": [],
   "months": {
-    "seen": "TODO",
-    "breed": []
+    "seen": [
+      5
+    ],
+    "breed": [],
+    "note": "국내에서 기록된 달이다."
   },
-  "summary": "TODO",
+  "summary": "서해와 남해의 섬에서 주로 5월에 드물게 관찰되는 길잃은새로, 지금까지 기록이 10건이 안 된다. 사할린과 일본 홋카이도~혼슈 중부에서 번식하고 중국 동부를 거쳐 동남아시아로 내려가 겨울을 난다. 이마에서 눈 뒤까지 넓고 흰 띠가 이어지고 몸 윗면이 선명한 적갈색이어서 다른 노랑때까치 무리와 구별된다.",
   "points": [
     {
       "ko": "넓은 흰 이마띠와 굵은 흰 눈썹선",
@@ -38,8 +40,8 @@
     }
   ],
   "sexes": {
-    "alike": null,
-    "text": "TODO"
+    "alike": true,
+    "text": "암수 생김새가 거의 같다. 암컷은 색이 조금 덜 선명하고 가슴 옆과 옆구리에 가는 갈색 물결무늬가 보이는 일이 많다."
   },
   "young": "TODO",
   "similar": [],
@@ -95,10 +97,61 @@
       "title": "J. Morlan – Brown Shrike photo notes (fog.ccsf.edu)",
       "url": "https://fog.ccsf.edu/~jmorlan/BrownShrikeP1220868s.htm",
       "used": "그림용 형태 정보(첫째날개깃 기부 흰 점은 대개 없으나 있을 수 있음, 검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "코토뱅크(ブリタニカ国際大百科事典·日本大百科全書) – 진홍때까치(アカモズ)",
+      "url": "https://kotobank.jp/word/%E3%82%A2%E3%82%AB%E3%83%A2%E3%82%BA",
+      "used": "몸길이·암수 구별"
+    },
+    {
+      "title": "일본어 위키백과 – 진홍때까치(アカモズ)",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%A2%E3%82%BA",
+      "used": "몸길이"
+    },
+    {
+      "title": "Gadow (1883) Catalogue of the Birds in the British Museum 8권 – 진홍때까치(Lanius superciliosus)",
+      "url": "https://archive.org/details/catalogueofbirds08brit",
+      "used": "해설·암수 구별"
+    },
+    {
+      "title": "Austin & Kuroda (1953) The Birds of Japan, Bull. Mus. Comp. Zool. 109 – 진홍때까치",
+      "url": "https://archive.org/details/biostor-892",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 동정 노트 – 노랑때까치 아종(2004)",
+      "url": "http://www.birdskorea.org/Birds/Identification/ID_Notes/BK-ID-Brown-Shrike.shtml",
+      "used": "해설"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 5월 새 소식 – 진홍때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-birdnews-2006-05.shtml",
+      "used": "사는 곳"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2006년 조류 기록 정리 – 진홍때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2006.shtml",
+      "used": "관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 2009년 조류 기록 정리 – 진홍때까치",
+      "url": "https://www.birdskorea.org/Birds/Birdnews/BK-BN-Review-2009.shtml",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 소청도 5월 17~26일(2011)",
+      "url": "https://www.birdskoreablog.org/?p=915",
+      "used": "사는 곳·관찰 시기"
+    },
+    {
+      "title": "새와 생명의 터(Birds Korea) 블로그 – 백령도 5월 15~22일(2015)",
+      "url": "https://www.birdskoreablog.org/?p=15653",
+      "used": "관찰 시기"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "국립생물자원관 종 설명이 없어 본문은 국외 도감과 새와 생명의 터 기록으로 채웠다",
+    "어린새 생김새는 이 아종에 맞게 다룬 자료 두 곳을 찾지 못해 비워 두었다(조사 중)",
     "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
