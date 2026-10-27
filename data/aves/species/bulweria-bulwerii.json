@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "온몸 짙은 그을음빛 갈색",
+      "en": "sooty dark brown all over"
+    },
+    {
+      "ko": "윗날개덮깃의 옅은 사선 띠",
+      "en": "pale diagonal band across the upperwing coverts"
+    },
+    {
+      "ko": "길고 좁고 뾰족한 날개",
+      "en": "long, narrow, pointed wings"
+    },
+    {
+      "ko": "뾰족하게 닫히는 긴 꼬리(펴면 쐐기꼴)",
+      "en": "long tail, pointed when closed, wedge-shaped when fanned"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Bulwer's Petrel (Bulweria bulwerii), adult: entire plumage dark sooty brown-black, slightly paler and browner on the chin and throat; a pale grey-brown diagonal bar across the upperwing coverts from the wrist towards the body, contrasting with the blackish flight feathers; underwing uniformly dark; long tail blackish-brown, usually closed to a point. Bill short, stout and black; iris dark.",
     "pose": "flying low over the sea with wings bowed and tail closed to a point, side view",
     "scene": "open subtropical sea in summer far off southern Korea, bright sky over blue water; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from above: small round head, long narrow pointed wings spread straight out to the sides to their full span, sooty dark brown plumage, pale diagonal band across the upperwing coverts contrasting with the darker flight feathers, long tail fanned into a wedge, head, body and tail in a straight line",
+      "adult, in flight seen squarely from below: short dark bill with tube nostrils, long narrow pointed wings spread straight out to the sides to their full span, wholly sooty dark brown body and underwing, long tail closed to a point, feet tucked under the tail"
+    ],
     "build": "Small, slim, all-dark petrel, much smaller than Streaked Shearwater but clearly larger than a storm petrel. Small round head and short neck. Bill short, black, thick, with tube nostrils and a hooked tip. Wings long and narrow, held slightly forward and bowed, with a distinct bend at the wrist. Tail long and wedge-shaped, usually held closed into a long point, giving a long-rear look. Flight buoyant and erratic, low over the waves, twisting with short glides.",
     "avoid": [
       "Do not make the tail short or square; it is long and wedge-shaped, usually closed into a point.",
@@ -53,10 +73,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Bulwer's Petrel 褐燕鸌 - Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0140/020500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bulwer's petrel - New Zealand Birds Online",
+      "url": "https://nzbirdsonline.org.nz/species/bulwers-petrel",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bulwer's petrel - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bulwer%27s_petrel",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

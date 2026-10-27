@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "옅은 회색 눈썹선",
+      "en": "pale greyish supercilium"
+    },
+    {
+      "ko": "눈을 지나는 갈색 눈선",
+      "en": "brown stripe through the eye"
+    },
+    {
+      "ko": "검은 깃 중심이 있는 갈색 윗면",
+      "en": "brown upperparts with blackish feather centres"
+    },
+    {
+      "ko": "갈색 기가 도는 가슴",
+      "en": "breast washed brown"
+    },
+    {
+      "ko": "흑백 무늬의 아래꼬리덮깃",
+      "en": "undertail coverts barred black and white"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Brown-cheeked Rail (Rallus indicus), adult as seen in Korean winter wetlands (November–March): crown and upperparts olive-brown boldly streaked black; a pale grey supercilium above a broad brown stripe from the lores through the eye across the cheek; chin whitish; throat, foreneck and breast grey washed brownish; flanks and belly sides boldly barred black and white; undertail coverts whitish-buff barred dark. Long bill mostly bright orange-red with a dark ridge and tip; red iris; legs and long toes dull pinkish-red.",
     "pose": "walking slowly at the edge of reeds with tail cocked, side view, in the open",
     "scene": "Korean winter wetland: a narrow ditch and stream edge with dense dry reeds and sedges, thin ice at the margins, low winter light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, winter, side view walking at the edge of reeds with tail cocked: pale greyish supercilium, brown stripe through the eye, whitish chin, long bill orange-red below with a dark culmen, red iris, brown upperparts with blackish feather centres, grey breast washed brown, barred flanks, black-and-white barred undertail coverts",
+      "adult, head and breast detail in side view: pale greyish supercilium above a brown stripe from the lores through the eye onto the ear-coverts, whitish chin, grey breast washed brown, long bill with an orange-red lower mandible and dark upper ridge"
+    ],
     "build": "Small, slim, laterally compressed rail, much smaller and slimmer than Common Moorhen, with a body about the size of a thrush. Small head, short neck. Bill long (clearly longer than the head), slender and very slightly decurved. Legs medium length with long toes. Short, pointed tail often cocked and flicked, showing the barred undertail. Wings short and rounded; rarely flies, preferring to run into cover.",
     "avoid": [
       "Do not paint a short, stubby crake bill; the bill is long, slender and red-based.",
@@ -53,10 +77,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Birds Korea Blog (N. Moores, 2021) — Western Water Rail: Notes on Identification",
+      "url": "https://www.birdskoreablog.org/?p=23993",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Brown-cheeked rail",
+      "url": "https://en.wikipedia.org/wiki/Brown-cheeked_rail",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "BirdForum Opus — Brown-cheeked Rail (검색 발췌)",
+      "url": "https://birdforum.net/opus/Brown-cheeked_Rail",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Tavares et al. 2010, BMC Evolutionary Biology — Water Rail 형질 비교표 (검색 발췌)",
+      "url": "https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-226/tables/2",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "W5",

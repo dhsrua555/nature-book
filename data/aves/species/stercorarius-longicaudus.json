@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 머리꼭대기",
+      "en": "black cap"
+    },
+    {
+      "ko": "가슴띠 없는 흰 가슴과 회색 배(여름깃)",
+      "en": "white breast without a band, grey belly and vent (breeding)"
+    },
+    {
+      "ko": "회갈색 날개덮깃과 검은 날개깃의 대비",
+      "en": "grey-brown wing coverts contrasting with blackish flight feathers"
+    },
+    {
+      "ko": "날개 위아래에 흰 무늬 없음",
+      "en": "no white flash on the wing, above or below"
+    },
+    {
+      "ko": "아주 긴 가운데꼬리깃",
+      "en": "very long central tail streamers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,11 @@
     "subject": "Long-tailed Jaeger (Stercorarius longicaudus), adult in breeding plumage, as seen at sea off Korea on spring passage (May): neat black cap; cheeks and neck white with a faint yellowish wash on the neck sides; breast white, shading into grey-brown on the belly and vent, with no breast band; upperparts cold grey-brown, contrasting with blackish flight feathers; only the outer two primary shafts white, giving a tiny white flash on the upperwing; underwing dark without a white patch; central tail feathers forming very long, thin, pointed streamers; bill short, black and hooked; dark eye; legs blue-grey with black feet.",
     "pose": "flying low and buoyantly over the sea, side view, the long tail streamers trailing",
     "scene": "open sea off the Korean east coast in May, calm blue-grey water under a pale sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, in flight seen squarely from above: long slender wings spread straight out to the sides to their full span, slightly angled at the wrist, grey-brown back and wing coverts contrasting with blackish flight feathers without a white flash, black cap, very long thin central tail streamers",
+      "adult breeding, in flight seen squarely from below: long slender wings spread straight out to the sides to their full span, slightly angled at the wrist, uniformly dark underwing without a white flash, black cap, whitish cheeks and neck, white breast with no band, grey belly and vent, very long thin central tail streamers, feet under the tail",
+      "adult breeding, side view sitting on the sea: small rounded head with a black cap, short black hooked bill, whitish cheeks and neck, white breast, grey-brown back, long wings, very long thin central tail streamers held raised"
+    ],
     "build": "Slender, tern-like jaeger, the smallest and most delicate jaeger, with a body smaller than a Black-headed Gull's, a small rounded head and slim chest. Bill short and fine, much shorter than the head, with a hooked tip. Legs short, blue-grey. Long, narrow wings and a buoyant, tern-like flight. Tail wedge-shaped, the two central feathers extending into very long, flexible streamers that may equal the body length.",
     "avoid": [
       "Do not paint a dark breast band or a large white flash at the base of the primaries; those suit Parasitic or Pomarine Jaeger.",
@@ -52,10 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Long-tailed Jaeger",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019200",
+      "used": "동정 포인트 (검은 머리, 날개덮깃과 날개깃의 대비, 날개아랫면에 연한 부분 없음, 고른 회색 아랫배, 아주 긴 가운데꼬리깃)"
+    },
+    {
+      "title": "Oiseaux-birds: Long-tailed Jaeger",
+      "url": "https://www.oiseaux-birds.com/card-long-tailed-jaeger.html",
+      "used": "동정 포인트·도해 모습 (흰 가슴·회색 배, 가슴띠는 겨울깃에만, 연노랑 뺨·뒷목, 검은 날개깃, 고르게 어두운 날개아랫면, 검은 부리)"
+    },
+    {
+      "title": "Wikipedia: Long-tailed jaeger",
+      "url": "https://en.wikipedia.org/wiki/Long-tailed_jaeger",
+      "used": "교차 확인 (회색 등, 흰 무늬 없는 첫째날개깃, 검은 머리, 긴 꼬리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

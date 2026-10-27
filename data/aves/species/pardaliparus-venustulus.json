@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 머리와 턱받이(수컷)",
+      "en": "black head and black bib on the chin and throat (male)"
+    },
+    {
+      "ko": "흰 뺨과 뒷목의 흰 점",
+      "en": "clean white cheek patch and white nape spot"
+    },
+    {
+      "ko": "녹갈색 등과 흰빛 멱(암컷)",
+      "en": "olive-green back and whitish throat (female)"
+    },
+    {
+      "ko": "날개덮깃 끝의 크림색 점 두 줄",
+      "en": "two wing-bars formed by creamy-white tips to the wing coverts"
+    },
+    {
+      "ko": "노란 가슴과 배",
+      "en": "yellow breast and belly"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Yellow-bellied Tit (Pardaliparus venustulus), adult male, as seen in Korean woodland and parks in winter and spring: head and a large bib on the chin and throat glossy blue-black; a clean white cheek patch and a white spot on the nape; mantle and back dark grey to blackish; wings blackish with two rows of creamy-white spots on the coverts forming two wing-bars, creamy tips to the tertials and greenish edges to the flight feathers; breast, belly and flanks bright yellow, washed olive on the flanks; short blackish tail; short, sharp, conical black bill; dark eye; grey legs.",
     "pose": "hanging below a thin twig, picking at buds, side view",
     "scene": "Korean deciduous woodland edge in early spring, bare twigs with swelling buds and soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view hanging below a thin twig picking at buds: black head and black bib on the chin and throat, clean white cheek patch, white nape spot, dark blue-grey back, blackish wings with creamy-white tips to the coverts forming two wing-bars, yellow breast and belly, short dark tail, short sharp conical black bill",
+      "adult female, side view perched on a twig: same pattern as the male but the black and dark grey replaced by dark olive-green, olive-green back, whitish throat, white cheek patch and pale nape spot, two pale wing-bars, yellow underparts, short tail"
+    ],
     "build": "Very small, compact tit, smaller than a sparrow and about the size of a Coal Tit; large rounded head without a crest, plump body and short tail. Bill short, sharp and conical, much shorter than the head. Legs short and grey. Wings short and rounded. Very active, hanging upside down from twigs and joining mixed tit flocks. The female has the same pattern, but dark olive-green replaces the black and dark grey, and its throat is white.",
     "avoid": [
       "Do not paint a black stripe down the centre of a white belly - that is Japanese Tit (Parus minor).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong: Yellow-bellied Tit 黃腹山雀",
+      "url": "https://avifauna.hkbws.org.hk/species/0270/034600",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "위키백과: 노랑배진박새",
+      "url": "https://ko.wikipedia.org/wiki/노랑배진박새",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P4, W4, S5",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "짧고 윗부리가 둥근 검은 부리",
+      "en": "short black bill with a rounded culmen"
+    },
+    {
+      "ko": "붉지 않은 어두운 홍채",
+      "en": "dark eye, not red"
+    },
+    {
+      "ko": "검은 머리와 몸(번식깃)",
+      "en": "blackish head and body (breeding)"
+    },
+    {
+      "ko": "적갈색 날개",
+      "en": "chestnut wings"
+    },
+    {
+      "ko": "어깨깃·날개덮깃의 옅은 깃축 줄",
+      "en": "pale shaft streaks on the scapulars and wing coverts"
+    },
+    {
+      "ko": "긴 검은 꼬리",
+      "en": "long black tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Lesser Coucal (Centropus bengalensis), adult in breeding plumage: head, neck, underparts and tail black with a dull gloss; wings chestnut, the flight feathers tipped dusky; pale buff shaft streaks often visible on the scapulars and wing coverts; tail long and broad, black. Bill black, thick and arched; eye dark; legs dark grey, with a long straight hind claw.",
     "pose": "clambering in tall grass with the tail half-cocked, side view",
     "scene": "Tall grass and reed edge on a southern Korean island in late spring, warm light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view clambering through tall grass with the tail half-cocked: blackish head and body, dark eye, short black bill with a rounded culmen, chestnut wings with greyish-tipped flight feathers and pale shaft streaks on the scapulars and coverts, long black tail, blackish legs",
+      "adult breeding, side view perched on top of a grass clump: slim blackish body, short rounded chestnut wings, long black tail held half-cocked, dark eye, short black bill with a rounded culmen"
+    ],
     "build": "Medium-sized, slim-bodied ground cuckoo, clearly smaller than Greater Coucal and about the length of a Feral Pigeon including the long tail; short rounded wings and a long, broad, graduated tail often held half-cocked. Bill stout, arched, shorter than the head. Legs long and strong for a cuckoo, with two toes forward and two back. Skulks and clambers in tall grass; flight short, heavy and floppy.",
     "avoid": [
       "Do not paint a bright red iris (Greater Coucal, Centropus sinensis).",
@@ -53,10 +81,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Lesser Coucal",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/004900",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Lesser coucal (Payne 2005; Rasmussen & Anderton 2005 인용)",
+      "url": "https://en.wikipedia.org/wiki/Lesser_coucal",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

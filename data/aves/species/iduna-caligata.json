@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뚜렷하지만 짧은 흰 눈썹선",
+      "en": "clear whitish supercilium, shorter than Paddyfield Warbler's"
+    },
+    {
+      "ko": "무늬 없는 회갈색 윗면",
+      "en": "plain greyish-brown upperparts"
+    },
+    {
+      "ko": "끝이 어두운 짧은 부리",
+      "en": "short fine bill with a dark tip"
+    },
+    {
+      "ko": "옆구리가 담황색인 흰빛 아랫면",
+      "en": "whitish underparts with a buff tinge on the breast sides and flanks"
+    },
+    {
+      "ko": "옆이 흰 각진 꼬리",
+      "en": "square-ended tail with white sides"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Booted Warbler (Iduna caligata), adult (sexes alike) in autumn: upperparts plain pale greyish-brown with a sandy tinge; a short whitish supercilium reaching a little behind the eye, often with a faint darker line above its front part; thin dusky eye-stripe; underparts whitish with a buff wash on the breast sides and flanks; wings plain brown with pale edges to the tertials; tail plain brown, the outer feathers edged whitish; short fine bill, dark above, the lower mandible pale with a dusky tip; dark eye; pale pinkish-grey legs.",
     "pose": "perched in a low shrub, side view",
     "scene": "low shrubs and weedy field edge on a Korean offshore island during autumn migration in September; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in autumn, side view perched in a low shrub: small rounded crestless head, clear whitish supercilium ending behind the eye, dark loral line, short fine bill with a pale lower mandible and dark tip, plain greyish-brown upperparts, short primary projection, whitish underparts with a buff tinge on the breast sides and flanks",
+      "adult, perched, rear three-quarter view with head and body facing the same way: plain greyish-brown back, rump and wings without wing bars, rather short square-ended tail with white sides, whitish supercilium"
+    ],
     "build": "A small, plain warbler, smaller than a sparrow, with a rounded head and a rather short, square-ended tail, looking between a leaf warbler and a reed warbler in shape. No crest; the crown is smoothly rounded. Bill short and fine, much shorter than the head. Legs medium, pale pinkish-grey. Short primary projection; the wingtips reach only a short way past the tail base. Moves actively through low bushes, gleaning insects from the leaves.",
     "avoid": [
       "Do not paint a rufous rump or warm brown upperparts (Paddyfield Warbler).",
@@ -53,10 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Booted Warbler – Shanghai Birding (Birds of China)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/booted-warbler/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Booted warbler – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Booted_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Focus on Booted Warbler – BirdGuides (검색 요약으로 확인)",
+      "url": "https://www.birdguides.com/articles/focus-on-booted-warbler",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

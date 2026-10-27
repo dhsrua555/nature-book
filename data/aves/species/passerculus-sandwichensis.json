@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "가는 흰 정수리 중앙선",
+      "en": "narrow whitish central crown stripe"
+    },
+    {
+      "ko": "눈앞이 노란 눈썹선",
+      "en": "supercilium yellow in front of the eye"
+    },
+    {
+      "ko": "갈색 뺨과 흰 멱",
+      "en": "brown cheeks and white throat"
+    },
+    {
+      "ko": "가슴·옆구리의 짙은 세로줄",
+      "en": "heavy dark streaking on the breast and flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Savannah Sparrow (Passerculus sandwichensis), adult (sexes alike), a vagrant in Korean coastal grassland in autumn: crown streaked brown and black with a thin pale central stripe; a supercilium that is yellow in front of and above the eye and whitish behind; brown ear coverts outlined by a dark eye-stripe and a thin dark moustache, with a whitish submoustachial stripe and a dark malar stripe; upperparts grey-brown with bold dark streaks; wings brown with pale-fringed coverts and tertials; underparts white with crisp dark-brown streaks across the breast and along the flanks, often merging into a small central breast spot; tail short, notched, brown. Bill small, conical, pinkish with a darker culmen; eye dark; legs pink.",
     "pose": "perched on a dry grass stem, side view",
     "scene": "short coastal grassland with dry grasses near a Korean shore in autumn (October), warm light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched on a grass stem: narrow whitish crown stripe, supercilium yellow in front of the eye and whitish behind, brown cheeks, white throat with a dark malar stripe, streaked grey-brown upperparts, white underparts heavily streaked dark brown on the breast and flanks, short notched tail, small pinkish conical bill, pink legs",
+      "adult, three-quarter front view standing on short grass: narrow whitish crown stripe, yellow in front of the eye, brown cheeks, white throat, crisp dark streaks across the white breast and along the flanks"
+    ],
     "build": "A small, slim sparrow, slightly smaller and slimmer than a House Sparrow, with a small head, rather flat crown and short notched tail; runs mouse-like through short grass and perches upright on low stems. Bill small, conical, pinkish, much shorter than the head. Legs pink, medium length. Tail short with a notched tip and no white sides.",
     "avoid": [
       "Do not paint white outer tail feathers or a long tail as in buntings and pipits; Savannah Sparrow's short notched tail has no white.",
@@ -53,10 +73,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Savannah Sparrow",
+      "url": "https://www.audubon.org/field-guide/bird/savannah-sparrow",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Savannah sparrow (Byers, Olsson & Curson 1995, Sparrows and Buntings 인용)",
+      "url": "https://en.wikipedia.org/wiki/Savannah_sparrow",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

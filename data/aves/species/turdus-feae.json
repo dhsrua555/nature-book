@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 눈썹선",
+      "en": "white supercilium"
+    },
+    {
+      "ko": "눈 밑의 흰 반달",
+      "en": "white crescent below the eye"
+    },
+    {
+      "ko": "올리브빛 적갈색 정수리와 윗면",
+      "en": "rufescent olive-brown crown and upperparts"
+    },
+    {
+      "ko": "회색 가슴과 옆구리(수컷)",
+      "en": "grey breast and flanks (male)"
+    },
+    {
+      "ko": "흰빛으로 옅어지는 배",
+      "en": "belly and vent paling to whitish"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Grey-sided Thrush (Turdus feae), adult male in spring: upperparts warm rufescent olive-brown from crown to tail; a white supercilium and a white crescent below the eye; dark lores; chin and throat white; breast and flanks plain grey; centre of the belly and undertail coverts white; wings and tail olive-brown; bill bright yellow with a dusky ridge and tip to the upper mandible; dark eye; yellowish-orange legs.",
     "pose": "standing on the forest floor among leaf litter, side view",
     "scene": "deciduous woodland floor on a Korean offshore island in May, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view standing on leaf litter: rufescent olive-brown crown, ear-coverts, back, wings and tail, white supercilium, white crescent below the eye, whitish throat, plain grey breast and flanks paling to whitish on the belly and vent, yellow bill with a dark tip, yellowish legs",
+      "adult male, front three-quarter view standing: olive-brown head with a white supercilium and a white crescent below the eye, whitish throat, plain unspotted grey breast and flanks, whitish belly centre, yellow bill"
+    ],
     "build": "A medium-sized thrush, smaller and slimmer than a Dusky Thrush and very like an Eyebrowed Thrush in size and shape, with a rounded head and no crest. Bill straight, slightly shorter than the head, mostly yellow. Legs medium, yellowish-orange. Tail medium, square, plain. Shy, feeding on the ground in forest.",
     "avoid": [
       "Do not paint orange flanks; that is Eyebrowed Thrush (Turdus obscurus). This species has a grey breast and flanks.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia — Grey-sided thrush (BirdLife 종 설명 인용)",
+      "url": "https://en.wikipedia.org/wiki/Grey-sided_thrush",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birda species guide — Grey-sided Thrush (검색 발췌)",
+      "url": "https://app.birda.org/species-guide/30077/Grey-sided_Thrush",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV2",

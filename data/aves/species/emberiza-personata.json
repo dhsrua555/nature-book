@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "어두운 회녹색 머리(수컷)",
+      "en": "dark greyish-green head (male)"
+    },
+    {
+      "ko": "검은 눈앞과 부리 기부(수컷)",
+      "en": "black lores and bill base (male)"
+    },
+    {
+      "ko": "녹황색 아랫면",
+      "en": "greenish-yellow underparts"
+    },
+    {
+      "ko": "옆구리의 굵은 검은 세로줄",
+      "en": "broad dark streaks on the flanks"
+    },
+    {
+      "ko": "흰 바깥꼬리깃",
+      "en": "white outer tail feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Masked Bunting (Emberiza personata), adult male in spring, as seen on Korean islands in April: head and neck dull olive-green; blackish lores and chin forming a small dark mask around the base of the bill; throat and breast yellow, the breast sides washed olive; belly paler yellow, flanks with dark brown streaks; mantle and scapulars brown with bold blackish streaks; wings brown with two thin pale wing-bars; rump olive-brown; tail dark brown with white outer feathers; bill dark grey above, pinkish below; dark eye; pinkish-brown legs.",
     "pose": "hopping on leaf litter under a low bush, side view, tail slightly flicked open",
     "scene": "Korean offshore island in April during spring migration: leaf litter and low scrub at the edge of a woodland path; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, spring, side view on leaf litter: medium-sized bunting with a conical bill, dark greyish-green head, black lores and bill base forming a small dark mask, greenish-yellow throat, breast and belly, broad dark streaks on the breast sides and flanks, brown back and wings streaked black, dark tail with white outer feathers",
+      "adult female, side view on the ground: duller and paler than the male, with little green or yellow and in some birds almost wholly brown, no black on the lores, pale yellowish underparts with broad dark streaks on the flanks, brown back streaked black, white outer tail feathers"
+    ],
     "build": "Medium-sized bunting, about the size of a sparrow but slimmer and longer-tailed, with a rounded head and no crest. Bill conical and pointed, shorter than the head. Legs medium length, pinkish-brown. At rest the wingtips reach only the base of the tail. Tail fairly long and notched, dark with white outer feathers that flash when it is flicked open. Skulks on the ground under bushes and flies up into cover when disturbed.",
     "avoid": [
       "Do not paint a grey head and grey breast; that is the male Black-faced Bunting (Emberiza spodocephala). The Masked Bunting's head is olive-green and its throat yellow.",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "コトバンク – アオジ(ブリタニカ国際大百科事典・世界大百科事典・日本大百科全書)",
+      "url": "https://kotobank.jp/word/%E3%81%82%E3%81%8A%E3%81%98-3140450",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "新潟県 – 展示鳥類剥製(アオジ)",
+      "url": "https://www.pref.niigata.lg.jp/sec/kankyotaisaku/1356909093026.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Canon バードブランチ 野鳥写真図鑑 – アオジ",
+      "url": "http://global.canon/ja/bird-branch/photo-gallery/aoji/index.html",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5, W5",

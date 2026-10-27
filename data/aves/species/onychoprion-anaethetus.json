@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 뒤까지 이어지는 흰 이마·눈썹선",
+      "en": "white forehead and supercilium reaching just behind the eye"
+    },
+    {
+      "ko": "윗부리 기부에 닿는 검은 눈선",
+      "en": "black eye-stripe reaching the base of the upper mandible"
+    },
+    {
+      "ko": "검은 뒷목 아래의 엷은 띠",
+      "en": "pale collar between the black nape and the back"
+    },
+    {
+      "ko": "짙은 회갈색 윗면",
+      "en": "dark grey-brown upperparts"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "깊게 갈라진 긴 꼬리",
+      "en": "long, deeply forked tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Bridled Tern (Onychoprion anaethetus), adult in breeding plumage, as a summer vagrant: black cap from the bill to the nape; a white forehead patch narrowing into a slim white supercilium that extends just behind the eye; a black loral stripe from the bill to the eye; a pale grey-white collar across the hindneck separating the cap from the back; mantle, back and upperwing dark grey-brown; underparts white with a faint grey wash; tail deeply forked, dark grey-brown with white outer feathers. Bill black; dark eye; legs black.",
     "pose": "perched on a piece of floating driftwood, side view",
     "scene": "Open sea south of Jeju Island in late summer after a typhoon, bright light on blue water; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in breeding plumage, perched on floating driftwood, side view: black crown and nape, white forehead and supercilium reaching just behind the eye, black eye-stripe reaching the base of the upper mandible, pale collar between the nape and back, dark grey-brown back and wings, white underparts, long deeply forked tail",
+      "adult, in flight seen squarely from below: head, body and tail in one line, long narrow pointed wings spread out to the sides to their full span and angled back at the wrist, pale underwing with white bases to the primaries and darker wingtips, white underparts, long deeply forked tail, feet tucked against the belly"
+    ],
     "build": "Medium-sized, slender ocean tern, smaller than Black-tailed Gull, with long, narrow, pointed wings and a long, deeply forked tail. Bill black, slender, about as long as the head. Legs short, black. In flight the upperwing is dark grey-brown, and the underwing has white coverts and dark grey flight feathers. Flies buoyantly low over the sea, dipping to the surface for food; often rests on floating driftwood.",
     "avoid": [
       "Do not paint blackish upperparts without a pale hind-collar, or a broad white forehead that stops at the eye; those mark Sooty Tern (Onychoprion fuscatus).",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Bridled Tern – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018300",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bridled tern – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bridled_tern",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bridled tern – New Zealand Birds Online",
+      "url": "https://nzbirdsonline.org.nz/species/bridled-tern",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

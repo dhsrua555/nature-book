@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "끝이 굽은 크고 무거운 부리",
+      "en": "large, heavy, hooked bill"
+    },
+    {
+      "ko": "뺨까지 덮는 넓은 검은 모자",
+      "en": "extensive black cap covering the cheeks to below the eye"
+    },
+    {
+      "ko": "노란빛 도는 목옆",
+      "en": "yellow-tinged neck sides"
+    },
+    {
+      "ko": "짙은 얼룩 가슴띠",
+      "en": "dark, heavily spotted breast band"
+    },
+    {
+      "ko": "첫째날개깃 기부의 흰 무늬(아래가 더 큼)",
+      "en": "white flash at the base of the primaries, narrow above and larger below"
+    },
+    {
+      "ko": "비틀린 숟가락 모양 가운데 꼬리깃(여름깃)",
+      "en": "long, broad, twisted spoon-shaped central tail feathers (breeding)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Pomarine Jaeger (Stercorarius pomarinus), adult pale morph in breeding plumage, as seen off Korean coasts during spring passage in April-May: blackish-brown cap extending down below the gape over the face; cheeks and neck sides washed yellow; throat and belly white; a broad dark brown breast band, often mottled, and dark barring on the flanks; vent and undertail coverts dark brown; upperparts and wings uniform dark brown, with white shafts on the outer primaries forming a small white flash at the base of the primaries above and a larger white patch below; central tail feathers elongated into broad, blunt, twisted spoons; bill heavy, pale pinkish-grey on the basal two-thirds with a dark hooked tip; dark eye; black legs and feet.",
     "pose": "flying low over the sea in steady, gull-like flight, side view with the spoon-shaped tail projections visible",
     "scene": "open sea off the Korean coast in May, grey-blue waves under bright spring light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult pale morph in breeding plumage, side view sitting on the sea: heavy, barrel-shaped body, black cap covering the crown and cheeks, yellow-tinged neck sides, white throat, dark spotted breast band, dark brown upperparts, heavy hooked bill, pinkish at the base with a black tip, twisted spoon-shaped central tail feathers",
+      "adult pale morph, in flight seen squarely from below: head, body and tail in one line, wings spread straight out to the sides to their full span, bent slightly at the wrist, dark underwing with a large whitish patch at the primary bases, white throat and belly, dark breast band, dark vent, spoon-shaped central tail feathers, feet tucked in",
+      "adult pale morph, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, bent slightly at the wrist, dark brown back and upperwing, narrow white flash at the primary bases, black cap, yellow-tinged neck sides, spoon-shaped central tail feathers"
+    ],
     "build": "Large, heavy-bodied skua, about the size of a Black-tailed Gull but deeper-chested and pot-bellied, with broad-based pointed wings and a steady, gull-like flight. Bill stout, shorter than the head, with a strongly hooked tip. Legs short and black, with webbed feet. Tail wedge-shaped, with the central pair extended as broad, rounded, twisted plates that look like a thick club when seen from the side.",
     "avoid": [
       "Do not paint long thin pointed tail streamers (Long-tailed Jaeger) or short pointed projections (Parasitic Jaeger); this species has broad, blunt, twisted spoons.",
@@ -53,10 +82,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong: Pomarine Jaeger 中賊鷗",
+      "url": "https://avifauna.hkbws.org.hk/species/0130/019000",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Audubon Guide to North American Birds: Pomarine Jaeger",
+      "url": "https://www.audubon.org/field-guide/bird/pomarine-jaeger",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "New Zealand Birds Online: Pomarine skua",
+      "url": "https://nzbirdsonline.org.nz/species/pomarine-skua",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia (de): Spatelraubmöwe (Birds of North America 인용)",
+      "url": "https://de.wikipedia.org/wiki/Spatelraubmöwe",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P4, WV2",

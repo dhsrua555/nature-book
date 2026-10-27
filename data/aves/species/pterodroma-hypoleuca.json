@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "대양의 외딴 섬에 사는 바닷새이다. 외딴 섬에만 분포해 전체 개체 수는 자세히 조사되지 않았지만, 태평양의 리시안스키섬(Lisianski Island) 한 곳에만 15~25만 쌍이 살 만큼 지역에 따라서는 흔하다. 하와이 제도와 일본 보닌 열도의 외딴 섬 등지에서 번식하고 북태평양 아열대 해역에서 겨울을 난다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 얼굴과 검은 정수리",
+      "en": "white face with a black cap"
+    },
+    {
+      "ko": "가슴 옆의 짙은 반 목테",
+      "en": "dark half-collar on the breast sides"
+    },
+    {
+      "ko": "연회색 윗면의 검은 M자 무늬",
+      "en": "pale grey upperparts with a dark 'M' across the wings and back"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    },
+    {
+      "ko": "날개 아랫면 손목의 검은 무늬와 띠",
+      "en": "white underwing with a black patch at the wrist and a broad black bar"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Bonin Petrel (Pterodroma hypoleuca), adult: forehead and face white; crown, nape and a patch around and behind the eye blackish-grey, forming a dark cap; upperparts grey, with a darker blackish 'M' formed by the outer wings and a dark band across the inner wing coverts; tail dark grey; underparts white; underwing white with a thick black bar running diagonally inwards from the wrist and black tips and leading edge. Bill black.",
     "pose": "flying low over the open ocean, side view",
     "scene": "remote oceanic island surrounded by open sea; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from above: compact body, long narrow pointed wings spread straight out to the sides to their full span with a sharp angle at the wrist, white face, black cap, pale grey back, dark 'M' formed by the darker primaries and wing coverts across both wings and the back, dark grey tail, head, body and tail in a straight line",
+      "adult, in flight seen squarely from below: white face, black cap, short black hooked bill, dark half-collar on the breast sides, white throat and underparts, white underwing with a black patch at the wrist, a broad black bar running inwards across the coverts and dark edges, wings angled at the wrist, dark grey tail, feet tucked under the tail"
+    ],
     "build": "Medium-sized gadfly petrel, 30cm, about the length of a feral pigeon but much longer-winged, clearly smaller than Streaked Shearwater. Compact body, rounded head and short neck. Bill short, much shorter than the head, thick, with tube nostrils on top and a strongly hooked tip. Legs short. Wings long, narrow and pointed, angled at the wrist; flight fast, with high arcing glides and few wingbeats. Tail grey and slightly wedge-shaped.",
     "avoid": [
       "Do not paint it like a shearwater with a long thin bill and plain upperparts; the bill is short and stout and the upperwing shows a dark M pattern.",
@@ -58,10 +82,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Kern Audubon Society: Bonin Petrel (after American Bird Conservancy)",
+      "url": "https://www.kernaudubonsociety.org/?p=6344",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birda species guide: Bonin Petrel",
+      "url": "https://app.birda.org/species-guide/7477/Bonin_Petrel",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "神奈川自然誌資料 22: 茅ヶ崎市で保護されたシロハラミズナギドリの記録",
+      "url": "https://nh.kanagawa-museum.jp/assets/icp/pdf/nhr22_031_032ito.pdf",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "원문에 국내 상태와 생김새가 없다"
+    "원문에 국내 상태와 생김새가 없다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

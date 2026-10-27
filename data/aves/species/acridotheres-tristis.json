@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 뒤·아래의 노란 맨살",
+      "en": "bare bright yellow skin behind and below the eye"
+    },
+    {
+      "ko": "검은 머리·목·윗가슴",
+      "en": "black head, neck and upper breast"
+    },
+    {
+      "ko": "짙은 갈색 몸",
+      "en": "dark brown body"
+    },
+    {
+      "ko": "첫째날개깃의 흰 무늬",
+      "en": "white patch on the primaries"
+    },
+    {
+      "ko": "흰 아래꼬리덮깃과 꼬리 끝",
+      "en": "white undertail coverts and white tail tip"
+    },
+    {
+      "ko": "노란 부리와 다리",
+      "en": "yellow bill and legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Common Myna (Acridotheres tristis), adult (sexes alike): head, neck and upper breast glossy black, sharply set off from the warm chocolate-brown body; a bare, bright yellow patch of skin behind and below the eye; back and wings brown, with a white patch at the base of the primaries showing as a small white mark on the closed wing; tail black with white tips to the outer feathers; lower belly, vent and undertail coverts white. Bright yellow bill; dark eye; bright yellow legs.",
     "pose": "walking on short grass, side view, head up",
     "scene": "Korean farmland edge with short grass and bare soil in spring; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view walking upright on short grass, head up: black head, neck and upper breast sharply set off from the dark brown body, bare bright yellow skin behind and below the eye, stout yellow bill, brown wings with a small white patch on the primaries, white lower belly and undertail coverts, dark tail tipped white, yellow legs",
+      "adult, in flight seen squarely from below: rounded wings spread straight out to the sides to their full span, white underwing coverts, large white patches at the base of the primaries, black head, throat and upper breast, yellow bill, dark brown belly and flanks, white undertail coverts, dark tail tipped white, yellow feet tucked under the tail"
+    ],
     "build": "Stocky starling, a little larger and stouter than the White-cheeked Starling, with an upright stance; slightly flat crown, no crest. Bill yellow, fairly stout and slightly decurved, shorter than the head. Legs long and strong, yellow; walks with a swagger rather than hopping. Tail of medium length, rounded. In flight large white patches at the base of the primaries flash on rounded dark wings, the underwing coverts are white and the tail corners white.",
     "avoid": [
       "Do not paint it all black with a forehead tuft and a pale bill; that is the Crested Myna (Acridotheres cristatellus).",
@@ -52,10 +80,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Common myna - Wikipedia (Rasmussen & Anderton 2005, Birds of South Asia 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_myna",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Common Myna 家八哥 - Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045100",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "가늘고 조금 휜 부리",
+      "en": "slender, slightly decurved bill"
+    },
+    {
+      "ko": "푸른 광택이 도는 검은 몸",
+      "en": "glossy bluish-black plumage"
+    },
+    {
+      "ko": "끝이 각지거나 살짝 갈라진 꼬리",
+      "en": "tail square-cut to very slightly forked"
+    },
+    {
+      "ko": "흰 가로줄 있는 아래꼬리덮깃",
+      "en": "vent and undertail coverts finely barred white"
+    },
+    {
+      "ko": "바깥꼬리깃 아랫면의 흰 가로줄",
+      "en": "outermost tail feathers finely barred white below"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Square-tailed Drongo-Cuckoo (Surniculus lugubris), adult: plumage entirely black with a blue-black gloss, strongest on the back and wings; rounded head with no crest, the crown feathers lying flat; undertail coverts barred white; the outer tail feathers barred white on their undersides, so the underside of the long black tail shows narrow white bars. Bill black, slender and slightly decurved; legs short and dark.",
     "pose": "perched upright on a branch in the mid-canopy, side view",
     "scene": "Broadleaf woodland edge on a Korean offshore island in May, during spring migration, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a branch in the mid-canopy: slim, drongo-like cuckoo, glossy bluish-black all over, slender slightly decurved dark bill, pointed wings, long tail square-cut to very slightly forked, vent and undertail coverts finely barred white",
+      "adult, front three-quarter view perched, seen from slightly below: glossy bluish-black throat and breast, vent and undertail coverts finely barred white, underside of the long blackish tail showing fine white bars on the outermost feathers"
+    ],
     "build": "Slim, drongo-like cuckoo, a little smaller than Black Drongo, perching upright in the mid-canopy; rounded head with no crest. Bill short, slender and slightly decurved, without the heavy hooked tip and bristles of a drongo. Legs short, with two toes forward and two back. Tail long, square-ended or with only a very slight notch at the tip. Wings pointed; flight direct and cuckoo-like.",
     "avoid": [
       "Do not paint a deeply forked tail; that marks Black Drongo and Fork-tailed Drongo-Cuckoo.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS): Square-tailed Drongo-Cuckoo Surniculus lugubris",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project: Square-tailed Drongo-Cuckoo",
+      "url": "https://singaporebirds.com/species/square-tailed-drongo-cuckoo/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

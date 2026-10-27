@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "크고 둥근 주황빛 머리(수컷)",
+      "en": "large, rounded rusty-orange head (male)"
+    },
+    {
+      "ko": "붉은 부리와 붉은 홍채(수컷)",
+      "en": "red bill and red iris (male)"
+    },
+    {
+      "ko": "짙은 갈색 모자와 흰빛 뺨(암컷)",
+      "en": "dark brown cap over pale whitish cheeks (female)"
+    },
+    {
+      "ko": "검은 가슴과 흰 옆구리(수컷)",
+      "en": "black breast and white flanks (male)"
+    },
+    {
+      "ko": "넓은 흰 날개띠",
+      "en": "broad white wing-bar along the flight feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,11 @@
     "subject": "Red-crested Pochard (Netta rufina), adult male in winter, as seen in Korea from November to March: large bushy head bright rusty-orange, paler golden-orange on the raised crown; neck, breast and a broad band at the front of the body black; back and folded wings grey-brown; flanks clean white; a white patch at the bend of the wing showing at the front of the back; rump, vent and undertail coverts black; bill bright coral-red with a pale nail; red iris; legs orange-red.",
     "pose": "swimming on calm open water, side view, head held high",
     "scene": "Korean reservoir in winter with calm open water and dry reeds along the shore; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in winter, side view swimming with the head held high: large rounded rusty-orange head, bright red bill, red iris, black neck and breast, brown back, white flanks, black tail and undertail",
+      "adult female, side view swimming: pale brown body with a darker back, dark brown cap reaching down to eye level, whitish-grey cheeks and throat, greyish bill with a pinkish patch near the tip",
+      "adult male in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, broad white wing-bar along almost the whole length of the flight feathers, brown back, black breast and tail, orange head"
+    ],
     "build": "Large, bulky diving duck, about the size of a Mallard, with a big rounded head that looks puffed up on the crown and a thick neck. Bill straight, fairly narrow, a little shorter than the head. Legs short, set well back. At rest the wingtips reach about the tail base. Tail short, dark. Floats high for a diving duck. In flight a broad white wing-bar along almost the whole length of the flight feathers and whitish underwings; males show white shoulder patches.",
     "avoid": [
       "Do not paint a grey body, a dark bill and a dull chestnut head; that is Common Pochard (Aythya ferina).",
@@ -57,10 +82,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Red-crested Pochard - RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/red-crested-pochard",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Red-crested Pochard Identification Guide - Birdspot",
+      "url": "https://www.birdspot.co.uk/bird-identification/red-crested-pochard",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Kolbenente - Wikipedia (de)",
+      "url": "https://de.wikipedia.org/wiki/Kolbenente",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Red-crested pochard - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red-crested_pochard",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "원문 생김새(수컷 이마의 붉은 혹, 검은 머리와 목, 분홍 부리)와 분포(남아메리카)가 이 종과 맞지 않고 남아메리카의 다른 Netta 종(Netta peposaca로 보임)을 설명한 것으로 보여 모든 값을 TODO로 둠"
+    "원문 생김새(수컷 이마의 붉은 혹, 검은 머리와 목, 분홍 부리)와 분포(남아메리카)가 이 종과 맞지 않고 남아메리카의 다른 Netta 종(Netta peposaca로 보임)을 설명한 것으로 보여 모든 값을 TODO로 둠",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

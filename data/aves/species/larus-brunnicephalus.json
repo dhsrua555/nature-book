@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰빛 홍채(어른새)",
+      "en": "pale iris (adult)"
+    },
+    {
+      "ko": "귀깃의 어두운 점(겨울깃)",
+      "en": "dark ear patch (winter)"
+    },
+    {
+      "ko": "검은머리갈매기보다 굵은 붉은 부리",
+      "en": "red bill, deeper than Black-headed Gull's"
+    },
+    {
+      "ko": "큰 흰 반점이 있는 검은 날개 끝",
+      "en": "black wingtip with large white mirrors on the outer primaries"
+    },
+    {
+      "ko": "아래에서 보면 검은 첫째날개깃",
+      "en": "largely black primaries on the underwing"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Brown-headed Gull (Larus brunnicephalus), adult in winter (non-breeding) plumage, as on the Korean coast in autumn: head white with a dark grey-brown spot behind the eye and a faint grey wash over the crown; mantle and wing coverts pale grey; folded wingtip black with a small white mirror near the tip of the outermost primaries; underparts, rump and tail white. Bill red with a dark tip, deeper and longer than Black-headed Gull's; iris pale whitish-yellow with a thin red orbital ring; legs red.",
     "pose": "standing at the water's edge on wet mud, side view, wings folded",
     "scene": "Korean estuary mudflat in October among Black-headed Gulls, soft overcast autumn light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter plumage, side view standing on wet mud: white head with a dark ear patch, pale iris, red bill deeper than a Black-headed Gull's with a dark tip, pale grey mantle and wing coverts, black folded wingtip with a white mirror, white tail, red legs",
+      "adult in winter plumage in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span and bent slightly at the wrist, pale grey upperwing, black wingtip with two large white mirrors on the outer primaries, white tail",
+      "adult in flight seen squarely from below: head, body and tail in one line, wings spread straight out to the sides to their full span and bent slightly at the wrist, grey underwing with largely black primaries and white mirrors near the tip, white body and tail, red bill, red feet tucked under the tail"
+    ],
     "build": "Medium-sized hooded gull, noticeably larger and bulkier than Black-headed Gull and smaller than Black-tailed Gull; rounded head with a gently sloping forehead. Bill fairly stout, longer and deeper than Black-headed Gull's, with a slight droop at the tip. Legs medium length, red. At rest the black wingtips project well beyond the tail. In flight the outer wing has a broad black tip enclosing large white mirrors on the outermost two primaries, set off by a white wedge across the bases of the outer primaries; from below the primaries look largely black. Tail square, white. In breeding plumage (spring to summer) it wears a pale brown hood, darker at the rear edge.",
     "avoid": [
       "Do not paint Black-headed Gull's wingtip (white outer primaries with only narrow black tips); the Brown-headed Gull has a broad black wingtip with white mirrors.",
@@ -52,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Brown-headed Gull Chroicocephalus brunnicephalus – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0110/016200",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Brown-headed gull – Wikipedia (Grimmett et al., Birds of India 인용)",
+      "url": "https://en.wikipedia.org/wiki/Brown-headed_gull",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Brown-headed Gull – Shanghai Birding (Birds of China)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/brown-headed-gull/",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Brown-headed Gull – BirdForum Opus (검색 요약으로 확인)",
+      "url": "https://birdforum.net/opus/Brown-headed_Gull",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "NEW24",

@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "연한 회갈색 윗면",
+      "en": "pale cold grey-brown upperparts"
+    },
+    {
+      "ko": "아랫면의 크고 둥근 검은 반점",
+      "en": "bold round black spots on the underparts"
+    },
+    {
+      "ko": "흰 날개아랫덮깃(날 때)",
+      "en": "white underwing coverts (in flight)"
+    },
+    {
+      "ko": "바깥꼬리깃의 흰 끝",
+      "en": "white tips to the outer tail feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Mistle Thrush (Turdus viscivorus), adult (sexes alike) in winter: upperparts plain pale greyish-brown; face pale with dark marks around the ear-coverts; underparts whitish with a slight buff wash on the breast, densely covered with bold round to wedge-shaped black spots on the breast, flanks and belly; wings with whitish fringes to the coverts and tertials; tail greyish-brown with white tips to the outer feathers; bill dark with a yellowish base to the lower mandible; dark eye; pale pinkish-yellow legs.",
     "pose": "standing upright on short grass, side view",
     "scene": "open grassland with scattered trees in Korea in winter, low winter sun; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing upright on short grass: large long-tailed thrush, pale cold grey-brown upperparts, greyish-white chin and throat, yellowish-buff breast and off-white belly densely marked with bold round black spots, blackish bill with a yellowish base below, long tail, yellowish-brown legs",
+      "adult, in flight seen squarely from below: long wings spread straight out to the sides to their full span, white underwing coverts, pale body densely spotted black, long greyish-brown tail with white tips to the outer feathers, feet tucked under the tail"
+    ],
     "build": "A large, long-tailed thrush, larger than a Dusky Thrush, with a long body, a relatively small head and a bold, upright stance on the ground. Bill straight, shorter than the head. Legs medium, pale. Wings long; tail long and square. In flight shows white underwing coverts and white tail corners; flight strong, with short glides on closed wings.",
     "avoid": [
       "Do not paint warm brown upperparts with small neat spots (Song Thrush); this species is greyer and larger with bolder spots.",
@@ -52,10 +72,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia: Mistle thrush (cites Clement et al. 2000, Thrushes, Helm Identification Guides)",
+      "url": "https://en.wikipedia.org/wiki/Mistle_thrush",
+      "used": "동정 포인트·도해 모습 (연한 회갈색 윗면, 둥근 검은 반점, 흰 날개아랫덮깃, 바깥꼬리깃 흰 끝, 부리·다리 색)"
+    },
+    {
+      "title": "RSPB: Mistle Thrush",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/mistle-thrush",
+      "used": "교차 확인 (차가운 회갈색 윗면, 크고 짙은 가슴 반점, 날 때 흰빛 꼬리 가장자리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

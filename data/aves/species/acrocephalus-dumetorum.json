@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 앞쪽에만 짧은 흰 눈썹선",
+      "en": "short whitish supercilium, mainly in front of the eye"
+    },
+    {
+      "ko": "가늘고 긴 부리",
+      "en": "long, slender bill"
+    },
+    {
+      "ko": "무늬 없는 올리브갈색 윗면",
+      "en": "plain olive-brown upperparts"
+    },
+    {
+      "ko": "대비가 거의 없는 접은 날개",
+      "en": "plain closed wing with little contrast"
+    },
+    {
+      "ko": "무늬 없는 흰빛 아랫면",
+      "en": "plain off-white underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Blyth's Reed Warbler (Acrocephalus dumetorum), adult (sexes alike) in autumn: upperparts plain cold olive-brown to greyish-brown with no rufous on the rump; a short whitish supercilium, most obvious in front of the eye and fading just behind it; dark lores; throat white; underparts off-white with a faint buffish-grey wash on the breast sides and flanks; wings plain, the tertials uniform with little contrast; tail plain brown; bill dark with a pale pinkish lower mandible; dark eye; greyish-brown legs.",
     "pose": "perched in a leafy shrub, side view",
     "scene": "shrubby woodland edge on a Korean offshore island during autumn migration in September, soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike) in autumn, side view perched in a leafy shrub: slim, round-headed reed warbler, short whitish supercilium mainly in front of the eye, dusky line through the eye, long slender bill, plain olive-brown upperparts, plain closed wing with little contrast, plain off-white underparts, plain brown rounded tail",
+      "adult, head and upper body in profile: short whitish supercilium from the bill base to the eye, barely reaching behind it, dusky eye-stripe, dark eye, long slender bill, white throat, plain olive-brown crown and nape"
+    ],
     "build": "A small, plain reed warbler, about sparrow length but slimmer, much smaller than an Oriental Reed Warbler; round-headed with a fairly steep forehead. Bill fairly long and thin, slightly shorter than the head. Legs medium, greyish. Wings short and rounded: the primary projection is short, clearly shorter than the tertials. Tail medium, rounded, plain, without white. Often found in bushes and woodland edges rather than reeds.",
     "avoid": [
       "Do not paint a long supercilium running well behind the eye or a dark line above it (Black-browed Reed or Paddyfield Warbler).",
@@ -53,10 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Blyth's reed warbler – Wikipedia (Brazil 2009, Birds of East Asia 인용)",
+      "url": "https://en.wikipedia.org/wiki/Blyth%27s_reed_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Blyth's Reed Warbler – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/041100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Blyth's Reed-warbler – Birds of Uzbekistan (Ryabitsev 2000 인용)",
+      "url": "https://uzbekistan.birding.day/v2taxon.php?l=en&s=339",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

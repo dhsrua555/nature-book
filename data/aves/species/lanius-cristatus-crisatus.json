@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "등처럼 적갈색인 정수리·뒷목",
+      "en": "rufous-brown crown and nape, like the back"
+    },
+    {
+      "ko": "옅은 이마와 흰 눈썹선",
+      "en": "buffish-white lower forehead and white supercilium"
+    },
+    {
+      "ko": "눈앞에서 귀깃까지 검은 눈선(수컷)",
+      "en": "black mask from the lores to the rear ear-coverts (male)"
+    },
+    {
+      "ko": "적갈색 옆구리와 크림색 아랫면",
+      "en": "creamy underparts with rufous-buff flanks"
+    },
+    {
+      "ko": "가슴 옆·옆구리의 가는 비늘무늬(암컷)",
+      "en": "finely vermiculated breast sides and flanks (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Brown Shrike (Lanius cristatus cristatus), adult male, as seen on Korean islands and field edges during passage in May and August-September: crown, nape, back and rump plain warm rufous-brown, the crown about the same colour as the back; a narrow white forehead line continuing as a white supercilium above a broad black mask from the lores through the eye to the ear coverts; throat white; underparts creamy-white with a rich rufous-buff wash on the breast sides, flanks and belly; wings dark brown with paler rufous-buff edges and no white patch; long rufous-brown tail; strong blackish hooked bill; dark eye; dark grey legs.",
     "pose": "perched upright on the top of a shrub, tail slightly lowered, scanning the ground for insects",
     "scene": "Korean island scrub and field edge with shrubs in May, during spring passage, fresh green leaves; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on top of a shrub: large head, rufous-brown crown and nape like the russet-brown back, buffish-white lower forehead and white supercilium above a black mask from the lores to the rear ear-coverts, whitish throat, creamy underparts with rufous-buff flanks, brown wings, long rounded tail, stout hooked bill",
+      "adult female, side view perched: like the male but paler, the mask blackish-brown and less clean-cut, white supercilium, rufous-brown crown and back, fine dark vermiculation on the creamy breast sides and flanks"
+    ],
     "build": "Medium-sized shrike, about the size of a Bull-headed Shrike and larger than a sparrow, with a large head, upright posture and long tail. Bill stout, shorter than the head, deep and laterally compressed with a hooked tip. Legs short, strong, dark grey. Wings short and rounded; the long, graduated, rounded tail extends far beyond the wingtips and is often swung slowly from side to side. Hunts from exposed perches, dropping onto insects.",
     "avoid": [
       "Do not paint a pale grey crown - that marks the subspecies lucionensis; in this form the crown is warm rufous-brown like the back.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong – Brown Shrike 紅尾伯勞",
+      "url": "https://avifauna.hkbws.org.hk/species/0240/031700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Brown shrike (Rasmussen & Anderton 2005 인용)",
+      "url": "https://en.wikipedia.org/wiki/Brown_shrike",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P4",

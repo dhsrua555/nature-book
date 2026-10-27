@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뒷머리가 솟은 모난 머리",
+      "en": "angular head peaked at the rear of the crown"
+    },
+    {
+      "ko": "흰 테와 끝 앞 흰 띠가 있는 회색 부리",
+      "en": "grey bill outlined white at the base, with a white ring behind the black tip"
+    },
+    {
+      "ko": "검은 머리·가슴·등과 노란 홍채(수컷)",
+      "en": "black head, breast and back with a yellow iris (male)"
+    },
+    {
+      "ko": "앞에 흰 쐐기가 솟은 회색 옆구리(수컷)",
+      "en": "pale grey flanks with a white spur in front (male)"
+    },
+    {
+      "ko": "흰 눈테(암컷)",
+      "en": "white eye-ring (female)"
+    },
+    {
+      "ko": "흰색이 아닌 회색 날개띠",
+      "en": "grey, not white, wing stripe in flight"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Ring-necked Duck (Aythya collaris), adult male in winter plumage, as worn from October to April: head, neck, breast, back and rear all black, the head with a purple gloss in good light; the dark chestnut collar at the base of the neck is faint and usually invisible; flanks pale grey, bordered in front by a vertical white spur that rises towards the shoulder; belly white. Bill slate-grey with a thin white line around the base and a broad white ring just behind the black tip; iris bright yellow; legs and feet grey.",
     "pose": "swimming on calm open water, head raised showing the peaked crown, side view",
     "scene": "Korean freshwater reservoir in winter, calm grey water edged with dry reeds; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, winter, side view swimming: angular head peaked at the rear of the crown, glossy black head, yellow iris, grey bill outlined white at the base with a white ring behind the black tip, black breast, back and rear, pale grey flanks with a white spur rising in front toward the shoulder",
+      "adult female, side view swimming: same peaked head, grey-brown body with a darker brown back, paler greyish cheeks, pale area at the bill base, thin white eye-ring trailing back toward the ear, brown iris, grey bill with a pale band behind the dark tip",
+      "adult male, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, black head and back, dark upperwing with a grey stripe along the flight feathers, short dark tail"
+    ],
     "build": "Medium-small diving duck, about the size of a Tufted Duck, compact and short-bodied, floating fairly high. Head distinctly angular, with a high peak at the rear of the crown and no crest or tuft. Bill shorter than the head, broad and flat, typical of the diving ducks. Short grey legs set far back. Wings hidden under the flanks at rest; in flight black upperparts and a grey, not white, bar along the secondaries. Tail short and dark, held low on the water.",
     "avoid": [
       "Do not add a drooping crest or white flanks — that is Tufted Duck (Aythya fuligula); this species has no tuft and grey flanks with a white spur in front.",
@@ -53,10 +82,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb — Ring-necked Duck",
+      "url": "https://www.birdweb.org/birdweb/bird/ring-necked_duck",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Ring-necked duck",
+      "url": "https://en.wikipedia.org/wiki/Ring-necked_duck",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds — Ring-necked Duck",
+      "url": "https://www.audubon.org/field-guide/bird/ring-necked-duck",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Ducks Unlimited Waterfowl ID — Ring-necked Duck",
+      "url": "https://ducks.org/hunting/waterfowl-id/ring-necked-duck",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdForum Opus — Ring-necked Duck (검색 발췌)",
+      "url": "https://birdforum.net/opus/Ring-necked_Duck",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

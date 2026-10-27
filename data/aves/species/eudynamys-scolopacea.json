@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "진홍색 홍채",
+      "en": "crimson-red iris"
+    },
+    {
+      "ko": "굵고 옅은 연둣빛 부리",
+      "en": "stout, pale greenish bill"
+    },
+    {
+      "ko": "온몸이 광택 있는 검푸른색(수컷)",
+      "en": "entirely glossy blue-black plumage (male)"
+    },
+    {
+      "ko": "흰 점이 흩어진 짙은 갈색 윗면(암컷)",
+      "en": "dark brown upperparts spotted white and buff (female)"
+    },
+    {
+      "ko": "줄무늬·가로줄 있는 흰 아랫면(암컷)",
+      "en": "whitish underparts streaked and barred dark (female)"
+    },
+    {
+      "ko": "긴 꼬리",
+      "en": "long tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Asian Koel (Eudynamys scolopacea), adult male, as seen in Korean island woodland in late spring: entire plumage glossy blue-black from head to tail, with a faint greenish-blue sheen on the back, wings and long tail, and no pale markings anywhere; bill stout and slightly hooked, pale greenish-ivory; iris bright crimson-red; legs and feet grey.",
     "pose": "perched on an open branch of a fruiting tree, side view",
     "scene": "Korean offshore island woodland in late spring (May), fresh green foliage and soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched on an open branch: entire plumage glossy blue-black with no pale markings, crimson-red iris, stout, slightly decurved pale greenish bill, fairly short rounded wings, long rounded tail, grey legs",
+      "adult female, side view perched: brown crown streaked rufous, dark brown upperparts spotted white and buff, whitish underparts streaked dark on the breast and barred on the belly and flanks, long tail strongly barred, crimson-red iris, stout pale greenish bill"
+    ],
     "build": "Large, long-tailed cuckoo, larger and heavier than Common Cuckoo, about as long as a Eurasian Magpie but slimmer, with a long, rounded tail and fairly short, rounded wings. Bill stout, slightly decurved, shorter than the head. Legs short, grey, two toes forward and two back. Keeps hidden in the dense foliage of fruiting trees. The female is very different: brown above, heavily spotted white and buff, whitish below with dense dark barring, with the same pale bill and red eye.",
     "avoid": [
       "Do not paint a black bill or dark eye, which would make it look like a crow; the bill is pale greenish and the iris red.",
@@ -52,10 +80,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Asian Koel",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005200",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Asian koel (Payne 2005; Ali & Ripley 인용)",
+      "url": "https://en.wikipedia.org/wiki/Asian_koel",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

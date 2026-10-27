@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 솜털로 덮인 머리와 긴 목(어린새)",
+      "en": "head and long neck covered in whitish down (juvenile)"
+    },
+    {
+      "ko": "목 아래의 갈색 깃 목도리",
+      "en": "ruff of brown feathers at the base of the neck"
+    },
+    {
+      "ko": "흰 세로줄 있는 짙은 갈색 몸(어린새)",
+      "en": "dark brown body boldly streaked whitish (juvenile)"
+    },
+    {
+      "ko": "흰 줄 날개아랫덮깃과 검은 날개깃",
+      "en": "whitish-streaked underwing coverts contrasting with blackish flight feathers"
+    },
+    {
+      "ko": "짧고 검은 꼬리",
+      "en": "short dark tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Himalayan Vulture (Gyps himalayensis), juvenile in its first winter, the age that wanders east in winter: body, back and wing coverts dark brown, boldly streaked buff-white on the underparts and with pale streaks on the upperwing coverts; a ruff of long, pointed brown feathers at the base of the neck; head and neck covered with whitish-grey down; flight feathers and tail blackish. Bill blackish; legs and feet grey.",
     "pose": "soaring on broad, deeply fingered wings held in a shallow V, seen from below",
     "scene": "Korean mountain ridges in winter with bare forest and patches of snow; no people, buildings or text",
-    "views": [],
+    "views": [
+      "juvenile, side view standing hunched on open ground: huge vulture with a small head and long neck covered in whitish down, heavy hooked bill, a ruff of brown feathers at the base of the neck, dark brown body and wing coverts with bold whitish streaks, blackish flight feathers and short dark tail, strong legs",
+      "juvenile, in flight seen squarely from below: very long broad wings with deeply fingered primaries spread straight out to the sides to their full span, whitish-streaked dark underwing coverts contrasting with blackish flight feathers, dark brown streaked body, small whitish downy head on a long neck, short dark tail, feet tucked under the tail"
+    ],
     "build": "Huge vulture, the largest griffon, comparable in size to a Cinereous Vulture, with a heavy body, long downy neck and small head. Bill large, deep and hooked, about as long as the head. Legs strong. Perched birds look hunched, with the neck tucked into the ruff. In flight very long, broad, parallel-edged wings with deeply fingered primaries, held in a shallow V when soaring; tail short, dark and slightly wedge-shaped.",
     "avoid": [
       "Do not paint the uniform blackish-brown plumage and flat-winged soaring of Cinereous Vulture (Aegypius monachus); this griffon is streaked and soars with wings in a shallow V.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Singapore Birds Project – Himalayan Vulture",
+      "url": "https://singaporebirds.com/species/himalayan-vulture/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Himalayan vulture (Rasmussen & Anderton, Birds of South Asia; Alström 1997 인용)",
+      "url": "https://en.wikipedia.org/wiki/Himalayan_vulture",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

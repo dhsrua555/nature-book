@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "짙은 갈색 윗면과 등의 흰 무늬",
+      "en": "dark brown upperparts with a variable white patch on the mantle"
+    },
+    {
+      "ko": "검은 세로줄 있는 흰 아랫면",
+      "en": "white underparts with dark streaks"
+    },
+    {
+      "ko": "날개 아랫면덮깃의 검은 띠",
+      "en": "white leading underwing coverts with a broad blackish band behind them"
+    },
+    {
+      "ko": "덮깃과 대비되는 회색 날개깃",
+      "en": "pale greyish, finely barred flight feathers contrasting with the dark coverts"
+    },
+    {
+      "ko": "끝 가까이 넓은 검은 띠의 회색 꼬리",
+      "en": "grey tail with a broad blackish subterminal band"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Bonelli's Eagle (Aquila fasciata), adult: upperparts dark brown, usually with a whitish patch on the mantle; head brown with a paler face; underparts white with fine dark streaks; underwing coverts dark, forming a broad blackish band along the underwing between the white body and the paler, finely barred greyish flight feathers; tail pale grey with fine bars and a broad black band at the tip. Bill dark grey with a yellow cere; legs feathered white to the toes, feet yellow.",
     "pose": "soaring over a rocky ridge on flat wings, seen from below",
     "scene": "rocky coastal hills with scattered pines in Korea in autumn; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from below: small head, long broad wings spread straight out to the sides to their full span, white body with dark streaks, white leading underwing coverts with a broad blackish band behind, pale greyish barred flight feathers, long grey tail with a broad blackish subterminal band, feet tucked under the tail",
+      "adult, side view perched upright on a rock: dark brown upperparts with a white patch on the mantle, slightly darker cap, white underparts with dark streaks, long grey tail with a broad blackish band near the tip, strong hooked bill"
+    ],
     "build": "Medium-sized, slender eagle, larger than an Eastern Buzzard but clearly smaller than a Golden Eagle, with a small head protruding well forward, a long tail and fairly long legs. Bill strong and hooked, shorter than the head. Legs feathered to the toes. In flight long, fairly broad wings with nearly straight edges, held flat or slightly bowed; tail long and square-ended.",
     "avoid": [
       "Do not paint the dark brown underparts of Golden Eagle (Aquila chrysaetos); the adult Bonelli's Eagle has white underparts.",
@@ -53,10 +77,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Bonelli's Eagle 白腹隼鵰",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Bonelli's eagle (Ferguson-Lees & Christie, Clark, Forsman 인용)",
+      "url": "https://en.wikipedia.org/wiki/Bonelli%27s_eagle",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Europe 3.1 (Naturalis) – Bonelli's Eagle",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130503&epi=207",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Universitat de Barcelona EEAP – Adults distinctive features",
+      "url": "https://ub.edu/aligaperdiguera/EEAPang/tretsadults.htm",
+      "used": "동정 포인트(보조 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

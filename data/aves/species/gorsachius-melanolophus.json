@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 정수리와 댕기",
+      "en": "blackish crown and crest"
+    },
+    {
+      "ko": "눈앞과 눈 둘레의 파란 맨살",
+      "en": "blue bare skin on the lores and around the eye"
+    },
+    {
+      "ko": "적갈색 얼굴 옆과 목",
+      "en": "rufous sides of the head and neck"
+    },
+    {
+      "ko": "밤갈색 윗면과 날개덮깃",
+      "en": "chestnut-brown upperparts and wing coverts"
+    },
+    {
+      "ko": "날 때 보이는 첫째날개깃 끝의 흰색",
+      "en": "white tips to the primaries, visible in flight"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Malayan Night Heron (Gorsachius melanolophus), adult: crown and short crest black; sides of the head and neck rich rufous-chestnut; back and wing coverts chestnut-brown finely vermiculated with black; throat white with a black stripe down the centre of the foreneck; underparts buffy-rufous with bold black-and-white streaks and spots down the centre; flight feathers black, the primaries tipped white. Bill short, thick and dark; bare lores and skin around the eye vivid blue; iris yellow; legs and feet greenish.",
     "pose": "standing still on a shaded forest floor with the neck drawn in, side view",
     "scene": "damp, shaded broadleaf forest floor on a southern Korean island during spring migration, leaf litter and ferns; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing hunched with the neck drawn in: blackish crown and crest, rufous sides of the head and neck, blue bare lores and eye-ring, yellow iris, short stocky dark bill, chestnut-brown back and wing coverts, olive legs",
+      "adult in flight seen squarely from above: head, short neck, body and tail in one line, broad rounded wings spread straight out to the sides to their full span, chestnut-brown coverts, dark flight feathers with white tips to the primaries, blackish crown, legs projecting beyond the short tail"
+    ],
     "build": "Small, stocky, short-necked heron, smaller than a Black-crowned Night Heron, thickset with a large rounded head carrying a short black crest. Bill noticeably short for a heron, shorter than the head, thick, with a slightly arched culmen. Legs medium length and sturdy. Wings broad and rounded; in flight black flight feathers with white tips to the primaries show against the chestnut coverts. Tail short. Stands hunched and motionless in shade.",
     "avoid": [
       "Do not paint a chestnut crown without a black crest — that is Japanese Night Heron (Gorsachius goisagi); this species has a black crown and crest.",
@@ -53,10 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Malayan Night Heron Gorsachius melanolophus – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0170/022600",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Malayan Night Heron – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/malayan-night-heron/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Malayan Night Heron – IUCN-SSC Heron Specialist Group",
+      "url": "https://heronconservation.org/herons-of-the-world/list/malayan-night-heron/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

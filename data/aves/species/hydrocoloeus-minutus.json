@@ -15,7 +15,32 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은빛 뒷정수리와 귀깃 점(겨울깃)",
+      "en": "dark rear crown and dark ear spot (winter)"
+    },
+    {
+      "ko": "검은 부리",
+      "en": "black bill"
+    },
+    {
+      "ko": "검은 무늬 없는 날개끝(어른)",
+      "en": "pale wingtips with no black (adult)"
+    },
+    {
+      "ko": "아주 짙은 회색 아랫날개(어른)",
+      "en": "very dark grey underwing (adult)"
+    },
+    {
+      "ko": "윗날개의 검은 W 무늬(어린 새)",
+      "en": "dark W across the upperwing (juvenile and first winter)"
+    },
+    {
+      "ko": "분홍빛 붉은 다리",
+      "en": "pinkish-red legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Little Gull (Hydrocoloeus minutus), adult in winter (non-breeding) plumage: white head with a dusky grey cap on the rear crown and a dark spot behind the eye; mantle and upperwing pale grey, the rounded wingtips pale grey and white without any black, with a white trailing edge; underwing blackish grey with a broad white trailing edge; body and tail white. Small black bill; dark eye; short dull red legs.",
     "pose": "flying low and buoyantly over the water, seen from slightly below, showing the dark underwing",
     "scene": "Korean river estuary in winter with calm grey water and mudflats; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view standing on a sandbar: small, dainty gull with a white head, dark rear crown and dark ear spot, black bill, pale grey back and folded wings with no black at the wingtips, white underparts and tail, pinkish-red legs",
+      "adult in winter, in flight seen squarely from below: head, body and tail in one line, wings spread straight out to the sides to their full span with a slight bend at the wrist, very dark grey underwing contrasting with the white body and tail, no black at the wingtips, feet tucked under the tail",
+      "first-winter, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span with a slight bend at the wrist, pale grey upperwing crossed by a dark W, white head with a dusky crown and dark ear spot, white body"
+    ],
     "build": "Smallest gull, clearly smaller than the Black-headed Gull and close to a Common Tern in size; compact, with a rounded head and a short, fine bill much shorter than the head. Legs short, red. Wings rather short and broad with rounded tips; tail square. Flight buoyant and tern-like, dipping down to pick food from the water surface. In breeding plumage the whole head is black, without white eye crescents, and the bill dark red.",
     "avoid": [
       "Do not paint black wingtips; the adult has no black in the wing (black tips mark the Black-headed and Saunders's Gulls).",
@@ -47,11 +76,27 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Little gull - Wikipedia (Description, cites Collins Bird Guide 3rd ed. 2023)",
+      "url": "https://en.wikipedia.org/wiki/Little_gull",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Zwergmöwe - Wikipedia (de, cites Olsen & Larsson 2003 Gulls; Glutz von Blotzheim 1999)",
+      "url": "https://de.wikipedia.org/wiki/Zwergmöwe",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Little Gull - RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/little-gull",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": null,

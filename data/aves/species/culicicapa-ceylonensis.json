@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "크고 모난 잿빛 머리",
+      "en": "large, squarish grey head"
+    },
+    {
+      "ko": "잿빛 멱과 윗가슴",
+      "en": "grey throat and upper breast"
+    },
+    {
+      "ko": "황록색 윗면",
+      "en": "bright yellowish-green upperparts"
+    },
+    {
+      "ko": "잿빛 가슴과 뚜렷이 갈리는 노란 배",
+      "en": "bright yellow belly sharply divided from the grey breast"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Grey-headed Canary-flycatcher (Culicicapa ceylonensis), adult (sexes alike), a vagrant in Korean woodland in spring: head, neck, throat and upper breast ash-grey, the head rounded with no distinct crest; mantle, back and rump olive-green to yellowish-green; wings and tail dusky brown with olive-green edges; lower breast, belly and undertail coverts bright yellow, sharply separated from the grey breast. Bill short, broad and flat, dark above with a paler lower mandible; eye dark; legs pale pinkish-yellow.",
     "pose": "perched upright on a thin twig in the mid-canopy, side view",
     "scene": "shady broadleaf woodland on a southern Korean island in spring (May), dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a thin twig: large, squarish grey head, dark eye, short bill, grey throat and upper breast sharply divided from the bright yellow lower breast and belly, yellowish-green back and rump, dark wings and tail, short pale orange legs",
+      "adult, front three-quarter view perched upright: large grey head, grey throat and upper breast in strong contrast with the bright yellow belly and undertail, yellowish-green upperparts visible at the shoulder, dark tail"
+    ],
     "build": "A tiny, active flycatcher, clearly smaller than a sparrow, about the size of a leaf warbler but with a big rounded grey head and upright stance; sallies out after insects from a perch. No distinct crest; the crown feathers lie smooth, the head at most slightly peaked. Bill short, very broad and flat at the base, with rictal bristles, much shorter than the head. Legs short, thin and pale. Wings short; tail medium length, square, without white.",
     "avoid": [
       "Do not paint wing bars or white in the tail; the bird is plain grey, olive and yellow.",
@@ -54,10 +74,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Grey-headed Canary-flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0270/034400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Grey-headed canary-flycatcher (Clement, HBW Alive 인용)",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_canary-flycatcher",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

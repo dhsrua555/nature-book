@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흐릿한 눈썹선의 밋밋한 얼굴",
+      "en": "rather plain face with a weak pale supercilium"
+    },
+    {
+      "ko": "검은 세로무늬가 있는 황갈색 윗면",
+      "en": "warm buff-brown upperparts streaked dark"
+    },
+    {
+      "ko": "굵은 검은 세로무늬의 황갈색 가슴",
+      "en": "buff breast with bold black streaks"
+    },
+    {
+      "ko": "가는 세로무늬만 있는 옆구리",
+      "en": "flanks with only fine, thin streaks"
+    },
+    {
+      "ko": "황갈색 가슴과 대비되는 흰 배",
+      "en": "white belly contrasting with the buff breast"
+    },
+    {
+      "ko": "짧은 뒷발톱",
+      "en": "short hind claw"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Tree Pipit (Anthus trivialis), adult, as seen in Korea on autumn migration: upperparts warm buff-brown with clear dark streaks on the crown and mantle, rump unstreaked; face rather plain, with a weak buffy-white supercilium and no dark spot at the rear of the ear-coverts; two pale wing-bars; dark malar stripe; throat whitish; breast buff with bold black streaks; flanks buff with only fine thin streaks; belly white; outer tail feathers white. Bill fine, dark above with a pinkish base below; dark eye; legs pink.",
     "pose": "walking on short grass under trees with the tail gently pumping, side view",
     "scene": "short grass and fallen leaves beneath trees on a Korean offshore island during autumn migration; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view walking on short grass: rather plain face with a weak pale supercilium, warm buff-brown upperparts streaked dark on the crown and mantle, buff breast with bold black streaks, flanks with only fine thin streaks, white belly, pink legs with a short hind claw",
+      "adult, side view perched on a low branch: fine bill, dark above with a pinkish base below, plain face with a weak pale supercilium, dark malar stripe, buff breast boldly streaked black contrasting with the white belly, finely streaked flanks, streaked buff-brown back, pink legs"
+    ],
     "build": "Slim pipit, a little larger than a sparrow. Bill fine and straight, shorter than the head, slightly stouter than Olive-backed Pipit's. Legs pink, medium length, with a short, arched hind claw. Tail medium-long with white outer feathers, gently pumped while walking. Walks on short grass under trees and flies up into branches when flushed.",
     "avoid": [
       "Do not paint greenish upperparts, a bold black-and-white supercilium or a white-and-black spot on the rear ear-coverts; those mark Olive-backed Pipit (Anthus hodgsoni).",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "RSPB — Tree pipit",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/tree-pipit",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Tree pipit",
+      "url": "https://en.wikipedia.org/wiki/Tree_pipit",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Singapore Birds Project — Pipit101: Identifying Singapore's first Tree Pipit",
+      "url": "https://singaporebirds.com/2021/10/25/pipit101-identifying-singapores-first-tree-pipit-anthus-trivialis/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bird ID Photo Guides — Basic Principles (PressReader, 2022)",
+      "url": "https://www.pressreader.com/uk/bird-id-photo-guides/20221111/282033331171987",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

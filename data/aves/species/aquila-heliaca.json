@@ -17,7 +17,24 @@
     "breed": []
   },
   "summary": "드물게 찾아오는 길잃은새로, 전국의 하구, 간척지, 저수지 등에 국지적으로 나타난다. 분포의 대부분은 유럽과 러시아 일대이며, 여러 개발 탓에 종의 존속이 위협받고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "엷은 금빛 담황색 정수리·뒷목",
+      "en": "pale golden-buff crown, hindneck and neck sides"
+    },
+    {
+      "ko": "어깨깃의 작은 흰 무늬",
+      "en": "small white patches on the scapulars"
+    },
+    {
+      "ko": "흑갈색 몸과 날개덮깃",
+      "en": "blackish-brown body and wing coverts"
+    },
+    {
+      "ko": "끝에 넓은 검은 띠가 있는 회색 꼬리",
+      "en": "grey tail with narrow dark bars and a broad black subterminal band"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +45,10 @@
     "subject": "Eastern Imperial Eagle (Aquila heliaca), adult in winter: body and wing coverts very dark blackish-brown; crown, nape and hindneck pale golden-buff to straw-coloured, contrasting with the dark face and body; a few white feathers on the scapulars forming small white 'braces' on each side of the back; undertail coverts pale buff; flight feathers blackish; tail grey with fine dark barring and a broad black terminal band; thighs feathered dark; bill dark grey with a blackish tip and a yellow cere; dark brown eye; feet yellow.",
     "pose": "perched, side view",
     "scene": "Korean winter estuary with reclaimed land and a reservoir nearby; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright: very large eagle with a big head and heavy hooked bill, pale golden-buff crown, nape and hindneck contrasting with the dark face and body, blackish-brown body and wing coverts, small white patches on the scapulars, square grey tail with narrow dark bars and a broad black subterminal band, long well-feathered legs",
+      "adult, in flight seen squarely from below: large head projecting well forward, long broad parallel-edged wings with fingered tips spread straight out to the sides to their full span and held flat, essentially all-dark body and underwing, grey tail with narrow dark bars and a broad black subterminal band, feet tucked under the tail"
+    ],
     "build": "Very large, heavy eagle, a little smaller than a Golden Eagle and much smaller than a Steller's Sea Eagle, with a large head, a heavy hooked bill shorter than the head and long feathered legs. Perches upright on a tree or a mound in open country. At rest the wingtips reach about the tail tip. Tail fairly long and square-ended. In flight long, broad, parallel-edged wings held flat, with fingered tips; the head projects well forward.",
     "avoid": [
       "Do not omit the small white scapular braces, and do not enlarge them into big wing patches.",
@@ -59,9 +79,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Eastern Imperial Eagle",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025000",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Eastern imperial eagle (Ferguson-Lees, Forsman, Clark 인용)",
+      "url": "https://en.wikipedia.org/wiki/Eastern_imperial_eagle",
+      "used": "동정 포인트·도해 모습"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "V1",
     "bs": "0",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "담황백색 눈썹선",
+      "en": "buffish-white supercilium"
+    },
+    {
+      "ko": "담황색 귀깃",
+      "en": "warm buff ear-coverts"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "blackish bill and legs"
+    },
+    {
+      "ko": "올리브 기 없는 회갈색 윗면",
+      "en": "grey-brown upperparts without olive on the crown and mantle"
+    },
+    {
+      "ko": "날개깃의 녹색 가장자리",
+      "en": "greenish edges to the wing feathers"
+    },
+    {
+      "ko": "담황색 가슴 옆과 옆구리",
+      "en": "buff breast sides and flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Common Chiffchaff (Phylloscopus collybita), adult of the Siberian race tristis, as seen in Korea in late autumn: upperparts cold grey-brown with a faint olive-green tinge only on the rump and the edges of the wing and tail feathers; buffish-white supercilium and a dark eye-stripe; a thin pale crescent below the eye; ear-coverts and breast sides warm buff; underparts off-white with buff flanks; no wing-bars; a small yellow patch only at the bend of the wing and on the underwing. Bill fine and blackish; dark eye; legs black.",
     "pose": "flitting through low bare twigs with the tail dipped downward, side view",
     "scene": "low scrub and reed edges on a Korean offshore island in late autumn, bare twigs and dry grass; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult of the Siberian race tristis, late autumn, side view perched on a bare twig with the tail dipped: buffish-white supercilium, dark eye-stripe, warm buff ear-coverts, fine blackish bill, grey-brown upperparts with greenish edges to the wing and tail feathers, whitish underparts with buff breast sides and flanks, blackish legs",
+      "adult tristis, three-quarter front view on a twig: buffish-white supercilium, warm buff ear-coverts and breast sides, whitish throat and belly with no yellow, fine blackish bill, thin blackish legs"
+    ],
     "build": "Tiny leaf warbler, clearly smaller than a sparrow, slim and round-headed. Bill short, fine and straight, much shorter than the head. Legs thin, black. Wings short: at rest the primary tips extend only a short way beyond the tertials and end well before the tail tip. Tail medium length, square-ended, habitually dipped downward while feeding. Restless, flicking its wings as it picks insects from twigs and reed edges.",
     "avoid": [
       "Do not paint bright olive-green upperparts and yellow underparts like western chiffchaffs or Willow Warbler; tristis looks grey-brown and buff.",
@@ -53,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Siberian chiffchaff – Wikipedia (Clement 1995 인용)",
+      "url": "https://en.wikipedia.org/wiki/Siberian_chiffchaff",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Common Chiffchaff – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "'Siberian Chiffchaff' in Britain – BirdGuides / British Birds",
+      "url": "https://birdguides.com/articles/british-birds-siberian-chiffchaff-in-britain",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "tristis and abietinus Chiffchaffs – Birds of Saudi Arabia",
+      "url": "https://www.birdsofsaudiarabia.com/2015/03/tristis-and-abietinus-chiffchaffs.html",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

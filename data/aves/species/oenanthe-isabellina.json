@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 앞쪽이 넓고 흰 크림색 눈썹선",
+      "en": "creamy-white supercilium, broadest and whitest in front of the eye"
+    },
+    {
+      "ko": "고른 모래빛 윗면",
+      "en": "plain pale sandy upperparts"
+    },
+    {
+      "ko": "옅은 날개에 홀로 검은 작은날개깃",
+      "en": "isolated black alula on pale sandy wings"
+    },
+    {
+      "ko": "담황색 가슴과 크림빛 흰 배",
+      "en": "buff breast and creamy-white belly"
+    },
+    {
+      "ko": "흰 허리와 넓은 검은 꼬리끝띠",
+      "en": "white rump and tail base with a broad black terminal band"
+    },
+    {
+      "ko": "긴 검은 다리",
+      "en": "long black legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Isabelline Wheatear (Oenanthe isabellina), adult (sexes nearly alike) as a spring migrant on a Korean offshore island: whole upperparts plain pale sandy grey-brown, crown and back the same tone; a short, broad creamy-white supercilium, brightest in front of the eye; lores blackish in the male, brownish in the female; wings pale sandy-brown with buff-fringed coverts and tertials, the small black alula standing out as a dark spot at the bend of the wing; throat whitish, breast warm buff, belly and undertail coverts creamy white; rump and uppertail coverts white; tail white at the base with a broad black terminal band and only a short black centre. Bill black, fairly long and strong for a wheatear; eye dark; legs long and black.",
     "pose": "standing very upright on a low rock with the tail slightly lowered, side view",
     "scene": "short-grazed turf and bare sandy ground near the shore of a Korean offshore island during spring migration (April–May), bright clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing very upright on a low rock: large, big-headed wheatear, plain pale sandy upperparts, creamy-white supercilium broadest in front of the eye, fairly long, strong bill, pale sandy wings with a small isolated black alula at the bend of the wing, buff breast, creamy-white belly, white rump, long black legs",
+      "adult, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, pale sandy upperwing with dark-tipped primaries, sandy back, white rump, white tail with a broad black terminal band and black central feathers forming an inverted T"
+    ],
     "build": "A large, pale wheatear, clearly bigger than a sparrow and slightly larger, bigger-headed and longer-legged than Northern Wheatear; stands very upright, often bobs and runs fast over bare ground. Bill black, straight and strong, shorter than the head. Legs long and black with much of the tarsus visible. At rest the wingtips fall well short of the tail tip, so the tail looks rather short. In flight the wings look pale with whitish underwing coverts, the white rump contrasts with the broad black tail band. Tail square-ended.",
     "avoid": [
       "Do not paint a black throat or black face — that is male Desert Wheatear; Isabelline has only dark lores on a pale face.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Isabelline wheatear (Witherby, Handbook of British Birds 인용)",
+      "url": "https://en.wikipedia.org/wiki/Isabelline_wheatear",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe – Oenanthe isabellina",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130861",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "eNature Qatar – Isabelline Wheatear",
+      "url": "https://www.enature.qa/specie/wheatear-isabelline/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

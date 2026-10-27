@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 머리꼭대기와 뒷머리 위쪽",
+      "en": "white crown and upper nape"
+    },
+    {
+      "ko": "광택 있는 검은 얼굴·멱·가슴",
+      "en": "glossy black face, throat and breast"
+    },
+    {
+      "ko": "흰 무늬 없는 검은 등과 날개",
+      "en": "glossy black back and wings without a white patch"
+    },
+    {
+      "ko": "주황빛 밤색 배와 허리",
+      "en": "orange-chestnut belly, vent and rump"
+    },
+    {
+      "ko": "끝에 검은 띠가 있는 밤색 꼬리",
+      "en": "orange-chestnut tail with a black terminal band"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "White-capped Redstart (Chaimarrornis leucocephalus), adult (sexes alike, plumage similar year-round): a pure white crown cap from the forehead to the nape; face, throat, upper breast, back, scapulars and wings glossy black; lower breast, belly, vent, rump and uppertail coverts deep chestnut-red; tail chestnut-red with a broad black terminal band; black bill; dark eye; black legs.",
     "pose": "standing on a wet boulder in a stream, side view, tail fanned",
     "scene": "rocky mountain stream with boulders and splashing water in Korea in early spring, cold clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing on a wet boulder with the tail slightly fanned: white crown and upper nape, glossy black face, throat, breast, back and wings with no white wing patch, orange-chestnut lower breast, belly and vent, orange-chestnut tail with a black terminal band, short blackish bill, blackish legs",
+      "adult, perched, rear three-quarter view with head and body facing the same way: white crown, glossy black back and all-black wings, orange-chestnut rump, fanned orange-chestnut tail with a black terminal band"
+    ],
     "build": "A robust, upright chat, larger and bulkier than a Daurian Redstart, with a rounded head and short neck. Bill short, straight and black, much shorter than the head. Legs fairly long, black. Tail medium and square, constantly fanned and wagged up and down. Perches on boulders in fast-flowing streams.",
     "avoid": [
       "Do not paint a grey or black crown; the cap is pure white.",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "White-capped Water Redstart – Oiseaux-Birds species card",
+      "url": "https://www.oiseaux-birds.com/card-white-capped-water-redstart.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "White-capped Water Redstart – BirdForum Opus (검색 요약으로 확인)",
+      "url": "https://birdforum.net/opus/White-capped_Water-Redstart",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "White-capped redstart – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White-capped_redstart",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,32 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "둥근 머리와 가파른 이마",
+      "en": "rounded head with a steep forehead"
+    },
+    {
+      "ko": "노란 홍채의 적갈색 머리(수컷)",
+      "en": "chestnut-red head with a yellow iris (male)"
+    },
+    {
+      "ko": "흰 띠와 검은 끝의 청회색 부리",
+      "en": "pale blue-grey bill with a whitish band near the black tip"
+    },
+    {
+      "ko": "검은 가슴(수컷)",
+      "en": "black breast (male)"
+    },
+    {
+      "ko": "회색 등과 옆구리(수컷)",
+      "en": "grey back and flanks (male)"
+    },
+    {
+      "ko": "갈색 홍채의 회갈색 몸(암컷)",
+      "en": "plain grey-brown body with a brown iris (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Redhead (Aythya americana), adult male in winter: rounded head and upper neck bright chestnut-red; lower neck and breast black; back and flanks medium grey, finely vermiculated; rear end and undertail black; belly white. Bill pale bluish grey with a narrow whitish band near the tip and a black tip; bright yellow eye; grey legs.",
     "pose": "swimming on open water, side view, head held up",
     "scene": "Korean winter reservoir with calm open water and dry reed edges; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in winter, side view swimming on open water, head held up: rounded chestnut-red head with a steep forehead, yellow iris, pale blue-grey bill with a whitish band near the black tip, black breast, grey back and flanks",
+      "adult female, side view swimming: plain grey-brown body, buffy-brown rounded head with a steep forehead, brown iris, blue-grey bill with a pale band near the dark tip"
+    ],
     "build": "Medium-sized, compact diving duck, a little larger than the Common Pochard, sitting low on the water. Head rounded with a steep forehead, not a long sloping wedge. Bill medium length, a little shorter than the head, broad and fairly straight along the top. Legs short, set far back. Tail short, held flat on the water. In flight a grey upperwing with a paler grey stripe along the flight feathers. Female plain warm brown with a paler face, a pale eye-ring, dark eye and a grey bill with a pale band and dark tip.",
     "avoid": [
       "Do not paint a sloping forehead, a long black bill with a grey band or a red eye; those mark the Common Pochard (Aythya ferina).",
@@ -51,11 +79,32 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Redhead (bird) - Wikipedia (Description, cites Madge & Burn 1988)",
+      "url": "https://en.wikipedia.org/wiki/Redhead_(bird)",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Redhead - Audubon Field Guide",
+      "url": "https://www.audubon.org/field-guide/bird/redhead",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Redhead - Ducks Unlimited Waterfowl ID",
+      "url": "https://www.ducks.org/hunting/waterfowl-id/redhead",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Rotkopfente - Wikipedia (de)",
+      "url": "https://de.wikipedia.org/wiki/Rotkopfente",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
     "원문 생김새(수컷의 흰 정수리, 눈에서 머리 뒤까지의 넓은 녹색 줄, 반점 있는 회색 얼굴, 녹색 익경)는 이 종이 아니라 아메리카홍머리오리(Mareca americana)의 것으로 보여 모든 값을 TODO로 둠",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": null,

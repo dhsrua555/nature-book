@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 1116장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-10-27 · 2장
+## 2026-10-27 · `ad0809f` · 2장
 - 도판: [세가락딱다구리](img/aves/picoides-tridactylus.webp)
 - 동정 도해: [세가락딱다구리](img/aves/picoides-tridactylus.id.webp)
 

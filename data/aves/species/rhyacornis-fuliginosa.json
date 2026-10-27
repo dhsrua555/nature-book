@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "온몸이 짙은 청회색(수컷)",
+      "en": "slaty-blue head and body (male)"
+    },
+    {
+      "ko": "밤색 꼬리와 위·아래꼬리덮깃(수컷)",
+      "en": "chestnut tail, rump and undertail coverts (male)"
+    },
+    {
+      "ko": "흰 점 무늬 날개띠 두 줄(암컷)",
+      "en": "two white-spotted wing bars (female)"
+    },
+    {
+      "ko": "회색 비늘무늬 아랫면(암컷)",
+      "en": "underparts scaled grey and white (female)"
+    },
+    {
+      "ko": "흰 허리와 꼬리 기부(암컷)",
+      "en": "white rump and white bases to the outer tail feathers (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Plumbeous Water Redstart (Rhyacornis fuliginosa), adult male: entire head and body dark slate-blue (plumbeous), slightly paler on the belly; wings dark brownish-grey; rump, uppertail coverts, undertail coverts and the whole tail deep chestnut-rufous. Bill short and black; dark eye; legs dark brown to blackish. The female, if shown, is blue-grey above, white below with dense grey scaling, with white spots on the wing-coverts and a white base to the tail.",
     "pose": "standing on a wet boulder in a stream, rufous tail fanned and flicked, side view",
     "scene": "fast, clear mountain stream with mossy boulders in a Korean valley in spring; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view standing on a wet boulder with the tail fanned: slaty-blue head, body and underparts, darker blackish wings, chestnut rump, uppertail coverts, undertail coverts and whole tail, short black bill, dark legs",
+      "adult female, side view standing on a boulder with the tail fanned: slaty-grey head and upperparts, browner wings with two rows of small white spots, underparts scaled grey and white, white rump and undertail coverts, brown tail with white bases to the outer feathers"
+    ],
     "build": "Small, compact chat, a little smaller than a sparrow, round-bodied with a short neck. Bill short, thin and straight. Legs fairly long, slender, dark. Short wings; tail short to medium, square-ended, constantly fanned open and wagged up and down or flicked sideways. Perches on wet boulders in rushing water, making short sallies after insects.",
     "avoid": [
       "Do not paint a white cap or a black-and-chestnut body; that is White-capped Water Redstart (Phoenicurus leucocephalus).",
@@ -51,10 +75,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Plumbeous Water Redstart – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/051200",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Plumbeous Water Redstart – Oiseaux-Birds species card",
+      "url": "https://www.oiseaux-birds.com/card-plumbeous-water-redstart.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Plumbeous water redstart – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Plumbeous_water_redstart",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

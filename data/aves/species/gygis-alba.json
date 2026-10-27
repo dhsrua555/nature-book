@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "온통 순백색 깃",
+      "en": "entirely pure white plumage"
+    },
+    {
+      "ko": "검은 눈테로 커 보이는 검은 눈",
+      "en": "large dark eye set in a ring of black feathers"
+    },
+    {
+      "ko": "기부가 푸른 뾰족한 검은 부리",
+      "en": "sharply pointed black bill with a blue base"
+    },
+    {
+      "ko": "빛이 비쳐 보이는 날개와 꼬리",
+      "en": "wings and tail translucent when seen from below"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "White Tern (Gygis alba), adult: plumage entirely pure white, with no grey or black on the cap, back or wingtips; a narrow ring of black feathers around the large dark eye, making the eye look even bigger; wings and tail look translucent against the light. Bill black, deep-based and sharply pointed with a slightly upturned look, blue at the base; legs very short and dark.",
     "pose": "hovering in light flight above the sea, seen from below and the side with wings spread, head, body and tail in one line",
     "scene": "Sea off a southern Korean island in late summer after a typhoon, bright light and blue water; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from below while hovering: wings spread straight out to the sides to their full span with a slight angle at the wrist, all-white body, wings and tail looking translucent against the light, slightly forked white tail, large dark eye ringed black, black bill with a blue base, short dark feet tucked against the belly",
+      "adult, side view perched on a bare branch: entirely pure white plumage with no grey or black, large round head, big dark eye enlarged by a ring of black feathers, thick-based, sharply pointed black bill with a blue base and a slightly upturned look, short dark legs"
+    ],
     "build": "Small, delicate tern with a large rounded head, a big dark eye and a fairly long, clearly forked tail with pointed outer feathers; body smaller than a Feral Pigeon's. Bill about as long as the head, black, deep at the base and sharply pointed. Legs very short. Wings fairly broad with rounded tips for a tern. Flight light and fluttering, often hovering and peering down; perches on bare branches.",
     "avoid": [
       "Do not add a black cap, a grey back or dark wingtips; the bird is all white.",
@@ -53,10 +73,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "New Zealand Birds Online – White tern (Szabo 2013, updated 2017)",
+      "url": "https://www.nzbirdsonline.org.nz/species/white-tern",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Hawaiʻi DLNR Division of Forestry and Wildlife – Manu-o-Kū (White Tern)",
+      "url": "https://dlnr.hawaii.gov/wildlife/birds/manu-o-ku/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "All About Birds (Cornell Lab) – Blue-billed White-Tern Identification",
+      "url": "https://www.allaboutbirds.org/guide/Blue-billed_White-Tern/id",
+      "used": "눈테·반투명 날개·분류(검색 결과 요약으로 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "앞쪽이 흐린 옅은 정수리 중앙선",
+      "en": "faint pale median crown stripe, weak toward the bill"
+    },
+    {
+      "ko": "노란 기 없는 옅은 눈썹선",
+      "en": "well-defined pale supercilium without yellow"
+    },
+    {
+      "ko": "옅은 노란빛 허리",
+      "en": "pale yellowish-white rump"
+    },
+    {
+      "ko": "흰 가장자리의 셋째날개깃",
+      "en": "whitish-edged tertials"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Chinese Leaf Warbler (Phylloscopus yunnanensis), adult (sexes alike) in spring: a pale greyish-yellow median crown stripe, diffuse and fading towards the forehead, between greyish-olive lateral crown stripes; a long supercilium, yellowish in front of the eye and whitish behind it; a dark olive eye-stripe; rather plain ear-coverts; upperparts olive-green with a pale yellow band across the rump; wings dark with two yellowish-white wing-bars, the lower one more distinct, and pale-edged tertials; underparts whitish with a faint yellowish tinge; fine dark bill with a pale base to the lower mandible; dark eye; pinkish-brown legs.",
     "pose": "flitting among pine twigs, side view, wings slightly drooped to show the pale rump band",
     "scene": "pine and deciduous woodland on a Korean offshore island during spring migration in April or May, soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view among pine twigs, wings slightly drooped: faint pale median crown stripe between dusky-olive lateral crown stripes, pale supercilium without yellow, dark eye-stripe, olive-green upperparts, pale yellowish-white rump, distinct greater-covert bar and fainter median-covert bar, whitish-edged tertials, whitish underparts, dark legs",
+      "adult, head detail in side view: faint pale median crown stripe fading toward the forehead and not reaching the bill, dusky-olive lateral crown stripes, well-defined pale supercilium without yellow, dark eye-stripe, fine short bill, dark with a paler base below"
+    ],
     "build": "A tiny, compact leaf warbler, smaller than a sparrow and about the size of a Yellow-browed Warbler, only slightly larger than a Pallas's Leaf Warbler; large-headed and short-tailed. Bill fine and short, much shorter than the head. Legs slender. Tail short and square, often flicked. Very active in the outer foliage, sometimes hovering briefly at leaf tips, which shows the pale rump band.",
     "avoid": [
       "Do not paint a sharp lemon-yellow crown stripe and bright lemon rump between blackish crown stripes; that is Pallas's Leaf Warbler (Phylloscopus proregulus).",
@@ -53,10 +73,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Chinese Leaf Warbler",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/038000",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Chinese leaf warbler (Alström et al. 1992; Baker 1997 인용)",
+      "url": "https://en.wikipedia.org/wiki/Chinese_leaf_warbler",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

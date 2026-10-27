@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 이마와 검은 머리꼭대기·눈앞(여름깃)",
+      "en": "white forehead below a black crown, nape and lores (breeding)"
+    },
+    {
+      "ko": "검은 부리와 다리",
+      "en": "black bill and legs"
+    },
+    {
+      "ko": "흰 뺨과 대비되는 회색 아랫면(여름깃)",
+      "en": "grey underparts contrasting with white cheeks (breeding)"
+    },
+    {
+      "ko": "흰 허리와 갈라진 흰 꼬리",
+      "en": "white rump and forked white tail"
+    },
+    {
+      "ko": "날개아랫면 둘째날개깃 끝의 검은 띠",
+      "en": "dark bar on the tips of the secondaries on the underwing"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,11 @@
     "subject": "Aleutian Tern (Onychoprion aleuticus), adult in breeding plumage, as seen at sea off Korea on spring passage in May: black crown and nape with a sharply defined white forehead reaching back to just above the eye; a black line from the bill to the eye; white cheeks and throat; upperparts and wings medium grey; breast and belly grey, contrasting with the white cheeks; rump and deeply forked tail white, contrasting with the grey back. Bill black; dark eye; short black legs.",
     "pose": "flying low and buoyantly over the sea, head angled down looking for small fish",
     "scene": "open sea off the Korean south coast in May, calm blue-grey water under a bright sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view perched on a floating log: white forehead below a black crown and nape, black lores, white cheeks and throat, slim black bill, mid-grey back and wings, grey breast and belly contrasting with the white cheeks, white forked tail, short black legs",
+      "adult breeding, in flight seen squarely from below: long narrow pointed wings spread straight out to the sides to their full span, angled at the wrist, whitish underwing with a dark bar on the tips of the secondaries and dark-tipped primaries, white cheeks, grey breast and belly, white forked tail, feet tucked against the belly",
+      "adult breeding, in flight seen squarely from above: long narrow pointed wings spread straight out to the sides to their full span, angled at the wrist, mid-grey upperwing and back, white rump and white forked tail, black crown with a white forehead"
+    ],
     "build": "Medium-sized, slender tern, about the size of a Common Tern, with long, narrow, pointed wings and a deeply forked tail with long outer streamers. Bill black, slim, straight and pointed, about as long as the head. Legs very short, black. In flight the underwing shows a dark bar along the trailing edge of the secondaries and dark tips to the outer primaries; flight buoyant and low over the sea.",
     "avoid": [
       "Do not paint the black cap reaching the bill; the forehead is white.",
@@ -53,10 +78,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Aleutian Tern",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018200",
+      "used": "동정 포인트 (넓은 흰 이마, 회색 아랫면, 흰 허리·꼬리, 모든 깃에서 진단적인 둘째날개깃 끝 검은 띠)"
+    },
+    {
+      "title": "Oiseaux-birds: Aleutian Tern",
+      "url": "https://www.oiseaux-birds.com/card-aleutian-tern.html",
+      "used": "동정 포인트·도해 모습 (검은 머리꼭대기·눈앞, 흰 뺨, 짙은 회색 아랫면, 흰 허리·갈라진 꼬리, 검은 부리·다리, 날개아랫면)"
+    },
+    {
+      "title": "Wikipedia: Aleutian tern (cites North 2020, Birds of the World; Olsen & Larsson)",
+      "url": "https://en.wikipedia.org/wiki/Aleutian_tern",
+      "used": "교차 확인 (흰 이마·검은 머리, 회색 아랫면, 흰 허리·꼬리, 둘째날개깃 검은 띠, 검은 부리·다리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5",

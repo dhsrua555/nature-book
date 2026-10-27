@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "회색 머리·멱·윗가슴(수컷)",
+      "en": "grey head, throat and upper breast (male)"
+    },
+    {
+      "ko": "회갈색 윗면",
+      "en": "grey-brown upperparts"
+    },
+    {
+      "ko": "무늬 없는 주황빛 아랫면(수컷)",
+      "en": "unmarked orange-buff lower breast and belly (male)"
+    },
+    {
+      "ko": "온몸에 가로줄 있는 적갈색형(암컷)",
+      "en": "rufous-brown upperparts barred black, whitish underparts with narrow dark bars (hepatic female)"
+    },
+    {
+      "ko": "끝이 흰 긴 층진 꼬리",
+      "en": "long graduated tail tipped white"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Plaintive Cuckoo (Cacomantis merulinus), adult male: head, nape and upper breast grey, palest on the throat and breast; mantle, back and wing coverts dark grey to grey-brown; flight feathers darker brown; lower breast, belly and undertail coverts plain rufous-orange without bars, paler buff towards the vent; tail dark grey-brown, graduated, with white tips and white notches on the outer feathers. Bill black, slender and slightly decurved; iris reddish-brown; legs yellow.",
     "pose": "perched on a bare twig in the open, side view",
     "scene": "Shrubby woodland edge on a Korean offshore island in May, during spring migration, bright morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on a bare twig: grey head, throat and upper breast, red iris, short slender slightly decurved black bill with a yellowish base, grey-brown upperparts and wings, unmarked orange-buff lower breast and belly, long graduated grey-brown tail tipped white, short yellow legs",
+      "adult hepatic female, side view perched on a twig: rufous-brown upperparts barred black, whitish underparts with narrow dark bars, long graduated tail, slender bill, yellow legs"
+    ],
     "build": "Small, slim cuckoo, a little smaller than a Brown-eared Bulbul, with a longish graduated tail and pointed wings. Bill short, slender and slightly decurved. Legs short, yellow, with two toes forward and two back. Perches upright, often in the open on bare twigs. Females may resemble the male or be hepatic: rufous-brown above and whitish below, closely barred dark all over.",
     "avoid": [
       "Do not bar the belly; the male's lower underparts are plain rufous-orange, unlike the barred white belly of Lesser Cuckoo (Cuculus poliocephalus).",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong: Plaintive Cuckoo 八聲杜鵑",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005300",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project: Plaintive Cuckoo",
+      "url": "https://singaporebirds.com/species/plaintive-cuckoo",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Wikipedia: Plaintive cuckoo (Robson 2002, MacKinnon & Phillipps 2000 인용)",
+      "url": "https://en.wikipedia.org/wiki/Plaintive_cuckoo",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

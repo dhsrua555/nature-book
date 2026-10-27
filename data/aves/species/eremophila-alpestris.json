@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노란 이마·눈썹선·멱",
+      "en": "yellow forehead, supercilium, chin and throat"
+    },
+    {
+      "ko": "정수리 옆의 작은 검은 뿔깃(수컷)",
+      "en": "small black horn-like tufts at the crown sides (male)"
+    },
+    {
+      "ko": "눈앞에서 뺨으로 내려오는 검은 가면",
+      "en": "black mask from the lores down onto the cheeks"
+    },
+    {
+      "ko": "윗가슴의 검은 띠",
+      "en": "black band across the upper breast"
+    },
+    {
+      "ko": "줄무늬 있는 회갈색 윗면",
+      "en": "grey-brown upperparts with dark streaks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Horned Lark (Eremophila alpestris), adult male in winter of the yellow-faced northern form (flava) seen in Korea from November to March: forehead, broad supercilium and throat pale yellow; a black band across the forecrown ending in two short black feather tufts ('horns') at the rear sides of the crown, partly veiled by pale feather tips in winter; a broad black mask from the bill base through the lores, curving down below the eye onto the cheek; a broad black crescent across the upper breast, separated from the mask by yellow; crown and nape grey-brown with a faint pinkish-cinnamon tinge; mantle and wing coverts sandy grey-brown with diffuse dark streaks; rest of the underparts white, with a grey-brown wash and faint streaks on the breast sides and flanks; dark tail with pale brown central feathers and white outer edges; short grey-black bill; dark eye; blackish legs.",
     "pose": "walking on bare sandy ground, side view, picking at seeds",
     "scene": "bare sandy coastal dune and fallow field edge in Korea in winter, dry grass and low winter sun; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in winter, side view walking on bare ground: rounded head, yellow forehead, supercilium, chin and throat, black forecrown band with two small black horn tufts at the sides, black mask from the lores down onto the cheek, black upper-breast band, streaked grey-brown back, whitish underparts, short fine dark bill",
+      "adult female in winter, side view walking on bare ground: same slim shape but duller, paler face, less black on the head, narrower black breast band, horn tufts barely visible, streaked grey-brown upperparts, whitish underparts"
+    ],
     "build": "A small, slim ground lark, a little longer than a sparrow and slightly smaller than a Eurasian Skylark, with a rather horizontal stance; it walks rather than hops on bare ground. Rounded head with no crest; the 'horns' are only two small black tufts at the rear of the crown, often flattened. Bill short, fine and pointed, shorter than the head. Legs short, blackish. Tail medium, slightly notched. In flight the blackish tail with pale centre contrasts with the pale sandy body and plain sandy upperwing.",
     "avoid": [
       "Do not give it a raised crest or a heavily streaked breast; that is Eurasian Skylark (Alauda arvensis).",
@@ -54,10 +78,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux-birds: Horned Lark",
+      "url": "https://www.oiseaux-birds.com/card-horned-lark.html",
+      "used": "동정 포인트·도해 모습 (노란 이마·눈썹선·멱, 검은 뿔깃, 가면, 가슴띠, 줄무늬 윗면, 암컷 차이, 아종 flava/brandti)"
+    },
+    {
+      "title": "USGS Patuxent Bird ID: Horned Lark",
+      "url": "https://www.mbr-pwrc.usgs.gov/id/framlst/account/h4740id.html",
+      "used": "교차 확인 (노란 얼굴과 검은 가면, 작은 뿔깃)"
+    },
+    {
+      "title": "Cornell Lab, Land Trust Bird Guide: Horned Lark",
+      "url": "https://www.birds.cornell.edu/landtrust/horned-lark-hola",
+      "used": "교차 확인 (검은 가면·가슴띠, 갈색 윗면, 흰 아랫면, 암컷이 더 흐림)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "주황색 머리와 아랫면",
+      "en": "deep orange head and underparts"
+    },
+    {
+      "ko": "옅은 뺨의 흐린 검은 세로줄 두 개",
+      "en": "two diffuse dark vertical bars on paler cheeks"
+    },
+    {
+      "ko": "청회색 등·날개·꼬리(수컷)",
+      "en": "bluish-grey back, wings and tail (male)"
+    },
+    {
+      "ko": "가운데날개덮깃의 흰 띠",
+      "en": "white-tipped median coverts forming a wing-bar"
+    },
+    {
+      "ko": "올리브빛 갈색 윗면(암컷)",
+      "en": "olive-toned brown upperparts (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Orange-headed Thrush (Geokichla citrina), adult male in spring, of the East Asian form with a barred face: crown, nape, breast and belly bright orange, the colour meeting the blue-grey of the mantle cleanly on the lower nape; cheeks and throat paler, whitish-buff, crossed by two dark vertical bars, one running down from below the eye and one at the rear of the ear-coverts; vent and undertail coverts white; back, rump, wing coverts and tail uniform blue-grey, the flight feathers darker grey; a narrow white bar on the median coverts; dark bill; dark eye; pinkish legs.",
     "pose": "standing on leaf litter on the forest floor, side view",
     "scene": "shaded broadleaf forest floor on a Korean offshore island in May, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view standing on leaf litter: deep orange crown, nape, breast, belly and flanks, paler cheeks crossed by two diffuse dark vertical bars below the eye, bluish-grey back, wings and short square tail, broad white tips to the median coverts forming a bar, dark bill, pinkish legs",
+      "adult female, side view standing: orange head and underparts slightly duller than the male, the same two diffuse dark bars on the cheeks, olive-toned brown back, wings and tail, white-tipped median coverts, pinkish legs"
+    ],
     "build": "A medium-sized, plump ground thrush, slightly smaller than a Dusky Thrush, with a large rounded head, a short tail and fairly long legs. Bill straight, slightly shorter than the head. Legs pinkish. Tail short and square. Shy, hopping and feeding on the shaded forest floor.",
     "avoid": [
       "Do not paint a plain orange face; the cheeks and throat are whitish-buff with two dark vertical bars, one below the eye and one behind the ear-coverts.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Orange-headed Thrush",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/046300",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Orange-headed thrush (Clement et al. 2000 Thrushes; Robson 2004 인용)",
+      "url": "https://en.wikipedia.org/wiki/Orange-headed_thrush",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

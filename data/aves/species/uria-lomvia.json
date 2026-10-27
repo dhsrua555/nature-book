@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "바다오리보다 검은 얼굴(겨울깃)",
+      "en": "more black on the face than Common Murre (winter)"
+    },
+    {
+      "ko": "짧고 두툼한 검은 부리",
+      "en": "thicker, shorter black bill than Common Murre"
+    },
+    {
+      "ko": "윗부리 가장자리의 흰 줄",
+      "en": "white stripe along the upper mandible at the gape"
+    },
+    {
+      "ko": "검은 윗면",
+      "en": "blackish upperparts, darker than Common Murre"
+    },
+    {
+      "ko": "흰 멱과 아랫면(겨울깃)",
+      "en": "white lower face, throat and underparts (winter)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Thick-billed Murre (Uria lomvia), adult in winter plumage, as seen off the Korean east coast from December to March: crown, hindneck and upperparts blackish, the dark cap extending down over the face to well below the eye; chin, throat and foreneck white; breast and belly white; narrow white tips to the secondaries form a thin white line on the closed wing. Bill black, stout and fairly short, with a thin whitish line along the base of the upper mandible's cutting edge; dark eye.",
     "pose": "swimming low on the sea, about to dive",
     "scene": "Korean East Sea off the northeast coast in winter, grey choppy water and a dark rocky headland in the distance; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view swimming low on the sea: blackish crown, hindneck and upperparts, more black on the face than a Common Murre, white lower face, throat and foreneck, white underparts, thick, fairly short black bill with a white stripe along the upper mandible at the gape",
+      "adult in winter, side view standing upright on a rock: heavy body, blackish upperparts and head, white lower face, throat, breast and belly, thick black bill with the white gape stripe"
+    ],
     "build": "Large, heavy-bodied auk, clearly smaller than a Mallard, a little larger and stockier than a Common Murre, with a thick neck. Bill straight, black, shorter and deeper than a Common Murre's, with a gently curved ridge. Swims low on the water with the tail barely visible; stands upright on rocks. Wings short and narrow; flight fast and direct with whirring wingbeats.",
     "avoid": [
       "Do not paint white cheeks with a thin dark line behind the eye; that is Common Murre (Uria aalge) in winter.",
@@ -54,10 +78,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Thick-billed murre - Wikipedia (Description, cites Nettleship 1996 HBW; Gaston & Jones 1998)",
+      "url": "https://en.wikipedia.org/wiki/Thick-billed_murre",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Thick-billed Murre - Audubon Field Guide",
+      "url": "https://www.audubon.org/field-guide/bird/thick-billed-murre",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Dickschnabellumme - Wikipedia (de, cites Bauer, Bezzel & Fiedler 2005)",
+      "url": "https://de.wikipedia.org/wiki/Dickschnabellumme",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "W5",

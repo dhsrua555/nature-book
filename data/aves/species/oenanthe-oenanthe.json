@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 눈썹선과 검은 눈선(수컷)",
+      "en": "white forehead and supercilium above a black mask (male)"
+    },
+    {
+      "ko": "청회색 정수리·등(수컷)",
+      "en": "blue-grey crown and back (male)"
+    },
+    {
+      "ko": "검은 날개(수컷)",
+      "en": "black wings (male)"
+    },
+    {
+      "ko": "담황색 멱과 가슴",
+      "en": "buff throat and breast"
+    },
+    {
+      "ko": "흰 허리",
+      "en": "white rump"
+    },
+    {
+      "ko": "검은 역T자 무늬의 흰 꼬리",
+      "en": "white tail with a black inverted T"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Northern Wheatear (Oenanthe oenanthe), adult male in breeding plumage, a spring migrant (May) on a Korean offshore island: crown, nape and back clean blue-grey; a narrow white band on the forehead continuing as a white supercilium; a black mask from the lores through the eye over the ear coverts; wings blackish without pale panels; throat and breast warm peachy-buff, fading to white on the belly and undertail coverts; rump and uppertail coverts white; tail white with black central feathers and a black terminal band forming a black inverted T. Bill black and slender; eye dark; legs black.",
     "pose": "standing upright on a rock with the tail slightly raised, side view",
     "scene": "grassy clifftop with short turf and scattered rocks on a Korean offshore island during spring migration (May), morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view standing upright on a rock, tail slightly raised: blue-grey crown, nape and back, white forehead and supercilium, black mask from the lores through the eye over the ear-coverts, black wings, buff throat and breast, white belly, white rump, white tail with a black centre and tip, slender black bill, long black legs",
+      "adult male breeding, in flight seen squarely from above: pointed black wings spread straight out to the sides to their full span, blue-grey crown and back, white rump, white tail with a black inverted T formed by the central feathers and terminal band, head, body and tail in a straight line",
+      "adult female, side view standing upright on a rock: pale grey-brown upperparts, duller head pattern with a pale supercilium, darker brown wings, buff throat and breast, paler belly, white rump at the tail base, white tail with a black inverted T, black bill and legs"
+    ],
     "build": "Small, compact, upright chat, a little larger than a sparrow, with a round head, short neck and fairly long black legs; stands tall, bobs and flicks its tail. Bill black, thin and straight, shorter than the head. Long wings: at rest the primaries project well beyond the tertials and the wingtips reach far down the short tail. Tail short and square. In flight the white rump and white tail sides with a black inverted T are striking, and the black wings contrast with the grey back.",
     "avoid": [
       "Do not paint a sandy-brown back with pale wings — that is Isabelline Wheatear; the breeding male Northern has a blue-grey back and black wings.",
@@ -52,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "RSPB: Wheatear (Oenanthe oenanthe)",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/wheatear",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdSpot: Wheatear Identification Guide",
+      "url": "https://www.birdspot.co.uk/bird-identification/wheatear",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia: Northern wheatear",
+      "url": "https://en.wikipedia.org/wiki/Northern_wheatear",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds: Northern Wheatear",
+      "url": "https://www.audubon.org/field-guide/bird/northern-wheatear",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

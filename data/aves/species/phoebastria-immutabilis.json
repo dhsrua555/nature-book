@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 둘레의 검은 얼룩",
+      "en": "dark smudge around the eye"
+    },
+    {
+      "ko": "끝이 검은 분홍빛 부리",
+      "en": "pink bill with a dark tip"
+    },
+    {
+      "ko": "흰 머리와 아랫면",
+      "en": "white head and underparts"
+    },
+    {
+      "ko": "흑갈색 등과 윗날개",
+      "en": "blackish-brown back and upperwings"
+    },
+    {
+      "ko": "검은 테두리와 얼룩 있는 흰 날개 아랫면",
+      "en": "white underwing with black margins and dark marks on the coverts"
+    },
+    {
+      "ko": "흰 허리와 어두운 꼬리",
+      "en": "white rump and dark tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Laysan Albatross (Phoebastria immutabilis), adult: head, neck, rump and underparts white; a dusky grey smudge in front of and around the eye gives a shadowed look; mantle, back and upperwings uniform blackish-brown; tail dark grey; underwing white with broad dark leading and trailing margins and variable dark blotches and streaks across the coverts. Bill pinkish to pale yellowish-pink with a dark grey tip; feet pinkish-flesh.",
     "pose": "gliding stiff-winged low over the sea, one wingtip close to the water, side view",
     "scene": "open ocean swell far off the Korean coast under a grey sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), swimming on the sea, side view: large white head with a dark smudge around the eye, stout hooked pink bill with a dark tip, white neck and body, blackish-brown back and folded wings, dark tail",
+      "adult, gliding, seen squarely from below: head, body and tail in one line, very long narrow wings held stiff and straight out to the sides to their full span, white underwing with black margins and variable dark marks on the coverts, white head and body, short dark tail",
+      "adult, gliding, seen squarely from above: very long narrow wings spread straight out to the sides to their full span, blackish-brown upperwings and back, white head with a dark eye smudge, pink bill, white rump, dark tail"
+    ],
     "build": "Large albatross with a wingspan far greater than any gull's; heavy body, thick neck and large head. Bill stout, about as long as the head, deep, made of horny plates and hooked at the tip. Legs short with large webbed feet that often project beyond the tail tip in flight. Wings very long and narrow, held stiff and straight in shearing, gliding flight low over the waves with few wingbeats. Tail short and rounded.",
     "avoid": [
       "Do not paint a white back, golden-yellow head wash or huge pink bill with a bluish tip — those are Short-tailed Albatross (Phoebastria albatrus).",
@@ -52,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Laysan albatross – Wikipedia (Dunn & Alderfer 2006 인용)",
+      "url": "https://en.wikipedia.org/wiki/Laysan_albatross",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "ACAP Bycatch Identification Guide",
+      "url": "https://www.ccamlr.org/en/system/files/ACAP_Bycatch_ID_Guide_A5_EN_WEB_August_1.pdf",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Laysan Albatross Identification – All About Birds (Cornell Lab)",
+      "url": "https://www.allaboutbirds.org/guide/Laysan_Albatross/id",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

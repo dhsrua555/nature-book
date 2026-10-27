@@ -17,7 +17,32 @@
     "breed": []
   },
   "summary": "내륙에서 규칙적으로 겨울을 나는 기러기 가운데 가장 작은 드문 겨울철새다. 다른 기러기 무리에 섞여 드물게 눈에 띈다. 서식지와 먹이가 줄어들어 위협을 받고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "정수리까지 올라가는 흰 이마(어른)",
+      "en": "white blaze reaching far up onto the crown (adult)"
+    },
+    {
+      "ko": "부풀어 오른 노란 눈테",
+      "en": "swollen bright yellow eye-ring"
+    },
+    {
+      "ko": "짧고 뭉툭한 분홍 부리",
+      "en": "short, stubby, bright pink bill"
+    },
+    {
+      "ko": "짙은 갈색 머리와 짧고 굵은 목",
+      "en": "uniformly dark brown head and short, thick neck"
+    },
+    {
+      "ko": "배의 검은 반점(어른)",
+      "en": "black patches on the belly (adult)"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "bright orange legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +53,10 @@
     "subject": "Lesser White-fronted Goose (Anser erythropus), adult in winter: head and neck dark grey-brown; a bright white blaze around the bill base that extends up the forehead to a point on the crown; a conspicuous swollen yellow eye-ring; back and wings grey-brown with pale fringes forming neat bars; breast paler grey-brown, with a few small black patches on the belly; dark flanks topped by a white line along the folded wing; vent and undertail coverts white; small, short, bright pink bill with a whitish nail; orange legs and feet.",
     "pose": "standing among a flock of larger geese, side view",
     "scene": "inland Korean wintering ground in winter, a mixed flock of geese; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view standing: small rounded head with a steep forehead, white blaze reaching far up onto the crown, swollen bright yellow eye-ring, short stubby pink bill, uniformly dark brown head and upper neck, short thick neck, grey-brown body with black patches on the belly, bright orange legs",
+      "first-winter, side view standing: same small rounded head and short thick neck, yellow eye-ring, short pink bill, no white blaze at the bill base, plain grey-brown belly without black patches, orange legs"
+    ],
     "build": "Small, compact goose, clearly smaller than Greater White-fronted Goose (Anser albifrons) and bean geese, with a short neck, small rounded head and steep forehead. Bill short and stubby, much shorter than the head. Legs orange. At rest the long wingtips extend clearly beyond the tail tip. Grazes with quick pecking among flocks of larger geese.",
     "avoid": [
       "Do not omit the yellow eye-ring; it is the key difference from Greater White-fronted Goose (Anser albifrons).",
@@ -59,9 +87,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Norwegian Ornithological Society (NOF/BirdLife Norway) 2000 report: Lesser White-fronted Goose identification",
+      "url": "https://www.birdlife.no/prosjekter/rapporter/2000_01_NOF.pdf",
+      "used": "동정 포인트·도해 모습 (짧은 삼각형 분홍 부리, 정수리까지 오는 흰 이마, 부풀어 오른 노란 눈테, 짧고 굵은 목)"
+    },
+    {
+      "title": "WWF Finland / piskulka.net: Field identification of Lesser and Greater White-fronted Goose",
+      "url": "https://www.piskulka.net/docs/FieldIDinstructions.pdf",
+      "used": "동정 포인트 (짙은 갈색 머리·목, 노란 눈테, 짧고 뭉툭한 밝은 분홍 부리, 흰 이마 범위)"
+    },
+    {
+      "title": "Birdwatch (PressReader): white-fronted geese identification",
+      "url": "https://www.pressreader.com/uk/birdwatch/20230223/282643216737142",
+      "used": "동정 포인트 (배 반점, 주황 다리, 어린새는 흰 이마·배 반점 없음)"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "P5,W5",
     "bs": "0",

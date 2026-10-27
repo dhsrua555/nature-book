@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "녹회색 머리와 윗가슴(수컷)",
+      "en": "greenish olive-grey head and upper breast (male)"
+    },
+    {
+      "ko": "뚜렷한 크림빛 눈테",
+      "en": "conspicuous pale creamy-yellow eye-ring"
+    },
+    {
+      "ko": "노란 멱과 뺨선(수컷)",
+      "en": "yellow throat and submoustachial stripe (male)"
+    },
+    {
+      "ko": "주황갈색 아랫면(수컷)",
+      "en": "orange-brown lower breast, belly and flanks (male)"
+    },
+    {
+      "ko": "분홍색 부리",
+      "en": "pink conical bill"
+    },
+    {
+      "ko": "분홍색 다리",
+      "en": "pink legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Ortolan Bunting (Emberiza hortulana), adult male in spring, a migrant on a Korean offshore island: head, nape and breast band plain olive-grey; a conspicuous pale yellowish-white eye-ring; moustachial stripe and throat pale yellow, separated by a thin olive-grey malar line; mantle brown with dark streaks; rump plain greyish-brown; wings brown with rufous-buff fringes and two buff wing bars; belly, flanks and undertail coverts warm cinnamon-orange; tail dark brown with white on the outer feathers. Bill pink and conical; eye dark; legs pink.",
     "pose": "foraging on bare ground among short grass, side view",
     "scene": "short grass and bare earth beside small fields on a Korean offshore island during spring migration (May), clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in spring, side view perched upright: greenish olive-grey head and upper breast, conspicuous pale creamy-yellow eye-ring, yellow submoustachial stripe and throat divided by an olive-grey malar line, pink conical bill, streaked brown back and wings, orange-brown lower breast, belly and flanks, pink legs",
+      "adult female in spring, side view on the ground: duller head without the green tone, brown crown with dark streaks, creamy eye-ring, creamy submoustachial stripe and throat with a dark malar stripe, paler breast with fine dark streaks, pink bill and legs"
+    ],
     "build": "A medium-sized, slim, long-tailed bunting, a little larger than a sparrow, with a rounded head and upright stance. Bill conical, fairly long and pointed for a bunting, pink, shorter than the head. Legs pink. Long wings: at rest the primaries project well beyond the tertials. Tail medium-long and notched, with white outer feathers.",
     "avoid": [
       "Do not paint a blue-grey head with a whitish throat — that is Grey-necked Bunting; Ortolan's head is olive-grey with a yellow throat and moustache.",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Ortolan Bunting Emberiza hortulana – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/056000",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Ortolan Bunting – Oiseaux.net",
+      "url": "https://www.oiseaux.net/birds/ortolan.bunting.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Ortolan Bunting photo ID guide – BirdGuides (검색 요약으로 확인)",
+      "url": "https://birdguides.com/articles/identification/ortolan-bunting-photo-id-guide",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Ortolan bunting – Wikipedia (Cramp & Perrins 1994 인용)",
+      "url": "https://en.wikipedia.org/wiki/Ortolan_bunting",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

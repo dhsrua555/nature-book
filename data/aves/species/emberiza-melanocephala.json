@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 머리(수컷)",
+      "en": "black hood (male)"
+    },
+    {
+      "ko": "검은 머리와 갈리는 노란 멱(수컷)",
+      "en": "yellow throat sharply set off from the black hood (male)"
+    },
+    {
+      "ko": "멧새치고 긴 부리",
+      "en": "rather long bill for a bunting"
+    },
+    {
+      "ko": "세로줄 없는 밤색 윗면(수컷)",
+      "en": "unstreaked chestnut upperparts (male)"
+    },
+    {
+      "ko": "샛노란 아랫면",
+      "en": "bright yellow underparts"
+    },
+    {
+      "ko": "흰색 없는 꼬리",
+      "en": "tail without any white"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Black-headed Bunting (Emberiza melanocephala), adult male in breeding plumage, as seen in Korea in late spring: whole head black from the forehead to the nape and cheeks, sharply bordered against the bright yellow chin, throat and half-collar; mantle, back and scapulars rich chestnut; rump chestnut with some yellow; underparts bright unstreaked yellow from throat to undertail; wings dark brown with pale grey-white feather edges forming two faint wing-bars; tail plain dark brown with no white. Bill fairly large, conical, lead-grey; dark eye; legs pinkish-brown.",
     "pose": "perched upright on top of a shrub, side view",
     "scene": "coastal shrubby farmland on a Korean offshore island in late spring (May), green barley fields; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view perched upright on a shrub top: black hood from the forehead to the nape and cheeks, bright yellow throat, rather long grey conical bill, unstreaked chestnut mantle and back, bright yellow unstreaked underparts, dark wings with pale feather edges, long plain dark tail with no white, pinkish-brown legs",
+      "adult female, side view perched: greyish head, grey-brown upperparts, pale yellow unstreaked underparts, dark wings with pale edgings, rather long bill, long tail with no white"
+    ],
     "build": "Large, long-bodied bunting, clearly larger than a sparrow and bigger than a Yellow-throated Bunting. Bill rather long for a bunting, conical and pointed, grey. Legs medium length, pinkish-brown. Tail fairly long and plain, without white sides. Sings from the tops of bushes and tall stalks, perching very upright.",
     "avoid": [
       "Do not paint white outer tail feathers; this bunting has no white in the tail.",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Black-headed bunting (Rasmussen & Anderton 2012, Birds of South Asia 인용)",
+      "url": "https://en.wikipedia.org/wiki/Black-headed_bunting",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Europe 3.1 (Naturalis) – Black-headed Bunting",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=131061",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Black-headed Bunting (Craig Brelsford)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/black-headed-bunting/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdForum Opus – Black-headed Bunting",
+      "url": "https://birdforum.net/opus/Black-headed_Bunting",
+      "used": "흰색 없는 꼬리(검색 결과 요약으로 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

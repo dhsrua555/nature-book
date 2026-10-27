@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "밤색 정수리",
+      "en": "chestnut-red crown"
+    },
+    {
+      "ko": "뒷머리까지 이어지는 흰 눈썹선",
+      "en": "conspicuous whitish supercilium reaching the back of the head"
+    },
+    {
+      "ko": "윗가슴의 검은 띠·무늬",
+      "en": "black band or patches across the upper breast"
+    },
+    {
+      "ko": "대부분 흰 둘째날개깃",
+      "en": "mostly white secondaries"
+    },
+    {
+      "ko": "흰 아랫면",
+      "en": "white underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Mongolian Lark (Melanocorypha mongolica), adult (sexes similar, female duller with smaller breast patches), as seen in Korea in late autumn: crown chestnut, often with a paler buff centre; broad whitish supercilium; chestnut nape; throat white; a large black patch on each side of the upper breast, sometimes nearly joining into a band; mantle and scapulars warm brown with dark streaks and buff fringes; lesser and median wing coverts chestnut; secondaries largely white, showing as a white panel on the folded wing; breast and belly white with a rufous-buff wash on the flanks; tail dark brown with white outer feathers; heavy pale yellowish-horn bill; dark eye; pinkish-brown legs.",
     "pose": "standing upright on bare ground among dry stubble, side view",
     "scene": "dry harvested farmland with stubble and bare earth in Korea in late autumn, clear cold light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing upright on bare ground: big crestless head, chestnut-red crown, conspicuous whitish supercilium to the back of the head, white chin and throat, black band or patches across the upper breast, thick conical bill with a pale lower mandible, streaked brown back, white panel of secondaries on the folded wing, white underparts",
+      "adult in flight seen squarely from below: head, body and tail in one line, broad wings spread straight out to the sides to their full span, white secondaries forming a broad white trailing edge to the inner wing, blackish outer primaries, black breast band on a white body, feet tucked under the body"
+    ],
     "build": "A large, heavy-bodied lark, clearly larger and bulkier than a Eurasian Skylark and close to a White-cheeked Starling in size, with a big head and no crest. Bill thick, deep-based and conical, almost finch-like, shorter than the head. Legs medium, pinkish-brown; walks on the ground with a fairly upright stance. Tail rather short and square. In flight the broad wings show white secondaries forming a broad white trailing edge to the inner wing, contrasting with chestnut coverts and dark primaries; the tail shows white outer feathers.",
     "avoid": [
       "Do not paint a slim, crested, streaky-breasted lark (Eurasian Skylark); this species is bulky, crestless and unstreaked white below.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Mongolenlerche – Wikipedia (독일어, Pätzold 2003 Kompendium der Lerchen)",
+      "url": "https://de.wikipedia.org/wiki/Mongolenlerche",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Mongolian lark – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_lark",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
   ],
   "occurrence": {
     "code": "PV2",

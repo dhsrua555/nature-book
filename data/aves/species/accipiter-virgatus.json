@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 멱 가운데의 굵은 검은 세로줄",
+      "en": "white throat with a broad dark mesial stripe"
+    },
+    {
+      "ko": "짙은 청회색 윗면(수컷)",
+      "en": "dark slate-grey upperparts (male)"
+    },
+    {
+      "ko": "적갈색 가로줄이 굵은 아랫면(수컷)",
+      "en": "underparts broadly barred rufous-brown (male)"
+    },
+    {
+      "ko": "굵은 가로줄 있는 날개 아랫면",
+      "en": "heavily barred underside of the flight feathers"
+    },
+    {
+      "ko": "폭이 고른 3–4줄의 검은 꼬리띠",
+      "en": "3–4 broad dark tail bands about as wide as the pale bands"
+    },
+    {
+      "ko": "가늘고 긴 노란 다리",
+      "en": "long, slender yellow legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Besra (Accipiter virgatus), adult male: crown, nape and upperparts dark slate-grey, the head darkest; throat white with a bold black stripe down its centre; breast white with broad rufous-brown streaks that merge into rufous-brown bars on the belly and flanks; undertail coverts white; tail grey-brown crossed by broad dark bars. Bill dark grey, short and hooked; legs and feet yellow, long and slender.",
     "pose": "perched upright on a shaded branch inside the forest, side view",
     "scene": "dense broadleaf forest on a southern Korean island in spring, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on a shaded branch: dark slate-grey upperparts with the head darkest, white throat with a broad dark mesial stripe, underparts broadly barred rufous-brown and white, long tail crossed by 3–4 broad dark bands about as wide as the pale ones, short hooked bill, long slender yellow legs",
+      "adult male, in flight seen squarely from below: short, rounded wings spread straight out to the sides to their full span, whitish flight feathers crossed by broad dark bars, white throat with a dark mesial stripe, rufous-barred body, long tail with 3–4 broad dark bands, yellow feet tucked under the tail"
+    ],
     "build": "Small, compact hawk, about the size of a Japanese Sparrowhawk or slightly larger, the female larger than the male. Head rounded, with no crest; the crown feathers lie flat. Neck short. Bill short and strongly hooked, much shorter than the head. Legs long and slender, yellow, with long thin toes. Wings short and rounded; flight a few rapid flaps followed by short glides, the underwing barred. Tail fairly long and square-tipped, crossed by broad dark bars.",
     "avoid": [
       "Do not paint the plain, unstreaked pale rufous breast and longer, more pointed wings of Japanese Sparrowhawk (Accipiter gularis); the Besra is streaked on the breast and barred on the belly.",
@@ -54,10 +82,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Besra 松雀鷹",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/025500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Singapore (Bird Society of Singapore) – Besra",
+      "url": "https://singaporebirds.com/species/besra",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birdpoints – Besra (Oates 1889–90, Fauna of British India 인용)",
+      "url": "https://birdpoints.com/Besra/Besra.htm",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Besra",
+      "url": "https://en.wikipedia.org/wiki/Besra",
+      "used": "동정 포인트·도해 모습(보조 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

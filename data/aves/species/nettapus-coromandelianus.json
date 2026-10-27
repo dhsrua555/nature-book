@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "짧고 뭉툭한 부리",
+      "en": "very short, deep-based, goose-like bill"
+    },
+    {
+      "ko": "검은 정수리와 흰 얼굴·목(수컷)",
+      "en": "black crown with white face and neck (male)"
+    },
+    {
+      "ko": "검은 목테(수컷 번식깃)",
+      "en": "blackish-green collar at the base of the neck (breeding male)"
+    },
+    {
+      "ko": "녹색 광택이 도는 짙은 윗면",
+      "en": "dark upperparts glossed green"
+    },
+    {
+      "ko": "눈을 지나는 검은 눈선(암컷)",
+      "en": "dark line through the eye (female)"
+    },
+    {
+      "ko": "날 때 보이는 날개깃의 흰 띠",
+      "en": "white band on the flight feathers in flight"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Cotton Pygmy Goose (Nettapus coromandelianus), adult male in breeding plumage, as on a lowland pond in early summer: forehead and crown blackish; face, head and neck white; a black, green-glossed collar around the base of the neck; back, scapulars and wings dark glossy green; breast and underparts white, the flanks finely vermiculated pale grey; tail blackish. Bill very short, stubby and black; legs and feet dark grey.",
     "pose": "swimming among floating water-lily leaves, side view",
     "scene": "small lowland pond in southern Korea in early summer, covered with floating leaves; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view swimming: tiny compact duck, small rounded head with a black crown, white face and neck, blackish-green collar at the base of the neck, very short deep-based black bill, dark green-glossed back and wings, white breast, pale grey vermiculated flanks, short dark tail",
+      "adult female, side view swimming: dark crown, pale face and neck with a dark line through the eye, no collar, mottled breast, dull dark brown back and wings, very short dark bill",
+      "adult male, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, dark green-glossed wings crossed by a broad white band across the flight feathers, white head with a black crown, black collar"
+    ],
     "build": "Tiny duck, one of the smallest waterfowl, clearly smaller than a Eurasian Teal; compact, with a small rounded head and short neck. Bill very short, much shorter than the head, deep at the base and goose-like. Legs short. In flight the male shows dark green wings crossed by a broad white band across the primaries and a white trailing edge to the secondaries; the female shows only the white trailing edge. Tail short, rounded and dark.",
     "avoid": [
       "Do not paint it teal-sized or larger, or with a long, flat duck bill; it is tiny with a short goose-like bill.",
@@ -52,10 +81,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Cotton Pygmy Goose",
+      "url": "https://avifauna.hkbws.org.hk/species/0020/001100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Cotton pygmy goose (Rasmussen & Anderton 2005 인용)",
+      "url": "https://en.wikipedia.org/wiki/Cotton_pygmy_goose",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

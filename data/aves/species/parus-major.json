@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 머리와 큰 흰 뺨",
+      "en": "glossy black head with large white cheeks"
+    },
+    {
+      "ko": "황록색 등",
+      "en": "yellowish olive-green mantle"
+    },
+    {
+      "ko": "노란 가슴과 배",
+      "en": "lemon-yellow breast and belly"
+    },
+    {
+      "ko": "가운데의 넓은 검은 세로띠(수컷)",
+      "en": "broad black stripe down the centre of the underparts (male)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Great Tit (Parus major), adult male of the yellow-bellied form, in winter: glossy blue-black cap; large white cheek patches; a small white nape spot; black bib continuing as a broad black stripe down the centre of the breast and belly, widening between the legs; the rest of the underparts bright yellow; mantle olive-green; rump grey; wings blue-grey with one white wing-bar and white edges to the tertials; tail blue-grey with white outer feathers. Bill black, short and pointed; dark eye; legs blue-grey.",
     "pose": "perched, side view",
     "scene": "Mixed deciduous and pine woodland edge in Korea in winter, bare branches and low sun; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched: glossy blue-black cap and black bib, large white cheeks, white nape spot, lemon-yellow breast and belly with a broad black central stripe from bib to vent, olive-green mantle, blue-grey wings with a single white wing-bar, blue-grey tail with white outer edges",
+      "adult female, side view perched: like the male but duller, the black bib less intense and the central belly stripe narrower and sometimes broken, lemon-yellow underparts, olive-green mantle, large white cheeks"
+    ],
     "build": "Small, active tit, about sparrow-sized but slimmer and longer-tailed; rounded head without a crest. Bill short, strong and pointed. Legs short, blue-grey. Wings short and rounded. Tail medium-long, square. Females have a narrower black belly stripe that does not widen between the legs, and a slightly duller cap.",
     "avoid": [
       "Do not paint whitish-grey underparts or a grey back with green only on the upper mantle; those mark Japanese Tit (Parus minor), the common tit in Korea.",
@@ -58,10 +78,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia — Great tit (Gosler & Clement 2007, HBW 12 인용)",
+      "url": "https://en.wikipedia.org/wiki/Great_tit",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "RSPB — Great tit",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/great-tit",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Birds Korea Blog (N. Moores, 2012) — Is this a really, really Great Tit?",
+      "url": "https://birdskoreablog.org/?p=6448",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "원문은 아랫면이 흰색이고 전국에 사는 텃새라 하여 국명 '노랑배박새'와 맞지 않음. 박새 설명으로 보여 모든 값을 TODO 로 둠"
+    "원문은 아랫면이 흰색이고 전국에 사는 텃새라 하여 국명 '노랑배박새'와 맞지 않음. 박새 설명으로 보여 모든 값을 TODO 로 둠",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

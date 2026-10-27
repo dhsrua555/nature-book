@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노란 눈썹선(수컷)",
+      "en": "yellow supercilium (male)"
+    },
+    {
+      "ko": "짙은 올리브녹색 눈앞·뺨·귀깃(수컷)",
+      "en": "dark olive-green lores, cheeks and ear-coverts (male)"
+    },
+    {
+      "ko": "녹색 띤 짙은 정수리·등(수컷)",
+      "en": "greenish-tinged dark olive crown and back (male)"
+    },
+    {
+      "ko": "주황빛이 옅은 노란 멱(수컷)",
+      "en": "yellow throat with only a faint orange tinge (male)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Ryukyu Flycatcher (Ficedula owstoni), adult male, a spring vagrant in Korean island woodland: crown, nape and back olive-green; a broad yellow supercilium running from the bill to behind the eye; rump yellow; wings blackish with a white patch on the inner greater coverts; tail blackish; throat yellow with an orange tinge, breast yellow, fading to whitish on the lower belly and undertail coverts. Bill short and dark; eye dark; legs dark grey.",
     "pose": "perched on a mossy branch in the shaded mid-storey, side view",
     "scene": "evergreen broadleaf forest on a southern Korean island in spring (April–May), dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched on a mossy branch in shade: compact flycatcher with a rounded head, greenish-tinged dark olive crown, nape and back, dark olive-green lores, cheeks and ear-coverts, yellow supercilium, yellow throat with only a faint orange tinge, yellow breast, blackish wings and tail, short dark bill",
+      "adult male, front three-quarter view perched upright: yellow supercilium above dark olive-green cheeks and ear-coverts, greenish-tinged dark olive crown, yellow throat with only a faint orange tinge, yellow breast fading paler on the belly"
+    ],
     "build": "Small, compact flycatcher, smaller than a sparrow, with the shape of Narcissus Flycatcher: rounded head, short neck, upright posture in the shaded mid-storey. Bill short, flat and dark, much shorter than the head. Legs short and dark grey. Tail medium length and square, without white sides.",
     "avoid": [
       "Do not paint a black back, crown and tail like male Narcissus Flycatcher; the upperparts are olive-green.",
@@ -53,10 +73,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong – Ryukyu Flycatcher 琉球姬鶲",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050200",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds Korea blog – Narcissus vs Ryukyu Flycatcher (2023-07-04)",
+      "url": "https://birdskoreablog.org/?m=20230704",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "eBird – Ryukyu Flycatcher (검색 발췌)",
+      "url": "https://ebird.org/species/narfly3",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Wikipedia – Ryukyu flycatcher (Brazil 2009 인용)",
+      "url": "https://en.wikipedia.org/wiki/Ryukyu_flycatcher",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

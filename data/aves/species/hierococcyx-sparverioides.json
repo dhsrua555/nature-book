@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "회색 머리",
+      "en": "grey head"
+    },
+    {
+      "ko": "갈색 윗면",
+      "en": "brown upperparts"
+    },
+    {
+      "ko": "적갈색 윗가슴",
+      "en": "rufous upper breast"
+    },
+    {
+      "ko": "어두운 가로줄 있는 흰 배",
+      "en": "white belly barred dark brown"
+    },
+    {
+      "ko": "굵은 검은 띠가 있는 긴 꼬리",
+      "en": "long tail with broad dark bands"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Large Hawk-Cuckoo (Hierococcyx sparverioides), adult, as seen in Korean woodland in late spring: head slate-grey, darker on the face; chin dark grey; throat whitish; upperparts plain grey-brown; upper breast rufous with dark streaks; lower breast and belly white, barred dark brown; undertail coverts white; tail long, grey-brown with broad blackish bars and a pale tip; bill dark with a yellowish base; yellow eye-ring and yellow-orange iris; legs yellow.",
     "pose": "perched upright on a branch inside the canopy, side view",
     "scene": "Korean broadleaf forest in late spring (May–June), fresh green foliage and dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), perched upright on a branch inside the canopy, side view: hawk-like cuckoo with a grey head contrasting with plain brown upperparts, short slightly decurved bill, rufous upper breast with dark streaks, white lower breast and belly barred dark brown, long tail with broad dark bands",
+      "adult, perched upright, three-quarter front view: grey head, rufous dark-streaked upper breast, white belly with dark brown bars, long tail with broad dark bands hanging straight down"
+    ],
     "build": "Large, hawk-like cuckoo, slightly larger than Common Cuckoo and shaped like a sparrowhawk, with a long, broad tail with a rounded tip, rounded wings and a fairly upright posture when perched. Bill short and slightly decurved. Legs short, yellow, with two toes forward and two back. In flight broad-winged, with fast shallow wingbeats and short glides, easily mistaken for an Accipiter.",
     "avoid": [
       "Do not paint a plain, unstreaked pale orange breast, a white nape patch and a slate-grey back; that is Northern Hawk-Cuckoo (Hierococcyx hyperythrus).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Large Hawk-Cuckoo – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0040/005500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Large Hawk-Cuckoo – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/large-hawk-cuckoo",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

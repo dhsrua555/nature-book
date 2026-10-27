@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "부리와 눈 사이의 흰 무늬",
+      "en": "white patch between the bill and the eye"
+    },
+    {
+      "ko": "흰 테를 두른 적갈색 뺨",
+      "en": "chestnut-red cheek patch outlined in white"
+    },
+    {
+      "ko": "흰 테를 두른 적갈색 앞목과 가슴",
+      "en": "chestnut-red foreneck and breast bordered with white"
+    },
+    {
+      "ko": "옆구리의 굵은 흰 줄",
+      "en": "bold white flank stripe"
+    },
+    {
+      "ko": "날개덮깃을 가로지르는 가는 흰 띠 두 줄",
+      "en": "two narrow white bars across the wing coverts"
+    },
+    {
+      "ko": "짧은 검은 부리",
+      "en": "short black bill"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Red-breasted Goose (Branta ruficollis), adult: crown, face, hindneck and upperparts black; a white oval patch between the bill and the eye; a large brick-red patch on the cheek bordered with white; foreneck and breast brick-red, bordered by a narrow white line; a white stripe along the flanks below the wing; belly and flanks black; vent and undertail coverts white; wings black with two narrow white bars on the coverts. Bill tiny and black; dark eye; legs black.",
     "pose": "grazing on a harvested rice field among Greater White-fronted Geese, side view",
     "scene": "Korean winter farmland: harvested rice fields with stubble and a flock of grey geese; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing on a field: short black bill, white patch between bill and eye, chestnut-red cheek patch outlined in white, chestnut-red foreneck and breast bordered with white, black back and belly, bold white flank stripe, two narrow white bars across the wing coverts, white vent and undertail coverts, black legs",
+      "adult in flight seen squarely from above: head, neck, body and tail in one line, wings spread straight out to the sides to their full span, black upperparts and upperwing with two narrow white covert bars, chestnut-red neck sides, white uppertail coverts contrasting with the black tail"
+    ],
     "build": "Small, compact, short-necked goose, about the length of a Mallard but much stockier, the smallest goose likely to be seen in Korea. Bill tiny and stubby, much shorter than the head. Legs short, black. At rest the wings reach the tail tip. Grazes busily in fields with other geese; in flight looks dark with a white vent and white uppertail coverts.",
     "avoid": [
       "Do not paint grey-brown body plumage; the body is black with white stripes.",
@@ -52,10 +80,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Red-breasted Goose – Oiseaux-Birds species card",
+      "url": "https://www.oiseaux-birds.com/card-red-breasted-goose.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Rothalsgans – Wikipedia (독일어, Uspenski 2003 문헌)",
+      "url": "https://de.wikipedia.org/wiki/Rothalsgans",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Red-breasted Goose – Oiseaux.net (검색 요약으로 확인)",
+      "url": "https://oiseaux.net/birds/red-breasted.goose.html",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Red-breasted Goose – Ibis Tours species page",
+      "url": "https://ibistours-site.pages.dev/species/red-breasted-goose",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Red-breasted goose – Wikipedia (Svensson 2009 인용)",
+      "url": "https://en.wikipedia.org/wiki/Red-breasted_goose",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

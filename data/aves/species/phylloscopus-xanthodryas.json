@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "길고 옅은 눈썹선",
+      "en": "long pale supercilium"
+    },
+    {
+      "ko": "넓고 짙은 눈선",
+      "en": "broad dark eye-stripe"
+    },
+    {
+      "ko": "끝이 검은 옅은 아랫부리",
+      "en": "pale lower mandible with a dark tip"
+    },
+    {
+      "ko": "녹색이 짙은 올리브색 윗면",
+      "en": "bright olive-green upperparts, greener than Arctic and Kamchatka Leaf Warblers"
+    },
+    {
+      "ko": "옅은 날개띠 한 줄",
+      "en": "single pale wing-bar"
+    },
+    {
+      "ko": "노란 기가 도는 아랫면",
+      "en": "underparts washed yellow, yellower than its relatives"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Japanese Leaf Warbler (Phylloscopus xanthodryas), adult, as seen on Korean islands during spring migration: crown and upperparts fairly bright olive-green with a yellowish tone; long yellowish-white supercilium that stops short of the forehead; dark olive eye-stripe running to the bill base; ear-coverts mottled olive and yellow; wings darker with green edges and a narrow yellowish-white bar on the greater coverts, sometimes a second faint bar on the median coverts; underparts whitish washed pale yellow, the yellow strongest on the throat, flanks and undertail coverts. Bill dark with a pale orange-yellow lower mandible; dark eye; legs pale pinkish-brown.",
     "pose": "foraging among fresh leaves in the canopy, side view",
     "scene": "deciduous trees on a Korean offshore island during spring migration in late May; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in spring, side view foraging among fresh leaves in the canopy: bright olive-green upperparts, long pale supercilium above a broad dark eye-stripe, single pale wing-bar, long wings, underparts washed yellow, pale lower mandible with a dark tip",
+      "adult, side view perched on a twig: bright olive-green crown and back, long pale supercilium, broad dark eye-stripe, single pale wing-bar on the long folded wings, yellow-washed underparts, pale lower mandible tipped dark"
+    ],
     "build": "Medium-sized leaf warbler, smaller than a sparrow but larger and longer-winged than Yellow-browed Warbler, with a rather flat crown and a fairly stout, pointed bill shorter than the head. Legs medium length, pale. Long wings with a long primary projection; the wingtips reach well down the tail. Tail medium length, square-ended. Forages actively in the canopy, picking insects from leaves.",
     "avoid": [
       "Do not paint it dull grey-green with whitish underparts like Arctic Warbler (Phylloscopus borealis); this species is yellower above and below.",
@@ -52,10 +80,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "齋藤武馬 (2011) 生態図鑑 メボソムシクイ, Bird Research News 8(11)",
+      "url": "https://www.bird-research.jp/1_newsletter/dl/BRNewsVol8No11.pdf",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "メボソムシクイ – Wikipedia (ja), cites 齋藤ら 2012 日本鳥学会誌 61(1), 齋藤ら 2014 日本鳥類標識協会誌 26(2)",
+      "url": "https://ja.wikipedia.org/wiki/メボソムシクイ",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Japansk sångare – Wikipedia (sv), cites Brazil 2018 'Birds of Japan' and HBW Alive",
+      "url": "https://sv.wikipedia.org/wiki/Japansk_sångare",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Japanese leaf warbler – Wikipedia (en), cites del Hoyo et al. 2020 Birds of the World",
+      "url": "https://en.wikipedia.org/wiki/Japanese_leaf_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Arctic Warbler 極北柳鶯 – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/040100",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

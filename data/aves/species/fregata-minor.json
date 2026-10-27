@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "붉은 멱주머니(수컷)",
+      "en": "red throat pouch (male)"
+    },
+    {
+      "ko": "회백색 멱과 붉은 눈테(암컷)",
+      "en": "greyish-white throat and red-pink eye-ring (female)"
+    },
+    {
+      "ko": "흰 무늬 없는 검은 몸(수컷)",
+      "en": "all-black body with no white (male)"
+    },
+    {
+      "ko": "날개 밑으로 뻗지 않는 흰 가슴(암컷)",
+      "en": "white breast not extending onto the underwing (female)"
+    },
+    {
+      "ko": "길고 좁은 뾰족한 날개",
+      "en": "long, narrow, pointed wings"
+    },
+    {
+      "ko": "깊게 갈라진 긴 꼬리",
+      "en": "long, deeply forked tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Great Frigatebird (Fregata minor), adult male: entire plumage black, with a green gloss on the mantle and scapulars and a paler brownish diagonal bar across the upperwing coverts; bare red throat pouch, showing only as a small red patch at the throat when not inflated; no white anywhere on the underparts or underwing. Bill long, grey, with a strongly hooked tip; legs and feet small and dark.",
     "pose": "soaring high on motionless, angled wings over the sea, seen from below",
     "scene": "southern Korean sea in late summer after a typhoon, broken clouds over open water; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, soaring, seen squarely from below: small head with a long hooked bill, red throat pouch, entirely black body and underwing with no white, head, body and tail in one line, very long narrow pointed wings spread out to the sides to their full span and bent back at the wrist, long deeply forked tail, tiny feet tucked into the belly feathers",
+      "adult female, soaring, seen squarely from below: black head with a red-pink eye-ring and long hooked bill, greyish-white throat, white breast that does not extend onto the black underwing, black belly and vent, very long narrow pointed wings spread out to the sides and bent back at the wrist, long deeply forked tail"
+    ],
     "build": "Very large, slender seabird with an enormous wingspan for its light body, wider than a Grey Heron's. Head small, neck short. Bill longer than the head, slender, grey, ending in a sharp hook. Legs tiny, rarely seen in flight. Wings very long, narrow and sharply angled at the wrist, held in a crooked shape; soars for long periods without flapping. Tail very long and deeply forked, often held closed in a single long point.",
     "avoid": [
       "Do not paint white spurs extending from the belly onto the armpits — that is Lesser Frigatebird (Fregata ariel); the adult male Great Frigatebird is all black below.",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Great frigatebird – New Zealand Birds Online",
+      "url": "https://nzbirdsonline.org.nz/species/great-frigatebird",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Great frigatebird – Wikipedia (Metz & Schreiber, Birds of the World 인용)",
+      "url": "https://en.wikipedia.org/wiki/Great_frigatebird",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Great Frigatebird – BirdForum Opus",
+      "url": "https://birdforum.net/opus/Great_Frigatebird",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Great Frigatebird Identification – All About Birds (Cornell Lab)",
+      "url": "https://www.allaboutbirds.org/guide/Great_Frigatebird/id",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

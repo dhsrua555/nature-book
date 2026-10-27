@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "앞날개 기부의 작은 흰 점",
+      "en": "small white 'landing light' patches at the base of the forewing"
+    },
+    {
+      "ko": "흰 몸과 날개 아랫덮깃(밝은형)",
+      "en": "white underbody and underwing coverts (pale morph)"
+    },
+    {
+      "ko": "검은 첫째·둘째날개깃(밝은형)",
+      "en": "blackish primaries and secondaries contrasting with the pale coverts (pale morph)"
+    },
+    {
+      "ko": "발가락까지 깃털로 덮인 다리",
+      "en": "legs feathered to the toes"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Booted Eagle (Hieraaetus pennatus), adult pale morph: head buff-brown with a darker streaked crown; upperparts dark brown with a broad pale buff band across the upperwing coverts and pale buff uppertail coverts forming a U at the base of the tail; small white patches where the forewing meets the body; underparts and underwing coverts creamy white, lightly streaked on the breast, contrasting with blackish flight feathers; inner primaries paler, forming a pale wedge; tail grey-brown and unbarred. Bill dark grey with a yellow cere; legs feathered to the toes, feet yellow.",
     "pose": "soaring over a wooded hillside, seen from below",
     "scene": "Korean wooded hills and open valley during autumn migration under a clear sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult pale morph, soaring seen squarely from below: small head, long wings spread straight out to the sides to their full span with six well-spread fingered primaries, white body and underwing coverts contrasting with blackish primaries and secondaries, long tail, legs feathered to the toes with the feet tucked under the tail",
+      "adult pale morph, perched upright, front three-quarter view: small head, short hooked bill, white underparts, small white patches on the shoulders at the front of the folded wings, blackish flight feathers on the folded wing, legs feathered down to the toes"
+    ],
     "build": "Small eagle, about the size of an Eastern Buzzard, compact with a small head and a long, square-ended tail. Bill short and hooked, shorter than the head. Legs feathered to the toes, giving the booted look. In flight long, rather narrow, parallel-edged wings with well-spread primary fingers, held flat or with the hand slightly lowered; the tail is often fanned when soaring.",
     "avoid": [
       "Do not paint a barred tail or dark wrist patches like a buzzard; the tail is plain and the underwing coverts uniformly pale.",
@@ -53,10 +73,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Blasco-Zumeta & Heinze – Booted Eagle (Hieraaetus pennatus), ageing and sexing guide",
+      "url": "https://www.blascozumeta.com/specie_files/02980_ENG_Hieraaetus_pennatus_aranzadi.pdf",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Booted eagle (Kemp & Kemp 1998 인용)",
+      "url": "https://en.wikipedia.org/wiki/Booted_eagle",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Mahmiyat – Booted Eagle",
+      "url": "https://www.mahmiyat.ps/en/floraAndFauna/192",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdForum Opus – Booted Eagle (검색 발췌)",
+      "url": "https://birdforum.net/opus/Booted_Eagle",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

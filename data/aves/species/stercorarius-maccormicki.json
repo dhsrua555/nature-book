@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "어두운 윗면과 대비되는 엷은 머리·아랫면",
+      "en": "pale head and underparts contrasting with dark upperparts"
+    },
+    {
+      "ko": "뒷목의 엷은 줄무늬",
+      "en": "pale streaks on the nape and hindneck"
+    },
+    {
+      "ko": "검은 날개아랫덮깃",
+      "en": "blackish underwing coverts"
+    },
+    {
+      "ko": "첫째날개깃 기부의 흰 무늬",
+      "en": "white flash at the base of the primaries"
+    },
+    {
+      "ko": "넓은 날개와 두툼한 가슴",
+      "en": "broad wings and a barrel chest"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "South Polar Skua (Stercorarius maccormicki), adult of a pale to intermediate morph, as seen over the open sea off Korea in summer: head, neck and underparts plain cold pale greyish-brown to greyish-buff, clearly paler than the mantle and wings, with fine pale straw-coloured streaks on the hindneck; mantle and wings dark blackish-brown, unmarked, contrasting with the paler body; underwing coverts blackish; a conspicuous white flash at the base of the primaries on both the upper and lower wing; no rufous tones anywhere. Bill black, stout and hooked; dark eye; legs and webbed feet black.",
     "pose": "flying low and steadily over the swell on broad wings, white primary flashes showing",
     "scene": "open sea far off the Korean East Sea coast in summer, long blue-grey swell under a hazy sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult pale to intermediate morph, in flight seen squarely from below: barrel-chested, head, body and tail in one line, broad wings spread out to the sides to their full span bent slightly at the wrist, blackish underwing coverts, white flash at the base of the primaries, whitish to straw-brown head and body, short tail, feet tucked under the body",
+      "adult pale to intermediate morph, in flight seen squarely from above: broad wings spread out to the sides to their full span, dark grey-brown back and upperwings with a white flash at the base of the primaries, paler head and neck with pale streaks on the nape and hindneck, short dark tail"
+    ],
     "build": "Large, heavy-bodied skua, about as long as a Black-tailed Gull but much bulkier and broader-chested, looking like a dark, powerful gull. Bill stout and deep, black, with a strongly hooked tip. Wings broad-based and rather blunt; tail short and slightly wedge-shaped, the central feathers projecting only a little. Flight steady with shallow wingbeats, turning to fast, agile chases of other seabirds. Legs short and black.",
     "avoid": [
       "Do not paint long pointed or twisted central tail streamers (jaegers); the tail is short with only a slight central projection.",
@@ -54,10 +78,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "South polar skua – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/South_polar_skua",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Distinguishing South Polar Skua and Pomarine Jaeger – Sibley Guides",
+      "url": "https://sibleyguides.com/2007/07/distinguishing-south-polar-skua-and-pomarine-jaeger",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Identification of a South Polar Skua off Scilly, July 2024 – BirdGuides",
+      "url": "https://www.birdguides.com/articles/identification-of-a-south-polar-skua-off-scilly-july-2024",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "S5",

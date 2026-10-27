@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "청회색 정수리와 뒷목(수컷)",
+      "en": "blue-grey crown and nape (male)"
+    },
+    {
+      "ko": "부리 기부에서 귀깃까지 검은 눈선(수컷)",
+      "en": "black mask from the bill base onto the ear coverts (male)"
+    },
+    {
+      "ko": "적갈색 등과 날개덮깃(수컷)",
+      "en": "chestnut-rufous back and wing coverts (male)"
+    },
+    {
+      "ko": "흰 멱과 분홍빛 가슴·배(수컷)",
+      "en": "white throat and pink-washed breast and belly (male)"
+    },
+    {
+      "ko": "기부 양옆이 흰 검은 꼬리(수컷)",
+      "en": "black tail with white sides at the base (male)"
+    },
+    {
+      "ko": "가로무늬 있는 흰빛 아랫면(암컷)",
+      "en": "whitish underparts finely barred on the breast and flanks (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Red-backed Shrike (Lanius collurio), adult male in spring: crown, nape and rump blue-grey; a black mask from the base of the bill through the eye to the ear-coverts; mantle, scapulars and wing coverts plain chestnut-rufous, without bars; flight feathers dark brown; throat white; breast and flanks washed pale pink; belly white; tail black with white bases to the outer feathers. Bill black and hooked; dark eye; legs black.",
     "pose": "perched upright on top of a thorny bush, side view",
     "scene": "Thorny scrub on a Korean offshore island in May, during spring migration, bright light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on top of a thorny bush: blue-grey crown and nape, black mask from the base of the bill through the eye to the ear coverts, short hooked black bill, chestnut-rufous mantle and wing coverts, white throat, breast and belly washed pink, black tail with white at the sides of its base, dark legs",
+      "adult female, side view perched upright: brown crown and upperparts with some barring on the scapulars and rump, faint dark brown mask behind the eye, whitish underparts finely barred dark on the breast and flanks, brown tail, hooked bill"
+    ],
     "build": "Small, compact shrike, a little smaller than Bull-headed Shrike, with a fairly big head and a longish tail. Bill short, stout and hooked at the tip. Legs short, dark. Perches upright on bush tops, swinging and fanning the tail. Females are brown above with a brown mask and fine dark crescents on whitish underparts.",
     "avoid": [
       "Do not paint black bars on the chestnut back, a thick bill or plain white underparts; those mark Tiger Shrike (Lanius tigrinus).",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "RSPB – Red-backed Shrike",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/red-backed-shrike",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Europe 3.1 (Naturalis) – Red-backed Shrike",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130971",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Red-backed shrike",
+      "url": "https://en.wikipedia.org/wiki/Red-backed_shrike",
+      "used": "동정 포인트·도해 모습(보조 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "잿빛 뺨",
+      "en": "greyish face and cheeks"
+    },
+    {
+      "ko": "귀깃 뒤의 검은 반달무늬",
+      "en": "bold black crescent behind the ear coverts"
+    },
+    {
+      "ko": "무늬 없는 갈색 윗면",
+      "en": "plain mid-brown upperparts"
+    },
+    {
+      "ko": "덮깃 끝이 흰 날개띠 두 줄",
+      "en": "two white wing-bars formed by tips to the greater and median coverts"
+    },
+    {
+      "ko": "아랫배까지 퍼진 크고 짙은 반점",
+      "en": "large, bold dark spots on the underparts reaching the vent"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Chinese Thrush (Turdus mupinensis), adult (sexes alike), as seen in Korea on spring migration: crown, upperparts and tail plain olive-brown; face whitish-buff with bold black markings: a black bar below and behind the eye, a black crescent at the rear of the ear-coverts and a black malar stripe; two whitish-buff wing-bars on the median and greater coverts; underparts white, washed buff on the breast, boldly marked with large rounded black spots on the breast, flanks and upper belly. Bill dark with a yellowish base to the lower mandible; dark eye; legs pale pinkish-brown.",
     "pose": "standing upright on leaf litter under trees, side view",
     "scene": "forest floor with leaf litter and young shrubs on a Korean offshore island during spring migration in May; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing upright on leaf litter: plain mid-brown crown, upperparts and tail, greyish face with a bold black crescent behind the ear coverts and a dark malar stripe, whitish throat, two white wing-bars on the median and greater coverts, buff-washed breast and white belly with large bold dark spots reaching the vent, pale legs",
+      "adult, front view standing upright: greyish face with black crescents behind the ear coverts, whitish throat bordered by dark malar stripes, buff-washed breast and flanks with large rounded dark spots, white belly spotted to the vent"
+    ],
     "build": "Medium thrush, about the size of a Pale Thrush and a little smaller than a Dusky Thrush; plump-bodied and upright with a rounded head. Bill straight, shorter than the head. Legs fairly long, pale. Wings marked with two pale bars on the coverts; tail medium length, square-ended and plain. Hops on the forest floor, turning leaves and standing tall between hops.",
     "avoid": [
       "Do not paint golden-buff scaly crescents on the upperparts; that is White's Thrush (Zoothera aurea).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Chinese Thrush 寶興歌鶇",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/046400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Chinese Thrush ID (Craig Brelsford)",
+      "url": "https://www.shanghaibirding.com/tag/chinese-thrush/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV1",

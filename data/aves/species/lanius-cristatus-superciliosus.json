@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "넓은 흰 이마띠와 굵은 흰 눈썹선",
+      "en": "wide white forehead band and broad white supercilium"
+    },
+    {
+      "ko": "부리에서 뒷머리 가까이까지 검은 가면",
+      "en": "black mask from the bill to near the nape"
+    },
+    {
+      "ko": "선명한 적갈색 머리꼭대기·뒷목·윗면",
+      "en": "bright rufous crown, nape and upperparts"
+    },
+    {
+      "ko": "적갈색 날개깃 가장자리",
+      "en": "rufous edgings to the wing feathers"
+    },
+    {
+      "ko": "옆구리의 가는 비늘무늬(암컷)",
+      "en": "finely vermiculated flanks (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Brown Shrike of the race superciliosus (Lanius cristatus superciliosus), adult male in spring: a broad white band across the forehead continuing back as a long, broad white supercilium; crown, nape, mantle and rump bright chestnut-rufous; a black mask from the bill through the eye to the ear-coverts; wings dark brown with rufous fringes; throat white; underparts white with a warm buff-orange wash on the breast sides and flanks; tail rufous-brown. Bill blackish; dark eye; legs dark grey.",
     "pose": "perched upright on a bare twig at the top of a shrub, side view",
     "scene": "Shrubby field edge on a Korean offshore island in May, during spring migration, clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in spring, side view perched upright on a bare twig: wide white forehead band and broad white supercilium, black mask from the bill to near the nape, bright rufous crown, nape, mantle and rump, dark brown wings with rufous edgings, white throat, pale underparts, longish rufous-brown tail, hooked blackish bill",
+      "adult female, side view perched upright on a twig: duller than the male, narrower white forehead band and supercilium, mask less distinct on the lores, rufous-brown upperparts, pale underparts with finely vermiculated flanks"
+    ],
     "build": "Medium-small, slim shrike, about the size of Bull-headed Shrike, with a longish, graduated tail. Bill shorter than the head, strong and hooked at the tip. Legs short, dark. No white patch on the wing. Perches upright on exposed twigs, swinging the tail. Females are duller, with a browner mask and fine dark barring on the flanks.",
     "avoid": [
       "Do not paint a grey crown; that marks Lanius cristatus lucionensis, the Brown Shrike race that breeds in Korea.",
@@ -51,10 +75,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux-birds: Brown Shrike (races incl. superciliosus)",
+      "url": "https://www.oiseaux-birds.com/card-brown-shrike.html",
+      "used": "동정 포인트·도해 모습 (넓은 흰 이마띠·눈썹선, 뒷머리까지 가면, 적갈색 머리·윗면과 날개 가장자리, 암컷 옆구리 비늘무늬)"
+    },
+    {
+      "title": "HBW / Birds of the World: Brown Shrike",
+      "url": "https://www.hbw.com/node/60472",
+      "used": "교차 확인 (superciliosus 의 넓은 흰 이마띠, 더 붉은 머리·윗면, 암컷은 흰 띠가 좁음)"
+    },
+    {
+      "title": "Birds Korea blog: Brown Shrike subspecies in Korea (Gageo-do superciliosus)",
+      "url": "https://www.birdskoreablog.org/?p=15752",
+      "used": "교차 확인 (한국 기록 개체의 순백 눈썹선과 넓은 흰 이마)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

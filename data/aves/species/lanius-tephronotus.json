@@ -15,7 +15,20 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "부리 위 이마의 가는 검은 띠",
+      "en": "narrow black band on the forehead just above the bill"
+    },
+    {
+      "ko": "눈을 지나 귀깃까지 검은 눈선",
+      "en": "black mask through the lores and eye to the ear-coverts"
+    },
+    {
+      "ko": "정수리부터 등까지 고른 짙은 회색",
+      "en": "uniform dark grey crown, nape, mantle and back"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +39,10 @@
     "subject": "Grey-backed Shrike (Lanius tephronotus), adult: forehead, crown, nape, mantle and back dark grey, with at most a thin black line across the forehead at the base of the bill; a broad black mask from the bill through the eye to the ear-coverts; rump and uppertail coverts rufous; wings dark brown without any white patch; chin and throat white; breast, flanks and belly extensively washed warm rufous-orange, palest in the centre of the belly; tail long, dark rufous-brown. Bill black and hooked; dark eye; legs blackish.",
     "pose": "perched upright on top of a bush, side view",
     "scene": "Bushy farmland edge on a Korean offshore island in May, during spring migration, bright light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on top of a bush: uniform dark grey crown to back, narrow black band above the bill, black mask through the eye to the ear-coverts, small rufous rump patch, blackish wings with pale-fringed coverts and no white patch, white throat, rufous-orange breast and flanks, long chestnut-brown tail",
+      "adult, front three-quarter view perched upright: dark grey crown and back, black mask and narrow black forehead band, white throat, rufous-orange breast and flanks paling on the belly, strong hooked black bill"
+    ],
     "build": "Fairly large, long-tailed shrike, clearly larger than Bull-headed Shrike and about the length of a Brown-eared Bulbul; large head and a strong hooked bill shorter than the head. Legs short, dark. Tail long and graduated. The grey of the upperparts runs from the crown down to the lower back, where it meets the rufous rump. Perches upright on bush tops.",
     "avoid": [
       "Do not paint a white wing patch, rufous scapulars or a long black tail; those mark Long-tailed Shrike (Lanius schach).",
@@ -53,10 +69,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Grey-backed Shrike",
+      "url": "https://avifauna.hkbws.org.hk/species/0240/032000",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Wikipedia — Grey-backed shrike (Yosef 2008, HBW 13 인용)",
+      "url": "https://en.wikipedia.org/wiki/Grey-backed_shrike",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

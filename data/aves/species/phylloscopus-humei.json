@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흐릿한 정수리 중앙선",
+      "en": "diffuse pale crown stripe"
+    },
+    {
+      "ko": "앞쪽이 담황색인 긴 눈썹선",
+      "en": "long supercilium, buff at the front"
+    },
+    {
+      "ko": "회색빛 칙칙한 윗면",
+      "en": "dull, greyish upperparts"
+    },
+    {
+      "ko": "뚜렷한 날개띠 하나와 흐린 둘째 띠",
+      "en": "one clear pale wing-bar and a faint second bar"
+    },
+    {
+      "ko": "어두운 아랫부리",
+      "en": "dark lower mandible"
+    },
+    {
+      "ko": "어두운 다리",
+      "en": "dark legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Hume's Leaf Warbler (Phylloscopus humei), adult in fresh autumn plumage (sexes alike), as seen on Korean islands on passage: crown dull greyish-olive with at most a faint paler central stripe; long buffy-white supercilium and a dark eye-stripe; upperparts greyish-olive, less green than in Yellow-browed Warbler; wings dark with one clear whitish-buff wing-bar on the greater coverts, a shorter and fainter second bar on the median coverts, and whitish tertial edges; underparts dull off-white. Bill fine, mostly dark with only a little pale at the base of the lower mandible; dark eye; legs dark brown.",
     "pose": "flitting through the outer twigs of a small tree, flicking its wings while gleaning insects",
     "scene": "coastal woodland edge on a Korean offshore island in late October, yellowing leaves and soft autumn light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, autumn, side view among outer twigs, wings slightly flicked: diffuse pale crown stripe, long supercilium buff at the front, dark eye-stripe, dull greyish-olive upperparts, one clear pale bar on the greater coverts and a faint shorter bar on the median coverts, grey-centred tertials with pale fringes, whitish underparts, dark legs",
+      "adult, head detail in side view: dull greyish crown with a diffuse paler central stripe, long supercilium buff in front of the eye, distinct dark eye-stripe through the lores, pale cheeks, dark eye, fine bill with a dark lower mandible"
+    ],
     "build": "Tiny, active leaf warbler, much smaller than a tree sparrow, with a rounded head, slim body and short tail. Bill very fine and pointed, shorter than the head. Legs thin, dark brown. Constantly flicks its wings while gleaning insects from the outer twigs of trees.",
     "avoid": [
       "Do not paint bright green upperparts and two bold whitish-yellow wing-bars; that is Yellow-browed Warbler (Phylloscopus inornatus).",
@@ -53,10 +81,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Hume's Leaf Warbler",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/037800",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Hume's leaf warbler",
+      "url": "https://en.wikipedia.org/wiki/Hume%27s_leaf_warbler",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5",

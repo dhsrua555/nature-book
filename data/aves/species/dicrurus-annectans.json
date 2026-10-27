@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "기부가 두툼한 굵은 검은 부리",
+      "en": "very thick black bill, deep at the base"
+    },
+    {
+      "ko": "짙은 붉은 홍채(어른새)",
+      "en": "deep red iris (adult)"
+    },
+    {
+      "ko": "광택 있는 검은 깃",
+      "en": "glossy black plumage"
+    },
+    {
+      "ko": "얕게 갈라져 끝이 밖으로 휜 꼬리",
+      "en": "shallowly forked tail with the outer feathers curving outward"
+    },
+    {
+      "ko": "가슴~아래꼬리덮깃의 흰 점(어린새)",
+      "en": "white spots from the breast to the undertail coverts (first-year)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Crow-billed Drongo (Dicrurus annectans), adult: plumage entirely black with a blue-green gloss on the upperparts and breast; tail black, fairly long and deeply forked, the outer feathers flaring outward towards the tips. Bill black, very heavy, broad and deep at the base, with long rictal bristles; iris dark reddish-brown; legs black.",
     "pose": "perched upright on an exposed branch in the forest mid-storey, side view",
     "scene": "Broadleaf woodland edge on a Korean offshore island in May, during spring migration, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on an exposed branch: stocky drongo with a very thick black bill, deep at the base, deep red iris, glossy black plumage, fairly long tail, shallowly forked, with the outer feathers curving outward and slightly upward near the tips, short legs",
+      "first-year, side view perched upright: like the adult but with white spots from the breast to the undertail coverts, brownish iris, very thick black bill, glossy black upperparts, shallowly forked tail with the outer feathers curving outward"
+    ],
     "build": "Medium-sized drongo, about the size of Black Drongo but stockier, with a much heavier, crow-like bill and a proportionally shorter tail. Bill about as long as the head, deep and broad-based, slightly hooked. Tail deeply forked, the outer feathers flaring outward near the tips. Legs short, black. Perches upright on exposed branches in the forest mid-storey and sallies out after insects. Immature birds have small white spots on the breast and belly.",
     "avoid": [
       "Do not paint a slim bill, a small white spot at the gape or a very long tail; those mark Black Drongo (Dicrurus macrocercus).",
@@ -52,10 +76,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Crow-billed Drongo",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/032500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project – Crow-billed Drongo",
+      "url": "https://singaporebirds.com/species/crow-billed-drongo",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Crow-billed Drongo, First Record for Shanghai",
+      "url": "https://shanghaibirding.com/?p=3820",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Crow-billed drongo (Ali, The Book of Indian Birds 인용)",
+      "url": "https://en.wikipedia.org/wiki/Crow-billed_drongo",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

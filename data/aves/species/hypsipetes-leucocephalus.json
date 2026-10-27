@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "순백색 머리와 윗가슴",
+      "en": "pure white head and upper breast"
+    },
+    {
+      "ko": "뒷머리의 헝클어진 볏",
+      "en": "ragged crest on the rear crown"
+    },
+    {
+      "ko": "붉은 주황색 부리",
+      "en": "bright reddish-orange bill"
+    },
+    {
+      "ko": "검은빛 나머지 몸",
+      "en": "rest of the plumage blackish (very dark grey)"
+    },
+    {
+      "ko": "끝이 오목한 긴 꼬리",
+      "en": "long tail with a distinct notch"
+    },
+    {
+      "ko": "붉은 주황색 다리",
+      "en": "bright reddish-orange legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Black Bulbul (Hypsipetes leucocephalus), adult of the white-headed form (sexes alike, plumage similar year-round): entire head, throat and neck pure white, the white ending sharply on the upper breast and lower nape; the rest of the plumage, including back, wings, breast, belly, undertail coverts and tail, uniform sooty black to dark slate-grey without pattern; bill bright coral-red; dark brown eye; legs and feet bright coral-red.",
     "pose": "perched upright on a bare treetop branch, side view",
     "scene": "evergreen broadleaf trees on a southern Korean offshore island in early spring, bright daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a bare treetop branch: pure white head, throat and upper breast ending sharply against the blackish body, ragged crest on the rear crown, dark brown eye, bright reddish-orange bill, uniform blackish back, wings, belly and undertail, long notched tail, bright reddish-orange legs",
+      "adult, front three-quarter view perched upright: white head and upper breast cut off sharply from the blackish lower breast and belly, slightly ragged rear crown, reddish-orange bill and legs, long dark tail"
+    ],
     "build": "A slim, medium-sized bulbul, slightly smaller and slimmer than a Brown-eared Bulbul, with a rounded head that may look slightly bushy at the rear. Bill medium, a little shorter than the head, fairly slender with a slightly curved tip. Legs short. Wingtips at rest fall well short of the tail tip; the tail is fairly long and shallowly forked. Perches upright on exposed treetops; flight undulating, often in noisy flocks.",
     "avoid": [
       "Do not paint a grey-brown body with chestnut ear patches; that is Brown-eared Bulbul (Hypsipetes amaurotis).",
@@ -52,10 +80,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Black Bulbul",
+      "url": "https://avifauna.hkbws.org.hk/species/0290/035800",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Black bulbul (Ali & Ripley 1996 인용)",
+      "url": "https://en.wikipedia.org/wiki/Black_bulbul",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

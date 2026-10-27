@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "굵은 검은 머리옆선",
+      "en": "bold blackish lateral crown stripes"
+    },
+    {
+      "ko": "노란 정수리 중앙선",
+      "en": "yellowish central crown stripe"
+    },
+    {
+      "ko": "샛노란 눈썹선과 검은 눈선",
+      "en": "bright yellow supercilium and black eye-stripe"
+    },
+    {
+      "ko": "밝은 올리브녹색 윗면",
+      "en": "bright olive-green upperparts"
+    },
+    {
+      "ko": "큰날개덮깃의 엷은 날개띠",
+      "en": "pale wing-bar on the greater coverts"
+    },
+    {
+      "ko": "턱밑부터 아래꼬리까지 샛노란 아랫면",
+      "en": "entirely bright yellow underparts from chin to vent"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Sulphur-breasted Warbler (Phylloscopus ricketti), adult (sexes alike) in spring: a boldly striped head with a yellow to yellowish-green median crown stripe between broad black lateral crown stripes, a bright yellow supercilium and a black eye-stripe running from the lores to the nape; cheeks yellow, faintly mottled olive; upperparts bright olive-green; wings darker green with two narrow yellow wing-bars, the one on the greater coverts clearer than the upper one; entire underparts from chin to undertail coverts bright sulphur-yellow, faintly olive on the flanks; tail green; bill mostly bright orange, only slightly duskier along the ridge of the upper mandible; dark eye; pale pinkish legs.",
     "pose": "foraging along a leafy branch in the canopy, side view",
     "scene": "lush deciduous woodland on a Korean offshore island in May, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view foraging along a leafy branch: bold blackish lateral crown stripes either side of a yellowish central crown stripe, bright yellow supercilium, black eye-stripe, bright olive-green upperparts, a pale yellowish wing-bar on the greater coverts, entirely bright yellow underparts from chin to vent, fine bill dark above and orange below",
+      "adult, three-quarter front view perched: striped head with black lateral crown stripes, yellow central crown stripe and yellow supercilium, black eye-stripe, yellow cheeks, bright yellow throat and breast"
+    ],
     "build": "A small, compact leaf warbler, smaller than a sparrow and a little larger than a Yellow-browed Warbler, with a large, boldly striped head and a short tail. No crest; the crown feathers lie flat and the stripes run straight back from the forehead. Bill fine and pointed, shorter than the head, fairly broad at the base, orange. Legs slender, pale pinkish. Tail short and square. Forages actively along leafy branches in the canopy.",
     "avoid": [
       "Do not paint a whitish belly; the whole underparts are bright yellow, unlike Eastern Crowned Warbler.",
@@ -52,10 +80,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Sulphur-breasted Warbler 黑眉柳鶯",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/040300",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Sulphur-breasted Warbler (Craig Brelsford)",
+      "url": "https://www.shanghaibirding.com/tag/sulphur-breasted-warbler/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

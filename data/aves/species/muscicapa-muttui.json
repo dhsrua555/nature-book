@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뚜렷한 눈테와 연한 눈앞",
+      "en": "conspicuous eye-ring and pale lores"
+    },
+    {
+      "ko": "연한 아랫부리",
+      "en": "pale lower mandible"
+    },
+    {
+      "ko": "적갈색 위꼬리덮깃과 날개깃 가장자리",
+      "en": "rufous uppertail coverts and edges to the flight feathers"
+    },
+    {
+      "ko": "연갈색 가슴과 옆구리",
+      "en": "pale brown breast and flanks"
+    },
+    {
+      "ko": "연분홍 다리",
+      "en": "pale pink legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Brown-breasted Flycatcher (Muscicapa muttui), adult (sexes alike), a vagrant spring migrant in Korean island woodland: crown and face grey-brown with a whitish eye-ring and a whitish line from the bill to the eye; upperparts warm olive-brown, the rump and uppertail coverts more rufous; wings dark brown with rufous-buff fringes to the greater coverts and broad rufous edges to the tertials and secondaries; throat white; breast and flanks washed plain brown; belly white; tail warm brown with a rufous tinge. Bill fairly large and broad, upper mandible dark, lower mandible wholly pale yellowish; eye dark; legs pale pinkish-yellow.",
     "pose": "perched upright on a low branch in shaded understorey, side view",
     "scene": "shady broadleaf woodland on a Korean offshore island during spring migration (May), soft dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a low branch: large head, conspicuous pale eye-ring and pale lores, broad bill with a pale lower mandible, olive-brown upperparts, brighter rufous uppertail coverts, dark brown wings with rufous edges to the flight feathers, warm brown tail, pale pink legs",
+      "adult, three-quarter front view perched upright: conspicuous pale eye-ring, pale lower mandible, pale throat, plain pale brown breast and flanks without streaks, whitish belly, pale pink legs"
+    ],
     "build": "Small flycatcher, smaller than a sparrow but slightly larger and bigger-billed than Asian Brown Flycatcher; large head and upright posture. Bill broad-based and flat, shorter than the head but long for a Muscicapa, with a fully pale lower mandible. Legs short, pale pinkish-yellow, a key difference from the dark-legged Asian Brown Flycatcher. Primary projection shorter than in Asian Brown Flycatcher. Tail square, medium length, without white.",
     "avoid": [
       "Do not paint black or dark grey legs; Brown-breasted Flycatcher's legs are pale pinkish-yellow (Asian Brown Flycatcher has dark legs).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Brown-breasted Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/047800",
+      "used": "동정 포인트 (연한 부리, 따뜻한 갈색 위꼬리덮깃·꼬리, 연분홍 다리, Asian Brown Flycatcher 와의 차이)"
+    },
+    {
+      "title": "Wikipedia: Brown-breasted flycatcher (cites Oates 1890; Rasmussen & Anderton 2005, Birds of South Asia)",
+      "url": "https://en.wikipedia.org/wiki/Brown-breasted_flycatcher",
+      "used": "동정 포인트·도해 모습 (연한 눈앞과 뚜렷한 눈테, 적갈색 날개깃 가장자리, 연갈색 가슴·옆구리, 연한 다리·아랫부리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

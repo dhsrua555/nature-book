@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "부리 위로 앞으로 휜 검은 이마 깃뿔",
+      "en": "black forehead crest curling forward over the bill"
+    },
+    {
+      "ko": "눈 뒤로 뻗은 가는 흰 깃 한 가닥",
+      "en": "single thin white plume running back from behind the eye"
+    },
+    {
+      "ko": "흰 홍채",
+      "en": "white iris"
+    },
+    {
+      "ko": "작고 칙칙한 짧은 부리(겨울깃)",
+      "en": "short, stubby bill, smaller and duller in winter"
+    },
+    {
+      "ko": "아랫면까지 온몸 짙은 잿빛",
+      "en": "dark slate-grey all over, including the underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Crested Auklet (Aethia cristatella), adult in winter, as on the East Sea: entirely dark slate-grey, blackish on the crown and back and slightly paler grey on the underparts; a tuft of black feathers rising from the forehead and curling forward over the bill; a thin white plume running back from behind the eye; white iris. Bill short, deep and stubby; in winter smaller and dull brownish-orange, without the bright orange plates of the breeding season; legs and feet dark grey.",
     "pose": "floating low on the water, side view, crest curled forward over the bill",
     "scene": "Grey winter sea off Korea's east coast, low swell under a cold overcast sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult winter, side view floating low on the sea: small, chunky auk, dark slate-grey all over with no white on the underparts, black forehead crest curling forward over the bill, shorter than in summer, single thin white plume running back from behind the eye, white iris, short stubby bill, small and dull",
+      "adult winter, front three-quarter view swimming: forward-curling black crest drooping over the bill, thin white plume behind the eye, white iris, small dull stubby bill, dark slate-grey throat and breast with no white anywhere on the underparts"
+    ],
     "build": "Small, chunky auk with a big head, no visible neck and a short, stubby bill; about the size of an Ancient Murrelet and much smaller than a pigeon. Floats low and buoyantly on the sea and dives often; legs short and set far back. Wings short and narrow, whirring fast in low flight over the waves; wings uniformly dark without white markings. Tail very short.",
     "avoid": [
       "Do not paint white underparts; unlike the Ancient Murrelet and most other auks, the Crested Auklet is dark grey all over.",
@@ -53,10 +77,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Crested auklet - Wikipedia (del Hoyo et al. 1996, HBW Vol. 3 인용)",
+      "url": "https://en.wikipedia.org/wiki/Crested_auklet",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Crested Auklet - Audubon Guide to North American Birds",
+      "url": "https://www.audubon.org/field-guide/bird/crested-auklet",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Aethia cristatella - Animal Diversity Web (University of Michigan)",
+      "url": "https://animaldiversity.org/accounts/Aethia_cristatella/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "WV2",

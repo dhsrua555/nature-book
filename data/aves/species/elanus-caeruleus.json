@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "붉은 홍채와 눈 위 검은 무늬",
+      "en": "red iris with a black mark above the eye"
+    },
+    {
+      "ko": "회색 윗면과 흰 아랫면",
+      "en": "grey upperparts and white underparts"
+    },
+    {
+      "ko": "검은 어깨 무늬",
+      "en": "black shoulder patches"
+    },
+    {
+      "ko": "검은 첫째날개깃 아랫면",
+      "en": "black primaries on the underwing"
+    },
+    {
+      "ko": "노란 납막과 다리",
+      "en": "yellow cere and legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Black-winged Kite (Elanus caeruleus), adult: crown, back and upperwing pale ash-grey; a large black patch on the lesser and median wing coverts forming a black shoulder at rest; forehead, face and entire underparts white; a short black mark in front of and just above the eye; primaries darker grey above and blackish below; tail short, pale grey and white; bill small, black and strongly hooked, with a yellow cere; striking deep red iris; legs and feet bright yellow.",
     "pose": "perched upright on the top of a bare tree, side view, scanning the ground below",
     "scene": "open Korean farmland in late autumn: harvested rice paddies and grassy field margins with a few bare trees; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a bare treetop: large rounded head, red iris with a black mark above the eye, small black hooked bill with a yellow cere, grey crown and back, black shoulder patch, white face and underparts, short tail, yellow legs",
+      "adult, in flight seen squarely from below: pointed wings spread straight out to the sides to their full span, slightly angled at the wrist, white underwing coverts contrasting with black primaries, white head and body, short pale tail, yellow feet tucked under the tail"
+    ],
     "build": "Small, compact raptor, about the size of a Common Kestrel but stockier, with a large rounded head, big forward-facing eyes and a short tail. Bill short, deeply hooked, much shorter than the head. Legs short, yellow. At rest the long wingtips extend beyond the tail tip. Tail short and square or slightly notched. Hovers over open ground with raised wings and perches on treetops, slowly raising and lowering the tail; in flight pale grey with black shoulders above and black under the primaries.",
     "avoid": [
       "Do not paint a long forked tail (Black Kite, Milvus migrans); the tail is short and square.",
@@ -52,10 +76,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Singapore Birds Project: Black-winged Kite",
+      "url": "https://singaporebirds.com/species/black-winged-kite",
+      "used": "동정 포인트·도해 모습 (회색 윗면, 검은 어깨, 붉은 홍채, 노란 납막·다리, 날 때 흰 아랫면과 검은 첫째날개깃)"
+    },
+    {
+      "title": "Delhi Greens Birdwatcher: Black-winged Kite",
+      "url": "https://birdwatcher.delhigreens.com/?p=398",
+      "used": "교차 확인 (붉은 눈, 검은 눈썹 무늬, 노란 다리)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

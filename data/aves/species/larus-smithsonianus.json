@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "옅은 노란 홍채(어른새)",
+      "en": "pale yellow iris (adult)"
+    },
+    {
+      "ko": "기부가 살구빛인 검은 부리(1회 겨울깃)",
+      "en": "blackish bill developing a dull flesh-coloured base (first-winter)"
+    },
+    {
+      "ko": "고르게 짙은 회갈색 몸(1회 겨울깃)",
+      "en": "evenly sooty grey-brown body (first-winter)"
+    },
+    {
+      "ko": "옅은 회색 등과 날개(어른새)",
+      "en": "pale grey back and upperwing (adult)"
+    },
+    {
+      "ko": "짙은 가로줄 빽빽한 허리(1회 겨울깃)",
+      "en": "rump and uppertail coverts strongly barred dark (first-winter)"
+    },
+    {
+      "ko": "거의 검은 꼬리(1회 겨울깃)",
+      "en": "mostly blackish tail (first-winter)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "American Herring Gull (Larus smithsonianus), first-winter, as seen on Korean coasts in winter: body plumage rather uniformly dark brown and densely mottled; head and neck grey-brown with fine streaks, often a little paler on the face; back and wing coverts brown with fine pale notches; tertials dark brown with narrow pale edges; underparts evenly brown; rump and uppertail coverts heavily barred dark brown so they look dark; tail almost entirely blackish-brown; primaries blackish-brown; bill blackish, sometimes with a paler pinkish base; iris dark; legs dull pink.",
     "pose": "standing on wet sand at the tideline, side view",
     "scene": "Korean east-coast sandy shore in winter (January), grey sea and cold overcast light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "first-winter, side view standing on wet sand: large robust gull, evenly sooty grey-brown head, body and upperparts with neat scaly pale fringes, plain brownish underparts, blackish bill developing a dull flesh-coloured base, dark eye, blackish-brown primaries, pink legs",
+      "first-winter, in flight seen squarely from above: head, body and tail in one line, long wings spread straight out to the sides to their full span with a slight bend at the wrist, pale panel on the inner primaries, blackish outer primaries, brown rump strongly barred dark, mostly blackish tail",
+      "adult winter, side view standing: white head and neck streaked brown, pale yellow iris, yellow bill with a red spot on the lower mandible, pale grey back and upperwing, black wingtips, white underparts and tail, pink legs"
+    ],
     "build": "Large, robust gull, about the size of Vega Gull, with a sturdy body, rounded to slightly flattened crown and a fairly long, strong bill with a moderate gonys angle. Legs medium length, pink. At rest the primaries project moderately beyond the tail. In flight dark outer primaries with a paler window on the inner primaries, a dark-barred rump and an almost all-dark tail.",
     "avoid": [
       "Do not paint a whitish rump or a white tail with a narrow dark band; those suit first-winter Vega Gull (Larus vegae), while this bird's rump looks dark and its tail is almost all dark.",
@@ -53,10 +82,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – American herring gull (Dubois 1997; Olsen & Larsson 2004 인용)",
+      "url": "https://en.wikipedia.org/wiki/American_herring_gull",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "National Geographic – Herring Gull",
+      "url": "https://www.nationalgeographic.com/animals/birds/facts/herring-gull",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Gull Research Organisation – American Herring Gull (smithsonianus)",
+      "url": "https://gull-research.org/smithsonianus/4cymarch.html",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "WV1",

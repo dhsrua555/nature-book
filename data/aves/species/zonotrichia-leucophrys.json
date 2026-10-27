@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "굵은 흑백 줄무늬 머리",
+      "en": "bold black-and-white head stripes"
+    },
+    {
+      "ko": "무늬 없는 회색 얼굴·목·가슴",
+      "en": "plain grey face, neck and breast"
+    },
+    {
+      "ko": "분홍~주황빛 부리",
+      "en": "pink to orange-yellow bill"
+    },
+    {
+      "ko": "갈색 줄무늬 윗면",
+      "en": "brown-streaked upperparts"
+    },
+    {
+      "ko": "두 줄의 흰 날개띠",
+      "en": "two white wing bars"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "White-crowned Sparrow (Zonotrichia leucophrys), adult in winter, a vagrant in Korean farmland hedgerows: crown boldly striped black and white — a broad white central stripe between black lateral stripes; a white supercilium; a black stripe behind the eye, the lores pale grey as in the Alaskan form gambelii; face, neck, throat and breast plain grey; belly whitish, flanks buff-brown; mantle brown with dark streaks and greyish edges; wings brown with two white wing bars; tail long and plain brown. Bill pinkish-orange; eye dark; legs pinkish.",
     "pose": "foraging on the ground beside a hedge, side view",
     "scene": "hedgerow and weedy field margin in Korean farmland in winter (December–February), soft winter light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view on the ground beside a hedge: slightly peaked crown with bold black-and-white stripes, black stripe behind the eye, plain grey face, neck and breast, pinkish-orange conical bill, brown-streaked back, brown wings with two white wing bars, greyish underparts, long brown tail, pinkish legs",
+      "first-winter, side view on the ground: head stripes tan and muted brown instead of black and white, plain grey-buff face and breast, pinkish-orange bill, brown-streaked back, two white wing bars, long brown tail"
+    ],
     "build": "A large, long-tailed American sparrow, clearly larger and longer than a House Sparrow, with a slightly peaked crown, upright stance and long tail; feeds on the ground near cover. Bill conical, small for the bird's size, shorter than the head. Legs pinkish, medium length. The long tail extends well beyond the wingtips; tail plain brown, slightly rounded, without white.",
     "avoid": [
       "Do not paint a yellow spot in front of the eye or a white throat patch — that is White-throated Sparrow.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "White-crowned sparrow – Wikipedia (Birds of North America No. 183 인용)",
+      "url": "https://en.wikipedia.org/wiki/White-crowned_sparrow",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "White-crowned Sparrow – Audubon Guide to North American Birds",
+      "url": "https://www.audubon.org/field-guide/bird/white-crowned-sparrow",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

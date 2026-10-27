@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 이마 반점(수컷)",
+      "en": "white forehead patch (male)"
+    },
+    {
+      "ko": "흰 뒷목 반점(수컷)",
+      "en": "white nape patch (male)"
+    },
+    {
+      "ko": "흰 판에 검은 점 있는 주황 부리(수컷)",
+      "en": "swollen orange bill with a white side panel and black spot (male)"
+    },
+    {
+      "ko": "흰빛 홍채(수컷)",
+      "en": "pale whitish iris (male)"
+    },
+    {
+      "ko": "얼굴의 흰 반점 두 개(암컷)",
+      "en": "two whitish patches on the side of the face (female)"
+    },
+    {
+      "ko": "흰 무늬 없는 어두운 날개",
+      "en": "all-dark wings with no white patch"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Surf Scoter (Melanitta perspicillata), adult male in winter, as seen from November to April: plumage entirely black, with a white patch on the forehead and a larger white patch on the nape; no white anywhere in the wing. Bill large and swollen, boldly patterned: a white panel on each side at the base enclosing a round black spot, the rest of the bill orange to orange-red; iris white; legs and feet orange-red.",
     "pose": "swimming in the surf near a rocky shore, side view",
     "scene": "Korean east coast in winter, breaking surf and dark rocks under a cold sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view swimming: entirely velvety black, white patch on the forehead and white patch on the nape, pale whitish iris, sloping forehead running into a large swollen bill, orange with a white panel at the base enclosing a round black spot, short pointed tail",
+      "adult female, side view swimming: dark sooty brown with a darker crown, two whitish patches on the side of the face, one at the bill base and one behind the eye, sometimes a whitish nape patch, dark eye, heavy dark grey bill with a squarish base",
+      "adult male, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, all-dark wings with no white patch, white forehead and nape patches, large orange bill"
+    ],
     "build": "Medium-large, thickset sea duck, a little smaller than Velvet Scoter and bulkier than a Tufted Duck. Head large with a flat, sloping forehead running into a heavy, very deep-based bill, giving a triangular head-and-bill profile. Bill about as long as the head, swollen at the base in the male. Short legs set far back. In flight the wings are all dark with no white patch. Tail short and pointed, often held flat on the water.",
     "avoid": [
       "Do not add a white wing patch; that belongs to Velvet and Stejneger's Scoters.",
@@ -52,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia — Surf scoter (Palmer 1976, Handbook of North American Birds 3 인용)",
+      "url": "https://en.wikipedia.org/wiki/Surf_scoter",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb — Surf Scoter",
+      "url": "https://www.birdweb.org/birdweb/bird/surf_scoter",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Ducks Unlimited Waterfowl ID — Surf Scoter",
+      "url": "https://ducks.org/hunting/waterfowl-id/surf-scoter",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds — Surf Scoter",
+      "url": "https://www.audubon.org/field-guide/bird/surf-scoter",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "갈색 등과 대비되는 잿빛 머리",
+      "en": "slate-grey head contrasting with the brown back"
+    },
+    {
+      "ko": "흰 눈테",
+      "en": "white eye-ring"
+    },
+    {
+      "ko": "날개덮깃·셋째날개깃의 적갈색 깃가",
+      "en": "rufous fringes to the wing coverts and tertials"
+    },
+    {
+      "ko": "주황빛 적갈색 가슴·옆구리",
+      "en": "rufous-orange breast and flanks"
+    },
+    {
+      "ko": "적갈색 허리·위꼬리덮깃·꼬리",
+      "en": "rufous rump, uppertail coverts and tail"
+    },
+    {
+      "ko": "분홍빛 다리",
+      "en": "pinkish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Ferruginous Flycatcher (Muscicapa ferruginea), adult (sexes alike), a spring migrant in Korean island woodland: head slate-grey, contrasting with the brown back, with a prominent white eye-ring; throat white; mantle and back warm brown, becoming bright rufous on the rump and uppertail coverts; wings dark brown with rufous fringes to the greater coverts and tertials, forming a rufous wing bar; breast and flanks orange-rufous, centre of the belly whitish, undertail coverts rufous-buff; tail rufous-brown. Bill short and dark; eye large and dark.",
     "pose": "perched upright on a shaded branch below the canopy, side view",
     "scene": "shady mixed woodland on a Korean offshore island during spring migration (May), dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a shaded branch: rounded slate-grey head with a big dark eye and a white eye-ring, short dark bill with a pale base to the lower mandible, brown back, dark brown wings with rufous fringes to the coverts and tertials, rufous-orange breast and flanks, rufous rump, uppertail coverts and square tail, pinkish legs",
+      "adult, front three-quarter view perched upright: slate-grey head with a white eye-ring, pale throat, rufous-orange breast and flanks, rufous tail showing below the perch, pinkish legs"
+    ],
     "build": "Small flycatcher, smaller than a sparrow, with a large rounded head, big dark eye and short neck; perches upright and still under the canopy and sallies out after insects. Bill short, flat and broad-based, much shorter than the head. Legs short and thin. Wings long, the primaries projecting well beyond the tertials. Tail medium length, square-ended, rufous, without white.",
     "avoid": [
       "Do not paint a brown or grey-brown head; the head is clearly slate-grey, contrasting with the brown back.",
@@ -53,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong: Ferruginous Flycatcher Muscicapa ferruginea",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/047900",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project: Ferruginous Flycatcher",
+      "url": "https://singaporebirds.com/species/ferruginous-flycatcher/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project: FLY101, Identifying little brown jobs of the genus Muscicapa in Singapore",
+      "url": "https://singaporebirds.com/blog/fly101-identifying-little-brown-jobs-of-the-genus-muscicapa-in-singapore",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdForum Opus: Ferruginous Flycatcher (search excerpt)",
+      "url": "https://www.birdforum.net/opus/Ferruginous_Flycatcher",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

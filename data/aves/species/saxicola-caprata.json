@@ -15,7 +15,28 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "온통 검은 몸(수컷)",
+      "en": "all-black plumage (male)"
+    },
+    {
+      "ko": "날개덮깃의 흰 줄(수컷)",
+      "en": "white stripe on the wing coverts (male)"
+    },
+    {
+      "ko": "흰 허리(수컷)",
+      "en": "white rump (male)"
+    },
+    {
+      "ko": "흰 아랫배와 아래꼬리덮깃(수컷)",
+      "en": "white lower belly and vent (male)"
+    },
+    {
+      "ko": "적갈색 허리(암컷)",
+      "en": "rufous rump (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Pied Bush Chat (Saxicola caprata), adult male in spring: head, back, wings, breast and belly black with a faint gloss; a long white stripe on the inner wing coverts of the folded wing; rump and uppertail coverts pure white; vent and undertail coverts white; tail entirely black; bill black; eye dark; legs black.",
     "pose": "perched upright on the top of a low bush, side view, wings slightly drooped and tail flicked",
     "scene": "open grassy farmland edge with low shrubs on a Korean offshore island during spring migration in May, clear daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on a bush top with the wings slightly drooped: glossy black head, back, breast and wings, long white stripe on the inner wing coverts, white rump and uppertail coverts, white lower belly and vent, all-black tail, short thin black bill, black legs",
+      "adult female, side view perched upright: dull dark brown upperparts, rufous-brown underparts with faint darker streaks, rufous rump and uppertail coverts, dark brown wings without white, dark brown tail, thin dark bill"
+    ],
     "build": "A small, compact chat about the size of a sparrow, similar in size and shape to Stejneger's Stonechat: round head, short neck and an upright stance. Bill short, thin, straight and black, much shorter than the head. Legs slender, black, of medium length. Wings fairly short; at rest the wingtips reach only a short way down the tail. Tail short-medium and square-ended, often flicked together with the wings. Perches conspicuously upright on bush tops, tall weeds and fence posts, dropping to the ground for insects; in flight the white rump and white wing stripe flash against the otherwise black plumage.",
     "avoid": [
       "Do not give the male an orange breast, a white neck patch or white underparts; those belong to Stejneger's Stonechat (Saxicola stejnegeri).",
@@ -48,11 +72,32 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Wikipedia – Pied bush chat (Rasmussen & Anderton 2005, Birds of South Asia 인용)",
+      "url": "https://en.wikipedia.org/wiki/Pied_bush_chat",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Pied Bush Chat in China (Craig Brelsford, 사진 설명)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/pied-bush-chat/",
+      "used": "수컷 날개의 흰 줄"
+    },
+    {
+      "title": "eBird – Pied Bushchat",
+      "url": "https://ebird.org/species/piebus1",
+      "used": "흰 아래꼬리·흰 날개 무늬·암컷 적갈색 허리(검색 결과 요약으로 확인)"
+    },
+    {
+      "title": "BirdForum Opus – Pied Bush Chat",
+      "url": "https://birdforum.net/opus/Pied_Bush_Chat",
+      "used": "수컷 흰 허리(검색 결과 요약으로 확인)"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": null,

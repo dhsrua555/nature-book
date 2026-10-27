@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 세로줄 있는 올리브갈색 윗면",
+      "en": "greyish- to olive-brown upperparts streaked dark"
+    },
+    {
+      "ko": "담황색 기 도는 가슴",
+      "en": "buff-washed breast"
+    },
+    {
+      "ko": "가슴·옆구리의 짙은 세로줄",
+      "en": "breast and flanks heavily streaked dark"
+    },
+    {
+      "ko": "흰 바깥 꼬리깃",
+      "en": "white outer tail feathers"
+    },
+    {
+      "ko": "분홍빛 다리",
+      "en": "pinkish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Meadow Pipit (Anthus pratensis), adult in winter (sexes alike), a vagrant in Korean farmland: upperparts olive-brown with dark streaks on the crown and mantle, the rump plain and unstreaked; face rather plain with a faint pale supercilium, a pale eye-ring and a thin dark malar stripe; wings brown with two narrow pale wing bars and pale-fringed tertials; underparts whitish with a buff wash on the breast and flanks, the breast densely marked with fine dark streaks that continue as thinner streaks along the flanks; outer tail feathers white. Bill thin and dark with a pale base to the lower mandible; eye dark; legs pinkish.",
     "pose": "walking among short grass, side view",
     "scene": "stubble fields and grassy dykes in Korean farmland in winter (December–February), low winter sun; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view walking in short grass, body horizontal: greyish- to olive-brown upperparts streaked dark, buff-washed breast, breast and flanks heavily streaked dark, whitish belly, thin pointed bill, pinkish legs",
+      "adult in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, dark-streaked olive-brown upperparts, dark tail with white outer feathers"
+    ],
     "build": "Small, slim pipit about the size of a sparrow but slimmer, with a rather small head, thin bill and horizontal posture; walks and runs in short grass. Bill thin and straight, about half the length of the head. Legs medium length, pinkish, with a long, gently curved hind claw. At rest the tertials almost cover the primaries (short primary projection). Tail medium length, slightly notched, dark with white outer edges.",
     "avoid": [
       "Do not paint a brick-red throat or a streaked rump — those belong to Red-throated Pipit; Meadow Pipit's rump is plain.",
@@ -52,10 +76,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Anthus pratensis (Meadow Pipit) – Birds of Europe 3.1, Naturalis",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130821&epi=207",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Meadow pipit – Wikipedia (Description cites Snow & Perrins, BWP 1998; HBW vol. 9)",
+      "url": "https://en.wikipedia.org/wiki/Meadow_pipit",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Meadow Pipit – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/meadow-pipit",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Meadow Pipit – BTO BirdFacts",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/meadow-pipit",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "전라북도 어청도, 전라남도 가거도, 평안북도 등지에 찾아오는 미조이다. 산림과 덤불, 공원에서 지낸다. 국외에서는 중국 화남과 윈난 등지에 분포한다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 둘레·뺨의 큰 흰 타원 무늬",
+      "en": "large pure white oval patch around the eye and over the cheek"
+    },
+    {
+      "ko": "검은빛 이마 띠·눈앞·턱",
+      "en": "blackish frontal band, lores and chin"
+    },
+    {
+      "ko": "붉은 홍채",
+      "en": "red iris"
+    },
+    {
+      "ko": "옅은 잿빛 몸",
+      "en": "pale grey body"
+    },
+    {
+      "ko": "길고 깊게 갈라진 꼬리",
+      "en": "long, deeply forked tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Ashy Drongo (Dicrurus leucophaeus), adult of the pale migratory race leucogenys, as seen on Korean offshore islands during spring and autumn migration: whole body pale ash-grey with a faint bluish tone; a broad white patch covering the lores, the area around the eye and the ear-coverts, contrasting with the grey crown; upperparts and wing-coverts pale grey, flight feathers a little darker grey; underparts pale grey becoming whitish on the lower belly and undertail coverts; long grey tail. Bill black, rather stout, with a slightly hooked tip; iris deep red; legs and feet blackish.",
     "pose": "perched upright on an open branch, side view",
     "scene": "woodland edge and thickets on a Korean offshore island such as Eocheongdo; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (race leucogenis), side view perched upright on an open bare twig: slim, pale grey drongo, blackish frontal band, lores and chin, large pure white oval patch around the eye and over the cheek, red iris, stout black bill with a slightly hooked tip, long deeply forked grey tail, short dark legs",
+      "adult (race leucogenis), front three-quarter view perched upright: large white oval face patch around the red eye, blackish lores and chin, pale grey throat and breast becoming paler on the belly, long deeply forked grey tail hanging below the perch"
+    ],
     "build": "Slim, long-tailed drongo, about the length of a Brown-eared Bulbul but slimmer, the tail making up nearly half the total length. Sits very upright on exposed bare twigs and sallies out after flying insects. Rounded head with no crest or hair plumes. Bill black, a little shorter than the head, stout at the base with a slightly hooked tip and bristles at the gape. Legs short, blackish. Wings fairly long and pointed; the long tail extends far beyond the wingtips at rest. Tail long and deeply forked, the outer feathers splaying slightly outward at the tips.",
     "avoid": [
       "Do not paint it glossy black like Black Drongo (Dicrurus macrocercus) or Hair-crested Drongo; this bird is pale ash-grey all over.",
@@ -59,11 +83,37 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong – Ashy Drongo 灰卷尾",
+      "url": "https://avifauna.hkbws.org.hk/species/0250/032700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Ashy Drongo ID",
+      "url": "https://www.shanghaibirding.com/ashy-drongo-id/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Ashy drongo (Rasmussen & Anderton 2005 인용)",
+      "url": "https://en.wikipedia.org/wiki/Ashy_drongo",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project – Ashy Drongo",
+      "url": "https://singaporebirds.com/species/ashy-drongo",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdForum Opus – Ashy Drongo (검색 발췌)",
+      "url": "https://www.birdforum.net/opus/Ashy_Drongo",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
     "원문의 수컷 생김새(금속광택 녹색 몸, 자줏빛 남색 가슴 깃, 이마의 털 모양 관모)는 바람까마귀 원문과 같아 다른 종을 설명한 것으로 보이고, 암컷만 어두운 회색으로 적혀 암수 설명이 서로 맞지 않으므로 생김새·암수 차이를 TODO 로 둠",
-    "원문의 수치는 날개 길이(수컷 16.8cm, 암컷 13.4cm)뿐이라 몸길이는 TODO"
+    "원문의 수치는 날개 길이(수컷 16.8cm, 암컷 13.4cm)뿐이라 몸길이는 TODO",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV1",

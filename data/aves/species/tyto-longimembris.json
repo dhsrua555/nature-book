@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "어두운 테 두른 엷은 하트형 얼굴판",
+      "en": "pale heart-shaped facial disc with a dark rim"
+    },
+    {
+      "ko": "검은 눈",
+      "en": "dark eyes"
+    },
+    {
+      "ko": "황갈색 무늬와 흰 점 있는 짙은 갈색 윗면",
+      "en": "dark brown upperparts with golden-buff markings and pale speckles"
+    },
+    {
+      "ko": "담황색 가슴과 흰빛 배",
+      "en": "buff breast and whitish belly"
+    },
+    {
+      "ko": "아주 긴 다리",
+      "en": "very long legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Eastern Grass Owl (Tyto longimembris), adult: heart-shaped facial disc whitish to pale buff, framed by a thin dark rim; small black eyes; crown, nape, back and wing coverts dark brown, finely spotted pale, with golden-buff showing through in patches; flight feathers barred dark; underparts pale buff to whitish with sparse small dark spots; long legs with pale feathered tarsi. Bill pale.",
     "pose": "standing upright on a flattened tussock in tall grass, front-side view with the facial disc turned towards the viewer",
     "scene": "Tall dry grassland and reedbed on a Korean river floodplain at dusk in autumn; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, standing upright on a flattened grass tussock, three-quarter front view: pale heart-shaped facial disc with a dark rim, dark eyes, pale bill, dark brown crown, back and wing coverts with golden-buff markings and pale speckles, buff breast with little streaking, whitish belly, very long legs",
+      "adult, standing in tall grass, side view: large rounded head without ear tufts, pale heart-shaped facial disc with a dark rim, dark brown upperparts with golden-buff markings and pale speckles, buff underparts, very long pale legs"
+    ],
     "build": "Medium-sized owl with a large rounded head without ear tufts, its body about the size of a pigeon's; long legs; long wings that at rest extend clearly beyond the short tail. In flight the long legs and feet project beyond the tail tip; the upperwing is dark brown with golden-buff bases to the primaries, and the pale underwing has a dark patch at the carpal joint and dark-barred wingtips. Hunts by quartering low over tall grass at dusk; roosts and nests on the ground.",
     "avoid": [
       "Do not paint yellow or orange eyes or short ear tufts (Short-eared Owl, Asio flammeus).",
@@ -53,10 +77,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Eastern Grass Owl – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0190/026600",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Eastern Grass Owl – BirdForum Opus",
+      "url": "https://www.birdforum.net/opus/Eastern_Grass_Owl",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Eastern Grass Owl – HBW Alive / Internet Bird Collection",
+      "url": "https://hbw.com/ibc/species/eastern-grass-owl-tyto-longimembris",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Eastern Grass Owl sighting report – Zoo's Print",
+      "url": "https://zoosprint.org/index.php/zp/article/download/7617/6873/7370",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

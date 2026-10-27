@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "멱에만 있는 주황빛 붉은 무늬(수컷 여름깃)",
+      "en": "orange-red patch confined to the throat (breeding male)"
+    },
+    {
+      "ko": "잿빛 얼굴과 목 옆(수컷)",
+      "en": "grey face and sides of the neck (male)"
+    },
+    {
+      "ko": "온통 검은 부리",
+      "en": "all-dark bill"
+    },
+    {
+      "ko": "멱 아래의 잿빛 가슴띠",
+      "en": "grey breast band below the throat"
+    },
+    {
+      "ko": "꼬리보다 검은 위꼬리덮깃",
+      "en": "jet-black uppertail coverts, as dark as or darker than the tail"
+    },
+    {
+      "ko": "기부 양옆이 흰 검은 꼬리",
+      "en": "blackish tail with large white patches at the sides of the base"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Taiga Flycatcher (Ficedula albicilla), adult male on spring passage (May): crown, nape and back plain grey-brown; face and sides of the neck grey; a narrow whitish eye-ring; a small, sharply defined orange-red patch on the chin and throat, bordered below by a grey breast band; rest of the underparts off-white with a buffy-grey wash on the flanks; wings plain brown; uppertail coverts black; tail black with large white patches at the sides of its base; bill entirely black; dark eye; blackish legs.",
     "pose": "perched on a low bare twig with its tail cocked up, showing the white tail sides, about to sally after an insect",
     "scene": "Korean woodland edge with shrubs and fresh young leaves during spring migration in May, soft morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view perched on a low twig with the tail cocked: plain grey-brown crown and back, grey face and sides of the neck, small orange-red patch confined to the chin and throat, grey breast band, off-white belly, all-dark bill, jet-black uppertail coverts, blackish tail with large white patches at the sides of its base",
+      "adult female or non-breeding, side view perched with the tail cocked: grey-brown upperparts, whitish throat with no orange, buffish-grey breast, off-white belly, all-dark bill, jet-black uppertail coverts darker than the tail, blackish tail with white sides at the base"
+    ],
     "build": "Small flycatcher, slightly smaller than a sparrow, with a rounded head, short neck, plump body and fairly long tail. Bill short, thin and entirely black, much shorter than the head. Legs short, blackish. Wings fairly short and plain, without wing bars. Habitually cocks the tail up and flicks it, often with the wings drooped, flashing the white bases of the outer tail feathers against the black tail and uppertail coverts.",
     "avoid": [
       "Do not spread the orange onto the breast like a robin — that is Red-breasted Flycatcher (Ficedula parva); here the orange is confined to the throat.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Red-throated Flycatcher 紅喉姬鶲",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bird Count India – Identifying Red-breasted, Taiga and Kashmir Flycatcher (Menon & Viswanathan 2020)",
+      "url": "https://birdcount.in/identifying-flycatchers/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Taiga flycatcher",
+      "url": "https://en.wikipedia.org/wiki/Taiga_flycatcher",
+      "used": "얼굴색·암컷 모습(보조 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P4",

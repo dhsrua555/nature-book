@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노르스름한 큰 부리와 목주머니",
+      "en": "huge yellowish bill with a yellow gular pouch"
+    },
+    {
+      "ko": "분홍빛 도는 흰 몸",
+      "en": "white plumage, often tinged pink"
+    },
+    {
+      "ko": "검은 첫째날개깃",
+      "en": "black primaries"
+    },
+    {
+      "ko": "살빛 분홍 다리",
+      "en": "pinkish flesh-coloured legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Great White Pelican (Pelecanus onocrotalus), adult outside the breeding season, on a Korean coastal lagoon: body and wing coverts white, sometimes faintly tinged pink; a short shaggy crest on the nape; at rest the black primaries and blackish secondaries show as a dark edge along the folded wing; bare facial skin around the eye pinkish-yellow, the feathered forehead ending in a point at the bill base; bill very long, bluish-grey with pinkish edges and a reddish hooked nail at the tip; pouch yellow; legs and feet pink.",
     "pose": "swimming on open water with the neck upright, side view",
     "scene": "large coastal lagoon with reed-fringed edges in Korea in late autumn (November), calm water and soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing on a lakeshore: huge waterbird with a long neck held in an S-curve, enormous long straight bill with a small hooked tip and a large yellowish pouch below, white plumage tinged pink, black primaries showing along the rear of the folded wing, short pinkish flesh-coloured legs with webbed feet",
+      "adult, in flight seen squarely from below: head drawn back with the bill resting on the neck, very long broad wings spread straight out to the sides to their full span, white body and underwing coverts contrasting with black flight feathers, short white tail, pinkish feet tucked under the tail"
+    ],
     "build": "A huge waterbird, swan-sized or larger, with a heavy body, short legs and a long neck held in an S-curve when resting; swims high on the water. Bill straight and enormous, far longer than the head, with a small hooked nail at the tip and a large expandable pouch below. Legs short and stout, pink, all four toes fully webbed. In flight the head is drawn back and the bill rests on the neck; wings very long and broad, and from below the black primaries and secondaries contrast strongly with the white underwing coverts. Tail short and rounded.",
     "avoid": [
       "Do not paint grey legs or a silvery-grey bird with curly nape feathers — that is Dalmatian Pelican.",
@@ -52,10 +72,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Great white pelican",
+      "url": "https://en.wikipedia.org/wiki/Great_white_pelican",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Naturalis Biodiversity Center, Birds of Europe – Pelecanus onocrotalus",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130366",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

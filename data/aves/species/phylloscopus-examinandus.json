@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "길고 흰 눈썹선",
+      "en": "long whitish supercilium"
+    },
+    {
+      "ko": "넓고 짙은 눈선",
+      "en": "broad dark eye-stripe"
+    },
+    {
+      "ko": "끝이 검은 옅은 아랫부리",
+      "en": "pale lower mandible with a dark tip"
+    },
+    {
+      "ko": "가는 흰 날개띠 한 줄",
+      "en": "single narrow whitish wing-bar"
+    },
+    {
+      "ko": "회녹색 윗면과 흰빛 아랫면",
+      "en": "greyish olive-green upperparts and whitish underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Kamchatka Leaf Warbler (Phylloscopus examinandus), adult, as seen in Korean woodland during passage in late May-June and September: upperparts olive-green, the crown the same colour; a long yellowish-white supercilium that stops short of the forehead; a dark eye-stripe running right to the bill base; one narrow whitish wing-bar on the greater coverts, sometimes a trace of a second; underparts whitish with a faint yellowish wash and greyish-olive flanks; bill fairly long and strong, dark above with a pale orange-yellow lower mandible tipped dark; dark eye; pale straw to pinkish-brown legs.",
     "pose": "gleaning among leaves in a tree canopy, side view",
     "scene": "Korean deciduous woodland in late May during spring passage, fresh green foliage; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view gleaning among leaves on a canopy twig: long head with a long whitish supercilium and a broad dark eye-stripe, greyish olive-green upperparts, a single narrow whitish wing-bar, whitish underparts, fairly strong bill with a pale lower mandible tipped dark",
+      "adult, side view perched upright on a bare twig: greyish olive-green upperparts, long whitish supercilium, broad dark eye-stripe, single narrow whitish wing-bar on the folded wing, dull whitish underparts with only a faint yellowish tinge, pale lower mandible with a dark tip"
+    ],
     "build": "Medium-sized leaf warbler, a little smaller than a sparrow but sturdier than most leaf warblers, with a fairly long, strong bill, a flat crown and long wings. Bill straight and pointed, shorter than the head. Legs pale straw to pinkish-brown. At rest the long primaries project well beyond the tertials, and the tail extends a little beyond the wingtips. Active in the canopy, gleaning among leaves. In looks it is practically identical to Arctic Warbler and is told mainly by its call and song.",
     "avoid": [
       "Do not paint two bold wing-bars and dark grey legs - that is Two-barred Warbler.",
@@ -52,10 +76,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "齋藤武馬 (2011) 生態図鑑 メボソムシクイ, Bird Research News 8(11)",
+      "url": "https://www.bird-research.jp/1_newsletter/dl/BRNewsVol8No11.pdf",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Kamtjatkasångare – Wikipedia (sv), cites Brazil 2018 'Birds of Japan' and HBW Alive",
+      "url": "https://sv.wikipedia.org/wiki/Kamtjatkasångare",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Arctic Warbler 極北柳鶯 – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/040100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Nordsångare – Wikipedia (sv), cites Svensson et al. 2009 'Fågelguiden', Brazil 2018",
+      "url": "https://sv.wikipedia.org/wiki/Nordsångare",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P4",

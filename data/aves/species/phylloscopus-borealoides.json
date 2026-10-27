@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "등보다 짙고 잿빛인 정수리",
+      "en": "darker, greyer crown than the mantle"
+    },
+    {
+      "ko": "긴 흰 눈썹선",
+      "en": "long, broad whitish supercilium"
+    },
+    {
+      "ko": "굵고 짙은 눈선",
+      "en": "broad, dark eye-stripe"
+    },
+    {
+      "ko": "옅은 분홍색 다리",
+      "en": "pale pinkish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Sakhalin Leaf Warbler (Phylloscopus borealoides), adult (sexes alike), as seen on Korean islands on spring passage: crown and nape greyish-olive, slightly greyer than the olive-brown mantle and wings; long whitish supercilium reaching well behind the eye and a dark eye-stripe; one or two thin pale wing-bars on the coverts; underparts whitish with a greyish-buff wash on the flanks. Bill with a dark upper mandible and a pale pinkish lower mandible; dark eye; legs and feet pale pink.",
     "pose": "foraging low in shaded undergrowth, pumping its tail downward",
     "scene": "shady broadleaf woodland on a Korean offshore island in May, fresh green leaves and dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view foraging low on a shaded branch, tail dipped downward: slim leaf warbler, darker, greyer crown than the brownish-olive mantle and wings, long broad whitish supercilium, broad dark eye-stripe, pale ear-coverts, whitish underparts, pale pinkish legs and feet",
+      "adult, front three-quarter view perched low on a mossy rock: long whitish supercilium, broad dark eye-stripe, pale ear-coverts, darker grey crown, whitish throat and breast, pale pinkish legs and feet"
+    ],
     "build": "Small leaf warbler, smaller than a tree sparrow, slim with a fairly long, slender bill and a medium-length tail. Legs pale pink and rather strong-looking for a leaf warbler. Forages low in shady undergrowth and on lower branches, frequently pumping its tail downward.",
     "avoid": [
       "Do not paint dark legs (Arctic Warbler, Hume's Leaf Warbler); the legs are pale pink.",
@@ -52,10 +72,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong: Sakhalin Leaf Warbler Phylloscopus borealoides",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/039800",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia: Sakhalin leaf warbler (description cites Park et al. 2021, Korean Journal of Ornithology)",
+      "url": "https://en.wikipedia.org/wiki/Sakhalin_leaf_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BirdingASIA 21: Sakhalin Leaf Warbler wintering record (search excerpt)",
+      "url": "https://fryap.com/blog/wp-content/uploads/2026/01/Sakhalin_Leaf_Warbler-BirdingAsia21.pdf",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5",

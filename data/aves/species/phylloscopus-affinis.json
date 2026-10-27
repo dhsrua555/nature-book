@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "길고 샛노란 눈썹선",
+      "en": "long, bright yellow supercilium"
+    },
+    {
+      "ko": "주황빛 아랫부리",
+      "en": "orange-yellow lower mandible"
+    },
+    {
+      "ko": "정수리 줄 없는 고른 녹갈색 윗면",
+      "en": "uniform greenish-brown crown and upperparts, no crown stripe"
+    },
+    {
+      "ko": "날개띠 없는 날개",
+      "en": "plain wings without wing-bars"
+    },
+    {
+      "ko": "샛노란 아랫면",
+      "en": "bright yellow underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Tickell's Leaf Warbler (Phylloscopus affinis), adult, as seen in Korea on spring migration: crown and upperparts dark olive-green with a slight brownish tone, no crown stripe; long, bright yellow supercilium from the bill base to the rear of the ear-coverts; dark olive eye-stripe; cheeks yellowish-olive; wings and tail darker olive-brown with green edges and no wing-bars; underparts bright lemon-yellow from chin to undertail, slightly olive on the flanks. Bill fine, the upper mandible dark and the lower mandible orange-yellow; dark eye; legs pale orange-brown.",
     "pose": "foraging low in a leafy shrub, side view",
     "scene": "shrubs and young trees on a Korean offshore island during spring migration in May; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched in a leafy shrub: long bright yellow supercilium, dark eye-stripe, uniform greenish-brown crown and upperparts with no crown stripe, plain wings with no wing-bars, bright lemon-yellow underparts from chin to undertail, fine bill with a blackish upper and orange lower mandible, pinkish-brown legs",
+      "adult, three-quarter front view perched on a twig: bright yellow supercilium and face, dark eye-stripe, yellow chin, throat and breast, yellowish belly, uniform greenish-brown upperparts, orange lower mandible"
+    ],
     "build": "Small leaf warbler, smaller than a sparrow, slim with a rounded head and no crest. Bill fine and straight, shorter than the head. Legs slender, pale orange-brown. At rest the primary projection is short and the wingtips end well short of the tail tip. Tail medium length, square-ended. Forages low in bushes and scrub.",
     "avoid": [
       "Do not add wing-bars; they mark Yellow-browed and Arctic warblers.",
@@ -54,10 +78,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Shanghai Birding – Tickell's Leaf Warbler (Craig Brelsford)",
+      "url": "https://www.shanghaibirding.com/tag/tickells-leaf-warbler/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Sichuan Birding Resource – Leaf warblers in Sichuan: Tickell's Leaf Warbler",
+      "url": "https://sichuanbirding.cloudaccess.net/sichuan-birding-resource/warblers-sichuan.html?start=15",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV1",

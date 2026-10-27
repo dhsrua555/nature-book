@@ -15,7 +15,20 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "밝은 노란 눈썹선",
+      "en": "bright yellow supercilium"
+    },
+    {
+      "ko": "초록 윗면",
+      "en": "green upperparts"
+    },
+    {
+      "ko": "흰 배와 갈리는 노란 멱·윗가슴",
+      "en": "bright yellow throat and upper breast against a white belly"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +39,10 @@
     "subject": "Wood Warbler (Phylloscopus sibilatrix), adult in spring: bright moss-green upperparts from crown to tail; a long, bright lemon-yellow supercilium and a dark green eye-stripe; cheeks, chin, throat and upper breast bright lemon-yellow, cut off sharply from the pure white lower breast, belly and undertail coverts; wing and tail feathers dark with bright yellow-green edges, the tertials blackish with neat pale yellowish-green fringes; bill brownish with a pale pinkish-yellow base to the lower mandible; dark eye; pale yellowish-brown legs.",
     "pose": "perched on a branch in the lower canopy, side view, wings slightly drooped",
     "scene": "deciduous broadleaf woodland on a Korean offshore island in May, fresh green leaves and dappled sunlight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, spring, side view perched on a branch in the lower canopy: slim, fairly large leaf warbler with long wings and a fairly short tail, green upperparts, bright yellow supercilium, bright yellow throat and upper breast sharply set off from the silvery-white belly and undertail, fine pointed bill, wings slightly drooped",
+      "adult, front view perched: green crown, bright yellow supercilium and cheeks, bright yellow throat and upper breast cut off from the clean silvery-white lower breast and belly, green wings at the sides"
+    ],
     "build": "A fairly large leaf warbler, smaller than a sparrow but noticeably larger and longer-winged than a Yellow-browed Warbler; slim and elongated, with a short tail. Bill fine and straight, shorter than the head. Legs slender, pale yellowish-brown. Very long wings: at rest the primary projection is about as long as the tertials, and the wingtips reach well down the short tail. Tail short, plain, slightly notched. Often droops and quivers its wings while singing.",
     "avoid": [
       "Do not paint yellow on the belly; the yellow stops on the upper breast and the belly is pure white.",
@@ -52,10 +68,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Wood warbler",
+      "url": "https://en.wikipedia.org/wiki/Wood_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "The Wildlife Trusts – Warblers (Wood warbler)",
+      "url": "https://www.wildlifetrusts.org/wildlife-explorer/birds/warblers/wood-warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "RSPB – Wood Warbler",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/wood-warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BTO BirdFacts – Wood Warbler",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/wood-warbler",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

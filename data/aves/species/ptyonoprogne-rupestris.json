@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "무늬 없는 잿빛 갈색 윗면",
+      "en": "plain ash-brown upperparts"
+    },
+    {
+      "ko": "가슴띠 없는 연한 아랫면",
+      "en": "pale underparts with no breast band"
+    },
+    {
+      "ko": "검은빛 아래꼬리덮깃",
+      "en": "blackish undertail coverts"
+    },
+    {
+      "ko": "검은빛 날개아랫덮깃",
+      "en": "blackish underwing coverts"
+    },
+    {
+      "ko": "짧은 사각 꼬리의 흰 점",
+      "en": "short, square tail with white spots near the tip"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Eurasian Crag Martin (Ptyonoprogne rupestris), adult (sexes alike, plumage similar year-round), as seen on spring passage in Korea: upperparts plain dull grey-brown from crown to rump, with no gloss and no white rump, the wings and tail slightly darker brown; chin and throat pale buffy-white finely speckled with dark grey-brown; breast and belly dull pale buff-brown, darkening to smoky brown on the flanks, vent and undertail coverts; no breast band; short, almost square dark brown tail with a row of small oval white spots on the inner webs of most tail feathers, visible only when the tail is spread; tiny black bill; dark brown eye; very short dull brownish legs.",
     "pose": "perched on a rock ledge of a sea cliff, side view, wings folded",
     "scene": "rocky sea cliff on a Korean offshore island in spring, grey rock with sparse grass and the sea below in clear daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched on a rock ledge, wings folded: stocky body, large rounded head, small black bill, plain ash-brown upperparts, pale buffy-brown underparts with no breast band, blackish undertail coverts, short square tail, brownish-pink legs",
+      "adult, in flight seen squarely from below: broad-based pointed wings spread straight out to the sides to their full span, slightly angled at the wrist, blackish underwing coverts, paler flight feathers, pale breast with no band, blackish undertail coverts, short square tail fanned to show white spots, feet against the belly"
+    ],
     "build": "A stocky, broad-winged martin, about sparrow length but bulkier than a Barn Swallow and without tail streamers. Large rounded head merging into the body with almost no neck; tiny flat bill with a wide gape. Wings long and fairly broad, reaching about the tail tip or slightly beyond at rest. Tail short and nearly square, only very slightly notched. Legs very short, so it sits low on rock ledges. Flight rather slow, with long glides close to cliff faces; from below, the dark brown underwing coverts contrast with paler grey-brown flight feathers, and the spread tail shows a band of white spots.",
     "avoid": [
       "Do not paint a dark breast band across white underparts; that is Sand Martin (Riparia riparia). Crag Martin is dusky buff-brown below with no band.",
@@ -52,10 +76,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia: Eurasian crag martin (cites Rasmussen & Anderton 2005, Birds of South Asia)",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_crag_martin",
+      "used": "동정 포인트·도해 모습 (잿빛 갈색 윗면, 연한 아랫면, 검은빛 날개아랫덮깃·아래꼬리덮깃, 짧은 사각 꼬리의 흰 점, 작은 검은 부리, 갈색빛 분홍 다리, 갈색 가슴띠 없음)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
   ],
   "occurrence": {
     "code": "PV2",

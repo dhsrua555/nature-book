@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노란 앞정수리",
+      "en": "yellow forecrown patch"
+    },
+    {
+      "ko": "노란 정수리를 두른 굵은 검은 줄(여름깃)",
+      "en": "bold black stripes bordering the yellow crown (breeding)"
+    },
+    {
+      "ko": "검은 줄이 흐려진 머리(겨울깃)",
+      "en": "duller head with little black (winter)"
+    },
+    {
+      "ko": "어두운 부리",
+      "en": "dark bill, upper mandible darker"
+    },
+    {
+      "ko": "무늬 없는 회색 가슴",
+      "en": "plain, unstreaked grey breast"
+    },
+    {
+      "ko": "흰 날개띠 두 줄",
+      "en": "two white wing-bars"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Golden-crowned Sparrow (Zonotrichia atricapilla), adult in spring (breeding) plumage, a vagrant in Korea in April: a broad black cap covering the sides of the crown, with a golden-yellow patch on the forecrown that fades to pale grey on the rear crown; face, throat and breast plain grey; belly whitish; flanks warm buff-brown; mantle brown with dark streaks; wings brown with two white wing bars; tail long and plain brown. Bill dusky grey above, paler below; eye dark; legs pinkish.",
     "pose": "foraging on the ground beside a thicket, side view",
     "scene": "thicket edge and grassy field margin in Korea in early spring (April), fresh green buds, soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view foraging on the ground: yellow forecrown bordered by bold black crown stripes, the crown turning pale grey at the rear, plain grey face and unstreaked grey breast, buffier flanks, brown back with broad dark streaks, two white wing-bars, long plain brown tail, dark bill, pale pinkish-brown legs",
+      "winter plumage, side view perched on a low twig: brown crown finely streaked with only a dull yellowish forecrown and little black, plain greyish-brown face and breast, brown back with dark streaks, two white wing-bars, long plain brown tail, dark grey bill"
+    ],
     "build": "A large, long-tailed American sparrow, clearly larger than a House Sparrow, plump with a rounded crown; feeds on the ground near cover with an upright stance. Bill conical, rather small, shorter than the head. Legs pinkish, medium length. The long tail extends well beyond the wingtips; tail plain brown with no white.",
     "avoid": [
       "Do not paint white crown stripes or a white supercilium — that is White-crowned Sparrow.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia — Golden-crowned sparrow (Rising 1996; Peterson 2010 인용)",
+      "url": "https://en.wikipedia.org/wiki/Golden-crowned_sparrow",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Seattle Audubon BirdWeb — Golden-crowned Sparrow",
+      "url": "https://www.birdweb.org/birdweb/bird/golden-crowned_sparrow",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds — Golden-crowned Sparrow",
+      "url": "https://www.audubon.org/field-guide/bird/golden-crowned-sparrow",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

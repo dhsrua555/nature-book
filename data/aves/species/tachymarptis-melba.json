@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 멱",
+      "en": "white throat"
+    },
+    {
+      "ko": "흰 멱과 흰 배를 가르는 갈색 띠",
+      "en": "brown breast band separating the white throat from the white belly"
+    },
+    {
+      "ko": "어두운 갈색 아래꼬리덮깃",
+      "en": "dark brown undertail coverts"
+    },
+    {
+      "ko": "한결같은 갈색 윗면",
+      "en": "uniform brown upperparts"
+    },
+    {
+      "ko": "뒤로 젖힌 길고 좁은 날개",
+      "en": "long, narrow, swept-back wings"
+    },
+    {
+      "ko": "얕게 갈라진 짧은 꼬리",
+      "en": "short, shallowly forked tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Alpine Swift (Tachymarptis melba), adult in flight seen from below: upperparts uniform dull grey-brown; a white throat patch; a broad brown band across the breast; belly white; vent, undertail coverts and undertail dark brown; underwing dark brown; dark eye; tiny black bill.",
     "pose": "in flight seen from below, wings outstretched in a scythe shape, head, body and tail in one line",
     "scene": "Sea cliffs on a Korean offshore island in spring, swifts sweeping across a clear blue sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), in flight seen squarely from below: large cigar-shaped swift, head, body and tail in one line, long narrow wings spread to the sides to full span, swept back from the wrist, dark brown underwing, small white throat, brown breast band, oval white belly, dark brown undertail coverts, short shallowly forked tail, feet hidden",
+      "adult, in flight seen squarely from above: head, body and tail in one line, long narrow crescent-shaped wings spread out to the sides and swept back from the wrist, uniform brown upperparts and upperwing with darker wingtips, short shallowly forked tail"
+    ],
     "build": "Very large swift, much larger than Pacific Swift (Apus pacificus) and far bulkier than a Barn Swallow; cigar-shaped body, long, narrow, scythe-shaped wings and a short tail with a shallow fork. Tiny bill with a wide gape; tiny feathered feet, almost never seen. Flight powerful and fast, with slower, deeper wingbeats than smaller swifts and long glides; it never perches on wires or branches and only clings to cliffs.",
     "avoid": [
       "Do not paint a white rump; that marks Pacific Swift and House Swift.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Alpine swift – Wikipedia (Chantler 2000; Birds of the World 2023 인용)",
+      "url": "https://en.wikipedia.org/wiki/Alpine_swift",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Alpine Swift Identification Guide – BirdSpot",
+      "url": "https://www.birdspot.co.uk/rare-british-birds/alpine-swift",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Alpine Swift – eBird (Cornell Lab)",
+      "url": "https://ebird.org/species/alpswi1/",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

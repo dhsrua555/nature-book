@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "청회색 머리·뒷목",
+      "en": "blue-grey head and nape"
+    },
+    {
+      "ko": "밤갈색 등",
+      "en": "chestnut-brown back"
+    },
+    {
+      "ko": "옅은 회색 허리",
+      "en": "pale grey rump"
+    },
+    {
+      "ko": "검은 무늬 빽빽한 담황색 가슴·옆구리",
+      "en": "buff breast and flanks heavily marked with black streaks and spots"
+    },
+    {
+      "ko": "흰 날개 아랫면",
+      "en": "white underwing coverts"
+    },
+    {
+      "ko": "검은 꼬리",
+      "en": "black tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Fieldfare (Turdus pilaris), adult in winter (sexes similar): head and nape blue-grey with a faint whitish supercilium and dark lores; mantle and scapulars rich chestnut-brown; rump pale blue-grey; wings brown; tail blackish; throat and breast washed golden-buff and heavily marked with black arrowhead spots and streaks; flanks white with dense black chevrons; belly white; bill yellow with a dark tip; dark eye; dark brown legs.",
     "pose": "perched on a bare branch with berries, side view",
     "scene": "orchard edge and berry shrubs in Korea in winter, light snow on the ground; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a bare branch with berries: large robust thrush, blue-grey head and nape, yellow bill, chestnut-brown back, pale grey rump, buff breast and flanks heavily marked with black streaks and spots, whitish belly, long black tail",
+      "adult, in flight seen squarely from above: head, body and tail in one line, wings spread straight out to the sides to their full span, blue-grey head, chestnut-brown back, pale grey rump contrasting with the long black tail, brownish wings",
+      "adult, in flight seen squarely from below: wings spread straight out to the sides to their full span, white underwing coverts, buff breast with black spots, whitish belly, long black tail, yellow bill, feet tucked against the body"
+    ],
     "build": "A large, robust thrush, larger than a Dusky Thrush, with an upright stance and a long tail. Rounded head. Bill straight and stout, slightly shorter than the head. Legs medium, dark brown. Tail long, square, blackish, contrasting with the grey rump in flight. In flight the underwing coverts are white. Usually in flocks feeding on berries or open fields.",
     "avoid": [
       "Do not paint a brown head or rump; both are grey, contrasting with the chestnut back.",
@@ -52,10 +81,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Fieldfare (Witherby, Handbook of British Birds; Coward 인용)",
+      "url": "https://en.wikipedia.org/wiki/Fieldfare",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "British Garden Birds – Fieldfare",
+      "url": "https://www.garden-birds.co.uk/birds/fieldfare.htm",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BTO BirdFacts – Fieldfare",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/fieldfare",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Woodland Trust – Fieldfare",
+      "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/birds/fieldfare/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

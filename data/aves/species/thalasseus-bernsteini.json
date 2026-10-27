@@ -17,7 +17,20 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뒷머리 술이 있는 검은 정수리(여름깃)",
+      "en": "full black crown ending in a shaggy crest (breeding)"
+    },
+    {
+      "ko": "검은 끝에 흰 점이 있는 노란 부리",
+      "en": "yellow bill with a black tip ending in a small white point"
+    },
+    {
+      "ko": "아주 옅은 은회색 등과 날개",
+      "en": "very pale silvery-grey back and wings, paler than Greater Crested Tern"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +41,10 @@
     "subject": "Chinese Crested Tern (Thalasseus bernsteini), adult in breeding plumage, as seen at Korean west-coast island colonies in summer (June–July): full black cap from the bill base to the nape, ending in a short shaggy crest; rest of the head, neck and underparts white; mantle and upperwings very pale grey, almost whitish; outer primaries darker grey towards the tips; rump and tail white; bill orange-yellow with a broad black band near the end and a small pale yellow tip; dark eye; legs black.",
     "pose": "standing on bare rock at a breeding colony with the crest slightly raised, side view",
     "scene": "small rocky island off the Korean west coast in June, bare rock with sparse grass and grey-blue sea; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in breeding plumage, side view standing on bare rock with the crest slightly raised: full black crown from the bill base to the nape ending in a shaggy crest, white face and underparts, very pale silvery-grey back and folded wings, stout yellow bill with a black tip ending in a small white point, short legs",
+      "adult in breeding plumage, in flight seen squarely from above: head, body and tail in one line, long narrow wings spread straight out to the sides to their full span, the outer wing angled back from the wrist, very pale silvery-grey back and upperwing, black crown with a shaggy crest, yellow bill with a black tip"
+    ],
     "build": "Medium-large tern, slightly smaller and slimmer than Greater Crested Tern and much larger than Common Tern, with long, narrow, pointed wings and a forked tail. Shaggy crest at the rear of the black cap. Bill long, straight and fairly stout, about as long as the head, sharply pointed. Legs short and black. At rest the wingtips extend a little beyond the tail tip. Flight buoyant on long, angled wings, the bill pointing down when searching for fish.",
     "avoid": [
       "Do not paint a plain yellow bill without a black band; that is Greater Crested Tern (Thalasseus bergii), which also has a darker grey back and a white forehead band.",
@@ -54,10 +70,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Chinese crested tern – Wikipedia (en), cites del Hoyo et al. 1992 HBW vol. 3 and Tuck 1978 'A Field Guide to the Seabirds of Britain and the World'",
+      "url": "https://en.wikipedia.org/wiki/Chinese_crested_tern",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "中华凤头燕鸥 – Wikipedia (zh), cites 劉小如等 2012《台灣鳥類誌》, 馬敬能等 2000《中國鳥類野外手冊》",
+      "url": "https://zh.wikipedia.org/wiki/中华凤头燕鸥",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "뿔제비갈매기 – 위키백과 (ko)",
+      "url": "https://ko.wikipedia.org/wiki/뿔제비갈매기",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "SV1",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뒷목까지 내려오는 검은 머리(여름깃)",
+      "en": "black cap reaching far down the nape (breeding)"
+    },
+    {
+      "ko": "검붉거나 붉은 가는 부리(여름깃)",
+      "en": "slender bill, blackish-red to largely red (breeding)"
+    },
+    {
+      "ko": "아주 옅은 회색 윗면",
+      "en": "very pale grey upperparts"
+    },
+    {
+      "ko": "어두운 바깥 첫째날개깃",
+      "en": "darker outermost primaries"
+    },
+    {
+      "ko": "분홍빛 도는 흰 아랫면(여름깃)",
+      "en": "white underparts with a rosy flush (breeding)"
+    },
+    {
+      "ko": "아주 긴 꼬리깃",
+      "en": "very long, deeply forked tail streamers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Roseate Tern (Sterna dougallii), adult in breeding plumage, as a summer vagrant: glossy black cap from the bill base to the nape; upperparts and wings very pale silvery grey, paler than in other Sterna terns, the outermost two or three primaries darker grey and forming a narrow dark edge to the folded wingtip; rump and tail white, the outer tail feathers forming very long white streamers; underparts white with a delicate pink flush on the breast and belly. Bill long, slender and black, with at most a trace of dark red at the very base; dark eye; legs bright orange-red.",
     "pose": "standing on a rock with the long tail streamers clear of the wingtips, side view",
     "scene": "Rocky offshore islet off Korea's south coast in mid-summer, bright sun over a blue sea; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view standing on a rock: black cap reaching far down the nape, slender bill red with black mainly on the upper mandible, very pale grey back and wings with darker outermost primaries along the folded wingtip, white underparts with a rosy flush, very long white tail streamers, short orange-red legs",
+      "adult breeding, in flight seen squarely from above: head, body and tail in one line, inner wings straight out to the sides and outer wings angled back at the wrist, very pale grey upperwings and mantle with darker outermost primaries, black cap, very long deeply forked white tail"
+    ],
     "build": "Slender, medium-small tern, smaller and slimmer than Black-headed Gull. Bill slender, about as long as the head, straight and fine-tipped. Legs short, red. Wings relatively short for a tern; at rest the tail streamers project well beyond the wingtips. In flight the upperwing looks almost white except for the darker outermost primaries, and the underwing is white with no dark trailing edge to the primaries; wingbeats rapid, stiff and shallow; plunge-dives for fish.",
     "avoid": [
       "Do not paint grey underparts or a dark trailing edge under the primaries (Common Tern); the Roseate is white below with a pink tinge.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Roseate Tern",
+      "url": "https://avifauna.hkbws.org.hk/species/0120/018500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Roseate tern (Gochfeld & Burger 1996, HBW 3 인용)",
+      "url": "https://en.wikipedia.org/wiki/Roseate_tern",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "RSPB — Roseate tern",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/roseate-tern",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

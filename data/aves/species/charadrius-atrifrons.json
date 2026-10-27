@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 무늬 없는 검은 이마·가면(수컷 여름깃)",
+      "en": "solid black forehead and mask with no white on the forehead (breeding male)"
+    },
+    {
+      "ko": "시베리아왕눈물떼새보다 길고 가는 부리",
+      "en": "bill longer and more slender than Siberian Sand Plover's"
+    },
+    {
+      "ko": "주황빛 가슴띠(여름깃)",
+      "en": "orange breast band (breeding)"
+    },
+    {
+      "ko": "비교적 긴 다리",
+      "en": "relatively long legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Tibetan Sand Plover (Charadrius atrifrons), adult male in breeding plumage, as on spring passage in May: forehead, lores and a broad mask through the eye to the ear-coverts solid black, with no white on the forehead; crown and nape grey-brown washed rufous-orange; upperparts plain grey-brown; chin and throat white, meeting the breast band in a clean edge with no black line between them; a broad, bright rufous-orange band across the breast, reaching onto the sides of the neck; rest of the underparts white. Bill short, stout and black; dark eye; legs dark grey.",
     "pose": "standing upright on wet sand between short runs, side view",
     "scene": "Korean west-coast tidal flat and sandy beach in May during spring migration, bright clear morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view standing on wet sand: black forehead and broad black mask from the bill through the eye to the ear coverts with no white on the forehead, orange-rufous crown and nape, white throat, broad orange-rufous breast band, plain grey-brown upperparts, white belly, long, slender black bill, relatively long dark grey legs",
+      "adult male breeding, front view standing upright: solid black forehead and mask meeting above the bill, white chin and throat, broad orange-rufous band across the breast, white belly, relatively long dark legs"
+    ],
     "build": "Small, plump, short-necked plover, clearly larger than Kentish Plover and much smaller than a pigeon; large rounded head and upright stance, running in short bursts and stopping abruptly. Bill black, shorter than the head, straight and blunt-tipped. Legs dark grey, medium length. No white collar around the hindneck. At rest the wingtips reach about the tail tip. In flight a narrow white wing-bar, white sides to the rump and tail, and a darker grey-brown centre to the tail.",
     "avoid": [
       "Do not paint a white forehead split by a black vertical line, or a thin black line above the breast band; those mark Siberian Sand Plover (Charadrius mongolus), the regular sand plover in Korea.",
@@ -52,10 +72,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "New Zealand Birds Online – Tibetan sand plover (Miskelly & Melville 2024)",
+      "url": "https://www.nzbirdsonline.org.nz/species/tibetan-sand-plover",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Singapore – Sand plovers in Singapore: two species or three?",
+      "url": "https://singaporebirds.com/blog/sand-plovers-in-singapore-two-species-or-three",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

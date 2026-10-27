@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "청록빛 파란 윗면과 더 옅은 정수리(수컷)",
+      "en": "turquoise-blue upperparts with a paler crown (male)"
+    },
+    {
+      "ko": "검지 않은 청록빛 얼굴·멱·가슴(수컷)",
+      "en": "turquoise-blue, not black, face, throat and breast (male)"
+    },
+    {
+      "ko": "흰 배와 아랫꼬리덮깃",
+      "en": "white belly and undertail coverts"
+    },
+    {
+      "ko": "꼬리 기부 양옆의 흰 무늬",
+      "en": "white patches at the sides of the tail base"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Zappey's Flycatcher (Cyanoptila cumatilis), adult male, as seen on Korean islands during spring migration: crown bright turquoise-blue; upperparts, wings and tail deep blue with a slight turquoise tone; face, chin, throat and upper breast deep blue, a little darker and duller than the crown but never black, continuous with the blue of the head; lower breast and belly clean white, sharply divided from the blue; white bases to the outer tail feathers. Bill black; dark eye; legs black.",
     "pose": "perched upright on a branch in the forest mid-storey, side view",
     "scene": "mixed broadleaf forest on a Korean offshore island during spring migration in May; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, perched upright on a branch, side view: turquoise-blue upperparts, wings and tail with a paler crown, turquoise-blue face, chin, throat and breast, never black, white belly and undertail coverts, white patches at the sides of the tail base, black bill and legs",
+      "adult female, perched upright on a branch, side view: greyish-brown upperparts with rufous-brown wings, rump and tail, narrow pale eye-ring, white throat patch, olive-grey to brownish breast, whitish belly and vent, all-black bill"
+    ],
     "build": "Fairly large flycatcher, larger than a sparrow, the same size and shape as Blue-and-white Flycatcher. Upright posture; round head with no crest, the crown feathers lie flat. Bill black, broad-based and flat, shorter than the head. Legs short, black. Long wings with a long primary projection. Tail medium length, square-ended. Sits still on mid-level branches and sallies out for insects.",
     "avoid": [
       "Do not paint a black face, throat and breast; that is Blue-and-white Flycatcher (Cyanoptila cyanomelana).",
@@ -52,10 +72,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Zappey's Flycatcher Cyanoptila cumatilis – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/048700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Zappey's Flycatcher – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/zappeys-flycatcher",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Zappey's flycatcher – Wikipedia (MacKinnon & Phillipps 2000 인용)",
+      "url": "https://en.wikipedia.org/wiki/Zappey%27s_flycatcher",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

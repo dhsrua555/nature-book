@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 뒤로 이어지는 흰 이마(수컷)",
+      "en": "white forehead extending behind the eye as a short supercilium (male)"
+    },
+    {
+      "ko": "부리 기부에서 이어지는 검은 눈선",
+      "en": "broad black eye-stripe from the bill base"
+    },
+    {
+      "ko": "검은빛 없는 잿빛 뒷머리·뒷목",
+      "en": "grey hindcrown and nape with no black"
+    },
+    {
+      "ko": "갈색빛 허리",
+      "en": "brownish rump"
+    },
+    {
+      "ko": "가슴·옆구리가 칙칙한 흰 아랫면",
+      "en": "whitish underparts with a dingy brownish wash on the breast and flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Swinhoe's Minivet (Pericrocotus cantonensis), adult male: forehead and forecrown white, the white reaching back to just over the eye; lores and a stripe through the eye black; rear crown, nape, mantle and back brownish-grey; rump and uppertail coverts paler buffy-brown; wings blackish with a pale buffy-white patch at the base of the flight feathers visible on the folded wing; underparts whitish, with a buff-grey wash on the breast sides and flanks; tail long, black in the centre with white outer feathers. Bill and legs black.",
     "pose": "perched upright on an outer twig in a treetop, side view",
     "scene": "Canopy of a broadleaf tree on a Korean offshore island in May, during spring migration, clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched upright on a treetop twig, wingtips lowered to show the rump: slim, long-tailed minivet, white forehead extending behind the eye, broad black eye-stripe from the bill base, grey hindcrown, nape and mantle with no black, brownish lower back and rump, whitish underparts washed dingy brown on the breast and flanks",
+      "adult female, side view perched upright in a treetop: like the male but drabber, pale grey upperparts tinged brown, less white on the forehead, the pale supercilium behind the eye reduced or absent, dull brownish rump, underparts washed very pale buff, long tail"
+    ],
     "build": "Slim, long-tailed songbird, about the size of Ashy Minivet: a little larger than a sparrow in body but with a much longer tail; small, flat-topped head and upright posture in treetops. Bill short, black, slightly hooked. Legs short, black. Tail long and graduated. In flight a pale bar runs across the flight feathers. Moves restlessly through the canopy in small flocks. Females are duller, with a greyer, less white forehead.",
     "avoid": [
       "Do not paint a black crown and nape, a pure grey back and rump and clean white underparts; those mark Ashy Minivet (Pericrocotus divaricatus).",
@@ -52,10 +76,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong: Swinhoe's Minivet Pericrocotus cantonensis",
+      "url": "https://avifauna.hkbws.org.hk/species/0230/031100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding (C. Brelsford): Swinhoe's Minivet",
+      "url": "https://www.shanghaibirding.com/birds-of-china/swinhoes-minivet/",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

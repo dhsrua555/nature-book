@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈 뒤로 넓어지는 흰 눈썹선",
+      "en": "whitish supercilium, broadest behind the eye"
+    },
+    {
+      "ko": "눈썹선 위의 가는 짙은 줄",
+      "en": "narrow dark line above the supercilium"
+    },
+    {
+      "ko": "끝이 검은 연한 아랫부리",
+      "en": "pale lower mandible with a dark tip"
+    },
+    {
+      "ko": "흰 멱과 담황색 옆구리",
+      "en": "white throat and buff flanks"
+    },
+    {
+      "ko": "적갈색 기 도는 윗면과 적갈색 허리",
+      "en": "warm rufous-tinged upperparts and rufous rump"
+    },
+    {
+      "ko": "짧은 첫째날개깃 돌출과 긴 둥근 꼬리",
+      "en": "short primary projection and long, rounded tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Paddyfield Warbler (Acrocephalus agricola), adult (sexes alike) in autumn: upperparts warm sandy-brown with a rufous tinge, brightest on the rump; a prominent whitish supercilium, broadest and most striking behind the eye, bordered above by a diffuse dark brown line along the side of the crown; dark brown eye-stripe; throat white; breast and belly whitish with warm buff flanks; wings and tail plain brown; short bill with dark upper mandible and pale pinkish lower mandible with a clear dark tip; dark eye; pinkish-brown legs.",
     "pose": "clinging to a reed stem with tail slightly cocked, side view",
     "scene": "reed and sedge marsh edge in Korea during autumn migration in September, reeds still green with buff seed heads; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view clinging to a reed stem with the tail slightly cocked: rounded head, whitish supercilium broadest behind the eye with a narrow dark line above it, short fine bill with a pale lower mandible tipped dark, warm rufous-tinged brown upperparts, rufous rump, white throat, buff flanks, pinkish legs",
+      "adult, side view perched on a twig, wings closed: short primary projection with the wingtips reaching only a little past the tail base, long rounded brown tail, warm brown back, prominent whitish supercilium, white throat, pale buff underparts"
+    ],
     "build": "A small reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler; compact, with a rounded head and a rather long, rounded tail that it often cocks. Bill short and fine for a reed warbler, shorter than the head. Legs medium, pinkish-brown. Wings short with a short primary projection; at rest the wingtips reach only a short way past the tail base. Tail longish, rounded, plain, often held raised.",
     "avoid": [
       "Do not paint a bold black stripe above the supercilium; that is Black-browed Reed Warbler (Acrocephalus bistrigiceps). Here the upper border is diffuse brown.",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Paddyfield Warbler",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/041000",
+      "used": "동정 포인트·도해 모습 (눈썹선과 위의 짙은 줄, 아랫부리 끝, 윗면 색, 짧은 날개깃 돌출)"
+    },
+    {
+      "title": "eBird: Paddyfield Warbler",
+      "url": "https://ebird.org/species/padwar1",
+      "used": "동정 포인트 (눈 뒤로 넓어지는 눈썹선, 끝이 검은 짧은 부리, 둥근 긴 꼬리)"
+    },
+    {
+      "title": "British Birds, Letters 110 (Paddyfield vs Blyth's Reed Warbler supercilium)",
+      "url": "https://www.britishbirds.co.uk/journal/article/letters-110",
+      "used": "동정 포인트 (눈썹선은 늘 눈 뒤에서 가장 넓음)"
+    },
+    {
+      "title": "Birds of Europe (Naturalis, Linnaeus NG): Acrocephalus agricola",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130892",
+      "used": "동정 포인트·도해 모습 (적갈색 허리, 흰 멱, 옆구리 색, 눈썹선 위 짙은 경계)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

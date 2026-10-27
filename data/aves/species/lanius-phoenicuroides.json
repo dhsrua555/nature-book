@@ -15,7 +15,32 @@
     "breed": "TODO"
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "적갈색 정수리",
+      "en": "rufous-brown crown"
+    },
+    {
+      "ko": "흰 눈썹선과 검은 가면(수컷)",
+      "en": "white supercilium above a black mask (male)"
+    },
+    {
+      "ko": "정수리보다 칙칙한 회갈색 등",
+      "en": "dull grey-brown mantle, duller than the rufous crown"
+    },
+    {
+      "ko": "첫째날개깃 기부의 흰 반점(수컷)",
+      "en": "white patch at the base of the primaries (male)"
+    },
+    {
+      "ko": "가슴의 잔 물결무늬(암컷)",
+      "en": "fine dark vermiculation on the breast (female, first winter)"
+    },
+    {
+      "ko": "적갈색 꼬리",
+      "en": "rufous-red uppertail coverts and tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Red-tailed Shrike (Lanius phoenicuroides), female-type bird (first-winter or adult female) in winter, as the bird that wintered in Korean farmland in January and February: crown and nape warm rufous-brown, brightest on the forehead; mantle, back and scapulars plain grey-brown; a narrow whitish supercilium above a dark brown mask from the eye to the ear-coverts, the lores paler; throat and cheeks white; breast and flanks creamy buff with fine dark crescent-shaped scaling on the breast sides and flanks; belly whitish; wings dark brown with pale buff fringes to the coverts and tertials; rump, uppertail coverts and tail bright rufous; bill dark grey and hooked, with a paler base to the lower mandible; iris dark; legs dark grey.",
     "pose": "perched upright on a bare shrub top, side view, scanning the ground below",
     "scene": "Korean farmland edge in mid-winter, dry grass, reed stems and bare shrubs in clear daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "first-winter or adult female in winter, side view perched upright on a bare shrub top: rufous-brown crown, pale supercilium, narrower blackish-brown mask, white throat, dull grey-brown mantle, whitish underparts with fine dark vermiculation on the breast and flanks, rufous-red uppertail coverts and tail, hooked bill",
+      "adult male, side view perched upright on a bush top: rufous-brown crown, clear white supercilium, black mask, white throat, dull grey-brown mantle, white patch at the base of the primaries, mainly whitish underparts, rufous-red uppertail coverts and tail, hooked bill"
+    ],
     "build": "A medium-sized shrike, about the size of a Brown Shrike: clearly longer than a sparrow, with a large head, thick neck and long tail. Bill strong, dark grey, shorter than the head, the upper mandible ending in a small hook. Legs fairly short, dark grey, with strong feet. Wings rather short; at rest the wingtips reach only just past the base of the tail. Tail long, narrow and rounded at the tip. Perches upright and conspicuously on bush tops, wires and posts, dropping to the ground for insects; flight low and undulating, swooping up to a new perch.",
     "avoid": [
       "Do not paint a uniformly rufous-brown back and tail; that is Brown Shrike (Lanius cristatus). Here a grey-brown mantle contrasts with the rufous crown and bright rufous tail.",
@@ -48,11 +76,27 @@
       "title": "IOC World Bird List v15.2",
       "url": "https://www.worldbirdnames.org/new/ioc-lists/master-list-2/",
       "used": "영문명"
+    },
+    {
+      "title": "Rotschwanzwürger – Wikipedia (de), cites Harris & Franklin 2000 'Shrikes & Bush-Shrikes' and Glutz von Blotzheim 'Handbuch der Vögel Mitteleuropas' 13/2",
+      "url": "https://de.wikipedia.org/wiki/Rotschwanzwürger",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Turkestantörnskata – Wikipedia (sv), cites Svensson et al. 2009 'Fågelguiden'",
+      "url": "https://sv.wikipedia.org/wiki/Turkestantörnskata",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Red-tailed shrike – Wikipedia (en), cites Worfolk 2000, Dutch Birding 22: 323–362",
+      "url": "https://en.wikipedia.org/wiki/Red-tailed_shrike",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
     "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
-    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다"
+    "[새와 생명의 터] 남한에서 사진·표본으로 확인된 기록을 모은 이 목록에 실리지 않은 종이라 국내 상태를 대조하지 못했다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": null,

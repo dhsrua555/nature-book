@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "길게 곧추선 검은 댕기",
+      "en": "long, erect black crest"
+    },
+    {
+      "ko": "검은 윗면의 흰색·밤색 날개 무늬",
+      "en": "black upperparts with white and chestnut patches on the wing"
+    },
+    {
+      "ko": "윗가슴의 흰 띠와 그 아래 검은 띠",
+      "en": "white upper-breast band bordered below by a black band"
+    },
+    {
+      "ko": "밤색 가로줄 있는 흰 배",
+      "en": "white belly barred chestnut"
+    },
+    {
+      "ko": "검은 날개아랫덮깃과 회색 날개깃",
+      "en": "black underwing coverts and greyish flight feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Black Baza (Aviceda leuphotes), adult: head, long erect crest, neck, upperparts and tail glossy black; white and chestnut patches on the scapulars and secondaries; a broad white band across the upper breast below the black throat, bordered below by a black band; lower breast and belly buff with broad chestnut bars; vent and undertail coverts black. Bill short, dark grey, with two small tooth-like notches on the upper mandible; legs short, grey.",
     "pose": "perched upright on an exposed branch, side view, the long thin black crest standing up from the back of the head",
     "scene": "broadleaf woodland edge on a Korean offshore island during spring migration; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a branch: large head with a long erect black crest, short hooked bill, black head, throat and upperparts, white and chestnut patches on the scapulars and secondaries, white upper-breast band bordered below by a black band, white belly with chestnut bars",
+      "adult, in flight seen squarely from below: broad wings spread straight out to the sides to their full span, black underwing coverts, greyish flight feathers with dark tips, black head and throat, white breast band edged black below, chestnut-barred white belly, dark tail, feet tucked under the tail"
+    ],
     "build": "Small, crow-like raptor, a little larger than a feral pigeon, stocky, with a large head topped by a long, thin, erect crest. Bill short and hooked, much shorter than the head. Legs short. In flight broad, rounded, paddle-shaped wings, black above with white patches on the inner wing; from below black coverts and greyish flight feathers with black tips. Flies with crow-like flapping and short glides. Tail medium length, square and black.",
     "avoid": [
       "Do not paint a short or missing crest; the black crest is long, thin and erect.",
@@ -53,10 +77,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Singapore Birds Project: Black Baza",
+      "url": "https://singaporebirds.com/species/black-baza",
+      "used": "동정 포인트·도해 모습 (흰 윗가슴과 그 아래 검은 띠, 배의 가로줄, 댕기, 둘째날개깃의 밤색·흰 무늬)"
+    },
+    {
+      "title": "Wikipedia: Black baza (cites Sivakumar & Prakash 2004, Forktail)",
+      "url": "https://en.wikipedia.org/wiki/Black_baza",
+      "used": "동정 포인트 (암수의 흰 날개 무늬와 배 띠 차이)"
+    },
+    {
+      "title": "Oiseaux-birds: Black Baza",
+      "url": "https://oiseaux-birds.com/card-black-baza.html",
+      "used": "도해 모습 (검은 날개아랫덮깃, 회색 날개깃, 검은 아래꼬리덮깃)"
+    },
+    {
+      "title": "NParks Biome (Singapore): Aviceda leuphotes",
+      "url": "https://biome.nparks.gov.sg/Help/SpeciesDetail/?sId=517",
+      "used": "도해 모습 (날 때 날개아랫면의 회색 부분)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

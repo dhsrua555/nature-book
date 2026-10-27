@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "이마·얼굴·가슴의 주황빛 붉은색",
+      "en": "orange-red forehead, face and breast"
+    },
+    {
+      "ko": "붉은 가슴을 두른 청회색 띠",
+      "en": "blue-grey border on the sides of the neck and breast"
+    },
+    {
+      "ko": "올리브갈색 윗면",
+      "en": "olive-brown upperparts"
+    },
+    {
+      "ko": "흰 배",
+      "en": "whitish belly"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "European Robin (Erithacus rubecula), adult (sexes alike, plumage similar year-round): forehead, face, throat and breast orange-red, bordered on the sides of the neck and breast by a band of blue-grey; crown, nape, back, wings and tail plain olive-brown; belly whitish; flanks buffish-brown; thin dark bill; large dark eye; slender brownish-pink legs.",
     "pose": "perched upright on a low branch, side view",
     "scene": "Korean woodland edge in winter with bare shrubs and leaf litter, soft low light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), perched upright on a low branch, side view: plump round body with a large head, orange-red forehead, face, throat and breast bordered by blue-grey on the sides of the neck and breast, plain olive-brown crown, back, wings and tail, whitish belly, thin dark bill, large dark eye, slender legs",
+      "adult, standing upright on the ground, three-quarter front view: orange-red face and breast framed by a blue-grey border, whitish belly with brownish flanks, olive-brown upperparts and tail, slender legs"
+    ],
     "build": "A small, plump, round-bodied chat, about sparrow size but rounder, with a large head, almost no visible neck and an upright stance on fairly long, slender legs. Bill thin, straight and short, much shorter than the head. Wings short, the tips reaching about the base of the tail. Tail medium, square, plain olive-brown, often flicked. Hops on the ground and bobs its body.",
     "avoid": [
       "Do not paint a rufous tail; the tail is olive-brown (Japanese Robin, Larvivora akahige, has a rufous tail).",
@@ -52,10 +72,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Robin Identification Guide – BirdSpot",
+      "url": "https://www.birdspot.co.uk/?p=21366",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "European Robin – Oiseaux.net",
+      "url": "https://oiseaux.net/birds/european.robin.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Eurasian Robin – BirdForum Opus",
+      "url": "https://birdforum.net/opus/Eurasian_Robin",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

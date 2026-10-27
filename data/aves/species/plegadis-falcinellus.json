@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "아래로 고르게 굽은 긴 부리",
+      "en": "long, evenly decurved bill"
+    },
+    {
+      "ko": "얼굴 맨살을 두른 엷은 청백색 선(여름깃)",
+      "en": "thin pale blue border to the dark bare facial skin (breeding)"
+    },
+    {
+      "ko": "짙은 적갈색 몸(여름깃)",
+      "en": "deep chestnut-maroon body (breeding)"
+    },
+    {
+      "ko": "녹색·자줏빛 광택의 날개",
+      "en": "wings glossed metallic green and purple"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Glossy Ibis (Plegadis falcinellus), adult in breeding plumage, as seen in spring: head, neck, breast, belly and upper back deep chestnut-maroon; wings, scapulars and tail dark with a strong metallic green and purple gloss; bare lores dark, bordered by thin pale blue-white lines running from the bill base above and below the eye. Bill long, decurved, olive-brown to dark horn; iris dark brown; legs and feet dark olive-brown.",
     "pose": "wading in the shallow water of a flooded rice field, side view, the long decurved bill shown in full",
     "scene": "flooded Korean rice paddies in spring, shallow water reflecting the sky, levees with fresh grass; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view wading in shallow water: slim dark ibis with a small head on a thin neck, deep chestnut-maroon head, neck, breast and belly, wings and scapulars glossed metallic green and purple, dark bare lores bordered by thin pale blue lines above and below, long, evenly decurved brownish bill, long dark legs",
+      "adult breeding, in flight seen squarely from below: neck outstretched with the long decurved bill, wings spread straight out to the sides to their full span, dark chestnut body, uniformly dark glossy wings, short tail, legs trailing with the feet projecting beyond the tail"
+    ],
     "build": "Medium-sized, slim, dark ibis, about the size of a Little Egret but with shorter legs, looking blackish at a distance. Small head on a thin neck. Bill one and a half to two times the head length, slender and curving downward evenly along its length. Legs fairly long and dark; the feet project beyond the tail in flight. In flight neck outstretched, rapid wingbeats alternating with glides, wings uniformly dark. Tail short and square.",
     "avoid": [
       "Do not paint a bald black head and white body (Black-headed Ibis); the whole bird is dark chestnut with green gloss.",
@@ -52,10 +72,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Glossy Ibis 彩鹮",
+      "url": "https://avifauna.hkbws.org.hk/species/0160/021700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Guide to North American Birds – Glossy Ibis",
+      "url": "https://www.audubon.org/field-guide/bird/glossy-ibis",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Europe 3.1 (Naturalis) – Glossy Ibis",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130392",
+      "used": "도해 모습(나는 모습·광택)"
+    },
+    {
+      "title": "Wikipedia – Glossy ibis",
+      "url": "https://en.wikipedia.org/wiki/Glossy_ibis",
+      "used": "얼굴 선·몸 색(보조 확인)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

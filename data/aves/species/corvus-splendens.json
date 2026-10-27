@@ -15,7 +15,20 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 이마·정수리·멱",
+      "en": "black forehead, crown, face and throat"
+    },
+    {
+      "ko": "뒷목·목옆·윗등·가슴의 회색 목도리",
+      "en": "grey collar over the nape, neck, upper mantle and breast"
+    },
+    {
+      "ko": "나머지는 검은 등·날개·배",
+      "en": "rest of the plumage black: back, wings and belly"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +39,10 @@
     "subject": "House Crow (Corvus splendens), adult (sexes alike): forehead, crown, face and throat glossy black, forming a black cap and bib; a broad grey collar, pale grey to dusky grey, covering the nape, the sides of the neck, the upper mantle and the breast; the rest of the back, wings, tail and belly black with a slight purple-green gloss. Black, fairly stout bill with an arched upper ridge; dark brown eye; black legs and feet.",
     "pose": "perched on a shoreline rock, side view, alert",
     "scene": "Korean rocky seashore in spring with seaweed-covered rocks and a calm sea; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched on a shoreline rock, alert: slim, rather small crow, black forehead, crown, face and throat, grey collar over the nape, neck, upper mantle and breast, black back, wings, belly and tail, long, slightly arched black bill, black legs",
+      "adult, three-quarter front view standing on the ground: black cap and black throat framed by the grey collar, grey breast meeting the black belly, slim build, long slightly arched black bill, black legs"
+    ],
     "build": "Slim, medium-sized crow, noticeably smaller and lankier than the Carrion and Large-billed Crows and larger than the Daurian Jackdaw; fairly high-crowned head. Bill black, fairly large and stout, arched along the top. Legs black, fairly long. Tail medium, slightly rounded. In flight the wings are rather narrow with fingered tips. Bold and noisy, walking and hopping on the ground.",
     "avoid": [
       "Do not paint a white collar and white belly; that pied pattern belongs to the Daurian Jackdaw (Coloeus dauuricus).",
@@ -52,10 +68,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong: House Crow 家鴉",
+      "url": "https://avifauna.hkbws.org.hk/species/0260/033800",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "NParks Biodiversity of Singapore: House Crow",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/crows-starlings-mynas/house-crow/",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Singapore Birds Project: House Crow",
+      "url": "https://singaporebirds.com/species/house-crow/",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "적갈색 눈썹선(수컷)",
+      "en": "rufous supercilium (male)"
+    },
+    {
+      "ko": "적갈색 멱·윗가슴(수컷)",
+      "en": "rufous throat, sides of the neck and chest (male)"
+    },
+    {
+      "ko": "무늬 없는 회색 윗면",
+      "en": "plain dull grey upperparts"
+    },
+    {
+      "ko": "흰빛 배와 회색 띤 옆구리",
+      "en": "off-white belly with greyish flanks"
+    },
+    {
+      "ko": "적갈색 꼬리 기부와 바깥꼬리깃",
+      "en": "orange-rufous tail base and outer tail feathers"
+    },
+    {
+      "ko": "적갈색 날개 아랫면",
+      "en": "rufous underwing"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Red-throated Thrush (Turdus ruficollis), adult male in spring, as seen on Korean islands in April and May: plain ash-grey-brown crown, nape, back, wings and rump with no rufous tones, spots or scaling; a brick-red supercilium, and brick-red chin, throat, foreneck and upper breast forming a solid unmarked bib that ends cleanly on the breast; lores dusky grey; rest of the underparts whitish with a light grey wash on the breast sides and flanks; tail grey-brown in the centre with rufous outer feathers; bill dark grey with a yellow base to the lower mandible; dark brown eye; pale brown legs.",
     "pose": "standing upright on short grass at a woodland edge, side view, breast pushed forward between short runs",
     "scene": "Korean offshore island during spring migration in April: short grass and leaf litter at the edge of budding broadleaf woodland; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view standing upright on short grass, breast pushed forward: plain dull grey crown, back and wings, rufous supercilium, front of the face, sides of the neck, throat and chest, off-white belly with greyish flanks, tail orange-rufous at the base and on the outer feathers, greyer towards the tip",
+      "adult female, side view standing upright: plain dull grey upperparts, paler and duller rufous supercilium, throat and chest, dark streaks on the throat, greyish feathers on the chest, greyish-white flanks with sparse dull streaks, orange-rufous tail base",
+      "adult male, in flight seen squarely from below: wings spread straight out to the sides to their full span, rufous underwing coverts, rufous throat and chest, off-white belly, spread tail with orange-rufous base and outer feathers, feet tucked under the belly"
+    ],
     "build": "Medium-sized thrush, about the size of a Dusky Thrush and a little smaller and plumper than a Brown-eared Bulbul, with a shorter tail; rounded head and an upright stance on the ground with the breast pushed forward. Bill straight, a little shorter than the head. Legs medium length, pale brown. At rest the wingtips cover only the base of the tail; no wing-bars and no rufous wing panel. Tail medium length, square-ended, with rufous sides that show when it is spread on take-off. Underwing coverts orange-rufous in flight.",
     "avoid": [
       "Do not paint rufous scaling or spots along the breast sides and flanks or a rufous wing panel; those are Naumann's Thrush (Turdus naumanni). This species has a solid red bib and plain wings.",
@@ -52,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS): Red-throated Thrush Turdus ruficollis",
+      "url": "https://avifauna.hkbws.org.hk/species/0390/047100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia: Red-throated thrush (cites Clement, Hathway & Wilczur 2000, Thrushes, Helm)",
+      "url": "https://en.wikipedia.org/wiki/Red-throated_thrush",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "eBird: Red-throated Thrush (species identification text)",
+      "url": "https://ebird.org/species/retthr1",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5, WV1",

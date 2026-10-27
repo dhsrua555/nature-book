@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "어두운 흑갈색 윗면",
+      "en": "dark blackish-brown upperparts"
+    },
+    {
+      "ko": "등보다 옅은 회갈색 허리",
+      "en": "paler grey-brown rump contrasting with the darker back"
+    },
+    {
+      "ko": "윗면보다 옅은 회갈색 아랫면",
+      "en": "underparts paler grey-brown than the upperparts"
+    },
+    {
+      "ko": "살짝 오목한 짧은 꼬리",
+      "en": "short, slightly notched tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Himalayan Swiftlet (Aerodramus brevirostris), adult, as seen in flight over Korean coasts on passage: upperparts plain dark grey-brown, with a slightly paler grey-brown band across the rump; underparts a little paler, dusky grey-brown, palest on the throat; wings blackish-brown; tail short and slightly notched; tiny black bill; dark eye.",
     "pose": "flying with wings outstretched, seen from below at a slight angle",
     "scene": "sky above a forested coastal headland in Korea in late spring (May), soft overcast light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, in flight seen squarely from below: small slim swiftlet, head, body and tail in one line, narrow crescent-shaped wings spread out to the sides to their full span and swept back at the wrist, dark underwing, dusky grey-brown underparts paler than the upperparts, tiny black bill, short slightly notched tail, feet tucked against the body",
+      "adult, in flight seen squarely from above: head, body and tail in one line, narrow crescent-shaped wings spread out to the sides to their full span and swept back at the wrist, dark blackish-brown wings, crown and back, paler grey-brown band across the rump, short slightly notched dark tail"
+    ],
     "build": "Small, slim swift, much smaller than Pacific Swift and about the size of House Swift, with long, narrow, curved wings and a short, slightly notched tail. Bill tiny with a wide gape. Flight fluttering and erratic with frequent glides, often in loose groups over ridges and coasts. Never perches on wires or branches.",
     "avoid": [
       "Do not paint a clean white rump band or a white throat; those suit House Swift (Apus nipalensis) or Pacific Swift (Apus pacificus).",
@@ -53,10 +73,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Himalayan Swiftlet",
+      "url": "https://avifauna.hkbws.org.hk/species/0030/004100",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Himalayan swiftlet",
+      "url": "https://en.wikipedia.org/wiki/Himalayan_swiftlet",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

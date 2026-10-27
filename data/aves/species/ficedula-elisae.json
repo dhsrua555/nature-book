@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈앞의 짧은 노란 줄과 노란 눈테(수컷)",
+      "en": "short yellow stripe over the lores and yellow eye-ring (male)"
+    },
+    {
+      "ko": "올리브녹색 윗면",
+      "en": "olive-green upperparts"
+    },
+    {
+      "ko": "날개덮깃 안쪽의 흰 무늬(수컷)",
+      "en": "broad white patch on the inner wing coverts (male)"
+    },
+    {
+      "ko": "노란 허리(수컷)",
+      "en": "yellow rump (male)"
+    },
+    {
+      "ko": "노란 아랫면",
+      "en": "yellow underparts, paler in the female"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Green-backed Flycatcher (Ficedula elisae), adult male in spring, a migrant on a Korean offshore island: crown, nape and back olive-green; a short yellow stripe from the bill to the eye and a yellow eye-ring, with no supercilium behind the eye; rump bright yellow; wings blackish with a white patch on the inner wing coverts; tail black; throat, breast and belly yellow, paler towards the undertail coverts, with no orange. Bill short and dark; eye dark; legs dark grey.",
     "pose": "perched upright on a twig in the mid-canopy, side view",
     "scene": "fresh spring foliage at a woodland edge on a Korean offshore island in May, soft morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, spring, side view perched upright on a twig: small compact flycatcher, olive-green crown, nape and back, short yellow stripe over the lores and a yellow eye-ring, blackish wings with a broad white patch on the inner wing coverts, yellow rump, dark tail, yellow throat, breast and belly, short dark bill",
+      "adult female, side view perched upright: plain olive head with a yellowish eye-ring, olive-green back, greenish-olive rump, olive-brown wings and tail, pale yellowish underparts"
+    ],
     "build": "Small, compact flycatcher, clearly smaller than a sparrow, with a rounded head and short neck; perches upright in the mid-canopy and makes short sallies. Bill short, flat and dark, much shorter than the head. Legs short and dark grey. Tail medium length, square, all black without white sides.",
     "avoid": [
       "Do not paint a black back or crown — that is male Narcissus Flycatcher; Green-backed has olive-green upperparts.",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Green-backed Flycatcher",
+      "url": "https://avifauna.hkbws.org.hk/species/0410/050000",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Singapore Birds Project – Green-backed Flycatcher",
+      "url": "https://singaporebirds.com/species/green-backed-flycatcher",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV2",

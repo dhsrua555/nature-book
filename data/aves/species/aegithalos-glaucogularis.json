@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 정수리 중앙선 양옆의 굵은 검은 줄",
+      "en": "broad black lateral crown stripes either side of a whitish central crown stripe"
+    },
+    {
+      "ko": "황갈색 이마와 눈앞",
+      "en": "cinnamon-buff forehead and lores"
+    },
+    {
+      "ko": "멱 가운데의 거무스름한 무늬",
+      "en": "dark sooty-grey patch in the centre of the throat"
+    },
+    {
+      "ko": "회색 등과 허리",
+      "en": "grey back and rump"
+    },
+    {
+      "ko": "분홍빛 도는 담황색 아랫면",
+      "en": "buffy underparts washed pink, strongest towards the vent"
+    },
+    {
+      "ko": "아주 긴 꼬리",
+      "en": "very long, narrow tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Silver-throated Bushtit (Aegithalos glaucogularis), adult (sexes alike, plumage similar year-round): a whitish to pale buff stripe along the centre of the crown, bordered on each side by a broad black band running from above the eye to the nape; a small warm buff patch between the bill and the eye; cheeks and sides of the neck pale greyish-white; a small dusky grey-black patch in the centre of the throat; back and rump grey; wings blackish with pale brownish edges to the tertials; breast and belly creamy white, the flanks and vent washed pinkish-buff; very long blackish tail with white outer edges; tiny stubby black bill; dark eye; pinkish-brown legs.",
     "pose": "clinging to a thin twig, side view, long tail held straight",
     "scene": "bare deciduous shrubs at a woodland edge on a Korean offshore island in late autumn, soft daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view clinging to a thin twig: broad black lateral crown stripes either side of a whitish central crown stripe, cinnamon-buff forehead and lores, dark sooty-grey throat patch, grey back and rump, blackish wings, buffy underparts washed pink towards the vent, very long narrow dark tail held straight, tiny stubby black bill",
+      "adult, three-quarter front view perched on a twig: round head with broad black crown bands and a whitish central stripe, cinnamon-buff lores, dark eye isolated in the pale face, dark sooty-grey patch in the centre of the throat, buffy breast and belly washed pinkish, grey upperparts, very long tail"
+    ],
     "build": "A tiny, round-bodied tit with a very long, narrow, graduated tail that is longer than the body, shaped exactly like the Long-tailed Tit of Korea. Body about the size of a Japanese White-eye's, the tail making the bird look much longer. Round head with no crest and almost no visible neck. Bill very short, stubby and triangular. Short pinkish-brown legs; clings to and hangs from thin twigs. Wings short and rounded, reaching only the base of the tail. In flight a small ball trailing a long thin tail; moves in small restless flocks.",
     "avoid": [
       "Do not paint an all-white head; this species has broad black bands along the sides of the crown.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Birds Korea blog – Identification of Silver-throated Bushtit and hybrids with Long-tailed Tit (Nial Moores, 2024)",
+      "url": "https://www.birdskoreablog.org/?p=29660",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding – Silver-throated Bushtit (Craig Brelsford, Photographic Field Guide to the Birds of China)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/silver-throated-bushtit/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia (독일어) – Silberkehl-Schwanzmeise (Birds of the World 인용)",
+      "url": "https://de.wikipedia.org/wiki/Silberkehl-Schwanzmeise",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

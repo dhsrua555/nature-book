@@ -18,7 +18,28 @@
     "note": "봄과 가을에 우리나라를 지나간다."
   },
   "summary": "봄과 가을에 우리나라를 지나가는 드문 나그네새이다. 기온 변화와 여러 개발로 서식지가 사라지고 식용 등을 목적으로 대량으로 포획되면서 개체 수가 심각하게 줄고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 얼굴과 멱(수컷)",
+      "en": "black face and throat (male)"
+    },
+    {
+      "ko": "밤색 정수리·뒷목·등(수컷)",
+      "en": "chestnut crown, nape and back (male)"
+    },
+    {
+      "ko": "넓은 담황색 눈썹선(암컷)",
+      "en": "broad buff supercilium (female)"
+    },
+    {
+      "ko": "날개 굽이 근처의 넓은 흰 띠(수컷)",
+      "en": "broad white band on the median coverts near the bend of the wing (male)"
+    },
+    {
+      "ko": "노란 아랫면과 밤색 가슴띠(수컷)",
+      "en": "yellow underparts with a chestnut breast band (male)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -29,7 +50,10 @@
     "subject": "Yellow-breasted Bunting (Emberiza aureola), adult male in breeding plumage (May passage): forehead, face, chin and throat black; crown, nape, mantle and back deep chestnut, the mantle faintly streaked dark; a large white patch on the shoulder (lesser and median coverts) and a narrow white bar below it on the folded wing; rump chestnut; underparts bright yellow, crossed by a narrow chestnut band on the upper breast; flanks streaked chestnut-brown; undertail coverts pale yellowish-white; tail dark brown with white outer feathers; bill pinkish-grey with a darker culmen; dark eye; pinkish-brown legs.",
     "pose": "perched upright on a tall grass stem at a field edge, side view",
     "scene": "Korean island farmland edge with tall grasses, reeds and shrubs during spring migration in May, bright morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in breeding plumage (spring passage), perched upright on a tall grass stem, side view: black forehead, face and throat, deep chestnut crown, nape and back, broad white band on the median coverts near the bend of the wing, bright yellow underparts crossed by a chestnut breast band, conical bill with a pinkish lower mandible",
+      "adult female, perched on a weed stem, side view: strong head pattern with a broad buff supercilium from the bill to the hind neck, dark crown and eye-stripe, streaked grey-brown back, yellow-washed underparts, conical pinkish bill"
+    ],
     "build": "Medium-sized bunting, slightly larger than a sparrow, compact, with a rounded head without a crest and a medium-length tail with white outer feathers. Bill conical and pointed, shorter than the head. Legs pinkish-brown. Perches upright on reed stems, tall grasses and shrubs and feeds on the ground among weeds; in flight the white shoulder patch flashes.",
     "avoid": [
       "Do not paint a yellow throat, yellow supercilium or black crest — that is Yellow-throated Bunting (Emberiza elegans).",
@@ -60,9 +84,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Yellow-breasted Bunting – Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/056700",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Yellow-breasted Bunting – eBird (Cornell Lab)",
+      "url": "https://ebird.org/species/yebbun",
+      "used": "동정 포인트·도해 모습"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "P4",
     "bs": "0",

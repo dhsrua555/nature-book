@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "넓은 흰 눈테",
+      "en": "broad white eye-ring"
+    },
+    {
+      "ko": "검은 눈앞과 노란 이마",
+      "en": "dark lores and a clean yellow band on the forehead"
+    },
+    {
+      "ko": "넓고 샛노란 멱",
+      "en": "bright, extensive yellow throat"
+    },
+    {
+      "ko": "밝은 연두색 윗면",
+      "en": "bright yellowish-green upperparts"
+    },
+    {
+      "ko": "갈색 기 없는 흰빛 아랫면",
+      "en": "off-white underparts with no brown or chestnut on the flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Swinhoe's White-eye (Zosterops simplex), adult, sexes alike, as seen on Korean islands during migration in May: crown, nape, back, wings and tail bright yellowish lime-green, the forehead a little yellower; a conspicuous ring of white feathers around the eye; throat and upper breast bright lemon-yellow; breast sides and flanks pale grey, the belly whitish, with no brown or chestnut on the flanks; undertail coverts yellow; bill fine, dark grey with a paler base to the lower mandible; dark brown eye; grey legs.",
     "pose": "hanging acrobatically from a leafy twig while probing a blossom, side view",
     "scene": "Korean offshore island in May: fresh green broadleaf canopy with small white blossoms; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view hanging from a leafy twig: bright yellowish-green crown, back, wings and tail, a clean yellow band on the forehead, broad white eye-ring with dark lores running under its front edge, bright extensive lemon-yellow throat, off-white breast and belly with pale grey flanks and no brown wash, lemon-yellow vent, fine pointed dark bill",
+      "adult, three-quarter front view perched on a twig: yellow forehead band, dark lores, broad white eye-ring, bright yellow throat reaching onto the upper breast, clean off-white underparts with pale grey flanks"
+    ],
     "build": "Tiny, slim songbird, clearly smaller than a sparrow and slightly smaller and slimmer than the familiar Warbling White-eye; rounded head, short neck. Bill fine, sharply pointed and very slightly decurved, a little shorter than the head. Legs short, grey. At rest the wingtips reach a short way down the tail. Tail short-medium, square. Restless and acrobatic, foraging in small flocks among leaves and blossoms in the canopy.",
     "avoid": [
       "Do not paint chestnut patches on the flanks; that is Chestnut-flanked White-eye (Zosterops erythropleurus).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Swinhoe's White-eye 暗綠繡眼鳥",
+      "url": "https://avifauna.hkbws.org.hk/species/0360/043400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds Korea blog – Another New Identification Challenge: Warbling and Swinhoe's White-eyes (Nial Moores, 2019)",
+      "url": "https://www.birdskoreablog.org/?p=22350",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "P5",

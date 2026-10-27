@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "부리 기부를 두른 흰 깃",
+      "en": "white feathering around the base of the bill"
+    },
+    {
+      "ko": "크고 짙은 회색 부리",
+      "en": "heavy dark grey bill"
+    },
+    {
+      "ko": "눈 아래의 흰 무늬",
+      "en": "white patch below the eye"
+    },
+    {
+      "ko": "온몸 짙은 흑갈색",
+      "en": "almost entirely dark sooty-brown plumage"
+    },
+    {
+      "ko": "흰 위·아래꼬리덮깃(일부 개체)",
+      "en": "white uppertail and undertail coverts in some birds"
+    },
+    {
+      "ko": "검은 발",
+      "en": "black feet"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Black-footed Albatross (Phoebastria nigripes), adult: plumage almost entirely dark sooty brown; a white band encircling the base of the bill and a white crescent below and behind the eye; older birds show white on the uppertail coverts and undertail coverts; underwing dark brown. Bill dark grey-brown to blackish; legs and feet black.",
     "pose": "gliding low over the waves on stiff wings, side view",
     "scene": "open sea far off the Korean coast with long ocean swell; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view sitting on the sea: large, heavy-bodied albatross with almost entirely dark sooty-brown plumage, white feathering around the base of the bill, white patch below the eye, heavy dark grey bill",
+      "adult in flight seen squarely from below: head, body and tail in one line, very long narrow wings spread straight out to the sides to their full span, dark sooty-brown body and wings, white around the bill base, white undertail coverts in some birds, short dark tail, black feet held under the tail",
+      "adult in flight seen squarely from above: head, body and tail in one line, very long narrow dark brown wings spread straight out to the sides to their full span, dark sooty-brown back, white uppertail coverts in some birds, white around the bill base"
+    ],
     "build": "Large albatross with a wingspan far greater than any gull's, similar in size to Laysan Albatross; heavy-bodied with a thick neck and large head. Bill stout, about as long as the head, deep and hooked at the tip. Legs short with large black webbed feet. Wings very long and narrow, held straight and stiff in gliding flight low over the sea with few wingbeats. Tail short, rounded and dark.",
     "avoid": [
       "Do not give it a big pink bill — the dark juvenile Short-tailed Albatross (Phoebastria albatrus) has one; the Black-footed Albatross has a dark bill and a white ring around its base.",
@@ -52,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Black-footed albatross - Wikipedia (Description, cites Floyd 2008; Dunn & Alderfer 2006; Peterson 1961)",
+      "url": "https://en.wikipedia.org/wiki/Black-footed_albatross",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Black-footed Albatross - Audubon Field Guide",
+      "url": "https://www.audubon.org/field-guide/bird/black-footed-albatross",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "クロアシアホウドリ - Wikipedia (ja)",
+      "url": "https://ja.wikipedia.org/wiki/クロアシアホウドリ",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "NEW24",

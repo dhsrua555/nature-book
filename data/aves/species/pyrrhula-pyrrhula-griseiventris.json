@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 모자",
+      "en": "black cap"
+    },
+    {
+      "ko": "연분홍빛 뺨과 멱(수컷)",
+      "en": "pale pinkish-red cheeks and throat (male)"
+    },
+    {
+      "ko": "청회색 등",
+      "en": "blue-grey back"
+    },
+    {
+      "ko": "붉은 기 없는 회색 가슴·배(수컷)",
+      "en": "grey breast and belly without red (male)"
+    },
+    {
+      "ko": "흰 허리",
+      "en": "white rump"
+    },
+    {
+      "ko": "분홍빛 없는 회갈색 몸(암컷)",
+      "en": "no pink; greyish-buff cheeks and underparts (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Eurasian Bullfinch (Pyrrhula pyrrhula griseiventris), adult male in winter: glossy black cap from the forehead to the crown, black around the bill base and on the chin; cheeks, ear-coverts and throat rose-red; nape, mantle and back blue-grey; breast, flanks and belly grey like the back, with no red; rump and undertail coverts white; wings glossy black with a broad pale grey-white bar on the greater coverts; tail glossy black. Bill short, thick, rounded and black; dark eye; legs dark brown. The female has the same black cap but a grey-brown body and no red.",
     "pose": "perched in a bare tree nibbling buds, side view",
     "scene": "Korean mountain woodland in winter, bare deciduous branches with swelling buds and a little snow; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in winter, side view perched in a bare tree nibbling buds, wings slightly drooped: black cap, pale pinkish-red cheeks and throat, blue-grey back, grey breast, flanks and belly without red, white rump, black wings and tail, short thick bill",
+      "adult female, side view perched: black cap, no pink on the face, greyish-buff cheeks and underparts, greyish back, white rump, black wings and tail, short thick bill"
+    ],
     "build": "Plump, bull-necked finch, a little larger than a sparrow, with a big rounded head and short neck. Bill black, very short, thick and stubby, rounded on the culmen, much shorter than the head. Legs short, dark brown. Wings fairly short; tail medium length, black, square to slightly notched. Moves slowly, nibbling buds and seeds in trees and shrubs. In flight a square white rump contrasts with the black tail.",
     "avoid": [
       "Do not paint red or pink on the breast and belly; this race is grey below, red only on the cheeks and throat.",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "ウソ – Wikipedia (ja), cites 真木ら 2014『日本の野鳥650』, 叶内・安部 2006『山溪ハンディ図鑑7 日本の野鳥』ほか",
+      "url": "https://ja.wikipedia.org/wiki/ウソ",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "アカウソ – Wikipedia (ja), cites 中川 2010『ひと目でわかる野鳥』",
+      "url": "https://ja.wikipedia.org/wiki/アカウソ",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Eurasian bullfinch – Wikipedia (en), subspecies list per IOC World Bird List 11.1",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_bullfinch",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bullfinch – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/bullfinch",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

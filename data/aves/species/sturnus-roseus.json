@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뒷머리의 긴 댕기(수컷)",
+      "en": "long shaggy crest on the rear crown (male)"
+    },
+    {
+      "ko": "광택 있는 검은 머리·목·윗가슴",
+      "en": "glossy black head, neck and upper breast"
+    },
+    {
+      "ko": "기부가 검은 연한 부리",
+      "en": "pale pinkish bill with a black base"
+    },
+    {
+      "ko": "분홍빛 등·허리·아랫면",
+      "en": "pink back, rump and underparts"
+    },
+    {
+      "ko": "검은 날개와 꼬리",
+      "en": "black wings and tail"
+    },
+    {
+      "ko": "분홍빛 다리",
+      "en": "pink legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Rosy Starling (Sturnus roseus), adult male in breeding plumage, as seen in Korea in late spring: head, shaggy crest, neck, throat and upper breast glossy black with a purple sheen; mantle, back, rump, lower breast, belly and flanks pale rose-pink; wings and tail black glossed green and purple; undertail coverts black. Bill pink, darker at the base of the lower mandible; dark eye; legs pinkish-orange.",
     "pose": "perched on a bush top among other starlings, side view",
     "scene": "Korean coastal farmland and grassy field edges in late spring, short green crops; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view perched on a bush top: glossy purplish-black head, neck and upper breast with a long shaggy crest on the rear crown, stout pointed pinkish bill with a black base, pale rose-pink back, rump, lower breast, belly and flanks, black wings and tail glossed green, dark undertail coverts, pink legs",
+      "juvenile, side view standing on the ground: plain pale sandy-brown bird with paler underparts, dark-centred undertail coverts, short largely yellow bill, pale lores, pale rump, pale legs"
+    ],
     "build": "Stocky starling, about the size of a White-cheeked Starling but plumper, smaller than a Brown-eared Bulbul. Short, square tail and long, pointed wings. The adult male has a long, shaggy crest of loose feathers on the rear crown and nape, often raised. Bill straight, rather stout and pointed, shorter than the head. Legs medium length, pinkish. Walks briskly on the ground like other starlings; in flight triangular-winged, the pink back contrasting with the black wings.",
     "avoid": [
       "Do not paint it all pink; the head, upper breast, wings and tail are glossy black.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Wikipedia – Rosy starling (Svensson et al. 2023, Collins Bird Guide; HBW vol. 14 인용)",
+      "url": "https://en.wikipedia.org/wiki/Rosy_starling",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Birds of Europe 3.1 (Naturalis) – Rose-coloured Starling",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=131001",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS) – Rosy Starling 粉紅椋鳥",
+      "url": "https://avifauna.hkbws.org.hk/species/0380/045900",
+      "used": "어린새 모습·검은 아래꼬리덮깃"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

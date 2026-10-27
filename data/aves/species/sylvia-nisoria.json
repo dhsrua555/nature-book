@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노란 홍채(어른)",
+      "en": "yellow iris (adult)"
+    },
+    {
+      "ko": "회색 윗면",
+      "en": "grey upperparts"
+    },
+    {
+      "ko": "흰 날개띠 두 줄과 흰 셋째날개깃 가장자리",
+      "en": "double whitish wing-bar and broad whitish tertial fringes"
+    },
+    {
+      "ko": "아랫면의 촘촘한 회색 가로무늬(수컷)",
+      "en": "heavily grey-barred underparts (male)"
+    },
+    {
+      "ko": "바깥꼬리깃의 흰 가장자리와 끝",
+      "en": "white edges and tips to the outer tail feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Barred Warbler (Sylvia nisoria), adult male in spring: upperparts grey with a faint brownish tinge; crown and face grey; bright yellow iris; two narrow whitish wing-bars on the median and greater coverts and white-fringed tertials; underparts whitish with dense dark grey crescent-shaped bars across the breast, flanks and undertail coverts, giving a scaly look; tail grey with white tips to the outer feathers; bill dark grey with a paler base to the lower mandible; grey legs.",
     "pose": "perched in a thorny shrub, side view, tail slightly raised",
     "scene": "thorny scrub and shrubs on a Korean offshore island in May, bright daylight; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male in spring, side view perched in a thorny shrub, tail slightly raised: large heavy warbler, deep yellow iris, dark grey bill with a pale base below, grey upperparts, double whitish wing-bar and broad whitish tertial fringes, whitish underparts heavily barred grey, long tail with white edges and tips to the outer feathers, dark grey legs",
+      "adult female, side view perched in a shrub: same heavy shape, browner upperparts, paler yellow iris, smaller white wing and tail tips, whiter underparts with only light barring"
+    ],
     "build": "A large, heavy warbler, clearly bigger and longer than a sparrow, with a long tail and a rather shrike-like look. Head fairly flat; bill stout and straight, shorter than the head. Legs sturdy, grey. Tail long, slightly rounded, often raised or spread to show the white corners. Moves heavily and deliberately through thorny bushes.",
     "avoid": [
       "Do not paint a dark iris on the adult; it is bright yellow (dark only in first-year birds).",
@@ -52,10 +76,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Oiseaux-birds: Barred Warbler",
+      "url": "https://www.oiseaux-birds.com/card-barred-warbler.html",
+      "used": "동정 포인트·도해 모습 (짙은 노란 눈, 회색 윗면, 두 줄 날개띠와 흰 셋째날개깃 가장자리, 아랫면 가로무늬, 바깥꼬리깃 흰 가장자리·끝, 부리·다리 색, 암컷 차이)"
+    },
+    {
+      "title": "Wikipedia: Barred warbler (cites Svensson et al. 2009, Collins Bird Guide)",
+      "url": "https://en.wikipedia.org/wiki/Barred_warbler",
+      "used": "교차 확인 (어른 노란 홍채, 회색 윗면, 날개덮깃·꼬리깃 흰 끝, 수컷 짙은 가로무늬·암컷 옅음)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

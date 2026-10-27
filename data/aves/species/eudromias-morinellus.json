@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "뒷목에서 만나는 넓은 흰 눈썹선",
+      "en": "broad white supercilia meeting on the nape, contrasting with the dark crown"
+    },
+    {
+      "ko": "가슴을 가로지르는 가는 흰 띠",
+      "en": "narrow white band across the breast"
+    },
+    {
+      "ko": "주황빛 밤색 아랫가슴(여름깃)",
+      "en": "orange-chestnut lower breast and flanks (breeding)"
+    },
+    {
+      "ko": "검은 배와 흰 아래꼬리(여름깃)",
+      "en": "blackish belly and white vent (breeding)"
+    },
+    {
+      "ko": "회갈색 윗면",
+      "en": "grey-brown upperparts"
+    },
+    {
+      "ko": "노란 다리",
+      "en": "yellow legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Eurasian Dotterel (Eudromias morinellus), adult female in breeding plumage, as on spring passage in May: crown blackish-brown; broad white supercilia running from above the eye to meet in a V on the nape; face and throat white; neck and upper breast blue-grey; a narrow white band across the breast, edged above by a thin black line; lower breast and flanks rich chestnut-orange; centre of the belly black; vent and undertail coverts white; upperparts grey-brown with buff-rufous fringes to the scapulars and tertials. Bill short, slender and black; dark eye; legs dull yellow.",
     "pose": "standing upright on short turf, side view, head slightly raised",
     "scene": "Dry short-grass field near the Korean coast in May during spring migration, soft morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult female in breeding plumage, side view standing upright on short turf: blackish crown, broad white supercilia meeting on the nape, white throat, narrow white breast band, orange-chestnut lower breast and flanks, blackish belly, white vent, grey-brown upperparts, short black bill, yellow legs",
+      "juvenile in autumn, side view standing: paler overall, pale supercilia meeting on the nape, indistinct pale breast band, pale buff underparts without chestnut or black, grey-brown upperparts with pale feather fringes giving a scaly look, short black bill, yellow legs"
+    ],
     "build": "Plump, round-headed plover, smaller than Pacific Golden Plover and much smaller than a pigeon, with a short neck and a level, rather tame stance. Bill black, short and fine, much shorter than the head. Legs dull yellow to greenish-yellow, medium length. At rest the wingtips reach about the tail tip. In flight the upperwing is plain grey-brown with no wing-bar, only a white shaft to the outermost primary. Females are brighter than males; males are duller, with a streakier crown and less chestnut and black below.",
     "avoid": [
       "Do not paint a white wing-bar; the Dotterel's upperwing is plain.",
@@ -52,10 +80,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Charadrius morinellus (Dotterel) – Birds of Europe 3.1, Naturalis",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=130589",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Dotterel – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/dotterel",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

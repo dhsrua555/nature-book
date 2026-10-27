@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 줄 있는 짙은 정수리",
+      "en": "dark crown streaked black"
+    },
+    {
+      "ko": "길고 넓은 크림색 눈썹선",
+      "en": "broad, prominent creamy supercilium"
+    },
+    {
+      "ko": "검은 세로줄 있는 갈색 윗면",
+      "en": "brown upperparts streaked blackish"
+    },
+    {
+      "ko": "줄무늬 없는 적갈색 허리",
+      "en": "unstreaked warm rufous-brown rump"
+    },
+    {
+      "ko": "옆구리가 담황색인 크림색 아랫면",
+      "en": "creamy underparts with buffish flanks"
+    },
+    {
+      "ko": "회갈색 다리",
+      "en": "greyish legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Sedge Warbler (Acrocephalus schoenobaenus), adult (sexes alike) in autumn: crown dark brown with fine darker streaks, looking dark-capped, with no pale central crown stripe; a long, broad, creamy-white supercilium; dark brown eye-stripe; mantle and scapulars buff-brown with diffuse dark streaks; rump and uppertail coverts unstreaked warm tawny-brown; wings brown with darker-centred coverts and tertials; throat white; underparts whitish with a buff wash on the breast sides and flanks; tail plain dark brown; bill dark with a pale yellowish base to the lower mandible; dark eye; greyish-brown legs.",
     "pose": "perched on a reed stem, side view",
     "scene": "reed and sedge marsh in Korea during autumn migration in September, reeds turning buff; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view clinging to a vertical reed stem: dark crown streaked black, broad prominent creamy supercilium, brown upperparts streaked blackish, unstreaked warm rufous-brown rump, creamy underparts with buffish flanks, strong pointed bill, greyish legs",
+      "adult, side view from slightly behind, perched on top of a low bush with the wings slightly drooped: dark streaked crown and creamy supercilium, blackish-streaked brown mantle contrasting with the unstreaked warm rufous-brown rump"
+    ],
     "build": "A small, compact reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler, with a flat forehead and a rounded tail. Bill fairly short and straight, shorter than the head. Legs medium. Moderate primary projection; the folded wingtips reach a short way down the tail. Tail medium, rounded, plain, without white tips. Often climbs reed stems and perches in the open on top of vegetation.",
     "avoid": [
       "Do not paint a pale buff stripe down the centre of the crown; that is Aquatic Warbler (Acrocephalus paludicola).",
@@ -52,10 +80,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Sedge warbler – Wikipedia (Description cites BWPi 2004; Svensson 1992; Collins Bird Guide)",
+      "url": "https://en.wikipedia.org/wiki/Sedge_warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Acrocephalus schoenobaenus (Sedge Warbler) – Birds of Europe 3.1, Naturalis",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130891",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Sedge Warbler – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/sedge-warbler",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Sedge Warbler – BTO BirdFacts",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/sedge-warbler",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

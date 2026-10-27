@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "연한 정수리 가운데줄과 짙은 옆머리띠",
+      "en": "pale median crown stripe between dark lateral crown stripes"
+    },
+    {
+      "ko": "긴 노르스름한 흰 눈썹선",
+      "en": "long yellowish-white supercilium"
+    },
+    {
+      "ko": "주황색 아랫부리",
+      "en": "orange lower mandible"
+    },
+    {
+      "ko": "노르스름한 날개띠 두 줄",
+      "en": "two yellowish wing-bars"
+    },
+    {
+      "ko": "희읍스름한 아랫면",
+      "en": "whitish underparts"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Claudia's Leaf Warbler (Phylloscopus claudiae), adult (sexes alike) in spring: a pale greyish-yellow median crown stripe between dark greyish-olive lateral crown stripes that are darkest towards the nape; a long yellowish-white supercilium; a dark olive eye-stripe; upperparts greyish-green, the wings greener, with two clear pale yellowish wing-bars, the lower one on the greater coverts broader; underparts silky greyish-white with at most a faint yellowish tinge on the flanks and vent; outer tail feathers with white on the inner webs; bill with a bright orange lower mandible, the upper mandible dusky along its ridge; dark eye; pale yellowish-brown legs.",
     "pose": "clinging to the side of a tree trunk, side view, head pointing the same way as the body, wings closed",
     "scene": "mixed woodland on a Korean offshore island during spring migration in May, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in spring, side view clinging to a tree trunk, head pointing the same way as the body: pale median crown stripe between dark greyish-olive lateral crown stripes darkest at the rear, long yellowish-white supercilium, dark eye-stripe, fine bill with an orange lower mandible, olive-green upperparts, two yellowish wing-bars, whitish underparts",
+      "adult in spring, side view perched on a twig: olive-green upperparts with two yellowish wing-bars, whitish underparts, pale median crown stripe, long pale supercilium, orange lower mandible"
+    ],
     "build": "A small, compact leaf warbler, smaller than a sparrow and a little smaller than an Eastern Crowned Warbler, with a fairly large head. No crest; the crown feathers lie flat. Bill fine and pointed, shorter than the head, with an orange lower mandible. Legs slender, pale yellowish-brown. Tail short and square. Often clings to tree trunks and the undersides of branches like a nuthatch while feeding.",
     "avoid": [
       "Do not paint a single wing-bar with a yellow vent contrasting with a white belly; that is Eastern Crowned Warbler (Phylloscopus coronatus).",
@@ -53,10 +77,16 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Hartert's Warbler (sister species of Claudia's)",
+      "url": "https://avifauna.hkbws.org.hk/species/0320/040400",
+      "used": "동정 포인트·도해 모습 (연한 가운데 정수리줄과 뒤로 갈수록 짙은 옆머리띠, 넓은 눈썹선, 노르스름한 날개띠 두 줄, 연주황 아랫부리, 줄기에 붙어 먹이 찾기)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
   ],
   "occurrence": {
     "code": "PV2",

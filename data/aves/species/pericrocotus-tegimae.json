@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "좁은 흰 이마띠(수컷)",
+      "en": "narrow white forehead band (male)"
+    },
+    {
+      "ko": "검은 머리꼭대기·뒷머리(수컷)",
+      "en": "black crown and nape (male)"
+    },
+    {
+      "ko": "회색 머리꼭대기와 거의 없는 흰 이마(암컷)",
+      "en": "grey crown with almost no white forehead band (female)"
+    },
+    {
+      "ko": "진한 회색 윗면",
+      "en": "dark grey upperparts"
+    },
+    {
+      "ko": "가슴에서 옆구리로 이어지는 짙은 회색",
+      "en": "dark grey wash from the breast down the flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Ryukyu Minivet (Pericrocotus tegimae), adult male: a narrow white band on the forehead; crown, nape, lores and ear-coverts black; chin and throat white, the white curving up behind the black ear-coverts onto the sides of the neck; mantle, back and rump grey, a shade darker than Ashy Minivet's; wings blackish; a grey wash across the breast, darkest at the sides and continuing down the flanks; belly and undertail coverts white; tail long, blackish with white on the outer feathers. Bill and legs black.",
     "pose": "perched on an outer branch in the canopy, side view",
     "scene": "Evergreen broadleaf forest canopy on Jeju Island in early summer, soft light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched on an outer canopy branch: slim upright minivet, narrow white forehead band, black crown, nape and ear-coverts, white throat, dark grey back and rump, blackish wings, dark grey wash across the breast and down the flanks, white belly, long blackish tail with a little white on the outer feathers",
+      "adult female, side view perched on a canopy branch: same slim shape, grey crown and nape with almost no white forehead band, dark lores, white throat, grey back, grey wash on the breast and flanks, white belly, long blackish tail"
+    ],
     "build": "Slim, long-tailed minivet, about the size of Ashy Minivet but darker overall: a little larger than a sparrow in body with a much longer tail; flat-topped head and upright posture in the canopy. Bill short, black, slightly hooked. Legs short, black. Tail long and graduated. Moves through evergreen broadleaf forest canopy in pairs or small groups. Females are duller and greyer on the head, with less contrast.",
     "avoid": [
       "Do not paint a broad white forehead, a pale grey back and a clean white breast; those mark Ashy Minivet (Pericrocotus divaricatus).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Avifauna of Hong Kong (HKBWS): Ryukyu Minivet",
+      "url": "https://avifauna.hkbws.org.hk/species/0230/031000",
+      "used": "동정 포인트·도해 모습 (수컷의 좁은 흰 이마띠·암컷은 거의 없음, 어두운 윗면, 굵은 검은 눈앞, 흐린 아랫면, 바깥꼬리깃 흰색이 적음)"
+    },
+    {
+      "title": "Wikipedia (日本語): サンショウクイ — 亜種リュウキュウサンショウクイ",
+      "url": "https://ja.wikipedia.org/wiki/サンショウクイ",
+      "used": "교차 확인 (좁은 흰 이마, 가슴~옆구리 암회색, 윗면이 더 검음, 수컷 머리 검정·암컷 회색)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

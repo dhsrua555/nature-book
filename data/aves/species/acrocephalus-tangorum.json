@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "눈썹선 위의 가늘고 흐린 검은 줄",
+      "en": "thin, rather faint brownish-black line above the supercilium"
+    },
+    {
+      "ko": "긴 흰 눈썹선",
+      "en": "long whitish supercilium"
+    },
+    {
+      "ko": "눈앞까지 뚜렷한 검은 눈선",
+      "en": "dark eye-stripe, long and obvious across the lores"
+    },
+    {
+      "ko": "아랫부리가 분홍빛인 길고 굵은 부리",
+      "en": "long, deep-based bill with a dark upper and pink lower mandible"
+    },
+    {
+      "ko": "적갈색 기가 도는 갈색 윗면",
+      "en": "warm, slightly rufous-toned brown upperparts"
+    },
+    {
+      "ko": "흰 멱과 복숭앗빛 가슴 옆·옆구리",
+      "en": "white throat with peach-buff breast sides and flanks"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Manchurian Reed Warbler (Acrocephalus tangorum), adult (sexes alike) in spring: upperparts warm rufous-brown, brightest on the rump; a long, prominent whitish supercilium extending well behind the eye, bordered above by a thin blackish-brown line along the side of the crown; dark brown eye-stripe; throat white; breast and belly whitish with warm buff flanks; wings and tail plain brown; fairly long bill with dark upper mandible and pale pinkish lower mandible; dark eye; pinkish-brown legs.",
     "pose": "clinging to a reed stem, side view",
     "scene": "reedbed edge in a Korean wetland during spring migration in May, fresh green reeds among last year's dry stems; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view clinging upright to a reed stem: thin, faint dark line above a long whitish supercilium, dark eye-stripe across the lores, long deep-based bill with a dark upper and pink lower mandible, warm rufous-toned brown upperparts, short wings, plain rounded tail, white throat, peach-buff breast sides and flanks, pale legs",
+      "adult, head detail in side view: plain brown crown edged by a thin, faint dark line above the long whitish supercilium, dark eye-stripe long and obvious across the lores, dark eye, long deep-based bill with a dark upper and pink lower mandible, white throat"
+    ],
     "build": "A small reed warbler, smaller than a sparrow and much smaller than an Oriental Reed Warbler, close in shape to a Black-browed Reed Warbler but with a noticeably longer bill and a slightly longer tail. Bill fairly long and slender, a little shorter than the head. Legs medium, pinkish-brown. Wings short with a short primary projection. Tail medium-long, rounded and plain. Keeps low in reeds.",
     "avoid": [
       "Do not paint a broad, bold black band above the supercilium; that is Black-browed Reed Warbler (Acrocephalus bistrigiceps). Here the dark line is thin.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong — Manchurian Reed Warbler",
+      "url": "https://avifauna.hkbws.org.hk/species/0330/040900",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Shanghai Birding (C. Brelsford) — Possible Manchurian Reed Warbler at Cape Nanhui",
+      "url": "https://www.shanghaibirding.com/manchurian-reed-warbler/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "The Bulletin of the Japanese Bird Banding Association 30(1) — 일본 첫 기록 보고(부리 색)",
+      "url": "https://www.jstage.jst.go.jp/article/jbba/30/1/30_MS091/_article/-char/en",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "PV2",

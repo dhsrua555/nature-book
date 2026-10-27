@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 띠 두 줄이 있는 흰 머리",
+      "en": "white head with two black bars on the rear crown and nape"
+    },
+    {
+      "ko": "어두운 목 옆의 흰 세로줄",
+      "en": "white stripe down each side of the dark neck"
+    },
+    {
+      "ko": "주황노랑 부리",
+      "en": "orange-yellow bill"
+    },
+    {
+      "ko": "매우 엷은 회색 몸",
+      "en": "very pale grey body"
+    },
+    {
+      "ko": "주황노랑 다리",
+      "en": "orange-yellow legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Bar-headed Goose (Anser indicus), adult: head white with two black horseshoe-shaped bars across the rear crown and nape; a white stripe running down each side of the neck; foreneck and hindneck dark grey; body pale silvery grey with darker grey flanks; back pale grey with pale feather fringes; rump and undertail white; tail grey with a white tip. Bill yellow-orange with a black nail; dark eye; legs and feet orange-yellow.",
     "pose": "standing on a grassy bank among other geese, side view",
     "scene": "Korean winter wetland beside harvested rice fields with grey geese; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), standing on a grassy bank, side view: white head with two black bars across the rear crown and nape, white stripe down each side of the dark grey-brown neck, orange-yellow bill, very pale grey body with darker grey flanks and pale feather fringes on the back, white undertail, orange-yellow legs",
+      "adult, swimming, three-quarter front view: white face and head with two black bars on the back of the head, dark foreneck with a white stripe down each side, orange-yellow bill, very pale grey breast and body"
+    ],
     "build": "Medium-sized grey goose, a little smaller than Bean Goose and similar in size to Greater White-fronted Goose, but slimmer-necked and very pale. Bill shorter than the head, fairly slender, yellow-orange with a black nail. Legs medium length, orange-yellow. Tail short, rounded. In flight very pale grey wings with darker grey tips to the flight feathers and white uppertail coverts.",
     "avoid": [
       "Do not paint the head grey-brown; it is white with two black bars at the back.",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Bar-headed goose – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bar-headed_goose",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bar-headed Goose – BirdForum Opus",
+      "url": "https://www.birdforum.net/opus/Anser_indicus",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Bar-headed Goose – the-birds.net (Oiseaux.net)",
+      "url": "https://the-birds.net/birds/bar-headed.goose.html",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

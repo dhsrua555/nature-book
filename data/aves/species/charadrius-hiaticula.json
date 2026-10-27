@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "노란 눈테 없는 검은 눈 가면",
+      "en": "black mask through the eye with no yellow eye-ring"
+    },
+    {
+      "ko": "끝이 검은 주황색 부리(여름깃)",
+      "en": "short orange bill with a black tip (breeding)"
+    },
+    {
+      "ko": "흰 이마와 흰 목테",
+      "en": "white forehead and white collar"
+    },
+    {
+      "ko": "넓고 짙은 검은 가슴띠(여름깃)",
+      "en": "broad black breast band (breeding)"
+    },
+    {
+      "ko": "날 때 보이는 뚜렷한 흰 날개띠",
+      "en": "broad white wing-bar in flight"
+    },
+    {
+      "ko": "주황색 다리",
+      "en": "orange legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,11 @@
     "subject": "Common Ringed Plover (Charadrius hiaticula), adult in breeding plumage, as seen on Korean coasts on spring passage in May: white forehead with a black band across the forecrown above it; crown and nape plain grey-brown; black mask from the bill base through the eye to the ear coverts, with a small white mark behind the eye; white throat joining a complete white collar; broad, complete black breast band; upperparts plain grey-brown; underparts white; bill short, orange with a black tip; no obvious coloured eye-ring; legs orange.",
     "pose": "running on wet sand and stopping to pick prey from the surface, side view",
     "scene": "Korean west-coast sandy shore at the edge of a tidal flat in May, low tide, soft morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, breeding plumage, side view standing on wet sand: small compact round-headed plover, white forehead, brown cap, black mask through the eye with no yellow eye-ring, white throat joining a white collar, broad black breast band, plain brown upperparts, white underparts, short orange bill with a black tip, orange legs",
+      "adult, in flight seen squarely from above: head, body and tail in one line, pointed wings spread straight out to the sides to their full span, brown upperwing with a broad white wing-bar along its length, brown back, brown tail centre with white sides, white collar",
+      "juvenile, side view standing: duller than the adult, brown cap and brown mask, white forehead and collar, grey-brown breast band often incomplete in the middle, dark bill, paler yellowish legs"
+    ],
     "build": "Small, compact, round-headed plover, slightly smaller than a starling and chunkier than Little Ringed Plover, with a short thick neck and horizontal stance. Bill short and stubby, clearly shorter than the head, straight. Legs medium length, orange. In flight a long, clear white wing-bar on brown upperwings, and a brown tail centre with white sides. Runs in short bursts, stops, then tilts forward to pick prey from the surface.",
     "avoid": [
       "Do not paint a bright yellow eye-ring or an all-dark bill; that is Little Ringed Plover (Charadrius dubius), which also lacks the white wing-bar.",
@@ -52,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Common Ringed Plover",
+      "url": "https://avifauna.hkbws.org.hk/species/0080/010500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "RSPB – Ringed Plover",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/ringed-plover",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Common ringed plover (Audubon Field Guide 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_ringed_plover",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

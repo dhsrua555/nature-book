@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 줄이 조금 있는 노란 머리(수컷)",
+      "en": "bright yellow head with some dark stripes (male)"
+    },
+    {
+      "ko": "노란 아랫면",
+      "en": "yellow underparts"
+    },
+    {
+      "ko": "검은 세로줄 있는 갈색 등",
+      "en": "brown back streaked black"
+    },
+    {
+      "ko": "밤색 허리",
+      "en": "chestnut rump"
+    },
+    {
+      "ko": "흰 바깥 꼬리깃",
+      "en": "white outer tail feathers"
+    },
+    {
+      "ko": "덜 노랗고 줄무늬 많은 머리·가슴(암컷)",
+      "en": "less yellow head and underparts with more brown streaks on the crown, breast and flanks (female)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Yellowhammer (Emberiza citrinella), adult male in winter, a vagrant in Korean farmland usually among Pine Buntings: head yellow, partly veiled by olive-green fringes, with olive streaks bordering the crown and an olive surround to the ear coverts; throat yellow; a band of chestnut and olive mottling across the breast; rest of the underparts yellow, the flanks streaked chestnut; mantle and scapulars rufous-brown with blackish streaks; rump bright rufous-chestnut and unstreaked; wings brown with rufous fringes and two pale wing bars; tail long, dark, with white outer feathers. Bill grey with a darker upper mandible; eye dark; legs pinkish.",
     "pose": "perched on a bare hedgerow twig, side view",
     "scene": "winter stubble fields and bare hedgerows in Korean farmland (January), low sun and a light frost; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view perched on a bare twig with the wings slightly drooped: bright yellow head with some dark stripes, yellow underparts, brown back streaked black, chestnut rump, long dark tail with white outer feathers",
+      "adult female, side view perched on a twig: head and underparts less yellow than the male's, more brown streaks on the crown, breast and flanks, brown back streaked black, chestnut rump, white outer tail feathers"
+    ],
     "build": "A large, long-tailed bunting, clearly larger and slimmer than a sparrow, with a rather small head; perches upright on bushes and feeds on the ground. Bill conical, small for the bird's size, grey, shorter than the head. Legs pinkish, medium-short. The long, slightly forked tail projects far beyond the wingtips and is flicked open to show the white outer feathers. The unstreaked chestnut rump is obvious in flight.",
     "avoid": [
       "Do not paint white where the Yellowhammer is yellow; a white-headed, white-bellied bird is Pine Bunting, the related winter visitor in Korea.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Emberiza citrinella (Yellowhammer) – Birds of Europe 3.1, Naturalis",
+      "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=131052&epi=207",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Yellowhammer – Wikipedia (Description cites Snow & Perrins, BWP concise 1998; Byers, Olsson & Curson, Buntings and Sparrows 1995)",
+      "url": "https://en.wikipedia.org/wiki/Yellowhammer",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Yellowhammer – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/yellowhammer",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

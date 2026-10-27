@@ -17,7 +17,24 @@
     "breed": "TODO"
   },
   "summary": "관목이 자라는 초원에 사는 새로, 우리나라 전국에 분포하며 주로 대규모 간척 사업으로 생긴 호수와 만 일대에서 지낸다. 간척지 개발과 하천 정비로 서식지가 점점 줄어들고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "온통 검은 머리와 멱(수컷 여름깃)",
+      "en": "whole head and throat black (breeding male)"
+    },
+    {
+      "ko": "흰빛 눈썹선·뺨선과 검은 턱선(암컷)",
+      "en": "dull white supercilium and submoustachial stripe above a black malar stripe (female)"
+    },
+    {
+      "ko": "검은 줄무늬 있는 적갈색 등",
+      "en": "rufous-brown back streaked black"
+    },
+    {
+      "ko": "황갈색 허리",
+      "en": "tawny-ochre rump"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +45,10 @@
     "subject": "Ochre-rumped Bunting (Emberiza yessoensis), adult male in breeding plumage (late spring): entire head, chin and throat black, without any white moustachial stripe; mantle and back warm rufous-brown streaked black; rump plain ochre-cinnamon; wings brown with rufous edges; tail dark brown with white outer feathers; underparts buffy-white, the flanks washed warm buff; small conical blackish bill; dark eye; pinkish legs.",
     "pose": "perched upright on a reed stem, side view",
     "scene": "Korean reclaimed land in late spring: grassland with scattered shrubs and reeds beside a lake formed by reclamation; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding (spring to summer), side view perched upright on a reed stem, wings slightly drooped to show the rump: whole head, chin and throat black with no white moustachial stripe, small conical bill, rufous-brown back streaked black, tawny-ochre rump",
+      "adult female (winter male similar), side view perched on a reed stem: brown crown, dull white supercilium and submoustachial stripe, black malar stripe below the cheek, rufous-brown back streaked black, tawny-ochre rump, small conical bill"
+    ],
     "build": "Small, slim reed bunting, about the size of a sparrow but slimmer, with a rounded head and a fairly long, slightly notched tail with white outer feathers. Bill small, short and conical, finer than in other reed buntings. Legs pinkish. Perches upright on reed stems and low shrubs in grassy wetlands and clings to stems.",
     "avoid": [
       "Do not paint a white moustachial stripe or white collar — that is Common Reed Bunting (Emberiza schoeniclus).",
@@ -60,9 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "コトバンク – コジュリン (改訂新版 世界大百科事典 · ブリタニカ国際大百科事典)",
+      "url": "https://kotobank.jp/word/コジュリン",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "HKBWS Avifauna of Hong Kong – Japanese Reed Bunting 紅頸葦鵐",
+      "url": "https://avifauna.hkbws.org.hk/species/0460/057400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "eBird – Ochre-rumped Bunting (검색 발췌)",
+      "url": "https://ebird.org/species/ocrbun1",
+      "used": "동정 포인트"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "P4, W5, S5",
     "bs": "1",

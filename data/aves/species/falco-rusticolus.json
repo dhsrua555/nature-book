@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "굵은 검은 두건·뺨선 없는 머리",
+      "en": "no black hood or bold moustache; only a thin, faint moustachial stripe"
+    },
+    {
+      "ko": "가로줄 대신 반점이 고르게 박힌 아랫면",
+      "en": "evenly spotted underparts rather than fine barring"
+    },
+    {
+      "ko": "꼬리 끝에 한참 못 미치는 날개 끝",
+      "en": "wingtips falling well short of the tail tip at rest"
+    },
+    {
+      "ko": "매보다 넓은 날개와 긴 꼬리",
+      "en": "broader wings and longer tail than Peregrine Falcon"
+    },
+    {
+      "ko": "날개깃보다 어두운 아랫날개덮깃",
+      "en": "underwing coverts darker than the paler flight feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Gyrfalcon (Falco rusticolus), adult grey morph in winter: upperparts slate-grey to grey-brown with pale grey-blue bars and feather edges; head greyish with an indistinct pale supercilium and a thin, weak dark moustachial stripe; underparts white with dark drop-shaped spots on the breast becoming bars on the flanks and thighs; tail grey with fine pale bars. Bill bluish-grey with a dark tip; cere, bare eye-ring, legs and feet yellow; iris dark brown.",
     "pose": "perched upright on a snow-dusted rock, watching over open ground",
     "scene": "open coastal fields and dunes of northeastern Korea in midwinter, light snow cover; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult grey morph, side view perched upright on a rock: bulky, deep-chested falcon, greyish head with no black hood and only a thin faint moustache, grey upperparts barred paler, white underparts evenly spotted dark, broad tail with indistinct bands, wingtips reaching well short of the tail tip, yellow cere, eye-ring and feet",
+      "adult grey morph in flight seen squarely from below: head, body and tail in one line, broad-based pointed wings spread straight out to the sides to their full span, bent slightly at the wrist, spotted underwing coverts darker than the paler flight feathers, evenly spotted white body, long broad tail, yellow feet tucked under the tail"
+    ],
     "build": "Largest falcon, clearly larger and heavier than a Peregrine Falcon, the female approaching a buzzard in size; deep-chested and bulky. Head rounded, neck short. Bill short and strongly hooked, with a notch (tomial tooth) on the upper mandible. Legs short and powerful with feathered thighs. At rest the wingtips fall well short of the tail tip, reaching only about two-thirds down the tail. Wings broad-based, long and pointed but blunter than a Peregrine's; shallow, powerful wingbeats. Tail long and broad, rounded at the tip.",
     "avoid": [
       "Do not paint the bold black hood and broad black moustache of Peregrine Falcon (Falco peregrinus); the Gyrfalcon's moustache is thin and faint.",
@@ -52,10 +76,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Gyrfalcon – HawkWatch International raptor factsheet",
+      "url": "https://hawkwatch.org/learn/factsheets/item/368-gyrfalcon",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Gyrfalcon identification – USGS Patuxent Bird ID InfoCenter (검색 요약으로 확인)",
+      "url": "https://www.mbr-pwrc.usgs.gov/id/htmid/h3540id.html",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Gyrfalcon similar species comparison – All About Birds (검색 요약으로 확인)",
+      "url": "https://allaboutbirds.org/guide/Gyrfalcon/species-compare",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Raptor identification sheet (govdocs PDF, 검색 요약으로 확인)",
+      "url": "https://corpora.tika.apache.org/base/docs/govdocs1/442/442988.pdf",
+      "used": "동정 포인트"
+    },
+    {
+      "title": "Gyrfalcon – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gyrfalcon",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

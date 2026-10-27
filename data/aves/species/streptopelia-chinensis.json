@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "회색 정수리",
+      "en": "grey crown"
+    },
+    {
+      "ko": "흰 점 박힌 검은 목 반달무늬",
+      "en": "black half-collar on the neck densely spotted with white"
+    },
+    {
+      "ko": "회갈색 윗면",
+      "en": "greyish-brown upperparts"
+    },
+    {
+      "ko": "분홍빛 가슴과 배",
+      "en": "pinkish (vinous) breast and belly"
+    },
+    {
+      "ko": "날개 끝을 훨씬 넘는 긴 꼬리",
+      "en": "long tail extending well beyond the wingtips"
+    },
+    {
+      "ko": "끝이 흰 바깥꼬리깃",
+      "en": "white-tipped outer tail feathers"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Spotted Dove (Streptopelia chinensis), adult: forehead and crown grey, the face tinged pinkish-grey; a broad black half-collar on the hindneck and neck sides, densely spotted with white; mantle, back and wing coverts warm grey-brown and fairly plain; flight feathers dark brown; breast and belly vinous-pink, paling to whitish on the vent; tail long and graduated, the central feathers brown, the outer feathers blackish with broad white tips. Bill blackish; legs red.",
     "pose": "walking on bare ground beneath shrubs, side view",
     "scene": "Farmland edge with scattered trees on a Korean offshore island in May, during spring migration, soft morning light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view walking on bare ground: slender dove, grey crown, black half-collar on the hindneck and neck sides densely spotted white, greyish-brown back and wing coverts, blackish-brown flight feathers, pinkish breast and belly, long tail extending well beyond the wingtips, greyish bill, pink-red legs",
+      "adult in flight seen squarely from above with the tail fanned: head, body and tail in one line, wings spread straight out to the sides to their full span, greyish-brown back and coverts, blackish-brown flight feathers, white-spotted black collar, long tail with blackish outer feathers broadly tipped white"
+    ],
     "build": "Medium-sized, slim dove, a little smaller than Oriental Turtle Dove, with a smaller head and a noticeably longer, graduated tail. Bill short, thin and dark. Legs short, red. At rest the long tail extends far beyond the wingtips. When landing or taking off the fanned tail shows broad white corners. Walks on the ground with a nodding head.",
     "avoid": [
       "Do not paint the neck patch as black-and-grey stripes or the upperparts with rufous scaling; those mark Oriental Turtle Dove (Streptopelia orientalis).",
@@ -51,10 +79,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Spotted Dove – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0050/006600",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Spotted Dove – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/spotted-dove/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Spotted dove – Wikipedia (Ali & Ripley, Baker 인용)",
+      "url": "https://en.wikipedia.org/wiki/Spotted_dove",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

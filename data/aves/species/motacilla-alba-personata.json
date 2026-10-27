@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "이마·눈앞부터 눈 뒤까지의 흰 얼굴",
+      "en": "white face patch covering the forehead and lores to behind the eye"
+    },
+    {
+      "ko": "흰 얼굴을 둘러싼 검은 정수리·뒷목",
+      "en": "black crown, nape and neck framing the white face"
+    },
+    {
+      "ko": "검은 멱과 가슴(여름깃)",
+      "en": "black throat and breast (breeding)"
+    },
+    {
+      "ko": "흰 윗멱(겨울깃)",
+      "en": "white upper throat (winter)"
+    },
+    {
+      "ko": "회색 등",
+      "en": "grey mantle and back"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "White Wagtail of the form personata (Motacilla alba personata, Masked Wagtail), adult male in breeding plumage, a spring vagrant on a Korean riverbank: forehead, forecrown, lores, area around the eye and ear coverts white, forming a white face mask with no dark eye-stripe; rest of the crown, nape, neck sides, chin, throat and breast black, enclosing the white face; mantle, back and rump grey; wings blackish with broad white edges to the coverts forming a large white wing panel; belly and undertail white; tail long, black in the centre with white outer feathers. Bill black and slender; eye dark; legs black.",
     "pose": "walking on a pebbly riverbank pumping its tail, side view",
     "scene": "pebbly river shoal with low willows in Korea in early spring (March–April), clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, breeding plumage, side view walking on a pebbly riverbank: slim long-tailed wagtail, white face patch from the forehead and lores to behind the eye, framed by black crown, nape, neck, throat and breast, grey mantle and back, dark wings with white-edged coverts, white belly, long black tail with white outer feathers, thin black bill",
+      "adult male, winter, front view standing: white face patch from the forehead to behind the eye framed by black crown and nape, white upper throat, black lower throat and breast, white belly, grey back visible at the sides, thin black bill, black legs"
+    ],
     "build": "Slim, long-tailed wagtail, longer than a sparrow and the same size as the White Wagtails common in Korea; horizontal stance, walks briskly and pumps its long tail up and down. Bill black, thin and straight, shorter than the head. Legs black, fairly long and slender. The long tail projects far beyond the wingtips. In flight deeply undulating, showing much white in the wing and white tail sides.",
     "avoid": [
       "Do not paint a black line through the eye; personata has an all-white face (ocularis and lugens have a black eye-stripe).",
@@ -53,10 +77,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – White Wagtail (personata)",
+      "url": "https://avifauna.hkbws.org.hk/species/0440/053840",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – White wagtail (아종표)",
+      "url": "https://en.wikipedia.org/wiki/White_wagtail",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

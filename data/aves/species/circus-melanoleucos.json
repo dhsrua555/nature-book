@@ -18,7 +18,32 @@
     "breed": []
   },
   "summary": "우리나라를 드물게 지나가는 나그네새로, 일부 지역에서 이따금 관찰된다. 강 하류, 갈대밭, 습지에서 지내며 천천히 날아다니면서 먹이를 사냥한다. 여러 개발로 사는 곳이 줄어드는 것이 위협이 되고 있다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 머리·윗가슴·등(수컷)",
+      "en": "black head, upper breast and back (male)"
+    },
+    {
+      "ko": "윗날개의 검은 띠와 흰 앞날개(수컷)",
+      "en": "black band across the median coverts and white lesser coverts (male)"
+    },
+    {
+      "ko": "갈색 앞날개의 흰 어깨 무늬(암컷)",
+      "en": "pale whitish shawl on the brown forewing (female)"
+    },
+    {
+      "ko": "검은 첫째날개깃 바깥쪽(수컷)",
+      "en": "black outer primaries contrasting with pale wings (male)"
+    },
+    {
+      "ko": "흰 배와 흰 날개 아랫면(수컷)",
+      "en": "white belly and mostly white underwing (male)"
+    },
+    {
+      "ko": "흰 허리",
+      "en": "white rump"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -29,7 +54,11 @@
     "subject": "Pied Harrier (Circus melanoleucos), adult male, as seen over Korean river-mouth reedbeds on spring and autumn passage: head, throat, upper breast, mantle and back solid black; on the folded wing a black band across the median coverts bordered by white lesser coverts and pale silvery-grey greater coverts and secondaries; primaries black; lower breast, belly, thighs and undertail white, sharply divided from the black breast; rump white; tail silvery-grey. Short hooked black bill with a yellow cere; yellow iris; long slender yellow legs.",
     "pose": "flying slowly and low over a reed bed, hunting",
     "scene": "Korean migration-season wetland: reed beds along the lower reaches of a river; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, in flight seen squarely from above: long narrow wings spread straight out to the sides to their full span, black head and back, black band across the median coverts, white patch on the lesser coverts, black outer primaries, rest of the wing pale silvery-grey, white rump, long pale grey tail, head, body and tail in a straight line",
+      "adult male, in flight seen squarely from below: black head, throat and upper breast ending sharply on the breast, white belly, thighs and undertail, mostly white underwing with black outer primaries, long pale grey tail, short hooked dark bill, feet tucked under the tail",
+      "adult female, in flight seen squarely from above: long narrow wings spread straight out to the sides to their full span, finely streaked brown head, brown back and forewing with a pale whitish shawl, greyish flight feathers with neat dark bars, white rump, barred tail, head, body and tail in a straight line"
+    ],
     "build": "Slim, medium-sized harrier, a little smaller and lighter than Eastern Marsh Harrier, with long narrow wings, a long tail and a small head with a slight facial disc. Bill short and strongly hooked. Legs long, thin and yellow. At rest the wingtips fall short of the tail tip. Hunts by slow, buoyant quartering low over reeds and grass, wings held in a shallow V when gliding; from above the male's wing shows a bold pattern of black, white and silvery-grey.",
     "avoid": [
       "Do not streak the male's black head and breast with white — that is Eastern Marsh Harrier (Circus spilonotus).",
@@ -60,9 +89,36 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Pied harrier - Wikipedia (del Hoyo et al. 1994 HBW Vol. 2; Ferguson-Lees & Christie, Raptors of the World 인용)",
+      "url": "https://en.wikipedia.org/wiki/Pied_harrier",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Identification of Harriers in Singapore - Singapore Birds Project",
+      "url": "https://singaporebirds.com/blog/identification-of-harriers-in-singapore",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Pied Harrier - Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/pied-harrier",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Pied Harrier 鵲鷂 - Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/026000",
+      "used": "동정 포인트·도해 모습(암컷)"
+    },
+    {
+      "title": "Circus melanoleucos - MyBIS Malaysia Biodiversity Information System",
+      "url": "https://www.mybis.gov.my/sp/21120",
+      "used": "도해 모습(수컷 날개·꼬리 은회색)"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "P5, SV2",
     "bs": "1",

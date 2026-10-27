@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "검은 첫째·둘째날개깃의 흰 몸(백색형)",
+      "en": "white body with black flight feathers (white morph)"
+    },
+    {
+      "ko": "옅은 배와 짙은 가슴띠의 갈색 몸(어린새)",
+      "en": "brown body with a paler belly and darker chest band (juvenile)"
+    },
+    {
+      "ko": "흰 쐐기꼴 꼬리(백색형)",
+      "en": "white wedge-shaped tail (white morph)"
+    },
+    {
+      "ko": "붉은 발(어른새)",
+      "en": "red feet (adult)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,11 @@
     "subject": "Red-footed Booby (Sula sula), adult white morph: plumage white, sometimes with a faint golden-yellow wash on the head and neck; primaries and secondaries black, forming a black rear half of the wing; a black patch on the underwing at the base of the primaries; tail white. Bill pale blue-grey with a pink base; bare facial skin pink and blue around the bill base and eye; legs and feet bright red.",
     "pose": "perched upright on a rocky islet, gripping with bright red feet, side view",
     "scene": "rocky islet in the open sea off Jeju in late summer, blue water and broken cloud; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult white morph, side view perched upright on a rocky islet: slim booby with a long pointed bill, white plumage, black primaries and secondaries forming a black rear edge to the folded wing, white tail, bright red feet",
+      "adult white morph, in flight seen squarely from below: head, body and tail in one line, long narrow pointed wings spread straight out to the sides to their full span with a slight bend at the wrist, white body and wing coverts, black flight feathers, white wedge-shaped tail, red feet tucked under the tail",
+      "juvenile, in flight seen squarely from below: long narrow pointed wings spread straight out to the sides to their full span, brown overall with darker brown wings, paler belly and a darker chest band, wedge-shaped tail, pinkish feet tucked under the tail"
+    ],
     "build": "Smallest booby, clearly smaller and slimmer than Masked Booby, about the size of a large gull, with long pointed wings. Head rounded, neck short. Bill shorter than the head, conical and sharply pointed. Legs short, feet large, webbed and bright red in adults; it perches on branches and rocks. In flight long, narrow, pointed wings and a long wedge-shaped tail.",
     "avoid": [
       "Do not paint a black tail or black face mask — those are Masked Booby; the white-morph Red-footed Booby has a white tail and no black mask.",
@@ -52,10 +73,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Hong Kong Bird Watching Society, Avifauna of Hong Kong – Red-footed Booby",
+      "url": "https://avifauna.hkbws.org.hk/species/0150/021200",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia – Red-footed booby",
+      "url": "https://en.wikipedia.org/wiki/Red-footed_booby",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Audubon Field Guide – Red-footed Booby",
+      "url": "https://www.audubon.org/field-guide/bird/red-footed-booby",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "밝은 파란 정수리(수컷)",
+      "en": "bright blue crown (male)"
+    },
+    {
+      "ko": "검푸른 얼굴과 멱(수컷)",
+      "en": "blue-black face, chin and throat (male)"
+    },
+    {
+      "ko": "목 옆의 가는 밝은 파란 줄",
+      "en": "thin bright blue line on the side of the neck"
+    },
+    {
+      "ko": "짙은 파란 등·날개·꼬리(수컷)",
+      "en": "dark blue back, wings and tail (male)"
+    },
+    {
+      "ko": "멱과 경계가 뚜렷한 주황갈색 가슴(수컷)",
+      "en": "orange-rufous breast and flanks sharply demarcated from the dark throat (male)"
+    },
+    {
+      "ko": "더 옅은 주황색 아랫배(수컷)",
+      "en": "paler orange lower belly and undertail coverts (male)"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Fujian Niltava (Niltava davidi), adult male, a vagrant in Korean island forest: forehead and crown shining cobalt-blue; face, chin and throat black; a small glossy blue patch on the side of the neck and another at the shoulder; mantle, back, wings and tail deep dark blue, the flight feathers blackish with blue edges; breast and upper belly deep orange-rufous, sharply divided from the black throat, paling to buff on the lower belly and undertail coverts. Bill black, short and broad; eye dark; legs dark.",
     "pose": "perched upright on a low branch in shaded undergrowth, side view",
     "scene": "dense evergreen forest understorey on a southern Korean island in late autumn (November), subdued light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, perched upright on a low branch, side view: bright blue crown and shoulder, blue-black face, chin, throat and mantle, thin bright blue line on the side of the neck, dark blue back and wings, blue tail, orange-rufous breast and flanks sharply demarcated from the dark throat, paler orange lower belly and vent",
+      "adult female, perched upright on a low branch, side view: brown head, upperparts and breast, rufous edges to the wing coverts and flight feathers, white gorget across the lower throat, sometimes a pale blue line on the side of the neck, whitish centre to the belly and vent"
+    ],
     "build": "A stocky, large-headed flycatcher, larger than a sparrow, with a thick neck and a fairly long tail; sits upright and still in the lower or middle storey, dropping to the ground for prey. Bill black, short, broad-based and slightly hooked at the tip, much shorter than the head. Legs short and dark. Wings short and rounded, the wingtips reaching only a short way down the tail. Tail fairly long and square-ended, dark blue, without white.",
     "avoid": [
       "Do not paint a white belly or white tail patches; the breast is deep orange-rufous, paling only to buff towards the vent, and the tail is plain dark blue.",
@@ -53,10 +81,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Fujian Niltava Niltava davidi – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0400/048400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Fujian niltava – Wikipedia (사진 설명만)",
+      "url": "https://en.wikipedia.org/wiki/Fujian_niltava",
+      "used": "도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트를 글 자료 한 곳과 참고 사진으로만 확인했다(교차 확인 미흡, 다시 확인 필요)"
   ],
   "occurrence": {
     "code": "V2",

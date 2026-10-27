@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "정수리 양옆의 밤색 줄",
+      "en": "chestnut lateral crown stripes"
+    },
+    {
+      "ko": "눈 뒤의 밤색 눈선",
+      "en": "chestnut stripe behind the eye"
+    },
+    {
+      "ko": "검은 눈앞과 뺨선",
+      "en": "black lores and moustachial stripe"
+    },
+    {
+      "ko": "회색 머리·멱·가슴",
+      "en": "grey head, throat and breast"
+    },
+    {
+      "ko": "검은 줄무늬의 적갈색 등",
+      "en": "rufous-brown back streaked black"
+    },
+    {
+      "ko": "주황빛 담황색 아랫면",
+      "en": "buffy-orange underparts below the grey breast"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Godlewski's Bunting (Emberiza godlewskii), adult male, a vagrant on a rocky hillside in Korea in early spring: head, throat and breast pale blue-grey; a chestnut stripe along each side of the crown and a chestnut stripe behind the eye; a short blackish line on the lores in front of the eye; a dark moustachial stripe, blackish from the base of the bill, outlining the grey ear coverts; mantle rufous-brown with bold blackish streaks; rump unstreaked chestnut; wings with black-centred, rufous-fringed coverts and tertials; belly and flanks warm cinnamon-rufous; tail dark with white outer feathers. Bill grey and conical; eye dark; legs pinkish.",
     "pose": "hopping on a rock among dry grass, side view",
     "scene": "dry rocky hillside with sparse grass and bare shrubs in Korea in early spring (March), clear light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male, side view hopping on a rock: grey head, throat and breast, chestnut lateral crown stripes and chestnut stripe behind the eye, black lores and moustachial stripe, rufous-brown back streaked black, unstreaked rufous rump, buffy-orange belly and flanks, long tail with white outer feathers, pinkish legs",
+      "adult male, head detail in side view: grey crown centre bordered by chestnut lateral crown stripes, chestnut stripe behind the eye, black lores, black moustachial stripe below the grey ear-coverts, grey throat, conical bill with a black upper and grey lower mandible"
+    ],
     "build": "A medium-sized, long-tailed bunting, a little larger than a sparrow, slim with a rounded head; no crest, the crown feathers lie flat. Hops on rocks and bare ground. Bill small, conical, grey, shorter than the head. Legs pinkish, medium length. The long, notched tail extends well beyond the wingtips and has white outer feathers.",
     "avoid": [
       "Do not paint black crown stripes or a black eye-stripe — that is Rock Bunting (Emberiza cia); Godlewski's crown and eye-stripes are chestnut, only the lores and the front of the moustache are blackish.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Shanghai Birding (C. Brelsford, Photographic Field Guide to the Birds of China) — Godlewski's Bunting",
+      "url": "https://www.shanghaibirding.com/birds-of-china/godlewskis-bunting/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Godlewski's bunting",
+      "url": "https://en.wikipedia.org/wiki/Godlewski%27s_bunting",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Indian BIRDS 9(2) — Sharma, Godlewski's Bunting 기록 (검색 발췌)",
+      "url": "https://indianbirds.in/pdfs/IB.9.2.Sharma_GodlewskiasBunting.pdf",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

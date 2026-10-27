@@ -17,7 +17,32 @@
     "breed": []
   },
   "summary": "우리나라에 드물게 찾아오는 겨울철새로, 농경지와 평지, 간척지, 트인 땅에서 지낸다. 부드러운 날갯짓으로 날며 쥐와 곤충, 작은 새 등을 잡아먹는다. 세계 개체 수에 관한 구체적인 자료는 없으나, 주식인 설치류의 수와 개체 수가 관계있을 것으로 본다. 티베트, 러시아, 몽골 등지에서 번식한다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "옅은 줄무늬의 희읍스름한 머리",
+      "en": "lightly marked whitish head"
+    },
+    {
+      "ko": "날개윗면 첫째날개깃의 넓은 흰 무늬",
+      "en": "wide white flash on the upper primaries"
+    },
+    {
+      "ko": "짙은 갈색 다리깃과 옆구리",
+      "en": "dark brown thighs and flanks"
+    },
+    {
+      "ko": "날개아랫면의 짙은 손목 무늬",
+      "en": "dark carpal patches on the underwing"
+    },
+    {
+      "ko": "검은 날개 끝과 날개 뒷가장자리",
+      "en": "blackish wingtips and dark trailing edge"
+    },
+    {
+      "ko": "대부분 깃털로 덮인 다리",
+      "en": "tarsi feathered for most of their length"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -28,7 +53,11 @@
     "subject": "Upland Buzzard (Buteo hemilasius), adult pale morph, as seen over Korean farmland in winter: head whitish with fine dark streaks; neck and breast whitish, streaked rufous-brown; upperparts and upperwing coverts warm brown with pale buff feather fringes; a large whitish patch at the base of the primaries on the upperwing; flanks, belly sides and thighs dark brown, forming dark 'trousers' and a dark lower belly; underwing whitish with rufous-brown lesser coverts, large blackish carpal patches and black wingtips; tail whitish to pale buff, finely barred grey, without a broad dark terminal band. Short hooked dark bill with a yellow cere; legs feathered on the front for more than half their length; bare toes yellow.",
     "pose": "flying low over open fields with supple wingbeats, searching for prey",
     "scene": "Korean winter open farmland and flat reclaimed land under a wide sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult pale morph, side view perched upright: rounded whitish head lightly streaked, short hooked dark bill with a yellow cere, whitish breast streaked rufous-brown, dark brown flanks and thighs, warm brown upperparts with pale fringes, legs feathered for most of their length, yellow toes",
+      "adult pale morph, in flight seen squarely from below: long broad fingered wings spread straight out to the sides to their full span, whitish barred flight feathers, blackish wingtips and trailing edge, rufous-brown coverts with dark carpal patches, pale breast, dark flanks and thighs forming a U around the paler belly, feet under the tail",
+      "adult pale morph, in flight seen squarely from above: long broad wings with fingered tips spread straight out to the sides to their full span, brown upperwing coverts, wide white flash at the base of the primaries, dark wingtips, whitish head, pale tail"
+    ],
     "build": "The largest buzzard in Korea, clearly bigger and longer-winged than Eastern Buzzard, approaching a small eagle in bulk. Heavy body, rounded head, short hooked bill. Long, broad wings with well-fingered tips. Tail medium length, fan-shaped when spread. Soars and glides on wings raised in a shallow V, often hovers over fields, and flies with slow, supple, elastic wingbeats.",
     "avoid": [
       "Do not paint a white tail with a broad dark terminal band — that is Rough-legged Buzzard (Buteo lagopus).",
@@ -60,9 +89,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Naoroji & Forsman (2001) Forktail 17: identification of Upland and Long-legged Buzzard",
+      "url": "https://archive.org/download/biostor-251253/biostor-251253.pdf",
+      "used": "동정 포인트·도해 모습 (첫째날개깃 윗면의 넓은 흰 무늬, 다리깃·옆구리, 손목 무늬, 날개 뒷가장자리, 다리 깃털 범위)"
+    },
+    {
+      "title": "Wikipedia: Upland buzzard (cites Ferguson-Lees & Christie 2001, Raptors of the World)",
+      "url": "https://en.wikipedia.org/wiki/Upland_buzzard",
+      "used": "동정 포인트 (희읍스름한 머리, 다리 깃털, 검은 날개 끝, 짙은 날개덮깃 무늬)"
+    },
+    {
+      "title": "Oiseaux.net: Upland Buzzard",
+      "url": "https://oiseaux.net/birds/upland.buzzard.html",
+      "used": "교차 확인 (날 때 첫째날개깃 쪽의 뚜렷한 흰 무늬, 다리 깃털)"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "P5, W5",
     "bs": "0",

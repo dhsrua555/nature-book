@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 얼굴(여름깃)",
+      "en": "white face mask (breeding)"
+    },
+    {
+      "ko": "눈 뒤로 넘어가는 노란 깃 다발(여름깃)",
+      "en": "blonde tufts sweeping back from behind the eye (breeding)"
+    },
+    {
+      "ko": "기부가 노란 크고 높은 주황색 부리",
+      "en": "huge, deep orange bill with yellow at the base"
+    },
+    {
+      "ko": "아랫면까지 검은 몸",
+      "en": "all-dark body including the breast"
+    },
+    {
+      "ko": "주황빛 붉은 발",
+      "en": "orange-red feet"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Tufted Puffin (Fratercula cirrhata), adult in breeding plumage: body entirely black, slightly browner on the underparts; face white like a mask from the bill base to behind the eye; long straw-yellow plumes springing from behind the eye and curving down the back of the head; huge, deep, laterally compressed bill, orange-red over most of its length with a pale yellowish-olive plate at the base of the upper mandible; pale iris surrounded by a red orbital ring; legs and feet bright orange-red.",
     "pose": "floating on the sea, side view, yellow plumes lying along the nape",
     "scene": "Calm East Sea off Korea's rocky northeast coast in late spring, clear light on blue water; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult breeding, side view standing upright on a rock: big head with no visible neck, white face mask, long blonde tufts sweeping back from behind the eye, huge deep laterally compressed orange bill with a yellow base, brown-black body and underparts, short orange-red legs set far back",
+      "adult winter, side view floating on the sea: big head and stocky all-dark body, grey face, no tufts or only short traces, smaller and duller orange bill without the yellow base plate, dark underparts"
+    ],
     "build": "Large, stocky auk, bigger than any auk regular in Korea and roughly Feral Pigeon length but much bulkier, with a big head and no visible neck. Bill massive, very deep and triangular in side view, laterally compressed. Legs short and set far back, giving an upright stance on rocks. Wings short and narrow, with fast whirring flight and an all-dark underwing. Tail short and rounded. In winter the face turns dark grey, the plumes are lost and the bill becomes smaller and duller.",
     "avoid": [
       "Do not paint white underparts; Horned and Atlantic Puffins have white bellies, the Tufted Puffin is black below.",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "BirdWeb (Seattle Audubon): Tufted Puffin",
+      "url": "https://birdweb.org/Birdweb/bird/tufted_puffin",
+      "used": "동정 포인트·도해 모습 (갈색빛 검은 몸, 흰 얼굴, 금빛 깃 다발, 기부가 노란 주황 부리, 주황 발, 겨울깃은 깃 다발 없고 회색 얼굴)"
+    },
+    {
+      "title": "eBird: Tufted Puffin",
+      "url": "https://ebird.org/ak/species/tufpuf",
+      "used": "교차 확인 (여름깃 부리·얼굴·깃 다발, 붉은 발)"
+    },
+    {
+      "title": "USGS Patuxent Bird ID: Tufted Puffin",
+      "url": "https://www.mbr-pwrc.usgs.gov/id/htmid/h0120id.html",
+      "used": "교차 확인 (겨울깃: 어두운 얼굴, 깃 다발 없음, 부리 기부 노란 판 없음)"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

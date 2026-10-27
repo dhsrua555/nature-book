@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 이마(수컷)",
+      "en": "white forehead (male)"
+    },
+    {
+      "ko": "검은 얼굴과 멱(수컷)",
+      "en": "black face and throat (male)"
+    },
+    {
+      "ko": "청회색 정수리와 등(수컷)",
+      "en": "slate-grey crown and back (male)"
+    },
+    {
+      "ko": "주황빛 붉은 가슴(수컷)",
+      "en": "orange-red breast (male)"
+    },
+    {
+      "ko": "갈색 윗면과 옅은 주황 아랫면(암컷)",
+      "en": "grey-brown upperparts and pale orange-buff underparts (female)"
+    },
+    {
+      "ko": "주황빛 붉은 꼬리",
+      "en": "bright orange-red tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Common Redstart (Phoenicurus phoenicurus), adult male in spring: white forehead extending back as a short white line above the eye; crown, nape and back blue-grey; face and throat black; breast and flanks bright orange-red, fading to whitish on the belly and undertail; wings plain grey-brown with no white patch; rump and tail rufous-orange, the central tail feathers dark brown. Thin black bill; dark eye; black legs.",
     "pose": "perched on a low branch at a woodland edge, side view, rufous tail quivering",
     "scene": "Korean woodland edge in May with fresh green leaves and dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult male breeding, side view perched on a low branch: white forehead, slate-grey crown, nape and back, black face and throat, orange-red breast and flanks fading to whitish on the belly, plain grey-brown wings without a white patch, orange rump, orange-red tail with dark brown central feathers, black bill and legs",
+      "adult female, side view perched: grey-brown upperparts, no black on the face, whitish throat, pale orange-buff breast and flanks, pale belly, plain grey-brown wings, orange-red tail with dark brown central feathers, black legs"
+    ],
     "build": "Slim chat, about the size of a sparrow but slimmer and longer-legged; rounded head and upright stance. Bill thin, straight and pointed, much shorter than the head. Legs slender, black. Wings fairly long and pointed. Tail of medium length, square-ended, constantly quivered. Female plain grey-brown above with a pale eye-ring, a buff-orange wash below and the same rufous tail.",
     "avoid": [
       "Do not add a white wing patch or a black back; those mark the Daurian Redstart (Phoenicurus auroreus), the common redstart in Korea.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "RSPB — Redstart",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/redstart",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "BTO BirdFacts — Redstart",
+      "url": "https://www.bto.org/understanding-birds/birdfacts/redstart",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Wikipedia — Common redstart (HBW 10; BWP 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_redstart",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

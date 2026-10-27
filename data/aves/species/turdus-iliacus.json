@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "길고 진한 크림색 눈썹선",
+      "en": "long, bold creamy-white supercilium"
+    },
+    {
+      "ko": "무늬 없는 갈색 윗면",
+      "en": "plain brown upperparts"
+    },
+    {
+      "ko": "짙은 갈색 줄무늬의 흰 아랫면",
+      "en": "white underparts streaked dark brown"
+    },
+    {
+      "ko": "붉은 옆구리",
+      "en": "red flanks"
+    },
+    {
+      "ko": "날 때 보이는 붉은 아랫날개",
+      "en": "red underwing in flight"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Redwing (Turdus iliacus), adult in winter (sexes alike): upperparts plain warm olive-brown; a long creamy-white supercilium; dark brown ear-coverts bordered below by a whitish submoustachial stripe and a dark malar stripe; underparts whitish with dense dark brown streaks arranged in lines on the throat sides, breast and flanks; a deep rusty-red patch on the flanks extending onto the underwing coverts; undertail coverts white; bill dark with a yellow base to the lower mandible; dark eye; pinkish-brown legs.",
     "pose": "feeding on red berries in a bare shrub, side view",
     "scene": "berry-laden shrubs at a farmland edge in Korea in winter, frost on dry grass and low sun; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in winter, side view standing on the ground: long creamy-white supercilium, dark brown ear-coverts, plain brown upperparts, white underparts with lines of dark brown streaks, rusty-red flanks, dark bill with a yellow base to the lower mandible, pinkish legs",
+      "adult in flight seen squarely from below: head, body and tail in one line, wings spread straight out to the sides to their full span, rusty-red underwing coverts, creamy supercilium, streaked white breast, rusty-red flanks, pale feet tucked against the belly"
+    ],
     "build": "A small, compact thrush, smaller than a Dusky Thrush and slightly smaller than a White-cheeked Starling, with a rounded head and a fairly short tail. Bill straight, slightly shorter than the head. Legs medium, pinkish-brown. Tail medium, square, plain brown. In flight shows rusty-red underwing coverts.",
     "avoid": [
       "Do not paint the red on the breast; it is confined to the flanks and underwing.",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Redwing – Wikipedia (Snow & Perrins 1998, HBW 10, Clement & Hathway 2000 인용)",
+      "url": "https://en.wikipedia.org/wiki/Redwing",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Redwing – RSPB",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/redwing",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Redwing – Shanghai Birding (Birds of China)",
+      "url": "https://www.shanghaibirding.com/birds-of-china/redwing/",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

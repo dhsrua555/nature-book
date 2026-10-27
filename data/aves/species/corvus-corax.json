@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "크고 굽은 두꺼운 부리",
+      "en": "massive, curved bill"
+    },
+    {
+      "ko": "부리 기부의 긴 코털깃",
+      "en": "long nasal bristles over the base of the bill"
+    },
+    {
+      "ko": "길고 덥수룩한 멱 깃",
+      "en": "long, shaggy, pointed throat feathers"
+    },
+    {
+      "ko": "온몸이 검은 깃",
+      "en": "all-black plumage"
+    },
+    {
+      "ko": "긴 쐐기꼴 꼬리",
+      "en": "long, wedge-shaped tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Northern Raven (Corvus corax), adult (sexes alike): entire plumage black with a blue-purple gloss on the back and wings; long, shaggy, pointed throat feathers forming a beard; thick black nasal bristles covering the base of the bill. Massive black bill with a strongly arched upper ridge; dark brown eye; black legs and feet.",
     "pose": "perched on a rocky outcrop, side view, throat feathers slightly fluffed",
     "scene": "Korean mountain ridge in winter with bare rocks, snow patches and a wide grey sky; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), perched on a rocky outcrop, side view: very large, thick-necked crow, massive curved black bill with long nasal bristles over its base, long shaggy pointed throat feathers slightly fluffed, all-black plumage, long wedge-shaped tail, dark eye, stout black legs",
+      "adult, in flight seen squarely from below: head, body and tail in one line, heavy bill and shaggy throat projecting forward, long wings spread straight out to the sides to their full span with long separated primary tips, long wedge-shaped (diamond) tail, black feet tucked up under the body"
+    ],
     "build": "Largest crow, clearly bigger than the Large-billed Crow and about the size of a buzzard; heavy bill, flattish crown and thick neck with shaggy throat hackles that make the head look large. Bill very long and deep, curved along the top, ending in a hooked tip. Legs strong, black. In flight long, broad wings with well-separated primary fingers and a long, wedge-shaped (diamond) tail; often soars, tumbles and rolls in the air.",
     "avoid": [
       "Do not paint a rounded or square-ended tail; the Raven's tail is long and wedge-shaped (rounded tails mark the Large-billed and Carrion Crows).",
@@ -52,10 +76,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Common Raven Identification – All About Birds (Cornell Lab)",
+      "url": "https://www.allaboutbirds.org/guide/Common_Raven/id",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "How to Tell a Raven From a Crow – Audubon",
+      "url": "https://www.audubon.org/articles/birds/how-tell-ravens-crow",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Common raven – Wikipedia (HBW 인용)",
+      "url": "https://en.wikipedia.org/wiki/Common_raven",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

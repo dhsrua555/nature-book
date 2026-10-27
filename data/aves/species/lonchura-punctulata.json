@@ -15,7 +15,24 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "짙은 갈색 머리와 얼굴",
+      "en": "dark rich brown head and face"
+    },
+    {
+      "ko": "아주 두꺼운 검은빛 부리",
+      "en": "very thick, stubby dark bill"
+    },
+    {
+      "ko": "갈색 윗면",
+      "en": "brown upperparts"
+    },
+    {
+      "ko": "어두운 비늘무늬 있는 흰 아랫면",
+      "en": "white underparts with dark scaly markings"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +43,10 @@
     "subject": "Scaly-breasted Munia (Lonchura punctulata), adult (sexes alike) in Korean grassland in autumn: face, chin and throat rich chocolate-brown; crown, nape, back and wings warm brown with faint pale shaft streaks; rump and tail dull olive-brown; breast and flanks white, each feather edged dark brown, giving a dense pattern of dark scales or crescents; centre of the belly plain white. Bill very deep, conical, dark slate-grey; eye dark; legs grey.",
     "pose": "clinging to a seeding grass stem, side view",
     "scene": "grassy embankment with seeding grasses beside harvested rice fields in Korea in autumn (October), warm light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult (sexes alike), clinging to a seeding grass stem, side view: tiny plump finch with a large rounded head, dark rich brown head and face, very thick stubby dark bill, brown back and wings, short tail, white underparts covered in dark scaly markings",
+      "adult, perched on a grass stem, three-quarter front view: dark brown face and throat, very thick dark bill, white breast, flanks and belly covered in dark scales, short tail"
+    ],
     "build": "Tiny, plump finch, clearly smaller than a sparrow, with a large rounded head, short neck and short tail; clings to grass stems and feeds on seeds in small flocks. Bill very deep and conical, almost as deep as it is long, much shorter than the head, dark slate-grey. Legs short, grey. Wings short and rounded, the wingtips reaching only the base of the tail. Tail short and slightly graduated, plain, without white.",
     "avoid": [
       "Do not paint wing bars, streaks on the underparts or white in the tail; the only bold pattern is the scaly breast and flanks.",
@@ -52,10 +72,21 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Scaly-breasted munia – Wikipedia (Rasmussen & Anderton 2005 인용)",
+      "url": "https://en.wikipedia.org/wiki/Scaly-breasted_munia",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Scaly-breasted Munia – Audubon Field Guide",
+      "url": "https://audubon.org/field-guide/bird/scaly-breasted-munia",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

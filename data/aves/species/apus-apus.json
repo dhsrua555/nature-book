@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰빛 멱 무늬",
+      "en": "sharply demarcated pale whitish throat patch"
+    },
+    {
+      "ko": "옅은 이마",
+      "en": "pale forehead"
+    },
+    {
+      "ko": "흰 띠 없는 어두운 허리",
+      "en": "dark rump without a white band"
+    },
+    {
+      "ko": "고르게 어두운 갈색 몸",
+      "en": "uniformly dark brown body"
+    },
+    {
+      "ko": "낫 모양의 길고 좁은 날개",
+      "en": "long, narrow, scythe-shaped wings"
+    },
+    {
+      "ko": "갈라진 꼬리",
+      "en": "forked tail"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Common Swift (Apus apus), adult of the eastern race pekinensis, in late spring: dark sooty brown, a little paler and browner than western birds, with a paler forehead and a clear whitish throat patch that is larger in this race; wings blackish brown, the inner flight feathers slightly paler in good light; rump dark, the same colour as the back; underparts dark brown, uniform at a distance, with only faint, narrow pale fringes visible close up. Tiny black bill; dark eye; tiny feathered feet hidden in flight.",
     "pose": "in fast flight high over a ridge, wings swept back like a sickle, seen from slightly below",
     "scene": "Korean coastal hills under a wide late-spring sky in May; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult in flight seen squarely from below: head, body and tail in one line, scythe-shaped wings spread straight out to the sides to their full span, swept back from the wrist close to the body, sharply demarcated pale whitish throat patch, pale forehead, uniformly dark brown body, slightly paler inner flight feathers, forked tail, feet hidden",
+      "adult in flight seen squarely from above: head, body and tail in one line, scythe-shaped dark brown wings spread straight out to the sides to their full span, bent back at the wrist close to the body, slightly paler secondaries and inner primaries, dark brown back and rump with no white band, forked tail"
+    ],
     "build": "Swift a little larger than a Barn Swallow but with much longer wings; about the size of the Pacific Swift, with a shorter, less deeply forked tail. Slim, torpedo-shaped body, short broad head with no visible neck, tiny bill with a wide gape. Wings very long, narrow and scythe-shaped, swept back from a short arm. Tail of medium length with a shallow fork, often closed to a point. Legs tiny and almost never seen; it never perches on wires or twigs. Flight fast, with flickering wingbeats and long glides.",
     "avoid": [
       "Do not paint a white rump band or bold whitish scaling on the underparts; these mark the Pacific Swift (Apus pacificus), the common swift in Korea.",
@@ -53,10 +81,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Common Swift Apus apus – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0030/004500",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Common Swift – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/common-swift/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Common swift – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Common_swift",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V1",

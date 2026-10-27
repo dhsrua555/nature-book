@@ -15,7 +15,28 @@
     "breed": []
   },
   "summary": "타이완을 비롯해 아열대와 열대 아시아에 분포하는 수리다. 낮은 곳부터 중간 고도에 걸쳐 살며, 농경지에서 숲 가장자리에 이르는 넓은 범위에서 먹이를 찾는다. 주로 뱀이나 도마뱀 같은 파충류를 잡아먹고 때로는 작은 새를 쫓기도 하며, 2~5마리가 모여 있는 모습이 자주 보인다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "흰 무늬 섞인 검은 정수리와 댕기",
+      "en": "blackish crown and nape crest marked with white"
+    },
+    {
+      "ko": "눈앞·눈 둘레의 노란 맨살",
+      "en": "bare yellow skin on the lores and around the eye"
+    },
+    {
+      "ko": "흰 점 있는 갈색 아랫면",
+      "en": "brown underparts spotted white on the belly and flanks"
+    },
+    {
+      "ko": "날개깃의 넓은 흰 띠와 검은 뒷가장자리",
+      "en": "broad white band across the flight feathers and a wide black trailing edge"
+    },
+    {
+      "ko": "검은 꼬리의 넓은 흰 띠",
+      "en": "blackish tail with one broad white band"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +47,10 @@
     "subject": "Crested Serpent Eagle (Spilornis cheela), adult: crown and a full, rounded crest on the nape black, the crest lying as a thick black ruff behind the head with a few white flecks showing at its base; upperparts and wings dark brown, with a few small white spots on the wing coverts; underparts brown, the breast plainer, the belly, flanks and thighs covered with small white spots; tail black with one broad whitish band across the middle and a narrow pale tip. Bill grey with a yellow cere; bare lores and skin around the eye bright yellow; iris yellow; legs and feet yellow, the tarsus bare.",
     "pose": "perched on a branch at the forest edge, watching for snakes",
     "scene": "lowland farmland bordering a forest edge; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched upright on a branch at the forest edge: blackish crown and full nape crest marked with white, bare yellow skin on the lores and around the yellow eye, grey hooked bill, yellow cere, dark brown upperparts, brown underparts spotted white on the belly and flanks, blackish tail with a broad white band, yellow legs",
+      "adult, soaring seen squarely from below: very broad, rounded wings spread straight out to the sides to their full span, brown underwing coverts and body spotted white, blackish flight feathers crossed by a broad white band, wide black trailing edge, yellow face skin, blackish tail with a broad white band, yellow feet tucked under the tail"
+    ],
     "build": "Medium-large, broad-winged raptor, about the size of an Eastern Buzzard or a little larger, with a large rounded head made bigger by a full, bushy crest on the nape and a thick neck. Bill short, deep and strongly hooked, shorter than the head. Legs medium length, bare and yellow, with short thick toes. Perches upright, often hunched. In flight very broad, rounded, paddle-shaped wings held forward in a shallow V, with a broad white band across the flight feathers and a black trailing edge; tail rather short, black with a broad white band.",
     "avoid": [
       "Do not paint a white crown or a large yellow bill; the crown is black and the bill grey, only the cere and bare face skin are yellow.",
@@ -59,11 +83,27 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "The Avifauna of Hong Kong (HKBWS): Crested Serpent Eagle Spilornis cheela",
+      "url": "https://avifauna.hkbws.org.hk/species/0180/024400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "NParks Flora & Fauna Web: Spilornis cheela (Crested Serpent-eagle)",
+      "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/6/8/686",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "eBird: Crested Serpent-Eagle (species identification text)",
+      "url": "https://ebird.org/species/crseag1",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
     "원문의 '정수리가 흰 털로 덮여 있다', '부리가 크고 노랗다'는 이 종의 생김새로 미심쩍어 points·art 에 싣지 않음(확인 필요)",
-    "원문의 '큰 날개 때문에 날기 불편해 활강만 할 수 있다', '주변을 소용돌이치게 하면서 자신의 소유를 증명한다'는 틀렸거나 뜻이 불분명해 싣지 않음"
+    "원문의 '큰 날개 때문에 날기 불편해 활강만 할 수 있다', '주변을 소용돌이치게 하면서 자신의 소유를 증명한다'는 틀렸거나 뜻이 불분명해 싣지 않음",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

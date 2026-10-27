@@ -15,7 +15,32 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "넓은 검은 가면과 황갈색 옆머리",
+      "en": "broad black mask with buff crown sides and supercilium"
+    },
+    {
+      "ko": "흰 멱",
+      "en": "white throat"
+    },
+    {
+      "ko": "녹색 등과 어깨",
+      "en": "green mantle and shoulders"
+    },
+    {
+      "ko": "넓은 파란 날개덮깃",
+      "en": "extensive bright blue wing coverts"
+    },
+    {
+      "ko": "무늬 없는 진한 황갈색 아랫면",
+      "en": "plain rich buff underparts"
+    },
+    {
+      "ko": "붉은 아랫배와 아랫꼬리덮깃",
+      "en": "red vent"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +51,10 @@
     "subject": "Blue-winged Pitta (Pitta moluccensis), adult: crown with broad buff-brown sides divided by a black central crown stripe; a broad black mask from the bill through the eye to the nape; chin and throat white; mantle, back and scapulars green; wing coverts and rump shining cobalt-blue; flight feathers black with a large white patch at the base of the primaries; breast and flanks rich buff; lower belly and undertail coverts scarlet; tail short, black with a blue tip. Bill black and stout; dark eye; legs pinkish.",
     "pose": "standing upright on leaf litter, side view",
     "scene": "Shady evergreen broadleaf forest floor on a southern Korean island in May, dappled light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view standing upright on leaf litter: blackish head with buff crown sides and supercilium, broad black mask through the eye, white throat, stout black bill, green mantle and shoulders, extensive bright blue wing coverts, plain rich buff underparts, red vent, very short tail, long pale pink legs",
+      "adult, rear three-quarter view standing with head and body facing the same way: buff crown sides on a blackish head, green mantle and scapulars, extensive bright blue median and greater coverts, black flight feathers, very short tail, pale pink legs"
+    ],
     "build": "Plump, almost tailless ground bird, a little larger and heavier-billed than Fairy Pitta (Pitta nympha); large head and upright stance on long legs, with a very short tail. Bill stout, slightly shorter than the head. Legs long and strong, pinkish. Wings rounded. In flight a large white patch shows across the black primaries, and the blue rump and wing coverts flash. Hops on the forest floor, flicking over leaf litter.",
     "avoid": [
       "Do not paint chestnut crown sides with a long creamy supercilium and pale whitish-buff underparts; those mark Fairy Pitta (Pitta nympha), the pitta that breeds in Korea.",
@@ -52,10 +80,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Blue-winged Pitta Pitta moluccensis – The Avifauna of Hong Kong (HKBWS)",
+      "url": "https://avifauna.hkbws.org.hk/species/0220/030400",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Blue-winged Pitta – Singapore Birds Project",
+      "url": "https://singaporebirds.com/species/blue-winged-pitta/",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Blue-winged pitta – Wikipedia (Robson 2005, Strange 2000 인용)",
+      "url": "https://en.wikipedia.org/wiki/Blue-winged_pitta",
+      "used": "동정 포인트·도해 모습"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "V2",

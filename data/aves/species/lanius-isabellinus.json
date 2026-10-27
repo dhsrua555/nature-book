@@ -15,7 +15,20 @@
     "breed": []
   },
   "summary": "TODO",
-  "points": [],
+  "points": [
+    {
+      "ko": "엷은 모래빛 윗면",
+      "en": "pale sandy (isabelline) upperparts"
+    },
+    {
+      "ko": "옅은 비늘무늬 있는 담황색 아랫면(어린 새)",
+      "en": "buff-washed underparts with sparse pale crescents (young bird)"
+    },
+    {
+      "ko": "등과 대비되는 적갈색 꼬리",
+      "en": "rufous tail contrasting with the sandy back"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -26,7 +39,10 @@
     "subject": "Isabelline Shrike (Lanius isabellinus), first-winter bird as seen on the Korean coast in autumn: crown, nape, mantle and scapulars plain pale sandy grey-brown; a faint pale supercilium; a dark brown patch from just behind the eye over the ear-coverts, the lores paler; throat whitish; breast and flanks creamy buff with faint, fine dusky crescents on the breast sides and flanks; wing feathers dark grey-brown with broad pale buff fringes; no or only a trace of white at the base of the primaries; rump and tail rufous-cinnamon, brightest on the tail, contrasting with the sandy back. Bill pale pinkish-horn with a dark tip; dark eye; legs dark grey.",
     "pose": "perched upright on top of a low bush, side view",
     "scene": "Dry scrubby field edge on the Korean coast in October, autumn migration, warm low light; no people, buildings or text",
-    "views": [],
+    "views": [
+      "first-winter, perched upright on top of a low bush, side view: slim shrike with a large head and longish tail, plain pale sandy crown, nape and back, brownish ear-coverts, hooked bill, buff-washed underparts with sparse fine pale crescents, darker wings, rufous tail contrasting with the sandy back",
+      "first-winter, perched upright on a bush top, three-quarter front view: pale sandy head and back, buff-washed breast and flanks with sparse fine crescents, rufous tail hanging below"
+    ],
     "build": "Small, slim shrike, about the size of Brown Shrike, with a longish, slightly graduated tail; perches upright on bush tops. Large head with no crest. Bill shorter than the head, strong and hooked at the tip. Legs short, dark grey. In flight the rufous rump and tail contrast with the pale sandy back. Adult males have a blackish mask and a small white patch at the base of the primaries; first-winter birds, as here, have a brown mask, a pale-based bill and little or no white in the wing.",
     "avoid": [
       "Do not paint warm rufous-brown upperparts or a bold white supercilium; those mark Brown Shrike (Lanius cristatus).",
@@ -54,10 +70,26 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "Isabelline shrike – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isabelline_shrike",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Isabelline Shrike – Oiseaux.net",
+      "url": "https://oiseaux.net/birds/isabelline.shrike.html",
+      "used": "동정 포인트·도해 모습"
+    },
+    {
+      "title": "Review of the Week: 23rd–29th October 2003 – BirdGuides",
+      "url": "https://www.birdguides.com/articles/review-of-the-week-23rd-29th-october-2003",
+      "used": "동정 포인트"
     }
   ],
   "todo": [
-    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다"
+    "국립생물자원관 종 설명이 없어 분류와 이름만 실었다",
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
   ],
   "occurrence": {
     "code": "NEW24",

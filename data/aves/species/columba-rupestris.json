@@ -30,7 +30,28 @@
     "breed": "TODO"
   },
   "summary": "양비둘기 또는 굴비둘기라고도 부르는 비둘기로, 국내에서는 희귀한 텃새이다. 세계적인 집단 규모는 밝혀지지 않았으며, 집비둘기와 경쟁하고 교잡하면서 줄어드는 것으로 추정되지만 일부 지역에서는 여전히 흔한 종으로 여겨진다. 국내에서도 집비둘기와의 교잡이 감소 원인으로 추정된다.",
-  "points": [],
+  "points": [
+    {
+      "ko": "초록·보랏빛 광택 도는 목",
+      "en": "neck glossed metallic green and purple"
+    },
+    {
+      "ko": "연회색 날개의 검은 날개띠 두 줄",
+      "en": "two black wing-bars on pale grey wings"
+    },
+    {
+      "ko": "흰 아랫등",
+      "en": "white lower back"
+    },
+    {
+      "ko": "검은 꼬리 끝 앞의 넓은 흰 띠",
+      "en": "broad white band across the dark tail before the tip"
+    },
+    {
+      "ko": "붉은 다리",
+      "en": "red legs"
+    }
+  ],
   "sexes": {
     "alike": null,
     "text": "TODO"
@@ -41,7 +62,10 @@
     "subject": "Hill Pigeon (Columba rupestris), adult (sexes alike), as seen in Korea: head bluish-grey; neck glossed metallic green and purple; mantle and wing coverts pale grey crossed by two narrow black wing-bars; lower back and rump white; tail dark grey with a broad white band across it before a black tip; breast with a purplish-green sheen fading to pale grey; belly pale grey to whitish. Bill black; legs and feet coral red.",
     "pose": "perched, side view",
     "scene": "Korean rocky river valley in autumn with cliffs and nearby harvested fields; no people, buildings or text",
-    "views": [],
+    "views": [
+      "adult, side view perched: plump pigeon shape, small rounded bluish-grey head, short black bill, neck glossed green and purple, pale grey mantle and wings with two black wing-bars, pale grey underparts, dark tail with a broad white band before the black tip, short red legs",
+      "adult, in flight seen squarely from above: pointed wings spread straight out to the sides to their full span, pale grey upperwing with two black wing-bars and darker tips, white lower back, fanned dark tail with a broad white band before the black tip, bluish-grey head"
+    ],
     "build": "Medium-sized pigeon, the same size and shape as a feral pigeon: plump body, small rounded head, short neck, short legs. Bill short and slender. Legs short, red. Tail medium-length and square-ended. In flight pointed wings, a pale underwing, a white patch on the lower back and a broad white band across the tail that is obvious when the tail is spread.",
     "avoid": [
       "Do not paint a plain grey tail with only a dark terminal band (feral pigeon); the tail has a broad white band before the black tip.",
@@ -73,9 +97,31 @@
       "title": "새와 생명의 터(Birds Korea) 조류목록 2022 – Moores & Ha",
       "url": "https://www.birdskoreablog.org/wp-content/uploads/2022/11/2022-Birds-Korea-Checklist-ENG_issn.pdf",
       "used": "국내 출현 계절·해마다 찾아오는 개체 수 범위·번식 여부"
+    },
+    {
+      "title": "eBird: Hill Pigeon",
+      "url": "https://ebird.org/species/hilpig1",
+      "used": "동정 포인트 (어두운 꼬리를 가로지르는 넓은 흰 띠, 집비둘기보다 옅은 머리)"
+    },
+    {
+      "title": "Birds of Kazakhstan (birding.day): Hill Pigeon",
+      "url": "https://kz.birding.day/v2taxon.php?s=284&l=en",
+      "used": "동정 포인트 (목·가슴의 초록·보랏빛 광택, 검은 부리, 붉은 다리)"
+    },
+    {
+      "title": "Journal of the Darjeeling Natural History Society (1929), NCBS archive",
+      "url": "https://collections.archives.ncbs.res.in/bitstreams/c96ac4d2-f20d-4882-a06f-ff28336ac889/download",
+      "used": "교차 확인 (흰 아랫등과 꼬리의 넓은 흰 띠, 붉은 발)"
+    },
+    {
+      "title": "BirdForum Opus: Hill Pigeon",
+      "url": "https://www.birdforum.net/opus/Hill_Pigeon",
+      "used": "동정 포인트 (검은 날개띠 두 줄)"
     }
   ],
-  "todo": [],
+  "todo": [
+    "동정 포인트와 도해 모습은 국립생물자원관 원문에 생김새 설명이 없어 국내외 종 설명 두 곳 이상과 참고 사진으로 교차 확인해 썼다(출처 목록)"
+  ],
   "occurrence": {
     "code": "R5, W5",
     "bs": "1",
