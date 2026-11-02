@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1221장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1228장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 16장
+## 2026-11-03 · 7장
+- 도판: [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.webp) (다시 그림)
+- 동정 도해: [검은턱오목눈이](img/aves/aegithalos-glaucogularis.id.webp), [흰머리검은직박구리](img/aves/hypsipetes-leucocephalus.id.webp), [노랑가슴솔새](img/aves/phylloscopus-sibilatrix.id.webp), [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.id.webp), [바위산제비](img/aves/ptyonoprogne-rupestris.id.webp), [세가락메추라기](img/aves/turnix-tanki.id.webp)
+
+## 2026-11-03 · `3fcda59` · 16장
 - 도판: [큰부리바람까마귀](img/aves/dicrurus-annectans.webp) (다시 그림)
 - 동정 도해: [회색숲제비](img/aves/artamus-fuscus.id.webp), [회색머리노랑딱새](img/aves/culicicapa-ceylonensis.id.webp), [큰부리바람까마귀](img/aves/dicrurus-annectans.id.webp), [해변종다리](img/aves/eremophila-alpestris.id.webp), [흰매](img/aves/falco-rusticolus.id.webp), [붉은등때까치](img/aves/lanius-collurio.id.webp), [진홍때까치](img/aves/lanius-cristatus-superciliosus.id.webp), [덤불때까치](img/aves/lanius-isabellinus.id.webp), [회색등때까치](img/aves/lanius-tephronotus.id.webp), [흰날개종다리](img/aves/melanocorypha-mongolica.id.webp), [노랑배박새](img/aves/parus-major.id.webp), [갈색할미새사촌](img/aves/pericrocotus-cantonensis.id.webp), [검은가슴할미새사촌](img/aves/pericrocotus-tegimae.id.webp), [푸른날개팔색조](img/aves/pitta-moluccensis.id.webp), [관수리](img/aves/spilornis-cheela.id.webp)
 
