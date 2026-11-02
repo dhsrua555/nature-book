@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1176장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1188장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 5장
+## 2026-11-03 · 12장
+- 도판: [흰제비갈매기](img/aves/gygis-alba.webp) (다시 그림), [긴꼬리제비갈매기](img/aves/sterna-dougallii.webp) (다시 그림)
+- 동정 도해: [우는뻐꾸기](img/aves/cacomantis-merulinus.id.webp), [검은이마왕눈물떼새](img/aves/charadrius-atrifrons.id.webp), [흰눈썹물떼새](img/aves/eudromias-morinellus.id.webp), [흰제비갈매기](img/aves/gygis-alba.id.webp), [갈색머리갈매기](img/aves/larus-brunnicephalus.id.webp), [에위니아제비갈매기](img/aves/onychoprion-anaethetus.id.webp), [긴꼬리제비갈매기](img/aves/sterna-dougallii.id.webp), [목점박이비둘기](img/aves/streptopelia-chinensis.id.webp), [검은두견이](img/aves/surniculus-lugubris.id.webp), [흰배칼새](img/aves/tachymarptis-melba.id.webp)
+
+## 2026-11-03 · `5e1b4ba` · 5장
 - 동정 도해: [꼬마오리](img/aves/bucephala-albeola.id.webp), [작은뻐꾸기사촌](img/aves/centropus-bengalensis.id.webp), [노랑부리검둥오리사촌](img/aves/melanitta-fusca.id.webp), [흰이마검둥오리](img/aves/melanitta-perspicillata.id.webp), [호사북방오리](img/aves/somateria-spectabilis.id.webp)
 
 ## 2026-11-03 · `17bff67` · 23장
