@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1116장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1148장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-11-02 · 32장
+- 도판: [넓은이마홍때까치](img/aves/lanius-cristatus-confusus.webp), [작은노랑발갈매기](img/aves/larus-fuscus.webp)
+- 동정 도해: [흰머리오목눈이](img/aves/aegithalos-caudatus-caudatus.id.webp), [작은칼새](img/aves/aerodramus-brevirostris.id.webp), [흰이마기러기](img/aves/anser-erythropus.id.webp), [큰말똥가리](img/aves/buteo-hemilasius.id.webp), [흰죽지꼬마물떼새](img/aves/charadrius-hiaticula.id.webp), [알락개구리매](img/aves/circus-melanoleucos.id.webp), [낭비둘기](img/aves/columba-rupestris.id.webp), [흰턱제비](img/aves/delichon-lagopodum.id.webp), [검은머리촉새](img/aves/emberiza-aureola.id.webp), [섬촉새](img/aves/emberiza-personata.id.webp), [쇠검은머리쑥새](img/aves/emberiza-yessoensis.id.webp), [검은뻐꾸기](img/aves/eudynamys-scolopacea.id.webp), [흰꼬리딱새](img/aves/ficedula-albicilla.id.webp), [큰매사촌](img/aves/hierococcyx-sparverioides.id.webp), [넓은이마홍때까치](img/aves/lanius-cristatus-confusus.id.webp), [홍때까치](img/aves/lanius-cristatus-crisatus.id.webp), [작은노랑발갈매기](img/aves/larus-fuscus.id.webp), [옅은재갈매기](img/aves/larus-smithsonianus.id.webp), [붉은부리흰죽지](img/aves/netta-rufina.id.webp), [알류샨제비갈매기](img/aves/onychoprion-aleuticus.id.webp), [사할린되솔새](img/aves/phylloscopus-borealoides.id.webp), [큰솔새](img/aves/phylloscopus-examinandus.id.webp), [연노랑눈썹솔새](img/aves/phylloscopus-humei.id.webp), [흰눈썹뜸부기](img/aves/rallus-indicus.id.webp), [남극도둑갈매기](img/aves/stercorarius-maccormicki.id.webp), [넓적꼬리도둑갈매기](img/aves/stercorarius-pomarinus.id.webp), [뿔제비갈매기](img/aves/thalasseus-bernsteini.id.webp), [붉은목지빠귀](img/aves/turdus-ruficollis.id.webp), [큰부리바다오리](img/aves/uria-lomvia.id.webp), [작은동박새](img/aves/zosterops-simplex.id.webp)
 
 ## 2026-10-27 · `ad0809f` · 2장
 - 도판: [세가락딱다구리](img/aves/picoides-tridactylus.webp)
