@@ -34,8 +34,12 @@ LOCK_STALE = 45 * 60  # ponytail: 45분 넘은 표시는 죽은 실행으로 본
 MIN_5H, MIN_WEEK = 30, 20  # 남은 % 하한
 RESET_SOON = 120  # 이만큼(초) 안에 리셋될 창은 리셋된 것으로: 리셋 시각 분에 맞춰 돈 실행이 다시 쉬지 않게
 PAUSED = ROOT / "art" / ".paused"  # 주간 하한 아래로 쉬는 중: 주간 리셋 시각(유닉스 초)
-DRAW_ID, DRAW_EVERY = "ce741a68-9fed-40d3-8e71-38a1c9aba344", "15,35,55 * * * *"  # Orca 그리기 자동화
-REVIEW_ID, REVIEW_EVERY = "fafbc006-86ec-4e2b-8d62-bd178470e85b", "10 * * * *"  # Orca 검수·푸시 자동화
+# Orca 자동화 id(그리기, 검수·푸시): 같은 노트북 듀얼 부팅이라 윈도우·리눅스 Orca가 따로 가진다
+DRAW_ID, REVIEW_ID = {
+    "win32": ("ce741a68-9fed-40d3-8e71-38a1c9aba344", "fafbc006-86ec-4e2b-8d62-bd178470e85b"),
+    "linux": ("becb7293-9590-4e5e-b382-7d88e6aa93d1", "dfe74e32-fea3-4e1b-bac1-a04b8a8a27a3"),
+}[sys.platform]
+DRAW_EVERY, REVIEW_EVERY = "15,35,55 * * * *", "10 * * * *"
 
 
 def codex_home() -> Path:
