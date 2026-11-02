@@ -1,8 +1,11 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1171장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1176장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 23장
+## 2026-11-03 · 5장
+- 동정 도해: [꼬마오리](img/aves/bucephala-albeola.id.webp), [작은뻐꾸기사촌](img/aves/centropus-bengalensis.id.webp), [노랑부리검둥오리사촌](img/aves/melanitta-fusca.id.webp), [흰이마검둥오리](img/aves/melanitta-perspicillata.id.webp), [호사북방오리](img/aves/somateria-spectabilis.id.webp)
+
+## 2026-11-03 · `17bff67` · 23장
 - 도판: [시베리아알락할미새](img/aves/motacilla-alba-baicalensis.webp)
 - 동정 도해: [줄기러기](img/aves/anser-indicus.id.webp), [나무밭종다리](img/aves/anthus-trivialis.id.webp), [흰죽지수리](img/aves/aquila-heliaca.id.webp), [쇠검은머리흰죽지](img/aves/aythya-affinis.id.webp), [북미댕기흰죽지](img/aves/aythya-collaris.id.webp), [붉은가슴기러기](img/aves/branta-ruficollis.id.webp), [대륙큰유리새](img/aves/cyanoptila-cumatilis.id.webp), [회색바람까마귀](img/aves/dicrurus-leucophaeus.id.webp), [검은어깨매](img/aves/elanus-caeruleus.id.webp), [검은머리멧새](img/aves/emberiza-melanocephala.id.webp), [점무늬가슴쥐발귀](img/aves/locustella-davidi.id.webp), [시베리아알락할미새](img/aves/motacilla-alba-baicalensis.id.webp), [흰얼굴아기오리](img/aves/nettapus-coromandelianus.id.webp), [노랑배진박새](img/aves/pardaliparus-venustulus.id.webp), [노랑배솔새사촌](img/aves/phylloscopus-affinis.id.webp), [검은다리솔새](img/aves/phylloscopus-collybita.id.webp), [솔새](img/aves/phylloscopus-xanthodryas.id.webp), [재색멋쟁이새](img/aves/pyrrhula-pyrrhula-griseiventris.id.webp), [부채꼬리바위딱새](img/aves/rhyacornis-fuliginosa.id.webp), [긴꼬리도둑갈매기](img/aves/stercorarius-longicaudus.id.webp), [분홍찌르레기](img/aves/sturnus-roseus.id.webp), [큰점지빠귀](img/aves/turdus-mupinensis.id.webp)
 
