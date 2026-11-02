@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1188장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1205장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 12장
+## 2026-11-03 · 17장
+- 도판: [작은새매](img/aves/accipiter-virgatus.webp) (다시 그림)
+- 동정 도해: [작은새매](img/aves/accipiter-virgatus.id.webp), [뿔바다오리](img/aves/aethia-cristatella.id.webp), [흰배줄무늬수리](img/aves/aquila-fasciata.id.webp), [검은댕기수리](img/aves/aviceda-leuphotes.id.webp), [검은슴새](img/aves/bulweria-bulwerii.id.webp), [댕기바다오리](img/aves/fratercula-cirrhata.id.webp), [큰군함조](img/aves/fregata-minor.id.webp), [푸른눈테해오라기](img/aves/gorsachius-melanolophus.id.webp), [고산대머리수리](img/aves/gyps-himalayensis.id.webp), [흰점어깨수리](img/aves/hieraaetus-pennatus.id.webp), [레이산알바트로스](img/aves/phoebastria-immutabilis.id.webp), [검은발알바트로스](img/aves/phoebastria-nigripes.id.webp), [적갈색따오기](img/aves/plegadis-falcinellus.id.webp), [흰배슴새](img/aves/pterodroma-hypoleuca.id.webp), [붉은발얼가니새](img/aves/sula-sula.id.webp), [가면올빼미](img/aves/tyto-longimembris.id.webp)
+
+## 2026-11-03 · `0e444c7` · 12장
 - 도판: [흰제비갈매기](img/aves/gygis-alba.webp) (다시 그림), [긴꼬리제비갈매기](img/aves/sterna-dougallii.webp) (다시 그림)
 - 동정 도해: [우는뻐꾸기](img/aves/cacomantis-merulinus.id.webp), [검은이마왕눈물떼새](img/aves/charadrius-atrifrons.id.webp), [흰눈썹물떼새](img/aves/eudromias-morinellus.id.webp), [흰제비갈매기](img/aves/gygis-alba.id.webp), [갈색머리갈매기](img/aves/larus-brunnicephalus.id.webp), [에위니아제비갈매기](img/aves/onychoprion-anaethetus.id.webp), [긴꼬리제비갈매기](img/aves/sterna-dougallii.id.webp), [목점박이비둘기](img/aves/streptopelia-chinensis.id.webp), [검은두견이](img/aves/surniculus-lugubris.id.webp), [흰배칼새](img/aves/tachymarptis-melba.id.webp)
 
