@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1228장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1242장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 7장
+## 2026-11-03 · `ec69ae5` · 14장
+- 도판: [회색정수리노랑솔새](img/aves/phylloscopus-omeiensis.webp)
+- 동정 도해: [검은뿔찌르레기](img/aves/acridotheres-cristatellus.id.webp), [북방쇠개개비](img/aves/acrocephalus-agricola.id.webp), [덤불개개비](img/aves/acrocephalus-dumetorum.id.webp), [풀쇠개개비](img/aves/acrocephalus-schoenobaenus.id.webp), [우수리개개비](img/aves/acrocephalus-tangorum.id.webp), [쇠덤불개개비](img/aves/iduna-caligata.id.webp), [히말라야산솔새](img/aves/phylloscopus-claudiae.id.webp), [회색정수리노랑솔새](img/aves/phylloscopus-omeiensis.id.webp), [노랑배솔새](img/aves/phylloscopus-ricketti.id.webp), [담황턱솔새](img/aves/phylloscopus-subaffinis.id.webp), [회색머리노랑솔새](img/aves/phylloscopus-tephrocephalus.id.webp), [연노랑솔새](img/aves/phylloscopus-trochilus.id.webp), [비늘무늬덤불개개비](img/aves/sylvia-nisoria.id.webp)
+
+## 2026-11-03 · `a31b298` · 7장
 - 도판: [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.webp) (다시 그림)
 - 동정 도해: [검은턱오목눈이](img/aves/aegithalos-glaucogularis.id.webp), [흰머리검은직박구리](img/aves/hypsipetes-leucocephalus.id.webp), [노랑가슴솔새](img/aves/phylloscopus-sibilatrix.id.webp), [연노랑허리솔새](img/aves/phylloscopus-yunnanensis.id.webp), [바위산제비](img/aves/ptyonoprogne-rupestris.id.webp), [세가락메추라기](img/aves/turnix-tanki.id.webp)
 
