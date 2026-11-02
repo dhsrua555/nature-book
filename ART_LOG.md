@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1205장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1221장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 17장
+## 2026-11-03 · 16장
+- 도판: [큰부리바람까마귀](img/aves/dicrurus-annectans.webp) (다시 그림)
+- 동정 도해: [회색숲제비](img/aves/artamus-fuscus.id.webp), [회색머리노랑딱새](img/aves/culicicapa-ceylonensis.id.webp), [큰부리바람까마귀](img/aves/dicrurus-annectans.id.webp), [해변종다리](img/aves/eremophila-alpestris.id.webp), [흰매](img/aves/falco-rusticolus.id.webp), [붉은등때까치](img/aves/lanius-collurio.id.webp), [진홍때까치](img/aves/lanius-cristatus-superciliosus.id.webp), [덤불때까치](img/aves/lanius-isabellinus.id.webp), [회색등때까치](img/aves/lanius-tephronotus.id.webp), [흰날개종다리](img/aves/melanocorypha-mongolica.id.webp), [노랑배박새](img/aves/parus-major.id.webp), [갈색할미새사촌](img/aves/pericrocotus-cantonensis.id.webp), [검은가슴할미새사촌](img/aves/pericrocotus-tegimae.id.webp), [푸른날개팔색조](img/aves/pitta-moluccensis.id.webp), [관수리](img/aves/spilornis-cheela.id.webp)
+
+## 2026-11-03 · `eb540c7` · 17장
 - 도판: [작은새매](img/aves/accipiter-virgatus.webp) (다시 그림)
 - 동정 도해: [작은새매](img/aves/accipiter-virgatus.id.webp), [뿔바다오리](img/aves/aethia-cristatella.id.webp), [흰배줄무늬수리](img/aves/aquila-fasciata.id.webp), [검은댕기수리](img/aves/aviceda-leuphotes.id.webp), [검은슴새](img/aves/bulweria-bulwerii.id.webp), [댕기바다오리](img/aves/fratercula-cirrhata.id.webp), [큰군함조](img/aves/fregata-minor.id.webp), [푸른눈테해오라기](img/aves/gorsachius-melanolophus.id.webp), [고산대머리수리](img/aves/gyps-himalayensis.id.webp), [흰점어깨수리](img/aves/hieraaetus-pennatus.id.webp), [레이산알바트로스](img/aves/phoebastria-immutabilis.id.webp), [검은발알바트로스](img/aves/phoebastria-nigripes.id.webp), [적갈색따오기](img/aves/plegadis-falcinellus.id.webp), [흰배슴새](img/aves/pterodroma-hypoleuca.id.webp), [붉은발얼가니새](img/aves/sula-sula.id.webp), [가면올빼미](img/aves/tyto-longimembris.id.webp)
 
