@@ -1,8 +1,11 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1285장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1290장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 20장
+## 2026-11-03 · 5장
+- 동정 도해: [꼬마갈매기](img/aves/hydrocoloeus-minutus.id.webp), [붉은꼬리때까치](img/aves/lanius-phoenicuroides.id.webp), [흰목딱새](img/aves/phoenicurus-schisticeps.id.webp), [붉은배멋쟁이새](img/aves/pyrrhula-pyrrhula-cassinii.id.webp), [흰죽지검은딱새](img/aves/saxicola-caprata.id.webp)
+
+## 2026-11-03 · `d34dc65` · 20장
 - 도판: [대륙말똥가리](img/aves/buteo-buteo.webp), [작은매사촌](img/aves/hierococcyx-nisicolor.webp), [땅개개비](img/aves/locustella-tacsanowskia.webp)
 - 동정 도해: [검은머리갈색찌르레기](img/aves/acridotheres-tristis.id.webp), [검은등칼새](img/aves/apus-apus.id.webp), [미국흰죽지](img/aves/aythya-americana.id.webp), [바위양진이](img/aves/bucanetes-mongolicus.id.webp), [대륙말똥가리](img/aves/buteo-buteo.id.webp), [큰까마귀](img/aves/corvus-corax.id.webp), [집까마귀](img/aves/corvus-splendens.id.webp), [노랑멧새](img/aves/emberiza-citrinella.id.webp), [바위멧새](img/aves/emberiza-godlewskii.id.webp), [회색머리멧새](img/aves/emberiza-hortulana.id.webp), [작은매사촌](img/aves/hierococcyx-nisicolor.id.webp), [땅개개비](img/aves/locustella-tacsanowskia.id.webp), [초원멧새](img/aves/passerculus-sandwichensis.id.webp), [큰사다새](img/aves/pelecanus-onocrotalus.id.webp), [흰이마딱새](img/aves/phoenicurus-phoenicurus.id.webp), [노랑정수리북미멧새](img/aves/zonotrichia-atricapilla.id.webp), [흰정수리북미멧새](img/aves/zonotrichia-leucophrys.id.webp)
 
