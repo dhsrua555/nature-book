@@ -1,8 +1,12 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1265장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1285장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 23장
+## 2026-11-03 · 20장
+- 도판: [대륙말똥가리](img/aves/buteo-buteo.webp), [작은매사촌](img/aves/hierococcyx-nisicolor.webp), [땅개개비](img/aves/locustella-tacsanowskia.webp)
+- 동정 도해: [검은머리갈색찌르레기](img/aves/acridotheres-tristis.id.webp), [검은등칼새](img/aves/apus-apus.id.webp), [미국흰죽지](img/aves/aythya-americana.id.webp), [바위양진이](img/aves/bucanetes-mongolicus.id.webp), [대륙말똥가리](img/aves/buteo-buteo.id.webp), [큰까마귀](img/aves/corvus-corax.id.webp), [집까마귀](img/aves/corvus-splendens.id.webp), [노랑멧새](img/aves/emberiza-citrinella.id.webp), [바위멧새](img/aves/emberiza-godlewskii.id.webp), [회색머리멧새](img/aves/emberiza-hortulana.id.webp), [작은매사촌](img/aves/hierococcyx-nisicolor.id.webp), [땅개개비](img/aves/locustella-tacsanowskia.id.webp), [초원멧새](img/aves/passerculus-sandwichensis.id.webp), [큰사다새](img/aves/pelecanus-onocrotalus.id.webp), [흰이마딱새](img/aves/phoenicurus-phoenicurus.id.webp), [노랑정수리북미멧새](img/aves/zonotrichia-atricapilla.id.webp), [흰정수리북미멧새](img/aves/zonotrichia-leucophrys.id.webp)
+
+## 2026-11-03 · `65d75ab` · 23장
 - 동정 도해: [풀밭종다리](img/aves/anthus-pratensis.id.webp), [세가락도요](img/aves/calidris-alba.id.webp), [흰머리바위딱새](img/aves/chaimarrornis-leucocephalus.id.webp), [꼬까울새](img/aves/erithacus-rubecula.id.webp), [북방황금새](img/aves/ficedula-elisae.id.webp), [남방황금새](img/aves/ficedula-owstoni.id.webp), [푸른머리되새](img/aves/fringilla-coelebs.id.webp), [귤빛지빠귀](img/aves/geokichla-citrina.id.webp), [얼룩무늬납부리새](img/aves/lonchura-punctulata.id.webp), [흰이마알락할미새](img/aves/motacilla-alba-personata.id.webp), [회색머리딱새](img/aves/muscicapa-ferruginea.id.webp), [갈색솔딱새](img/aves/muscicapa-muttui.id.webp), [흰꼬리유리딱새](img/aves/myiomela-leucura.id.webp), [붉은가슴딱새](img/aves/niltava-davidi.id.webp), [검은꼬리사막딱새](img/aves/oenanthe-deserti.id.webp), [긴다리사막딱새](img/aves/oenanthe-isabellina.id.webp), [사막딱새](img/aves/oenanthe-oenanthe.id.webp), [집참새](img/aves/passer-domesticus.id.webp), [쇠바위종다리](img/aves/prunella-rubida.id.webp), [갈색지빠귀](img/aves/turdus-feae.id.webp), [붉은날개지빠귀](img/aves/turdus-iliacus.id.webp), [회색머리지빠귀](img/aves/turdus-pilaris.id.webp), [대륙점지빠귀](img/aves/turdus-viscivorus.id.webp)
 
 ## 2026-11-03 · `c111010` · 14장
