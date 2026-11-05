@@ -75,7 +75,8 @@ def today_bird(species: list[dict], d: date) -> dict:
 
 # ───────────── 배너 ─────────────
 FONT_DIRS = [Path(os.environ.get("WINDIR", r"C:\Windows")) / "Fonts",
-             Path(os.environ.get("LOCALAPPDATA", "~")) / "Microsoft" / "Windows" / "Fonts"]
+             Path(os.environ.get("LOCALAPPDATA", "~")) / "Microsoft" / "Windows" / "Fonts",
+             Path("/mnt/c/Windows/Fonts")]  # 리눅스(듀얼 부팅·WSL)에서 같은 윈도우 글꼴
 # 책(book.css)과 같은 글꼴, 없으면 그 글꼴 차례에 있는 비슷한 것
 FACES = {
     "serif": (["NotoSerifKR-VF.ttf", "NotoSerifKR-Bold.otf", "HANBatangB.ttf", "batang.ttc"], 700),

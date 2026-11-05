@@ -2,7 +2,7 @@
 
 그림이 올라간 순서(새것이 위). 지금까지 1290장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-03 · 5장
+## 2026-11-03 · `767f24a` · 5장
 - 동정 도해: [꼬마갈매기](img/aves/hydrocoloeus-minutus.id.webp), [붉은꼬리때까치](img/aves/lanius-phoenicuroides.id.webp), [흰목딱새](img/aves/phoenicurus-schisticeps.id.webp), [붉은배멋쟁이새](img/aves/pyrrhula-pyrrhula-cassinii.id.webp), [흰죽지검은딱새](img/aves/saxicola-caprata.id.webp)
 
 ## 2026-11-03 · `d34dc65` · 20장

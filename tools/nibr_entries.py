@@ -31,6 +31,9 @@ SPECIES = ROOT / "data" / "aves" / "species"
 STATUS_WORDS = ["텃새", "여름철새", "겨울철새", "나그네새", "길잃은새", "미조", "여름새", "겨울새", "통과철새"]
 # 원문이 옛 낱말을 쓸 때: 상태 칸에는 오늘날 낱말을 쓰고 원문의 같은 뜻 낱말로 대조한다
 SYNONYM = {"겨울철새": ["겨울새", "월동"], "여름철새": ["여름새"], "나그네새": ["통과철새", "통과새"]}
+# 국가생물종목록에는 있지만 책에서 뺀 종(종 파일을 만들지 않는다)
+# 원앙사촌: 국내 절멸, 살아 있는 새 사진이 없어 그림을 그릴 수 없다(2026-11-05 사용자)
+DROP = {"Tadorna cristata"}
 GRADE = {"1": "멸종위기 야생생물 Ⅰ급", "2": "멸종위기 야생생물 Ⅱ급"}
 
 
@@ -45,7 +48,7 @@ def sid(sci: str) -> str:
 
 def taxa() -> list[dict]:
     """국명 하나에 한 항목. 같은 국명이 종과 아종 두 줄에 있으면 종(이명법) 줄을 쓴다."""
-    rows = tsv(REF)
+    rows = [r for r in tsv(REF) if r["sci"] not in DROP]
     by_ko: dict[str, list[dict]] = {}
     for r in rows:
         by_ko.setdefault(r["ko"], []).append(r)
