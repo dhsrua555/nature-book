@@ -1093,6 +1093,7 @@ async function start() {
     else if (e.key === "/") { e.preventDefault(); document.body.classList.add("finding"); $("q").focus(); }
   });
   bookEl.addEventListener("pointerdown", onPointerDown);
+  bookEl.addEventListener("dragstart", e => e.preventDefault()); // 그림·링크를 끌면 브라우저 끌기가 넘김을 끊는다
   addEventListener("pointermove", onPointerMove, { passive: false });
   addEventListener("pointerup", onPointerUp);
   addEventListener("pointercancel", onPointerUp);

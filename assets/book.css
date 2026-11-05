@@ -153,6 +153,7 @@ i { font-style: italic; }
   position: relative; overflow: hidden;
   perspective: 2800px;
   touch-action: pan-y pinch-zoom;
+  -webkit-user-select: none; user-select: none; /* 마우스로 밀어 넘길 때 글·그림이 선택되지 않게 */
 }
 body:not(.ready) .slot { visibility: hidden; }
 .boot { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; color: var(--label); line-height: 1.8; padding: 0 16px; margin: 0; }
