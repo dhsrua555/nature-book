@@ -1,6 +1,10 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1290장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1302장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+
+## 2026-11-14 · 12장
+- 도판: [알락할미새](img/aves/motacilla-alba.webp) (다시 그림), [들꿩](img/aves/tetrastes-bonasia.webp) (다시 그림)
+- 동정 도해: [청둥오리](img/aves/anas-platyrhynchos.id.webp) (다시 그림), [쇠기러기](img/aves/anser-albifrons.id.webp) (다시 그림), [방울새](img/aves/chloris-sinica.id.webp) (다시 그림), [콩새](img/aves/coccothraustes-coccothraustes.id.webp) (다시 그림), [어치](img/aves/garrulus-glandarius.id.webp) (다시 그림), [매사촌](img/aves/hierococcyx-hyperythrus.id.webp) (다시 그림), [바다제비](img/aves/hydrobates-monorhis.id.webp) (다시 그림), [괭이갈매기](img/aves/larus-crassirostris.id.webp) (다시 그림), [멧비둘기](img/aves/streptopelia-orientalis.id.webp) (다시 그림), [들꿩](img/aves/tetrastes-bonasia.id.webp) (다시 그림)
 
 ## 2026-11-03 · `767f24a` · 5장
 - 동정 도해: [꼬마갈매기](img/aves/hydrocoloeus-minutus.id.webp), [붉은꼬리때까치](img/aves/lanius-phoenicuroides.id.webp), [흰목딱새](img/aves/phoenicurus-schisticeps.id.webp), [붉은배멋쟁이새](img/aves/pyrrhula-pyrrhula-cassinii.id.webp), [흰죽지검은딱새](img/aves/saxicola-caprata.id.webp)
