@@ -1,8 +1,11 @@
 # 삽화 기록
 
-그림이 올라간 순서(새것이 위). 지금까지 1315장. `tools/art_log.py` 가 커밋마다 다시 만든다.
+그림이 올라간 순서(새것이 위). 지금까지 1316장. `tools/art_log.py` 가 커밋마다 다시 만든다.
 
-## 2026-11-14 · 13장
+## 2026-11-14 · 1장
+- 도판: [알락개구리매](img/aves/circus-melanoleucos.webp) (다시 그림)
+
+## 2026-11-14 · `43f41f0` · 13장
 - 도판: [히말라야말똥가리](img/aves/buteo-refectus.webp), [어치](img/aves/garrulus-glandarius.webp) (다시 그림), [세가락메추라기](img/aves/turnix-tanki.webp) (다시 그림)
 - 동정 도해: [쇠홍방울새](img/aves/acanthis-hornemanni.id.webp) (다시 그림), [히말라야말똥가리](img/aves/buteo-refectus.id.webp), [세가락도요](img/aves/calidris-alba.id.webp) (다시 그림), [붉은해오라기](img/aves/gorsachius-goisagi.id.webp) (다시 그림), [꼬마갈매기](img/aves/hydrocoloeus-minutus.id.webp) (다시 그림), [덤불해오라기](img/aves/ixobrychus-sinensis.id.webp) (다시 그림), [쇠긴다리솔새사촌](img/aves/phylloscopus-amandii.id.webp), [붉은부리찌르레기](img/aves/sturnus-sericeus.id.webp) (다시 그림), [황오리](img/aves/tadorna-ferruginea.id.webp) (다시 그림), [세가락메추라기](img/aves/turnix-tanki.id.webp) (다시 그림)
 
