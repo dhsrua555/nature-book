@@ -20,25 +20,25 @@
   "summary": "국내에서는 보기 드문 미조이다. 날개 길이는 8.6cm, 꼬리 길이는 6.5cm 정도이고, 습성은 딱새와 비슷하다고 한다. 한국, 몽골 남부, 중국 북부, 티베트, 인도, 미얀마 등지에 분포한다.",
   "points": [
     {
-      "ko": "검은 머리와 목",
-      "en": "black head and neck"
+      "ko": "검은 얼굴·멱과 짙은 회색 정수리·뒷목",
+      "en": "black face, throat and neck sides; dark slate-grey crown and nape"
     },
     {
-      "ko": "회색 이마와 눈 둘레",
-      "en": "grey forehead and eye area"
+      "ko": "검은 이마와 눈 둘레",
+      "en": "black forehead and area around the eye"
     },
     {
-      "ko": "검은 등과 가슴",
-      "en": "black back and breast"
+      "ko": "짙은 회색 등과 검은 윗가슴",
+      "en": "dark slate-grey back; black upper breast"
     },
     {
-      "ko": "붉은 갈색 배·허리·꼬리덮깃",
-      "en": "rufous-brown belly, rump and tail coverts"
+      "ko": "주황빛 붉은 갈색 아랫가슴·배·허리·꼬리덮깃",
+      "en": "orange-rufous lower breast, belly, rump and tail coverts"
     }
   ],
   "sexes": {
     "alike": false,
-    "male": "머리·목·등·가슴이 검고 이마와 눈 둘레는 회색이며, 배·허리·꼬리덮깃은 붉은빛 갈색이다.",
+    "male": "얼굴·멱·윗가슴과 이마·눈 둘레가 검고 정수리·뒷목·등은 짙은 회색이며, 아랫가슴·배·허리·꼬리덮깃은 주황빛 붉은 갈색이다.",
     "female": "대체로 갈색이고 목과 아랫배는 회색이다."
   },
   "young": "어린새는 암컷과 비슷한 회갈색이지만 더 어둡고, 몸깃 끝에 희미한 어두운 무늬가 있다. 첫해 수컷은 대개 암컷과 거의 같아 가려 보기 어려우며, 국내에도 이런 첫 여름 수컷이 자주 찾아온다.",

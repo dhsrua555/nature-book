@@ -27,8 +27,8 @@
   "summary": "해안 앞바다의 섬에 살며 일부 지역에서는 흔한 여름철새이다. 섬의 바위틈이나 슴새가 쓰던 땅굴, 또는 스스로 판 깊이 1m에 이르는 땅굴에 둥지를 틀고, 흰 알 1개를 암수가 함께 품는다. 국내에서는 서해안과 독도에 살며, 국외로는 일본의 섬들과 중국, 타이완, 싱가포르, 수마트라, 자바, 인도양에 분포한다.",
   "points": [
     {
-      "ko": "연한 갈색 이마",
-      "en": "pale brown forehead",
+      "ko": "머리와 같은 짙은 암갈색 이마",
+      "en": "forehead and crown dark sooty brown, the same as the rest of the head",
       "at": [
         0.799,
         0.571
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "ko": "검은 제비꼬리 모양 꼬리",
-      "en": "forked black tail",
+      "ko": "얕게 갈라진 검은 꼬리",
+      "en": "blackish tail with a shallow fork",
       "at": [
         0.402,
         0.466
